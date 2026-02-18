@@ -1,13 +1,115 @@
 {
-    "last_updated": "2026-02-18T16:00:00Z",
-    "article_count": 347,
-    "feed_health": {
-        "Digiday": { "status": "ok", "articles": 22 },
-        "AdAge": { "status": "ok", "articles": 18 },
-        "MarTech.org": { "status": "ok", "articles": 15 },
-        "The Drum": { "status": "ok", "articles": 20 },
-        "TechCrunch AI": { "status": "ok", "articles": 12 },
-        "VentureBeat AI": { "status": "ok", "articles": 10 }
+  "last_updated": "2026-02-18T12:36:06.792727+00:00",
+  "article_count": 131,
+  "feed_health": {
+    "Digiday": {
+      "status": "ok",
+      "articles": 15
     },
-    "next_update_approx": "2026-02-18T20:00:00Z"
+    "MarTech.org": {
+      "status": "ok",
+      "articles": 10
+    },
+    "The Drum": {
+      "status": "empty",
+      "articles": 0
+    },
+    "Marketing Dive": {
+      "status": "ok",
+      "articles": 10
+    },
+    "Search Engine Land": {
+      "status": "ok",
+      "articles": 10
+    },
+    "AdExchanger": {
+      "status": "ok",
+      "articles": 10
+    },
+    "TechCrunch AI": {
+      "status": "ok",
+      "articles": 20
+    },
+    "VentureBeat AI": {
+      "status": "empty",
+      "articles": 0
+    },
+    "MIT Technology Review": {
+      "status": "ok",
+      "articles": 10
+    },
+    "GN - Agentic Marketing": {
+      "status": "ok",
+      "articles": 9
+    },
+    "GN - MarTech": {
+      "status": "ok",
+      "articles": 2
+    },
+    "GN - Marketing Transformation": {
+      "status": "ok",
+      "articles": 4
+    },
+    "GN - AI Personalization": {
+      "status": "empty",
+      "articles": 0
+    },
+    "Adobe Blog": {
+      "status": "empty",
+      "articles": 0
+    },
+    "GN - Adobe Experience Cloud": {
+      "status": "empty",
+      "articles": 0
+    },
+    "GN - Adobe AI": {
+      "status": "empty",
+      "articles": 0
+    },
+    "Salesforce Blog": {
+      "status": "ok",
+      "articles": 10
+    },
+    "GN - Salesforce Marketing": {
+      "status": "empty",
+      "articles": 0
+    },
+    "GN - Salesforce AI": {
+      "status": "ok",
+      "articles": 15
+    },
+    "GN - Media Marketing": {
+      "status": "empty",
+      "articles": 0
+    },
+    "GN - Tech Marketing": {
+      "status": "ok",
+      "articles": 1
+    },
+    "GN - Telecom Marketing": {
+      "status": "ok",
+      "articles": 1
+    },
+    "GN - Retail MarTech": {
+      "status": "empty",
+      "articles": 0
+    },
+    "GN - Consumer Goods": {
+      "status": "empty",
+      "articles": 0
+    },
+    "GN - Industrial B2B": {
+      "status": "ok",
+      "articles": 2
+    },
+    "GN - Life Sciences": {
+      "status": "ok",
+      "articles": 1
+    },
+    "GN - Financial Services": {
+      "status": "ok",
+      "articles": 1
+    }
+  },
+  "next_update_approx": "2026-02-18T16:36:06.792727+00:00"
 }

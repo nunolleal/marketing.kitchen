@@ -1,80 +1,351 @@
 [
-    {
-        "id": "c0n5um01",
-        "title": "Unilever Deploys Autonomous AI Agents Across 400+ Brand Marketing Campaigns",
-        "url": "https://www.adage.com/article/cpg/unilever-autonomous-ai-agents-400-brand-campaigns/2614850",
-        "source": "AdAge",
-        "source_category": "ai",
-        "published": "2026-02-18T10:00:00Z",
-        "summary": "Unilever reveals its AI agent network now manages creative testing, media allocation, and performance optimization across its full brand portfolio, reducing campaign launch times by 65%.",
-        "image_url": "https://picsum.photos/seed/c0n5um01/800/400",
-        "tags": ["unilever", "ai-agents", "cpg"],
-        "industries": ["consumer"],
-        "relevance_score": 92
-    },
-    {
-        "id": "c0n5um02",
-        "title": "DTC Brands Shift Back to Wholesale as Digital CAC Makes Online-Only Unsustainable",
-        "url": "https://digiday.com/marketing/dtc-brands-shift-wholesale-digital-cac-unsustainable/",
-        "source": "Digiday",
-        "source_category": "marketing",
-        "published": "2026-02-17T14:00:00Z",
-        "summary": "A growing wave of DTC brands are pursuing wholesale partnerships and physical retail as rising digital advertising costs erode the economics of the direct-to-consumer model.",
-        "image_url": "https://picsum.photos/seed/c0n5um02/800/400",
-        "tags": ["dtc", "wholesale", "customer-acquisition"],
-        "industries": ["consumer", "retail"],
-        "relevance_score": 80
-    },
-    {
-        "id": "c0n5um03",
-        "title": "P&G's Chief Brand Officer on Why AI Won't Replace the Big Idea",
-        "url": "https://www.thedrum.com/news/2026/02/16/pg-chief-brand-officer-why-ai-wont-replace-big-idea",
-        "source": "The Drum",
-        "source_category": "marketing",
-        "published": "2026-02-16T16:00:00Z",
-        "summary": "In a keynote speech, P&G's Marc Pritchard argues that while AI accelerates execution, the creative spark behind iconic brand campaigns remains uniquely human and more important than ever.",
-        "image_url": "https://picsum.photos/seed/c0n5um03/800/400",
-        "tags": ["procter-gamble", "brand-strategy", "creativity"],
-        "industries": ["consumer"],
-        "relevance_score": 77
-    },
-    {
-        "id": "c0n5um04",
-        "title": "Coca-Cola's AI Content Factory Produces 10,000 Localized Assets Per Month",
-        "url": "https://venturebeat.com/ai/coca-cola-ai-content-factory-10000-localized-assets-month/",
-        "source": "VentureBeat",
-        "source_category": "ai",
-        "published": "2026-02-16T12:30:00Z",
-        "summary": "Coca-Cola's partnership with Bain and OpenAI scales to industrial levels, with AI generating thousands of market-specific creative assets while maintaining brand consistency across 200+ countries.",
-        "image_url": "https://picsum.photos/seed/c0n5um04/800/400",
-        "tags": ["coca-cola", "ai-creative", "localization"],
-        "industries": ["consumer"],
-        "relevance_score": 85
-    },
-    {
-        "id": "c0n5um05",
-        "title": "FMCG Brands Invest in Zero-Party Data Through Gamified Consumer Experiences",
-        "url": "https://martech.org/fmcg-brands-zero-party-data-gamified-consumer-experiences/",
-        "source": "MarTech.org",
-        "source_category": "martech",
-        "published": "2026-02-15T11:00:00Z",
-        "summary": "CPG giants turn to interactive quizzes, reward apps, and AR product experiences to collect zero-party data directly from consumers, building rich preference profiles without relying on third-party data.",
-        "image_url": "https://picsum.photos/seed/c0n5um05/800/400",
-        "tags": ["zero-party-data", "fmcg", "gamification"],
-        "industries": ["consumer"],
-        "relevance_score": 74
-    },
-    {
-        "id": "c0n5um06",
-        "title": "Nestl\u00e9 and L'Or\u00e9al Pioneer AI-Driven Sustainability Messaging in Consumer Campaigns",
-        "url": "https://www.adage.com/article/sustainability/nestle-loreal-ai-sustainability-messaging-campaigns/2614760",
-        "source": "AdAge",
-        "source_category": "marketing",
-        "published": "2026-02-15T09:30:00Z",
-        "summary": "Major CPG brands use AI to craft and test sustainability-focused marketing messages, finding that AI-optimized environmental claims drive 18% more purchase intent than generic green messaging.",
-        "image_url": "https://picsum.photos/seed/c0n5um06/800/400",
-        "tags": ["sustainability", "cpg", "ai-messaging"],
-        "industries": ["consumer"],
-        "relevance_score": 70
-    }
+  {
+    "id": "5c29c4d59eb8",
+    "title": "How to wreck your brand in 30 seconds",
+    "url": "https://martech.org/how-to-wreck-your-brand-in-30-seconds/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-02-17T13:43:00+00:00",
+    "summary": "Ring's 'terrifying' Super Bowl ad resulted in people disconnecting or destroying the device. The lesson for marketers goes way beyond 'Don't do that.' The post How to wreck your brand in 30 seconds appeared first on MarTech .",
+    "image_url": "https://www.youtube.com/embed/OheUzrXsKrY",
+    "tags": [
+      "B2C marketing",
+      "Connected TV and OTT",
+      "Video marketing"
+    ],
+    "industries": [
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 29
+  },
+  {
+    "id": "f1da26ecb718",
+    "title": "Unilever changes its brand discovery calculus with Google Cloud AI pact - Marketing Dive",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQal9DUGMzLTFwWEh4bTdMaG9NWFZSTzVzYlZHYTlLRjdvdHhkT0NTQ01udlVCV1hfZGRhajhoQ1U2OVZuWW1DLV9ONmFiQXYyYWhMZmd5QnpQMFdtendvOXZvbGVWYk9HajNhcm8xS3Zaa0ktckFLOTFBaXNzLV9ra09xTmVQdENOMVc2anh0RHdlcGRZVndyLVBFN2JuR2ExX0FuY3pUOVY?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-02-17T15:49:57+00:00",
+    "summary": "Unilever changes its brand discovery calculus with Google Cloud AI pact Marketing Dive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 23
+  },
+  {
+    "id": "ea69019c159f",
+    "title": "Digiday+ Research: Brand marketing will be the priority in 2026, after revenues fell short of expectations",
+    "url": "https://digiday.com/marketing/digiday-research-brand-marketing-will-be-the-priority-in-2026-after-revenues-fell-short-of-expectations/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-02-17T05:01:00+00:00",
+    "summary": "Revenues fell short of marketers' expectations in 2025. But they'll be working with bigger budgets in 2026, and focusing on brand marketing.",
+    "image_url": null,
+    "tags": [
+      "Marketing",
+      "Digiday+"
+    ],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 18
+  },
+  {
+    "id": "8ecf9b9380dc",
+    "title": "Unilever changes its brand discovery calculus with Google Cloud AI pact",
+    "url": "https://www.marketingdive.com/news/unilever-changes-brand-discovery-calculus-google-cloud-ai-pact/812300/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-02-17T15:30:00+00:00",
+    "summary": "A new deal sees the CPG giant trying to account for the impact agentic commerce will have on marketing as Unilever reorients around technology.",
+    "image_url": "https://imgproxy.divecdn.com/60uQQY_2J-nflbE52ookhPbOx13MlwS-YK6rKIh6CIA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY2OTU5MzIwX3YwZkZUSFguanBn.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "a1c3c64f2eb9",
+    "title": "Publicis weds creator, sports marketing for new Influential Sports unit",
+    "url": "https://www.marketingdive.com/news/publicis-weds-creator-sports-marketing-for-new-influential-sports-unit/811940/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-02-12T15:30:00+00:00",
+    "summary": "The move is designed to help brands connect with sports fans at scale and measure creator-driven programs with greater speed and accuracy.",
+    "image_url": "https://imgproxy.divecdn.com/VaCIm2wprw2ZQXhUfbuTVsQ6InkiRjq8Ypy6NJOrJ0Y/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QdWJsaWNpc1N1cGVyYm93bExYLTM0MC5qcGc=.webp",
+    "tags": [],
+    "industries": [
+      "consumer"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "5905c90f0e5c",
+    "title": "Campaign Trail: Squarespace turns domain names into a noir nightmare",
+    "url": "https://www.marketingdive.com/news/campaign-trail-squarespace-turns-domain-names-into-a-noir-nightmare/811958/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-02-13T14:03:00+00:00",
+    "summary": "The brand enlisted Hollywood duo Emma Stone and Yorgos Lanthimos to break out of the “sea of sameness” in Super Bowl ads.",
+    "image_url": "https://imgproxy.divecdn.com/mqNhfSXz31PsF9ArqtArSAY7qRfOJRiVwn1LHVzIboo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDI2X3N1cGVyYm93bF9zdGF0aWNfdW5hdmFpbGFibGUuanBn.webp",
+    "tags": [],
+    "industries": [
+      "consumer"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "b0dc29c17102",
+    "title": "How a precise timing structure drives material differences in marketing efficiency",
+    "url": "https://digiday.com/sponsored/how-a-precise-timing-structure-drives-material-differences-in-marketing-efficiency/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-02-13T16:56:30+00:00",
+    "summary": "Jesse Math, vp of strategic partnerships, Keen Decision Systems The marketing calendar itself is simple. Brands need to invest in the typical tentpole events like Prime Day, back-to-school and the holidays. They also have their own key sales periods, like the beginning of the...",
+    "image_url": null,
+    "tags": [
+      "Sponsored"
+    ],
+    "industries": [
+      "consumer"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "b8fd4b6e6d56",
+    "title": "Sweetgreen names Wpromote paid media AOR as brand looks to reignite growth",
+    "url": "https://www.marketingdive.com/news/sweetgreen-names-wpromote-paid-media-aor-as-brand-looks-to-reignite-growth/811968/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-02-12T14:00:00+00:00",
+    "summary": "Wpromote is tasked with balancing a cohesive national strategy with more market-specific opportunities as Sweetgreen combats a sales slump.",
+    "image_url": "https://imgproxy.divecdn.com/JgvV9-2HnEECIpU_ZJtzrXncjODPc2bj2Cr2kao39rA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI5MTM5MTg5LmpwZ19yZXNpemUuanBn.webp",
+    "tags": [],
+    "industries": [
+      "media",
+      "consumer"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "743b88577528",
+    "title": "Why brands need to optimize their mobile apps and websites for AI",
+    "url": "https://www.marketingdive.com/news/why-brands-optimize-mobile-apps-websites-ai/812192/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-02-13T14:00:00+00:00",
+    "summary": "Brands have built their digital experiences on Google’s search algorithm, but that needs to change as consumer behavior evolves, experts say.",
+    "image_url": "https://imgproxy.divecdn.com/1PldO5imVHLQcXIupBnBEqMp2ar2hG2nNNZglWVB7S0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc2MDUzNzQ5XzYza1N6eDEuanBn.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "9e32dd62af7d",
+    "title": "Why brands are shifting toward ‘less precise, more accurate’ gauges for paid social",
+    "url": "https://digiday.com/media-buying/why-brands-are-shifting-toward-less-precise-more-accurate-gauges-for-paid-social/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-02-16T05:01:00+00:00",
+    "summary": "AI modeling and an understanding that there's more to life than the last click are changing the way clients evaluate paid social investments.",
+    "image_url": null,
+    "tags": [
+      "Media Buying"
+    ],
+    "industries": [
+      "consumer",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "f5c28fecc880",
+    "title": "ChatGPT enters the ad game. Now what?",
+    "url": "https://digiday.com/podcasts/chatgpt-enters-the-ad-game-now-what/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-02-17T05:01:00+00:00",
+    "summary": "OpenAI has begun testing ads in ChatGPT through premium brand partnerships, signaling a new phase in its monetization strategy.",
+    "image_url": null,
+    "tags": [
+      "Marketing",
+      "Podcasts"
+    ],
+    "industries": [
+      "consumer"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "088835e1e003",
+    "title": "The Unstoppable Pause Unit; Future Agents Crush Present-Day Stocks",
+    "url": "https://www.adexchanger.com/daily-news-roundup/tuesday-17022026/",
+    "source": "AdExchanger",
+    "source_category": "marketing",
+    "published": "2026-02-17T05:01:16+00:00",
+    "summary": "Twitch gets into pause ads; CEOs would love to stop talking about AI agents; and so would brands and publishers, actually! The post The Unstoppable Pause Unit; Future Agents Crush Present-Day Stocks appeared first on AdExchanger .",
+    "image_url": null,
+    "tags": [
+      "Daily News Roundup",
+      "amazon",
+      "AppLovin",
+      "ChatGPT",
+      "Jason Maynard"
+    ],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "68bb3ea950f7",
+    "title": "How To Dominate March Madness With Show-Level Data",
+    "url": "https://www.adexchanger.com/tv/how-to-dominate-march-madness-with-show-level-data/",
+    "source": "AdExchanger",
+    "source_category": "marketing",
+    "published": "2026-02-17T06:00:19+00:00",
+    "summary": "At the risk of getting dorky with sports metaphors, DTC agency Rain the Growth already has a game plan to make sure its programmatic placements are a slam dunk. The post How To Dominate March Madness With Show-Level Data appeared first on AdExchanger .",
+    "image_url": null,
+    "tags": [
+      "CTV",
+      "Gracenote",
+      "March Madness",
+      "rain the growth",
+      "Spectrum Reach"
+    ],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "f1fe334b2e04",
+    "title": "The new rules of social discovery and distribution",
+    "url": "https://www.marketingdive.com/spons/the-new-rules-of-social-discovery-and-distribution/811750/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-02-17T10:00:00+00:00",
+    "summary": "Actionable insights, benchmarks and brand examples to help marketers adapt to changes on social.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "ef9a6f10a20f",
+    "title": "PepsiCo’s CMO on how its Super Bowl strategy informs 2026 growth plans",
+    "url": "https://www.marketingdive.com/news/pepsicos-cmo-on-how-its-super-bowl-strategy-informs-2026-growth-plans/812036/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-02-17T13:00:00+00:00",
+    "summary": "Chief Consumer and Marketing Officer Jane Wakely explains how efforts by Lay’s, Pepsi Zero Sugar and Poppi extend beyond the big game.",
+    "image_url": "https://imgproxy.divecdn.com/e3aZfnBmC2ulpffLLc2Gj_ulzUfGP_JzBX19HolZdFE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9MYXN0LUhhcnZlc3QtSGVyby1TdGlsbC1MYXktcy1TdXBlci1Cb3dsLUxYLmpwZWc=.webp",
+    "tags": [],
+    "industries": [
+      "consumer"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "d78c3b45726a",
+    "title": "Folgers mixes iconic jingle with ‘wake up’ songs from across years, genres",
+    "url": "https://www.marketingdive.com/news/folgers-mixes-iconic-jingle-with-wake-up-songs-from-across-years-genres/812179/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-02-17T14:00:00+00:00",
+    "summary": "The J.M. Smucker coffee brand is trying to reach new generations of consumers as it looks to change perceptions.",
+    "image_url": "https://imgproxy.divecdn.com/hcrfGdwEfPYpOuG-4ErYLCfY7P6UQg8q9E1pvZT-B-4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Gb2xnZXJzX1BSU3RpbGxfMy5qcGc=.webp",
+    "tags": [],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "ec3a933a1d3a",
+    "title": "The Art of Guest Blogging: Content Tips For Small Teams",
+    "url": "https://www.salesforce.com/blog/guest-blogging-marketing-tips/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-02-17T15:00:00+00:00",
+    "summary": "Boost your brand's authority, reach new audiences, and get more traffic to your website with the power of guest blogging.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "b2ad68e6a2b8",
+    "title": "Unilever: Transformation drives premium growth, digital innovation, and strong U.S. and India performance - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMilwJBVV95cUxNSmlSZWdmaUNCTC1nNnVuWVpzdnI5R2FSOS03dWs5SFlrUW1XQmNtbFpPN3RtMTZhdTZXQ3Jpd21kOElHSkJQbjc5bEhlX1ZYVkZFeGIwMGZDM0tKZmE4cHQ5ZzNoSERBUFJOZWI3VUx2SkNMRG5sT01UcWN4TnN0dVNBWmFQTUxScVR4N1RuTjdWZnFib3lHSlpaMXFhS2ZmWjlEalYwWGdpby1xa2pJaEJOYWo1RmxfaXd1bXZhUlRlY2RCTjI2Y2F5c1RvY0ZwdEl1eFFkUDctd0ZjZWc4enB3YXdBS0hNenFpMGU3LWp4eTBCMTdjU01Da1oxa1pVSXc2a28tYU1wSnpzTEZya20tcExCeEk?oc=5",
+    "source": "Marketing Transformation",
+    "source_category": "marketing",
+    "published": "2026-02-17T19:36:42+00:00",
+    "summary": "Unilever: Transformation drives premium growth, digital innovation, and strong U.S. and India performance TradingView",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "consumer"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "c0aeef2d5d26",
+    "title": "Unilever targets agentic AI with Google Cloud deal - CIO Dive",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMkxvRXhWd1hrWG9XbURKZ0JfeDRzU1ZtOVdrZV9QRV85Mi14TVplU3c5U1BITWJYUEtzNmV6cTF1UVFuX3JfaVRMQVI3MkQ4TzdoTjJIVTJ4UW5mR3VIbWhpUFVKYXhfa2tWUUxBRjZzSTVWb21RWjFGZGtnZERTTUNfM045V1lDVUE?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-02-17T21:21:14+00:00",
+    "summary": "Unilever targets agentic AI with Google Cloud deal CIO Dive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "24228cb28113",
+    "title": "Unilever and Google Cloud Forge Five-Year AI Partnership to Advance Agentic Commerce - Global Cosmetics News",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZEQ1TjNhWlkwNEFEQVJ1X2VKQXlTT1pnd1R2WEZRQVJqYTAxaTRWTUxpUXFJZ2lyMzZpWHZSY2U5OFZlemU2X3JSVVlUUVdoTnhQWDE3TW9OSkJLaV96SW42bnZHWlJ3d3NjcUZiOWJVT0xhOXVtLTRKeE95TXNqTmR0Uk9XeEQwMG1aVThqdjNlaVNrVUtKS21kTVJWYUtRUWZQSHR0WUR6VHk1d2tDN0JOd0VHak8tUTAxbzRR?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-02-18T06:05:02+00:00",
+    "summary": "Unilever and Google Cloud Forge Five-Year AI Partnership to Advance Agentic Commerce Global Cosmetics News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 10
+  }
 ]

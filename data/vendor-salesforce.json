@@ -1,106 +1,362 @@
 [
-    {
-        "id": "5f0rc301",
-        "title": "Salesforce Agentforce for Marketing Launches With Autonomous Campaign Management",
-        "url": "https://techcrunch.com/2026/02/18/salesforce-agentforce-marketing-autonomous-campaign-management/",
-        "source": "TechCrunch",
-        "source_category": "salesforce",
-        "published": "2026-02-18T13:30:00Z",
-        "summary": "Salesforce releases Agentforce for Marketing, a suite of AI agents that can autonomously plan, build, and optimize multi-channel marketing campaigns using Data Cloud's unified customer profiles.",
-        "image_url": "https://picsum.photos/seed/5f0rc301/800/400",
-        "tags": ["agentforce", "salesforce-marketing", "autonomous-agents"],
-        "industries": ["tech"],
-        "relevance_score": 95
-    },
-    {
-        "id": "5f0rc302",
-        "title": "Data Cloud's New Marketing Connectors Unify 150+ Advertising and Commerce Sources",
-        "url": "https://martech.org/salesforce-data-cloud-marketing-connectors-150-advertising-commerce-sources/",
-        "source": "MarTech.org",
-        "source_category": "salesforce",
-        "published": "2026-02-18T10:00:00Z",
-        "summary": "Salesforce expands Data Cloud with 150+ pre-built connectors for ad platforms, ecommerce systems, and analytics tools, giving marketers a unified data foundation without complex integration projects.",
-        "image_url": "https://picsum.photos/seed/5f0rc302/800/400",
-        "tags": ["data-cloud", "integrations", "unified-data"],
-        "industries": ["tech", "retail"],
-        "relevance_score": 87
-    },
-    {
-        "id": "5f0rc303",
-        "title": "Einstein AI Gets Multimodal: Salesforce Marketing Cloud Now Generates Images and Copy Together",
-        "url": "https://venturebeat.com/ai/einstein-ai-multimodal-salesforce-marketing-cloud-images-copy/",
-        "source": "VentureBeat",
-        "source_category": "salesforce",
-        "published": "2026-02-17T14:15:00Z",
-        "summary": "Salesforce upgrades Einstein with multimodal generation capabilities, letting Marketing Cloud users create coordinated visual and text assets from a single prompt while enforcing brand guidelines.",
-        "image_url": "https://picsum.photos/seed/5f0rc303/800/400",
-        "tags": ["einstein-ai", "multimodal", "content-generation"],
-        "industries": ["tech"],
-        "relevance_score": 90
-    },
-    {
-        "id": "5f0rc304",
-        "title": "Salesforce Marketing Cloud Personalization Engine Delivers 40% Revenue Lift for Retailers",
-        "url": "https://digiday.com/marketing/salesforce-marketing-cloud-personalization-40-percent-revenue-lift-retailers/",
-        "source": "Digiday",
-        "source_category": "salesforce",
-        "published": "2026-02-17T09:30:00Z",
-        "summary": "Retailers using Salesforce Marketing Cloud's AI-driven personalization report an average 40% increase in digital revenue, with real-time product recommendations and individualized journey paths cited as key drivers.",
-        "image_url": "https://picsum.photos/seed/5f0rc304/800/400",
-        "tags": ["marketing-cloud", "personalization", "retail-results"],
-        "industries": ["retail", "tech"],
-        "relevance_score": 85
-    },
-    {
-        "id": "5f0rc305",
-        "title": "Agentforce Meets Commerce: Salesforce Introduces AI Shopping Assistants for B2C Brands",
-        "url": "https://www.adage.com/article/digital-marketing/agentforce-commerce-salesforce-ai-shopping-assistants-b2c/2614842",
-        "source": "AdAge",
-        "source_category": "salesforce",
-        "published": "2026-02-16T14:00:00Z",
-        "summary": "Salesforce extends Agentforce into commerce with AI shopping assistants that guide consumers through product discovery, answering questions and making personalized recommendations on brand websites.",
-        "image_url": "https://picsum.photos/seed/5f0rc305/800/400",
-        "tags": ["agentforce", "commerce", "ai-shopping"],
-        "industries": ["retail", "consumer"],
-        "relevance_score": 83
-    },
-    {
-        "id": "5f0rc306",
-        "title": "Salesforce Data Cloud Achieves Zero-Copy Integration With Major Cloud Data Warehouses",
-        "url": "https://martech.org/salesforce-data-cloud-zero-copy-integration-cloud-data-warehouses/",
-        "source": "MarTech.org",
-        "source_category": "salesforce",
-        "published": "2026-02-16T11:00:00Z",
-        "summary": "Salesforce announces zero-copy partnerships with Snowflake, Databricks, and Google BigQuery, allowing marketers to activate warehouse data within Marketing Cloud without duplication or ETL overhead.",
-        "image_url": "https://picsum.photos/seed/5f0rc306/800/400",
-        "tags": ["data-cloud", "zero-copy", "data-warehouse"],
-        "industries": ["tech"],
-        "relevance_score": 86
-    },
-    {
-        "id": "5f0rc307",
-        "title": "Marketing Cloud Account Engagement Adds AI-Powered Multi-Touch Attribution",
-        "url": "https://www.thedrum.com/news/2026/02/15/salesforce-marketing-cloud-account-engagement-ai-multi-touch-attribution",
-        "source": "The Drum",
-        "source_category": "salesforce",
-        "published": "2026-02-15T15:30:00Z",
-        "summary": "Salesforce adds AI-driven multi-touch attribution to Marketing Cloud Account Engagement (formerly Pardot), giving B2B marketers clearer visibility into which touchpoints drive pipeline and revenue.",
-        "image_url": "https://picsum.photos/seed/5f0rc307/800/400",
-        "tags": ["account-engagement", "attribution", "b2b-marketing"],
-        "industries": ["tech"],
-        "relevance_score": 78
-    },
-    {
-        "id": "5f0rc308",
-        "title": "Salesforce and Google Cloud Partner on Privacy-Safe Audience Activation",
-        "url": "https://techcrunch.com/2026/02/15/salesforce-google-cloud-privacy-safe-audience-activation/",
-        "source": "TechCrunch",
-        "source_category": "salesforce",
-        "published": "2026-02-15T09:45:00Z",
-        "summary": "Salesforce and Google Cloud announce a joint clean room solution enabling advertisers to match first-party CRM data with Google's ad inventory while maintaining user privacy through differential privacy techniques.",
-        "image_url": "https://picsum.photos/seed/5f0rc308/800/400",
-        "tags": ["salesforce-google", "clean-room", "privacy"],
-        "industries": ["tech", "media"],
-        "relevance_score": 81
-    }
+  {
+    "id": "7e4b0038076b",
+    "title": "The Campaign Is Dead: 5 Hard Truths From the Tenth State of Marketing Report",
+    "url": "https://www.salesforce.com/blog/tenth-state-of-marketing/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-02-17T19:41:31+00:00",
+    "summary": "We surveyed 4,450 marketers on their progress with AI and where they think the industry is headed. The results show a clear path for success in the years ahead.",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 23
+  },
+  {
+    "id": "52eb04a456bc",
+    "title": "What You Need to Know about the Agentforce Marketing Spring ‘26 Release",
+    "url": "https://www.salesforce.com/blog/agentforce-marketing-spring-release/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-02-17T18:48:17+00:00",
+    "summary": "Here's the scoop on the new features and resources to help you get started",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "14dc513ee690",
+    "title": "Salesforce in focus as checks show uptick in Agentforce, 'muted' core growth: UBS (CRM:NYSE) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNHBCSU9lQTFLSDM5azA4Vzl0RDI4ZnE2QlUzVktvUndTQkVXTGgwb0NDbG5vaFBianQ0MUVxQkhXNjlBVG5Gcm5INklCNDN0VUlmVDNfdzVCMHdobnhvQlN1M2hBSHZXcG9FWGpxMzhkNFhUVkZfYU14cWF2V3RLRGdaekMxVERqa29VSlF4ajJqNVk0V1YwNTMtSHk3akZETTdaSDBlcEZVajJoMkxvOGJReGZSQQ?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-17T19:14:16+00:00",
+    "summary": "Salesforce in focus as checks show uptick in Agentforce, 'muted' core growth: UBS (CRM:NYSE) Seeking Alpha",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "eb98af70cd8c",
+    "title": "Salesforce (CRM) Faces Mixed Outlook Amid Agentforce Uptick - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPYm9kWTBKRFJ3TF8wMXVBZVVzUzJzNFBYaVBkN19qMjBJeFBMc253MDZzb0hCTEkwQ016RmNvaWpqRkJhZjhMel94N19nYmZUcGhYT1lxaVJNTFFYT0hvV1lKa2ZiZUpvZVBEVHRGb3M3UkpCYmxsUXNaOTJCMk5JLVZqQkVuTVY3TGVEZUNjeldKRnZ3V2pXY0JZTTM?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-17T20:06:24+00:00",
+    "summary": "Salesforce (CRM) Faces Mixed Outlook Amid Agentforce Uptick GuruFocus",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "55cf2ab113ba",
+    "title": "LIV Golf launches ‘Fan Caddie’ powered by Salesforce’s Agentforce 360: A personalized AI agent that reimagines the global golf fan experience - LIV Golf",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNcUVWaGFjMlJsN0Utc3dKb1c3YVE0d2Z1ZlBNUk85cW51OS13RjIxYjViZ0RpZmRlNWUzMUxLdTIwSXFQQUdvZUtTclVtTktfUS1oSExyaGhIZ2NEWFpYWEVKNnhuV25qVnNBNS1ma1laZUFTU0RpM3lQOUxUMXpwZUZjWTVkNTZWR0I5ODg3YThkWWFqRUFEWXdHVjg1N0lHNmZIOVg3QkhseE5ZUHVF?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-11T14:00:07+00:00",
+    "summary": "LIV Golf launches ‘Fan Caddie’ powered by Salesforce’s Agentforce 360: A personalized AI agent that reimagines the global golf fan experience LIV Golf",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "def1a84c4162",
+    "title": "Salesforce buys Cimulate to boost its Agentforce Commerce suite - cio.com",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQRW5KMUE5NUM2QW9Gb2hrbXZMVkhKODhwNmp3VGRJWUdqbjYzS1dRNm9lbWsxVGFDb0tIMUoxa1p3UlRPR2JDb2hsZE9JZmtzU0tOY091UWZWN0E0VmpIRjhudEJQazQ5QTdTazNqTlpmQ25Fc1p4MjVkYS1reGFTUDEwejFvTnhEZXNhVTdqN01mZE1mY1J0d3UxTHBaREFFeENzb0s0SQ?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-11T14:50:02+00:00",
+    "summary": "Salesforce buys Cimulate to boost its Agentforce Commerce suite cio.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "49b0fef20080",
+    "title": "Salesforce Resets Leadership And Workforce As Agentforce AI Takes Center Stage - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOUWhKTEp5dENJdGpRbEhiR0JvV3Y5U1dhYWFTR0JNd2pad2V2SDUwY0RFMnpVSlVOZElTaFkxTkNGUnhsbmx6d3plelY0RUNPMnAwd3NYbVZNUXNaRW03VkJvTDhfSDVzejBkOGoxODlSRGI1RE5feDl6NVotdjhUaUY5aVBSQ2VaWGdCNE4ybF9BS21hN2tZdnl2VjcwMVluS2NnQTdzY241bkNkaVNiYTVuNDF2SXBWNUlEOVF1R3pDWkU?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-11T20:49:00+00:00",
+    "summary": "Salesforce Resets Leadership And Workforce As Agentforce AI Takes Center Stage simplywall.st",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "7e6c69be54eb",
+    "title": "Salesforce Advances AI Expansion With Cimulate Deal - PYMNTS.com",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQandMbGVFSjU3d0h3U0I5MjlCT3hWaTZiaFhlZGpOeW5lM0RkRHhBTUIwRDM5T1VTOU5xOGM0VlhnME1pTnh6WFF5NGJBaloxSW1kSTEwV25TamtmWFpCM1N3MDV2TTZfdl9xRFBfX2FMdUVMbEdaTUNVbXZ5NGJHQ3RRMDZZaVdXNEJ1MzJMWmg0TmoxZldrRg?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-12T01:20:45+00:00",
+    "summary": "Salesforce Advances AI Expansion With Cimulate Deal PYMNTS.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 10
+  },
+  {
+    "id": "420481ccce2b",
+    "title": "Wall Street Bullish on Salesforce (CRM) Ahead of its FQ4 2026 Earnings - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOWUV1N0pkNFRLUUZ3REVYNEZQazlBNjhiX2wwT1hSSzFCNlcyd052cHBpTGZqbTBtdjNvNDd4S0lLVTYtMGxId0RRS1hPdkdEQlBkYVFLUWVvdWRKRjJIVlFtM2RsNXVRdEZidlBNTVpCWHFCam5sTzJneVdteXAteHpmM0Y0ckE?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-13T10:17:51+00:00",
+    "summary": "Wall Street Bullish on Salesforce (CRM) Ahead of its FQ4 2026 Earnings Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 10
+  },
+  {
+    "id": "2acc3adba0b8",
+    "title": "How to increase conversions with Launch Locations, the newest feature from Agentforce Commerce",
+    "url": "https://www.salesforce.com/blog/agentforce-commerce-launch-locations/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-02-13T18:19:45+00:00",
+    "summary": "High-impact areas of your website (like your search bar and the content on your product detail pages) do major legwork to increase conversions for your business. The experiences shoppers have at these moments…",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "fffbcf88fb60",
+    "title": "AI: The Best New Tool for Disaster Management",
+    "url": "https://www.salesforce.com/blog/how-ai-is-being-used-in-disaster-management/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-02-13T22:56:42+00:00",
+    "summary": "From predicting floods to detecting wildfires early, AI’s a game changer for preventing disasters and providing relief.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "4955274bab52",
+    "title": "Salesforce Cimulate Deal Highlights AI Commerce Push And Valuation Debate - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPUTdvTldoTExrcnVHLTlqTW5KbmMxbFZsbWFpSHN3dkQ3VWNOS0xxRXBob1NZQm5lQWlvLURiaW9PLTAyelY0c2VEdnFtbUxHQ2h5WFV3Z0Qza25TRmkwZy1abTcwcTZZU1l6eEEtSXZMb1B2QV83Szh0TTlCTWlqUmllZ01fbjhOa2I1WkhuT19oTDVyQ05hS095VTEzRDlObUp4aE83N0V0TXQwdTloMHpiMmU2NnFWdEFaanhZd0I0Ym4x?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-16T03:47:01+00:00",
+    "summary": "Salesforce Cimulate Deal Highlights AI Commerce Push And Valuation Debate simplywall.st",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 10
+  },
+  {
+    "id": "750db16e1f32",
+    "title": "Salesforce Isn't Going Anywhere. The SaaS Apocalypse Is Overdone (NYSE:CRM) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVHlJdDZjVUZyM3NPRXd3NzZNVzRpYUN1Vk1zc203UFhuR09NYy1EZDNmT1l2WGV1dFlHSFppR19WdE8zRkNYRXprZTV5V1J0S1c0cEZOc3BnMWlWOFI5UzEzcWpnSXBDZEh6LWpaNGZkOWNVLWtPTUxONWViZU9oci1LX1k0TlJpcEZySUkwWC1ucnJwOFQ3NkpIa1NtYTdOemJ5Q3l3?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-16T14:30:12+00:00",
+    "summary": "Salesforce Isn't Going Anywhere. The SaaS Apocalypse Is Overdone (NYSE:CRM) Seeking Alpha",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "f3794ee46572",
+    "title": "Automate Success: Real Stories of How Small Businesses Thrive with Salesforce",
+    "url": "https://www.salesforce.com/blog/small-business-success-stories-with-salesforce/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-02-16T15:00:00+00:00",
+    "summary": "Here are three very real stories of how Salesforce is helping small and medium businesses automate success.",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 10
+  },
+  {
+    "id": "7b9fd243aa09",
+    "title": "30+ Free Resources for Small Businesses and Startups",
+    "url": "https://www.salesforce.com/blog/free-resources-for-small-business/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-02-16T17:45:06+00:00",
+    "summary": "Tap into these free resources to grow fast — and not spend a dime.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "b4efb3149194",
+    "title": "Why Trust is the Most Valuable Currency in the Age of AI",
+    "url": "https://www.salesforce.com/blog/financial-services-ai-trust-world-economic-forum-davos/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-02-16T19:23:37+00:00",
+    "summary": "Lessons from Davos",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "de939f7ab8b1",
+    "title": "JMP Securities upgrades Salesforce stock rating on Agentforce growth - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQQVMtUUtMaDlXY1prSGJ3dmNYdm8ycEwyUzZQX0p5UmJrR2tJSWU0UmE3VWV3ampKUzdlUF9BekN2QlZzQ0J2S2R6VXRhVlBvVnFUOTlIN1ZzSFYwS2p2cDRRN0x3YjBwbEZ1ak83S3AyMjdYQ05pa3ptbnJRY0N3VTNYZnFDMWEycHUtQnZ3QU1tWGczYm9HVWJnTWhPWlVKUUk1WGE1aGNJZlBZVHBmR0xLdVAwZG1GaUd1eW80WkR4UnZvZEY0?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-17T10:40:49+00:00",
+    "summary": "JMP Securities upgrades Salesforce stock rating on Agentforce growth Investing.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "10f9bdf11785",
+    "title": "Welcome to the Enterprise: It’s Time to Work",
+    "url": "https://www.salesforce.com/blog/frontier/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-02-17T14:32:44+00:00",
+    "summary": "It’s a bold new world, where models play a critical role as one part of a trusted enterprise architecture.",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 10
+  },
+  {
+    "id": "ec3a933a1d3a",
+    "title": "The Art of Guest Blogging: Content Tips For Small Teams",
+    "url": "https://www.salesforce.com/blog/guest-blogging-marketing-tips/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-02-17T15:00:00+00:00",
+    "summary": "Boost your brand's authority, reach new audiences, and get more traffic to your website with the power of guest blogging.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "bf582db4ce0b",
+    "title": "Salesforce Now Has 3+ Pricing Models for Agentforce. And Maybe Right Now, That’s The Way to Do It. - SaaStr",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMFFHeW02MTdRNWg4NVRlMkdEUWV5YzlrNG5JQ2xOWFJLeWJtOVBySWEzZGlBY2JFaE0tektVcUhrcU54YXd2ZF9GczFmQWh5SENHQ2dURkctSWh0YlJMZEN3QU9PNzF6UHFENHNVMThiME5aYzVqeEhRd1hBUGZDeVAyXzZSM1MyTi1hOUNPSUhfM3hvRnh6LWxuX09PTU4xNHVkYnNMOGZ3WmVqU1hWUmkxaFVnWlMt?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-17T18:23:35+00:00",
+    "summary": "Salesforce Now Has 3+ Pricing Models for Agentforce. And Maybe Right Now, That’s The Way to Do It. SaaStr",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "1453bd1b2855",
+    "title": "Salesforce Tests Hybrid AI Workforce As Asymbl Partnership Meets Job Cuts - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNcHN1cjlrMnVweExuRjdLaU4xSkdDQ0NiVDBqNnJodEUwclQwNlZtT0ZqWkJFY0NqWTdOSnFaMmFFOV90bUxlbldxV1Fod1VLbjFjcXRSTUFLVF9udHlPWERJOHphNUpUN2E4TE43cVB5YTNXNjFadFlxSmR3N3RzYVVVYUxSTS11MzItbkR2Si1pdXRGcTBRLWNCQjdVNERwQVlJTDFKR2pFdmxxQTBfSWdMSHNPVkZrVkFBQ191NG1LakE1?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-17T19:41:54+00:00",
+    "summary": "Salesforce Tests Hybrid AI Workforce As Asymbl Partnership Meets Job Cuts simplywall.st",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 10
+  },
+  {
+    "id": "c04bbe4ddedf",
+    "title": "Spring ’26 Release Architect Highlights: Security, Stability, and Agents",
+    "url": "https://www.salesforce.com/blog/spring-26-release-architect-highlights/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-02-17T20:15:27+00:00",
+    "summary": "Learn about architectural modernizations and security mandates in the Spring ‘26 Release.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "af27a9c948d8",
+    "title": "Is Salesforce Stock a Buy After Falling 30% This Year? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOLVZ0Yng3UnVIaUZ0SEM5VE9iZ09Xczg0NUFwQTVsSi05THVpemlOcldJNTY1VjhqRi1kQWlHOWlMM01EdjhBdzNaSGQ4YXRyVzlLUDFDQjBLMS15UkxMNXlZenhLQXJGeWdnNHJRRVdSYktjdjU0V0diS3FVZjBwRlBVVklpMWYwMEQ1RU9Oa3o2N0Q4WU95Vg?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-17T20:23:00+00:00",
+    "summary": "Is Salesforce Stock a Buy After Falling 30% This Year? The Motley Fool",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 10
+  },
+  {
+    "id": "1d5b9db0151b",
+    "title": "Is Salesforce Stock a Buy After Falling 30% This Year? - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQSFVHbVgwZDliZHJXdFh2VmRheWgzWUpnYS1aOGdPeDdBUFUyYVpCdk5BLWVTMXJNbFhFaER0WHRrYWQ3VDVHVWtpU2Nsbm5TajU5MlF0Rm5nSGlJR0hLbEUyVjdMOG1TcElnZU0zb3BlSXFyN2VtaFJrYjVHbnB2LUx1aHZsVTJTZlNNaVR1RUItQUt6MUpRZTdnYXFGV1BMN1FQZDRLLTFpakRaajJ4Z1UxamlNelh3QXdVZThZT3doWk5rMzMzTmFvMjRyX21pU25v?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-17T20:43:14+00:00",
+    "summary": "Is Salesforce Stock a Buy After Falling 30% This Year? The Globe and Mail",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 10
+  },
+  {
+    "id": "8878d1e335c9",
+    "title": "Salesforce's acquisition of Cimulate to boost AI shopping - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdnRKUHc3cnFFX0hGa2tYZW1GMmxnODlHWHVZRzIzZVcyeWpRS25BNkNSOWVfRFlmRkZmLXI3MDUtMThyUDJ1eldlcll6QTlja0RMaXdoNGkwLTdaR2Q1LXNSQUZlakQ4YW9JZVRJcHA3UzR3Z1lkVHdtbUxKcFM5ZTNLcTdFTDFDNzk2S01mTmZ1NW5NOGhSZmRTWnkwajVMV0NhTF9BOVo3VkUtdXRVTWZmbU42ZGQ5eEV6LTBFSDc?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-17T21:01:31+00:00",
+    "summary": "Salesforce's acquisition of Cimulate to boost AI shopping TechTarget",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 10
+  }
 ]

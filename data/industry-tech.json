@@ -1,106 +1,871 @@
 [
-    {
-        "id": "aa11bb22",
-        "title": "Developer Marketing Evolves: How SaaS Companies Are Using AI-Powered DevRel",
-        "url": "https://venturebeat.com/ai/developer-marketing-saas-companies-ai-powered-devrel/",
-        "source": "VentureBeat",
-        "source_category": "marketing",
-        "published": "2026-02-18T14:00:00Z",
-        "summary": "SaaS leaders like Twilio and Stripe are deploying AI chatbots and automated documentation tools as part of their developer relations strategy, reducing onboarding friction by 40%.",
-        "image_url": "https://picsum.photos/seed/aa11bb22/800/400",
-        "tags": ["developer-marketing", "devrel", "saas"],
-        "industries": ["tech"],
-        "relevance_score": 84
-    },
-    {
-        "id": "bb22cc33",
-        "title": "Product-Led Growth Meets AI: The New Playbook for Cloud Platform Marketing",
-        "url": "https://techcrunch.com/2026/02/17/product-led-growth-ai-cloud-platform-marketing-playbook/",
-        "source": "TechCrunch",
-        "source_category": "marketing",
-        "published": "2026-02-17T11:30:00Z",
-        "summary": "Cloud platforms are embedding AI-driven onboarding and upsell recommendations directly into the product experience, blurring the line between product and marketing in the PLG model.",
-        "image_url": "https://picsum.photos/seed/bb22cc33/800/400",
-        "tags": ["plg", "cloud-marketing", "product-led"],
-        "industries": ["tech"],
-        "relevance_score": 82
-    },
-    {
-        "id": "cc33dd44",
-        "title": "Microsoft Copilot Ecosystem Creates New B2B Marketing Channel for ISVs",
-        "url": "https://martech.org/microsoft-copilot-ecosystem-b2b-marketing-channel-isvs/",
-        "source": "MarTech.org",
-        "source_category": "martech",
-        "published": "2026-02-17T09:15:00Z",
-        "summary": "Independent software vendors are building Copilot plugins as a distribution and marketing strategy, tapping into Microsoft's 400M commercial users as a built-in go-to-market channel.",
-        "image_url": "https://picsum.photos/seed/cc33dd44/800/400",
-        "tags": ["microsoft", "copilot", "b2b-marketing"],
-        "industries": ["tech"],
-        "relevance_score": 79
-    },
-    {
-        "id": "dd44ee55",
-        "title": "Snowflake's Marketing Data Cloud Challenges Adobe and Salesforce CDPs",
-        "url": "https://digiday.com/marketing/snowflake-marketing-data-cloud-challenges-adobe-salesforce-cdps/",
-        "source": "Digiday",
-        "source_category": "martech",
-        "published": "2026-02-16T13:00:00Z",
-        "summary": "Snowflake expands its marketing data capabilities with native identity resolution and audience activation, positioning its warehouse as a viable alternative to traditional CDP platforms.",
-        "image_url": "https://picsum.photos/seed/dd44ee55/800/400",
-        "tags": ["snowflake", "cdp", "data-cloud"],
-        "industries": ["tech"],
-        "relevance_score": 81
-    },
-    {
-        "id": "ee55ff66",
-        "title": "How Databricks Is Winning Enterprise Marketers With Open-Source AI Models",
-        "url": "https://venturebeat.com/ai/databricks-winning-enterprise-marketers-open-source-ai-models/",
-        "source": "VentureBeat",
-        "source_category": "ai",
-        "published": "2026-02-16T10:45:00Z",
-        "summary": "Databricks pitches its open-source Mosaic ML models as a cost-effective alternative for marketing AI workloads, attracting enterprises wary of vendor lock-in from proprietary AI solutions.",
-        "image_url": "https://picsum.photos/seed/ee55ff66/800/400",
-        "tags": ["databricks", "open-source-ai", "enterprise"],
-        "industries": ["tech"],
-        "relevance_score": 77
-    },
-    {
-        "id": "ff66aa77",
-        "title": "HubSpot's AI Content Agent Signals the End of Manual Content Calendars",
-        "url": "https://martech.org/hubspot-ai-content-agent-end-manual-content-calendars/",
-        "source": "MarTech.org",
-        "source_category": "martech",
-        "published": "2026-02-15T15:00:00Z",
-        "summary": "HubSpot launches an autonomous content planning agent that analyzes SEO trends, competitor activity, and audience behavior to auto-generate and schedule content calendars for marketing teams.",
-        "image_url": "https://picsum.photos/seed/ff66aa77/800/400",
-        "tags": ["hubspot", "content-marketing", "ai-agent"],
-        "industries": ["tech"],
-        "relevance_score": 83
-    },
-    {
-        "id": "a1b1c1d1",
-        "title": "SaaS Marketing Benchmark Report: CAC Rises 15% as Competition Intensifies",
-        "url": "https://www.adage.com/article/btob/saas-marketing-benchmark-cac-rises-15-percent/2614775",
-        "source": "AdAge",
-        "source_category": "marketing",
-        "published": "2026-02-15T08:00:00Z",
-        "summary": "Customer acquisition costs for SaaS companies hit new highs, with the median B2B SaaS CAC now exceeding $700, pushing marketers toward efficiency-focused AI tools and community-led growth.",
-        "image_url": "https://picsum.photos/seed/a1b1c1d1/800/400",
-        "tags": ["saas", "cac", "benchmarks"],
-        "industries": ["tech"],
-        "relevance_score": 75
-    },
-    {
-        "id": "b2c2d2e2",
-        "title": "AWS Launches Marketing AI Services Suite for Enterprise Cloud Customers",
-        "url": "https://techcrunch.com/2026/02/18/aws-marketing-ai-services-suite-enterprise-cloud/",
-        "source": "TechCrunch",
-        "source_category": "ai",
-        "published": "2026-02-18T10:30:00Z",
-        "summary": "Amazon Web Services debuts a collection of pre-trained marketing AI models for churn prediction, next-best-action, and creative generation, available through its Bedrock AI platform.",
-        "image_url": "https://picsum.photos/seed/b2c2d2e2/800/400",
-        "tags": ["aws", "marketing-ai", "cloud"],
-        "industries": ["tech"],
-        "relevance_score": 87
-    }
+  {
+    "id": "873e49e6e5e7",
+    "title": "Why marketing automation platforms are becoming decision engines - MarTech",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFBOcEdKOVEtZ0N2dnJjWDhJc0V2ZThPVlpnMDRfVU82QkdYQmFCUzRrU2JxMVRVX2hBWXdRc2VNU1hxT29iaUdZbzlScTllOTBxcWFaVnRidEdkRHpMajJpVy1mYzFmeDhaVU9NY1VCV1dOSHJNVzlscjRYemZPbG8?oc=5",
+    "source": "MarTech",
+    "source_category": "martech",
+    "published": "2026-02-11T13:47:03+00:00",
+    "summary": "Why marketing automation platforms are becoming decision engines MarTech",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 99
+  },
+  {
+    "id": "25156eca9bd0",
+    "title": "Navigating identity in a cookieless, compliant world",
+    "url": "https://martech.org/navigating-identity-in-a-cookieless-compliant-world/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-02-13T13:19:00+00:00",
+    "summary": "Feeling the pressure of a cookieless world? Here is your grounded path to building a first-party data strategy that scales and respects privacy. The post Navigating identity in a cookieless, compliant world appeared first on MarTech .",
+    "image_url": "https://www.youtube.com/embed/AWnuElS11Yo",
+    "tags": [
+      "MarTech Conference"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 55
+  },
+  {
+    "id": "1c3059fb7886",
+    "title": "The latest AI-powered martech news and releases",
+    "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-02-12T17:32:56+00:00",
+    "summary": "OpenAI races to prove it can turn 800 million users into a sustainable business — through ads, enterprise and even a slice of your scientific breakthrough. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2025/09/AI-roundup-800x533.png",
+    "tags": [
+      "B2B marketing",
+      "B2C marketing",
+      "Marketing artificial intelligence (AI)"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 45
+  },
+  {
+    "id": "fb04dd296125",
+    "title": "Digital Marketing for SaaS Companies: 10 Expert-Driven Tactics - MobileAppDaily",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQZnpmQmd0TTRvY2pXMDA0bS1jclRCcFpPR2hQcnFnTDNJLVVzby1IdVk4RXphazI0YjZPQzNSaGNSVjFYYkxjRTE1blhxQzFZSzZ4bzA1UGt3LTZyYXFWeEY5ZGdRa2NZLW8tTXY4ZGtFLU90XzlNUVpObGVfOTFBLU55cTE4d3FE?oc=5",
+    "source": "Tech Marketing",
+    "source_category": "industry_tech",
+    "published": "2026-02-11T13:20:13+00:00",
+    "summary": "Digital Marketing for SaaS Companies: 10 Expert-Driven Tactics MobileAppDaily",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 33
+  },
+  {
+    "id": "c94dc185b40c",
+    "title": "How to use CRM data to target the right B2B audiences",
+    "url": "https://martech.org/how-to-use-crm-data-to-target-the-b2b-right-audiences/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-02-17T13:39:00+00:00",
+    "summary": "B2B CTV isn’t about broad reach. It’s about precise segmentation, quality CRM data and smart retargeting strategies built for long sales cycles. The post How to use CRM data to target the right B2B audiences appeared first on MarTech .",
+    "image_url": "https://martech.org/searchengineland.com/wp-content/seloads/2025/11/semrush-one.webp",
+    "tags": [
+      "B2B marketing",
+      "Connected TV and OTT",
+      "Customer relationship management (CRM)"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 29
+  },
+  {
+    "id": "5c29c4d59eb8",
+    "title": "How to wreck your brand in 30 seconds",
+    "url": "https://martech.org/how-to-wreck-your-brand-in-30-seconds/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-02-17T13:43:00+00:00",
+    "summary": "Ring's 'terrifying' Super Bowl ad resulted in people disconnecting or destroying the device. The lesson for marketers goes way beyond 'Don't do that.' The post How to wreck your brand in 30 seconds appeared first on MarTech .",
+    "image_url": "https://www.youtube.com/embed/OheUzrXsKrY",
+    "tags": [
+      "B2C marketing",
+      "Connected TV and OTT",
+      "Video marketing"
+    ],
+    "industries": [
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 29
+  },
+  {
+    "id": "f1da26ecb718",
+    "title": "Unilever changes its brand discovery calculus with Google Cloud AI pact - Marketing Dive",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQal9DUGMzLTFwWEh4bTdMaG9NWFZSTzVzYlZHYTlLRjdvdHhkT0NTQ01udlVCV1hfZGRhajhoQ1U2OVZuWW1DLV9ONmFiQXYyYWhMZmd5QnpQMFdtendvOXZvbGVWYk9HajNhcm8xS3Zaa0ktckFLOTFBaXNzLV9ra09xTmVQdENOMVc2anh0RHdlcGRZVndyLVBFN2JuR2ExX0FuY3pUOVY?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-02-17T15:49:57+00:00",
+    "summary": "Unilever changes its brand discovery calculus with Google Cloud AI pact Marketing Dive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 23
+  },
+  {
+    "id": "c663ab519777",
+    "title": "The path to purchase just got dramatically shorter",
+    "url": "https://martech.org/the-path-to-purchase-just-got-dramatically-shorter/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-02-17T14:05:00+00:00",
+    "summary": "Holiday data shows consumers deciding faster than ever, pushing marketers to build frictionless, trust-first experiences that convert in a single moment. The post The path to purchase just got dramatically shorter appeared first on MarTech .",
+    "image_url": "https://martech.org/searchengineland.com/wp-content/seloads/2025/11/semrush-one.webp",
+    "tags": [
+      "Ecommerce",
+      "Performance marketing"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 20
+  },
+  {
+    "id": "91ea1635483c",
+    "title": "Indian Oil Leverages AI To Drive Energy Transition & Digital Transformation - BW Marketing World",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNX3F2VDg3Ty1zWVp4YnR2ZGVIVXlWQzc5dmlBcmdLbmtjOWI1QWJ4eGN4b2dvMFRWUGRxWnBnNnQ1SjMydElxSm91Z0JVMUZTY0ZaTmNwSzFSZzExa2YyQWxRanZISEltQndZUUNfYm5RZnc5ZzFDVWp0a0tXeUR6b1diYlhobFVhcnVIem1CRWtyTXdxc0tSWng1LWN0Rmo2bHVRal9oZUVKcHgzaHFZZTRhZGNGOHhLWjR5by1n?oc=5",
+    "source": "Marketing Transformation",
+    "source_category": "marketing",
+    "published": "2026-02-18T04:14:36+00:00",
+    "summary": "Indian Oil Leverages AI To Drive Energy Transition & Digital Transformation BW Marketing World",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 19
+  },
+  {
+    "id": "6b48d621688d",
+    "title": "OpenAI and Google reveal competing visions for AI ads",
+    "url": "https://martech.org/openai-and-google-reveal-competing-visions-for-ai-ads/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-02-12T15:14:17+00:00",
+    "summary": "As AI becomes the front door to discovery, Google and OpenAI are taking very different paths to embed advertising into the experience. The post OpenAI and Google reveal competing visions for AI ads appeared first on MarTech .",
+    "image_url": "https://martech.org/searchengineland.com/wp-content/seloads/2025/11/semrush-one.webp",
+    "tags": [
+      "Advertising",
+      "Artificial Intelligence",
+      "Digital advertising",
+      "Ecommerce",
+      "Marketing artificial intelligence (AI)"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 18
+  },
+  {
+    "id": "8ecf9b9380dc",
+    "title": "Unilever changes its brand discovery calculus with Google Cloud AI pact",
+    "url": "https://www.marketingdive.com/news/unilever-changes-brand-discovery-calculus-google-cloud-ai-pact/812300/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-02-17T15:30:00+00:00",
+    "summary": "A new deal sees the CPG giant trying to account for the impact agentic commerce will have on marketing as Unilever reorients around technology.",
+    "image_url": "https://imgproxy.divecdn.com/60uQQY_2J-nflbE52ookhPbOx13MlwS-YK6rKIh6CIA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzY2OTU5MzIwX3YwZkZUSFguanBn.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "67ade5d751c1",
+    "title": "Enablement platforms Highspot and Seismic announce merger",
+    "url": "https://martech.org/enablement-platforms-highspot-and-seismic-announce-merger/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-02-12T17:36:59+00:00",
+    "summary": "The era of sales enablement is giving way to AI-driven revenue enablement that brings GTM teams together. The post Enablement platforms Highspot and Seismic announce merger appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2025/09/cash-hands-800x450.png",
+    "tags": [
+      "Marketing technology"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "6f71e9d823d6",
+    "title": "Why automating a broken workflow with AI is a trap",
+    "url": "https://martech.org/why-automating-a-broken-workflow-with-ai-is-a-trap/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-02-13T13:12:00+00:00",
+    "summary": "Optimizing tasks and ignoring the system, automates waste. This framework lets you map friction and unlock real productivity gains. The post Why automating a broken workflow with AI is a trap appeared first on MarTech .",
+    "image_url": "https://www.youtube.com/embed/I7Qv007VREQ",
+    "tags": [
+      "Marketing artificial intelligence (AI)",
+      "Marketing management",
+      "Marketing technology"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "808efcebfc91",
+    "title": "The AI era needs strategists grounded in expertise and guided by context",
+    "url": "https://martech.org/the-ai-era-needs-strategists-grounded-in-expertise-and-guided-by-context/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-02-13T13:31:00+00:00",
+    "summary": "Clients can generate outputs with AI. Agencies win by delivering strategic clarity, integrated thinking and real-time intelligence. The post The AI era needs strategists grounded in expertise and guided by context appeared first on MarTech .",
+    "image_url": "https://www.youtube.com/embed/6A06YforX5Q",
+    "tags": [
+      "Marketing artificial intelligence (AI)",
+      "Marketing management",
+      "Marketing operations (MOps)"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "1160919490af",
+    "title": "AI ROI confidence is slipping, and that’s not a bad thing",
+    "url": "https://martech.org/ai-roi-confidence-is-slipping-and-thats-not-a-bad-thing/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-02-13T13:48:00+00:00",
+    "summary": "As confidence in AI ROI slips, it’s a sign marketers are raising the bar — and getting serious about real business value. The post AI ROI confidence is slipping, and that’s not a bad thing appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/02/Screenshot-2026-02-12-at-4.39.01-PM.png",
+    "tags": [
+      "Marketing artificial intelligence (AI)",
+      "MarTechCharts"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "ebf8bd74a4dd",
+    "title": "Why Smart Marketers Look Beyond The Leading Platforms To Deliver Outcomes",
+    "url": "https://www.adexchanger.com/data-driven-thinking/why-smart-marketers-look-beyond-the-leading-platforms-to-deliver-outcomes/",
+    "source": "AdExchanger",
+    "source_category": "marketing",
+    "published": "2026-02-18T05:35:56+00:00",
+    "summary": "Across industries, marketing teams are navigating a brutal equation: shrinking budgets, leaner teams and rising performance pressure. In this environment, platforms like Meta and Google dominate the ecosystem. Their unrivaled scale and AI-powered technology make them safe...",
+    "image_url": null,
+    "tags": [
+      "Data-Driven Thinking",
+      "cac",
+      "Fospha",
+      "Gen Z",
+      "google"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "eb2417503423",
+    "title": "The Chatbot Ad Platform",
+    "url": "https://www.adexchanger.com/the-big-story/the-chatbot-ad-platform/",
+    "source": "AdExchanger",
+    "source_category": "marketing",
+    "published": "2026-02-13T05:32:12+00:00",
+    "summary": "OpenAI launched its ad platform on Monday, making ChatGPT the newest canvas for advertising. The rollout marks a pivotal moment in generative AI, in which conversational platforms could become a new battleground for ad dollars. But how will the ads affect the chat experience?...",
+    "image_url": null,
+    "tags": [
+      "The Big Story",
+      "AI chatbot ads",
+      "Anthropic",
+      "artificial intelligence",
+      "ChatGPT ads"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "d13020f02b6f",
+    "title": "I Asked ChatGPT Where My Ads Were – But It Was Wrong, OpenAI Said",
+    "url": "https://www.adexchanger.com/marketers/i-asked-chatgpt-where-my-ads-were-but-it-was-wrong-openai-said/",
+    "source": "AdExchanger",
+    "source_category": "marketing",
+    "published": "2026-02-13T05:33:34+00:00",
+    "summary": "It's official: ChatGPT has launched ads and the test will expand in the coming weeks. But don't ask the LLM for details, unless you're looking for misinformation. The post I Asked ChatGPT Where My Ads Were – But It Was Wrong, OpenAI Said appeared first on AdExchanger .",
+    "image_url": null,
+    "tags": [
+      "Marketers",
+      "adobe",
+      "Adthena",
+      "AI chatbot",
+      "Alex Yip"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "9da23600a5d3",
+    "title": "The Download: an exclusive chat with Jim O’Neill, and the surprising truth about heists",
+    "url": "https://www.technologyreview.com/2026/02/13/1132896/the-download-an-exclusive-chat-with-jim-oneill-and-the-surprising-truth-about-heists/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-02-13T13:10:00+00:00",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. US deputy health secretary: Vaccine guidelines are still subject to change Over the past year, Jim O’Neill has become one of the most...",
+    "image_url": null,
+    "tags": [
+      "The Download"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "743b88577528",
+    "title": "Why brands need to optimize their mobile apps and websites for AI",
+    "url": "https://www.marketingdive.com/news/why-brands-optimize-mobile-apps-websites-ai/812192/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-02-13T14:00:00+00:00",
+    "summary": "Brands have built their digital experiences on Google’s search algorithm, but that needs to change as consumer behavior evolves, experts say.",
+    "image_url": "https://imgproxy.divecdn.com/1PldO5imVHLQcXIupBnBEqMp2ar2hG2nNNZglWVB7S0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc2MDUzNzQ5XzYza1N6eDEuanBn.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "938e65a7d28e",
+    "title": "Roku says it’s growing video advertising faster than broader OTT market",
+    "url": "https://www.marketingdive.com/news/roku-says-its-growing-video-advertising-faster-than-broader-ott-market/812191/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-02-13T15:45:00+00:00",
+    "summary": "The platform’s Ads Manager expects to see a boost from AI tools while a major partnership with Amazon Ads is still only in the “early innings.”",
+    "image_url": "https://imgproxy.divecdn.com/nQ6C7b7NJf5yl_RISkf7IDnxwgtphxt4lGXV_dClcS8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yb2t1XzIuanBn.webp",
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "f53e5207dafd",
+    "title": "Transforming Pharmaceutical & Life Sciences with Digital Technology - Wipro",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BQU5ZbmM0YmdyeDNsWkdIN19YUXhSRFZUOW9uOGZKaGw1OE9tVWJuWFNlSGxUTnFjZkdrRF9HejFZekc0Y0lWWjc1Q1VRNlV1TWJLc29oSGNSdXNJOEk2MzJIMDE2QQ?oc=5",
+    "source": "Life Sciences",
+    "source_category": "industry_lifesciences",
+    "published": "2026-02-14T21:08:00+00:00",
+    "summary": "Transforming Pharmaceutical & Life Sciences with Digital Technology Wipro",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "5a05e91e01af",
+    "title": "WTF is Markdown for AI agents?",
+    "url": "https://digiday.com/media/wtf-is-markdown-for-ai-agents/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-02-16T05:01:00+00:00",
+    "summary": "AI systems prefer structured formats or APIs to ingest and surface content more efficiently. And “markdown” has quickly become the common language used by AI systems and agents.",
+    "image_url": null,
+    "tags": [
+      "Media"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "111540d3e9da",
+    "title": "Fractal Analytics’ muted IPO debut signals persistent AI fears in India",
+    "url": "https://techcrunch.com/2026/02/16/fractal-analytics-muted-ipo-debut-signals-persistent-ai-fears-in-india/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-02-16T11:51:25+00:00",
+    "summary": "As India's first AI company to IPO, Fractal Analytics didn't have a stellar first day on the public markets, as enthusiasm for the technology collided with jittery investors in the wake of a sell-off in Indian software stocks.",
+    "image_url": null,
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Fractal Analytics",
+      "IPOs"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "f9f00f5bb689",
+    "title": "The Download: unraveling a death threat mystery, and AI voice recreation for musicians",
+    "url": "https://www.technologyreview.com/2026/02/16/1133008/the-download-unraveling-a-death-threat-mystery-and-ai-voice-recreation-for-musicians/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-02-16T13:10:00+00:00",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Hackers made death threats against this security researcher. Big mistake. In April 2024, a mysterious someone using the online handles...",
+    "image_url": null,
+    "tags": [
+      "The Download"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "235250dd6ee1",
+    "title": "Flapping Airplanes on the future of AI: ‘We want to try really radically different things’",
+    "url": "https://techcrunch.com/2026/02/16/flapping-airplanes-on-the-future-of-ai-we-want-to-try-really-radically-different-things/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-02-16T14:00:00+00:00",
+    "summary": "\"We're exploring a different set of trade-offs.\"",
+    "image_url": null,
+    "tags": [
+      "AI",
+      "Equity podcast",
+      "Flapping Airplanes"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "750db16e1f32",
+    "title": "Salesforce Isn't Going Anywhere. The SaaS Apocalypse Is Overdone (NYSE:CRM) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVHlJdDZjVUZyM3NPRXd3NzZNVzRpYUN1Vk1zc203UFhuR09NYy1EZDNmT1l2WGV1dFlHSFppR19WdE8zRkNYRXprZTV5V1J0S1c0cEZOc3BnMWlWOFI5UzEzcWpnSXBDZEh6LWpaNGZkOWNVLWtPTUxONWViZU9oci1LX1k0TlJpcEZySUkwWC1ucnJwOFQ3NkpIa1NtYTdOemJ5Q3l3?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-16T14:30:12+00:00",
+    "summary": "Salesforce Isn't Going Anywhere. The SaaS Apocalypse Is Overdone (NYSE:CRM) Seeking Alpha",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "c25e9a2d13d6",
+    "title": "How Ricursive Intelligence raised $335M at a $4B valuation in 4 months",
+    "url": "https://techcrunch.com/2026/02/16/how-ricursive-intelligence-raised-335m-at-a-4b-valuation-in-4-months/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-02-16T17:00:00+00:00",
+    "summary": "The reason why this nascent startup had VCs lining up is the founders. They are so famed in the AI world, everyone tried to hire them.",
+    "image_url": null,
+    "tags": [
+      "AI",
+      "Hardware",
+      "TC",
+      "AI chips",
+      "lightspeed ventures"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "7b9fd243aa09",
+    "title": "30+ Free Resources for Small Businesses and Startups",
+    "url": "https://www.salesforce.com/blog/free-resources-for-small-business/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-02-16T17:45:06+00:00",
+    "summary": "Tap into these free resources to grow fast — and not spend a dime.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "3a72bca2e43e",
+    "title": "Beyond Buzzwords: The Reality of Digital Transformation - vocal.media",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPS0pwVTVDLTh0U0hKZjNzdjhab3F5OHhNX2ZYZ1ZZbS1jbjBGUklHUmZfNjdtdWNKWmY5cWtIcGczaWZNaWZHVTBNNW40SVlySUh3WEVHQkpONmpoQ3owT3c3SWVsbzN3TmhCN05wUWhNRG82WmhZVUlEOWM5dUxxb1ItV1VLRjBBaTQ0?oc=5",
+    "source": "Marketing Transformation",
+    "source_category": "marketing",
+    "published": "2026-02-17T01:37:40+00:00",
+    "summary": "Beyond Buzzwords: The Reality of Digital Transformation vocal.media",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "724d247668ac",
+    "title": "AdCP vs. IAB Tech Lab: Inside programmatic advertising’s agentic AI standards showdown",
+    "url": "https://digiday.com/media-buying/adcp-vs-iab-tech-lab-inside-programmatic-advertisings-agentic-ai-standards-showdown/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-02-17T05:01:00+00:00",
+    "summary": "Ad Context Protocol and IAB Tech Lab's Agentic Roadmap offer two competing approaches for updating ad tech for AI agents. Can they coexist?",
+    "image_url": null,
+    "tags": [
+      "Media Buying"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "088835e1e003",
+    "title": "The Unstoppable Pause Unit; Future Agents Crush Present-Day Stocks",
+    "url": "https://www.adexchanger.com/daily-news-roundup/tuesday-17022026/",
+    "source": "AdExchanger",
+    "source_category": "marketing",
+    "published": "2026-02-17T05:01:16+00:00",
+    "summary": "Twitch gets into pause ads; CEOs would love to stop talking about AI agents; and so would brands and publishers, actually! The post The Unstoppable Pause Unit; Future Agents Crush Present-Day Stocks appeared first on AdExchanger .",
+    "image_url": null,
+    "tags": [
+      "Daily News Roundup",
+      "amazon",
+      "AppLovin",
+      "ChatGPT",
+      "Jason Maynard"
+    ],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "68bb3ea950f7",
+    "title": "How To Dominate March Madness With Show-Level Data",
+    "url": "https://www.adexchanger.com/tv/how-to-dominate-march-madness-with-show-level-data/",
+    "source": "AdExchanger",
+    "source_category": "marketing",
+    "published": "2026-02-17T06:00:19+00:00",
+    "summary": "At the risk of getting dorky with sports metaphors, DTC agency Rain the Growth already has a game plan to make sure its programmatic placements are a slam dunk. The post How To Dominate March Madness With Show-Level Data appeared first on AdExchanger .",
+    "image_url": null,
+    "tags": [
+      "CTV",
+      "Gracenote",
+      "March Madness",
+      "rain the growth",
+      "Spectrum Reach"
+    ],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "ffbea89b9590",
+    "title": "The curious case of the disappearing Lamborghinis",
+    "url": "https://www.technologyreview.com/2026/02/17/1132538/curious-case-disappearing-lambhorghinis/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-02-17T11:00:00+00:00",
+    "summary": "When Sam Zahr first saw the gray Rolls-Royce Dawn convertible with orange interior and orange roof, he knew he’d found a perfect addition to his fleet. “It was very appealing to our clientele,” he told me. As the director of operations at Dream Luxury Rental, he outfits...",
+    "image_url": null,
+    "tags": [
+      "Culture",
+      "App",
+      "Features and Investigations"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "594acfa6bc4e",
+    "title": "As AI jitters rattle IT stocks, Infosys partners with Anthropic to build ‘enterprise-grade’ AI agents",
+    "url": "https://techcrunch.com/2026/02/17/as-ai-jitters-rattle-it-stocks-infosys-partners-with-anthropic-to-build-enterprise-grade-ai-agents/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-02-17T12:55:12+00:00",
+    "summary": "Under the partnership, Infosys plans to integrate Anthropic's Claude models into its Topaz AI platform to build so-called \"agentic\" systems.",
+    "image_url": null,
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Anthropic",
+      "infosys",
+      "it services"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "e0747cf219fd",
+    "title": "The Download: the rise of luxury car theft, and fighting antimicrobial resistance",
+    "url": "https://www.technologyreview.com/2026/02/17/1133018/the-download-the-rise-of-luxury-car-theft-and-fighting-antimicrobial-resistance/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-02-17T13:10:00+00:00",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The curious case of the disappearing Lamborghinis Across the world, unsuspecting people are unwittingly becoming caught up in a new and...",
+    "image_url": null,
+    "tags": [
+      "The Download"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "911625659090",
+    "title": "SpendRule raises $2M, emerges from stealth to help hospitals track spending",
+    "url": "https://techcrunch.com/2026/02/17/spendrule-raises-2-million-emerges-from-stealth-to-help-hospitals-track-spending/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-02-17T14:00:00+00:00",
+    "summary": "SpendRule, launched last summer, is an AI-powered platform that helps healthcare systems track their spending.",
+    "image_url": null,
+    "tags": [
+      "AI",
+      "Startups",
+      "Venture",
+      "Health tech",
+      "VC"
+    ],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "b73c4c3ee810",
+    "title": "Just 8 months in, India’s vibe-coding startup Emergent claims ARR of over $100M",
+    "url": "https://techcrunch.com/2026/02/17/emergent-hits-100m-arr-eight-months-after-launch-rolls-out-mobile-app/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-02-17T14:00:00+00:00",
+    "summary": "Indian vibe-coding platform Emergent was launched just eight months ago, and it now says it's generating annual recurring revenue of more than $100 million, thanks to surging demand by small businesses and non-technical users.",
+    "image_url": null,
+    "tags": [
+      "AI",
+      "Startups",
+      "emergent",
+      "vibe coding"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "551d08db02e2",
+    "title": "Mistral AI buys Koyeb in first acquisition to back its cloud ambitions",
+    "url": "https://techcrunch.com/2026/02/17/mistral-ai-buys-koyeb-in-first-acquisition-to-back-its-cloud-ambitions/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-02-17T17:22:09+00:00",
+    "summary": "Mistral AI has agreed to buy Koyeb, a Paris-based startup that simplifies AI app deployment at scale and manages the infrastructure behind it.",
+    "image_url": null,
+    "tags": [
+      "AI",
+      "Startups",
+      "Koyeb",
+      "Mergers and Acquisitions",
+      "Mistral AI"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "bf582db4ce0b",
+    "title": "Salesforce Now Has 3+ Pricing Models for Agentforce. And Maybe Right Now, That’s The Way to Do It. - SaaStr",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQMFFHeW02MTdRNWg4NVRlMkdEUWV5YzlrNG5JQ2xOWFJLeWJtOVBySWEzZGlBY2JFaE0tektVcUhrcU54YXd2ZF9GczFmQWh5SENHQ2dURkctSWh0YlJMZEN3QU9PNzF6UHFENHNVMThiME5aYzVqeEhRd1hBUGZDeVAyXzZSM1MyTi1hOUNPSUhfM3hvRnh6LWxuX09PTU4xNHVkYnNMOGZ3WmVqU1hWUmkxaFVnWlMt?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-17T18:23:35+00:00",
+    "summary": "Salesforce Now Has 3+ Pricing Models for Agentforce. And Maybe Right Now, That’s The Way to Do It. SaaStr",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "947a400aea08",
+    "title": "Apple is reportedly cooking up a trio of AI wearables",
+    "url": "https://techcrunch.com/2026/02/17/apple-is-reportedly-cooking-up-a-trio-of-ai-wearables/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-02-17T20:14:00+00:00",
+    "summary": "As the AI hardware space heats up, the iPhone maker has multiple smart products in development.",
+    "image_url": null,
+    "tags": [
+      "AI",
+      "Hardware",
+      "Apple",
+      "In Brief",
+      "iPhone"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "3ac00fa04243",
+    "title": "Google launches more visible links in AI Overviews and AI Mode",
+    "url": "https://searchengineland.com/google-launches-more-visibile-links-in-ai-overviews-and-ai-mode-469441",
+    "source": "Search Engine Land",
+    "source_category": "martech",
+    "published": "2026-02-17T21:14:19+00:00",
+    "summary": "These links appear as pop ups as you hover your mouse over them.",
+    "image_url": "https://searchengineland.com/wp-content/seloads/2026/02/AIM-AIO-links-update-scaled.png",
+    "tags": [
+      "Google",
+      "Search features",
+      "SEO",
+      "News"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "c0aeef2d5d26",
+    "title": "Unilever targets agentic AI with Google Cloud deal - CIO Dive",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMkxvRXhWd1hrWG9XbURKZ0JfeDRzU1ZtOVdrZV9QRV85Mi14TVplU3c5U1BITWJYUEtzNmV6cTF1UVFuX3JfaVRMQVI3MkQ4TzdoTjJIVTJ4UW5mR3VIbWhpUFVKYXhfa2tWUUxBRjZzSTVWb21RWjFGZGtnZERTTUNfM045V1lDVUE?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-02-17T21:21:14+00:00",
+    "summary": "Unilever targets agentic AI with Google Cloud deal CIO Dive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "a6b4b567eedc",
+    "title": "‘Creators as the new storytellers’: Over 10,000 apply to be part of Dick’s Sporting Goods creator program",
+    "url": "https://digiday.com/marketing/creators-as-the-new-storytellers-over-10000-apply-to-be-part-of-dicks-sporting-goods-creator-program/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-02-18T05:01:00+00:00",
+    "summary": "Dick's Sporting Goods is boosting its creator roster as it looks to play a bigger role in culture, events and social-media trends.",
+    "image_url": null,
+    "tags": [
+      "Marketing",
+      "syndicated"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "b7f956b59d04",
+    "title": "Creators eye Snapchat as a reliable income alternative to TikTok and YouTube",
+    "url": "https://digiday.com/media/creators-eye-snapchat-as-a-reliable-income-alternative-to-tiktok-and-youtube/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-02-18T05:01:00+00:00",
+    "summary": "Figuring out the Snapchat formula has been very lucrative for creators looking for more consistent revenue on a less-saturated platform.",
+    "image_url": null,
+    "tags": [
+      "Media"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "24228cb28113",
+    "title": "Unilever and Google Cloud Forge Five-Year AI Partnership to Advance Agentic Commerce - Global Cosmetics News",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNZEQ1TjNhWlkwNEFEQVJ1X2VKQXlTT1pnd1R2WEZRQVJqYTAxaTRWTUxpUXFJZ2lyMzZpWHZSY2U5OFZlemU2X3JSVVlUUVdoTnhQWDE3TW9OSkJLaV96SW42bnZHWlJ3d3NjcUZiOWJVT0xhOXVtLTRKeE95TXNqTmR0Uk9XeEQwMG1aVThqdjNlaVNrVUtKS21kTVJWYUtRUWZQSHR0WUR6VHk1d2tDN0JOd0VHak8tUTAxbzRR?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-02-18T06:05:02+00:00",
+    "summary": "Unilever and Google Cloud Forge Five-Year AI Partnership to Advance Agentic Commerce Global Cosmetics News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 10
+  }
 ]

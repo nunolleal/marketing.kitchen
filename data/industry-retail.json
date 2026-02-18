@@ -1,106 +1,168 @@
 [
-    {
-        "id": "re1a1l01",
-        "title": "Amazon's AI-Driven Sponsored Brands Campaigns See 45% Conversion Lift",
-        "url": "https://digiday.com/marketing/amazon-ai-driven-sponsored-brands-45-percent-conversion-lift/",
-        "source": "Digiday",
-        "source_category": "marketing",
-        "published": "2026-02-18T13:00:00Z",
-        "summary": "Amazon rolls out AI-generated ad creative and automated bidding for Sponsored Brands, with early adopters reporting significant conversion improvements and lower cost per acquisition.",
-        "image_url": "https://picsum.photos/seed/re1a1l01/800/400",
-        "tags": ["amazon-ads", "ai-advertising", "ecommerce"],
-        "industries": ["retail"],
-        "relevance_score": 90
-    },
-    {
-        "id": "re2a2l02",
-        "title": "Walmart Connect Overtakes Instacart as Second-Largest US Retail Media Network",
-        "url": "https://www.adage.com/article/retail/walmart-connect-overtakes-instacart-second-largest-retail-media/2614845",
-        "source": "AdAge",
-        "source_category": "marketing",
-        "published": "2026-02-18T09:30:00Z",
-        "summary": "Walmart's retail media division posts $4.8B in annual revenue, surpassing Instacart Ads to become the No. 2 retail media network in the US behind Amazon, fueled by in-store and omnichannel data.",
-        "image_url": "https://picsum.photos/seed/re2a2l02/800/400",
-        "tags": ["walmart", "retail-media", "omnichannel"],
-        "industries": ["retail"],
-        "relevance_score": 87
-    },
-    {
-        "id": "re3a3l03",
-        "title": "Omnichannel Personalization: Why Unified Commerce Data Is the New Competitive Moat",
-        "url": "https://martech.org/omnichannel-personalization-unified-commerce-data-competitive-moat/",
-        "source": "MarTech.org",
-        "source_category": "martech",
-        "published": "2026-02-17T15:00:00Z",
-        "summary": "Retailers investing in unified commerce platforms that merge online, in-store, and mobile data report 30% higher customer lifetime value than those with siloed channel strategies.",
-        "image_url": "https://picsum.photos/seed/re3a3l03/800/400",
-        "tags": ["omnichannel", "unified-commerce", "personalization"],
-        "industries": ["retail"],
-        "relevance_score": 83
-    },
-    {
-        "id": "re4a4l04",
-        "title": "Social Commerce Sales to Hit $108B in 2026 as TikTok Shop and Instagram Checkout Scale",
-        "url": "https://techcrunch.com/2026/02/17/social-commerce-108b-2026-tiktok-shop-instagram-checkout/",
-        "source": "TechCrunch",
-        "source_category": "marketing",
-        "published": "2026-02-17T12:45:00Z",
-        "summary": "Social commerce is projected to reach $108B in US sales this year, with TikTok Shop and Instagram Checkout driving most of the growth among Gen Z and millennial consumers.",
-        "image_url": "https://picsum.photos/seed/re4a4l04/800/400",
-        "tags": ["social-commerce", "tiktok-shop", "instagram"],
-        "industries": ["retail", "consumer"],
-        "relevance_score": 85
-    },
-    {
-        "id": "re5a5l05",
-        "title": "Target Debuts AI-Powered In-Store Marketing Displays That React to Shoppers",
-        "url": "https://www.thedrum.com/news/2026/02/16/target-ai-powered-in-store-marketing-displays-react-shoppers",
-        "source": "The Drum",
-        "source_category": "ai",
-        "published": "2026-02-16T11:30:00Z",
-        "summary": "Target pilots AI-driven digital signage that adjusts promotions in real time based on foot traffic patterns, time of day, and local inventory levels across 200 test stores.",
-        "image_url": "https://picsum.photos/seed/re5a5l05/800/400",
-        "tags": ["target", "in-store-marketing", "ai-signage"],
-        "industries": ["retail"],
-        "relevance_score": 78
-    },
-    {
-        "id": "re6a6l06",
-        "title": "Shopify's AI Commerce Assistant Handles 30% of Merchant Marketing Tasks",
-        "url": "https://venturebeat.com/ai/shopify-ai-commerce-assistant-merchant-marketing-tasks/",
-        "source": "VentureBeat",
-        "source_category": "ai",
-        "published": "2026-02-16T08:00:00Z",
-        "summary": "Shopify reports its Sidekick AI assistant now autonomously manages email campaigns, social posts, and product descriptions for over 500K merchants, freeing small business owners for strategic work.",
-        "image_url": "https://picsum.photos/seed/re6a6l06/800/400",
-        "tags": ["shopify", "ai-assistant", "smb-marketing"],
-        "industries": ["retail", "tech"],
-        "relevance_score": 81
-    },
-    {
-        "id": "re7a7l07",
-        "title": "Loyalty Programs Get Smarter: AI Predicts Churn 60 Days Before Customers Leave",
-        "url": "https://martech.org/loyalty-programs-ai-predicts-churn-60-days-before-customers-leave/",
-        "source": "MarTech.org",
-        "source_category": "martech",
-        "published": "2026-02-15T13:30:00Z",
-        "summary": "Retailers deploying AI-powered loyalty analytics can now predict customer churn with 89% accuracy up to 60 days in advance, enabling proactive retention campaigns that save an average of 22% of at-risk revenue.",
-        "image_url": "https://picsum.photos/seed/re7a7l07/800/400",
-        "tags": ["loyalty", "churn-prediction", "retention"],
-        "industries": ["retail"],
-        "relevance_score": 76
-    },
-    {
-        "id": "re8a8l08",
-        "title": "Kroger and Albertsons Retail Media Networks Merge Post-Acquisition, Creating $3B Ad Juggernaut",
-        "url": "https://digiday.com/marketing/kroger-albertsons-retail-media-merge-3b-ad-juggernaut/",
-        "source": "Digiday",
-        "source_category": "marketing",
-        "published": "2026-02-15T10:15:00Z",
-        "summary": "The combined Kroger-Albertsons retail media network leverages loyalty data from 85M households, making it a formidable competitor in the grocery advertising space with over $3B in projected revenue.",
-        "image_url": "https://picsum.photos/seed/re8a8l08/800/400",
-        "tags": ["kroger", "retail-media", "grocery"],
-        "industries": ["retail", "consumer"],
-        "relevance_score": 73
-    }
+  {
+    "id": "c94dc185b40c",
+    "title": "How to use CRM data to target the right B2B audiences",
+    "url": "https://martech.org/how-to-use-crm-data-to-target-the-b2b-right-audiences/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-02-17T13:39:00+00:00",
+    "summary": "B2B CTV isn’t about broad reach. It’s about precise segmentation, quality CRM data and smart retargeting strategies built for long sales cycles. The post How to use CRM data to target the right B2B audiences appeared first on MarTech .",
+    "image_url": "https://martech.org/searchengineland.com/wp-content/seloads/2025/11/semrush-one.webp",
+    "tags": [
+      "B2B marketing",
+      "Connected TV and OTT",
+      "Customer relationship management (CRM)"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 29
+  },
+  {
+    "id": "938e65a7d28e",
+    "title": "Roku says it’s growing video advertising faster than broader OTT market",
+    "url": "https://www.marketingdive.com/news/roku-says-its-growing-video-advertising-faster-than-broader-ott-market/812191/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-02-13T15:45:00+00:00",
+    "summary": "The platform’s Ads Manager expects to see a boost from AI tools while a major partnership with Amazon Ads is still only in the “early innings.”",
+    "image_url": "https://imgproxy.divecdn.com/nQ6C7b7NJf5yl_RISkf7IDnxwgtphxt4lGXV_dClcS8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yb2t1XzIuanBn.webp",
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "e4286edd04b3",
+    "title": "‘An influential seat at the table’: Why Target’s retail media business Roundel is one of the first to test ChatGPT ads",
+    "url": "https://digiday.com/marketing/an-influential-seat-at-the-table-why-targets-retail-media-business-roundel-is-one-of-the-first-to-test-chatgpt-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-02-17T05:01:00+00:00",
+    "summary": "Roundel's svp Matt Drzewicki talked about what they expect from the pilot.",
+    "image_url": null,
+    "tags": [
+      "Marketing"
+    ],
+    "industries": [
+      "media",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "dee097a33437",
+    "title": "Agentic AI Hits Google Shopping, What It Means for Affiliate Marketers - Hello Partner",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQQ2psdjJhSnFQQURZMmtsWnRQTWNkVFB5MlNxbUE2WnBJbDZkanVYYURPN3V1bEtFSmc3dGU5VDZkbTNISmxCMjRxMGhxUXlFZGJldjhTczAxWjJ6Mm9HT1FBWWpFbmd6VFgtMU9FeVRSUFpWdzNtckNhaVhzdTJKUHFKSXdURUJfQU92UTJ1b2w5M0EtbWVLaWN0TzlETVhWOWR2Vnp4WUhJZw?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-02-17T11:35:43+00:00",
+    "summary": "Agentic AI Hits Google Shopping, What It Means for Affiliate Marketers Hello Partner",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "9d97f4be47d7",
+    "title": "Adani pledges $100B to build AI data centers as India seeks bigger role in the global AI race",
+    "url": "https://techcrunch.com/2026/02/17/adani-pledges-100b-for-ai-data-centers-as-india-seeks-bigger-role-in-global-ai/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-02-17T13:08:46+00:00",
+    "summary": "Adani's plan targets up to 5 gigawatts of capacity, with data centers planned alongside partnerships with Google, Microsoft, and Flipkart.",
+    "image_url": null,
+    "tags": [
+      "AI",
+      "Adani",
+      "Adani Group",
+      "ai data centers"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "e50a490bdd13",
+    "title": "Amazon Fire TV’s new interface is now rolling out in the US",
+    "url": "https://techcrunch.com/2026/02/17/amazon-fire-tvs-new-interface-is-now-rolling-out-in-the-u-s/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-02-17T15:58:43+00:00",
+    "summary": "Fire TV's new interface simplifies its layout and navigation and adds Alexa+.",
+    "image_url": null,
+    "tags": [
+      "AI",
+      "Apps",
+      "Media & Entertainment",
+      "alexa+",
+      "Amazon"
+    ],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "8878d1e335c9",
+    "title": "Salesforce's acquisition of Cimulate to boost AI shopping - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdnRKUHc3cnFFX0hGa2tYZW1GMmxnODlHWHVZRzIzZVcyeWpRS25BNkNSOWVfRFlmRkZmLXI3MDUtMThyUDJ1eldlcll6QTlja0RMaXdoNGkwLTdaR2Q1LXNSQUZlakQ4YW9JZVRJcHA3UzR3Z1lkVHdtbUxKcFM5ZTNLcTdFTDFDNzk2S01mTmZ1NW5NOGhSZmRTWnkwajVMV0NhTF9BOVo3VkUtdXRVTWZmbU42ZGQ5eEV6LTBFSDc?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-17T21:01:31+00:00",
+    "summary": "Salesforce's acquisition of Cimulate to boost AI shopping TechTarget",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "c0aeef2d5d26",
+    "title": "Unilever targets agentic AI with Google Cloud deal - CIO Dive",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOMkxvRXhWd1hrWG9XbURKZ0JfeDRzU1ZtOVdrZV9QRV85Mi14TVplU3c5U1BITWJYUEtzNmV6cTF1UVFuX3JfaVRMQVI3MkQ4TzdoTjJIVTJ4UW5mR3VIbWhpUFVKYXhfa2tWUUxBRjZzSTVWb21RWjFGZGtnZERTTUNfM045V1lDVUE?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-02-17T21:21:14+00:00",
+    "summary": "Unilever targets agentic AI with Google Cloud deal CIO Dive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "ec5451c8d7fb",
+    "title": "LinkedIn unveils Premium All-in-One for Aussie SMEs - ecommercenews.com.au",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNeHJ6ejh5ZllvUlhKWFNfZHdtZ1h1bUFraWpwV2F1Y240eDBzdERZZVhiQmljNU1GcDFGOVRKbGxPUWdEbjNtUnNWUTVZLWFwVjhrUDJIUWE1RUtySzBpVUh2S2ZnTWtyaVg1WG5LclR4bHhhSm1nY3lqRlI1MlVLbDM4WWxGeW1xSW85NHF3UQ?oc=5",
+    "source": "Marketing Transformation",
+    "source_category": "marketing",
+    "published": "2026-02-18T02:10:00+00:00",
+    "summary": "LinkedIn unveils Premium All-in-One for Aussie SMEs ecommercenews.com.au",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 10
+  }
 ]

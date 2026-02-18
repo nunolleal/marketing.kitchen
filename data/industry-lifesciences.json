@@ -1,80 +1,41 @@
 [
-    {
-        "id": "l1f3sc01",
-        "title": "FDA Finalizes Guidelines for AI-Generated Pharmaceutical Marketing Content",
-        "url": "https://www.adage.com/article/pharma/fda-guidelines-ai-generated-pharmaceutical-marketing-content/2614855",
-        "source": "AdAge",
-        "source_category": "ai",
-        "published": "2026-02-18T12:30:00Z",
-        "summary": "The FDA releases long-awaited guidance on using generative AI in pharma advertising, requiring human review of all AI-produced claims while permitting AI-assisted creative production workflows.",
-        "image_url": "https://picsum.photos/seed/l1f3sc01/800/400",
-        "tags": ["fda", "pharma-advertising", "ai-regulation"],
-        "industries": ["lifesciences"],
-        "relevance_score": 93
-    },
-    {
-        "id": "l1f3sc02",
-        "title": "Pfizer's AI Marketing Engine Personalizes HCP Outreach Across 50 Therapeutic Areas",
-        "url": "https://martech.org/pfizer-ai-marketing-engine-personalizes-hcp-outreach-50-therapeutic-areas/",
-        "source": "MarTech.org",
-        "source_category": "martech",
-        "published": "2026-02-17T11:00:00Z",
-        "summary": "Pfizer's centralized AI platform tailors messaging, content format, and channel selection for healthcare professional engagement, improving email response rates by 35% across its product portfolio.",
-        "image_url": "https://picsum.photos/seed/l1f3sc02/800/400",
-        "tags": ["pfizer", "hcp-marketing", "personalization"],
-        "industries": ["lifesciences"],
-        "relevance_score": 86
-    },
-    {
-        "id": "l1f3sc03",
-        "title": "Digital Health Advertising Grows 25% as Patients Seek Information Online First",
-        "url": "https://digiday.com/marketing/digital-health-advertising-grows-25-patients-information-online/",
-        "source": "Digiday",
-        "source_category": "marketing",
-        "published": "2026-02-17T08:45:00Z",
-        "summary": "Pharma and health brands increase digital ad budgets as research shows 78% of patients now start their healthcare journey with an online search, making digital the primary awareness channel.",
-        "image_url": "https://picsum.photos/seed/l1f3sc03/800/400",
-        "tags": ["digital-health", "patient-marketing", "dtc-pharma"],
-        "industries": ["lifesciences"],
-        "relevance_score": 79
-    },
-    {
-        "id": "l1f3sc04",
-        "title": "Veeva CRM's AI Next Best Action Transforms Medical Affairs Engagement",
-        "url": "https://venturebeat.com/ai/veeva-crm-ai-next-best-action-medical-affairs-engagement/",
-        "source": "VentureBeat",
-        "source_category": "martech",
-        "published": "2026-02-16T15:00:00Z",
-        "summary": "Veeva Systems introduces AI-driven next-best-action recommendations for medical science liaisons, helping life sciences companies optimize HCP interactions while maintaining regulatory compliance.",
-        "image_url": "https://picsum.photos/seed/l1f3sc04/800/400",
-        "tags": ["veeva", "medical-affairs", "ai-recommendations"],
-        "industries": ["lifesciences", "tech"],
-        "relevance_score": 82
-    },
-    {
-        "id": "l1f3sc05",
-        "title": "Biotech Startups Turn to Influencer Marketing for Rare Disease Awareness",
-        "url": "https://www.thedrum.com/news/2026/02/15/biotech-startups-influencer-marketing-rare-disease-awareness",
-        "source": "The Drum",
-        "source_category": "marketing",
-        "published": "2026-02-15T14:00:00Z",
-        "summary": "Emerging biotech firms partner with patient advocates and micro-influencers to raise awareness for rare diseases, finding that authentic patient stories outperform traditional condition-awareness ads.",
-        "image_url": "https://picsum.photos/seed/l1f3sc05/800/400",
-        "tags": ["biotech", "influencer-marketing", "rare-disease"],
-        "industries": ["lifesciences"],
-        "relevance_score": 71
-    },
-    {
-        "id": "l1f3sc06",
-        "title": "Compliance-First AI: How Life Sciences Brands Navigate MLR Review With Generative Tools",
-        "url": "https://martech.org/compliance-first-ai-life-sciences-navigate-mlr-review-generative-tools/",
-        "source": "MarTech.org",
-        "source_category": "ai",
-        "published": "2026-02-15T10:30:00Z",
-        "summary": "Pharma marketers adopt AI tools with built-in medical-legal-regulatory guardrails, cutting MLR review cycles from weeks to days while ensuring all generated content meets FDA and EMA standards.",
-        "image_url": "https://picsum.photos/seed/l1f3sc06/800/400",
-        "tags": ["compliance", "mlr-review", "generative-ai"],
-        "industries": ["lifesciences"],
-        "relevance_score": 84
-    }
+  {
+    "id": "f53e5207dafd",
+    "title": "Transforming Pharmaceutical & Life Sciences with Digital Technology - Wipro",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE5BQU5ZbmM0YmdyeDNsWkdIN19YUXhSRFZUOW9uOGZKaGw1OE9tVWJuWFNlSGxUTnFjZkdrRF9HejFZekc0Y0lWWjc1Q1VRNlV1TWJLc29oSGNSdXNJOEk2MzJIMDE2QQ?oc=5",
+    "source": "Life Sciences",
+    "source_category": "industry_lifesciences",
+    "published": "2026-02-14T21:08:00+00:00",
+    "summary": "Transforming Pharmaceutical & Life Sciences with Digital Technology Wipro",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "911625659090",
+    "title": "SpendRule raises $2M, emerges from stealth to help hospitals track spending",
+    "url": "https://techcrunch.com/2026/02/17/spendrule-raises-2-million-emerges-from-stealth-to-help-hospitals-track-spending/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-02-17T14:00:00+00:00",
+    "summary": "SpendRule, launched last summer, is an AI-powered platform that helps healthcare systems track their spending.",
+    "image_url": null,
+    "tags": [
+      "AI",
+      "Startups",
+      "Venture",
+      "Health tech",
+      "VC"
+    ],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  }
 ]
