@@ -42,8 +42,8 @@
     --accent-financial:      #0D9488;
 
     /* Functional */
-    --color-tag-bg:          rgba(255, 230, 0, 0.15);
-    --color-tag-text:        #8C7A00;
+    --color-tag-bg:          #3A3A4C;
+    --color-tag-text:        #FFFFFF;
     --color-border:          rgba(0, 0, 0, 0.08);
     --color-border-hover:    rgba(0, 0, 0, 0.15);
 
@@ -279,7 +279,7 @@ img {
 .menu-tab {
     display: flex;
     align-items: center;
-    gap: 0;
+    gap: 6px;
     padding: 6px 16px;
     border: none;
     background: transparent;
@@ -296,7 +296,17 @@ img {
 }
 
 .tab-icon {
-    display: none;
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 0.9rem;
+    flex-shrink: 0;
+    line-height: 1;
+}
+
+.tab-icon svg {
+    width: 14px;
+    height: auto;
 }
 
 .menu-tab:hover {
@@ -615,7 +625,7 @@ img {
     font-weight: 600;
     letter-spacing: 0.04em;
     text-transform: uppercase;
-    border: 1px solid rgba(255, 230, 0, 0.25);
+    border: none;
 }
 
 /* ─── Card Stagger Animation ─── */
