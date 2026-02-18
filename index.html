@@ -1,0 +1,141 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Super Marketing Kitchen | EY Studio+ Marketing Transformation</title>
+    <meta name="description" content="Fresh marketing, MarTech, AI, and agentic marketing news served daily by EY Studio+.">
+    <link rel="stylesheet" href="css/styles.css">
+    <link rel="stylesheet" href="css/responsive.css">
+    <link rel="icon" href="assets/images/favicon.svg" type="image/svg+xml">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Playfair+Display:wght@700;900&family=Source+Sans+3:wght@300;400;600;700&family=Caveat:wght@600&display=swap" rel="stylesheet">
+</head>
+<body>
+
+    <!-- ─── Header ─── -->
+    <header class="kitchen-header">
+        <div class="header-inner">
+            <div class="logo-area">
+                <img src="assets/images/logo.svg" alt="Super Marketing Kitchen" class="logo-img">
+            </div>
+            <div class="header-right">
+                <span class="header-ey-label">EY Studio+ Marketing Transformation</span>
+                <div class="header-meta">
+                    <span class="last-updated" id="lastUpdated">Last served: &mdash;</span>
+                </div>
+                <div class="search-box">
+                    <svg class="search-icon" viewBox="0 0 24 24" width="18" height="18" fill="none" stroke="currentColor" stroke-width="2"><circle cx="11" cy="11" r="8"/><line x1="21" y1="21" x2="16.65" y2="16.65"/></svg>
+                    <input type="text" id="searchInput" placeholder="Search the menu..." aria-label="Search news">
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- ─── Navigation Tabs ─── -->
+    <nav class="menu-nav" id="menuNav" role="tablist" aria-label="News sections">
+        <div class="nav-scroll-container">
+            <button class="menu-tab active" data-tab="main" role="tab" aria-selected="true">
+                <span class="tab-icon">&#127869;</span>
+                <span class="tab-label">Today's Menu</span>
+            </button>
+
+            <div class="tab-divider"><span class="divider-label">Cuisines</span></div>
+
+            <button class="menu-tab" data-tab="media" role="tab" aria-selected="false">
+                <span class="tab-icon">&#127908;</span>
+                <span class="tab-label">Media</span>
+            </button>
+            <button class="menu-tab" data-tab="tech" role="tab" aria-selected="false">
+                <span class="tab-icon">&#128187;</span>
+                <span class="tab-label">Tech</span>
+            </button>
+            <button class="menu-tab" data-tab="telecom" role="tab" aria-selected="false">
+                <span class="tab-icon">&#128225;</span>
+                <span class="tab-label">Telecom</span>
+            </button>
+            <button class="menu-tab" data-tab="retail" role="tab" aria-selected="false">
+                <span class="tab-icon">&#128722;</span>
+                <span class="tab-label">Retail</span>
+            </button>
+            <button class="menu-tab" data-tab="consumer" role="tab" aria-selected="false">
+                <span class="tab-icon">&#127860;</span>
+                <span class="tab-label">Consumer</span>
+            </button>
+            <button class="menu-tab" data-tab="industrial" role="tab" aria-selected="false">
+                <span class="tab-icon">&#9881;&#65039;</span>
+                <span class="tab-label">Industrial</span>
+            </button>
+            <button class="menu-tab" data-tab="lifesciences" role="tab" aria-selected="false">
+                <span class="tab-icon">&#129516;</span>
+                <span class="tab-label">Life Sciences</span>
+            </button>
+            <button class="menu-tab" data-tab="financial" role="tab" aria-selected="false">
+                <span class="tab-icon">&#127974;</span>
+                <span class="tab-label">Financial Services</span>
+            </button>
+
+            <div class="tab-divider"><span class="divider-label">Specials</span></div>
+
+            <button class="menu-tab" data-tab="adobe" role="tab" aria-selected="false">
+                <span class="tab-icon">&#127912;</span>
+                <span class="tab-label">Adobe</span>
+            </button>
+            <button class="menu-tab" data-tab="salesforce" role="tab" aria-selected="false">
+                <span class="tab-icon">&#9729;&#65039;</span>
+                <span class="tab-label">Salesforce</span>
+            </button>
+        </div>
+    </nav>
+
+    <!-- ─── Main Content ─── -->
+    <main class="kitchen-main" id="mainContent">
+        <!-- Loading State -->
+        <div class="loading-state" id="loadingState">
+            <div class="loading-animation">
+                <div class="pot">
+                    <div class="pot-body"></div>
+                    <div class="steam steam-1"></div>
+                    <div class="steam steam-2"></div>
+                    <div class="steam steam-3"></div>
+                </div>
+                <p class="loading-text">Preparing your news...</p>
+            </div>
+        </div>
+
+        <!-- Tab Content Panels -->
+        <div class="tab-content active" id="content-main" role="tabpanel"></div>
+        <div class="tab-content" id="content-media" role="tabpanel"></div>
+        <div class="tab-content" id="content-tech" role="tabpanel"></div>
+        <div class="tab-content" id="content-telecom" role="tabpanel"></div>
+        <div class="tab-content" id="content-retail" role="tabpanel"></div>
+        <div class="tab-content" id="content-consumer" role="tabpanel"></div>
+        <div class="tab-content" id="content-industrial" role="tabpanel"></div>
+        <div class="tab-content" id="content-lifesciences" role="tabpanel"></div>
+        <div class="tab-content" id="content-financial" role="tabpanel"></div>
+        <div class="tab-content" id="content-adobe" role="tabpanel"></div>
+        <div class="tab-content" id="content-salesforce" role="tabpanel"></div>
+    </main>
+
+    <!-- ─── Footer ─── -->
+    <footer class="kitchen-footer">
+        <div class="footer-inner">
+            <div class="footer-brand">
+                <span class="footer-logo-text">Super Marketing Kitchen</span>
+                <span class="footer-divider">&mdash;</span>
+                <span class="footer-ey">EY Studio+ Marketing Transformation</span>
+            </div>
+            <p class="footer-meta">News auto-refreshed every 4 hours. Bon app&eacute;tit!</p>
+            <p class="footer-disclaimer">Powered by RSS feeds. All articles link to their original sources.</p>
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="js/news-loader.js"></script>
+    <script src="js/news-renderer.js"></script>
+    <script src="js/tab-navigation.js"></script>
+    <script src="js/search-filter.js"></script>
+    <script src="js/app.js"></script>
+</body>
+</html>

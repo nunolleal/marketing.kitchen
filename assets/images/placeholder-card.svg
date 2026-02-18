@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 400 200" width="400" height="200">
+  <rect width="400" height="200" fill="#F5E6D3"/>
+  <!-- Plate -->
+  <ellipse cx="200" cy="115" rx="55" ry="12" fill="#E8D5C0"/>
+  <ellipse cx="200" cy="110" rx="50" ry="10" fill="#FFF8F0"/>
+  <!-- Fork and knife -->
+  <g transform="translate(130, 60)">
+    <rect x="0" y="0" width="2.5" height="40" rx="1" fill="#C4A882"/>
+    <rect x="-3" y="0" width="2" height="14" rx="1" fill="#C4A882"/>
+    <rect x="3.5" y="0" width="2" height="14" rx="1" fill="#C4A882"/>
+  </g>
+  <g transform="translate(265, 60)">
+    <rect x="0" y="0" width="2.5" height="40" rx="1" fill="#C4A882"/>
+    <ellipse cx="1.25" cy="4" rx="5" ry="14" fill="none" stroke="#C4A882" stroke-width="2"/>
+  </g>
+  <!-- Steam wisps -->
+  <path d="M190 85 Q185 75 190 65 Q195 55 190 45" fill="none" stroke="#E8D5C0" stroke-width="2" stroke-linecap="round" opacity="0.6"/>
+  <path d="M200 80 Q195 70 200 60 Q205 50 200 40" fill="none" stroke="#E8D5C0" stroke-width="2" stroke-linecap="round" opacity="0.5"/>
+  <path d="M210 85 Q205 75 210 65 Q215 55 210 45" fill="none" stroke="#E8D5C0" stroke-width="2" stroke-linecap="round" opacity="0.4"/>
+  <!-- Text -->
+  <text x="200" y="155" text-anchor="middle" font-family="Georgia, serif" font-size="13" fill="#C4A882">The Marketing Kitchen</text>
+</svg>

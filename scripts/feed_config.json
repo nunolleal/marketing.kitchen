@@ -1,0 +1,62 @@
+{
+  "feeds": {
+    "marketing_core": [
+      { "name": "Digiday", "url": "https://digiday.com/feed/", "category": "marketing", "reliability": "high" },
+      { "name": "MarTech.org", "url": "https://martech.org/feed/", "category": "martech", "reliability": "high" },
+      { "name": "The Drum", "url": "https://www.thedrum.com/feeds/all", "category": "marketing", "reliability": "high" },
+      { "name": "Marketing Dive", "url": "https://www.marketingdive.com/feeds/news/", "category": "marketing", "reliability": "high" },
+      { "name": "Search Engine Land", "url": "https://searchengineland.com/feed", "category": "martech", "reliability": "high" },
+      { "name": "AdExchanger", "url": "https://www.adexchanger.com/feed/", "category": "marketing", "reliability": "high" }
+    ],
+    "ai_tech": [
+      { "name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "category": "ai", "reliability": "high" },
+      { "name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/", "category": "ai", "reliability": "high" },
+      { "name": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/", "category": "ai", "reliability": "high" }
+    ],
+    "google_news_queries": [
+      { "name": "GN - Agentic Marketing", "url": "https://news.google.com/rss/search?q=agentic+marketing+AI&hl=en-US&gl=US&ceid=US:en", "category": "ai_marketing", "reliability": "high" },
+      { "name": "GN - MarTech", "url": "https://news.google.com/rss/search?q=martech+marketing+technology&hl=en-US&gl=US&ceid=US:en", "category": "martech", "reliability": "high" },
+      { "name": "GN - Marketing Transformation", "url": "https://news.google.com/rss/search?q=marketing+transformation+digital&hl=en-US&gl=US&ceid=US:en", "category": "marketing", "reliability": "high" },
+      { "name": "GN - AI Personalization", "url": "https://news.google.com/rss/search?q=AI+personalization+marketing+customer+experience&hl=en-US&gl=US&ceid=US:en", "category": "ai_marketing", "reliability": "high" }
+    ],
+    "vendor_adobe": [
+      { "name": "Adobe Blog", "url": "https://blog.adobe.com/en/publish/rss", "category": "adobe", "reliability": "high" },
+      { "name": "GN - Adobe Experience Cloud", "url": "https://news.google.com/rss/search?q=Adobe+Experience+Cloud+OR+Adobe+Marketing+OR+Adobe+CDP&hl=en-US&gl=US&ceid=US:en", "category": "adobe", "reliability": "high" },
+      { "name": "GN - Adobe AI", "url": "https://news.google.com/rss/search?q=Adobe+Firefly+OR+Adobe+GenStudio+OR+Adobe+Sensei&hl=en-US&gl=US&ceid=US:en", "category": "adobe", "reliability": "high" }
+    ],
+    "vendor_salesforce": [
+      { "name": "Salesforce Blog", "url": "https://www.salesforce.com/blog/feed/", "category": "salesforce", "reliability": "medium" },
+      { "name": "GN - Salesforce Marketing", "url": "https://news.google.com/rss/search?q=Salesforce+Marketing+Cloud+OR+Salesforce+Data+Cloud+OR+Salesforce+CDP&hl=en-US&gl=US&ceid=US:en", "category": "salesforce", "reliability": "high" },
+      { "name": "GN - Salesforce AI", "url": "https://news.google.com/rss/search?q=Salesforce+Einstein+OR+Salesforce+Agentforce&hl=en-US&gl=US&ceid=US:en", "category": "salesforce", "reliability": "high" }
+    ],
+    "industry_specific": [
+      { "name": "GN - Media Marketing", "url": "https://news.google.com/rss/search?q=media+industry+marketing+advertising+streaming&hl=en-US&gl=US&ceid=US:en", "category": "industry_media", "reliability": "high" },
+      { "name": "GN - Tech Marketing", "url": "https://news.google.com/rss/search?q=SaaS+marketing+OR+tech+company+marketing+OR+developer+marketing&hl=en-US&gl=US&ceid=US:en", "category": "industry_tech", "reliability": "high" },
+      { "name": "GN - Telecom Marketing", "url": "https://news.google.com/rss/search?q=telecom+marketing+5G+customer+experience+carrier&hl=en-US&gl=US&ceid=US:en", "category": "industry_telecom", "reliability": "high" },
+      { "name": "GN - Retail MarTech", "url": "https://news.google.com/rss/search?q=retail+marketing+technology+ecommerce+personalization&hl=en-US&gl=US&ceid=US:en", "category": "industry_retail", "reliability": "high" },
+      { "name": "GN - Consumer Goods", "url": "https://news.google.com/rss/search?q=CPG+consumer+goods+brand+marketing+DTC&hl=en-US&gl=US&ceid=US:en", "category": "industry_consumer", "reliability": "high" },
+      { "name": "GN - Industrial B2B", "url": "https://news.google.com/rss/search?q=industrial+manufacturing+B2B+marketing+digital&hl=en-US&gl=US&ceid=US:en", "category": "industry_industrial", "reliability": "high" },
+      { "name": "GN - Life Sciences", "url": "https://news.google.com/rss/search?q=pharma+life+sciences+healthcare+marketing+digital&hl=en-US&gl=US&ceid=US:en", "category": "industry_lifesciences", "reliability": "high" },
+      { "name": "GN - Financial Services", "url": "https://news.google.com/rss/search?q=financial+services+banking+marketing+fintech+personalization&hl=en-US&gl=US&ceid=US:en", "category": "industry_financial", "reliability": "high" }
+    ]
+  },
+  "industry_keywords": {
+    "media": ["media", "streaming", "entertainment", "broadcast", "publishing", "content creator", "OTT", "AVOD", "SVOD", "Netflix", "Disney", "Warner", "Paramount", "NBCUniversal", "programmatic TV", "connected TV", "CTV"],
+    "tech": ["technology", "SaaS", "cloud", "software", "startup", "Big Tech", "platform", "developer", "API", "digital transformation", "Silicon Valley", "app"],
+    "telecom": ["telecom", "telecommunications", "5G", "wireless", "carrier", "mobile network", "T-Mobile", "Verizon", "AT&T", "Vodafone", "broadband", "fiber"],
+    "retail": ["retail", "ecommerce", "e-commerce", "shopping", "store", "omnichannel", "Amazon", "Walmart", "Target", "Shopify", "point of sale", "inventory"],
+    "consumer": ["CPG", "consumer goods", "FMCG", "brand", "DTC", "direct to consumer", "Procter & Gamble", "Unilever", "Nestle", "PepsiCo", "Coca-Cola", "packaged goods"],
+    "industrial": ["industrial", "manufacturing", "B2B", "supply chain", "logistics", "automation", "IoT", "smart factory", "Siemens", "GE", "Honeywell", "Caterpillar"],
+    "lifesciences": ["pharma", "pharmaceutical", "healthcare", "life sciences", "biotech", "clinical", "patient", "HCP", "FDA", "drug", "medical device", "health tech"],
+    "financial": ["banking", "financial services", "fintech", "insurance", "investment", "wealth management", "payments", "credit", "JPMorgan", "Goldman Sachs", "Visa", "Mastercard", "neobank"]
+  },
+  "relevance_keywords": {
+    "high_weight": ["marketing transformation", "agentic marketing", "AI marketing", "generative AI marketing", "martech", "marketing technology", "customer data platform", "CDP", "personalization at scale", "marketing automation", "customer experience", "marketing operations", "MOps", "composable martech"],
+    "medium_weight": ["digital marketing", "content marketing", "marketing analytics", "attribution", "marketing ROI", "first-party data", "privacy", "cookieless", "omnichannel", "customer journey", "marketing cloud", "campaign optimization", "predictive analytics"],
+    "low_weight": ["marketing", "advertising", "brand", "campaign", "social media", "SEO", "email marketing", "CRM", "engagement", "loyalty"]
+  },
+  "vendor_keywords": {
+    "adobe": ["adobe", "experience cloud", "marketo", "magento", "sensei", "firefly", "genstudio", "real-time cdp", "adobe target", "adobe analytics", "adobe campaign", "adobe journey optimizer", "aem", "experience manager"],
+    "salesforce": ["salesforce", "marketing cloud", "data cloud", "einstein", "agentforce", "mulesoft", "tableau", "pardot", "account engagement", "commerce cloud", "sales cloud", "service cloud"]
+  }
+}

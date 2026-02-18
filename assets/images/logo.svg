@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 60" width="300" height="60">
+  <!-- Chef Hat -->
+  <g transform="translate(5, 5)">
+    <!-- Hat puff -->
+    <ellipse cx="25" cy="16" rx="18" ry="14" fill="#FFE600"/>
+    <circle cx="14" cy="18" r="10" fill="#FFE600"/>
+    <circle cx="36" cy="18" r="10" fill="#FFE600"/>
+    <circle cx="25" cy="10" r="10" fill="#FFE600"/>
+    <!-- Hat band -->
+    <rect x="10" y="24" width="30" height="12" rx="2" fill="#FFFEF5"/>
+    <rect x="10" y="24" width="30" height="3" rx="1" fill="#00A3AE"/>
+    <!-- Fork -->
+    <g transform="translate(38, 8) rotate(25)">
+      <rect x="0" y="0" width="2" height="28" rx="1" fill="#FFE600"/>
+      <rect x="-3" y="0" width="2" height="10" rx="1" fill="#FFE600"/>
+      <rect x="3" y="0" width="2" height="10" rx="1" fill="#FFE600"/>
+    </g>
+  </g>
+  <!-- Text -->
+  <text x="65" y="28" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="bold" fill="#FFFFFF">Super Marketing</text>
+  <text x="65" y="50" font-family="Georgia, 'Times New Roman', serif" font-size="22" font-weight="bold" fill="#FFE600">Kitchen</text>
+</svg>
