@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-02-18T12:36:06.792727+00:00",
-  "article_count": 131,
+  "last_updated": "2026-02-18T12:56:59.996481+00:00",
+  "article_count": 162,
   "feed_health": {
     "Digiday": {
       "status": "ok",
@@ -54,17 +54,21 @@
       "status": "empty",
       "articles": 0
     },
-    "Adobe Blog": {
-      "status": "empty",
-      "articles": 0
+    "GN - Adobe": {
+      "status": "ok",
+      "articles": 17
     },
-    "GN - Adobe Experience Cloud": {
-      "status": "empty",
-      "articles": 0
+    "GN - Adobe Marketing": {
+      "status": "ok",
+      "articles": 2
     },
-    "GN - Adobe AI": {
-      "status": "empty",
-      "articles": 0
+    "GN - Adobe Products": {
+      "status": "ok",
+      "articles": 1
+    },
+    "GN - Adobe Inc": {
+      "status": "ok",
+      "articles": 11
     },
     "Salesforce Blog": {
       "status": "ok",
@@ -100,7 +104,7 @@
     },
     "GN - Industrial B2B": {
       "status": "ok",
-      "articles": 2
+      "articles": 1
     },
     "GN - Life Sciences": {
       "status": "ok",
@@ -108,8 +112,8 @@
     },
     "GN - Financial Services": {
       "status": "ok",
-      "articles": 1
+      "articles": 2
     }
   },
-  "next_update_approx": "2026-02-18T16:36:06.792727+00:00"
+  "next_update_approx": "2026-02-18T16:56:59.996481+00:00"
 }

@@ -20,10 +20,10 @@
       { "name": "GN - AI Personalization", "url": "https://news.google.com/rss/search?q=AI+personalization+marketing+customer+experience&hl=en-US&gl=US&ceid=US:en", "category": "ai_marketing", "reliability": "high" }
     ],
     "vendor_adobe": [
-      { "name": "Adobe Blog", "url": "https://blog.adobe.com/en/rss.xml", "category": "adobe", "reliability": "high" },
-      { "name": "GN - Adobe News", "url": "https://news.google.com/rss/search?q=Adobe+marketing+technology+news&hl=en-US&gl=US&ceid=US:en", "category": "adobe", "reliability": "high" },
-      { "name": "GN - Adobe Experience Cloud", "url": "https://news.google.com/rss/search?q=Adobe+Experience+Cloud+OR+Adobe+Marketing+OR+Adobe+CDP&hl=en-US&gl=US&ceid=US:en", "category": "adobe", "reliability": "high" },
-      { "name": "GN - Adobe AI", "url": "https://news.google.com/rss/search?q=Adobe+Firefly+OR+Adobe+GenStudio+OR+Adobe+Sensei&hl=en-US&gl=US&ceid=US:en", "category": "adobe", "reliability": "high" }
+      { "name": "GN - Adobe", "url": "https://news.google.com/rss/search?q=Adobe&hl=en-US&gl=US&ceid=US:en", "category": "adobe", "reliability": "high" },
+      { "name": "GN - Adobe Marketing", "url": "https://news.google.com/rss/search?q=%22Adobe%22+marketing+OR+creative+OR+experience&hl=en-US&gl=US&ceid=US:en", "category": "adobe", "reliability": "high" },
+      { "name": "GN - Adobe Products", "url": "https://news.google.com/rss/search?q=Adobe+Photoshop+OR+Adobe+Creative+OR+Adobe+Experience+OR+Adobe+Firefly&hl=en-US&gl=US&ceid=US:en", "category": "adobe", "reliability": "high" },
+      { "name": "GN - Adobe Inc", "url": "https://news.google.com/rss/search?q=Adobe+Inc&hl=en-US&gl=US&ceid=US:en", "category": "adobe", "reliability": "high" }
     ],
     "vendor_salesforce": [
       { "name": "Salesforce Blog", "url": "https://www.salesforce.com/blog/feed/", "category": "salesforce", "reliability": "medium" },
