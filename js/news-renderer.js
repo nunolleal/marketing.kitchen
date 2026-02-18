@@ -17,6 +17,7 @@ const NewsRenderer = (() => {
     };
 
     function renderTab(container, articles, tabId) {
+        resetFallbackTracker();
         if (!articles || articles.length === 0) {
             container.innerHTML = `
                 <div class="empty-state">
@@ -194,15 +195,27 @@ const NewsRenderer = (() => {
         ],
     };
 
+    // Track fallback image usage per render to avoid repeats
+    const fallbackTracker = {};
+
+    function resetFallbackTracker() {
+        for (const key in fallbackTracker) {
+            delete fallbackTracker[key];
+        }
+    }
+
     function getCardImageStyle(article) {
         if (article.image_url) {
             return `background-image: url('${escapeAttr(article.image_url)}')`;
         }
-        // Pick a curated category-relevant photo based on article hash (consistent per article)
+        // Pick a curated category-relevant photo, cycling sequentially to avoid repeats
         const cat = article.source_category || 'marketing';
         const pool = FALLBACK_IMAGES[cat] || FALLBACK_IMAGES.marketing;
-        const hash = simpleHash(article.title || article.id);
-        const img = pool[hash % pool.length];
+        if (!(cat in fallbackTracker)) {
+            fallbackTracker[cat] = 0;
+        }
+        const img = pool[fallbackTracker[cat] % pool.length];
+        fallbackTracker[cat]++;
         return `background-image: url('${img}')`;
     }
 
@@ -276,6 +289,7 @@ const NewsRenderer = (() => {
     }
 
     function renderSearchResults(container, articles, query) {
+        resetFallbackTracker();
         if (articles.length === 0) {
             container.innerHTML = `
                 <div class="search-results-header">

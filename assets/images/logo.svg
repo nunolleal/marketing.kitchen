@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 60" width="300" height="60">
   <!-- Minimalist knife icon -->
   <g transform="translate(5, 8)">
-    <rect x="8" y="0" width="3" height="44" rx="1.5" fill="#FFE600"/>
-    <path d="M11 0 L24 0 L24 20 Q24 28 11 28 Z" fill="#FFE600" opacity="0.6"/>
+    <rect x="8" y="0" width="3" height="44" rx="1.5" fill="#C5A600"/>
+    <path d="M11 0 L24 0 L24 20 Q24 28 11 28 Z" fill="#C5A600" opacity="0.6"/>
   </g>
   <!-- Text -->
-  <text x="42" y="26" font-family="Inter, -apple-system, sans-serif" font-size="20" font-weight="800" fill="#F0F0F5" letter-spacing="-0.5">Super Marketing</text>
-  <text x="42" y="48" font-family="Inter, -apple-system, sans-serif" font-size="20" font-weight="800" fill="#FFE600" letter-spacing="-0.5">Kitchen</text>
+  <text x="42" y="26" font-family="Inter, -apple-system, sans-serif" font-size="20" font-weight="800" fill="#1A1A2E" letter-spacing="-0.5">Super Marketing</text>
+  <text x="42" y="48" font-family="Inter, -apple-system, sans-serif" font-size="20" font-weight="800" fill="#8C7A00" letter-spacing="-0.5">Kitchen</text>
 </svg>

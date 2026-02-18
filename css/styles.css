@@ -1,20 +1,20 @@
 /* ═══════════════════════════════════════════════
-   SUPER MARKETING KITCHEN - Dark Editorial Design
+   SUPER MARKETING KITCHEN - Light Editorial Design
    EY Studio+ Marketing Transformation
    Inspired by The Pudding
    ═══════════════════════════════════════════════ */
 
 /* ─── CSS Variables ─── */
 :root {
-    /* Core Dark Palette */
-    --color-bg-primary:      #0D0D12;
-    --color-bg-elevated:     #161620;
-    --color-bg-surface:      #1E1E2A;
-    --color-bg-hover:        #252536;
+    /* Core Light Palette */
+    --color-bg-primary:      #FFFFFF;
+    --color-bg-elevated:     #F5F5F8;
+    --color-bg-surface:      #EBEBF0;
+    --color-bg-hover:        #E0E0E8;
 
     /* EY Studio+ Brand */
     --color-ey-yellow:       #FFE600;
-    --color-ey-yellow-dark:  #E6CF00;
+    --color-ey-yellow-dark:  #8C7A00;
     --color-ey-yellow-light: #FFF176;
     --color-ey-teal:         #00A3AE;
     --color-ey-magenta:      #C72C8E;
@@ -23,35 +23,35 @@
     --color-ey-green:        #2CC84D;
 
     /* Text Hierarchy */
-    --color-text-primary:    #F0F0F5;
-    --color-text-secondary:  #9898A6;
-    --color-text-tertiary:   #5C5C6E;
-    --color-text-inverse:    #0D0D12;
+    --color-text-primary:    #1A1A2E;
+    --color-text-secondary:  #4A4A5E;
+    --color-text-tertiary:   #7A7A94;
+    --color-text-inverse:    #FFFFFF;
 
-    /* Per-tab accent colors (Pudding-inspired) */
-    --accent-main:           #FFE600;
-    --accent-adobe:          #FF2D2D;
-    --accent-salesforce:     #00A1E0;
-    --accent-media:          #A855F7;
-    --accent-tech:           #06B6D4;
-    --accent-telecom:        #F97316;
-    --accent-retail:         #EC4899;
-    --accent-consumer:       #10B981;
-    --accent-industrial:     #F59E0B;
-    --accent-lifesciences:   #8B5CF6;
-    --accent-financial:      #14B8A6;
+    /* Per-tab accent colors */
+    --accent-main:           #C5A600;
+    --accent-adobe:          #E02020;
+    --accent-salesforce:     #0088CC;
+    --accent-media:          #9333EA;
+    --accent-tech:           #0891B2;
+    --accent-telecom:        #EA580C;
+    --accent-retail:         #DB2777;
+    --accent-consumer:       #059669;
+    --accent-industrial:     #D97706;
+    --accent-lifesciences:   #7C3AED;
+    --accent-financial:      #0D9488;
 
     /* Functional */
-    --color-tag-bg:          rgba(255, 230, 0, 0.10);
-    --color-tag-text:        #FFE600;
-    --color-border:          rgba(255, 255, 255, 0.06);
-    --color-border-hover:    rgba(255, 255, 255, 0.12);
+    --color-tag-bg:          rgba(255, 230, 0, 0.15);
+    --color-tag-text:        #8C7A00;
+    --color-border:          rgba(0, 0, 0, 0.08);
+    --color-border-hover:    rgba(0, 0, 0, 0.15);
 
     /* Shadows */
-    --shadow-card:           0 1px 3px rgba(0, 0, 0, 0.3), 0 0 0 1px rgba(255,255,255,0.03);
-    --shadow-card-hover:     0 16px 48px rgba(0, 0, 0, 0.4), 0 0 0 1px rgba(255,230,0,0.08);
-    --shadow-header:         0 1px 0 rgba(255, 255, 255, 0.04);
-    --shadow-glow-yellow:    0 0 30px rgba(255, 230, 0, 0.15);
+    --shadow-card:           0 1px 3px rgba(0, 0, 0, 0.06), 0 0 0 1px rgba(0,0,0,0.03);
+    --shadow-card-hover:     0 12px 32px rgba(0, 0, 0, 0.10), 0 0 0 1px rgba(0,0,0,0.06);
+    --shadow-header:         0 1px 0 rgba(0, 0, 0, 0.06);
+    --shadow-glow-yellow:    0 0 24px rgba(255, 230, 0, 0.3);
 
     /* Radii */
     --radius-card:           8px;
@@ -110,7 +110,7 @@ h1, h2, h3, h4 {
 }
 
 a {
-    color: var(--color-ey-yellow);
+    color: var(--color-ey-teal);
     text-decoration: none;
 }
 
@@ -176,13 +176,12 @@ img {
 .ey-logo-img {
     height: 32px;
     width: auto;
-    filter: brightness(0) invert(1);
     opacity: 0.7;
     transition: opacity var(--duration-fast) ease;
 }
 
 .ey-logo-img:hover {
-    opacity: 0.9;
+    opacity: 1;
 }
 
 .header-right {
@@ -242,7 +241,7 @@ img {
 
 .search-box input:focus {
     border-color: var(--color-ey-yellow);
-    box-shadow: 0 0 0 3px rgba(255, 230, 0, 0.1);
+    box-shadow: 0 0 0 3px rgba(255, 230, 0, 0.2);
     width: 320px;
 }
 
@@ -456,7 +455,7 @@ img {
 
 /* ─── Featured Card ─── */
 .recipe-card--featured {
-    border: 1px solid rgba(255, 230, 0, 0.15);
+    border: 1px solid rgba(255, 230, 0, 0.35);
 }
 
 .recipe-card--featured .card-image {
@@ -517,7 +516,7 @@ img {
     font-family: var(--font-display);
     font-size: 2.5rem;
     font-weight: 900;
-    color: rgba(255, 255, 255, 0.08);
+    color: rgba(0, 0, 0, 0.05);
     text-transform: uppercase;
     z-index: 1;
 }
@@ -616,7 +615,7 @@ img {
     font-weight: 600;
     letter-spacing: 0.04em;
     text-transform: uppercase;
-    border: 1px solid rgba(255, 230, 0, 0.08);
+    border: 1px solid rgba(255, 230, 0, 0.25);
 }
 
 /* ─── Card Stagger Animation ─── */
@@ -719,7 +718,7 @@ img {
     font-family: var(--font-display);
     font-size: 1.4rem;
     font-weight: 800;
-    color: var(--color-ey-yellow);
+    color: var(--color-ey-yellow-dark);
     margin-bottom: 8px;
 }
 
@@ -817,13 +816,13 @@ img {
 }
 
 .clear-search-btn:hover {
-    border-color: var(--color-ey-yellow);
-    color: var(--color-ey-yellow);
+    border-color: var(--color-ey-yellow-dark);
+    color: var(--color-ey-yellow-dark);
 }
 
 /* Highlight matched text */
 mark {
-    background: rgba(255, 230, 0, 0.2);
+    background: rgba(255, 230, 0, 0.4);
     color: var(--color-text-primary);
     padding: 1px 2px;
     border-radius: 2px;
@@ -864,27 +863,26 @@ mark {
 }
 
 .footer-divider {
-    color: var(--color-ey-yellow);
+    color: var(--color-text-tertiary);
     font-size: 0.85rem;
 }
 
 .footer-ey {
     font-size: 0.85rem;
     font-weight: 600;
-    color: var(--color-ey-yellow);
+    color: var(--color-ey-yellow-dark);
 }
 
 .footer-ey-logo {
     height: 28px;
     width: auto;
-    filter: brightness(0) invert(1);
-    opacity: 0.5;
+    opacity: 0.6;
     vertical-align: middle;
     transition: opacity var(--duration-fast) ease;
 }
 
 .footer-ey-logo:hover {
-    opacity: 0.8;
+    opacity: 1;
 }
 
 .footer-meta {
@@ -934,6 +932,6 @@ mark {
 .daily-hero-date {
     font-family: var(--font-mono);
     font-size: 0.8rem;
-    color: var(--color-ey-yellow);
+    color: var(--color-ey-yellow-dark);
     letter-spacing: 0.02em;
 }
