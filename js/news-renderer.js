@@ -101,34 +101,109 @@ const NewsRenderer = (() => {
         container.innerHTML = html;
     }
 
-    // Category-themed gradient palettes for fallback images
-    const CATEGORY_GRADIENTS = {
-        marketing:  ['#FFE600', '#F26334'],
-        martech:    ['#FFE600', '#00A3AE'],
-        ai:         ['#C72C8E', '#188CE5'],
-        ai_marketing: ['#FFE600', '#C72C8E'],
-        adobe:      ['#FF0000', '#FF5733'],
-        salesforce: ['#00A1E0', '#032D60'],
-        industry_media:     ['#FFE600', '#F26334'],
-        industry_tech:      ['#188CE5', '#00A3AE'],
-        industry_telecom:   ['#00A3AE', '#2CC84D'],
-        industry_retail:    ['#F26334', '#FFE600'],
-        industry_consumer:  ['#C72C8E', '#FFE600'],
-        industry_industrial:['#2E2E38', '#00A3AE'],
-        industry_lifesciences: ['#2CC84D', '#00A3AE'],
-        industry_financial: ['#2E2E38', '#FFE600'],
+    // Curated fallback photos per category (Unsplash CDN, no API key needed)
+    const FALLBACK_IMAGES = {
+        marketing: [
+            'https://images.unsplash.com/photo-1557804506-669a67965ba0?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1533750349088-cd871a92f312?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1551434678-e076c223a692?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1542744173-8e7e53415bb0?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&h=400&fit=crop',
+        ],
+        martech: [
+            'https://images.unsplash.com/photo-1518186285589-2f7649de83e0?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1498050108023-c5249f4df085?w=800&h=400&fit=crop',
+        ],
+        ai: [
+            'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1485827404703-89b55fcc595e?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1531746790095-e5995ae3c985?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1555255707-c07966088b7b?w=800&h=400&fit=crop',
+        ],
+        ai_marketing: [
+            'https://images.unsplash.com/photo-1677442136019-21780ecad995?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1551288049-bebda4e38f71?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1531746790095-e5995ae3c985?w=800&h=400&fit=crop',
+        ],
+        adobe: [
+            'https://images.unsplash.com/photo-1561070791-2526d30994b5?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1626785774573-4b799315345d?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1558655146-9f40138edfeb?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1572044162444-ad60f128bdea?w=800&h=400&fit=crop',
+        ],
+        salesforce: [
+            'https://images.unsplash.com/photo-1451187580459-43490279c0fa?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1504868584819-f8e8b4b6d7e3?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1560472355-536de3962603?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1519389950473-47ba0277781c?w=800&h=400&fit=crop',
+        ],
+        industry_media: [
+            'https://images.unsplash.com/photo-1478720568477-152d9b164e26?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1522869635100-9f4c5e86aa37?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1611162617474-5b21e879e113?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1585647347483-22b66260dfff?w=800&h=400&fit=crop',
+        ],
+        industry_tech: [
+            'https://images.unsplash.com/photo-1518770660439-4636190af475?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1488590528505-98d2b5aba04b?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1550751827-4bd374c3f58b?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1526374965328-7f61d4dc18c5?w=800&h=400&fit=crop',
+        ],
+        industry_telecom: [
+            'https://images.unsplash.com/photo-1558494949-ef010cbdcc31?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1544197150-b99a580bb7a8?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1562408590-e32931084e23?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1516044734145-07ca8eef8731?w=800&h=400&fit=crop',
+        ],
+        industry_retail: [
+            'https://images.unsplash.com/photo-1556742049-0cfed4f6a45d?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1472851294608-062f824d29cc?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1441986300917-64674bd600d8?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1607082349566-187342175e2f?w=800&h=400&fit=crop',
+        ],
+        industry_consumer: [
+            'https://images.unsplash.com/photo-1604719312566-8912e9227c6a?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1556742393-d75f468bfcb0?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1542838132-92c53300491e?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1534452203293-494d7ddbf7e0?w=800&h=400&fit=crop',
+        ],
+        industry_industrial: [
+            'https://images.unsplash.com/photo-1581091226825-a6a2a5aee158?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1565043666747-69f6646db940?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1504917595217-d4dc5ebe6122?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1537462715879-360eeb61a0ad?w=800&h=400&fit=crop',
+        ],
+        industry_lifesciences: [
+            'https://images.unsplash.com/photo-1579154204601-01588f351e67?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1532187863486-abf9dbad1b69?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1576671081837-49000212a370?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1584036561566-baf8f5f1b144?w=800&h=400&fit=crop',
+        ],
+        industry_financial: [
+            'https://images.unsplash.com/photo-1611974789855-9c2a0a7236a3?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1559526324-4b87b5e36e44?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?w=800&h=400&fit=crop',
+            'https://images.unsplash.com/photo-1551836022-d5d88e9218df?w=800&h=400&fit=crop',
+        ],
     };
 
     function getCardImageStyle(article) {
         if (article.image_url) {
             return `background-image: url('${escapeAttr(article.image_url)}')`;
         }
-        // Generate a themed gradient based on source_category + title hash for variety
+        // Pick a curated category-relevant photo based on article hash (consistent per article)
         const cat = article.source_category || 'marketing';
-        const colors = CATEGORY_GRADIENTS[cat] || ['#FFE600', '#00A3AE'];
+        const pool = FALLBACK_IMAGES[cat] || FALLBACK_IMAGES.marketing;
         const hash = simpleHash(article.title || article.id);
-        const angle = 120 + (hash % 60); // angle between 120-180deg
-        return `background: linear-gradient(${angle}deg, ${colors[0]}88, ${colors[1]}AA)`;
+        const img = pool[hash % pool.length];
+        return `background-image: url('${img}')`;
     }
 
     function simpleHash(str) {
@@ -145,8 +220,8 @@ const NewsRenderer = (() => {
         const spice = getSpiceLevel(article.relevance_score);
         const imgStyle = getCardImageStyle(article);
 
-        const imgClass = article.image_url ? 'card-image' : 'card-image card-image--gradient';
-        const sourceInitial = !article.image_url ? `<span class="card-image-initial">${escapeHtml((article.source || '?')[0])}</span>` : '';
+        const imgClass = 'card-image';
+        const sourceInitial = '';
 
         return `
         <article class="recipe-card recipe-card--featured" onclick="window.open('${escapeAttr(article.url)}', '_blank', 'noopener')" tabindex="0" role="link" aria-label="${escapeAttr(article.title)}">
@@ -175,8 +250,8 @@ const NewsRenderer = (() => {
         const spice = getSpiceLevel(article.relevance_score);
         const imgStyle = getCardImageStyle(article);
 
-        const imgClass = article.image_url ? 'card-image' : 'card-image card-image--gradient';
-        const sourceInitial = !article.image_url ? `<span class="card-image-initial">${escapeHtml((article.source || '?')[0])}</span>` : '';
+        const imgClass = 'card-image';
+        const sourceInitial = '';
 
         return `
         <article class="recipe-card" onclick="window.open('${escapeAttr(article.url)}', '_blank', 'noopener')" tabindex="0" role="link" aria-label="${escapeAttr(article.title)}">
