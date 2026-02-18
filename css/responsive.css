@@ -26,6 +26,10 @@
         height: 40px;
     }
 
+    .ey-logo-img {
+        height: 40px;
+    }
+
     .site-title {
         font-size: 1.3rem;
     }
@@ -72,6 +76,15 @@
     .logo-area {
         width: 100%;
         justify-content: center;
+    }
+
+    .header-center {
+        position: static;
+        transform: none;
+    }
+
+    .ey-logo-img {
+        height: 36px;
     }
 
     .header-right {
@@ -153,6 +166,10 @@
 
     .logo-img {
         height: 36px;
+    }
+
+    .ey-logo-img {
+        height: 30px;
     }
 
     .search-box input {
