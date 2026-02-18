@@ -164,7 +164,7 @@ const NewsRenderer = (() => {
                 </div>
                 <div class="card-meta">
                     <span class="card-time">${timeAgo}</span>
-                    <span class="card-spice" title="Relevance: ${article.relevance_score}/100">${spice}</span>
+                    <span class="card-spice" title="Trending score: ${article.relevance_score}/100 — based on topic relevance, recency &amp; source authority">${spice}</span>
                 </div>
             </div>
         </article>`;
@@ -194,7 +194,7 @@ const NewsRenderer = (() => {
                 </div>
                 <div class="card-meta">
                     <span class="card-time">${timeAgo}</span>
-                    <span class="card-spice" title="Relevance: ${article.relevance_score}/100">${spice}</span>
+                    <span class="card-spice" title="Trending score: ${article.relevance_score}/100 — based on topic relevance, recency &amp; source authority">${spice}</span>
                 </div>
             </div>
         </article>`;
@@ -253,10 +253,18 @@ const NewsRenderer = (() => {
         return `${days}d ago`;
     }
 
+    /**
+     * Rocket rating based on article signals:
+     *   5 rockets: score 80+  (top relevance + very recent + high-weight keywords)
+     *   4 rockets: score 60-79 (strong relevance or trending topic)
+     *   3 rockets: score 40-59 (solid industry coverage)
+     *   2 rockets: score 20-39 (general interest)
+     *   1 rocket:  score <20   (low relevance / older article)
+     */
     function getSpiceLevel(score) {
         if (score == null) return '';
         const level = Math.min(5, Math.max(1, Math.ceil(score / 20)));
-        return '\u{1F336}\uFE0F'.repeat(level);
+        return '\u{1F680}'.repeat(level);
     }
 
     function escapeHtml(str) {
