@@ -29,28 +29,7 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 24
-  },
-  {
-    "id": "840e449615fe",
-    "title": "Reliance unveils $110B AI investment plan as India ramps up tech ambitions",
-    "url": "https://techcrunch.com/2026/02/19/reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-02-19T11:39:17+00:00",
-    "summary": "Reliance has begun building multi-gigawatt AI data centers in Jamnagar, with more than 120 MW of capacity expected to come online in 2026.",
-    "image_url": null,
-    "tags": [
-      "AI",
-      "Enterprise",
-      "ai data centers",
-      "jio",
-      "Mukesh Ambani"
-    ],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 15
+    "relevance_score": 19
   },
   {
     "id": "c2a194272fe6",
@@ -108,15 +87,36 @@
     "summary": "OpenAI moves beyond ChatGPT in India with a Pine Labs deal targeting enterprise payments and AI-driven commerce.",
     "image_url": null,
     "tags": [
+      "AI",
       "Enterprise",
       "Fintech",
-      "AI",
       "OpenAI",
       "pine labs"
     ],
     "industries": [
       "retail",
       "industrial",
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "840e449615fe",
+    "title": "Reliance unveils $110B AI investment plan as India ramps up tech ambitions",
+    "url": "https://techcrunch.com/2026/02/19/reliance-unveils-110b-ai-investment-plan-as-india-ramps-up-tech-ambitions/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-02-19T11:39:17+00:00",
+    "summary": "Reliance has begun building multi-gigawatt AI data centers in Jamnagar, with more than 120 MW of capacity expected to come online in 2026.",
+    "image_url": null,
+    "tags": [
+      "AI",
+      "Enterprise",
+      "ai data centers",
+      "jio",
+      "Mukesh Ambani"
+    ],
+    "industries": [
       "financial"
     ],
     "relevance_score": 10

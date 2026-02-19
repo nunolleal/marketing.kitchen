@@ -19,7 +19,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 42
+    "relevance_score": 37
   },
   {
     "id": "825bed0834ed",
@@ -55,6 +55,47 @@
     "industries": [
       "retail",
       "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "cac3b8151f64",
+    "title": "Reddit is testing a new AI search feature for shopping",
+    "url": "https://techcrunch.com/2026/02/19/reddit-is-testing-a-new-ai-search-feature-for-shopping/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-02-19T18:22:51+00:00",
+    "summary": "A small group of users in the U.S. will start to see search results that include interactive product carousels with pricing, images, and direct where-to-buy links.",
+    "image_url": null,
+    "tags": [
+      "AI",
+      "Apps",
+      "Reddit"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "4c88865ac68e",
+    "title": "Walmart’s Ad Revenue Totaled $6.4 Billion In 2025 As The Ecom Flywheel Started To Spin",
+    "url": "https://www.adexchanger.com/commerce/walmarts-ad-revenue-totaled-6-4-billion-in-2025-as-the-ecom-flywheel-started-to-spin/",
+    "source": "AdExchanger",
+    "source_category": "marketing",
+    "published": "2026-02-19T19:17:55+00:00",
+    "summary": "Walmart’s ad revenue in 2025 totaled $6.4 billion, per the company’s earnings report on Thursday. That figure represents a 37% increase globally and 41% increase domestically for the Walmart Connect business, which operates in the US. “Fully a third of our profit in the most...",
+    "image_url": null,
+    "tags": [
+      "Commerce",
+      "commerce",
+      "earnings",
+      "featured",
+      "Retail Media"
+    ],
+    "industries": [
+      "retail"
     ],
     "relevance_score": 15
   },
@@ -128,22 +169,6 @@
     "relevance_score": 10
   },
   {
-    "id": "8a60070078e1",
-    "title": "B2B Ecommerce | News | Reports - Digital Commerce 360",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KNFl3SUZsYVhSSEljZkVOdEFJWnpmRWxSSG9CelJMUGlYYzhNZGwya2ZYeTRveUhBN25DNUNtRjBvWmEtZVhjamZRellyRTdUU1o5X1pObTR3djVWWHdzZVo2LTd2QQ?oc=5",
-    "source": "Industrial B2B",
-    "source_category": "industry_industrial",
-    "published": "2026-02-18T08:00:00+00:00",
-    "summary": "B2B Ecommerce | News | Reports Digital Commerce 360",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "fff969ba4e87",
     "title": "Influence, At Half The Cost; Are ChatGPT Ads On Target?",
     "url": "https://www.adexchanger.com/daily-news-roundup/wednesday-18022026/",
@@ -197,9 +222,9 @@
     "summary": "OpenAI moves beyond ChatGPT in India with a Pine Labs deal targeting enterprise payments and AI-driven commerce.",
     "image_url": null,
     "tags": [
+      "AI",
       "Enterprise",
       "Fintech",
-      "AI",
       "OpenAI",
       "pine labs"
     ],
