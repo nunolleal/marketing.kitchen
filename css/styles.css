@@ -265,8 +265,8 @@ img {
     margin: 0 auto;
     display: flex;
     align-items: center;
-    gap: 2px;
-    padding: 8px 32px;
+    gap: 1px;
+    padding: 5px 20px;
     overflow-x: auto;
     -webkit-overflow-scrolling: touch;
     scrollbar-width: none;
@@ -279,12 +279,12 @@ img {
 .menu-tab {
     display: flex;
     align-items: center;
-    gap: 6px;
-    padding: 6px 16px;
+    gap: 4px;
+    padding: 5px 10px;
     border: none;
     background: transparent;
     font-family: var(--font-body);
-    font-size: 0.82rem;
+    font-size: 0.76rem;
     font-weight: 600;
     color: var(--color-text-tertiary);
     cursor: pointer;
@@ -333,7 +333,7 @@ img {
 }
 
 .tab-divider {
-    padding: 0 8px;
+    padding: 0 4px;
     flex-shrink: 0;
 }
 
@@ -539,7 +539,7 @@ img {
     background: rgba(13, 13, 18, 0.75);
     backdrop-filter: blur(12px);
     -webkit-backdrop-filter: blur(12px);
-    color: var(--color-text-primary);
+    color: #FFFFFF;
     padding: 4px 10px;
     border-radius: var(--radius-tag);
     font-size: 0.68rem;
