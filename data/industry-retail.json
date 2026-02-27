@@ -14,7 +14,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 50
+    "relevance_score": 45
   },
   {
     "id": "985e2f68069f",
@@ -33,30 +33,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 19
-  },
-  {
-    "id": "6061e1bba011",
-    "title": "OpenAI raises $110B in one of the largest private funding rounds in history",
-    "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-02-27T14:13:01+00:00",
-    "summary": "The new funding consists of a $50 billion investment from Amazon as well as $30 billion each from Nvidia and SoftBank, against a $730 billion valuation.",
-    "image_url": null,
-    "tags": [
-      "AI",
-      "Fundraising",
-      "Amazon",
-      "nvidia",
-      "OpenAI"
-    ],
-    "industries": [
-      "retail",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "696cfc749a5c",
@@ -74,6 +51,22 @@
     "industries": [
       "media",
       "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "8a60070078e1",
+    "title": "B2B Ecommerce | News | Reports - Digital Commerce 360",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KNFl3SUZsYVhSSEljZkVOdEFJWnpmRWxSSG9CelJMUGlYYzhNZGwya2ZYeTRveUhBN25DNUNtRjBvWmEtZVhjamZRellyRTdUU1o5X1pObTR3djVWWHdzZVo2LTd2QQ?oc=5",
+    "source": "Industrial B2B",
+    "source_category": "industry_industrial",
+    "published": "2026-02-26T08:00:00+00:00",
+    "summary": "B2B Ecommerce | News | Reports Digital Commerce 360",
+    "image_url": null,
+    "tags": [],
+    "industries": [
       "retail",
       "industrial"
     ],
@@ -125,6 +118,29 @@
     "industries": [
       "retail",
       "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "6061e1bba011",
+    "title": "OpenAI raises $110B in one of the largest private funding rounds in history",
+    "url": "https://techcrunch.com/2026/02/27/openai-raises-110b-in-one-of-the-largest-private-funding-rounds-in-history/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-02-27T14:13:01+00:00",
+    "summary": "The new funding consists of a $50 billion investment from Amazon as well as $30 billion each from Nvidia and SoftBank, against a $730 billion valuation.",
+    "image_url": null,
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Amazon",
+      "nvidia",
+      "OpenAI"
+    ],
+    "industries": [
+      "retail",
+      "industrial",
+      "financial"
     ],
     "relevance_score": 10
   }
