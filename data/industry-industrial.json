@@ -45,6 +45,23 @@
     "relevance_score": 54
   },
   {
+    "id": "62b56f4e6345",
+    "title": "Salesforce targets telecom churn with AI agents - MarTech",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zbFVFMlBpQ05JOEJhZFowWDZhS3FRcGNBS0hnWGtDNUQ0RVg0VUphUWNNWWQ5ajJpdGc1OE1faVN2TkFFbFNvbnYxQXhDa3NMNHViSklFR3JRT3EwUkZaYzhmajI5UVVjSGZFaU83MEM2VGozMVRn?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-26T16:35:36+00:00",
+    "summary": "Salesforce targets telecom churn with AI agents MarTech",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "telecom",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 45
+  },
+  {
     "id": "9a197fc98995",
     "title": "How to architect AI agents in your martech stack",
     "url": "https://martech.org/how-to-architect-ai-agents-in-your-martech-stack/",
@@ -58,23 +75,6 @@
     ],
     "industries": [
       "tech",
-      "industrial"
-    ],
-    "relevance_score": 50
-  },
-  {
-    "id": "62b56f4e6345",
-    "title": "Salesforce targets telecom churn with AI agents - MarTech",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE8zbFVFMlBpQ05JOEJhZFowWDZhS3FRcGNBS0hnWGtDNUQ0RVg0VUphUWNNWWQ5ajJpdGc1OE1faVN2TkFFbFNvbnYxQXhDa3NMNHViSklFR3JRT3EwUkZaYzhmajI5UVVjSGZFaU83MEM2VGozMVRn?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-02-26T16:35:36+00:00",
-    "summary": "Salesforce targets telecom churn with AI agents MarTech",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "retail",
       "industrial"
     ],
     "relevance_score": 45
@@ -114,7 +114,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 29
+    "relevance_score": 24
   },
   {
     "id": "13de52fa3121",
@@ -133,26 +133,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 29
-  },
-  {
-    "id": "11edafeb0f8f",
-    "title": "AI is moving faster than customer trust",
-    "url": "https://martech.org/ai-is-moving-faster-than-customer-trust/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-02-27T15:09:15+00:00",
-    "summary": "Marketers are racing ahead with AI, but unless brands close the trust gap, customers may never fully embrace AI-powered engagement. The post AI is moving faster than customer trust appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/02/Screenshot-2026-02-27-at-9.26.17-AM.png",
-    "tags": [
-      "Customer experience"
-    ],
-    "industries": [
-      "tech",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 26
+    "relevance_score": 24
   },
   {
     "id": "e88289830838",
@@ -175,13 +156,32 @@
     "relevance_score": 21
   },
   {
-    "id": "f283faaf59e3",
-    "title": "Upgrading agentic AI for finance workflows - AI News",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlo0M3pGYldTbmhCYlJuQU1wTnVTUkw5cWlSSHQ2XzV3ZUVMSC1vVVFLQ2pjc3ZpcWxFQ3J5MnJnNXpSVF90NS1WMFNudWNOQ09fTTJ1TkVoV0YxMl9MSXZkamswMDE1ME1WZ1F0R3JzQmY2aDVCYUo3c3UwbUpDMmpna19pVjR4VmhJdmdfSHdnX1d6enV3?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-02-28T06:30:00+00:00",
-    "summary": "Upgrading agentic AI for finance workflows AI News",
+    "id": "11edafeb0f8f",
+    "title": "AI is moving faster than customer trust",
+    "url": "https://martech.org/ai-is-moving-faster-than-customer-trust/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-02-27T15:09:15+00:00",
+    "summary": "Marketers are racing ahead with AI, but unless brands close the trust gap, customers may never fully embrace AI-powered engagement. The post AI is moving faster than customer trust appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/02/Screenshot-2026-02-27-at-9.26.17-AM.png",
+    "tags": [
+      "Customer experience"
+    ],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 21
+  },
+  {
+    "id": "6bd7d274897f",
+    "title": "Adobe Inc. $ADBE Stock Holdings Raised by Rafferty Asset Management LLC - MarketBeat",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQUnVreTNEWWlqSVlIbjJucVppaXVfWnAzSFZ0QjljZ3BFNTA3YnUta0syOXJsMzVzOEE1LUFCeVBJcWxNeTB5a1FRV0M4cDRDeURCUTFDaWpqVFpXS0lkZVBod2paNk5qOFNwbkZINGl5WGpaMTA2YjRuRHA4LTJYQW8yT2Y4SGZwQWZ2N3FQek0xNHVuR1VjRGRjY0tEYTFYRzdvbzNQS3ZlUXJPZXd2QlN3Mmo4cmNpTmR6NlVjd05ubVJuaEZuLVBR?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-02-28T13:07:09+00:00",
+    "summary": "Adobe Inc. $ADBE Stock Holdings Raised by Rafferty Asset Management LLC MarketBeat",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -190,65 +190,19 @@
     "relevance_score": 15
   },
   {
-    "id": "3e66a287bec2",
-    "title": "Salesforce launches Agentforce for communications to turn every customer interaction into a growth opportunity for telcos - varindia.com",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNzZ4bkRYTVJ6R0tDVDN5LTRFbmpuT0ZWLTR6RUR4VFVGVUZsYkMteXl0SVBhWG5PSmhsYXNBUFVMeDhXQm5ld3R3SmM4ZFlaaTdub2JhWVRvSy1kNVFBRFFPNWRKMzh4amZPcF9LMlluRkt2Tl8zaDZvU1ozQUpFRUphSkp5WTVKVjFPeXJHbUdOX3FkVGdfZkhiNk1rX1JDMVFsVEwtRnpUT3JMa3p1d0c5enFnU05oYllCM3pZc2xuZ3dIbTh6cmg3TEtiVkstTWJsVGZxcms3M3lJc2FyZmFzdXVodw?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-02-28T08:29:59+00:00",
-    "summary": "Salesforce launches Agentforce for communications to turn every customer interaction into a growth opportunity for telcos varindia.com",
+    "id": "19e3e4681147",
+    "title": "Why I still miss Adobe after switching to open-source alternatives - How-To Geek",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOUlllNmM4dWQyaWk5MS1yMEQySDRqNzJqWWx6TGxUTUtRUUIxTWJlZjFweS0zaHhxTjBOVExjLXpCSVhhbGc4VDVuWmtBOG5ieEgxYnpuQUtaY28weW5lMFBqR005cjNleVFlVFg1ZXJ5QU1kSXEwTXBoVm1oLXlNSjZqZk9LTnhSaTYwa2VneUFrQjd0VjV4aQ?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-02-28T15:30:16+00:00",
+    "summary": "Why I still miss Adobe after switching to open-source alternatives How-To Geek",
     "image_url": null,
     "tags": [],
     "industries": [
       "industrial"
     ],
     "relevance_score": 15
-  },
-  {
-    "id": "162c72841c4e",
-    "title": "Salesforce Launches Telco-Specific AI Agents to Address Revenue Stagnation - The Fast Mode",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQmNGTFlnSUFSSUFQMUtTdDkyV3pUdTZ1eUFKTDJFOVdpcS1tMTQ1NU1MMVBSeVZnVC1SUFdUNHRRb0t4SzVZeGtYa3F4ZGduZ21IcTF6MW1XUDBfeTBNbzc0M0pvUkI0RjhUU0ZWT0dhQ0l5M1ltcDZDYkN5Z0Rtbjc0VGxoV0JFUU5yZzZGZEZSU1NHRkl1NC1pYmdHczNQVU13d1hrVldISkRkWkNkV2VPcjZDNTRTcEZWQkNabXdpMmkweTNueQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-02-28T09:05:34+00:00",
-    "summary": "Salesforce Launches Telco-Specific AI Agents to Address Revenue Stagnation The Fast Mode",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "8a60070078e1",
-    "title": "B2B Ecommerce | News | Reports - Digital Commerce 360",
-    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KNFl3SUZsYVhSSEljZkVOdEFJWnpmRWxSSG9CelJMUGlYYzhNZGwya2ZYeTRveUhBN25DNUNtRjBvWmEtZVhjamZRellyRTdUU1o5X1pObTR3djVWWHdzZVo2LTd2QQ?oc=5",
-    "source": "Industrial B2B",
-    "source_category": "industry_industrial",
-    "published": "2026-02-28T10:19:02+00:00",
-    "summary": "B2B Ecommerce | News | Reports Digital Commerce 360",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "fa13066dd19e",
-    "title": "Campaign Trail: Bosch builds cute robots to push windshield wiper innovation",
-    "url": "https://www.marketingdive.com/news/campaign-trail-bosch-builds-cute-robots-windshield-wiper-innovation/812975/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-02-27T15:10:00+00:00",
-    "summary": "Created with agency Bailey Lauerman, “Impressive Innovation” demonstrates how the company brings precision and performance to wipers and beyond.",
-    "image_url": "https://imgproxy.divecdn.com/BVpstendOVn1eeeN-nildj4ExYwfyK1njAn3AQPiFzw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Cb3NjaF9JbXByZXNzaXZlX0lubm92YXRpb25fMC05X3NjcmVlbnNob3QucG5n.webp",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 14
   },
   {
     "id": "ba202c14c9d1",
@@ -258,21 +212,6 @@
     "source_category": "ai_marketing",
     "published": "2026-02-23T13:00:00+00:00",
     "summary": "Treasure Data Unveils Treasure Code, Bringing Agentic AI to Customer Data Operations Business Wire",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "6b76b8c84583",
-    "title": "Photoshop 2026 Introduces Generative Fill With Reference Image - Fstoppers",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdUlld2Q4UDRjYlFJMzhpcE1tUkVpb0doVnRycHV1eFRldlQ3a0NSNDg5bnA3c0ZvSmYyTERmZ3dSZGxURFJIYWc3MXk4cFZWQXVydWk0d2F5cGNRVEd1Ul84dVFBMkg2dDYweW5oLXl1V3pQdW5hd1A3ZjVrZnlfQ1hjQnNkY0RqdWphSi1GTHFDWHAzNUhmTVpCOEg?oc=5",
-    "source": "Adobe Products",
-    "source_category": "adobe",
-    "published": "2026-02-23T15:03:01+00:00",
-    "summary": "Photoshop 2026 Introduces Generative Fill With Reference Image Fstoppers",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -293,22 +232,6 @@
     "industries": [
       "tech",
       "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "580e0bcb88bb",
-    "title": "Hillsdale Investment Management Inc. Cuts Holdings in Adobe Inc. $ADBE - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNbHFpSXJYVVAtUkRnS09UQVFoMlA4aS1oZlZqMWJjREZUWjVXOXJBa21VbDkzbDRLdEdNMUJCQWM0ME0zMUhUbFo0R1J1SHp3X1p2SHlnbWVmLVhZWVZkb1RYS3MxeEk4Vm9ydHdvVGNqaGFvX2tnd2VzY3FhanE1QjRmNEo3WnZockFMMHFtRGtubmNXdDZ5TGpQbUktWkg4ZXkwSUY4MnFpdEFCUnRZaGVXSDRFTlI5dWRzSEZvQzZjZXpMajVV?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-02-24T10:54:12+00:00",
-    "summary": "Hillsdale Investment Management Inc. Cuts Holdings in Adobe Inc. $ADBE MarketBeat",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "financial"
     ],
     "relevance_score": 10
   },
@@ -460,13 +383,13 @@
     "relevance_score": 10
   },
   {
-    "id": "deb53002de16",
-    "title": "Adobe Firefly’s video editor can now automatically create a first draft from footage - TechCrunch",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRlhFSUpxMkpnakY2c2xYMXhlRW9QWWNQRXBmbUdIZXVZZFBiZ0d2WGhiamlMX3E3VGpiXzhjQzFQUkNNS2xEYXR3SXhJdlFvYnU1N1dXZ2p0Y25ZZDlXZEFtLWdLSkI4SHpabDAxRUJ4MzRtY01tU09pejdrdkV5UEphUFRPVEx0Zi0wRGp4X2tfODBUZWNscEtWbnVETnk0TXFQZUFoSDMweGU0MldaMnU2c201bXBZdXc?oc=5",
+    "id": "96c9f46f674a",
+    "title": "Adobe’s new AI video editing tool stitches clips into a first draft - The Verge",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLWFlWU5MTWJWWjJoUTRzX2l4RjVsS0hucXNtdmU1cUNhVlBWUlVxM0FqYWN1Vl9vaFBCT0hsc2xCaFJZdmRjVk1meUhfS0E4MXllVWhCRkVyUmFoZzFwbU1WY2lzQWZxVDM1MDl1QUtpUF9WQjlKMTF0enZpeWZIS0VGWQ?oc=5",
     "source": "Adobe",
     "source_category": "adobe",
     "published": "2026-02-25T14:00:00+00:00",
-    "summary": "Adobe Firefly’s video editor can now automatically create a first draft from footage TechCrunch",
+    "summary": "Adobe’s new AI video editing tool stitches clips into a first draft The Verge",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -475,13 +398,13 @@
     "relevance_score": 10
   },
   {
-    "id": "96c9f46f674a",
-    "title": "Adobe’s new AI video editing tool stitches clips into a first draft - The Verge",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQLWFlWU5MTWJWWjJoUTRzX2l4RjVsS0hucXNtdmU1cUNhVlBWUlVxM0FqYWN1Vl9vaFBCT0hsc2xCaFJZdmRjVk1meUhfS0E4MXllVWhCRkVyUmFoZzFwbU1WY2lzQWZxVDM1MDl1QUtpUF9WQjlKMTF0enZpeWZIS0VGWQ?oc=5",
+    "id": "deb53002de16",
+    "title": "Adobe Firefly’s video editor can now automatically create a first draft from footage - TechCrunch",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQRlhFSUpxMkpnakY2c2xYMXhlRW9QWWNQRXBmbUdIZXVZZFBiZ0d2WGhiamlMX3E3VGpiXzhjQzFQUkNNS2xEYXR3SXhJdlFvYnU1N1dXZ2p0Y25ZZDlXZEFtLWdLSkI4SHpabDAxRUJ4MzRtY01tU09pejdrdkV5UEphUFRPVEx0Zi0wRGp4X2tfODBUZWNscEtWbnVETnk0TXFQZUFoSDMweGU0MldaMnU2c201bXBZdXc?oc=5",
     "source": "Adobe",
     "source_category": "adobe",
     "published": "2026-02-25T14:00:00+00:00",
-    "summary": "Adobe’s new AI video editing tool stitches clips into a first draft The Verge",
+    "summary": "Adobe Firefly’s video editor can now automatically create a first draft from footage TechCrunch",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -626,21 +549,6 @@
     "industries": [
       "tech",
       "consumer",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "93ff9f031e99",
-    "title": "Salesforce (CRM) Reports Strong Demand for Agentforce - GuruFocus",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOdk9zNklvOS01U2RoaVhFSVlicTE2Njg3cURTdXNKc2NxcnJCUEpJWTVsWXkzTF9UTGkxNWMtYzlBUHlOc1B1Z1pIUTlmTzJkZmVOYUZjSDNjNnZfYnoxeDIyQk9mbWxZQXBaUlo3bW9vb1hJMEF2a0tnbVZoRXJDZHlZRzVLazdWU1lRMTdjY0xkZHQ1?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-02-25T23:36:09+00:00",
-    "summary": "Salesforce (CRM) Reports Strong Demand for Agentforce GuruFocus",
-    "image_url": null,
-    "tags": [],
-    "industries": [
       "industrial"
     ],
     "relevance_score": 10
@@ -808,22 +716,6 @@
     "relevance_score": 10
   },
   {
-    "id": "e66f3e03711f",
-    "title": "Salesforce Targets the ITSM Status Quo: 180 Organizations Replace Legacy Support Tools with Agentforce IT Service - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxOWlBoZ3BCVFRfVWYtdS1BdjhVeDRhV1lmTTdjOG9Rb1BBWUFYX19Ub2Vjb1h4UHpJSGk4U3hXZkhYMUxvYVpLM2R5SXNydmQ1TDJ2aHBtazBxXzZFWHZQbnpENWpNWF9YaTBsbWdRTTR4UTE0b1NWZDR1VXNneHQtWjdSWWUtcEFvbklBaHBXZXVKSkNoSHVwRHA1SDk4VlJEdHh5RnBPcGs4VXh6azdvVEpCLWN4cmpiWEhRaFlOR2tBRU1VUXJGdU9iMTB0RjRHUEVJNGpETXBHZzFGTnNnMkYtbzEyNm9YTjJZMm5meFNodzV0Smt4NTlXSVlDSlBiNkdUZ0RJQWYtT2JwV25N?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-02-26T13:00:00+00:00",
-    "summary": "Salesforce Targets the ITSM Status Quo: 180 Organizations Replace Legacy Support Tools with Agentforce IT Service FinancialContent",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "373ed00714ca",
     "title": "Salesforce launches telco-specific AI agents to improve sales and customer retention - SiliconANGLE",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNNGFEc2EtUjRoZzhwMnJHZm1hc2xGb1lfajFmZml0TFBaUnFrdG9IdlNkWkg2MzJuU2Uyb3F4RGsyd3ZUUVh0YXN1NURXVG1tRmpFQ2dta3g1cWpIR29TN0w4ai1OaDN2RVZoWTlDQU5yYkoxYURFc0tVZktXd2ZFWUl0NEc1NDl5b2JaU0xJLWloYWpXN21HMU83ZzJvOC1LR2w1cWZ1Mk5aWDJhY0hGV2pOY3E?oc=5",
@@ -953,6 +845,21 @@
     "relevance_score": 10
   },
   {
+    "id": "9a31eb859dab",
+    "title": "Jim Cramer is Shocked By Reports of Slow Salesforce (CRM) Agentforce - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxONDdDeXlNN1dmNnhWeDZoc3RsVTI4WjJBOVdFeEthS3ZtRHVJN3h6cVZOZURIRWNZSTJ6VTRHOU1vS1V2a0w4YmJOenk5OGYxTnY4aTl4bnBSMzNnRzN3MF8zckhpQ2psVUZxblpLaExlXy1vWGlNQ21yYnQwY1dUdEtnTQ?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-26T15:22:28+00:00",
+    "summary": "Jim Cramer is Shocked By Reports of Slow Salesforce (CRM) Agentforce Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "fe4f105966cd",
     "title": "TikTok, MLB tap into growing baseball fandom with expanded content tie-up",
     "url": "https://www.marketingdive.com/news/tiktok-mlb-tap-into-growing-baseball-fandom-with-expanded-content-tie-up/813000/",
@@ -983,22 +890,6 @@
       "gemini",
       "Google"
     ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "5251ca1186d5",
-    "title": "Top SaaS SEO consulting agencies in the UK - London Business News",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPOXJfYXdON08zNnBfUVIwbXVyVFRPQ3Y5eHdGaDExQWpaMVpHdDhlOUdZbXhRLU5SN05GN290VjhGMXRxU2pyYkh2bldqNVltYUVqMHlyVUVXeDRDaDF6UVZLNkpjVFRJU2lUWE9NQk1DTFNSeWJSSFFTdjBlQUM4Nw?oc=5",
-    "source": "Tech Marketing",
-    "source_category": "industry_tech",
-    "published": "2026-02-26T16:12:50+00:00",
-    "summary": "Top SaaS SEO consulting agencies in the UK London Business News",
-    "image_url": null,
-    "tags": [],
     "industries": [
       "tech",
       "industrial"
@@ -1046,23 +937,6 @@
     "relevance_score": 10
   },
   {
-    "id": "f2f56ba368cd",
-    "title": "Apple vs. Adobe: Which AI-Driven Tech Stock Has an Edge Now? - Zacks Investment Research",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQTGtqUEpZSGdTT3VoVnFRMGwxeWYwODFtU1lNLXdMdTNtNUNEbFBOVmtKcG9LcUdTS3VLQWFrWVdzZFJ6SVlGcFNCbVNCbERuN0k2LUtHZXN1LVd6cUI1a1VBZC1qaXY0UHZhN19PNDV4WUVBaS1DdkU3cnlJMDN6b05ZTl9jMVN6WUM0d1U2V3ZaVFAxdGJtRkNtamJjVFk?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-02-26T17:01:29+00:00",
-    "summary": "Apple vs. Adobe: Which AI-Driven Tech Stock Has an Edge Now? Zacks Investment Research",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "505450334e4f",
     "title": "Adobe’s New 'Quick Cut' AI Feature Can Turn Your Footage Into a First Cut in Seconds - No Film School",
     "url": "https://news.google.com/rss/articles/CBMiXEFVX3lxTE9FZHdfR2VRb0ZvdXFsTmFYOHdpa2o0RHZReDdkRlVKejJvY0puSXdRUVV3Tk9WcTEyd1o2T3BwY3QzMEpYTnlQWUZXOGR1MWxCYmVldEVLX3pwZ1U3?oc=5",
@@ -1085,6 +959,22 @@
     "source_category": "adobe",
     "published": "2026-02-26T17:59:00+00:00",
     "summary": "Apple vs. Adobe: Which AI-Driven Tech Stock Has an Edge Now? TradingView",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "25281d77a7ef",
+    "title": "Salesforce: A closer look at Agentforce, other software providers - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPUVhmbi0xbTd6VkI0MVFZdTVtRnRJZTQwdk5ZRS1EeWFiVm1MREJMczUyQnFFanpBenQ2RHZFenNHQTlsNnFLejY4Nm9CNDNmeS1zOFhxbnVpb2hVLWV0Ml8tY01VZzR0Yzg2STBwSUZvS2lWeUVWTzUzOWJscURDcFFjWlFzNkcxbC1Oc3RERQ?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-26T18:30:00+00:00",
+    "summary": "Salesforce: A closer look at Agentforce, other software providers Yahoo Finance",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1246,6 +1136,22 @@
     "relevance_score": 10
   },
   {
+    "id": "8a60070078e1",
+    "title": "B2B Ecommerce | News | Reports - Digital Commerce 360",
+    "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTE9KNFl3SUZsYVhSSEljZkVOdEFJWnpmRWxSSG9CelJMUGlYYzhNZGwya2ZYeTRveUhBN25DNUNtRjBvWmEtZVhjamZRellyRTdUU1o5X1pObTR3djVWWHdzZVo2LTd2QQ?oc=5",
+    "source": "Industrial B2B",
+    "source_category": "industry_industrial",
+    "published": "2026-02-27T08:00:00+00:00",
+    "summary": "B2B Ecommerce | News | Reports Digital Commerce 360",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "ff80e5ef0c24",
     "title": "Close Asset Management Ltd Has $15.53 Million Stake in Adobe Inc. $ADBE - MarketBeat",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPMDk0SFJHRnZKQUs2azhsQlBxZURMdkhfVTFWRkdDM3RpSHplSFhCaTkwSUptVXA0Z2p6Z2tNbHNsUmZaQ3RscFFRaXdVVXcxSHZNRGhEaGRvbnFmQkI1Tm51bVRjVURHbVlNSUtQbFVzeV9NTml2bVc2MnJxWmVwUjNRcVZRSDBSbEpxQkV0b29xZ2tGVUZPSUY1TDRnY3JPOExFc3VTUXRadXZIdl85S2JsWUg2YzdBMlp0bXNuOE5FLU1LUWRZ?oc=5",
@@ -1323,6 +1229,21 @@
     "relevance_score": 10
   },
   {
+    "id": "174988910a15",
+    "title": "Salesforce Pushes Deeper Into AI Agents With Momentum And Agentforce - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQdnBZZW5WSmtVeUZXQTVxMXhYdHdXSEljQXBsa01nb2dQT0c3MlZCeWdnU3RObHlSR2h0M0FzMXhxMnV2MUpDSGZWSmZObVZtQ2RSNGJuZ1hxUEh5VlZ1Qkh4UFoyelNNS1ltY0cxQXUwVEFpYUYtLXBseXh2bTNYTFBrOXNLN3M?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-27T13:13:03+00:00",
+    "summary": "Salesforce Pushes Deeper Into AI Agents With Momentum And Agentforce Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "47caa148909c",
     "title": "How Progressive balances AI use with authenticity as scrutiny persists",
     "url": "https://www.marketingdive.com/news/how-progressive-balances-ai-use-with-authenticity-as-scrutiny-persists/813339/",
@@ -1391,6 +1312,21 @@
     "published": "2026-02-27T15:00:00+00:00",
     "summary": "Learn the right terms to use when talking about agentic AI and all things smart tech.",
     "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "fa13066dd19e",
+    "title": "Campaign Trail: Bosch builds cute robots to push windshield wiper innovation",
+    "url": "https://www.marketingdive.com/news/campaign-trail-bosch-builds-cute-robots-windshield-wiper-innovation/812975/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-02-27T15:10:00+00:00",
+    "summary": "Created with agency Bailey Lauerman, “Impressive Innovation” demonstrates how the company brings precision and performance to wipers and beyond.",
+    "image_url": "https://imgproxy.divecdn.com/BVpstendOVn1eeeN-nildj4ExYwfyK1njAn3AQPiFzw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Cb3NjaF9JbXByZXNzaXZlX0lubm92YXRpb25fMC05X3NjcmVlbnNob3QucG5n.webp",
     "tags": [],
     "industries": [
       "industrial"
@@ -1529,6 +1465,51 @@
     "source_category": "adobe",
     "published": "2026-02-27T23:29:25+00:00",
     "summary": "GenAI Fears Have Crushed Adobe, But Investors Are Wrong (NASDAQ:ADBE) Seeking Alpha",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "f283faaf59e3",
+    "title": "Upgrading agentic AI for finance workflows - AI News",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNZlo0M3pGYldTbmhCYlJuQU1wTnVTUkw5cWlSSHQ2XzV3ZUVMSC1vVVFLQ2pjc3ZpcWxFQ3J5MnJnNXpSVF90NS1WMFNudWNOQ09fTTJ1TkVoV0YxMl9MSXZkamswMDE1ME1WZ1F0R3JzQmY2aDVCYUo3c3UwbUpDMmpna19pVjR4VmhJdmdfSHdnX1d6enV3?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-02-28T06:30:00+00:00",
+    "summary": "Upgrading agentic AI for finance workflows AI News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "3e66a287bec2",
+    "title": "Salesforce launches Agentforce for communications to turn every customer interaction into a growth opportunity for telcos - varindia.com",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxQNzZ4bkRYTVJ6R0tDVDN5LTRFbmpuT0ZWLTR6RUR4VFVGVUZsYkMteXl0SVBhWG5PSmhsYXNBUFVMeDhXQm5ld3R3SmM4ZFlaaTdub2JhWVRvSy1kNVFBRFFPNWRKMzh4amZPcF9LMlluRkt2Tl8zaDZvU1ozQUpFRUphSkp5WTVKVjFPeXJHbUdOX3FkVGdfZkhiNk1rX1JDMVFsVEwtRnpUT3JMa3p1d0c5enFnU05oYllCM3pZc2xuZ3dIbTh6cmg3TEtiVkstTWJsVGZxcms3M3lJc2FyZmFzdXVodw?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-28T08:29:59+00:00",
+    "summary": "Salesforce launches Agentforce for communications to turn every customer interaction into a growth opportunity for telcos varindia.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "162c72841c4e",
+    "title": "Salesforce Launches Telco-Specific AI Agents to Address Revenue Stagnation - The Fast Mode",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNQmNGTFlnSUFSSUFQMUtTdDkyV3pUdTZ1eUFKTDJFOVdpcS1tMTQ1NU1MMVBSeVZnVC1SUFdUNHRRb0t4SzVZeGtYa3F4ZGduZ21IcTF6MW1XUDBfeTBNbzc0M0pvUkI0RjhUU0ZWT0dhQ0l5M1ltcDZDYkN5Z0Rtbjc0VGxoV0JFUU5yZzZGZEZSU1NHRkl1NC1pYmdHczNQVU13d1hrVldISkRkWkNkV2VPcjZDNTRTcEZWQkNabXdpMmkweTNueQ?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-02-28T09:13:33+00:00",
+    "summary": "Salesforce Launches Telco-Specific AI Agents to Address Revenue Stagnation The Fast Mode",
     "image_url": null,
     "tags": [],
     "industries": [
