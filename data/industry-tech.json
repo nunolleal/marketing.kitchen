@@ -14,7 +14,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 69
+    "relevance_score": 64
   },
   {
     "id": "d4a52818a9e3",
@@ -87,22 +87,6 @@
       "industrial"
     ],
     "relevance_score": 28
-  },
-  {
-    "id": "afb59cb37e10",
-    "title": "How Brooks Brothers is refreshing the oldest apparel brand in the US",
-    "url": "https://www.marketingdive.com/news/how-brooks-brothers-is-refreshing-the-oldest-apparel-brand-in-the-us/813627/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-03-04T13:00:00+00:00",
-    "summary": "Marisa Thalberg, chief customer and marketing officer at Catalyst Brands, details how the “Make It Yours” campaign transforms the brand’s positioning.",
-    "image_url": "https://imgproxy.divecdn.com/mA_OV_anWeMECjEduRW1cwO42hEmBaxwCyaBvrk4RrA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CQl8tX01ha2VfSXRfWW91cnNfLV9MZXNsaWVfQmliYi0xLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "consumer"
-    ],
-    "relevance_score": 25
   },
   {
     "id": "fc0eba4f27c9",
@@ -180,6 +164,22 @@
       "industrial"
     ],
     "relevance_score": 24
+  },
+  {
+    "id": "afb59cb37e10",
+    "title": "How Brooks Brothers is refreshing the oldest apparel brand in the US",
+    "url": "https://www.marketingdive.com/news/how-brooks-brothers-is-refreshing-the-oldest-apparel-brand-in-the-us/813627/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-03-04T13:00:00+00:00",
+    "summary": "Marisa Thalberg, chief customer and marketing officer at Catalyst Brands, details how the “Make It Yours” campaign transforms the brand’s positioning.",
+    "image_url": "https://imgproxy.divecdn.com/mA_OV_anWeMECjEduRW1cwO42hEmBaxwCyaBvrk4RrA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CQl8tX01ha2VfSXRfWW91cnNfLV9MZXNsaWVfQmliYi0xLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 20
   },
   {
     "id": "529f84f13e2c",
@@ -273,92 +273,23 @@
     "relevance_score": 15
   },
   {
-    "id": "aa795ea9104e",
-    "title": "Salesforce to Acquire Momentum, Bringing Conversational AI Intelligence to Agentforce 360 - Cloud Wars",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUtsbEZMWFA3OUVYXzRpSzVyQ2VrbFpzZjdWcl9JWHh1LURhVURVNndsMkV6S3lPSmhzeXEwZHdIRC14Tm9FejE3LXhLSzNWbXFnOUt1VzJGTXRUMXJaZ2xid2c4S3lhRFJpSHdfWHhDWjJiTER2NDdpVlFUZDVsMXlzRTBpVnJMbnVEZUFtVGlUakV5Q2p6dURoOGdMel9RYU9xeWRmdWMyR0Foc2tvWHFoZGc?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-03-04T15:00:00+00:00",
-    "summary": "Salesforce to Acquire Momentum, Bringing Conversational AI Intelligence to Agentforce 360 Cloud Wars",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "1a3f5f9e4df8",
-    "title": "Varenne Capital Partners Reduces Stake in Adobe Inc. - National Today",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcWxxdzVRWjhWQjQ3eTlkeHBWX0RWQkZmeUJ6WWZKbTBmNlVLZXlWSFNzSkIxclMzTEUxUGhwWU52cUV2RUpvZnM4OV9MREZhNHZhOEdfYVctd2NJZDBFemZpWGpYSmhpeDZtWmNGSFdhcURLVzRXbXh0N3RHZjhSbzVyWlBoSWlQRnF1WUMwczRKT0l3X2hOaENpVE50LU0zWTEtLU14T19Ta2gtY3c?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-03-04T15:20:31+00:00",
-    "summary": "Varenne Capital Partners Reduces Stake in Adobe Inc. National Today",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "be7e2894d769",
-    "title": "SUPPLYCO AI Launches First AI Sales Intelligence Platform Built for Industrial Manufacturing - USA Today",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQdkZreG95WGIwbTdCX2UxZ0UxcENQcy16UVZTSEw1MzV2UEFVUVY4d0FlTHo0YS05SGdVZ1hhQ0NHdG1PV3U2OWstTXlxbE9oVmhnVlVMX0hvVWF5bXZhQUg5VWcwVUhjVi1qX1EzU2Rkei0xQlgxbVRTNlg4VjFLZW1GaGJQMXF6bkFZVUFoMEhVZGFzRm1IMjRrdjIyaDkzNzROUXdSSElyTm9fem1TU1hNeTdVMjdaWng5Y25TNTg3R0M0X1IyR1FScVN2emZma3lZMlgzT1M0V0hG?oc=5",
-    "source": "Industrial B2B",
-    "source_category": "industry_industrial",
-    "published": "2026-03-04T17:36:20+00:00",
-    "summary": "SUPPLYCO AI Launches First AI Sales Intelligence Platform Built for Industrial Manufacturing USA Today",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "02b89f3865a6",
-    "title": "Decagon completes first tender offer at $4.5B valuation",
-    "url": "https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/",
+    "id": "8b80d7d53a8b",
+    "title": "Apple Music to add Transparency Tags to distinguish AI music, says report",
+    "url": "https://techcrunch.com/2026/03/04/apple-music-to-add-transparency-tags-to-distinguish-ai-music-says-report/",
     "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-03-04T18:32:53+00:00",
-    "summary": "The AI-powered customer support startup is the latest example of a fast-growing, young company that's providing employee liquidity.",
+    "published": "2026-03-04T21:43:58+00:00",
+    "summary": "The label or distributor has to opt in to tagging their music as AI, so it's unclear how effective this intervention will be.",
     "image_url": null,
     "tags": [
       "AI",
-      "Startups",
-      "customer support",
-      "Decagon",
-      "liquidity"
+      "Media & Entertainment",
+      "apple music",
+      "In Brief",
+      "Music"
     ],
     "industries": [
       "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "f847a5e62658",
-    "title": "Google’s Gemini rolls out Canvas in AI Mode to all US users",
-    "url": "https://techcrunch.com/2026/03/04/googles-gemini-rolls-out-canvas-in-ai-mode-to-all-us-users/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-03-04T18:50:58+00:00",
-    "summary": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more.",
-    "image_url": null,
-    "tags": [
-      "AI",
-      "Apps",
-      "ai mode",
-      "Canvas",
-      "gemini"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
     ],
     "relevance_score": 15
   },
@@ -395,6 +326,21 @@
       "consumer"
     ],
     "relevance_score": 12
+  },
+  {
+    "id": "ede971ce2e86",
+    "title": "Top App Marketing Companies (2026) - Business of Apps",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9iOHBIX2I3SmVnTk9lM045WEdzeTBkNjlZbTZHTEVZbUROLUY3bEtMaElEeF9HMXI3bDVMS3NVSWZKWTN5TF9pRnJqUDBPdEtkMUNzQ1kzYUhkV1RTOF9uYUNLb3I1OUlK?oc=5",
+    "source": "Tech Marketing",
+    "source_category": "industry_tech",
+    "published": "2026-02-26T08:00:00+00:00",
+    "summary": "Top App Marketing Companies (2026) Business of Apps",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
   },
   {
     "id": "fdaa323f7755",
@@ -440,21 +386,6 @@
     "tags": [
       "The Download"
     ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "c9ca48317377",
-    "title": "The Zacks Analyst Blog Highlights Apple and Adobe - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQlRsdXE1SHZ0YnIwX2oxMmtYSmVfem9YZWNGNlkxYzEwdzQ2XzBWeDFFYnRNanpBa0lSRjc4UmxvNWJkOHNNX3JZQ0xGeURSVElPOWk5ZzFzakpMMXJJNVYzTGxKcTBUOWpfR2NRQ05YTk9TOW5CQUxkd0lpMnNqb2dQT0Fubzds?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-02-27T15:26:00+00:00",
-    "summary": "The Zacks Analyst Blog Highlights Apple and Adobe Yahoo Finance",
-    "image_url": null,
-    "tags": [],
     "industries": [
       "tech"
     ],
@@ -545,28 +476,6 @@
     "relevance_score": 10
   },
   {
-    "id": "0286270b97c6",
-    "title": "A married founder duo’s company, 14.ai, is replacing customer support teams at startups",
-    "url": "https://techcrunch.com/2026/03/02/a-married-founder-duos-company-14-ai-is-replacing-customer-support-teams-at-startups/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-03-02T15:14:36+00:00",
-    "summary": "14.ai also launched a consumer brand to understand how much AI can handle customer support tasks.",
-    "image_url": null,
-    "tags": [
-      "Startups",
-      "AI",
-      "Fundraising",
-      "Y Combinator",
-      "customer support"
-    ],
-    "industries": [
-      "tech",
-      "consumer"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "d1c4e5de6765",
     "title": "Top Tools For Content Creators: The Ultimate List",
     "url": "https://www.salesforce.com/blog/top-tools-for-content-creators-the-ultimate-list/",
@@ -595,8 +504,8 @@
       "AI",
       "Government & Policy",
       "Analysis",
-      "Anthropic",
-      "defense contracting"
+      "Exclusive",
+      "sam altman"
     ],
     "industries": [
       "tech",
@@ -733,13 +642,13 @@
     "relevance_score": 10
   },
   {
-    "id": "80e743c4990e",
-    "title": "Customer Onboarding Tips For Startups and Small Business",
-    "url": "https://www.salesforce.com/blog/customer-onboarding-tips-for-stratups/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-03-03T15:00:00+00:00",
-    "summary": "Welcome your new customers with these personalized onboarding tips.",
+    "id": "eb056cbdd5d3",
+    "title": "Death by a Thousand Cuts: What happens when a woman says the quiet part out loud - Creative Boom",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOdUIyQ0NnZzRSazRpNjRqZnV0RXhNNkYtdjZaVi1waTZFUFE3X1lXdXJxN0J2ZUoxYlZDNDdzMzhTY0dEWThkOU13ekZucTV4MVhLb1BDMUZUZUIwN3FGdVFjQVdnT0N0cENVYTdBTlJWb3FmSHFwZFNxU2xvMU5scFZuNVhyaFZFN0JSR1hzNnp2aDF4MmRyTU5xNTFiM0VjMFpHZGR6cENPVkxrVndTdnJzUmRTOGdo?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-03-03T14:00:00+00:00",
+    "summary": "Death by a Thousand Cuts: What happens when a woman says the quiet part out loud Creative Boom",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -748,13 +657,13 @@
     "relevance_score": 10
   },
   {
-    "id": "84a1dba90aeb",
-    "title": "PCCA Appoints Matt Line as First Chief Marketing Officer and Promotes Kim Speairs to Vice President of Communications - The Manila Times",
-    "url": "https://news.google.com/rss/articles/CBMimwJBVV95cUxOczU2dkxQWnVJWFB1M1pfUFAzM0VtekdSUVJ2OXVjUU92WGhxSG1Oa19oTnZrQXZUaElrT09CckUxU3FxbV9WRjRkZV9iTTdsMmxCaUNrbGVuN2xhZGU5V0RpcHUyS0ExeTFqQ0l6UmI5STRGdmoxNEN0Zk5oR0lxSjRWbHZQeHhOUmkzcE9mQjFDd0Z4aXl4ZUdFWk9BbXpNanFRbDNZOUtqVEdadk9yUGRhNXhZMzl0aWFkbTJJVjFBdWtvWUtCbVU5bG42aXBEQlJFX201VGNIN2h5SkhzTnBnaVdpZFJtYl96R1VUc184N2VTZUp3ZFhvSFR2NWx5X09yOEtaaFc4SWdCUnRKZkh1MVZXRmRlYWF30gGgAkFVX3lxTFBfSlp1ZFprT21CN1BQZFdYUjExR19sb1R6dGtWQXIzT3pIbFI0ZXl2UWkxTWdEVjhKcjFyV210Q1lTQjk4LTg1akFfbDlRZ0NCR2NFSVdENWdROVRWU25JcmRNTmVsWkRwTHRlZUZqMlVSaHFfcnM5VjdYYUlsNjZTMVA5a1kxT3pOSy1kV3oycnNlUnB4MWVwUVN0UUZvOTYtRms0YVF3QWlOSC1NcnBmQXYxQXQ5azJHUXAzcDZWTi1nTC13THpMUmhXMU1ueDg1ZXJ3aGxBeXBSRHpacUJpTkVrY3FCcjBwbUsxTHdmaGJoZFRHQ2dWWVRVT0ZqeE8xZHFIMXRhSFNYcWMzaDYyTVBLZnFMdHplQURnT243dQ?oc=5",
-    "source": "Marketing Strategy",
-    "source_category": "marketing",
-    "published": "2026-03-03T15:17:35+00:00",
-    "summary": "PCCA Appoints Matt Line as First Chief Marketing Officer and Promotes Kim Speairs to Vice President of Communications The Manila Times",
+    "id": "80e743c4990e",
+    "title": "Customer Onboarding Tips For Startups and Small Business",
+    "url": "https://www.salesforce.com/blog/customer-onboarding-tips-for-stratups/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-03-03T15:00:00+00:00",
+    "summary": "Welcome your new customers with these personalized onboarding tips.",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -904,6 +813,80 @@
     "tags": [],
     "industries": [
       "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "aa795ea9104e",
+    "title": "Salesforce to Acquire Momentum, Bringing Conversational AI Intelligence to Agentforce 360 - Cloud Wars",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOdUtsbEZMWFA3OUVYXzRpSzVyQ2VrbFpzZjdWcl9JWHh1LURhVURVNndsMkV6S3lPSmhzeXEwZHdIRC14Tm9FejE3LXhLSzNWbXFnOUt1VzJGTXRUMXJaZ2xid2c4S3lhRFJpSHdfWHhDWjJiTER2NDdpVlFUZDVsMXlzRTBpVnJMbnVEZUFtVGlUakV5Q2p6dURoOGdMel9RYU9xeWRmdWMyR0Foc2tvWHFoZGc?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-03-04T15:00:00+00:00",
+    "summary": "Salesforce to Acquire Momentum, Bringing Conversational AI Intelligence to Agentforce 360 Cloud Wars",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "1a3f5f9e4df8",
+    "title": "Varenne Capital Partners Reduces Stake in Adobe Inc. - National Today",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPcWxxdzVRWjhWQjQ3eTlkeHBWX0RWQkZmeUJ6WWZKbTBmNlVLZXlWSFNzSkIxclMzTEUxUGhwWU52cUV2RUpvZnM4OV9MREZhNHZhOEdfYVctd2NJZDBFemZpWGpYSmhpeDZtWmNGSFdhcURLVzRXbXh0N3RHZjhSbzVyWlBoSWlQRnF1WUMwczRKT0l3X2hOaENpVE50LU0zWTEtLU14T19Ta2gtY3c?oc=5",
+    "source": "Adobe Inc",
+    "source_category": "adobe",
+    "published": "2026-03-04T15:20:31+00:00",
+    "summary": "Varenne Capital Partners Reduces Stake in Adobe Inc. National Today",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "02b89f3865a6",
+    "title": "Decagon completes first tender offer at $4.5B valuation",
+    "url": "https://techcrunch.com/2026/03/04/decagon-completes-first-tender-offer-at-4-5b-valuation/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-03-04T18:32:53+00:00",
+    "summary": "The AI-powered customer support startup is the latest example of a fast-growing, young company that's providing employee liquidity.",
+    "image_url": null,
+    "tags": [
+      "AI",
+      "Startups",
+      "customer support",
+      "Decagon",
+      "liquidity"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "298e21b28005",
+    "title": "Google Search rolls out Gemini’s Canvas in AI Mode to all US users",
+    "url": "https://techcrunch.com/2026/03/04/https-techcrunch-com-2026-03-04-google-search-rolls-out-geminis-canvas-in-ai-mode-to-all-us-users/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-03-04T18:50:58+00:00",
+    "summary": "Canvas in AI Mode is available to U.S. users in English for creating plans, projects, apps, and more.",
+    "image_url": null,
+    "tags": [
+      "AI",
+      "Apps",
+      "ai mode",
+      "Canvas",
+      "gemini"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 10
   }
