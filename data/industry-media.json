@@ -14,7 +14,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 64
+    "relevance_score": 59
   },
   {
     "id": "2a7a3407aa13",
@@ -53,27 +53,6 @@
       "industrial"
     ],
     "relevance_score": 45
-  },
-  {
-    "id": "a850d64d6de4",
-    "title": "Sandbar secures $23M Series A for its AI note-taking ring",
-    "url": "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-03-10T12:40:37+00:00",
-    "summary": "Sandbar aims to ship the Stream, which can be used to take notes, chat with an AI assistant, and for media playback, this summer.",
-    "image_url": null,
-    "tags": [
-      "AI",
-      "Gadgets",
-      "Hardware",
-      "Adjacent",
-      "AI note-taking"
-    ],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 15
   },
   {
     "id": "d428172715cc",
@@ -213,6 +192,42 @@
     "industries": [
       "media",
       "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "0ff0ead00dea",
+    "title": "ABA Taps PK Velocity Sports & Entertainment to Lead National Sponsorship and Streaming Strategy - lelezard.com",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE4xei0wMjVLOFlTdEJkZFY5dmlnbDNKSW11MjMyRXlaNVVUcjhBZWszem8yeTRuWGN2QVI3QjJvczI1Z09BWVJXT1pKWTRVSmFPTUhEeXlVa0FTZw?oc=5",
+    "source": "Media Entertainment",
+    "source_category": "industry_media",
+    "published": "2026-03-10T01:58:25+00:00",
+    "summary": "ABA Taps PK Velocity Sports & Entertainment to Lead National Sponsorship and Streaming Strategy lelezard.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "a850d64d6de4",
+    "title": "Sandbar secures $23M Series A for its AI note-taking ring",
+    "url": "https://techcrunch.com/2026/03/10/sandbar-secures-23m-series-a-for-its-ai-note-taking-ring/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-03-10T12:40:37+00:00",
+    "summary": "Sandbar aims to ship the Stream, which can be used to take notes, chat with an AI assistant, and for media playback, this summer.",
+    "image_url": null,
+    "tags": [
+      "AI",
+      "Gadgets",
+      "Hardware",
+      "Startups",
+      "Adjacent"
+    ],
+    "industries": [
+      "media"
     ],
     "relevance_score": 10
   }
