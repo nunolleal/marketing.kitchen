@@ -185,6 +185,32 @@ def extract_image(entry):
     return None
 
 
+def fetch_og_image(url):
+    """Fetch the article page and extract og:image or twitter:image meta tag."""
+    try:
+        headers = {"User-Agent": USER_AGENT}
+        resp = requests.get(url, headers=headers, timeout=8, allow_redirects=True)
+        resp.raise_for_status()
+
+        # Only parse first 50KB to avoid large page downloads
+        head = resp.text[:50000]
+
+        # Try og:image and twitter:image (both attribute orders)
+        for pattern in [
+            r'<meta\s+(?:property|name)=["\'](?:og:image|twitter:image(?::src)?)["\']\s+content=["\']([^"\']+)["\']',
+            r'<meta\s+content=["\']([^"\']+)["\']\s+(?:property|name)=["\'](?:og:image|twitter:image(?::src)?)["\']',
+        ]:
+            match = re.search(pattern, head, re.IGNORECASE)
+            if match:
+                img_url = match.group(1).strip()
+                if img_url.startswith("http") and not img_url.endswith(".gif"):
+                    return img_url
+
+    except Exception:
+        pass
+    return None
+
+
 def clean_html(text):
     """Remove HTML tags and decode entities."""
     if not text:
@@ -438,6 +464,20 @@ def main():
     # Deduplicate
     all_articles = deduplicate(all_articles)
     print(f"After dedup: {len(all_articles)}")
+
+    # Fetch og:image for articles missing images
+    no_image = [a for a in all_articles if not a["image_url"]]
+    print(f"\n--- Fetching og:image for {len(no_image)} articles without images ---")
+    og_found = 0
+    for i, article in enumerate(no_image):
+        img = fetch_og_image(article["url"])
+        if img:
+            article["image_url"] = img
+            og_found += 1
+        if (i + 1) % 20 == 0:
+            print(f"  Progress: {i + 1}/{len(no_image)} checked, {og_found} images found")
+        time.sleep(0.5)
+    print(f"  og:image scraping done: found {og_found}/{len(no_image)} images")
 
     # Clean up vendor field before output (not needed in JSON)
     for article in all_articles:
