@@ -30,7 +30,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 27
+    "relevance_score": 22
   },
   {
     "id": "a51dfefa0518",
@@ -66,27 +66,6 @@
       "tech",
       "retail",
       "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "57605972ad36",
-    "title": "Amazon brings Alexa+ to the UK",
-    "url": "https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-03-19T12:27:24+00:00",
-    "summary": "The company is currently letting users in the U.K. try out Alexa+ for free via an early access program.",
-    "image_url": null,
-    "tags": [
-      "AI",
-      "Apps",
-      "Alexa",
-      "alexa+",
-      "Amazon"
-    ],
-    "industries": [
-      "retail"
     ],
     "relevance_score": 15
   },
@@ -138,6 +117,27 @@
     "industries": [
       "retail",
       "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "57605972ad36",
+    "title": "Amazon brings Alexa+ to the UK",
+    "url": "https://techcrunch.com/2026/03/19/amazon-brings-alexa-to-the-uk/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-03-19T12:27:24+00:00",
+    "summary": "The company is currently letting users in the U.K. try out Alexa+ for free via an early access program.",
+    "image_url": null,
+    "tags": [
+      "AI",
+      "Apps",
+      "Alexa",
+      "alexa+",
+      "Amazon"
+    ],
+    "industries": [
+      "retail"
     ],
     "relevance_score": 10
   }
