@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Access Denied</title>
+    <style>
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+        body {
+            min-height: 100vh;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            background: linear-gradient(135deg, #1a1a2e 0%, #16213e 50%, #0f3460 100%);
+            font-family: 'Inter', -apple-system, sans-serif;
+            color: #fff;
+            text-align: center;
+            padding: 24px;
+        }
+        .blocked-card {
+            max-width: 520px;
+            background: rgba(255,255,255,0.06);
+            border: 1px solid rgba(255,255,255,0.1);
+            border-radius: 24px;
+            padding: 48px 40px;
+            backdrop-filter: blur(20px);
+        }
+        .blocked-emoji { font-size: 80px; margin-bottom: 24px; }
+        h1 { font-size: 2rem; font-weight: 800; margin-bottom: 12px; }
+        p { font-size: 1.1rem; opacity: 0.8; line-height: 1.6; margin-bottom: 24px; }
+        .nuno-note { font-size: 0.85rem; opacity: 0.5; font-style: italic; }
+        .back-btn {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 12px 32px;
+            background: rgba(255,255,255,0.12);
+            border: 1px solid rgba(255,255,255,0.2);
+            border-radius: 12px;
+            color: #fff;
+            text-decoration: none;
+            font-weight: 600;
+            transition: background 0.2s;
+        }
+        .back-btn:hover { background: rgba(255,255,255,0.2); }
+    </style>
+</head>
+<body>
+    <div class="blocked-card">
+        <div class="blocked-emoji">&#128683;</div>
+        <h1>No way.</h1>
+        <p>Nuno blocked you from doing this.</p>
+        <p class="nuno-note">Nice try though. His mom's Facebook is sacred territory.</p>
+        <a href="index.html" class="back-btn">Back to the Kitchen</a>
+    </div>
+</body>
+</html>

@@ -31,6 +31,12 @@
         // Hide global loading state
         if (loadingEl) loadingEl.style.display = 'none';
 
+        // Easter egg: ~20% chance to show on each page load
+        const egg = document.getElementById('easterEgg');
+        if (egg && Math.random() < 0.2) {
+            egg.style.display = 'inline-block';
+        }
+
     } catch (err) {
         console.error('Failed to initialize The Marketing Kitchen:', err);
 
