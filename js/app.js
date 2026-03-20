@@ -33,7 +33,7 @@
 
         // Easter egg: ~20% chance to show on each page load
         const egg = document.getElementById('easterEgg');
-        if (egg && Math.random() < 0.2) {
+        if (egg && Math.random() < 0.6) {
             egg.style.display = 'inline-block';
         }
 
