@@ -31,25 +31,33 @@
       { "name": "GN - Salesforce AI", "url": "https://news.google.com/rss/search?q=Salesforce+Einstein+OR+Salesforce+Agentforce&hl=en-US&gl=US&ceid=US:en", "category": "salesforce", "reliability": "high" }
     ],
     "industry_specific": [
-      { "name": "GN - Media Entertainment", "url": "https://news.google.com/rss/search?q=media+entertainment+streaming+brand+strategy+US&hl=en-US&gl=US&ceid=US:en", "category": "industry_media", "reliability": "high" },
-      { "name": "GN - Tech Marketing", "url": "https://news.google.com/rss/search?q=SaaS+marketing+OR+tech+company+brand+strategy+US&hl=en-US&gl=US&ceid=US:en", "category": "industry_tech", "reliability": "high" },
-      { "name": "GN - Telecom Marketing", "url": "https://news.google.com/rss/search?q=telecom+5G+customer+experience+marketing+US&hl=en-US&gl=US&ceid=US:en", "category": "industry_telecom", "reliability": "high" },
-      { "name": "GN - Retail Marketing", "url": "https://news.google.com/rss/search?q=retail+brand+strategy+customer+loyalty+ecommerce+US&hl=en-US&gl=US&ceid=US:en", "category": "industry_retail", "reliability": "high" },
-      { "name": "GN - Consumer Goods", "url": "https://news.google.com/rss/search?q=CPG+consumer+goods+brand+strategy+DTC+US&hl=en-US&gl=US&ceid=US:en", "category": "industry_consumer", "reliability": "high" },
-      { "name": "GN - Industrial B2B", "url": "https://news.google.com/rss/search?q=industrial+manufacturing+B2B+marketing+digital+US&hl=en-US&gl=US&ceid=US:en", "category": "industry_industrial", "reliability": "high" },
-      { "name": "GN - Life Sciences", "url": "https://news.google.com/rss/search?q=pharma+life+sciences+healthcare+marketing+US&hl=en-US&gl=US&ceid=US:en", "category": "industry_lifesciences", "reliability": "high" },
-      { "name": "GN - Financial Services", "url": "https://news.google.com/rss/search?q=financial+services+banking+brand+strategy+fintech+US&hl=en-US&gl=US&ceid=US:en", "category": "industry_financial", "reliability": "high" }
+      { "name": "GN - Media Entertainment", "url": "https://news.google.com/rss/search?q=media+entertainment+streaming+brand+strategy&hl=en-US&gl=US&ceid=US:en", "category": "industry_media", "reliability": "high" },
+      { "name": "GN - Tech Marketing", "url": "https://news.google.com/rss/search?q=SaaS+marketing+OR+tech+company+brand+strategy&hl=en-US&gl=US&ceid=US:en", "category": "industry_tech", "reliability": "high" },
+      { "name": "GN - Telecom", "url": "https://news.google.com/rss/search?q=Verizon+OR+T-Mobile+OR+AT%26T+marketing+OR+customer&hl=en-US&gl=US&ceid=US:en", "category": "industry_telecom", "reliability": "high" },
+      { "name": "GN - Telecom 5G", "url": "https://news.google.com/rss/search?q=5G+OR+telecom+OR+wireless+carrier&hl=en-US&gl=US&ceid=US:en", "category": "industry_telecom", "reliability": "high" },
+      { "name": "GN - Telecom Digital", "url": "https://news.google.com/rss/search?q=telecommunications+digital+transformation&hl=en-US&gl=US&ceid=US:en", "category": "industry_telecom", "reliability": "high" },
+      { "name": "GN - Retail Marketing", "url": "https://news.google.com/rss/search?q=retail+brand+strategy+customer+loyalty+ecommerce&hl=en-US&gl=US&ceid=US:en", "category": "industry_retail", "reliability": "high" },
+      { "name": "GN - Consumer Goods", "url": "https://news.google.com/rss/search?q=CPG+consumer+goods+brand+strategy+DTC&hl=en-US&gl=US&ceid=US:en", "category": "industry_consumer", "reliability": "high" },
+      { "name": "GN - Industrial B2B", "url": "https://news.google.com/rss/search?q=industrial+manufacturing+B2B+marketing+digital&hl=en-US&gl=US&ceid=US:en", "category": "industry_industrial", "reliability": "high" },
+      { "name": "GN - Pharma Marketing", "url": "https://news.google.com/rss/search?q=pharma+marketing+OR+pharmaceutical+advertising&hl=en-US&gl=US&ceid=US:en", "category": "industry_lifesciences", "reliability": "high" },
+      { "name": "GN - Healthcare Digital", "url": "https://news.google.com/rss/search?q=healthcare+digital+transformation+patient+experience&hl=en-US&gl=US&ceid=US:en", "category": "industry_lifesciences", "reliability": "high" },
+      { "name": "GN - Biotech", "url": "https://news.google.com/rss/search?q=biotech+OR+life+sciences+OR+FDA+approval&hl=en-US&gl=US&ceid=US:en", "category": "industry_lifesciences", "reliability": "high" },
+      { "name": "GN - Health Tech", "url": "https://news.google.com/rss/search?q=health+tech+OR+digital+health+OR+telehealth&hl=en-US&gl=US&ceid=US:en", "category": "industry_lifesciences", "reliability": "high" },
+      { "name": "GN - Banking", "url": "https://news.google.com/rss/search?q=banking+digital+OR+JPMorgan+OR+Goldman+Sachs+OR+Wells+Fargo&hl=en-US&gl=US&ceid=US:en", "category": "industry_financial", "reliability": "high" },
+      { "name": "GN - Fintech", "url": "https://news.google.com/rss/search?q=fintech+OR+neobank+OR+digital+payments&hl=en-US&gl=US&ceid=US:en", "category": "industry_financial", "reliability": "high" },
+      { "name": "GN - Financial Marketing", "url": "https://news.google.com/rss/search?q=financial+services+marketing+OR+insurance+digital&hl=en-US&gl=US&ceid=US:en", "category": "industry_financial", "reliability": "high" },
+      { "name": "GN - Wall Street", "url": "https://news.google.com/rss/search?q=Wall+Street+OR+Visa+OR+Mastercard+OR+PayPal&hl=en-US&gl=US&ceid=US:en", "category": "industry_financial", "reliability": "high" }
     ]
   },
   "industry_keywords": {
-    "media": ["media", "streaming", "entertainment", "broadcast", "publishing", "content creator", "OTT", "AVOD", "SVOD", "Netflix", "Disney", "Warner", "Paramount", "NBCUniversal", "connected TV", "CTV"],
-    "tech": ["technology", "SaaS", "cloud", "software", "startup", "Big Tech", "platform", "developer", "API", "digital transformation", "Silicon Valley", "app"],
-    "telecom": ["telecom", "telecommunications", "5G", "wireless", "carrier", "mobile network", "T-Mobile", "Verizon", "AT&T", "broadband", "fiber"],
-    "retail": ["retail", "ecommerce", "e-commerce", "shopping", "store", "omnichannel", "Amazon", "Walmart", "Target", "Shopify", "point of sale", "inventory"],
-    "consumer": ["CPG", "consumer goods", "FMCG", "brand", "DTC", "direct to consumer", "Procter & Gamble", "Unilever", "Nestle", "PepsiCo", "Coca-Cola", "packaged goods"],
+    "media": ["media", "streaming", "entertainment", "broadcast", "publishing", "content creator", "OTT", "AVOD", "SVOD", "Netflix", "Disney", "Warner", "Paramount", "NBCUniversal", "connected TV", "CTV", "Hulu", "HBO", "Peacock", "Spotify"],
+    "tech": ["technology", "SaaS", "cloud", "software", "startup", "Big Tech", "platform", "developer", "API", "digital transformation", "Silicon Valley", "app", "Google", "Microsoft", "Apple", "Meta"],
+    "telecom": ["telecom", "telecommunications", "5G", "wireless", "carrier", "mobile network", "T-Mobile", "Verizon", "AT&T", "broadband", "fiber", "spectrum", "cellular", "network operator", "mobile plan"],
+    "retail": ["retail", "ecommerce", "e-commerce", "shopping", "store", "omnichannel", "Amazon", "Walmart", "Target", "Shopify", "point of sale", "inventory", "Costco", "grocery", "checkout"],
+    "consumer": ["CPG", "consumer goods", "FMCG", "brand", "DTC", "direct to consumer", "Procter & Gamble", "Unilever", "Nestle", "PepsiCo", "Coca-Cola", "packaged goods", "Kraft", "Colgate", "consumer product"],
     "industrial": ["industrial", "manufacturing", "B2B", "supply chain", "logistics", "automation", "IoT", "smart factory", "Siemens", "GE", "Honeywell", "Caterpillar"],
-    "lifesciences": ["pharma", "pharmaceutical", "healthcare", "life sciences", "biotech", "clinical", "patient", "HCP", "FDA", "drug", "medical device", "health tech"],
-    "financial": ["banking", "financial services", "fintech", "insurance", "investment", "wealth management", "payments", "credit", "JPMorgan", "Goldman Sachs", "Visa", "Mastercard", "neobank"]
+    "lifesciences": ["pharma", "pharmaceutical", "healthcare", "life sciences", "biotech", "clinical", "patient", "HCP", "FDA", "drug", "medical device", "health tech", "hospital", "therapeutics", "clinical trial", "doctor", "physician", "wellness", "Pfizer", "Johnson & Johnson", "Merck", "AbbVie", "Moderna", "telehealth", "digital health"],
+    "financial": ["banking", "financial services", "fintech", "insurance", "investment", "wealth management", "payments", "credit", "JPMorgan", "Goldman Sachs", "Visa", "Mastercard", "neobank", "Wall Street", "bank", "mortgage", "lending", "Wells Fargo", "Citibank", "PayPal", "Stripe", "crypto", "blockchain", "stock market", "hedge fund", "asset management"]
   },
   "relevance_keywords": {
     "high_weight": ["marketing transformation", "agentic marketing", "AI marketing", "generative AI marketing", "martech", "marketing technology", "customer data platform", "CDP", "personalization at scale", "marketing automation", "customer experience", "marketing operations", "MOps", "composable martech", "brand strategy", "CMO"],

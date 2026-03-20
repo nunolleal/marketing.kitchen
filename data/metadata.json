@@ -1,6 +1,6 @@
 {
-  "last_updated": "2026-03-20T01:09:14.157211+00:00",
-  "article_count": 167,
+  "last_updated": "2026-03-20T03:30:59.959961+00:00",
+  "article_count": 263,
   "feed_health": {
     "Marketing Dive": {
       "status": "ok",
@@ -19,8 +19,8 @@
       "articles": 15
     },
     "Search Engine Land": {
-      "status": "empty",
-      "articles": 0
+      "status": "ok",
+      "articles": 10
     },
     "TechCrunch AI": {
       "status": "ok",
@@ -36,7 +36,7 @@
     },
     "GN - Agentic Marketing": {
       "status": "ok",
-      "articles": 17
+      "articles": 13
     },
     "GN - Marketing Strategy": {
       "status": "ok",
@@ -60,7 +60,7 @@
     },
     "GN - Adobe Marketing Cloud": {
       "status": "ok",
-      "articles": 7
+      "articles": 5
     },
     "GN - Adobe Products": {
       "status": "ok",
@@ -68,7 +68,7 @@
     },
     "GN - Adobe Inc": {
       "status": "ok",
-      "articles": 13
+      "articles": 14
     },
     "Salesforce Blog": {
       "status": "ok",
@@ -80,19 +80,27 @@
     },
     "GN - Salesforce AI": {
       "status": "ok",
-      "articles": 11
+      "articles": 12
     },
     "GN - Media Entertainment": {
       "status": "empty",
       "articles": 0
     },
     "GN - Tech Marketing": {
-      "status": "ok",
-      "articles": 1
-    },
-    "GN - Telecom Marketing": {
       "status": "empty",
       "articles": 0
+    },
+    "GN - Telecom": {
+      "status": "ok",
+      "articles": 21
+    },
+    "GN - Telecom 5G": {
+      "status": "ok",
+      "articles": 23
+    },
+    "GN - Telecom Digital": {
+      "status": "ok",
+      "articles": 5
     },
     "GN - Retail Marketing": {
       "status": "empty",
@@ -104,16 +112,40 @@
     },
     "GN - Industrial B2B": {
       "status": "ok",
+      "articles": 1
+    },
+    "GN - Pharma Marketing": {
+      "status": "ok",
+      "articles": 1
+    },
+    "GN - Healthcare Digital": {
+      "status": "ok",
+      "articles": 1
+    },
+    "GN - Biotech": {
+      "status": "ok",
+      "articles": 10
+    },
+    "GN - Health Tech": {
+      "status": "ok",
+      "articles": 28
+    },
+    "GN - Banking": {
+      "status": "ok",
       "articles": 3
     },
-    "GN - Life Sciences": {
+    "GN - Fintech": {
       "status": "empty",
       "articles": 0
     },
-    "GN - Financial Services": {
+    "GN - Financial Marketing": {
+      "status": "ok",
+      "articles": 1
+    },
+    "GN - Wall Street": {
       "status": "empty",
       "articles": 0
     }
   },
-  "next_update_approx": "2026-03-20T05:09:14.157225+00:00"
+  "next_update_approx": "2026-03-20T07:30:59.959961+00:00"
 }
