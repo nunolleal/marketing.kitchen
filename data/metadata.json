@@ -1,8 +1,16 @@
 {
-  "last_updated": "2026-03-20T16:34:11.411046+00:00",
-  "article_count": 318,
+  "last_updated": "2026-03-20T15:01:46.225392+00:00",
+  "article_count": 427,
   "feed_health": {
     "Marketing Dive": {
+      "status": "ok",
+      "articles": 10
+    },
+    "Ad Age": {
+      "status": "empty",
+      "articles": 0
+    },
+    "Adweek": {
       "status": "ok",
       "articles": 10
     },
@@ -18,7 +26,15 @@
       "status": "ok",
       "articles": 15
     },
+    "Social Media Today": {
+      "status": "empty",
+      "articles": 0
+    },
     "Search Engine Land": {
+      "status": "ok",
+      "articles": 10
+    },
+    "CMSWire": {
       "status": "empty",
       "articles": 0
     },
@@ -34,9 +50,17 @@
       "status": "ok",
       "articles": 10
     },
+    "Wired": {
+      "status": "ok",
+      "articles": 30
+    },
+    "The Verge": {
+      "status": "ok",
+      "articles": 10
+    },
     "GN - Agentic Marketing": {
       "status": "ok",
-      "articles": 14
+      "articles": 15
     },
     "GN - Marketing Strategy": {
       "status": "ok",
@@ -56,7 +80,7 @@
     },
     "GN - Adobe": {
       "status": "ok",
-      "articles": 25
+      "articles": 26
     },
     "GN - Adobe Marketing Cloud": {
       "status": "ok",
@@ -80,7 +104,23 @@
     },
     "GN - Salesforce AI": {
       "status": "ok",
-      "articles": 12
+      "articles": 13
+    },
+    "Retail Dive": {
+      "status": "ok",
+      "articles": 10
+    },
+    "Healthcare Dive": {
+      "status": "ok",
+      "articles": 10
+    },
+    "Fierce Healthcare": {
+      "status": "ok",
+      "articles": 22
+    },
+    "Fierce Telecom": {
+      "status": "empty",
+      "articles": 0
     },
     "GN - Media Entertainment": {
       "status": "empty",
@@ -92,11 +132,11 @@
     },
     "GN - Telecom": {
       "status": "ok",
-      "articles": 20
+      "articles": 21
     },
     "GN - Telecom 5G": {
       "status": "ok",
-      "articles": 24
+      "articles": 25
     },
     "GN - Telecom Digital": {
       "status": "ok",
@@ -112,7 +152,7 @@
     },
     "GN - Industrial B2B": {
       "status": "ok",
-      "articles": 1
+      "articles": 4
     },
     "GN - Pharma Marketing": {
       "status": "ok",
@@ -120,32 +160,32 @@
     },
     "GN - Healthcare Digital": {
       "status": "ok",
-      "articles": 1
+      "articles": 2
     },
     "GN - Biotech": {
       "status": "ok",
-      "articles": 11
+      "articles": 12
     },
     "GN - Health Tech": {
       "status": "ok",
-      "articles": 26
+      "articles": 25
     },
     "GN - Banking": {
       "status": "ok",
-      "articles": 2
+      "articles": 1
     },
     "GN - Fintech": {
       "status": "ok",
       "articles": 30
     },
     "GN - Financial Marketing": {
-      "status": "ok",
-      "articles": 1
+      "status": "empty",
+      "articles": 0
     },
     "GN - Wall Street": {
       "status": "ok",
       "articles": 30
     }
   },
-  "next_update_approx": "2026-03-20T20:34:11.411060+00:00"
+  "next_update_approx": "2026-03-20T19:01:46.225392+00:00"
 }
