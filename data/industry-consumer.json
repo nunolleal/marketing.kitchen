@@ -36,7 +36,7 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 32
+    "relevance_score": 27
   },
   {
     "id": "3b9a7bf60800",
@@ -55,28 +55,6 @@
       "industrial"
     ],
     "relevance_score": 27
-  },
-  {
-    "id": "2cc4d3e3aea8",
-    "title": "Apple’s WWDC 2026 event starts June 8th",
-    "url": "https://www.theverge.com/news/898997/apple-wwdc-2026-june-8-ios-27-ai-siri",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-03-23T17:21:53+00:00",
-    "summary": "Apple has set a date for this year's Worldwide Developers Conference (WWDC), scheduling the keynote and Platforms State of the Union for June 8th through June 12th at Apple Park. As usual, we will be tuned in to find out what's new in the 2027-branded editions of iOS, iPadOS,...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Apple-WWDC26-event-branding.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
-    "tags": [
-      "Apple",
-      "Apple Event",
-      "Apple Rumors",
-      "iOS",
-      "iPad"
-    ],
-    "industries": [
-      "tech",
-      "consumer"
-    ],
-    "relevance_score": 13
   },
   {
     "id": "ff6843ad6d19",
@@ -287,6 +265,28 @@
     "image_url": "https://imgproxy.divecdn.com/r7_8RYldxRt8T2sVRQp4ewr53fJC3jNEclm9b8gaKfQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GMjRfQVBSX05ZQ19Ccm9va3NfMjAyNF9RM19OWUNfRGF5XzJfSHlwZXJpb25fUmFjZURheV9SZWFkeV8yMjE2LmpwZw==.webp",
     "tags": [],
     "industries": [
+      "consumer"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "2cc4d3e3aea8",
+    "title": "Apple’s WWDC 2026 event starts June 8th",
+    "url": "https://www.theverge.com/news/898997/apple-wwdc-2026-june-8-ios-27-ai-siri",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-03-23T17:21:53+00:00",
+    "summary": "Apple has set a date for this year's Worldwide Developers Conference (WWDC), scheduling the keynote and Platforms State of the Union for June 8th through June 12th at Apple Park. As usual, we will be tuned in to find out what's new in the 2027-branded editions of iOS, iPadOS,...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Apple-WWDC26-event-branding.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "tags": [
+      "Apple",
+      "Apple Event",
+      "Apple Rumors",
+      "iOS",
+      "iPad"
+    ],
+    "industries": [
+      "tech",
       "consumer"
     ],
     "relevance_score": 10
