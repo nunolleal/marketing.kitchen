@@ -2,12 +2,12 @@
   "feeds": {
     "marketing_core": [
       { "name": "Marketing Dive", "url": "https://www.marketingdive.com/feeds/news/", "category": "marketing", "reliability": "high" },
-      { "name": "Ad Age", "url": "https://adage.com/feed/latest-news", "category": "marketing", "reliability": "high" },
+      { "name": "GN - Ad Age", "url": "https://news.google.com/rss/search?q=advertising+marketing+brand+campaign+agency&hl=en-US&gl=US&ceid=US:en", "category": "marketing", "reliability": "high" },
       { "name": "Adweek", "url": "https://www.adweek.com/feed/", "category": "marketing", "reliability": "high" },
       { "name": "MarTech.org", "url": "https://martech.org/feed/", "category": "martech", "reliability": "high" },
-      { "name": "Forbes CMO", "url": "https://www.forbes.com/CMO/feed/", "category": "marketing", "reliability": "high" },
+      { "name": "Forbes Business", "url": "https://www.forbes.com/business/feed/", "category": "marketing", "reliability": "high" },
       { "name": "Digiday", "url": "https://digiday.com/feed/", "category": "marketing", "reliability": "high" },
-      { "name": "Social Media Today", "url": "https://www.socialmediatoday.com/feed/", "category": "marketing", "reliability": "high" },
+      { "name": "GN - Social Media", "url": "https://news.google.com/rss/search?q=social+media+marketing+strategy+brand&hl=en-US&gl=US&ceid=US:en", "category": "marketing", "reliability": "high" },
       { "name": "Search Engine Land", "url": "https://searchengineland.com/feed", "category": "martech", "reliability": "high" },
       { "name": "CMSWire", "url": "https://www.cmswire.com/feed/", "category": "martech", "reliability": "high" }
     ],
@@ -40,7 +40,7 @@
       { "name": "Retail Dive", "url": "https://www.retaildive.com/feeds/news/", "category": "industry_retail", "reliability": "high" },
       { "name": "Healthcare Dive", "url": "https://www.healthcaredive.com/feeds/news/", "category": "industry_lifesciences", "reliability": "high" },
       { "name": "Fierce Healthcare", "url": "https://www.fiercehealthcare.com/rss/xml", "category": "industry_lifesciences", "reliability": "high" },
-      { "name": "Fierce Telecom", "url": "https://www.fiercetelecom.com/rss/xml", "category": "industry_telecom", "reliability": "high" }
+      { "name": "GN - Fierce Telecom", "url": "https://news.google.com/rss/search?q=fiercetelecom+OR+telecom+network+infrastructure+operator&hl=en-US&gl=US&ceid=US:en", "category": "industry_telecom", "reliability": "high" }
     ],
     "industry_specific": [
       { "name": "GN - Media Entertainment", "url": "https://news.google.com/rss/search?q=media+entertainment+streaming+brand+strategy&hl=en-US&gl=US&ceid=US:en", "category": "industry_media", "reliability": "high" },
@@ -77,8 +77,8 @@
     "low_weight": ["marketing", "brand", "campaign", "social media", "SEO", "email marketing", "CRM", "engagement", "loyalty"]
   },
   "source_tiers": {
-    "tier1": ["Ad Age", "Adweek", "Marketing Dive", "MarTech.org", "Digiday", "CMSWire"],
-    "tier2": ["Forbes CMO", "TechCrunch AI", "MIT Technology Review", "VentureBeat AI", "Social Media Today", "Search Engine Land", "Salesforce Blog", "Retail Dive", "Healthcare Dive", "Fierce Healthcare", "Fierce Telecom", "Wired", "The Verge"],
+    "tier1": ["Adweek", "Marketing Dive", "MarTech.org", "Digiday", "CMSWire"],
+    "tier2": ["Forbes Business", "TechCrunch AI", "MIT Technology Review", "VentureBeat AI", "Search Engine Land", "Salesforce Blog", "Retail Dive", "Healthcare Dive", "Fierce Healthcare", "Wired", "The Verge"],
     "tier3_prefix": ["GN -"]
   },
   "specificity_signals": [
