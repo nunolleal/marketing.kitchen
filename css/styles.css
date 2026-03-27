@@ -604,6 +604,27 @@ img {
     letter-spacing: 0.02em;
 }
 
+/* ─── Also Covered By ─── */
+.also-covered {
+    margin-top: 8px;
+    font-size: 0.68rem;
+    color: var(--color-text-tertiary);
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    gap: 4px;
+}
+
+.also-source {
+    background: rgba(255,255,255,0.06);
+    border: 1px solid var(--color-border);
+    border-radius: 4px;
+    padding: 1px 6px;
+    font-size: 0.65rem;
+    color: var(--color-text-secondary);
+    white-space: nowrap;
+}
+
 .card-spice {
     letter-spacing: 2px;
     font-size: 0.82rem;

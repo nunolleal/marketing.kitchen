@@ -144,6 +144,12 @@ const NewsRenderer = (() => {
         return Math.abs(hash);
     }
 
+    function renderAlsoCoveredBy(article) {
+        if (!article.also_covered_by || article.also_covered_by.length === 0) return '';
+        const sources = article.also_covered_by.map(s => `<span class="also-source">${escapeHtml(s)}</span>`).join('');
+        return `<div class="also-covered">Also: ${sources}</div>`;
+    }
+
     function renderFeaturedCard(article) {
         const timeAgo = getTimeAgo(article.published);
         const spice = getSpiceLevel(article.relevance_score);
@@ -166,6 +172,7 @@ const NewsRenderer = (() => {
                     <span class="card-time">${timeAgo}</span>
                     <span class="card-spice" title="Trending score: ${article.relevance_score}/100 — based on topic relevance, recency &amp; source authority">${spice}</span>
                 </div>
+                ${renderAlsoCoveredBy(article)}
             </div>
         </article>`;
     }
@@ -192,6 +199,7 @@ const NewsRenderer = (() => {
                     <span class="card-time">${timeAgo}</span>
                     <span class="card-spice" title="Trending score: ${article.relevance_score}/100 — based on topic relevance, recency &amp; source authority">${spice}</span>
                 </div>
+                ${renderAlsoCoveredBy(article)}
             </div>
         </article>`;
     }

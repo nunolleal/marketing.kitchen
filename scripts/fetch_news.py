@@ -393,6 +393,23 @@ def classify_vendors(article, config):
     return vendors
 
 
+STOP_WORDS = {
+    "the", "a", "an", "in", "on", "at", "to", "for", "of", "and", "or",
+    "is", "are", "was", "were", "be", "been", "has", "have", "had", "as",
+    "by", "with", "from", "that", "this", "it", "its", "how", "what",
+    "why", "who", "when", "where", "new", "says", "say", "said", "will",
+    "can", "could", "would", "should", "about", "after", "but", "not",
+    "no", "more", "most", "all", "just", "us", "into", "than", "up",
+    "out", "over", "now", "get", "do", "make", "take", "come", "your",
+}
+
+
+def sig_words(title):
+    """Extract significant (non-stopword) words from a title."""
+    words = set(re.findall(r"\w+", title.lower()))
+    return words - STOP_WORDS
+
+
 def deduplicate(articles):
     """Remove duplicate articles by URL hash and fuzzy title match."""
     seen_ids = {}
@@ -403,7 +420,6 @@ def deduplicate(articles):
         aid = article["id"]
         if aid in seen_ids:
             if article["relevance_score"] > seen_ids[aid]["relevance_score"]:
-                # Replace with higher-scored version
                 unique = [a for a in unique if a["id"] != aid]
                 unique.append(article)
                 seen_ids[aid] = article
@@ -411,7 +427,7 @@ def deduplicate(articles):
             seen_ids[aid] = article
             unique.append(article)
 
-    # Second pass: fuzzy title dedup
+    # Second pass: near-identical title dedup (≥85% overlap)
     final = []
     title_words_list = []
 
@@ -431,7 +447,6 @@ def deduplicate(articles):
             similarity = len(intersection) / len(union) if union else 0
 
             if similarity > 0.85:
-                # Keep the higher-scored one
                 if article["relevance_score"] > final[i]["relevance_score"]:
                     final[i] = article
                     title_words_list[i] = words
@@ -443,6 +458,79 @@ def deduplicate(articles):
             title_words_list.append(words)
 
     return final
+
+
+def cluster_stories(articles):
+    """Group articles covering the same story. Keep the best-scored one per
+    cluster and attach an `also_covered_by` list of the other sources."""
+    # Process best-scored first so the canonical article is always the winner
+    sorted_arts = sorted(articles, key=lambda a: -a["relevance_score"])
+
+    clusters = []          # list of [best_article, *others]
+    cluster_words = []     # significant word sets per cluster
+
+    for article in sorted_arts:
+        words = sig_words(article["title"])
+        if len(words) < 3:
+            clusters.append([article])
+            cluster_words.append(words)
+            continue
+
+        matched = None
+        try:
+            pub_a = date_parser.parse(article["published"])
+            if pub_a.tzinfo is None:
+                pub_a = pub_a.replace(tzinfo=timezone.utc)
+        except (ValueError, TypeError):
+            pub_a = None
+
+        for i, cw in enumerate(cluster_words):
+            if len(cw) < 3:
+                continue
+
+            # Must be within 48 hours of each other
+            if pub_a is not None:
+                try:
+                    pub_b = date_parser.parse(clusters[i][0]["published"])
+                    if pub_b.tzinfo is None:
+                        pub_b = pub_b.replace(tzinfo=timezone.utc)
+                    if abs((pub_a - pub_b).total_seconds()) > 48 * 3600:
+                        continue
+                except (ValueError, TypeError):
+                    pass
+
+            # Same story = 3+ shared significant words
+            if len(words & cw) >= 3:
+                matched = i
+                break
+
+        if matched is not None:
+            clusters[matched].append(article)
+            cluster_words[matched] |= words
+        else:
+            clusters.append([article])
+            cluster_words.append(words)
+
+    result = []
+    for cluster in clusters:
+        best = cluster[0]  # already sorted by score, first = best
+        others = cluster[1:]
+        if others:
+            # Deduplicate source names, cap at 3
+            seen = set()
+            also = []
+            for a in others:
+                s = a["source"]
+                if s not in seen and s != best["source"]:
+                    seen.add(s)
+                    also.append(s)
+                if len(also) == 3:
+                    break
+            if also:
+                best["also_covered_by"] = also
+        result.append(best)
+
+    return result
 
 
 def time_decay_score(article):
@@ -550,9 +638,13 @@ def main():
     print(f"\n--- Processing ---")
     print(f"Total raw articles: {len(all_articles)}")
 
-    # Deduplicate
+    # Deduplicate (exact + near-identical titles)
     all_articles = deduplicate(all_articles)
     print(f"After dedup: {len(all_articles)}")
+
+    # Cluster same-story articles across sources
+    all_articles = cluster_stories(all_articles)
+    print(f"After story clustering: {len(all_articles)}")
 
     # Fetch og:image for articles missing images
     no_image = [a for a in all_articles if not a["image_url"]]
