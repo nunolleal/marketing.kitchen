@@ -499,8 +499,8 @@ def cluster_stories(articles):
                 except (ValueError, TypeError):
                     pass
 
-            # Same story = 3+ shared significant words
-            if len(words & cw) >= 3:
+            # Same story = 4+ shared significant words
+            if len(words & cw) >= 4:
                 matched = i
                 break
 
