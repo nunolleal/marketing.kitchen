@@ -92,6 +92,7 @@ const TabNavigation = (() => {
             const articles = await NewsLoader.fetchTabData(tabId);
             NewsRenderer.renderTab(container, articles, tabId);
             originalContent[tabId] = container.innerHTML;
+            updateTabCount(tabId, articles.length);
         } catch (err) {
             console.error(`Failed to load tab ${tabId}:`, err);
             container.innerHTML = `
@@ -101,6 +102,18 @@ const TabNavigation = (() => {
                     <button class="retry-btn" onclick="TabNavigation.retryTab('${tabId}')">Try Again</button>
                 </div>`;
         }
+    }
+
+    function updateTabCount(tabId, count) {
+        const btn = document.querySelector(`.menu-tab[data-tab="${tabId}"]`);
+        if (!btn) return;
+        let badge = btn.querySelector('.tab-count');
+        if (!badge) {
+            badge = document.createElement('span');
+            badge.className = 'tab-count';
+            btn.appendChild(badge);
+        }
+        badge.textContent = count;
     }
 
     function retryTab(tabId) {

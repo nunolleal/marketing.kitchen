@@ -11,17 +11,26 @@
         // Load metadata
         const metadata = await NewsLoader.fetchMetadata();
 
-        // Update "last served" timestamp
+        // Update "last served" timestamp — relative time, refreshed every minute
         if (metadata && metadata.last_updated) {
-            const lastUpdated = new Date(metadata.last_updated);
-            document.getElementById('lastUpdated').textContent =
-                `Last served: ${lastUpdated.toLocaleDateString('en-US', {
-                    weekday: 'short',
-                    month: 'short',
-                    day: 'numeric',
-                    hour: '2-digit',
-                    minute: '2-digit'
-                })}`;
+            const lastUpdatedDate = new Date(metadata.last_updated);
+            const el = document.getElementById('lastUpdated');
+
+            function updateTimestamp() {
+                const diffMs = Date.now() - lastUpdatedDate.getTime();
+                const diffMin = Math.floor(diffMs / 60000);
+                let label;
+                if (diffMin < 2)        label = 'Updated just now';
+                else if (diffMin < 60)  label = `Updated ${diffMin}m ago`;
+                else {
+                    const h = Math.floor(diffMin / 60);
+                    label = h === 1 ? 'Updated 1h ago' : `Updated ${h}h ago`;
+                }
+                el.textContent = label;
+            }
+
+            updateTimestamp();
+            setInterval(updateTimestamp, 60000);
         }
 
         // Initialize modules
