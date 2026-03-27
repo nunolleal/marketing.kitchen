@@ -26,7 +26,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/Internet-Marketing-SMB.jpg",
     "tags": [],
     "industries": [],
-    "relevance_score": 40
+    "relevance_score": 37
   },
   {
     "id": "c2e2f337d488",
@@ -41,7 +41,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 33
+    "relevance_score": 29
   },
   {
     "id": "692abc8ab533",
@@ -57,23 +57,6 @@
     "relevance_score": 23
   },
   {
-    "id": "0c09a0f62854",
-    "title": "Go Mobile Crazy: Learn App Store Optimization (ASO) In 5 Steps",
-    "url": "https://www.salesforce.com/blog/app-store-optimization/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-03-26T14:00:00+00:00",
-    "summary": "Getting your app noticed in a crowded market is a big task, but with the right optimization techniques, you can stand out.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/02/App-store-optimization-SMB.jpg",
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
     "id": "84a407b28823",
     "title": "Salesforce taps Bandwidth for voice in new AI contact center - Stock Titan",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQMzZ5UFpVM0hmRWVzNHdjdmN3M0JJXzBlYzdBcEhXVkJqb0VRSXUzdzVZMWd6OTZJQlA4NTRWRlppUHY4X3E4Mk9NRUtvNGlBX0tDNFd1YkMzWjB2VENlSWRXaDBlNnh2Wk0ya05kLW9OUkdjTmc4azQ5Sjd5ZGgxdHRZQkY3ZEh2Ukx0aXlJcjdpRVcxcXB2UWxjSE9hOHZWLWRB?oc=5",
@@ -82,6 +65,19 @@
     "published": "2026-03-27T12:13:00+00:00",
     "summary": "Salesforce taps Bandwidth for voice in new AI contact center Stock Titan",
     "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 13
+  },
+  {
+    "id": "fdd8195fc848",
+    "title": "Business Brass Tacks: Strategy vs Tactics",
+    "url": "https://www.salesforce.com/blog/strategy-vs-tactics/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-03-27T14:00:00+00:00",
+    "summary": "Defining strategy and tactics: Why small businesses need both to win.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/image.jpeg",
     "tags": [],
     "industries": [],
     "relevance_score": 13
@@ -115,19 +111,21 @@
     "relevance_score": 11
   },
   {
-    "id": "dc582244a05d",
-    "title": "How Our AI Agents Save Us Time — And Scale Sustainability",
-    "url": "https://www.salesforce.com/blog/how-ai-agents-scale-sustainability/",
+    "id": "0c09a0f62854",
+    "title": "Go Mobile Crazy: Learn App Store Optimization (ASO) In 5 Steps",
+    "url": "https://www.salesforce.com/blog/app-store-optimization/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-03-25T14:39:23+00:00",
-    "summary": "With Agentforce, we're accelerating Salesforce's sustainability and impact programs. Here's how.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/01/TSK-42763_How_Our_AI_Agents_Save_Us_Time_And_Scale_Sustainability-e1774450203224.png",
+    "published": "2026-03-26T14:00:00+00:00",
+    "summary": "Getting your app noticed in a crowded market is a big task, but with the right optimization techniques, you can stand out.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/02/App-store-optimization-SMB.jpg",
     "tags": [],
     "industries": [
+      "tech",
+      "retail",
       "industrial"
     ],
-    "relevance_score": 10
+    "relevance_score": 11
   },
   {
     "id": "f5334fea295d",
@@ -214,6 +212,21 @@
     "relevance_score": 9
   },
   {
+    "id": "dc582244a05d",
+    "title": "How Our AI Agents Save Us Time — And Scale Sustainability",
+    "url": "https://www.salesforce.com/blog/how-ai-agents-scale-sustainability/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-03-25T14:39:23+00:00",
+    "summary": "With Agentforce, we're accelerating Salesforce's sustainability and impact programs. Here's how.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/01/TSK-42763_How_Our_AI_Agents_Save_Us_Time_And_Scale_Sustainability-e1774450203224.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "546de5a13afe",
     "title": "Deploy Best-Practice Security Policies Instantly with Transaction Security Policy Accelerator",
     "url": "https://www.salesforce.com/blog/introducing-transaction-security-policy-accelerator/",
@@ -240,53 +253,6 @@
     "tags": [],
     "industries": [],
     "relevance_score": 9
-  },
-  {
-    "id": "0294c4f8ce1f",
-    "title": "Pacsun, West Marine AI-enable search with intent awareness - Chain Store Age",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd2VrNFo5d1VqUVNSTFRDdk5rS1hLMkxjWUtDRmp5U3dtVDNmRVFnV1BESTZFaW90WHFhdjFmSjhETF9CenVSMkh5aVlnVWRFeE01RVBfUDBfcmF0TTk4TE40SC1wZ3h1TU9LY0xteXM3blE2dk5vZ2dONmxRbkdOb2xZZHU?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-03-26T14:36:04+00:00",
-    "summary": "Pacsun, West Marine AI-enable search with intent awareness Chain Store Age",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "77e02bfe8f8f",
-    "title": "Meet the New Intent-Aware Search for Agentforce Commerce",
-    "url": "https://www.salesforce.com/blog/intent-aware-search/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-03-24T16:52:32+00:00",
-    "summary": "We’ve all been there: A shopper types “comfortable everyday sneakers” into a search bar and gets a 404 error or a random collection of dress shoes and backpacks. Traditional search is brittle —…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/Cimulate-Announcement.webp",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "2dab9a9c5029",
-    "title": "Salesforce Agentforce Contact Center Brings Unified Data and AI Agents to Customer Service - Cloud Wars",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFNSaURwRW10XzRFVnB3QTFhTTk0Y3gxM09GbzlxbFpWQnEtOG9mZmVWQlRUTGNsUE9KSzI5NDhzVzQ3N0w3NkdWOWVRZ1V3RktGTFkxTkFqbUNLUklubUpsWTFScFFNWmdUcFd4TnptaU0xRE16V0lJVndSV3JUd2lUMFJOcTdfVE56WXN2VVFWRWwtd0NGUUVCVVdDbEtwT1BRTXU0ZDF4YXN5UFFRckVnaVpmZEU?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-03-25T14:00:00+00:00",
-    "summary": "Salesforce Agentforce Contact Center Brings Unified Data and AI Agents to Customer Service Cloud Wars",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 8
   },
   {
     "id": "51bb7fc72db5",
@@ -350,9 +316,9 @@
     "relevance_score": 7
   },
   {
-    "id": "775ca55f03da",
+    "id": "8cc0f99b4be6",
     "title": "Salesforce Stock Is Getting Hit Again. Why the Software Slump Is Back. - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxPNnlLSjRlTXV0UGpEbkJOd2UyUUlGVFpBVV9YTC1IQ2hWWndRQnkyc1VoaDhDVGFXaEJ2dGxWSXlKa0ZWX3c1M3d3UjQ3a25kelM1NHZLVWlFdm1mVzFVc0NnTXdBU1c1YW1XZEN4NGNnU0NjbGpxUlkyRHROa3k5Ti1TeU9raTA0VTNNQjRYMGw5UnN4UU5CMFZfUWEyNk9uNE9NeW1oeGFMNWRBcDMwWFJwaGh4SFB6SldoZC1wbEdhNHZldjBCU0JqRmI5dlVCMm5fS0NyRzVPYjB6SlN5YmxIS0Ruc1dDVW8yUm0zc3dDWENIYnU5Sl83UFBqbTVtT1hreWhPWVBQVUFmSnp2LU9uSHMzOHF4OVM1U3h3TnllemF3N01nNVFrZlk5c1cxT19NZVBWX0hIN0VlQ2ZvbkNXSlBiTnRjU1doT2FJZDQwRnkyVnpIb1JfSzg1Um1OTEN3bVAwVVNBbFhla1lsU2RGV1NNV1FlTERBVzNGSl9WTXVQY18zREQyWU5mUmRqUzNYanI0U1Z0V2wwSVlqZFpjaw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxORWNjZHZpUkJwTkx3OTlEakswem1xZW0wXzd2d29WbmQ4QmxYU3JBdjFtc2s4cmZCV0Q5TU0yNHdScXFyeTVMQlJtRFlmcEZHSm53d1pwdHljVWlwSnpmV1VONkhKQTJtQTEzSzU4UTBvcUM4dFFQMjVUUndJZlplMVVkQmlMNklfUmluVXpaN0RQRGRYQTdJT0poNl9lMjNsT05UWWNWUGNwbUN6emZ3cS1lRDgtXzNrVE5Tb3laQWJ1Zkg3RUxocGdlODl0SVpOVGh1eDdNQVFwbzlPME5lU0x5WHg0N1c1M0RiZmY2alhkQVdQVFpGWnRwMWJlX256S1AwYnJWYWlmLXBuU1ZqNXdsM3VfTVJxNTNmU0Q3YkhlaFloRXo1SV80T0ZRWkhVUTl4c1NvdG5Ia1BYdUg1WkJHQnN0aXlkYXM3b1NXWW45ekx6Ykx2VFBWSFNpbWR1N0xxSlExRUZXVzJsTW1VUkw3SzJHZnlKWUd4VmpDbWJBRVNMMENBeFBWTlRZdEl6WkJFSlByaXMxblJVY2xxX1JIMA?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
     "published": "2026-03-24T19:09:00+00:00",
@@ -392,6 +358,38 @@
     "image_url": null,
     "tags": [],
     "industries": [
+      "industrial"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "2dab9a9c5029",
+    "title": "Salesforce Agentforce Contact Center Brings Unified Data and AI Agents to Customer Service - Cloud Wars",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFNSaURwRW10XzRFVnB3QTFhTTk0Y3gxM09GbzlxbFpWQnEtOG9mZmVWQlRUTGNsUE9KSzI5NDhzVzQ3N0w3NkdWOWVRZ1V3RktGTFkxTkFqbUNLUklubUpsWTFScFFNWmdUcFd4TnptaU0xRE16V0lJVndSV3JUd2lUMFJOcTdfVE56WXN2VVFWRWwtd0NGUUVCVVdDbEtwT1BRTXU0ZDF4YXN5UFFRckVnaVpmZEU?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-03-25T14:00:00+00:00",
+    "summary": "Salesforce Agentforce Contact Center Brings Unified Data and AI Agents to Customer Service Cloud Wars",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "0294c4f8ce1f",
+    "title": "Pacsun, West Marine AI-enable search with intent awareness - Chain Store Age",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd2VrNFo5d1VqUVNSTFRDdk5rS1hLMkxjWUtDRmp5U3dtVDNmRVFnV1BESTZFaW90WHFhdjFmSjhETF9CenVSMkh5aVlnVWRFeE01RVBfUDBfcmF0TTk4TE40SC1wZ3h1TU9LY0xteXM3blE2dk5vZ2dONmxRbkdOb2xZZHU?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-03-26T14:36:04+00:00",
+    "summary": "Pacsun, West Marine AI-enable search with intent awareness Chain Store Age",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
       "industrial"
     ],
     "relevance_score": 7
