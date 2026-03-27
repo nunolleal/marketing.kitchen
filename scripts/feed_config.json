@@ -2,18 +2,18 @@
   "feeds": {
     "marketing_core": [
       { "name": "Marketing Dive", "url": "https://www.marketingdive.com/feeds/news/", "category": "marketing", "reliability": "high" },
-      { "name": "GN - Ad Age", "url": "https://news.google.com/rss/search?q=advertising+marketing+brand+campaign+agency&hl=en-US&gl=US&ceid=US:en", "category": "marketing", "reliability": "high" },
+      { "name": "GN - Ad Age", "url": "https://news.google.com/rss/search?q=%22Ad+Age%22+OR+adage.com+advertising&hl=en-US&gl=US&ceid=US:en", "category": "marketing", "reliability": "high" },
       { "name": "Adweek", "url": "https://www.adweek.com/feed/", "category": "marketing", "reliability": "high" },
       { "name": "MarTech.org", "url": "https://martech.org/feed/", "category": "martech", "reliability": "high" },
       { "name": "Forbes Business", "url": "https://www.forbes.com/business/feed/", "category": "marketing", "reliability": "high" },
       { "name": "Digiday", "url": "https://digiday.com/feed/", "category": "marketing", "reliability": "high" },
-      { "name": "GN - Social Media", "url": "https://news.google.com/rss/search?q=social+media+marketing+strategy+brand&hl=en-US&gl=US&ceid=US:en", "category": "marketing", "reliability": "high" },
+      { "name": "GN - Social Media", "url": "https://news.google.com/rss/search?q=social+media+Instagram+TikTok+LinkedIn+marketing&hl=en-US&gl=US&ceid=US:en", "category": "marketing", "reliability": "high" },
       { "name": "Search Engine Land", "url": "https://searchengineland.com/feed", "category": "martech", "reliability": "high" },
       { "name": "CMSWire", "url": "https://www.cmswire.com/feed/", "category": "martech", "reliability": "high" }
     ],
     "ai_tech": [
       { "name": "TechCrunch AI", "url": "https://techcrunch.com/category/artificial-intelligence/feed/", "category": "ai", "reliability": "high" },
-      { "name": "VentureBeat AI", "url": "https://venturebeat.com/category/ai/feed/", "category": "ai", "reliability": "high" },
+      { "name": "VentureBeat", "url": "https://venturebeat.com/feed/", "category": "ai", "reliability": "high" },
       { "name": "MIT Technology Review", "url": "https://www.technologyreview.com/feed/", "category": "ai", "reliability": "high" },
       { "name": "Wired", "url": "https://www.wired.com/feed/rss", "category": "ai", "reliability": "high" },
       { "name": "The Verge", "url": "https://www.theverge.com/rss/index.xml", "category": "ai", "reliability": "high" }
@@ -40,7 +40,7 @@
       { "name": "Retail Dive", "url": "https://www.retaildive.com/feeds/news/", "category": "industry_retail", "reliability": "high" },
       { "name": "Healthcare Dive", "url": "https://www.healthcaredive.com/feeds/news/", "category": "industry_lifesciences", "reliability": "high" },
       { "name": "Fierce Healthcare", "url": "https://www.fiercehealthcare.com/rss/xml", "category": "industry_lifesciences", "reliability": "high" },
-      { "name": "GN - Fierce Telecom", "url": "https://news.google.com/rss/search?q=fiercetelecom+OR+telecom+network+infrastructure+operator&hl=en-US&gl=US&ceid=US:en", "category": "industry_telecom", "reliability": "high" }
+      { "name": "GN - Fierce Telecom", "url": "https://news.google.com/rss/search?q=telecom+5G+wireless+network+Verizon+AT%26T+T-Mobile&hl=en-US&gl=US&ceid=US:en", "category": "industry_telecom", "reliability": "high" }
     ],
     "industry_specific": [
       { "name": "GN - Media Entertainment", "url": "https://news.google.com/rss/search?q=media+entertainment+streaming+brand+strategy&hl=en-US&gl=US&ceid=US:en", "category": "industry_media", "reliability": "high" },
