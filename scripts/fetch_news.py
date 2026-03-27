@@ -445,15 +445,27 @@ def deduplicate(articles):
     return final
 
 
+def time_decay_score(article):
+    """Score for main feed: relevance * exponential time decay (halves every 24h).
+    Ensures no article stays #1 indefinitely — recency always matters."""
+    try:
+        pub_date = date_parser.parse(article["published"])
+        if pub_date.tzinfo is None:
+            pub_date = pub_date.replace(tzinfo=timezone.utc)
+        hours_ago = (datetime.now(timezone.utc) - pub_date).total_seconds() / 3600
+    except (ValueError, TypeError):
+        hours_ago = 48
+
+    decay = 0.5 ** (hours_ago / 24)  # 100% now → 50% at 24h → 25% at 48h → 3% at 5d
+    return article["relevance_score"] * decay
+
+
 def build_output_files(all_articles, config):
     """Sort and write articles into JSON data files."""
     DATA_DIR.mkdir(exist_ok=True)
 
-    # Main feed: all articles sorted by relevance
-    main = sorted(
-        all_articles,
-        key=lambda a: (-a["relevance_score"], a["published"]),
-    )
+    # Main feed: relevance score with time-decay so old articles don't stick at #1
+    main = sorted(all_articles, key=lambda a: -time_decay_score(a))
     write_json(DATA_DIR / "main-feed.json", main[:MAX_ARTICLES_PER_OUTPUT])
 
     # Industry feeds
