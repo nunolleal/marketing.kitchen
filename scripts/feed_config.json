@@ -76,6 +76,17 @@
     "medium_weight": ["digital marketing", "content marketing", "marketing analytics", "attribution", "marketing ROI", "first-party data", "privacy", "cookieless", "omnichannel", "customer journey", "marketing cloud", "campaign optimization", "predictive analytics", "customer loyalty"],
     "low_weight": ["marketing", "brand", "campaign", "social media", "SEO", "email marketing", "CRM", "engagement", "loyalty"]
   },
+  "source_tiers": {
+    "tier1": ["Ad Age", "Adweek", "Marketing Dive", "MarTech.org", "Digiday", "CMSWire"],
+    "tier2": ["Forbes CMO", "TechCrunch AI", "MIT Technology Review", "VentureBeat AI", "Social Media Today", "Search Engine Land", "Salesforce Blog", "Retail Dive", "Healthcare Dive", "Fierce Healthcare", "Fierce Telecom", "Wired", "The Verge"],
+    "tier3_prefix": ["GN -"]
+  },
+  "specificity_signals": [
+    "percent", "%", "billion", "million", "revenue", "growth", "report", "study", "survey", "data shows",
+    "quarter", "Q1", "Q2", "Q3", "Q4", "fiscal", "earnings", "profit", "loss", "layoff",
+    "launch", "acquire", "partnership", "deal", "IPO", "funding", "Series",
+    "CEO", "CMO", "CTO", "VP", "hire", "appoint", "resign"
+  ],
   "vendor_keywords": {
     "adobe": ["adobe", "experience cloud", "marketo", "magento", "sensei", "firefly", "genstudio", "real-time cdp", "adobe target", "adobe analytics", "adobe campaign", "adobe journey optimizer", "aem", "experience manager"],
     "salesforce": ["salesforce", "marketing cloud", "data cloud", "einstein", "agentforce", "mulesoft", "tableau", "pardot", "account engagement", "commerce cloud", "sales cloud", "service cloud"]

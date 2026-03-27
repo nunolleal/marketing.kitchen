@@ -234,58 +234,135 @@ def is_recent(published_str):
 
 
 def compute_relevance_score(article, config):
-    """Score 0-100 based on keyword matches, recency, and source reliability."""
-    score = 0
+    """Score 0-100 across 5 dimensions: source authority, keyword relevance,
+    specificity, content quality, and recency."""
     title_lower = article["title"].lower()
     summary_lower = article["summary"].lower()
-    text_lower = title_lower + " " + summary_lower
+    source_name = article.get("source", "")
 
+    # ── 1. Source Authority (0-20) ───────────────────────────
+    source_tiers = config.get("source_tiers", {})
+    tier1 = [s.lower() for s in source_tiers.get("tier1", [])]
+    tier2 = [s.lower() for s in source_tiers.get("tier2", [])]
+    tier3_prefixes = source_tiers.get("tier3_prefix", [])
+
+    source_lower = source_name.lower()
+    is_tier3 = any(source_name.startswith(p.replace("GN - ", "")) for p in tier3_prefixes)
+    # Google News sources have "GN - " stripped to just the query name
+
+    if source_lower in tier1:
+        source_score = 20
+    elif source_lower in tier2:
+        source_score = 14
+    elif article.get("source_category", "").startswith("industry_") or is_tier3:
+        source_score = 6
+    else:
+        source_score = 10  # unknown source gets middle score
+
+    # ── 2. Keyword Relevance (0-30, capped) ──────────────────
     relevance = config.get("relevance_keywords", {})
+    kw_score = 0
 
-    # High-weight keywords
     for kw in relevance.get("high_weight", []):
         kw_lower = kw.lower()
         if kw_lower in title_lower:
-            score += 45  # 15 * 3 (title weight)
+            kw_score += 12
         elif kw_lower in summary_lower:
-            score += 15
+            kw_score += 5
 
-    # Medium-weight keywords
     for kw in relevance.get("medium_weight", []):
         kw_lower = kw.lower()
         if kw_lower in title_lower:
-            score += 24  # 8 * 3
+            kw_score += 8
         elif kw_lower in summary_lower:
-            score += 8
+            kw_score += 3
 
-    # Low-weight keywords
     for kw in relevance.get("low_weight", []):
         kw_lower = kw.lower()
         if kw_lower in title_lower:
-            score += 9  # 3 * 3
+            kw_score += 4
         elif kw_lower in summary_lower:
-            score += 3
+            kw_score += 1
 
-    # Recency boost
+    kw_score = min(kw_score, 30)  # cap to prevent buzzword stacking
+
+    # ── 3. Specificity Signals (0-20) ────────────────────────
+    spec_score = 0
+    text_lower = title_lower + " " + summary_lower
+
+    # Numbers/data in title = concrete, not vague
+    if re.search(r'\d', article["title"]):
+        spec_score += 6
+
+    # Specificity keywords (earnings, launches, studies, etc.)
+    signals = config.get("specificity_signals", [])
+    signal_hits = sum(1 for s in signals if s.lower() in text_lower)
+    spec_score += min(signal_hits * 3, 9)
+
+    # Named entities (company/brand names = specific story, not generic take)
+    named_brands = ["google", "apple", "amazon", "meta", "microsoft", "adobe",
+                    "salesforce", "netflix", "disney", "walmart", "nike", "coca-cola",
+                    "pepsi", "jpmorgan", "visa", "mastercard", "pfizer", "openai"]
+    brand_hits = sum(1 for b in named_brands if b in text_lower)
+    spec_score += min(brand_hits * 3, 5)
+
+    spec_score = min(spec_score, 20)
+
+    # ── 4. Content Quality (0-10) ────────────────────────────
+    quality_score = 0
+
+    # Substantive summary (not stub/empty)
+    if len(article["summary"]) > 120:
+        quality_score += 4
+    elif len(article["summary"]) > 60:
+        quality_score += 2
+
+    # Has tags (structured metadata = better source)
+    if article.get("tags") and len(article["tags"]) >= 2:
+        quality_score += 3
+
+    # Title in sweet spot (not too short/vague, not clickbait-long)
+    title_len = len(article["title"])
+    if 30 <= title_len <= 120:
+        quality_score += 3
+    elif title_len > 120:
+        quality_score += 1
+
+    quality_score = min(quality_score, 10)
+
+    # ── 5. Recency (0-20, smooth decay) ──────────────────────
+    recency_score = 0
     try:
         pub_date = date_parser.parse(article["published"])
         if pub_date.tzinfo is None:
             pub_date = pub_date.replace(tzinfo=timezone.utc)
         hours_ago = (datetime.now(timezone.utc) - pub_date).total_seconds() / 3600
 
-        if hours_ago < 6:
-            score += 15
-        elif hours_ago < 12:
-            score += 10
+        if hours_ago < 4:
+            recency_score = 20
+        elif hours_ago < 8:
+            recency_score = 17
+        elif hours_ago < 16:
+            recency_score = 14
         elif hours_ago < 24:
-            score += 5
+            recency_score = 11
+        elif hours_ago < 48:
+            recency_score = 7
+        elif hours_ago < 72:
+            recency_score = 4
+        else:
+            recency_score = 1
     except (ValueError, TypeError):
-        pass
+        recency_score = 1
 
-    # Ensure minimum score of 10 for any article that made it through
-    score = max(score, 10)
+    total = source_score + kw_score + spec_score + quality_score + recency_score
 
-    return min(score, 100)
+    # Relevance gate: articles with ZERO keyword relevance get heavily penalized
+    # (e.g. a Verge doorbell review has no marketing keywords — shouldn't rank high)
+    if kw_score == 0:
+        total = int(total * 0.35)
+
+    return max(min(total, 100), 5)
 
 
 def classify_industries(article, config):
