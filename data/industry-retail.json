@@ -1,5 +1,22 @@
 [
   {
+    "id": "e33c96ec24cf",
+    "title": "Designer Brands brings together US, Canada retail businesses",
+    "url": "https://www.retaildive.com/news/designer-brands-q4-sales-flat-comps-drop-US-Canada-reporting-structure/815967/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-03-27T16:03:00+00:00",
+    "summary": "The combined entity will give a “streamlined reporting structure,” and enable collaboration. Meanwhile, the retailer posted flat Q4 sales and a comps drop.",
+    "image_url": "https://imgproxy.divecdn.com/ytoeXRSVQ7ERjtG8tCwpsP5XqMuKqzATWIZPSpZcmbA/g:nowe:120:227/c:1159:655/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU1cuanBlZw==.webp",
+    "tags": [],
+    "industries": [
+      "retail",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 51
+  },
+  {
     "id": "40c92d020ed7",
     "title": "The Weekly Closeout: Gabe’s in search of top leadership and Home Depot’s latest acquisition",
     "url": "https://www.retaildive.com/news/gabes-leadership-changes-home-depot-acquires-mingledorffs/815878/",
@@ -13,7 +30,10 @@
       "retail",
       "financial"
     ],
-    "relevance_score": 48
+    "relevance_score": 48,
+    "also_covered_by": [
+      "Salesforce AI"
+    ]
   },
   {
     "id": "efeba7d0aa0c",
@@ -125,7 +145,10 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 38
+    "relevance_score": 38,
+    "also_covered_by": [
+      "Ad Age"
+    ]
   },
   {
     "id": "5d8c2d26fb87",
@@ -146,38 +169,6 @@
     "relevance_score": 38
   },
   {
-    "id": "a4bd06af400b",
-    "title": "How Tecovas is leveraging AI to improve the store experience",
-    "url": "https://www.retaildive.com/news/tecovas-ai-store-experience/815750/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-03-26T14:12:00+00:00",
-    "summary": "The boot brand is using the tech to help with inventory replenishment and allocation, and foster better interactions between associates and customers.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "consumer"
-    ],
-    "relevance_score": 29
-  },
-  {
-    "id": "f2b6d6d140aa",
-    "title": "Pixis optimizes marketing performance with agentic AI - Amazon Web Services",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMVhvd3ZCMHFCbzJhbkdfVjVGTTFTLWVNTEZ5SjluM2RfT0JfTHNiZTZPLXY2SXo2RXpuLUJFT0h3YTRDcXFqZ0xDQ04yUUVNTGo2LXBJT0FXWVVLamhIMG1NWFVVVE1yNVQ1TzFEa0VqaXdxMlFIcnpfSmpDSEhMamo0bkV2Y0V3Z0VWZC05aXVHeEhqbGc?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-03-24T11:37:47+00:00",
-    "summary": "Pixis optimizes marketing performance with agentic AI Amazon Web Services",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 23
-  },
-  {
     "id": "318bed9f010d",
     "title": "We handpicked the 24 best Big Spring Sale deals under $50",
     "url": "https://www.theverge.com/gadgets/901519/best-cheap-tech-deals-under-50-amazon-big-spring-sale-2026",
@@ -194,50 +185,10 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 19
-  },
-  {
-    "id": "12850dbe1dd8",
-    "title": "The best deals we’ve found from Amazon’s Big Spring Sale (so far)",
-    "url": "https://www.theverge.com/gadgets/899580/best-amazon-big-spring-sale-2026-deals",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-03-27T14:08:00+00:00",
-    "summary": "Amazon loves to manufacture an event. March is historically a dry spell for deals; however, with Amazon’s third annual Big Spring Sale, which runs through March 31st, the retail behemoth is hoping to lure in would-be shoppers with the promise of steep(ish) savings and...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268405_The_best_deals_from_Amazons_Big_Spring_Sale_event2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Amazon",
-      "Deals",
-      "Gadgets",
-      "Tech",
-      "Verge Shopping"
-    ],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 17
-  },
-  {
-    "id": "332caf94bce3",
-    "title": "These 35 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)",
-    "url": "https://www.wired.com/story/the-amazon-spring-sale-2026-1/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-03-26T18:07:20+00:00",
-    "summary": "This sale spans almost an entire week, and it’s full of fake “deals.” We hunted to find truly good prices on gear we’ve tested.",
-    "image_url": "https://media.wired.com/photos/69c31871ea56e672b4eef17c/master/pass/The-Best-Deals-From-the-Amazon-Spring-Sale.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "Shopping",
-      "Deals",
-      "Amazon"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 16
+    "relevance_score": 19,
+    "also_covered_by": [
+      "Wired"
+    ]
   },
   {
     "id": "a16a0ffe292f",
@@ -274,6 +225,53 @@
     "industries": [
       "retail",
       "industrial"
+    ],
+    "relevance_score": 16,
+    "also_covered_by": [
+      "Banking",
+      "Adobe Inc"
+    ]
+  },
+  {
+    "id": "5127fc2e0077",
+    "title": "Max Muncy Among Top Fantasy Baseball Waiver Wire Targets For Week 2",
+    "url": "https://www.forbes.com/sites/mikebarner/2026/03/27/max-muncy-among-top-fantasy-baseball-waiver-wire-targets-for-week-2/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-03-27T16:00:00+00:00",
+    "summary": "Max Muncy and Justin Crawford are among the top options to consider on the fantasy baseball waiver wire for Week 2.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69c574fcc626c7de4c11d583/0x0.jpg?width=960",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "46a606effe3f",
+    "title": "Nuki’s one-touch retrofit smart lock got its first-ever discount",
+    "url": "https://www.theverge.com/gadgets/902276/nuki-smart-lock-thread-matter-smart-home-amazon-big-spring-sale-2026-deal",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-03-27T16:30:00+00:00",
+    "summary": "The Nuki Smart Lock is the best retrofit smart lock currently available for people who want a minimalist, feature-packed upgrade to their preexisting deadlock. It’s currently selling for $149 at Amazon — its cheapest price ever — during the Big Spring Sale. Its fast unlocking...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/257834_Nuki_Smart_Lock_JTuohy_0005.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Smart Home",
+      "Tech",
+      "Verge Shopping"
+    ],
+    "industries": [
+      "retail"
     ],
     "relevance_score": 16
   },
@@ -347,7 +345,7 @@
     "source_category": "ai",
     "published": "2026-03-27T15:32:57+00:00",
     "summary": "xTool, a company best known amongst makers for its laser-based cutting and engraving tools, has announced a new multi-function crafting machine called the WonderPress. It's not an all-in-one device that can help you get an Etsy store off the ground, but the WonderPress can...",
-    "image_url": null,
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/xtool_wonderpress1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200",
     "tags": [
       "Gadgets",
       "News",
@@ -383,38 +381,6 @@
     "relevance_score": 14
   },
   {
-    "id": "26348b6fdc11",
-    "title": "Adobe (ADBE) price target decreased by 21.82% to 331.26 - MSN",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNREN5NDRZTnNGVmFOQ3o4SWVKNW90Y2E4QnF0TzVaaFJuakY3Qk1Pc1lKOE9uTFUtNnVlVk9ycmIxaThZdVRyVk5rX09Ubi1VdXRad3JDZGo1MTdaVVJfOUp1ZzlSaXdRdGI1Y2syLVRHRG1qM1ZyYUlCZkZxTllOX0pDZ0M0d1Z0QUR2azBUNnVnQ0pxVXdtbmpxT3FUS1QyWl9rUmZ5UzhfU2M?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-03-27T11:48:54+00:00",
-    "summary": "Adobe (ADBE) price target decreased by 21.82% to 331.26 MSN",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "253b6d923d3d",
-    "title": "In the age of AI, Home Depot’s stores have ‘never been more relevant’",
-    "url": "https://www.retaildive.com/news/home-depot-ai-store-relevance/815910/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-03-27T14:56:00+00:00",
-    "summary": "While the retailer has been ramping up its AI-powered offerings, it aims to provide a frictionless experience across a customer’s shopping journey, wherever that may be.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
     "id": "5f7c5a5bb552",
     "title": "Stryker restores most manufacturing after cyberattack",
     "url": "https://www.healthcaredive.com/news/stryker-restores-most-manufacturing-after-cyberattack/815975/",
@@ -429,6 +395,51 @@
       "industrial"
     ],
     "relevance_score": 14
+  },
+  {
+    "id": "1dc9b867d939",
+    "title": "Siena Targeting Mike Hopkins As Next Basketball Coach",
+    "url": "https://www.forbes.com/sites/adamzagoria/2026/03/27/siena-targeting-mike-hopkins-as-next-basketball-coach/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-03-27T15:12:14+00:00",
+    "summary": "Siena Targeting Mike Hopkins As Next Basketball Coach",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/65eb8b9aec0c3f923a725bae/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "719a6b9f8dec",
+    "title": "Google's new TurboQuant algorithm speeds up AI memory 8x, cutting costs by 50% or more",
+    "url": "https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-03-25T19:35:00+00:00",
+    "summary": "As Large Language Models (LLMs) expand their context windows to process massive documents and intricate conversations, they encounter a brutal hardware reality known as the \"Key-Value (KV) cache bottleneck.\" Every word a model processes must be stored as a high-dimensional...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2WVKlEGnFpAcW5sMnTTA6c/d7c0e846054b2ee271fcbc37a53dbe23/Gemini_Generated_Image_uvfgr3uvfgr3uvfg.png?w=300&q=30",
+    "tags": [
+      "Infrastructure"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 12,
+    "also_covered_by": [
+      "TechCrunch AI"
+    ]
   },
   {
     "id": "9aaadecc1d16",
@@ -459,48 +470,6 @@
     "summary": "That amounts to more than 1,300 over the past two fiscal years, though the gaming retailer said it doesn’t expect any major footprint reductions in 2026.",
     "image_url": "https://imgproxy.divecdn.com/ATlTrSSD9jC1wglBOwyKqD1AF9KfQ7vFmYIH2hwQaMY/g:nowe:0:77/c:594:335/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iZW5kX3JldGFpbF8tXzEuanBlZw==.webp",
     "tags": [],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "a658ca9faf99",
-    "title": "Which E-Readers I'd Recommend Buying in Amazon's Spring Sale",
-    "url": "https://www.wired.com/story/e-reader-deals-amazon-spring-sale/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-03-26T17:25:39+00:00",
-    "summary": "Amazon's Spring Sale has multiple of our favorite e-readers discounted, including one that's now under $100.",
-    "image_url": "https://media.wired.com/photos/69c48b0a086bd8701941544f/master/pass/Our-Favorite-E-Readers-Are-On-Sale-Right-Now.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "Gear / Products / Tablets",
-      "Shopping",
-      "Amazon"
-    ],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "d4d091cbdc4c",
-    "title": "You Can Skip a Lot of Amazon’s Spring Sale, but Don’t Skip This Travel Upgrade",
-    "url": "https://www.wired.com/story/cadence-capsules-amazon-spring-sale-2026/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-03-26T18:16:28+00:00",
-    "summary": "This viral magnetic travel-toiletry system is rarely on sale, and this discount is legitimately good.",
-    "image_url": "https://media.wired.com/photos/69c56acfbf542f5813ce4da0/master/pass/This-Is-the-Cheapest-Cadence-Capsules-Have-Been-This-Year.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "Shopping",
-      "Deals",
-      "Travel"
-    ],
     "industries": [
       "retail"
     ],
@@ -546,36 +515,6 @@
     "relevance_score": 11
   },
   {
-    "id": "2797a2c12afa",
-    "title": "David’s Bridal reshapes C-suite for the AI era",
-    "url": "https://www.retaildive.com/news/davids-bridal-reshapes-c-suite-ai-technology-era/815849/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-03-26T15:57:00+00:00",
-    "summary": "The retailer named a CTO, chief global transformation and operations officer, and is on the hunt for its next CFO.",
-    "image_url": "https://imgproxy.divecdn.com/eWIjKDDtmpMVjPkbNniXYbj_m5755GcBv67wSNT5_EY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NQVhSMTAyNS5KUEc=.webp",
-    "tags": [],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "917eab72b1fc",
-    "title": "The Backroom: Consumer resilience in trying times",
-    "url": "https://www.retaildive.com/news/podcast-the-backroom-consumer-sentiment-uncertainty-economy/815364/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-03-26T16:12:00+00:00",
-    "summary": "Katie Thomas of the Kearney Consumer Institute talks about nuances in the K-shaped economy that help explain why discretionary retail sales have remained strong despite shoppers’ wariness.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 11
-  },
-  {
     "id": "cc004a0a56d9",
     "title": "Puma debuts AI concierge at Las Vegas store",
     "url": "https://www.retaildive.com/news/puma-ai-store-concierge-las-vegas/815562/",
@@ -609,116 +548,18 @@
     "relevance_score": 9
   },
   {
-    "id": "7df493749dcc",
-    "title": "Q&A: Artera's new CTO on bringing Amazon expertise to AI health tech strategy - MobiHealthNews",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPN3M1R0tRbGZKS2tGZlZCcnNHb1pGclMyTUtUSXZjYzlzMHF4c21mMXgtVWlGR0tTQldDLTNJdm5DZ3J2RFZ1akZncXRXRG13dENxSGhNT1JPM0tPbF95OWRlMUIzcERVaUhxTXVndUZIRHFCaHF4bkh5NnhSeWs0QTdhN3o1VER1a3JmcS1GUFN6LU9XRERLaUVLUkVfZzdGYm9SVEpMMA?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-03-26T17:48:51+00:00",
-    "summary": "Q&A: Artera's new CTO on bringing Amazon expertise to AI health tech strategy MobiHealthNews",
+    "id": "917eab72b1fc",
+    "title": "The Backroom: Consumer resilience in trying times",
+    "url": "https://www.retaildive.com/news/podcast-the-backroom-consumer-sentiment-uncertainty-economy/815364/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-03-26T16:12:00+00:00",
+    "summary": "Katie Thomas of the Kearney Consumer Institute talks about nuances in the K-shaped economy that help explain why discretionary retail sales have remained strong despite shoppers’ wariness.",
     "image_url": null,
     "tags": [],
     "industries": [
-      "retail",
-      "lifesciences"
+      "retail"
     ],
     "relevance_score": 9
-  },
-  {
-    "id": "51bb7fc72db5",
-    "title": "Salesforce introduces ‘intent-aware’ search for agentic commerce - Mass Market Retailers",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOX29BRnBGTzFDNzF0aVBfamFHQmNfaGQtUEp0Y01tbEItYzZ0ci0zaGN2UWIwb3hHTVh6RW9FUzRaTDU2V05DZGFBeWowcV9Va3ZiamhONUJIQ2QtSENFYlBIZ1BLbHhNZFA4M244cWZsQ0dXU0I1NUxaem1WcmtFNGN5SkJINFBveXY1dDFEQ3BVa3VHTHVueXY0QQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-03-25T18:52:22+00:00",
-    "summary": "Salesforce introduces ‘intent-aware’ search for agentic commerce Mass Market Retailers",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "5ddb222f4ce2",
-    "title": "Salesforce adds Agentforce agentic AI to SMB packages - TechTarget",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdEdNOXBISWNpRE1uS3hWb3BNWDl5aGc1V3JhMGhpQkFOMzlyWlJxSUVlWldoSjViX05LWWdtek55aU43Z1RvbHJhN0EwMGVjN1MwUHAwNnBDZzVveVBhXzdtT20za0E3ZlkzSmoyUG9vQmFILU9zdlRNUDFFQ1VkbG1ibE9UcW1zZ0dhMnhBRHdDc1RhY1FuUWl5RWRiUE5NZFR6bUFOejVhRjJJbVBDSGxVaWxPdFREZ0RKQg?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-03-24T21:38:31+00:00",
-    "summary": "Salesforce adds Agentforce agentic AI to SMB packages TechTarget",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "bd1b1cf2dd94",
-    "title": "Adobe (ADBE)-NVIDIA Alliance Targets Next Wave of AI Content Creation - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUS12VXdfMTZZZnB3MDlKbW1WWkFza0ZvU1N1c29acWZna2RpWGd3d29XLTJDMW1aRW81aGpVZ053Z1o5ZUtheVBrbk5sVC1WLWlScF80UVhVMTVkTGhYenRPdUJ2Mk9KRXNvamdGeFRqSVhOQncxc1ZTdTNTNjdlRk9MQzBRQVhlc1BfNDd0ckVaYmJOdWFrY0cxbW5kSVI5WDNTX2N3?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-03-25T05:34:00+00:00",
-    "summary": "Adobe (ADBE)-NVIDIA Alliance Targets Next Wave of AI Content Creation Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "0294c4f8ce1f",
-    "title": "Pacsun, West Marine AI-enable search with intent awareness - Chain Store Age",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd2VrNFo5d1VqUVNSTFRDdk5rS1hLMkxjWUtDRmp5U3dtVDNmRVFnV1BESTZFaW90WHFhdjFmSjhETF9CenVSMkh5aVlnVWRFeE01RVBfUDBfcmF0TTk4TE40SC1wZ3h1TU9LY0xteXM3blE2dk5vZ2dONmxRbkdOb2xZZHU?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-03-26T14:36:04+00:00",
-    "summary": "Pacsun, West Marine AI-enable search with intent awareness Chain Store Age",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "90564929d955",
-    "title": "Salesforce NVIDIA Alliance Targets Regulated AI Agents And Deeper Platform Adoption - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOHRaNWhxckJ1UFZHNGlYaS13dk93eDRxUWloRHBKVlhvajNBN05wQ0E3X2N5aXI4M2dSVDhnSTZFYllYcU82Ni1pbFpIQ0dhOTdmR0JGZHpaQURBdlZWbndVWHJsdU5DOHQ3M3RycnVuYjJ0S3h5NUZCRnpRbkk4bk1YMU5jcTVfUDQxUFdBeW5GLWFrTlhMX0s3blRBUFNnTGpZZlBCUjQwSFBXc05VUDBTWjdtdF9INS1LS2ZIQTFLR0w30gHKAUFVX3lxTE9zTUcxTzRpWnpLQkZkRUwweFFzOXNVbE4wRUJrd1Q5bGh4Q2hyeVg4a2J3czNOM2k2b0VHM1d4cUw0UXZJWkc4eWVUREgtUlh4QXhJbW5GbUVXcmUtdmgtSE9LWFhGdmp6SXhUUjlaOEV4SGgyM1hPMFc1UUFhMXVDTFJUdzhpMzBkU09vSFMxbWg0ODBhUUoyaWFVNDRFdVdvVC1vNHd3MmUzWkdaZFlCY1pvMTlBNUlTbTBrdVVCSEVPeHZtcXJmLWc?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-03-21T20:23:23+00:00",
-    "summary": "Salesforce NVIDIA Alliance Targets Regulated AI Agents And Deeper Platform Adoption simplywall.st",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "b12dd5c6d35e",
-    "title": "Accenture Invests in DaVinci Commerce to Advance Agentic AI-Led Shopping - Accenture",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNUWxTMEpkZzdCQjRlbzEwSGdCRFZNb1N6d3ZsY01SemJHR3RwU2g4SVNUMTcybG13UzlNalBxSFFWQVdVM2ZURm8yNDhVQWdfdHlBSzZPb3RmOWhmZmoyV2I5VE53ZHJWamdfOXd1YTlQUWVIeUZoR0xxRVdSNXBXaV8yU2d0YlNYSTg4OXZHbzBBb1pwbGtIVTRHcTBlMzRkQ2UtcG9nZW54bXNlR3FTdl9rQQ?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-03-23T06:44:17+00:00",
-    "summary": "Accenture Invests in DaVinci Commerce to Advance Agentic AI-Led Shopping Accenture",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 5
   }
 ]
