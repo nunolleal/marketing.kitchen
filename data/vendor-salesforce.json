@@ -13,7 +13,7 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 39
+    "relevance_score": 36
   },
   {
     "id": "a7ce4dbf5f44",
@@ -56,7 +56,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "f8d3c21fc3f9",
@@ -67,47 +67,6 @@
     "published": "2026-03-27T16:20:13+00:00",
     "summary": "Don’t choose between security and resilience. Learn how to protect your organization from both malicious threats and accidental errors.",
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/Gemini_Generated_Image_jjds8tjjds8tjjds.png?w=2318",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 13
-  },
-  {
-    "id": "fdd8195fc848",
-    "title": "Business Brass Tacks: Strategy vs Tactics",
-    "url": "https://www.salesforce.com/blog/strategy-vs-tactics/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-03-27T14:00:00+00:00",
-    "summary": "Defining strategy and tactics: Why small businesses need both to win.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/image.jpeg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 12
-  },
-  {
-    "id": "30937ec550f1",
-    "title": "Beyond Compliance: IBM’s Blueprint for Building an Agentic Trust Framework",
-    "url": "https://www.salesforce.com/blog/beyond-compliance-ibms-blueprint-for-building-an-agentic-trust-framework/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-03-27T16:29:21+00:00",
-    "summary": "The Shift from Policy to Architecture",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/IBM-Blog.png?w=1920",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "c403acc44cfc",
-    "title": "How Smarsh Humanizes Customer Support",
-    "url": "https://www.salesforce.com/blog/how-smarsh-humanizes-customer-support/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-03-27T19:00:22+00:00",
-    "summary": "See Smarsh's steps to a smarter, more fulfilled workforce.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/Smarsh-Agentforce-1500x844-2.jpg",
     "tags": [],
     "industries": [],
     "relevance_score": 12
@@ -130,6 +89,32 @@
     "relevance_score": 11
   },
   {
+    "id": "fdd8195fc848",
+    "title": "Business Brass Tacks: Strategy vs Tactics",
+    "url": "https://www.salesforce.com/blog/strategy-vs-tactics/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-03-27T14:00:00+00:00",
+    "summary": "Defining strategy and tactics: Why small businesses need both to win.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/image.jpeg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 11
+  },
+  {
+    "id": "c403acc44cfc",
+    "title": "How Smarsh Humanizes Customer Support",
+    "url": "https://www.salesforce.com/blog/how-smarsh-humanizes-customer-support/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-03-27T19:00:22+00:00",
+    "summary": "See Smarsh's steps to a smarter, more fulfilled workforce.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/Smarsh-Agentforce-1500x844-2.jpg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 11
+  },
+  {
     "id": "e96a1e2c1c89",
     "title": "Keep your partner, lose the complexity: Introducing Salesforce’s native integration with Adyen",
     "url": "https://www.salesforce.com/blog/salesforce-native-integration-adyen/",
@@ -143,16 +128,18 @@
     "relevance_score": 10
   },
   {
-    "id": "19ac818ed2d2",
-    "title": "'Emphathetic 'Salesforce bots to help fired via Labor Dept - theregister.com",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YeXdWWHpGVjRZaDZIUkkzQXBzRE8wdXR5S05YbXRreENnLVJKdE95dEszclI1UHllVHpSMkxfeE1zcmE0TWxhVy1kV3kxY1BTUmtFZmlFSzFWWEFIQk12Nk5pNjI3MUpxa0dzUXd0V1pZa0Y4eWlBOQ?oc=5",
-    "source": "Salesforce AI",
+    "id": "30937ec550f1",
+    "title": "Beyond Compliance: IBM’s Blueprint for Building an Agentic Trust Framework",
+    "url": "https://www.salesforce.com/blog/beyond-compliance-ibms-blueprint-for-building-an-agentic-trust-framework/",
+    "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-03-26T20:41:00+00:00",
-    "summary": "'Emphathetic 'Salesforce bots to help fired via Labor Dept theregister.com",
-    "image_url": null,
+    "published": "2026-03-27T16:29:21+00:00",
+    "summary": "The Shift from Policy to Architecture",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/IBM-Blog.png?w=1920",
     "tags": [],
-    "industries": [],
+    "industries": [
+      "industrial"
+    ],
     "relevance_score": 10
   },
   {
@@ -229,33 +216,17 @@
     "relevance_score": 8
   },
   {
-    "id": "0cde18039352",
-    "title": "Salesforce to skip raises for top employees, boost stock and bonus pools - americanbazaaronline.com",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWGtHSHVzZ1dZTEFmazZaanZnRU5yaGxLdHNGQTNxb0FVWlFYWnV5UzVZSWVERUl3MWthNUgtRzVuQVVLaFR1WTVxNTRqR2Z3SDR5cUJicmJNeHo4OFQ3NktBN1U1ZDlxb2dpZnBnR1MyWGdYbkFDRU9LdXZfa2VreGNWZlZWLVJwV0ZWa3RFZk1VZzE5M1hpUVpEYWNtYU1GaURFMXVuUmNTeDAwampCQ3VFdnlOYU1l?oc=5",
+    "id": "19ac818ed2d2",
+    "title": "'Emphathetic 'Salesforce bots to help fired via Labor Dept - theregister.com",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YeXdWWHpGVjRZaDZIUkkzQXBzRE8wdXR5S05YbXRreENnLVJKdE95dEszclI1UHllVHpSMkxfeE1zcmE0TWxhVy1kV3kxY1BTUmtFZmlFSzFWWEFIQk12Nk5pNjI3MUpxa0dzUXd0V1pZa0Y4eWlBOQ?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-03-26T15:42:35+00:00",
-    "summary": "Salesforce to skip raises for top employees, boost stock and bonus pools americanbazaaronline.com",
+    "published": "2026-03-26T20:41:00+00:00",
+    "summary": "'Emphathetic 'Salesforce bots to help fired via Labor Dept theregister.com",
     "image_url": null,
     "tags": [],
     "industries": [],
     "relevance_score": 8
-  },
-  {
-    "id": "5ddb222f4ce2",
-    "title": "Salesforce adds Agentforce agentic AI to SMB packages - TechTarget",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdEdNOXBISWNpRE1uS3hWb3BNWDl5aGc1V3JhMGhpQkFOMzlyWlJxSUVlWldoSjViX05LWWdtek55aU43Z1RvbHJhN0EwMGVjN1MwUHAwNnBDZzVveVBhXzdtT20za0E3ZlkzSmoyUG9vQmFILU9zdlRNUDFFQ1VkbG1ibE9UcW1zZ0dhMnhBRHdDc1RhY1FuUWl5RWRiUE5NZFR6bUFOejVhRjJJbVBDSGxVaWxPdFREZ0RKQg?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-03-24T21:38:31+00:00",
-    "summary": "Salesforce adds Agentforce agentic AI to SMB packages TechTarget",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 7
   },
   {
     "id": "5d3611eac1ff",
@@ -305,9 +276,9 @@
     "relevance_score": 7
   },
   {
-    "id": "2fe10c85e341",
+    "id": "161e6ca9b8ad",
     "title": "Salesforce Stock Is Getting Hit Again. Why the Software Slump Is Back. - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOZEVfc0hBdm4yZm9jaTNRdC1iU2lTV2dsVWlJb3hrMVR1UG1ienBLcWxPLU9DX1FYQ3EwcDBPZFhXUVhiSjk5YnlZanFlTkQwUzhkcEFxWjJQOFJMZ3F1QV9WQ2tiVW9KbHFha2VCQkxTM18yQ0lleHR5NkVIWmRlbnNQdzdrU3U1Ym9MUUtVbndOTDZPN1I1RzFhc3cwVnFaNi1yOTdSRVpfdU9qVENmNTlpcVI1VkxtNUlreW9rT3lFaUUzNEE4Vnozc01wa1o0enQ5anhXZWRORGVPYkIwdEp4SlZsT1R1Rm9PX0FRQi1Jb2JVeDhQTFhLN05mM3lnZHdPbDgxUkZodFk5SHJSSlRmMjFLRGtkVm5HdEh1cEhRMTJxZDZvQ0lsNC1YbWc1Qy00U1VZNU5FUzVQWmZNVnRQLTJGcGhFUTQ4emRQbHFVSkFxUVBUbHpKbXZLWFotc002clpXck9ncHNFMnlzbEhMYzBxOVBYQmdZbmg0SXB1MTJmMmJtc2tMdV9pd25KZDE0ejMzRWx1SXBnUTJfLXZRaw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNNDhmaTk0QUd3b1dEdXJVQWs2emVwdjFMZG1od3NGenJXcFlyZlBrVWd3aWhrT0EzRHdmczJDTXNZamwzWW9xbHE2Y0lrQ0ZpbTJYaHdwWU5jTVpOWkhQVWZPaGljVXRzUnc5bjNVZmFKZ29NZ1ZFR3VQdVRDQzBUZllSUWZxZkszVGV6UTZ4VXVFNXhpQlBQN2ZfRFVKMzdmVER1OFJWTk5WU3d5VjJmQmJPSXRoaHJMbmFqTllUSElKM19QRzN0ZXk0SGt2T0dha3dYZEFIMXc3VThqelNaSE1hY2Y2TGQ3QjBzYlZEMU1fdUxWcGNiemFwdGJLN0Y0SVFSQUFlSU9FckJxb3BMY0lJTVFIbDFqQmh1UkdhdEZmZ3BOSTFFRW5GZ3czSEp3WE1jcUlySFBVcU5NbjVBRHlFLUx3VXg5d3luZjh1RmF4a2pSTEs4aWNjUlpDdEt5YUJDOE5Wd1lPNWhKX1U2b2ZYQ3dFU21uTHg3aHJjeXV3bWNtSkRxY0Y5SklGU0lZY1NCMGZPcXZoV05oZHQyVkxuVQ?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
     "published": "2026-03-24T19:09:00+00:00",
@@ -316,6 +287,22 @@
     "tags": [],
     "industries": [
       "tech",
+      "industrial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "5ddb222f4ce2",
+    "title": "Salesforce adds Agentforce agentic AI to SMB packages - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdEdNOXBISWNpRE1uS3hWb3BNWDl5aGc1V3JhMGhpQkFOMzlyWlJxSUVlWldoSjViX05LWWdtek55aU43Z1RvbHJhN0EwMGVjN1MwUHAwNnBDZzVveVBhXzdtT20za0E3ZlkzSmoyUG9vQmFILU9zdlRNUDFFQ1VkbG1ibE9UcW1zZ0dhMnhBRHdDc1RhY1FuUWl5RWRiUE5NZFR6bUFOejVhRjJJbVBDSGxVaWxPdFREZ0RKQg?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-03-24T21:38:31+00:00",
+    "summary": "Salesforce adds Agentforce agentic AI to SMB packages TechTarget",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
       "industrial"
     ],
     "relevance_score": 6
