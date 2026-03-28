@@ -102,19 +102,6 @@
     "relevance_score": 11
   },
   {
-    "id": "c403acc44cfc",
-    "title": "How Smarsh Humanizes Customer Support",
-    "url": "https://www.salesforce.com/blog/how-smarsh-humanizes-customer-support/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-03-27T19:00:22+00:00",
-    "summary": "See Smarsh's steps to a smarter, more fulfilled workforce.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/Smarsh-Agentforce-1500x844-2.jpg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 11
-  },
-  {
     "id": "e96a1e2c1c89",
     "title": "Keep your partner, lose the complexity: Introducing Salesforce’s native integration with Adyen",
     "url": "https://www.salesforce.com/blog/salesforce-native-integration-adyen/",
@@ -140,6 +127,19 @@
     "industries": [
       "industrial"
     ],
+    "relevance_score": 10
+  },
+  {
+    "id": "c403acc44cfc",
+    "title": "How Smarsh Humanizes Customer Support",
+    "url": "https://www.salesforce.com/blog/how-smarsh-humanizes-customer-support/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-03-27T19:00:22+00:00",
+    "summary": "See Smarsh's steps to a smarter, more fulfilled workforce.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/Smarsh-Agentforce-1500x844-2.jpg",
+    "tags": [],
+    "industries": [],
     "relevance_score": 10
   },
   {
@@ -276,9 +276,39 @@
     "relevance_score": 7
   },
   {
-    "id": "161e6ca9b8ad",
+    "id": "90564929d955",
+    "title": "Salesforce NVIDIA Alliance Targets Regulated AI Agents And Deeper Platform Adoption - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOOHRaNWhxckJ1UFZHNGlYaS13dk93eDRxUWloRHBKVlhvajNBN05wQ0E3X2N5aXI4M2dSVDhnSTZFYllYcU82Ni1pbFpIQ0dhOTdmR0JGZHpaQURBdlZWbndVWHJsdU5DOHQ3M3RycnVuYjJ0S3h5NUZCRnpRbkk4bk1YMU5jcTVfUDQxUFdBeW5GLWFrTlhMX0s3blRBUFNnTGpZZlBCUjQwSFBXc05VUDBTWjdtdF9INS1LS2ZIQTFLR0w30gHKAUFVX3lxTE9zTUcxTzRpWnpLQkZkRUwweFFzOXNVbE4wRUJrd1Q5bGh4Q2hyeVg4a2J3czNOM2k2b0VHM1d4cUw0UXZJWkc4eWVUREgtUlh4QXhJbW5GbUVXcmUtdmgtSE9LWFhGdmp6SXhUUjlaOEV4SGgyM1hPMFc1UUFhMXVDTFJUdzhpMzBkU09vSFMxbWg0ODBhUUoyaWFVNDRFdVdvVC1vNHd3MmUzWkdaZFlCY1pvMTlBNUlTbTBrdVVCSEVPeHZtcXJmLWc?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-03-21T20:23:23+00:00",
+    "summary": "Salesforce NVIDIA Alliance Targets Regulated AI Agents And Deeper Platform Adoption simplywall.st",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "858b8ee59d87",
+    "title": "Salesforce tackles LLM unpredictability with hybrid logic - No Jitter",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPNzdkVjE0THg1WThZSEQ5b2FHODdfbi1CM0t6UjRrR19ncFZsV19sSTZ5MTk0NkhtUlBWVzZXMzd1bndlZ3BMQl82eG83XzZ0QlpKWDVqYlV4UV9vdTRLQXZmRXk4bmxXNXFDeXFiTEg0bEdXaVdZN0UzVlhhaUQyWkZGbXNCYTM2ZEVvbmwxaXhabkhGRE9jZGxTWFc?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-03-23T15:50:44+00:00",
+    "summary": "Salesforce tackles LLM unpredictability with hybrid logic No Jitter",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 6
+  },
+  {
+    "id": "12b85a7841d8",
     "title": "Salesforce Stock Is Getting Hit Again. Why the Software Slump Is Back. - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNNDhmaTk0QUd3b1dEdXJVQWs2emVwdjFMZG1od3NGenJXcFlyZlBrVWd3aWhrT0EzRHdmczJDTXNZamwzWW9xbHE2Y0lrQ0ZpbTJYaHdwWU5jTVpOWkhQVWZPaGljVXRzUnc5bjNVZmFKZ29NZ1ZFR3VQdVRDQzBUZllSUWZxZkszVGV6UTZ4VXVFNXhpQlBQN2ZfRFVKMzdmVER1OFJWTk5WU3d5VjJmQmJPSXRoaHJMbmFqTllUSElKM19QRzN0ZXk0SGt2T0dha3dYZEFIMXc3VThqelNaSE1hY2Y2TGQ3QjBzYlZEMU1fdUxWcGNiemFwdGJLN0Y0SVFSQUFlSU9FckJxb3BMY0lJTVFIbDFqQmh1UkdhdEZmZ3BOSTFFRW5GZ3czSEp3WE1jcUlySFBVcU5NbjVBRHlFLUx3VXg5d3luZjh1RmF4a2pSTEs4aWNjUlpDdEt5YUJDOE5Wd1lPNWhKX1U2b2ZYQ3dFU21uTHg3aHJjeXV3bWNtSkRxY0Y5SklGU0lZY1NCMGZPcXZoV05oZHQyVkxuVQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxOdkxUd2Rrc0NnWnpCbElKalZDeTZmcGxLZ0JoMTZCTE1MaEtPY1gzM0FqamxSQ243b3FBZ2ZhZEpWUUM4QVFfMVU4Qy1NN3JpRzdVMkNZWUNQZFBhel9iM2N0Y2FZd2NnZEdkd3FOT3hQNmpyeXR1UFRyWE9QZTA5djlieWtRNERsWGZVUExtVVpmRU04SGRRbVBEQlBvNzdRU0ctYmJBYy12b09fcDJ0UHEtLTdBY2pxdHdwV002a1FTLVE2TFVXbndOTXF2QWtxV2ZQVHIzWGozNjlhZVdCOTF2T1lYdmctQ2lqWHBkMkw3ZE4yQW95NVRrS2VqM2pnVFVfUkRoSGxKcFAyS1R6RUdKbUFHVmljcTJUNFhwdW41cERNMS1NTU8xMW9iVXNjMGlnTWtwNDRzbnJSQ3dwYmh2NWhsNmlleXBMWEozWjNMMF9xVWRiMVp5SlE3NkRVcHIxM3lDSmhETmh3cjF4NGV5eXNmOGpBY2tjLWhZVU1Sa09kYW5HUXNDRTg1a3hFX0h5SWRQQTlOSGpOMlUzeFdwaw?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
     "published": "2026-03-24T19:09:00+00:00",
