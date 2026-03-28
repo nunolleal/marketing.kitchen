@@ -16,8 +16,8 @@
     "relevance_score": 29,
     "also_covered_by": [
       "Adobe",
-      "Fintech",
-      "Banking"
+      "Adobe Marketing Cloud",
+      "Telecom"
     ]
   },
   {
@@ -79,36 +79,6 @@
     "relevance_score": 9
   },
   {
-    "id": "f5334fea295d",
-    "title": "Composing Complex Systems with Domain-Driven Design",
-    "url": "https://www.salesforce.com/blog/composing-complex-systems-domain-driven-design/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-03-25T18:51:47+00:00",
-    "summary": "Learn how to apply Domain-Driven Design to build composable, well-architected Salesforce solutions.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/AdobeStock_1483264765_Editorial_Use_Only.jpeg?w=6000",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "0d3380146e84",
-    "title": "The Evolution of Voice Technology: From IVRs to AI-Powered Conversations",
-    "url": "https://www.salesforce.com/blog/evolution-of-voice-technology/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-03-26T16:58:10+00:00",
-    "summary": "Once limited to phone queues and basic routing, voice technology is now an engine for smarter, faster customer service.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/evolution-of-voice-1500x844_1.jpg",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 9
-  },
-  {
     "id": "fdd8195fc848",
     "title": "Business Brass Tacks: Strategy vs Tactics",
     "url": "https://www.salesforce.com/blog/strategy-vs-tactics/",
@@ -135,32 +105,34 @@
     "relevance_score": 9
   },
   {
-    "id": "30937ec550f1",
-    "title": "Beyond Compliance: IBM’s Blueprint for Building an Agentic Trust Framework",
-    "url": "https://www.salesforce.com/blog/beyond-compliance-ibms-blueprint-for-building-an-agentic-trust-framework/",
+    "id": "f5334fea295d",
+    "title": "Composing Complex Systems with Domain-Driven Design",
+    "url": "https://www.salesforce.com/blog/composing-complex-systems-domain-driven-design/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-03-27T16:29:21+00:00",
-    "summary": "The Shift from Policy to Architecture",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/IBM-Blog.png?w=1920",
+    "published": "2026-03-25T18:51:47+00:00",
+    "summary": "Learn how to apply Domain-Driven Design to build composable, well-architected Salesforce solutions.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/AdobeStock_1483264765_Editorial_Use_Only.jpeg?w=6000",
     "tags": [],
     "industries": [
-      "industrial"
+      "tech"
     ],
-    "relevance_score": 9
+    "relevance_score": 8
   },
   {
-    "id": "c403acc44cfc",
-    "title": "How Smarsh Humanizes Customer Support",
-    "url": "https://www.salesforce.com/blog/how-smarsh-humanizes-customer-support/",
+    "id": "0d3380146e84",
+    "title": "The Evolution of Voice Technology: From IVRs to AI-Powered Conversations",
+    "url": "https://www.salesforce.com/blog/evolution-of-voice-technology/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-03-27T19:00:22+00:00",
-    "summary": "See Smarsh's steps to a smarter, more fulfilled workforce.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/Smarsh-Agentforce-1500x844-2.jpg",
+    "published": "2026-03-26T16:58:10+00:00",
+    "summary": "Once limited to phone queues and basic routing, voice technology is now an engine for smarter, faster customer service.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/evolution-of-voice-1500x844_1.jpg",
     "tags": [],
-    "industries": [],
-    "relevance_score": 9
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 8
   },
   {
     "id": "19ac818ed2d2",
@@ -176,6 +148,34 @@
     "relevance_score": 8
   },
   {
+    "id": "30937ec550f1",
+    "title": "Beyond Compliance: IBM’s Blueprint for Building an Agentic Trust Framework",
+    "url": "https://www.salesforce.com/blog/beyond-compliance-ibms-blueprint-for-building-an-agentic-trust-framework/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-03-27T16:29:21+00:00",
+    "summary": "The Shift from Policy to Architecture",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/IBM-Blog.png?w=1920",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "c403acc44cfc",
+    "title": "How Smarsh Humanizes Customer Support",
+    "url": "https://www.salesforce.com/blog/how-smarsh-humanizes-customer-support/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-03-27T19:00:22+00:00",
+    "summary": "See Smarsh's steps to a smarter, more fulfilled workforce.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/Smarsh-Agentforce-1500x844-2.jpg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 8
+  },
+  {
     "id": "806fc2fa9dc0",
     "title": "From Origination to Recovery: How to Reduce Overhead Across the Loan Lifecycle",
     "url": "https://www.salesforce.com/blog/how-to-reduce-overhead-across-the-loan-lifecycle/",
@@ -186,21 +186,6 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/Gemini_Generated_Image_dyclh4dyclh4dycl-1.png?w=2752",
     "tags": [],
     "industries": [],
-    "relevance_score": 7
-  },
-  {
-    "id": "dd0e6334689e",
-    "title": "AIG builds a digital commercial platform with Salesforce - FutureCIO",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPOUpxS1V6QmE4TFNvTk0xREJ2T3B4Q3Y5QWNtZUtRVXEzWnp2VXo4ZkZaeHBOR3oyZVkzOGRJMEVOdjB1Q3JBa2xGSUowUW9DSzdxQ3YtTzVabnZhY09Qa05ZTVJQeFhPQjVrYzR5TXhPSURRVl9UTXFreC15cjd5M0VSRUdwQWs?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-03-26T06:00:00+00:00",
-    "summary": "AIG builds a digital commercial platform with Salesforce FutureCIO",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
     "relevance_score": 7
   },
   {
@@ -235,9 +220,9 @@
     "relevance_score": 6
   },
   {
-    "id": "004f1250bf71",
+    "id": "fe7049962b35",
     "title": "Salesforce Stock Is Getting Hit Again. Why the Software Slump Is Back. - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNbUlKSU9IS2FsQ0RWZDRHNFhhSUlvXzVaQ1J5aEo4UlVYd0FaOHprMGNtNHpSTlJETi1yNHRvWTRySXJ6emVYMHFyV3Z4cEk0MGY3dEVwN3J2cDZTWC01OC1UelJJcXRhZURodHE1ZVcyVU1mdEVOTE0xR0ZqMEFqR0p4Tnp6N3lOdEVCQk9kNTBodVRwQmU5TFA2NjNramlZU0tJLTZMNnFScGE0aTJrOFo5Tk1GVDNYWkpPd0lwZzZkVk5NRlhrRFF3ek5FeWR0SWl6RUprRnNLTm1MSy0xSm5FdG1xaUR0eUxOeERHalQ0d3kwUHBjRDYwdUpQbzF2OHcyODNncFZ1RW5KY0YxcG5GTDBJUi1VSkFLZkpETC01RW9jUzN0QnBKUFYwTDNsUjJlZ2JsdFNFb19Hb3Q3ZndQUmhaQ2UzR3RHUVBWTy0yUUFwZ3NWOW4xc1l0eDk1WC1wRVFFM3NDSC1UNWltcGY4cFJsRVpHVlM4eXN6QnVZUE1YWW9DX2x3RXNOeHNOeWZsNWZHVTR2UVRUYVRHbjloaw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNN1JoNE02dlVEQmhDM0FvdUY4WnZYU29fcXVycDF0T0NqTFFYWXJpQmlsZkt4ckNzc2tOSlBibWpZN3E5M09lSzZKc19IZ01UZG9QbWtzd1VPcUl6ZHV3ZENhYWFvVmdQQlB3TXpHc0g1SzhBdGd0NWdYMDJvT1l5dGg1Qi1keHNtQ1dTLTFYaFpOYW5OYjF4QlVPWllHYmtiV0JXTEJVZ1RQSk11OXhpNkFNdktaaHRNSnNKbXVXVGdjZ3VXd09NeUItRnZZZ2IyNElWVnlyVTRPOThaSGRHTGJJbEVxRTN1cWtNRmw0N3FCYTNoZkVoM3ZDNWdITXlxbjFjdUVQbVl5YmdwZGlZVzVaRDMtLWJabU03UFQ0cjg3Yy1GSUtqOUJaWXlNdVNxMUU3NlpIcS16dHNaUjlKSHZ0VHh2UDJ6dXJrSjlGSldfU3NjSTI5c2pqbF9EUS15Y3N1XzhhbjhzSjdndmhneTAtSmpVd1VHREp5NFRhOEFjZXpvd1pGVEhBNDA4ZzZ1c1JJWFlJOW94a1ZvTXA4dnJDQQ?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
     "published": "2026-03-24T19:09:00+00:00",
@@ -267,13 +252,28 @@
     "relevance_score": 6
   },
   {
+    "id": "5d3611eac1ff",
+    "title": "Adecco’s Agentforce Rollout Puts Salesforce’s AI Story To The Test - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOb1duUEV0VTdLcUxKUjlHTXA2MnNmQUlQUF9WSVkwaWM1RUlvd0lscjR5dFRUcnEzWkFjTVRHMkdaSFlfal9FLTFQckZNQVpwYnQ4TEowYm9FREMtWUh1ZnhKd2ZYdXFFNUdYXzByWEJJWC1IT2RYM1k4MDZ5dGFnLVd1cXlDR3FaY0dHTHZwTW5qdzNBRkFNUjR6ZzVZWXNwSXEzYV9ZeDZPZw?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-03-25T09:06:31+00:00",
+    "summary": "Adecco’s Agentforce Rollout Puts Salesforce’s AI Story To The Test Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 6
+  },
+  {
     "id": "2dab9a9c5029",
-    "title": "Salesforce Agentforce Contact Center Brings Unified Data and AI Agents to Customer Service - cloudwars.com",
+    "title": "Salesforce Agentforce Contact Center Brings Unified Data and AI Agents to Customer Service - Cloud Wars",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFNSaURwRW10XzRFVnB3QTFhTTk0Y3gxM09GbzlxbFpWQnEtOG9mZmVWQlRUTGNsUE9KSzI5NDhzVzQ3N0w3NkdWOWVRZ1V3RktGTFkxTkFqbUNLUklubUpsWTFScFFNWmdUcFd4TnptaU0xRE16V0lJVndSV3JUd2lUMFJOcTdfVE56WXN2VVFWRWwtd0NGUUVCVVdDbEtwT1BRTXU0ZDF4YXN5UFFRckVnaVpmZEU?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
     "published": "2026-03-25T14:00:00+00:00",
-    "summary": "Salesforce Agentforce Contact Center Brings Unified Data and AI Agents to Customer Service cloudwars.com",
+    "summary": "Salesforce Agentforce Contact Center Brings Unified Data and AI Agents to Customer Service Cloud Wars",
     "image_url": null,
     "tags": [],
     "industries": [

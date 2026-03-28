@@ -20,7 +20,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 54
+    "relevance_score": 51
   },
   {
     "id": "724340c530d1",
@@ -42,7 +42,7 @@
       "media",
       "tech"
     ],
-    "relevance_score": 49
+    "relevance_score": 46
   },
   {
     "id": "4ebf15f31dcd",
@@ -95,27 +95,6 @@
     "relevance_score": 19
   },
   {
-    "id": "1cb40ab630ea",
-    "title": "‘Scream 7’ Is New On Streaming This Week, Report Says",
-    "url": "https://www.forbes.com/sites/timlammers/2026/03/28/scream-7-is-new-on-streaming-this-week-report-says/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-03-28T09:15:58+00:00",
-    "summary": "“Scream 7,” starring Neve Campbell, Isabel May and Courteney Cox, is reportedly coming to digital streaming this week. Find out when and where you can watch the horror hit at home.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69c755bcdf6e3b39617a0a6e/0x0.jpg?width=960&precrop=1951%2C1097%2Cx0%2Cy458",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 17
-  },
-  {
     "id": "b0329c17bd07",
     "title": "Why OpenAI killed Sora",
     "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
@@ -135,7 +114,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "77e9c27670cb",
@@ -156,7 +135,7 @@
     "industries": [
       "media"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "4a7148cf4dbd",
@@ -195,67 +174,7 @@
     "industries": [
       "media"
     ],
-    "relevance_score": 15
-  },
-  {
-    "id": "c555518cbfc4",
-    "title": "James Cameron’s ‘Avatar: Fire And Ash’ Is New On Streaming This Week",
-    "url": "https://www.forbes.com/sites/timlammers/2026/03/28/james-camerons-avatar-fire-and-ash-is-new-on-streaming-this-week/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-03-28T09:30:51+00:00",
-    "summary": "\"Avatar: Fire and Ash,\" James Cameron’s third film in his blockbuster \"Avatar\" series, is coming to digital streaming this week. Find out when and where you can watch it at home.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69c764346e4bb92f28bcdad5/0x0.jpg?width=960",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "9aae5198c784",
-    "title": "‘Wuthering Heights’ Is New On Streaming This Week",
-    "url": "https://www.forbes.com/sites/timlammers/2026/03/28/wuthering-heights-is-new-on-streaming-this-week/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-03-28T09:00:23+00:00",
-    "summary": "“Wuthering Heights,” starring Margot Robbie and Jacob Elordi in Emerald Fennell’s adaptation of Emily Bronte’s classic novel, is coming to digital streaming this week. Find out when and where you can watch the movie at home.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69c718249a41eb9d36411ddc/0x0.jpg?width=960",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "media"
-    ],
     "relevance_score": 14
-  },
-  {
-    "id": "da604bac3ebd",
-    "title": "Uproxx Makes Play for TV Ad Spend With TikTok-Ready Shows",
-    "url": "https://www.adweek.com/convergent-tv/uproxx-makes-play-for-tv-ad-spend-with-tiktok-ready-shows/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-03-26T19:00:00+00:00",
-    "summary": "Uproxx TV pitches advertisers on CTV reach and 'super creators.'",
-    "image_url": null,
-    "tags": [
-      "General",
-      "NewFronts"
-    ],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 12
   },
   {
     "id": "913620264f0c",
@@ -281,6 +200,24 @@
     "relevance_score": 12
   },
   {
+    "id": "da604bac3ebd",
+    "title": "Uproxx Makes Play for TV Ad Spend With TikTok-Ready Shows",
+    "url": "https://www.adweek.com/convergent-tv/uproxx-makes-play-for-tv-ad-spend-with-tiktok-ready-shows/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-03-26T19:00:00+00:00",
+    "summary": "Uproxx TV pitches advertisers on CTV reach and 'super creators.'",
+    "image_url": null,
+    "tags": [
+      "General",
+      "NewFronts"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "719a6b9f8dec",
     "title": "Google's new TurboQuant algorithm speeds up AI memory 8x, cutting costs by 50% or more",
     "url": "https://venturebeat.com/infrastructure/googles-new-turboquant-algorithm-speeds-up-ai-memory-8x-cutting-costs-by-50",
@@ -298,7 +235,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 11
+    "relevance_score": 10
   },
   {
     "id": "07bfcb396c9e",
@@ -357,22 +294,6 @@
     "relevance_score": 9
   },
   {
-    "id": "6e37a57f8d4b",
-    "title": "Philippines Bancassurance Market 2026: Bank-Insurance Partnerships, Digital Distribution & Financial Inclusion - vocal.media",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa2UwQTh2bjFkU1RyUlFXeW9kb1pYZ25MS204SmY2dW1OTm0xaVB2NnMwZXQ5UFQzUWhxYWp2bGpFY3BDeF95RE85VWZUX0MzQnFDOGVMbDFmVXZPdHAtWnRFYkJia0JDcXV5Ym1FTU92aFY5UWFtLWVBZjBtNGZJV2x2b29hbTJrMWV1RDhCZFBxYzBDMEl5U2VjLUxwSUZBamF3Y2E3VG1ycWlZOFczT1oyUFB3S3NiLW11ektsX2N3UGhjT01JeTUzM1pycUYtMjZF?oc=5",
-    "source": "Financial Marketing",
-    "source_category": "industry_financial",
-    "published": "2026-03-26T06:48:53+00:00",
-    "summary": "Philippines Bancassurance Market 2026: Bank-Insurance Partnerships, Digital Distribution & Financial Inclusion vocal.media",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "financial"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "b9bfebdbf547",
     "title": "REI faces possible anniversary sale boycott after abandoning labor talks",
     "url": "https://www.retaildive.com/news/rei-union-anniversary-sale-boycott/815830/",
@@ -388,5 +309,21 @@
       "industrial"
     ],
     "relevance_score": 8
+  },
+  {
+    "id": "1365a0db2d8e",
+    "title": "Meta and YouTube Lose Landmark Social-Media Addiction Trial - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxOWjdyY19LZlB1RnZ5WXl5QWt3Q2FIRVJvLVN5aFZHZ2FYVzAwU19ielY1QjNFTmhTeDBMcEtTNHRUck9IZnFkWFNmazU1UTRsOFhrOXU3dzhhSENpOFNJb3FYUFA3dzRYT01QbVJJUTdLMUh1bkNaMVo0bDZ1RFhpVmU1N2tiRW5nR3g4cWNIX1BtZWxRSjIxbmptTldLR054UkdvaEZjUThUR2dVYkdnOFNBYVV2eWkzdUtkS0hJd3k2LS1QZUo1TWtwS3o3QktTYjNvYlNHd3loV2tSN3JJdmFHUkRQRWF6UmpneVFJcDNBMG05c0hkUWZGeG5SZnhGTXkyUXVHVzh3Q3JIUW5KZkhKSzVlMTN2S0VnR1V2enliM1dOc1pObHdILVAxOUhrVlA4WWVxUzlYOVpnV3ZwY1RCZG9RdndoNDlRc2QzXy1LWmxldzhFZ0IxUnlndDFBUmsyc3h5Y0RFYy1GX0JHQy1MUlJnNTIyb0Rld2ZETXotZVVVbFBuSHdGMHgwU2pt?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-03-25T20:15:00+00:00",
+    "summary": "Meta and YouTube Lose Landmark Social-Media Addiction Trial WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "tech"
+    ],
+    "relevance_score": 5
   }
 ]
