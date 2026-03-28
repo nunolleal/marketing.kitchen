@@ -13,22 +13,12 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 33
-  },
-  {
-    "id": "a7ce4dbf5f44",
-    "title": "With Agentforce, Salesforce Expands Beyond CRM - Nearshore Americas",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNNVV4bzRSc0UtRHUyZ0RxVTVxVmhpNjlVYjdWeXJUd1ZLdDNBRUZ5aG1pZm9VZHBHUWhVMTJQaDhFYzMtcE9zd2pxVWM3UThWdGJ1UjM2VjZwbHpiT3JITDBEME9KUmdjVjd1cWt2Qk1ZaGk2dDdidHZlaVJWeE5EVHFn?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-03-26T15:14:45+00:00",
-    "summary": "With Agentforce, Salesforce Expands Beyond CRM Nearshore Americas",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 29
+    "relevance_score": 29,
+    "also_covered_by": [
+      "Adobe",
+      "Fintech",
+      "Banking"
+    ]
   },
   {
     "id": "692abc8ab533",
@@ -56,7 +46,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 13
+    "relevance_score": 11
   },
   {
     "id": "0c09a0f62854",
@@ -73,20 +63,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 11
-  },
-  {
-    "id": "f8d3c21fc3f9",
-    "title": "Total Defense: Why Perimeter Security Isn’t Enough to Protect Your Data",
-    "url": "https://www.salesforce.com/blog/total-defense-data-protection-strategy/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-03-27T16:20:13+00:00",
-    "summary": "Don’t choose between security and resilience. Learn how to protect your organization from both malicious threats and accidental errors.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/Gemini_Generated_Image_jjds8tjjds8tjjds.png?w=2318",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 11
+    "relevance_score": 10
   },
   {
     "id": "e96a1e2c1c89",
@@ -99,20 +76,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/adyen_720.png",
     "tags": [],
     "industries": [],
-    "relevance_score": 10
-  },
-  {
-    "id": "fdd8195fc848",
-    "title": "Business Brass Tacks: Strategy vs Tactics",
-    "url": "https://www.salesforce.com/blog/strategy-vs-tactics/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-03-27T14:00:00+00:00",
-    "summary": "Defining strategy and tactics: Why small businesses need both to win.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/image.jpeg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 10
+    "relevance_score": 9
   },
   {
     "id": "f5334fea295d",
@@ -145,6 +109,32 @@
     "relevance_score": 9
   },
   {
+    "id": "fdd8195fc848",
+    "title": "Business Brass Tacks: Strategy vs Tactics",
+    "url": "https://www.salesforce.com/blog/strategy-vs-tactics/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-03-27T14:00:00+00:00",
+    "summary": "Defining strategy and tactics: Why small businesses need both to win.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/image.jpeg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 9
+  },
+  {
+    "id": "f8d3c21fc3f9",
+    "title": "Total Defense: Why Perimeter Security Isn’t Enough to Protect Your Data",
+    "url": "https://www.salesforce.com/blog/total-defense-data-protection-strategy/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-03-27T16:20:13+00:00",
+    "summary": "Don’t choose between security and resilience. Learn how to protect your organization from both malicious threats and accidental errors.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/Gemini_Generated_Image_jjds8tjjds8tjjds.png?w=2318",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 9
+  },
+  {
     "id": "30937ec550f1",
     "title": "Beyond Compliance: IBM’s Blueprint for Building an Agentic Trust Framework",
     "url": "https://www.salesforce.com/blog/beyond-compliance-ibms-blueprint-for-building-an-agentic-trust-framework/",
@@ -173,34 +163,6 @@
     "relevance_score": 9
   },
   {
-    "id": "806fc2fa9dc0",
-    "title": "From Origination to Recovery: How to Reduce Overhead Across the Loan Lifecycle",
-    "url": "https://www.salesforce.com/blog/how-to-reduce-overhead-across-the-loan-lifecycle/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-03-25T15:10:39+00:00",
-    "summary": "Connecting loan origination and collections can lower operational costs, drive smarter debt recovery, and elevate the borrower experience.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/Gemini_Generated_Image_dyclh4dyclh4dycl-1.png?w=2752",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 8
-  },
-  {
-    "id": "626121d11abe",
-    "title": "Salesforce Brings Ambient Intelligence to Sales Calls - cxtoday.com",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWRWRWhPSU5Pa1EzV3hkZGVHOXlKeFJkRjExdFJmdGJLTnplanRGM3gyQ0VJUU9qTDh6TzJycFdqeGJEbjd5NjUtUTNGNG5pLU5Tc2tjZzItZFl1ZGxaYW9lMC1VZkozc2NQS2RNZmJudHUwVUVDNXZRY0FNNFNfaHZtZ1BXU2hQMkc1ZGw1alo3cnFKelVJZVJfeDNEZ2c?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-03-26T12:53:22+00:00",
-    "summary": "Salesforce Brings Ambient Intelligence to Sales Calls cxtoday.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "19ac818ed2d2",
     "title": "'Emphathetic 'Salesforce bots to help fired via Labor Dept - theregister.com",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5YeXdWWHpGVjRZaDZIUkkzQXBzRE8wdXR5S05YbXRreENnLVJKdE95dEszclI1UHllVHpSMkxfeE1zcmE0TWxhVy1kV3kxY1BTUmtFZmlFSzFWWEFIQk12Nk5pNjI3MUpxa0dzUXd0V1pZa0Y4eWlBOQ?oc=5",
@@ -212,6 +174,19 @@
     "tags": [],
     "industries": [],
     "relevance_score": 8
+  },
+  {
+    "id": "806fc2fa9dc0",
+    "title": "From Origination to Recovery: How to Reduce Overhead Across the Loan Lifecycle",
+    "url": "https://www.salesforce.com/blog/how-to-reduce-overhead-across-the-loan-lifecycle/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-03-25T15:10:39+00:00",
+    "summary": "Connecting loan origination and collections can lower operational costs, drive smarter debt recovery, and elevate the borrower experience.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/Gemini_Generated_Image_dyclh4dyclh4dycl-1.png?w=2752",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 7
   },
   {
     "id": "dd0e6334689e",
@@ -229,17 +204,16 @@
     "relevance_score": 7
   },
   {
-    "id": "0294c4f8ce1f",
-    "title": "Pacsun, West Marine AI-enable search with intent awareness - Chain Store Age",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd2VrNFo5d1VqUVNSTFRDdk5rS1hLMkxjWUtDRmp5U3dtVDNmRVFnV1BESTZFaW90WHFhdjFmSjhETF9CenVSMkh5aVlnVWRFeE01RVBfUDBfcmF0TTk4TE40SC1wZ3h1TU9LY0xteXM3blE2dk5vZ2dONmxRbkdOb2xZZHU?oc=5",
+    "id": "626121d11abe",
+    "title": "Salesforce Brings Ambient Intelligence to Sales Calls - CX Today",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMWRWRWhPSU5Pa1EzV3hkZGVHOXlKeFJkRjExdFJmdGJLTnplanRGM3gyQ0VJUU9qTDh6TzJycFdqeGJEbjd5NjUtUTNGNG5pLU5Tc2tjZzItZFl1ZGxaYW9lMC1VZkozc2NQS2RNZmJudHUwVUVDNXZRY0FNNFNfaHZtZ1BXU2hQMkc1ZGw1alo3cnFKelVJZVJfeDNEZ2c?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-03-26T14:36:04+00:00",
-    "summary": "Pacsun, West Marine AI-enable search with intent awareness Chain Store Age",
+    "published": "2026-03-26T12:53:22+00:00",
+    "summary": "Salesforce Brings Ambient Intelligence to Sales Calls CX Today",
     "image_url": null,
     "tags": [],
     "industries": [
-      "retail",
       "industrial"
     ],
     "relevance_score": 7
@@ -261,17 +235,65 @@
     "relevance_score": 6
   },
   {
-    "id": "02d39c09c0cf",
-    "title": "Salesforce Stock Is Getting Hit Again. Why the Software Slump Is Back. - barrons.com",
-    "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxQYWdWbHMzZVUzMHhORlNKV09xNXFRZjQyYVRNWjZVZTYtaU1yUHkxX0Fob1FyQm5DTndPQ21DQ3R2YVZLOVdhbmNwT0pPdmdDNXJVVHd0YXpxbDIwU25sY0VTZWNBUmk1ZU5jVTVwQnlQWTZGV2lIal92ckstNF9ZUFQ4T0lkcWh2cUxYdFVUX3NzWVFZYXF5WTRpRkpwci01M1EtLVphQlNNamlTaWRpWktuWVQwdDVuZ0o2Wm5hamJNT2dQVVRubGRsVmRBMWV0U3F0dVBrdmMzRWVfOGl3Wl8zM1c2djZSTmVSdE1DenNqYmpQTVhXdjhURk9FOWRoa2k0d3h2U0JfVF9VVmtBd2tJUGJFeW1MZ04tbGlZbmNXQ2dUSk82SEZWN28wbHRicGZKejNCT29sUVRHbjB0VmR5WGFndGZzVnh5aFRSZmlhRGJDd3hVX21BTmdTTm1NZENkYnRtckFvMGJvemlvci01Q2tnSWg0SjZVUTBfYUFxMXEwY05uR0kyX0NoYXB4c0pQZU1rdTZDSDRLcVV0c2l6dw?oc=5",
+    "id": "004f1250bf71",
+    "title": "Salesforce Stock Is Getting Hit Again. Why the Software Slump Is Back. - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMiowNBVV95cUxNbUlKSU9IS2FsQ0RWZDRHNFhhSUlvXzVaQ1J5aEo4UlVYd0FaOHprMGNtNHpSTlJETi1yNHRvWTRySXJ6emVYMHFyV3Z4cEk0MGY3dEVwN3J2cDZTWC01OC1UelJJcXRhZURodHE1ZVcyVU1mdEVOTE0xR0ZqMEFqR0p4Tnp6N3lOdEVCQk9kNTBodVRwQmU5TFA2NjNramlZU0tJLTZMNnFScGE0aTJrOFo5Tk1GVDNYWkpPd0lwZzZkVk5NRlhrRFF3ek5FeWR0SWl6RUprRnNLTm1MSy0xSm5FdG1xaUR0eUxOeERHalQ0d3kwUHBjRDYwdUpQbzF2OHcyODNncFZ1RW5KY0YxcG5GTDBJUi1VSkFLZkpETC01RW9jUzN0QnBKUFYwTDNsUjJlZ2JsdFNFb19Hb3Q3ZndQUmhaQ2UzR3RHUVBWTy0yUUFwZ3NWOW4xc1l0eDk1WC1wRVFFM3NDSC1UNWltcGY4cFJsRVpHVlM4eXN6QnVZUE1YWW9DX2x3RXNOeHNOeWZsNWZHVTR2UVRUYVRHbjloaw?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
     "published": "2026-03-24T19:09:00+00:00",
-    "summary": "Salesforce Stock Is Getting Hit Again. Why the Software Slump Is Back. barrons.com",
+    "summary": "Salesforce Stock Is Getting Hit Again. Why the Software Slump Is Back. Barron's",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
+      "industrial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "5ddb222f4ce2",
+    "title": "Salesforce adds Agentforce agentic AI to SMB packages - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPdEdNOXBISWNpRE1uS3hWb3BNWDl5aGc1V3JhMGhpQkFOMzlyWlJxSUVlWldoSjViX05LWWdtek55aU43Z1RvbHJhN0EwMGVjN1MwUHAwNnBDZzVveVBhXzdtT20za0E3ZlkzSmoyUG9vQmFILU9zdlRNUDFFQ1VkbG1ibE9UcW1zZ0dhMnhBRHdDc1RhY1FuUWl5RWRiUE5NZFR6bUFOejVhRjJJbVBDSGxVaWxPdFREZ0RKQg?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-03-24T21:38:31+00:00",
+    "summary": "Salesforce adds Agentforce agentic AI to SMB packages TechTarget",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "2dab9a9c5029",
+    "title": "Salesforce Agentforce Contact Center Brings Unified Data and AI Agents to Customer Service - cloudwars.com",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTFNSaURwRW10XzRFVnB3QTFhTTk0Y3gxM09GbzlxbFpWQnEtOG9mZmVWQlRUTGNsUE9KSzI5NDhzVzQ3N0w3NkdWOWVRZ1V3RktGTFkxTkFqbUNLUklubUpsWTFScFFNWmdUcFd4TnptaU0xRE16V0lJVndSV3JUd2lUMFJOcTdfVE56WXN2VVFWRWwtd0NGUUVCVVdDbEtwT1BRTXU0ZDF4YXN5UFFRckVnaVpmZEU?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-03-25T14:00:00+00:00",
+    "summary": "Salesforce Agentforce Contact Center Brings Unified Data and AI Agents to Customer Service cloudwars.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "0294c4f8ce1f",
+    "title": "Pacsun, West Marine AI-enable search with intent awareness - Chain Store Age",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQd2VrNFo5d1VqUVNSTFRDdk5rS1hLMkxjWUtDRmp5U3dtVDNmRVFnV1BESTZFaW90WHFhdjFmSjhETF9CenVSMkh5aVlnVWRFeE01RVBfUDBfcmF0TTk4TE40SC1wZ3h1TU9LY0xteXM3blE2dk5vZ2dONmxRbkdOb2xZZHU?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-03-26T14:36:04+00:00",
+    "summary": "Pacsun, West Marine AI-enable search with intent awareness Chain Store Age",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
       "industrial"
     ],
     "relevance_score": 6
