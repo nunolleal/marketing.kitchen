@@ -20,7 +20,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 45
+    "relevance_score": 41
   },
   {
     "id": "4ebf15f31dcd",
@@ -37,7 +37,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 42
+    "relevance_score": 39
   },
   {
     "id": "5d8c2d26fb87",
@@ -73,14 +73,36 @@
     "relevance_score": 19
   },
   {
-    "id": "ae5a973bf0b4",
-    "title": "Disney Adventure World Is Officially Open At Disneyland Paris",
-    "url": "https://www.forbes.com/sites/megandubois/2026/03/29/disney-adventure-world-is-officially-open-at-disneyland-paris/",
+    "id": "c7f8e5b898e9",
+    "title": "There is no ethical consumption of HBO’s Harry Potter series",
+    "url": "https://www.theverge.com/report/901818/hbo-harry-potter-jk-rowling-transphobia",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-03-29T14:00:00+00:00",
+    "summary": "In the coming years, HBO wants its new Harry Potter series to become \"the streaming event of the decade\" as it adapts each of the franchise's seven original books. The show could very well become a hit that captures the imaginations of a new generation of fans who weren't...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/dominic-mclaughlin.jpg?quality=90&amp;strip=all&amp;crop=0%2C5.8623226303297%2C100%2C88.275354739341&amp;w=1200",
+    "tags": [
+      "Analysis",
+      "Books",
+      "Entertainment",
+      "HBO",
+      "Report"
+    ],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "afa3d7fa854d",
+    "title": "‘Frankenstein’-Inspired ‘The Bride!’ Gets Streaming Release Date, Report Says",
+    "url": "https://www.forbes.com/sites/timlammers/2026/03/29/frankenstein-inspired-the-bride-gets-streaming-release-date-report-says/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-03-29T09:00:00+00:00",
-    "summary": "The cornerstone of the new offerings is World of Frozen, a large land themed around the popular movie franchise.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69c7d3cddbb729ab28ef7bb1/0x0.jpg",
+    "published": "2026-03-29T14:58:12+00:00",
+    "summary": "The Jessie Buckley and Christian Bale monster movie \"The Bride!,\" directed by Maggie Gyllenhaal, is reportedly coming soon to digital streaming. Find out when and where you can watch the movie at home.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69c2d9ccddb229ed15a39e1b/0x0.jpg?width=960",
     "tags": [
       "Hollywood & Entertainment",
       "/hollywood-entertainment",
@@ -91,6 +113,23 @@
     "industries": [
       "media",
       "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "933527a94359",
+    "title": "Wall Street CEO tells interns to ‘act immediately like this is 100% your full-time career’—it’s one of 20 top tips Rich Handler has for Gen Z - Fortune",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUFdDNDR2b2gzWEJ3V3k1QjlhQkhpdVJjRGdfeTJBbWVnbDJzVnNIU2ZDeXU3Z2dCVDJhaGRGMDF5aGVyRjBJZ2xlX0V4Ykp2UlRuVXJIS0ltY05tS19pcHJESWRWRXpOeERIUGxrU0tYeHFrUjFvLVdfNC1jTWJPcDV3NVBqa20zWGQwMlBneTlYR0ZpSDREZG1Xb3BpOEZC?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-03-29T13:50:00+00:00",
+    "summary": "Wall Street CEO tells interns to ‘act immediately like this is 100% your full-time career’—it’s one of 20 top tips Rich Handler has for Gen Z Fortune",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "industrial",
+      "financial"
     ],
     "relevance_score": 15
   },
@@ -134,70 +173,26 @@
     "relevance_score": 14
   },
   {
-    "id": "b0329c17bd07",
-    "title": "Why OpenAI killed Sora",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/902368/openai-sora-dead-ai-video-generation-competition",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-03-28T12:00:00+00:00",
-    "summary": "On Tuesday morning, everything was business as usual at OpenAI. By the end of the day, the company had announced that it would scrap its video-generation app, Sora, and reverse plans for video generation inside ChatGPT; it would wind down a $1 billion Disney deal; it would...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK201_SAM_ALTMAN_CVIRGINIA_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "id": "ae5a973bf0b4",
+    "title": "Disney Adventure World Is Officially Open At Disneyland Paris",
+    "url": "https://www.forbes.com/sites/megandubois/2026/03/29/disney-adventure-world-is-officially-open-at-disneyland-paris/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-03-29T09:00:00+00:00",
+    "summary": "The cornerstone of the new offerings is World of Frozen, a large land themed around the popular movie franchise.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69c7d3cddbb729ab28ef7bb1/0x0.jpg",
     "tags": [
-      "AI",
-      "Analysis",
-      "OpenAI",
-      "Report"
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
     ],
     "industries": [
       "media",
-      "tech",
       "industrial"
     ],
-    "relevance_score": 13
-  },
-  {
-    "id": "2bed78f682fa",
-    "title": "FCC Head Brendan Carr Spins Optimistic Take On Media Crackdown At CPAC",
-    "url": "https://www.forbes.com/sites/rickellis/2026/03/28/fcc-head-brendan-carr-spins-optimistic-take-on-media-crackdown-at-cpac/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-03-29T00:13:28+00:00",
-    "summary": "FCC Brendan Carr appeared at a conservative conference on Friday touting his success cracking down on political opponents",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69c845c22ac906430017a46d/0x0.jpg",
-    "tags": [
-      "Media",
-      "/media",
-      "Business",
-      "/business",
-      "Media"
-    ],
-    "industries": [
-      "media",
-      "tech"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "22be2d2971c7",
-    "title": "Where To Watch NCAA Women’s Elite Eight, Teams Closer To Final Four",
-    "url": "https://www.forbes.com/sites/allisonsmith/2026/03/28/where-to-watch-ncaa-womens-elite-eight-teams-closer-to-final-four/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-03-29T01:42:21+00:00",
-    "summary": "Where to watch the NCAA Women’s Elite Eight, with TV and streaming info, game times, plus Fort Worth regional results shaping teams moving closer to the Final Four.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69c80e07a2e743b03b0664c9/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "media",
-      "tech"
-    ],
-    "relevance_score": 13
+    "relevance_score": 14
   },
   {
     "id": "da604bac3ebd",
@@ -289,8 +284,8 @@
     "tags": [
       "AI",
       "Government & Policy",
-      "ai job loss",
-      "axios ai summit",
+      "Exclusive",
+      "mark warner",
       "ai data centers"
     ],
     "industries": [
@@ -314,23 +309,6 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 9
-  },
-  {
-    "id": "b9bfebdbf547",
-    "title": "REI faces possible anniversary sale boycott after abandoning labor talks",
-    "url": "https://www.retaildive.com/news/rei-union-anniversary-sale-boycott/815830/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-03-26T15:41:00+00:00",
-    "summary": "The REI Union, expressing confidence that the retailer’s customers would join workers in sending a message, will finalize a decision by May 1.",
-    "image_url": "https://imgproxy.divecdn.com/1wQ8_Iy1lM2h1z06yh00nvP3LzU-B58WWhmEGyBTZjo/g:nowe:0:1325/c:7360:4158/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMl9hcHJpbF9yZXRhaWwtNDAuanBn.webp",
-    "tags": [],
-    "industries": [
-      "media",
-      "retail",
-      "industrial"
-    ],
     "relevance_score": 8
   },
   {
@@ -350,19 +328,20 @@
     "relevance_score": 7
   },
   {
-    "id": "54fbb758a242",
-    "title": "Meta and YouTube Lose Landmark Social-Media Addiction Trial - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMikANBVV95cUxOcW1pQllTcS1WLTZtZ0dEOFFIa3NraVBJQzBvSDJqLTRGMlVzaE9aSi1xR1hnVTYxaEpZblJ2MzNVbXpULUtXYTlWX010RWRVc1J1MnNlRHhIclpyYWlPeVh0and0VW1MTVdtc1VsUUZjbklwVnQ2ellUWjhKaFg4Z21OU3V0OFRJbzIxNjJLOVdxdlJRUUcza2taWmVIUGpEUzRZNExYTkUteU1PZ2JBQ2RYTDBMeDlSb2s3MmY2eFhZVzFHNE1XVk5sUzRmcTRzRU1kRFlkV2hvbENsZmtkUmRaMXBnOFU1WEJLMXk0WXhna2t2MEdYWDJJOUJvdngzNVpRQUlhRG5aUEMtLXB5R04wbGFWanpicjZUZ2xuMFNmSHl3UllWeTBaUm5ZWWozYVFEaUR5NjhWQWFrMjN5U00tenZxNXVXMkZFbXRmclVKY1I4cUtlOUtENWQxaXVrX0lGWkJuRnotSmt0UFFUbkNrXzJpbEdmbjNtbl90UDNJb0VJODk3a3pKZktEUC10?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-03-25T20:15:00+00:00",
-    "summary": "Meta and YouTube Lose Landmark Social-Media Addiction Trial WSJ",
-    "image_url": null,
+    "id": "b9bfebdbf547",
+    "title": "REI faces possible anniversary sale boycott after abandoning labor talks",
+    "url": "https://www.retaildive.com/news/rei-union-anniversary-sale-boycott/815830/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-03-26T15:41:00+00:00",
+    "summary": "The REI Union, expressing confidence that the retailer’s customers would join workers in sending a message, will finalize a decision by May 1.",
+    "image_url": "https://imgproxy.divecdn.com/1wQ8_Iy1lM2h1z06yh00nvP3LzU-B58WWhmEGyBTZjo/g:nowe:0:1325/c:7360:4158/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMl9hcHJpbF9yZXRhaWwtNDAuanBn.webp",
     "tags": [],
     "industries": [
       "media",
-      "tech"
+      "retail",
+      "industrial"
     ],
-    "relevance_score": 5
+    "relevance_score": 7
   }
 ]
