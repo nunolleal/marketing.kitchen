@@ -12,7 +12,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 51
+    "relevance_score": 48
   },
   {
     "id": "3b795ba13933",
@@ -44,28 +44,6 @@
     ],
     "industries": [
       "tech",
-      "industrial"
-    ],
-    "relevance_score": 42
-  },
-  {
-    "id": "48338cf7250d",
-    "title": "Can my favorite Game Boy gadget tell fake cartridges from real?",
-    "url": "https://www.theverge.com/games/902910/epilogue-gb-operator-phone-counterfeit-fake-cartridge-detection",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-03-29T15:00:00+00:00",
-    "summary": "The $50 Epilogue GB Operator has a brand-new trick up its sleeve. In addition to backing up Game Boy, Game Boy Color and Game Boy Advance cartridges and saves to a PC (and writing saves back to carts again!), it can now plug into your phone with a brand-new Retrace app for...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DJI_20260327180743_0236_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4815841800901%2C100%2C93.03683163982&amp;w=1200",
-    "tags": [
-      "Gaming",
-      "Hands-on",
-      "Reviews",
-      "Tech"
-    ],
-    "industries": [
-      "tech",
-      "consumer",
       "industrial"
     ],
     "relevance_score": 42
@@ -173,6 +151,28 @@
     "tags": [],
     "industries": [
       "media",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 39
+  },
+  {
+    "id": "48338cf7250d",
+    "title": "Can my favorite Game Boy gadget tell fake cartridges from real?",
+    "url": "https://www.theverge.com/games/902910/epilogue-gb-operator-phone-counterfeit-fake-cartridge-detection",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-03-29T15:00:00+00:00",
+    "summary": "The $50 Epilogue GB Operator has a brand-new trick up its sleeve. In addition to backing up Game Boy, Game Boy Color and Game Boy Advance cartridges and saves to a PC (and writing saves back to carts again!), it can now plug into your phone with a brand-new Retrace app for...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/DJI_20260327180743_0236_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4815841800901%2C100%2C93.03683163982&amp;w=1200",
+    "tags": [
+      "Gaming",
+      "Hands-on",
+      "Reviews",
+      "Tech"
+    ],
+    "industries": [
+      "tech",
       "consumer",
       "industrial"
     ],
@@ -448,6 +448,21 @@
     "relevance_score": 29
   },
   {
+    "id": "914030d744f2",
+    "title": "CRMIT Solutions Launches Case InsAIghts on Salesforce AgentExchange, Enabling Smarter Case Decisions with Generative AI - York Daily Record",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNdkRGZkx0aWE3elNuTUYxemc5cHRCWWtrMVlvbExsRDN0Q0lUekVkZHNMbDRDdjlNS1ozUWhVbG9RN01MWDdlRE1DTUJYajlFcFpjVlk4cUlRZU1VZHpJdVNPMjM4eXZVa1NDSk4zYTBGTzJRRkp1YkpUaXM5aWNVNUtuTGhET09xU1A5WUZTOXhWb05JOHBtSjFMb004QXd1NmdneDNkRkQ0bFNPdEpKamVaU2Jxdi1tSHVMdXYtMkdQbVVzVjZ4LTl0WE42M2pyT0VBTzZOcnVRMHZKVS1ReUlUbWM4RlJLUXF6NGFlOVR5RVdQekplbA?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-03-28T01:00:47+00:00",
+    "summary": "CRMIT Solutions Launches Case InsAIghts on Salesforce AgentExchange, Enabling Smarter Case Decisions with Generative AI York Daily Record",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 29
+  },
+  {
     "id": "5d097f66e10c",
     "title": "Pixis optimizes marketing performance with agentic AI - Amazon Web Services",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPOE00SUtNbDZDTXJndFcxcFE2UG9CdmxGTGs2VGhiM1dBMzhINGtqdWRoeV9nXzduVXdWVVY3ZTRuX3A0OVVBZmZYaTB2c3RiVlN3RHAzNnNqLU9Qc1BjbmVVSldQXzZNWi16bW5CNnlKdDdDLTZVU3pSSGQyV2dNaUFNYXRhV3Q1TU1RLXpTbFVTNDJQaGpEMnhqSkpWZDhf?oc=5",
@@ -495,21 +510,6 @@
       "industrial"
     ],
     "relevance_score": 27
-  },
-  {
-    "id": "13e93a1c244d",
-    "title": "9 key agency and marketing job moves—and why they matter - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMlpaYWd3NWRNOEEyMWsyMWZVOE9UODM1T2EzNS1KekRCaUwwekdIOVN1bHZrT3NVY2h4YkFQVzZRQXdsNmZrdzZpTlVEUlhqUDNBcHVEWGNMM0p5eXZwOGFxVFFZaGhSaVJ4cGFhcWNnOUNuLUJwQ2l3cWdpUnpBWGZYeEdQVmF3ZFYwZmpRelpTbWhnX0pMSVFtNDk3c2VybjZnNWRpQzhOU2Ez?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-03-23T09:00:00+00:00",
-    "summary": "9 key agency and marketing job moves—and why they matter Ad Age",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 26
   },
   {
     "id": "cb89f7477866",
@@ -632,23 +632,18 @@
   },
   {
     "id": "c2e2f337d488",
-    "title": "Adecco Group Taps Salesforce, Inc. (CRM) for Agentforce Following Nvidia Pact - finance.yahoo.com",
+    "title": "Adecco Group Taps Salesforce, Inc. (CRM) for Agentforce Following Nvidia Pact - Yahoo Finance",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOYVM1R282TUVSUXNJYjViSkR5eUNWeG1WX2dSM3N6NVB1b2MzY3JBbjJzXzhBQ2k3cUxlT0ViZ2hadVZFTWZ6d2xvSF9pa05PSlJUZ0FwcUM0ck5WQkVOQ1VfOWZqQTJnQllRM2dDM3F0ZGtycUxYa3pRRk9HbGc3RkE2RmhZM1NUNlVWdDktZTFsUkRFVjZscjJ4dzdNUQ?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
     "published": "2026-03-26T14:43:10+00:00",
-    "summary": "Adecco Group Taps Salesforce, Inc. (CRM) for Agentforce Following Nvidia Pact finance.yahoo.com",
+    "summary": "Adecco Group Taps Salesforce, Inc. (CRM) for Agentforce Following Nvidia Pact Yahoo Finance",
     "image_url": null,
     "tags": [],
     "industries": [
       "industrial"
     ],
-    "relevance_score": 23,
-    "also_covered_by": [
-      "Adobe Inc",
-      "Adobe",
-      "Telecom Digital"
-    ]
+    "relevance_score": 23
   },
   {
     "id": "a7ce4dbf5f44",
@@ -664,104 +659,6 @@
       "industrial"
     ],
     "relevance_score": 23
-  },
-  {
-    "id": "43aebf10c793",
-    "title": "How Gen Zers use beverages as a form of identity—and what it signals for brands - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQS3Z0WTkydWg2bmk1Q3ZqUGhya1NhQ1NWMFlVb2JEQm41OFlPQVNOaFFjRWhqNV83M1FBVElSUVQ1NWtXeC1lSXdfS2Y2ME1takk5bW43d3pfMnNDQmFQVElwZlNSN3FJaTVBaGY5dXlvaHIxcDdBQVozVXVzRzNUMWl6aEltOVBsRl9GQjN1ZmxLRnliRDgya0x3?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-03-27T09:00:00+00:00",
-    "summary": "How Gen Zers use beverages as a form of identity—and what it signals for brands Ad Age",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 23
-  },
-  {
-    "id": "79c858e109bf",
-    "title": "How Agentic AI Transforms Data-Driven Marketing - bandt.com.au",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1WRWQxQjhnb2szOTBwZ09SMEhOZ2RZdmRfTDFxeFNhQk1teEU5bjVyQTNtVnNYWDdDQjNuRVp2SFJZVzJtbG1kM0VPeHFEQWIwWS1Db1RxcVg5VjlTWi1JSVJ2S3RleFJmbUlsQ1JONy1rXzlVbmFxZjRuSGtNdw?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-03-24T00:09:54+00:00",
-    "summary": "How Agentic AI Transforms Data-Driven Marketing bandt.com.au",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 18
-  },
-  {
-    "id": "2537135bb4e1",
-    "title": "Under Trump, NIH Funding Opportunity Notices Dropped From 787 To 84",
-    "url": "https://www.forbes.com/sites/brucelee/2026/03/29/under-trump-nih-funding-opportunity-notices-dropped-from-787-to-84/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-03-29T16:37:36+00:00",
-    "summary": "Even though the U.S. Congress gave the National Institutes of Health budget a modest increase, the Trump administration may be using other ways to cut the NIH budget.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69c951dec9ee6a52de1833d2/0x0.jpg",
-    "tags": [
-      "Healthcare",
-      "/healthcare",
-      "Innovation",
-      "/innovation",
-      "Healthcare"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 18
-  },
-  {
-    "id": "c958c85f1533",
-    "title": "These 40 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)",
-    "url": "https://www.wired.com/story/the-amazon-spring-sale-2026-2/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-03-29T09:03:00+00:00",
-    "summary": "This sale spans almost an entire week, and it’s full of fake “deals.” We hunted to find truly good prices on gear we’ve tested.",
-    "image_url": "https://media.wired.com/photos/69c31871ea56e672b4eef17c/master/pass/The-Best-Deals-From-the-Amazon-Spring-Sale.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "Shopping",
-      "Deals",
-      "Amazon"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 17,
-    "also_covered_by": [
-      "The Verge"
-    ]
-  },
-  {
-    "id": "213a3dbf4d7f",
-    "title": "‘The World According To Garp’ Star Mary Beth Hurt Dies At 79",
-    "url": "https://www.forbes.com/sites/timlammers/2026/03/29/the-world-according-to-garp-star-mary-beth-hurt-dies-at-79/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-03-29T19:41:21+00:00",
-    "summary": "Mary Beth Hurt, who starred in such films as Woody Allen’s “Interiors” and “The World According to Garp” opposite Robin William, has died at age 79.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69c97f82ab6c2611e1316b1c/0x0.jpg?width=960&precrop=1528%2C860%2Cx257%2Cy121",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 17
   },
   {
     "id": "035f70e69ad4",
@@ -786,6 +683,73 @@
     "relevance_score": 16
   },
   {
+    "id": "c958c85f1533",
+    "title": "These 40 Amazon Spring Sale Tech Deals Are Actually Good. We Checked the Price History (2026)",
+    "url": "https://www.wired.com/story/the-amazon-spring-sale-2026-2/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-03-29T09:03:00+00:00",
+    "summary": "This sale spans almost an entire week, and it’s full of fake “deals.” We hunted to find truly good prices on gear we’ve tested.",
+    "image_url": "https://media.wired.com/photos/69c31871ea56e672b4eef17c/master/pass/The-Best-Deals-From-the-Amazon-Spring-Sale.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "Shopping",
+      "Deals",
+      "Amazon"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 16,
+    "also_covered_by": [
+      "The Verge"
+    ]
+  },
+  {
+    "id": "2537135bb4e1",
+    "title": "Under Trump, NIH Funding Opportunity Notices Dropped From 787 To 84",
+    "url": "https://www.forbes.com/sites/brucelee/2026/03/29/under-trump-nih-funding-opportunity-notices-dropped-from-787-to-84/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-03-29T16:37:36+00:00",
+    "summary": "Even though the U.S. Congress gave the National Institutes of Health budget a modest increase, the Trump administration may be using other ways to cut the NIH budget.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69c951dec9ee6a52de1833d2/0x0.jpg",
+    "tags": [
+      "Healthcare",
+      "/healthcare",
+      "Innovation",
+      "/innovation",
+      "Healthcare"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "213a3dbf4d7f",
+    "title": "‘The World According To Garp’ Star Mary Beth Hurt Dies At 79",
+    "url": "https://www.forbes.com/sites/timlammers/2026/03/29/the-world-according-to-garp-star-mary-beth-hurt-dies-at-79/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-03-29T19:41:21+00:00",
+    "summary": "Mary Beth Hurt, who starred in such films as Woody Allen’s “Interiors” and “The World According to Garp” opposite Robin Williams, has died at age 79.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69c97f82ab6c2611e1316b1c/0x0.jpg?width=960&precrop=1256%2C707%2Cx328%2Cy113",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
     "id": "0c8695bf5236",
     "title": "Ranking The Top-10 Draft Picks Of Packers’ GM Brian Gutekunst",
     "url": "https://www.forbes.com/sites/robreischel/2026/03/29/ranking-the-top-10-draft-picks-of-packers-gm-brian-gutekunst/",
@@ -804,7 +768,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "f8b14bb9b69c",
@@ -823,93 +787,6 @@
       "SportsMoney"
     ],
     "industries": [
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "95a667bf26d9",
-    "title": "The Macintosh changed computers forever",
-    "url": "https://www.theverge.com/podcast/903068/macintosh-1984-version-history",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-03-29T12:30:36+00:00",
-    "summary": "Apple's most legendary computer has two legacies: there's the computer itself, and there's the commercial. That commercial. Only a couple of days before Steve Jobs debuted the computer that would both help cement his legacy and contribute to his unceremonious exile from...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRH_Mac_Site.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Apple",
-      "Gadgets",
-      "Podcasts",
-      "Tech",
-      "Version History"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "c7f8e5b898e9",
-    "title": "There is no ethical consumption of HBO’s Harry Potter series",
-    "url": "https://www.theverge.com/report/901818/hbo-harry-potter-jk-rowling-transphobia",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-03-29T14:00:00+00:00",
-    "summary": "In the coming years, HBO wants its new Harry Potter series to become \"the streaming event of the decade\" as it adapts each of the franchise's seven original books. The show could very well become a hit that captures the imaginations of a new generation of fans who weren't...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/dominic-mclaughlin.jpg?quality=90&amp;strip=all&amp;crop=0%2C5.8623226303297%2C100%2C88.275354739341&amp;w=1200",
-    "tags": [
-      "Analysis",
-      "Books",
-      "Entertainment",
-      "HBO",
-      "Report"
-    ],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "afa3d7fa854d",
-    "title": "‘Frankenstein’-Inspired ‘The Bride!’ Gets Streaming Release Date, Report Says",
-    "url": "https://www.forbes.com/sites/timlammers/2026/03/29/frankenstein-inspired-the-bride-gets-streaming-release-date-report-says/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-03-29T14:58:12+00:00",
-    "summary": "The Jessie Buckley and Christian Bale monster movie \"The Bride!,\" directed by Maggie Gyllenhaal, is reportedly coming soon to digital streaming. Find out when and where you can watch the movie at home.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69c2d9ccddb229ed15a39e1b/0x0.jpg?width=960",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "9345bd7b9081",
-    "title": "Red Rooms makes online poker as thrilling as its serial killer",
-    "url": "https://www.theverge.com/entertainment/903174/red-rooms-movie-review-serial-killer-dark-web",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-03-29T19:45:00+00:00",
-    "summary": "It's rare for a movie to get technology right. And it's even rarer for that movie to be a thriller or horror, where realism takes a backseat to scares and tension. But Red Rooms mostly gets it. Nothing takes me out of a film quicker than a tech MacGuffin that might as well be...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/red-rooms-cover-pixelated.jpg?quality=90&amp;strip=all&amp;crop=0%2C13.350785340314%2C100%2C73.298429319372&amp;w=1200",
-    "tags": [
-      "Column",
-      "Entertainment",
-      "Film",
-      "Movie Review"
-    ],
-    "industries": [
-      "tech",
       "industrial"
     ],
     "relevance_score": 15
@@ -974,19 +851,89 @@
     "relevance_score": 14
   },
   {
-    "id": "933527a94359",
-    "title": "Wall Street CEO tells interns to ‘act immediately like this is 100% your full-time career’—it’s one of 20 top tips Rich Handler has for Gen Z - Fortune",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQUFdDNDR2b2gzWEJ3V3k1QjlhQkhpdVJjRGdfeTJBbWVnbDJzVnNIU2ZDeXU3Z2dCVDJhaGRGMDF5aGVyRjBJZ2xlX0V4Ykp2UlRuVXJIS0ltY05tS19pcHJESWRWRXpOeERIUGxrU0tYeHFrUjFvLVdfNC1jTWJPcDV3NVBqa20zWGQwMlBneTlYR0ZpSDREZG1Xb3BpOEZC?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-03-29T13:50:00+00:00",
-    "summary": "Wall Street CEO tells interns to ‘act immediately like this is 100% your full-time career’—it’s one of 20 top tips Rich Handler has for Gen Z Fortune",
-    "image_url": null,
-    "tags": [],
+    "id": "95a667bf26d9",
+    "title": "The Macintosh changed computers forever",
+    "url": "https://www.theverge.com/podcast/903068/macintosh-1984-version-history",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-03-29T12:30:36+00:00",
+    "summary": "Apple's most legendary computer has two legacies: there's the computer itself, and there's the commercial. That commercial. Only a couple of days before Steve Jobs debuted the computer that would both help cement his legacy and contribute to his unceremonious exile from...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/VRH_Mac_Site.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Apple",
+      "Gadgets",
+      "Podcasts",
+      "Tech",
+      "Version History"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "c7f8e5b898e9",
+    "title": "There is no ethical consumption of HBO’s Harry Potter series",
+    "url": "https://www.theverge.com/report/901818/hbo-harry-potter-jk-rowling-transphobia",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-03-29T14:00:00+00:00",
+    "summary": "In the coming years, HBO wants its new Harry Potter series to become \"the streaming event of the decade\" as it adapts each of the franchise's seven original books. The show could very well become a hit that captures the imaginations of a new generation of fans who weren't...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/dominic-mclaughlin.jpg?quality=90&amp;strip=all&amp;crop=0%2C5.8623226303297%2C100%2C88.275354739341&amp;w=1200",
+    "tags": [
+      "Analysis",
+      "Books",
+      "Entertainment",
+      "HBO",
+      "Report"
+    ],
     "industries": [
       "media",
-      "industrial",
-      "financial"
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "afa3d7fa854d",
+    "title": "‘Frankenstein’-Inspired ‘The Bride!’ Gets Streaming Release Date, Report Says",
+    "url": "https://www.forbes.com/sites/timlammers/2026/03/29/frankenstein-inspired-the-bride-gets-streaming-release-date-report-says/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-03-29T14:58:12+00:00",
+    "summary": "The Jessie Buckley and Christian Bale monster movie \"The Bride!,\" directed by Maggie Gyllenhaal, is reportedly coming soon to digital streaming. Find out when and where you can watch the movie at home.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69c2d9ccddb229ed15a39e1b/0x0.jpg?width=960",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "9345bd7b9081",
+    "title": "Red Rooms makes online poker as thrilling as its serial killer",
+    "url": "https://www.theverge.com/entertainment/903174/red-rooms-movie-review-serial-killer-dark-web",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-03-29T19:45:00+00:00",
+    "summary": "It's rare for a movie to get technology right. And it's even rarer for that movie to be a thriller or horror, where realism takes a backseat to scares and tension. But Red Rooms mostly gets it. Nothing takes me out of a film quicker than a tech MacGuffin that might as well be...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/red-rooms-cover-pixelated.jpg?quality=90&amp;strip=all&amp;crop=0%2C13.350785340314%2C100%2C73.298429319372&amp;w=1200",
+    "tags": [
+      "Column",
+      "Entertainment",
+      "Film",
+      "Movie Review"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 14
   },
@@ -1009,66 +956,6 @@
     "industries": [
       "tech",
       "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "448e6d63dc54",
-    "title": "Sora’s shutdown could be a reality check moment for AI video",
-    "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-03-29T16:30:00+00:00",
-    "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2239565319.jpg?resize=1200,798",
-    "tags": [
-      "AI",
-      "Media & Entertainment",
-      "Equity podcast",
-      "OpenAI"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "d75a0158d2aa",
-    "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
-    "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-03-28T20:45:54+00:00",
-    "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "stanford"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "7c72ba79806b",
-    "title": "Nvidia Is Credit Personified While The Fed Is A Pointless Distraction",
-    "url": "https://www.forbes.com/sites/johntamny/2026/03/29/nvidia-is-credit-personified-the-fed-is-a-distraction-for-economists/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-03-29T14:00:00+00:00",
-    "summary": "Credit isn't expanded or contracted by central banks, it's an effect of productivity surges or a lack of same.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69c6918b2dac326bdc04f63b/0x0.jpg",
-    "tags": [
-      "Policy",
-      "/policy",
-      "Business",
-      "/business",
-      "Policy"
-    ],
-    "industries": [
-      "industrial",
-      "financial"
     ],
     "relevance_score": 13
   },
@@ -1172,38 +1059,44 @@
     "relevance_score": 12
   },
   {
-    "id": "d9cb810b9cc7",
-    "title": "When product managers ship code: AI just broke the software org chart",
-    "url": "https://venturebeat.com/technology/when-product-managers-ship-code-ai-just-broke-the-software-org-chart",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-03-29T16:00:00+00:00",
-    "summary": "Last week, one of our product managers (PMs) built and shipped a feature. Not spec'd it. Not filed a ticket for it. Built it, tested it, and shipped it to production. In a day. A few days earlier, our designer noticed that the visual appearance of our IDE plugins had drifted...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/H7LvPAXDoKpIKf67inh3M/627c264db2858d68eb459af3b0228f2f/Coders.png?w=300&q=30",
+    "id": "7c72ba79806b",
+    "title": "Nvidia Is Credit Personified While The Fed Is A Pointless Distraction",
+    "url": "https://www.forbes.com/sites/johntamny/2026/03/29/nvidia-is-credit-personified-the-fed-is-a-distraction-for-economists/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-03-29T14:00:00+00:00",
+    "summary": "Credit isn't expanded or contracted by central banks, it's an effect of productivity surges or a lack of same.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69c6918b2dac326bdc04f63b/0x0.jpg",
     "tags": [
-      "Technology",
-      "Orchestration",
-      "DataDecisionMakers"
+      "Policy",
+      "/policy",
+      "Business",
+      "/business",
+      "Policy"
     ],
     "industries": [
-      "tech",
-      "industrial"
+      "industrial",
+      "financial"
     ],
     "relevance_score": 12
   },
   {
-    "id": "0470b17c7439",
-    "title": "Bank of America & Chase users risk accounts being drained over $4 charge - The US Sun",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2c1QmxwMVl5WnAwSV9WV1hLSDlCSXNNTGVjY0xzTmVqa0R4ZVV5LVNiNEZ6OGdTQXFLNHRKa3NTVjl0eEFUX1pwcWNld0VsZS1ybXZJbDJjWHJ5am9meXZ6MWRnY1YzN1loWGNmd3BsUWFzZ2x6M3ZHTWlobG9SVFZaVkk4MVVj?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-03-29T17:44:33+00:00",
-    "summary": "Bank of America & Chase users risk accounts being drained over $4 charge The US Sun",
-    "image_url": null,
-    "tags": [],
+    "id": "448e6d63dc54",
+    "title": "Sora’s shutdown could be a reality check moment for AI video",
+    "url": "https://techcrunch.com/2026/03/29/soras-shutdown-could-be-a-reality-check-moment-for-ai-video/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-03-29T16:30:00+00:00",
+    "summary": "Is this just normal corporate strategy, or are we about to see a broader pullback on AI-generated video?",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/GettyImages-2239565319.jpg?resize=1200,798",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "Equity podcast",
+      "OpenAI"
+    ],
     "industries": [
-      "industrial",
-      "financial"
+      "industrial"
     ],
     "relevance_score": 12
   },
@@ -1242,50 +1135,6 @@
       "Adobe Inc",
       "Health Tech"
     ]
-  },
-  {
-    "id": "913620264f0c",
-    "title": "E.l.f. Beauty Says AI Answer Engines Are Already Changing How People Shop",
-    "url": "https://www.adweek.com/commerce/elf-beauty-says-agentic-commerce-is-already-changing-how-people-shop/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-03-26T21:26:24+00:00",
-    "summary": "There is fierce disagreement around how much generative AI models, which are changing the way that people find and discover products, will also disrupt retail media and ecommerce systems.",
-    "image_url": null,
-    "tags": [
-      "AI News",
-      "Artificial Intelligence",
-      "Data",
-      "Data &amp; Insights",
-      "Exclusive"
-    ],
-    "industries": [
-      "media",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "7a3c2222831e",
-    "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
-    "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-03-26T23:47:56+00:00",
-    "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197065135.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "artificial intelligence",
-      "gemini",
-      "Google"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 11
   },
   {
     "id": "a16a0ffe292f",
@@ -1331,24 +1180,91 @@
     "relevance_score": 11
   },
   {
-    "id": "719f415445fc",
-    "title": "Why can’t TikTok identify AI generated ads when I can?",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/900400/tiktok-ai-ads-labels-samsung-disclosure",
-    "source": "The Verge",
+    "id": "065664858711",
+    "title": "Adobe Inc. (NASDAQ:ADBE) Just Reported, And Analysts Assigned A US$328 Price Target - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNnNDaWdWRlVhWU9HNHJ5WnVkSlJCYTc0S1ppc2NINGtlbGcwY3FoTk1LdkRFNlRFQnVRR1hSNjlTNlJfaldDWWlqQS1NWDVpeV9BWVZhUVVJS1NkcHpzT01YQUlCTEc5eXJwM1JhTnM2LU00djVUQ1dWd3N2MEpWelp6X0tlN05nRGI1YzhxWVQ1cU9qR1E?oc=5",
+    "source": "Adobe Inc",
+    "source_category": "adobe",
+    "published": "2026-03-28T12:03:28+00:00",
+    "summary": "Adobe Inc. (NASDAQ:ADBE) Just Reported, And Analysts Assigned A US$328 Price Target Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 11,
+    "also_covered_by": [
+      "Adobe"
+    ]
+  },
+  {
+    "id": "d75a0158d2aa",
+    "title": "Stanford study outlines dangers of asking AI chatbots for personal advice",
+    "url": "https://techcrunch.com/2026/03/28/stanford-study-outlines-dangers-of-asking-ai-chatbots-for-personal-advice/",
+    "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-03-28T14:00:00+00:00",
-    "summary": "I've been struggling to tell whether the ads appearing in my TikTok feeds have been made with generative AI tools. As someone who spends a great deal of time scrutinizing images and videos for the usual \"tells\" that something was synthetically generated, some of the...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/Samsung-AI-video-promotion.jpg?quality=90&amp;strip=all&amp;crop=0,1.5826921155434,100,65.708980020247",
+    "published": "2026-03-28T20:45:54+00:00",
+    "summary": "While there’s been plenty of debate about AI sycophancy, a new study by Stanford computer scientists attempts to measure how harmful that tendency might be.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/ai-bots-agents-GettyImages-2230799616.jpg?resize=1200,800",
     "tags": [
       "AI",
-      "Creators",
-      "Report",
-      "Tech",
-      "TikTok"
+      "stanford"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "d9cb810b9cc7",
+    "title": "When product managers ship code: AI just broke the software org chart",
+    "url": "https://venturebeat.com/technology/when-product-managers-ship-code-ai-just-broke-the-software-org-chart",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-03-29T16:00:00+00:00",
+    "summary": "Last week, one of our product managers (PMs) built and shipped a feature. Not spec'd it. Not filed a ticket for it. Built it, tested it, and shipped it to production. In a day. A few days earlier, our designer noticed that the visual appearance of our IDE plugins had drifted...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/H7LvPAXDoKpIKf67inh3M/627c264db2858d68eb459af3b0228f2f/Coders.png?w=300&q=30",
+    "tags": [
+      "Technology",
+      "Orchestration",
+      "DataDecisionMakers"
     ],
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "0470b17c7439",
+    "title": "Bank of America & Chase users risk accounts being drained over $4 charge - The US Sun",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQY2c1QmxwMVl5WnAwSV9WV1hLSDlCSXNNTGVjY0xzTmVqa0R4ZVV5LVNiNEZ6OGdTQXFLNHRKa3NTVjl0eEFUX1pwcWNld0VsZS1ybXZJbDJjWHJ5am9meXZ6MWRnY1YzN1loWGNmd3BsUWFzZ2x6M3ZHTWlobG9SVFZaVkk4MVVj?oc=5",
+    "source": "Banking",
+    "source_category": "industry_financial",
+    "published": "2026-03-29T17:44:33+00:00",
+    "summary": "Bank of America & Chase users risk accounts being drained over $4 charge The US Sun",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "fcccdcdadd61",
+    "title": "Agency & La Trobe launch free digital health course - SecurityBrief Australia",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPelc4MTJpb3h2TkwxQlcxX3dwYUxvQndaTmE1MGc4NS1WZnduUjZZM3J3Z20zRWZIVnN5bFdQREpWQ3Rsa2hhdGROY01SRW1KQy11V3gteTIta05vSjVzbGVsTjNaSTVURXZ0aXZTZVFUNkU0Nm5nc3JtTURsUUtTdWVEaENjbTYxVUd3aQ?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-03-29T21:45:00+00:00",
+    "summary": "Agency & La Trobe launch free digital health course SecurityBrief Australia",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
     ],
     "relevance_score": 11
   },
@@ -1445,11 +1361,55 @@
     "tags": [
       "AI",
       "Apps",
-      "seedance 2.0",
+      "bytedance",
       "capcut",
-      "bytedance"
+      "seedance 2.0"
     ],
     "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "913620264f0c",
+    "title": "E.l.f. Beauty Says AI Answer Engines Are Already Changing How People Shop",
+    "url": "https://www.adweek.com/commerce/elf-beauty-says-agentic-commerce-is-already-changing-how-people-shop/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-03-26T21:26:24+00:00",
+    "summary": "There is fierce disagreement around how much generative AI models, which are changing the way that people find and discover products, will also disrupt retail media and ecommerce systems.",
+    "image_url": null,
+    "tags": [
+      "AI News",
+      "Artificial Intelligence",
+      "Data",
+      "Data &amp; Insights",
+      "Exclusive"
+    ],
+    "industries": [
+      "media",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "7a3c2222831e",
+    "title": "You can now transfer your chats and personal information from other chatbots directly into Gemini",
+    "url": "https://techcrunch.com/2026/03/26/you-can-now-transfer-your-chats-and-personal-information-from-other-chatbots-directly-into-gemini/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-03-26T23:47:56+00:00",
+    "summary": "Google is launching \"switching tools\" that, just as it sounds, will make it easier for users of other chatbots to switch to Gemini.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2197065135.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "artificial intelligence",
+      "gemini",
+      "Google"
+    ],
+    "industries": [
+      "tech",
       "industrial"
     ],
     "relevance_score": 10
@@ -1507,21 +1467,15 @@
     "relevance_score": 10
   },
   {
-    "id": "b07dd3503fcd",
-    "title": "AI Research Is Getting Harder to Separate From Geopolitics",
-    "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-03-27T21:46:39+00:00",
-    "summary": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
-    "image_url": "https://media.wired.com/photos/69c6b7c2b1e88611bd972d9a/master/pass/Made-In-China-AI-Research-Is-Starting-to-Split-Along-Geopolitical-Lines-Business-2246178146.jpg",
-    "tags": [
-      "Business",
-      "Made in China",
-      "China",
-      "research",
-      "artificial intelligence"
-    ],
+    "id": "1ba017168e62",
+    "title": "Transform Images Into Animations With Photoshop And Adobe Firefly | Adobe [87592a] - Fathom Journal",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA5d2xrRXc2UkZaMHhSdlNCcEVfS29BeUNTWVlqMTh3VnlsdUNqdGpVX3pmTEktQW1peUM4SkZBUkNZQ1JvTkR4R1h6RE1qd2hVYjN1UUJTa3VxUGt4bUdHNXZGbmtmQkp3dnJtQjVfc2M?oc=5",
+    "source": "Adobe Products",
+    "source_category": "adobe",
+    "published": "2026-03-28T03:17:32+00:00",
+    "summary": "Transform Images Into Animations With Photoshop And Adobe Firefly | Adobe [87592a] Fathom Journal",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "industrial"
     ],
@@ -1543,36 +1497,6 @@
       "Smoking",
       "Blockchain"
     ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "4b322f338d85",
-    "title": "Opinion | Virginia Binges on Taxes, but Not Those Taxes - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMijgNBVV95cUxQUWJTbjZCWG92LTJza1h4SUxuWVRrVkRUcWNHTEtCakxNYWZjcEVtSHRJaWRtdWVhRHl1NkZpR0dzc28zMThTZms1WG82YXJzZ21fVEdBWG41SDkxT09KRG9uU2hwNTVyU05vdVk4c3Y2d1JFUXhtbHhWTU5iQUZVNGtWV3lFN19ZR1pVTW5NWEZsdHpUX2NOcnVhS1QxUTFtT1JkNW01ZUk3dWVEUGwzSGlUQWhuZDRRbk5COGNPQ1p6enZpaE9sVXM4bVJqbFZfNlFxRGQyc2doVWY0Zm42VE9RUHRiVW1KaEpic3p1cUZ0OFFlTWRiNVgwSy0tbHFQeHVDSHZMcmVlSXR2S2hXbFQ1Y3hlMGhScTZzQkk5cmR5d0JiQ05neGMzWHFWTlJscWlQei1DaFd0a05SeFNmckRCQmhBbXpWNFBlVUdZUm5ZOGc4Z3dMaEJKWFhkN1VJdVNjVWJxZlo4NGVtbXlXQTlDTWxLMXpFRVV1VEREX1d6ZXpzQnpZcEJGQ3ZxQQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-03-29T19:22:59+00:00",
-    "summary": "Opinion | Virginia Binges on Taxes, but Not Those Taxes WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "dcadc06b5f88",
-    "title": "Opinion | The Wages of ‘Land Acknowledgments’ - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMi_wJBVV95cUxQbWdqdUVJdV9ZT2djNnpiTVRiaFhocnZUUTlBVHJ1aktJbnlacS03N3JvaGNlYTFkTWkwVm4yTThuZjUzNnZpM2ZweWdqODQtR1Z3VGwzRkwtRW10MFotTHB1LVlkVFJ6OTZ1OUZYbVZfc0VvYU1La29KMDZaSzhOaVNHV05pNnVVM1BmSGRKM1hSUDBkaVltbUtPTG9uNG1WNlhrU2tBT2tPWC1hWjlFR0QwZ3dTVFBvYVktMU1RYWIwZHRheFloaWhlNXRhdklCdU80X3FpNklvN3l2aUJPcHhIM3Fxem51U1MydFZCRWFrWjRoZjJSc0xhMW12c1FQeGpfejh1STNXZENqeDdpODZPT2dxdFpMV0lXRk9IUWZLYWpzeER3eW5fSk5oVzBWX0hOUy1KOGI1TVhUVXdUR0xDUVJXZDVqMVdHaml6TGNUU2ctbWE1UVFtWUhlM3Fjdlh5SkNVU1BCUFRySWhmS3pfbWJVbVl3Y2NZWHZndw?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-03-29T19:41:51+00:00",
-    "summary": "Opinion | The Wages of ‘Land Acknowledgments’ WSJ",
-    "image_url": null,
-    "tags": [],
     "industries": [
       "industrial"
     ],
@@ -1666,9 +1590,9 @@
     "tags": [
       "AI",
       "Government & Policy",
-      "Exclusive",
-      "mark warner",
-      "ai data centers"
+      "ai data centers",
+      "axios ai summit",
+      "ai job loss"
     ],
     "industries": [
       "media",
@@ -1689,46 +1613,6 @@
     "industries": [
       "tech",
       "retail",
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "d8c2c4725318",
-    "title": "Wikipedia cracks down on the use of AI in article writing",
-    "url": "https://techcrunch.com/2026/03/26/wikipedia-cracks-down-on-the-use-of-ai-in-article-writing/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-03-26T21:50:10+00:00",
-    "summary": "The site, whose policies are subject to change, has struggled with the issue of AI-generated writing.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2195019925.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Wikipedia",
-      "In Brief"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "4a2ab56effc9",
-    "title": "Anthropic wins injunction against Trump administration over Defense Department saga",
-    "url": "https://techcrunch.com/2026/03/26/anthropic-wins-injunction-against-trump-administration-over-defense-department-saga/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-03-27T01:18:38+00:00",
-    "summary": "A federal judge has ordered that the Trump administration rescind recent restrictions it placed on the AI company.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
-    "tags": [
-      "AI",
-      "TC",
-      "Anthropic",
-      "defense",
-      "pete hegseth"
-    ],
-    "industries": [
       "industrial"
     ],
     "relevance_score": 9
@@ -1770,6 +1654,27 @@
     "relevance_score": 9
   },
   {
+    "id": "b07dd3503fcd",
+    "title": "AI Research Is Getting Harder to Separate From Geopolitics",
+    "url": "https://www.wired.com/story/made-in-china-ai-research-is-starting-to-split-along-geopolitical-lines/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-03-27T21:46:39+00:00",
+    "summary": "A policy change announced by NeurIPS, the world’s leading AI research conference, drew widespread backlash from Chinese researchers this week and then was quickly reversed.",
+    "image_url": "https://media.wired.com/photos/69c6b7c2b1e88611bd972d9a/master/pass/Made-In-China-AI-Research-Is-Starting-to-Split-Along-Geopolitical-Lines-Business-2246178146.jpg",
+    "tags": [
+      "Business",
+      "Made in China",
+      "China",
+      "research",
+      "artificial intelligence"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "cd17f169efdb",
     "title": "Adobe’s AI growth takes center stage after guidance raise - thestreet.com",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPUmpFSlZMcFNzNVBOSkhRelR2dURVUDZGOFp4cXRTbUJpOXg4VVhxRHJJbUlWaXJmRFlybFZCMTY2U1h2T2lyejJEd1FEYkVZd1laVURzaDQxcU51dGwza3NsN1NsaVRDNkhxUTZVa0Y0OU0yejdHVmRSQTA4bFh6cFpRNmZsZE9zOFM4NXRWU3dGelRibnF5SXpVYWNVUk44?oc=5",
@@ -1777,6 +1682,37 @@
     "source_category": "adobe",
     "published": "2026-03-28T15:03:00+00:00",
     "summary": "Adobe’s AI growth takes center stage after guidance raise thestreet.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "f7a377d92faf",
+    "title": "Medical AI Named First-Ever Recipient of ACC Global Digital Health Award at American College of Cardiology Annual Scientific Session - manilatimes.net",
+    "url": "https://news.google.com/rss/articles/CBMirwJBVV95cUxOTG5PTGhlY3Z0TGVDdDJHN0J0VXNxeXZyaXhWaFdnblFubklWZHZPZkh1cDJPUVpnakRYV1hQNksya2pKYkk3WXR1Q0c0cWRQWWtCZGljaEZCdzEtcFFQSDQtUmxqa3dwQTA4ZUsxRkFmNjNCcVFIcktqakpaaW15dk4xdEZpb1dJZ3VraFpKSThDckxQRWczdlVaYlhMdWplQmo1a2U2YWhwcWZMNXlEWVhXZnFBVzZuOUhiSGxuTTVXckRxT2JveEpMbEh2RzRLRmNHQlh3a2wxeGp0OWhIRmtoOTFtU0F5RVBQSU5ic29IRVlwbFhNa1J2X0xjRE81SGRkdlRPSTRza040dEFwMnQxcFdUckEzdjZLRkVsOUVocmVUN0lDSFhuMXFlbGfSAbQCQVVfeXFMUDBqQTc5N3RHSEhRdWF2dzNFTWtudkEzZHhmVTc5MEctcjRLR1o1WGMzSFhMTEFBcFlVcllycU1HOHlwc1dPdU9wSjhOQmlPczVQUlB5VVc4QzZRQmdCUlhrUG5paUJqaHBPWWdZT2RoZDZ1WDNKcE12Q2JSNW9RNTRuX0JkeW5CSnFMMklXRVJ1a0N5eU9sZ0pqM1doY1hqT05fbS1mWERUdUVuTnZYZXkxSEZkWmZqRlp4VnFNNms3ZXZ4bEc2eWtfOThKQlNoa29GY3VnNUo3QVgtdzB5UGZDa2gwR3ZGWnQ1VHZqTW1RTGpjb2hlcXBYS21hMlRqRFhqcDBTeHVEQ1JPMXczZjdxRmxOR1RhaXpqR1ZCUjkxRmV0Z1VQRWZ0X2JseENPbi1oOGY?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-03-29T20:11:12+00:00",
+    "summary": "Medical AI Named First-Ever Recipient of ACC Global Digital Health Award at American College of Cardiology Annual Scientific Session manilatimes.net",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "dfea141e1a67",
+    "title": "Opinion | Are We Headed for Federal Control of College Sports? - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxOZjM5MFRqSTFzLTczZHhTWDBxN2FGenBTbW5wbzNId1pVQzkxTE5FZ0tGTGJLUU5oYldJSVdpYWdHTmpQRVp5UjhFNkI4ZHB1Z1pzWExXSEstaHNRR1dvRldGa05saklHbjU3WGU0YVFzbjRxNlZ2Szg2SUFvOHVIYkREQ1pvZ0xEWUJMU3lfRld3ekRhNHI2U2hqX2pZVmptdTNSWkVxSU8tQnp3UHN4SWpmT3hVZ3BGal9rX2hmaUJ6UC05WFJzZjdoUGZLeW9IeEJpSl9BRmxINlZSV1dlYVhGWVRXeGk4dUpfc0pINkEyQU0xSEFUdEpXWWk5N1FKYndmb284bnQ3TmdZWWVLaE9ka1NtZlRJX0lOVWZ6MURjWGJZNmNpTWJMVUJTc2o1RHQ1dklqY2paX0ZnSjJzd2lzdUFyOU1vR29ySTlCbGJYMlN4dXFrQ2tNeFJXY1oyWUlrT2ZzVEl5aThCYUg4R2ViSWdjSDVoeWJaZUlvYlUwZFdfcUQ4MU5uMXd0d2U0UXc2dGZLdw?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-03-29T20:23:00+00:00",
+    "summary": "Opinion | Are We Headed for Federal Control of College Sports? WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1801,21 +1737,6 @@
     "relevance_score": 8
   },
   {
-    "id": "fe870f08c762",
-    "title": "Adobe slides as investors digest CEO transition and post-earnings analyst resets - Quiver Quantitative",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQQU0yTWJtWV93VXF0blBRQjlfdzB5T0xWX3NpNHdZN2R1aTNpYUVLY0ZzenJQbThIX1hUYzVjZXliMUhYamU2TkxDRFF0LUU1Z19wUTZ5UVU5amNJbXQtX1dOQk44aDAwVUZlSFd6TmFHTGNWNHhFWVJzRGFGaEVYb1d1RHBXbDdQVmV6OUQwamZ1NWdzZm9ydVlZNGo5TzNwTW5lQlk4bWJsSGI1TmtmdFpZUQ?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-03-24T14:53:00+00:00",
-    "summary": "Adobe slides as investors digest CEO transition and post-earnings analyst resets Quiver Quantitative",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "49e63a323966",
     "title": "CommonSpirit, Humana reach new nationwide Medicare Advantage contract",
     "url": "https://www.healthcaredive.com/news/commonspirit-humana-reach-nationwide-medicare-advantage-contract/815453/",
@@ -1824,6 +1745,72 @@
     "published": "2026-03-24T15:09:04+00:00",
     "summary": "The new agreement will give Humana’s MA members access to CommonSpirit’s doctors and facilities for the next three years, and returns CommonSpirit to Humana’s networks in Colorado and Texas.",
     "image_url": "https://imgproxy.divecdn.com/SkxgiNKrWl2RfPkgRRIUUX6H4jh3jJx_IrxTxRozNXQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc3MjUwODcxX0h1bWFuYV9yZXNpemVkLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "51820246252d",
+    "title": "The evolving state of exome and genome sequencing",
+    "url": "https://www.fiercehealthcare.com/health-tech/evolving-state-exome-and-genome-sequencing",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-03-25T09:36:00+00:00",
+    "summary": "Rare diseases can take years to diagnose, but advances in genome sequencing are beginning to change that. In this episode of \"Podnosis,\" GeneDx CEO Katherine Stueland joins Anastassia Gliadkovskaya to discuss how the technology is evolving, where it is making an impact today...",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Untitled%20design%20%284%29_3.png?VersionId=Nuz2_U0.5AspJSicv6yTW9ACzHmkbaRQ",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "8c8fce14f680",
+    "title": "This startup wants to change how mathematicians do math",
+    "url": "https://www.technologyreview.com/2026/03/25/1134642/this-startup-wants-to-change-how-mathematicians-do-math/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-03-25T13:59:17+00:00",
+    "summary": "Axiom Math, a startup based in Palo Alto, California, has released a free new AI tool for mathematicians, designed to discover mathematical patterns that could unlock solutions to long-standing problems. The tool, called Axplorer, is a redesign of an existing one called...",
+    "image_url": null,
+    "tags": [
+      "Artificial intelligence",
+      "App"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "f5573ba4a61e",
+    "title": "Adobe agrees to $150M settlement with DOJ over alleged subscription violations - Class Action Lawsuits",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNbnNJZHBTM2dtMWRxeG8yMWdpaDR0T0RaX3Z4eUZDTzlPYTVzeVlzSDZLdjFyOFNaVm9DRmoyNENrdHdVNThYV1B1anNWUGlCRVpleXdYN09GS3JOVFFNU21yOUtQT2JnYWlPUmJLYmZTT25BZkdGRHBKd3hfN180dlNOTVoyWGp5N3BXV0FkWE9zTWF5eEUwRzdiVkphV091M3lla1dINzNnSWZPRndJcWNGQ28tZDhNUWU5Zy10dnN5eGcwVzVlMFhISUlNOUJaa2x4Z3J3?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-03-25T17:05:34+00:00",
+    "summary": "Adobe agrees to $150M settlement with DOJ over alleged subscription violations Class Action Lawsuits",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "f1ec29c47c6a",
+    "title": "DOJ alleges NewYork-Presbyterian forces payers into anticompetitive 'all-or-nothing' contracts",
+    "url": "https://www.fiercehealthcare.com/providers/doj-alleges-newyork-presbyterian-forces-payers-anticompetitive-all-or-nothing-contracts",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-03-26T14:22:00+00:00",
+    "summary": "In a lawsuit filed Thursday, the Justice Department argues that New York's largest hospital system wields its market power in violation of the Sherman Act. The nonprofit says the case is without merit and that it has been cooperating with the department's inquiries into the...",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1624377713/wcmc_2_1.jpg/wcmc_2_1.jpg?VersionId=r6kFSLIzd2Y9xGf9xXXs6ws0Wk_L3Hm7",
     "tags": [],
     "industries": [
       "industrial",
