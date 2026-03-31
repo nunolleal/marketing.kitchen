@@ -12,7 +12,10 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 58
+    "relevance_score": 58,
+    "also_covered_by": [
+      "Marketing Strategy"
+    ]
   },
   {
     "id": "fe5a01d599c4",
@@ -33,6 +36,28 @@
     "relevance_score": 54
   },
   {
+    "id": "d9dd8e5c02a9",
+    "title": "EXCLUSIVE: Spotify Debuts Carousel Ads and Branded Playlist Takeovers",
+    "url": "https://www.adweek.com/media/exclusive-spotify-debuts-carousel-ads-and-branded-playlist-takeovers/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-03-31T06:00:00+00:00",
+    "summary": "Spotify is branching into marketing’s mid- to lower funnel as its ads business matures.",
+    "image_url": null,
+    "tags": [
+      "Ad Tech Industry News",
+      "Audio &amp; Podcast News",
+      "Media News",
+      "Platforms",
+      "Programmatic"
+    ],
+    "industries": [
+      "media",
+      "consumer"
+    ],
+    "relevance_score": 50
+  },
+  {
     "id": "bee80fae6013",
     "title": "What the Netflix–Warner Music Deal Really Means for Artists and Brands",
     "url": "https://www.adweek.com/creativity/what-the-netflix-warner-music-deal-really-means-for-artists-and-brands/",
@@ -49,7 +74,23 @@
       "media",
       "consumer"
     ],
-    "relevance_score": 51
+    "relevance_score": 47
+  },
+  {
+    "id": "9b55aa4df8c8",
+    "title": "Mars gum brands mix memes, ‘borrowed nostalgia’ in global campaign",
+    "url": "https://www.marketingdive.com/news/mars-gum-brands-mix-memes-borrowed-nostalgia-in-global-campaign/816064/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-03-30T14:31:00+00:00",
+    "summary": "The “Total Overthink of The Head” campaign comes as the Orbit and Extra owner seeks to grow loyalty with younger audiences.",
+    "image_url": "https://imgproxy.divecdn.com/d7BhIWBgpWWjmVAs2Urha-UZRkyZmzjbk7oYbqKf5TI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tYXJzLU9WRVJUSElOS18wOTBfc3RpbGwxNi5qcGc=.webp",
+    "tags": [],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 47
   },
   {
     "id": "aadb2761c0b8",
@@ -67,23 +108,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 48
-  },
-  {
-    "id": "9b55aa4df8c8",
-    "title": "Mars gum brands mix memes, ‘borrowed nostalgia’ in global campaign",
-    "url": "https://www.marketingdive.com/news/mars-gum-brands-mix-memes-borrowed-nostalgia-in-global-campaign/816064/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-03-30T14:31:00+00:00",
-    "summary": "The “Total Overthink of The Head” campaign comes as the Orbit and Extra owner seeks to grow loyalty with younger audiences.",
-    "image_url": "https://imgproxy.divecdn.com/d7BhIWBgpWWjmVAs2Urha-UZRkyZmzjbk7oYbqKf5TI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9tYXJzLU9WRVJUSElOS18wOTBfc3RpbGwxNi5qcGc=.webp",
-    "tags": [],
-    "industries": [
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 47
+    "relevance_score": 45
   },
   {
     "id": "3b795ba13933",
@@ -206,28 +231,6 @@
     "relevance_score": 30
   },
   {
-    "id": "cb89f7477866",
-    "title": "The snow gods: How a couple of ski bums built the internet’s best weather app",
-    "url": "https://www.technologyreview.com/2026/03/26/1134470/the-snow-gods-how-a-couple-of-ski-bums-built-the-internets-best-weather-app/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-03-26T10:00:00+00:00",
-    "summary": "The best snow-forecasting app for skiers and snowboarders isn’t from any of the federally funded weather services. Nor from any of the big-name brands. It’s an independent app startup that leverages government data, its own AI models, and decades of alpine-life experience to...",
-    "image_url": null,
-    "tags": [
-      "Climate change and energy",
-      "App",
-      "artificial intelligence",
-      "Climate Change"
-    ],
-    "industries": [
-      "tech",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 26
-  },
-  {
     "id": "2577ef3404c4",
     "title": "Shoe Carnival scales back rebrand",
     "url": "https://www.retaildive.com/news/shoe-carnival-scales-back-rebrand-shoe-station-sales/815968/",
@@ -261,9 +264,9 @@
     "relevance_score": 20
   },
   {
-    "id": "47b8977601d6",
+    "id": "3852e641d3bb",
     "title": "Unilever Nears Deal to Create $60 Billion Food Giant With McCormick - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxOYkFfWDRMa0dtZER6Y2dxS3pIR3lKZlJucFVEOTVyZkNramprbEdpc3F5YXdIWU1CQ3VCbXlSODBrV1p1dGgwSEhQQlNXQlZPU0p6LUF6ZzlkTjJDOWJjMmVHeDB3eVRaMnhjWU5SUGR0Wk13ZjlJOWVkc0REV3ZnbkZ4dWlfN09mc2swVTZDTGxVeXpNSnlhVFJndkFKdldpYjdsVGtTNnRTcEJzejl6X0RkYlJaN0t3QUhXT0hITl9CemI1Qkxfd1RpbmlRYktQdEFiVFAwVGs5MVVYNmxpUGVxWTJyMUhMcDJYMWdRR2NGeG56aE5waXJwajRxOTVmTF9GVkk0ei1sLV9sSXMtZ2RoWmlZYUJpLTl2RXM1d292ajJRT2JxTDFJTWxDZE1FSVZMNFIwVmNNV1hTZzBaWmdyOEJJM1UxcVV1MTBoc0FhbGg4QXFMLTBYaV9RRFNXdGIzNjctdlYtZkprZ1V1ZDNJSTl3ckt0SVRFejA2VWtCdjgwNl9xUkVhTm0wV0Z1U2hqdGhONFUwcF9hSWEyZkpUVlZQYXRacWdjWWZ1bW1nZzcz?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMitANBVV95cUxQUlFIMHRMZjM4dDh3cWRhaHBjdEpzSHNsNVRtdVQ0QlR4RVp5ZGZ5a1VJUjBrNlRKaEZMaC1PMHU3WHh2Y1RhQjRuYjIzYndQdl9Mc2hWNndhbVhYeG1tU1ZYY0YtcVNCaTdEenNXdGdZNlg5aFZzTVdabHhrX296cHhfTHlrWGg2V0FBU0NrQndLOWVXa1FOUE9aajlqV3FrNlpPSktSRlA0WGNzSy1sTE5LWlJINzdqMnBHVy1JY2FWVy11dm84bGhsNzhJcUNpMDBySGVOTnVRMVBrMkktZkszZ2RYTGx3Rlk3dDdpNFY4QXlPdC1ZWnd2VzQ4X09PekdNZXViWmlQTWFlVUpnejVPRjZOWXl0WEJ1aW5sSHo2dFFVSjc1RGtUQ2c1R0ctZHNQZEMxUXNSU2kySm52VzVLeVBHbUNWREdKTk9MV2hlZC1Wd3VyazlXLXJVSUdvUmQtODBMTGxaZ0FqNHZvN2RSOVlBLTVWWlFkamZ0QVppZzRGbVhqZUd2UWhuRzNHYXoyTUlMeFZZa01LMUZRMXdjOHRNWnJVSUMwR3NQX0tEbjdr?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
     "published": "2026-03-31T06:40:00+00:00",
@@ -273,7 +276,7 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "61808897e963",
@@ -289,6 +292,6 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 11
+    "relevance_score": 10
   }
 ]
