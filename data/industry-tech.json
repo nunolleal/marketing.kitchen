@@ -18,7 +18,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 58
+    "relevance_score": 55
   },
   {
     "id": "64be1ee83676",
@@ -39,7 +39,10 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 56
+    "relevance_score": 53,
+    "also_covered_by": [
+      "Agentic Marketing"
+    ]
   },
   {
     "id": "e391cee735ef",
@@ -61,7 +64,10 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 55
+    "relevance_score": 52,
+    "also_covered_by": [
+      "Salesforce AI"
+    ]
   },
   {
     "id": "724519d75d88",
@@ -81,23 +87,23 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 55
+    "relevance_score": 52
   },
   {
-    "id": "89935f62a555",
-    "title": "The truth about martech in 2026",
-    "url": "https://martech.org/the-truth-about-martech-in-2026/",
+    "id": "ab74935284bf",
+    "title": "The agentic web meets the digital ad ecosystem",
+    "url": "https://martech.org/the-agentic-web-meets-the-digital-ad-ecosystem/",
     "source": "MarTech.org",
     "source_category": "martech",
-    "published": "2026-03-30T12:41:00+00:00",
-    "summary": "AI is exposing what your martech stack can’t hide. In 2026, teams without the skills and processes to support it won’t be able to prove ROI. The post The truth about martech in 2026 appeared first on MarTech .",
-    "image_url": "https://martech.org/searchengineland.com/wp-content/seloads/2025/11/semrush-one.webp",
+    "published": "2026-04-01T17:21:13+00:00",
+    "summary": "AI and ML have a number of uses in digital advertising, some of which fly under the radar. The post The agentic web meets the digital ad ecosystem appeared first on MarTech .",
+    "image_url": "https://www.youtube.com/embed/Wc_G8Znq3ao",
     "tags": [
-      "Marketing artificial intelligence (AI)",
-      "Marketing technology"
+      "Conversations with MarTech"
     ],
     "industries": [
-      "tech"
+      "tech",
+      "industrial"
     ],
     "relevance_score": 52
   },
@@ -118,21 +124,6 @@
       "tech"
     ],
     "relevance_score": 50
-  },
-  {
-    "id": "8a66143dcb4e",
-    "title": "10 Mobile App Marketing Tips for Small Teams",
-    "url": "https://www.salesforce.com/blog/mobile-app-marketing-tips-for-small-business/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-01T14:00:00+00:00",
-    "summary": "Market your mobile app with smart tools and even smarter techniques.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/02/image_ad915a.jpeg",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 49
   },
   {
     "id": "d6f46fd962e6",
@@ -170,42 +161,19 @@
     "relevance_score": 46
   },
   {
-    "id": "bca6cc630a98",
-    "title": "How E.l.f. Beauty is using AI to alleviate the workload of its workforce",
-    "url": "https://digiday.com/marketing/how-e-l-f-beauty-is-using-ai-to-alleviate-the-workload-of-its-workforce/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-04-01T04:01:00+00:00",
-    "summary": "E.l.f. Beauty's chief digital officer, Ekta Chopra, shared the four pillars that guide the beauty brand's approach to AI implementation.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/03/cmo-ai-slop-digiday.jpg",
-    "tags": [
-      "Marketing",
-      "syndicated"
-    ],
+    "id": "8a66143dcb4e",
+    "title": "10 Mobile App Marketing Tips for Small Teams",
+    "url": "https://www.salesforce.com/blog/mobile-app-marketing-tips-for-small-business/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-01T14:00:00+00:00",
+    "summary": "Market your mobile app with smart tools and even smarter techniques.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/02/image_ad915a.jpeg",
+    "tags": [],
     "industries": [
-      "tech",
-      "consumer"
+      "tech"
     ],
-    "relevance_score": 45
-  },
-  {
-    "id": "f22630a04923",
-    "title": "YouTube Reveals Upfront Event Details, Including Trevor Noah and Chappell Roan",
-    "url": "https://www.adweek.com/convergent-tv/youtube-upfront-event-details-including-trevor-noah-and-chappell-roan/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-04-01T09:00:00+00:00",
-    "summary": "YouTube Brandcast 2026 takes place on Wednesday, May 13.",
-    "image_url": null,
-    "tags": [
-      "General",
-      "TV Upfronts"
-    ],
-    "industries": [
-      "tech",
-      "consumer"
-    ],
-    "relevance_score": 44
+    "relevance_score": 46
   },
   {
     "id": "1d7e12bb0010",
@@ -246,6 +214,44 @@
       "industrial"
     ],
     "relevance_score": 42
+  },
+  {
+    "id": "bca6cc630a98",
+    "title": "How E.l.f. Beauty is using AI to alleviate the workload of its workforce",
+    "url": "https://digiday.com/marketing/how-e-l-f-beauty-is-using-ai-to-alleviate-the-workload-of-its-workforce/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-04-01T04:01:00+00:00",
+    "summary": "E.l.f. Beauty's chief digital officer, Ekta Chopra, shared the four pillars that guide the beauty brand's approach to AI implementation.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/03/cmo-ai-slop-digiday.jpg",
+    "tags": [
+      "Marketing",
+      "syndicated"
+    ],
+    "industries": [
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 42
+  },
+  {
+    "id": "f22630a04923",
+    "title": "YouTube Reveals Upfront Event Details, Including Trevor Noah and Chappell Roan",
+    "url": "https://www.adweek.com/convergent-tv/youtube-upfront-event-details-including-trevor-noah-and-chappell-roan/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-04-01T09:00:00+00:00",
+    "summary": "YouTube Brandcast 2026 takes place on Wednesday, May 13.",
+    "image_url": null,
+    "tags": [
+      "General",
+      "TV Upfronts"
+    ],
+    "industries": [
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 41
   },
   {
     "id": "0598483dde44",
@@ -303,110 +309,28 @@
     "relevance_score": 20
   },
   {
-    "id": "d3e8bd701101",
-    "title": "Amazon’s Big Spring Sale 2026: all of the latest deals",
-    "url": "https://www.theverge.com/gadgets/897580/amazon-big-spring-sale-2026-deals-news",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-04-01T14:44:38+00:00",
-    "summary": "If you were looking for the best time to get a deal this spring, it might have just passed you by, as Amazon’s Big Spring Sale is over. That being said, several deals are still happening (some companies list April 1st as the final day to save). So, we’re still highlighting...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268405_The_best_deals_from_Amazons_Big_Spring_Sale_event3.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
-    ],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 19
-  },
-  {
-    "id": "38cef2b0d30e",
-    "title": "Apple Will Push Out Rare ‘Backported’ Patches to Protect iOS 18 Users From DarkSword Hacking Tool",
-    "url": "https://www.wired.com/story/apple-will-push-out-rare-backported-patches-to-protect-ios-18-users-from-darksword-hacking-tool/",
+    "id": "3a0bdc693881",
+    "title": "FDA Approves Eli Lilly’s GLP-1 Pill",
+    "url": "https://www.wired.com/story/fda-approves-eli-lillys-glp-1-pill/",
     "source": "Wired",
     "source_category": "ai",
-    "published": "2026-04-01T00:49:08+00:00",
-    "summary": "As DarkSword spreads, Apple tells WIRED it will enable iOS 18-specific fixes for millions of iPhone owners who remain on that iOS version rather than force them to update to iOS 26.",
-    "image_url": "https://media.wired.com/photos/69caec417aba9d3dd8c5d304/master/pass/GettyImages-2149574147.jpg",
+    "published": "2026-04-01T18:56:03+00:00",
+    "summary": "Eli Lilly’s once-daily Foundayo is the second obesity pill to receive FDA approval. It will compete with Novo Nordisk’s pill version of Wegovy.",
+    "image_url": "https://media.wired.com/photos/69cd5dbf969ce77a468721f6/master/pass/FDA-Approves-Eli-Lillys-GLP-1-Pill-Science-2237031585.jpg",
     "tags": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Security / Security News",
-      "apple",
-      "ios"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 17
-  },
-  {
-    "id": "93b39acd08ee",
-    "title": "Best MacBooks (2026): Neo, Air, or Pro?",
-    "url": "https://www.wired.com/story/which-macbook-should-you-buy/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-04-01T14:03:27+00:00",
-    "summary": "With the MacBook Neo in the mix, there have never been more options to choose from in Apple's MacBook lineup.",
-    "image_url": "https://media.wired.com/photos/69cbff9493b7298932e00d65/master/pass/IMG_3324.JPG",
-    "tags": [
-      "Gear",
-      "Gear / Buying Guides",
-      "Gear / Products / Computers",
-      "apple",
-      "macbook"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 17
-  },
-  {
-    "id": "c804d482770c",
-    "title": "Snapchat’s ‘Reals’ joke mocks Instagram’s many ripoffs",
-    "url": "https://www.theverge.com/tech/905272/snapchat-reals-spotlight-instagram-feed-april-fools-day-2026",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-04-01T16:24:37+00:00",
-    "summary": "It's April Fools' Day, and Snap is using the occasion to \"announce\" that it's switching the name of Snapchat's Spotlight feed, the app's Instagram Reels-like feed of shortform vertical videos, to \"Reals.\" In a video featuring co-founder and CEO Evan Spiegel, Snap also...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23982580/acastro_STK466_02.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Apps",
-      "News",
-      "Snapchat",
-      "Tech"
+      "Science",
+      "Science / Health",
+      "medicine",
+      "pharmaceutical industry",
+      "science"
     ],
     "industries": [
       "tech",
-      "industrial"
+      "lifesciences"
     ],
-    "relevance_score": 17
-  },
-  {
-    "id": "5b05d528e4f4",
-    "title": "Slack adds 30 AI features to Slackbot, its most ambitious update since the Salesforce acquisition",
-    "url": "https://venturebeat.com/orchestration/slack-adds-30-ai-features-to-slackbot-its-most-ambitious-update-since-the",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-03-31T18:00:00+00:00",
-    "summary": "Slack today announced more than 30 new capabilities for Slackbot , its AI-powered personal agent, in what amounts to the most sweeping overhaul of the workplace messaging platform since Salesforce acquired it for $27.7 billion in 2021. The update transforms Slackbot from a...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6ibN7rf80EyoMcoQ2o6a6u/7e9042f231b585a6d6eb3cd58c50bca5/nuneybits_Vector_art_of_a_laptop_displaying_an_unmistakable_Sla_e2df2056-1841-4245-a4ea-4b79444c7d56.webp?w=300&q=30",
-    "tags": [
-      "Orchestration",
-      "Technology"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16,
+    "relevance_score": 17,
     "also_covered_by": [
-      "TechCrunch AI",
-      "Salesforce AI"
+      "Forbes Business"
     ]
   },
   {
@@ -433,24 +357,129 @@
     "relevance_score": 16
   },
   {
-    "id": "0813ed1a7a59",
-    "title": "Netflix’s Latest Price Hike Reveals Its Endgame: Steering Subscribers Toward Ads",
-    "url": "https://www.forbes.com/sites/andymeek/2026/04/01/netflixs-latest-price-hike-reveals-its-endgame-steering-subscribers-toward-ads/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-04-01T15:15:07+00:00",
-    "summary": "Netflix price hikes are reshaping its strategy, pushing users toward ad-supported plans and signaling a major shift in how streaming platforms make money.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69ccba07895f0601bf114746/0x0.jpg",
+    "id": "38cef2b0d30e",
+    "title": "Apple Will Push Out Rare ‘Backported’ Patches to Protect iOS 18 Users From DarkSword Hacking Tool",
+    "url": "https://www.wired.com/story/apple-will-push-out-rare-backported-patches-to-protect-ios-18-users-from-darksword-hacking-tool/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-04-01T00:49:08+00:00",
+    "summary": "As DarkSword spreads, Apple tells WIRED it will enable iOS 18-specific fixes for millions of iPhone owners who remain on that iOS version rather than force them to update to iOS 26.",
+    "image_url": "https://media.wired.com/photos/69caec417aba9d3dd8c5d304/master/pass/GettyImages-2149574147.jpg",
     "tags": [
-      "Media",
-      "/media",
-      "Business",
-      "/business",
-      "Media"
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Security News",
+      "apple",
+      "ios"
     ],
     "industries": [
-      "media",
       "tech"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "a58b65da0330",
+    "title": "Real-Time AI Video Is Nvidia’s New Pitch to Agencies—and It’s Turning Creatives Into Curators",
+    "url": "https://www.adweek.com/media/nvidia-real-time-ai-video-advertising-agencies/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-04-01T13:23:08+00:00",
+    "summary": "S4 Capital's Monks has spent two years building AI-driven production workflows. Now Nvidia is using that as its pitch to the rest of Madison Avenue.",
+    "image_url": null,
+    "tags": [
+      "Ad Tech Industry News",
+      "Advertising News",
+      "Artificial Intelligence",
+      "Exclusive",
+      "General"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "93b39acd08ee",
+    "title": "Best MacBooks (2026): Neo, Air, or Pro?",
+    "url": "https://www.wired.com/story/which-macbook-should-you-buy/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-04-01T14:03:27+00:00",
+    "summary": "With the MacBook Neo in the mix, there have never been more options to choose from in Apple's MacBook lineup.",
+    "image_url": "https://media.wired.com/photos/69cbff9493b7298932e00d65/master/pass/IMG_3324.JPG",
+    "tags": [
+      "Gear",
+      "Gear / Buying Guides",
+      "Gear / Products / Computers",
+      "apple",
+      "macbook"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "c804d482770c",
+    "title": "Snapchat’s ‘Reals’ joke mocks Instagram’s many ripoffs",
+    "url": "https://www.theverge.com/tech/905272/snapchat-reals-spotlight-instagram-feed-april-fools-day-2026",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-04-01T16:24:37+00:00",
+    "summary": "It's April Fools' Day, and Snap is using the occasion to \"announce\" that it's switching the name of Snapchat's Spotlight feed, the app's Instagram Reels-like feed of shortform vertical videos, to \"Reals.\" In a video featuring co-founder and CEO Evan Spiegel, Snap also...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23982580/acastro_STK466_02.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Apps",
+      "News",
+      "Snapchat",
+      "Tech"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "99cd105f28fe",
+    "title": "Rideshare App Uber, Launches Uber Golf And Collaborates With Topgolf",
+    "url": "https://www.forbes.com/sites/mikefore/2026/04/01/rideshare-app-uber-launches-uber-golf-and-collaborates-with-topgolf/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-01T16:53:57+00:00",
+    "summary": "Rideshare app Uber launches Uber Golf, intended to help golf groups get to and from the course. Uber also announces a collaboration with Topgolf.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69cd58125f022d3ff59647e6/0x0.jpg?width=960",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "54e05a551df3",
+    "title": "Everything is iPhone now",
+    "url": "https://www.theverge.com/tech/905398/apple-iphone-anniversary-jobs-release",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-04-01T18:02:52+00:00",
+    "summary": "This is part of our package about Apple's 50th anniversary. Read more here. The thing about the iPhone is that everyone knew it was going to be a big deal, and then it was an even bigger deal than that. Hell, it's still the biggest thing going. It's hard to remember, but...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268248_APPLE_50_IPHONE.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Apple",
+      "iPhone",
+      "Tech"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 16
   },
@@ -497,20 +526,42 @@
     "relevance_score": 15
   },
   {
-    "id": "8914b07a8eb5",
-    "title": "The US Military’s GPS Software Is an $8 Billion Mess",
-    "url": "https://www.wired.com/story/the-us-militarys-gps-software-is-an-8-billion-mess/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-03-31T17:34:46+00:00",
-    "summary": "The GPS Next-Generation Operational Control System was due for completion in 2016. Ten years later, the software for controlling the military’s GPS satellites still doesn’t work.",
-    "image_url": "https://media.wired.com/photos/69cbface4423e18d6fcaca64/master/pass/security_USSF_AP25151264788854.jpg",
+    "id": "0813ed1a7a59",
+    "title": "Netflix’s Latest Price Hike Brings A Potential Benefit: Steering Subscribers Toward Ads",
+    "url": "https://www.forbes.com/sites/andymeek/2026/04/01/netflixs-latest-price-hike-reveals-its-endgame-steering-subscribers-toward-ads/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-01T15:15:07+00:00",
+    "summary": "Netflix price hikes are reshaping its strategy, pushing users toward ad-supported plans and signaling a major shift in how streaming platforms make money.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69ccba07895f0601bf114746/0x0.jpg",
     "tags": [
-      "Security",
-      "Security / Security News",
-      "Science / Space",
-      "Ars Technica",
-      "space"
+      "Media",
+      "/media",
+      "Business",
+      "/business",
+      "Media"
+    ],
+    "industries": [
+      "media",
+      "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "6f01f2a9050a",
+    "title": "Supply Chain Disruption Is Forcing Startups To Adapt Or Risk Failure",
+    "url": "https://www.forbes.com/sites/alisoncoleman/2026/04/01/supply-chain-disruption-is-forcing-startups-to-adapt-or-risk-failure/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-01T15:25:34+00:00",
+    "summary": "Global supply chain challenges are testing startups, pushing them to innovate or risk operational setbacks and lost revenue",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69cd334d9dba58ad9064a62d/0x0.jpg?width=960",
+    "tags": [
+      "Entrepreneurs",
+      "/entrepreneurs",
+      "Small Business",
+      "/small-business",
+      "Entrepreneurs"
     ],
     "industries": [
       "tech",
@@ -519,84 +570,67 @@
     "relevance_score": 15
   },
   {
-    "id": "98d512b832b1",
-    "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
-    "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-03-31T20:01:07+00:00",
-    "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1303642234.jpg?w=1024",
+    "id": "1da34db9369e",
+    "title": "Hollie McKay—War Correspondent Who Has Reported From Iraq—Discusses Kidnapping Of American Journalist Shelly Kittleson",
+    "url": "https://www.forbes.com/sites/forbestv/2026/04/01/hollie-mckay-war-correspondent-who-has-reported-from-iraq-discusses-kidnapping-of-american-journalist-shelly-kittleson/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-01T16:13:17+00:00",
+    "summary": "Geopolitical analyst Hollie McKay, a former war correspondent who has reported from Iraq, discussed the kidnapping of U.S. journalist Shelly Kittleson.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69cd440e1e24ef3321790809/0x0.jpg?width=960",
     "tags": [
-      "AI",
-      "Startups",
-      "a16z crypto",
-      "Chris Dixon"
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "standard"
     ],
     "industries": [
       "tech",
-      "industrial",
-      "financial"
+      "industrial"
     ],
     "relevance_score": 15
   },
   {
-    "id": "9b0e897ed29c",
-    "title": "Publishers see double-digit growth from The Trade Desk’s OpenPath, but volatility remains",
-    "url": "https://digiday.com/media/publishers-see-double-digit-growth-from-ttds-openpath-but-volatility-remains/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-04-01T04:01:00+00:00",
-    "summary": "Several publishers said that TTD is temporarily allowing duplicate bids on those integrating with OpenAds, as a sweetener to ease onboarding. One publisher said it plans to accelerate integration with OpenAds, to capitalize on this “likely temporary window.”",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/03/shift-revenue-digiday.jpg",
-    "tags": [
-      "Media"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "b682194353af",
-    "title": "‘XO Kitty’ Stars Anna Cathcart And Sang Heon Lee On Kitty And Minho’s Romance",
-    "url": "https://www.forbes.com/sites/laurasirikul/2026/04/01/xo-kittys-anna-cathcart-and-sang-heon-lee-on-kitty--minhos-romance/",
+    "id": "3f8e5b43854b",
+    "title": "Innocent Woman Arrested On Bogus AI Facial Recognition Match. The Failure Was Entirely Human",
+    "url": "https://www.forbes.com/sites/larsdaniel/2026/04/01/innocent-woman-arrested-on-bogus-ai-facial-recognition-match-the-failure-was-entirely-human/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-04-01T14:00:00+00:00",
-    "summary": "'XO Kitty' Stars Anna Cathcart and Sang Heon Lee talk about their characters' relationship finally happening, and what to expect from this romance this season.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69cb2831eb020175ddf18fa8/0x0.jpg",
+    "published": "2026-04-01T16:58:01+00:00",
+    "summary": "Police jailed an innocent woman for five months on a bogus AI facial recognition match. Here's how the technology works and why the real failure is human, not machine.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69cd4c4b12fb445206921e85/0x0.jpg?width=960",
     "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "3a654e4ac092",
-    "title": "‘The Super Mario Galaxy Movie’ Rotten Tomatoes Score Is Dismal, Which Is No Shock",
-    "url": "https://www.forbes.com/sites/paultassi/2026/04/01/the-super-mario-galaxy-movie-rotten-tomatoes-score-is-dismal-which-is-no-shock/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-04-01T14:22:54+00:00",
-    "summary": "Critics do not like The Super Mario Galaxy movie, but that is not a big surprise, given what happened with the first film.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69cd2937d8502427790cdb34/0x0.jpg",
-    "tags": [
-      "Gaming",
-      "/gaming",
+      "Science",
+      "/science",
       "Innovation",
       "/innovation",
-      "Gaming"
+      "Science"
     ],
     "industries": [
-      "media",
       "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "d94e0a48e4d5",
+    "title": "Meta’s natural gas binge could power South Dakota",
+    "url": "https://techcrunch.com/2026/04/01/metas-natural-gas-binge-could-power-south-dakota/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-01T18:35:36+00:00",
+    "summary": "Meta's upcoming Hyperion AI data center will be powered by 10 new natural gas plants.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2021/04/GettyImages-462843546.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Climate",
+      "data centers",
+      "Exclusive",
+      "Facebook"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 15
   },
@@ -657,20 +691,60 @@
     "relevance_score": 14
   },
   {
-    "id": "4563037416a6",
-    "title": "Aston Martin Valhalla (2026) Review: A $1 Million Plug-In Hybrid",
-    "url": "https://www.wired.com/review/aston-martin-valhalla/",
+    "id": "8914b07a8eb5",
+    "title": "The US Military’s GPS Software Is an $8 Billion Mess",
+    "url": "https://www.wired.com/story/the-us-militarys-gps-software-is-an-8-billion-mess/",
     "source": "Wired",
     "source_category": "ai",
-    "published": "2026-03-31T14:00:00+00:00",
-    "summary": "A robot could apparently drive this million-dollar supercar faster than a fleshy human, but the unbelievable experience would be entirely lost on it.",
-    "image_url": "https://media.wired.com/photos/69ca9e748aca1fbec8b446a9/master/pass/AstonMartin_Valhalla_%C2%A9AndyMorgan_547-Gear.jpg",
+    "published": "2026-03-31T17:34:46+00:00",
+    "summary": "The GPS Next-Generation Operational Control System was due for completion in 2016. Ten years later, the software for controlling the military’s GPS satellites still doesn’t work.",
+    "image_url": "https://media.wired.com/photos/69cbface4423e18d6fcaca64/master/pass/security_USSF_AP25151264788854.jpg",
     "tags": [
-      "Gear",
-      "Gear / Reviews",
-      "Gear / Products / Car Reviews",
-      "cars",
-      "EVs and Hybrids"
+      "Security",
+      "Security / Security News",
+      "Science / Space",
+      "Ars Technica",
+      "space"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "98d512b832b1",
+    "title": "Yupp shuts down after raising $33M from a16z crypto’s Chris Dixon",
+    "url": "https://techcrunch.com/2026/03/31/yupp-ai-shuts-down-33m-a16z-crypto-chris-dixon/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-03-31T20:01:07+00:00",
+    "summary": "Less than a year after launching, with checks from some of the biggest names in Silicon Valley, crowdsourced AI model feedback startup Yupp is closing its business, the company said Tuesday.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1303642234.jpg?w=1024",
+    "tags": [
+      "AI",
+      "Startups",
+      "a16z crypto",
+      "Chris Dixon"
+    ],
+    "industries": [
+      "tech",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "9b0e897ed29c",
+    "title": "Publishers see double-digit growth from The Trade Desk’s OpenPath, but volatility remains",
+    "url": "https://digiday.com/media/publishers-see-double-digit-growth-from-ttds-openpath-but-volatility-remains/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-04-01T04:01:00+00:00",
+    "summary": "Several publishers said that TTD is temporarily allowing duplicate bids on those integrating with OpenAds, as a sweetener to ease onboarding. One publisher said it plans to accelerate integration with OpenAds, to capitalize on this “likely temporary window.”",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/03/shift-revenue-digiday.jpg",
+    "tags": [
+      "Media"
     ],
     "industries": [
       "tech"
@@ -678,16 +752,72 @@
     "relevance_score": 14
   },
   {
-    "id": "42f6b4758f6a",
-    "title": "OpenClaw has 500,000 instances and no enterprise kill switch",
-    "url": "https://venturebeat.com/security/openclaw-500000-instances-no-enterprise-kill-switch",
+    "id": "3a654e4ac092",
+    "title": "‘The Super Mario Galaxy Movie’ Rotten Tomatoes Score Is Dismal, Which Is No Shock",
+    "url": "https://www.forbes.com/sites/paultassi/2026/04/01/the-super-mario-galaxy-movie-rotten-tomatoes-score-is-dismal-which-is-no-shock/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-01T14:22:54+00:00",
+    "summary": "Critics do not like The Super Mario Galaxy movie, but that is not a big surprise, given what happened with the first film.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69cd2937d8502427790cdb34/0x0.jpg",
+    "tags": [
+      "Gaming",
+      "/gaming",
+      "Innovation",
+      "/innovation",
+      "Gaming"
+    ],
+    "industries": [
+      "media",
+      "tech"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "2c74a8d63701",
+    "title": "How to Choose the Right Integration Pattern for Agentforce",
+    "url": "https://www.salesforce.com/blog/how-to-choose-integration-pattern-for-agentforce/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-01T17:32:44+00:00",
+    "summary": "Explore the next generation of Agentforce Integration, Agent2Agent (A2A) and Model Context Protocol (MCP), alongside the established API pattern to determine the best integration strategy for your agent.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/How-to-Choose-the-Right-Integration-Pattern-for-Agentforce.png",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "6d27219503ab",
+    "title": "Adobe Inc. (ADBE): Billionaire Ray Dalio Is Buying This Software Stock - Insider Monkey",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVlV6S01SYk02WUNWRm9pVzVYQTBDS1pJdXVwMDBaZUpWTjMwTm5SNnkxbm40M1ZaRV9xX212cURVcm5mT3lBZmtZT2c4Ml84Y2s2M01CSXIyUUxXTllYbWg4WmtydWdXc0o2QkRDWTBKZUM2WVh5cWtsTjJqNTktRS00N3QyZjZ4REplVkdoSG05RUFTWWctcUtNXzVTVzYtSGg4azVwdEhMZHFfc3d30gG3AUFVX3lxTE1aaGVJUjRMUWh3Xzg1STd5c1BEZkRKMDFOZW55Tzl3ZjZDb3VaOXFNS21BWEdCbzZiX0dUSVB6Nl95ZzdVdzg4blhGUlVIbEt0TzN6dGVJeWxWX1dJNjY0QkFLRnYzYzZXSDlKVUtWaFk5WWVxV1NlZDJsSzVMeGZ0ZnhzUDZwQ3BSMmxkWXM5eUtEMm1EbFh5SVJpUy10Y01JWDNhU19tYzBOSkRleGFEcFRMYmNvNA?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-04-01T18:57:14+00:00",
+    "summary": "Adobe Inc. (ADBE): Billionaire Ray Dalio Is Buying This Software Stock Insider Monkey",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 14,
+    "also_covered_by": [
+      "Adobe Inc"
+    ]
+  },
+  {
+    "id": "91262d8d16b3",
+    "title": "The end of 'shadow AI' at enterprises? Kilo launches KiloClaw for Organizations to enable secure AI agents at scale",
+    "url": "https://venturebeat.com/orchestration/the-end-of-shadow-ai-at-enterprises-kilo-launches-kiloclaw-for-organizations",
     "source": "VentureBeat",
     "source_category": "ai",
-    "published": "2026-03-31T18:15:00+00:00",
-    "summary": "“Your AI? It’s my AI now.” The line came from Etay Maor, VP of Threat Intelligence at Cato Networks , in an exclusive interview with VentureBeat at RSAC 2026 — and it describes exactly what happened to a U.K. CEO whose OpenClaw instance ended up for sale on BreachForums....",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/69DOQfhXlWgAm6BEb5yRWx/edd7628a720eecce0fbb34bb70e3a553/hero_openclaw_story_March_2026.png?w=300&q=30",
+    "published": "2026-04-01T19:16:03+00:00",
+    "summary": "As generative AI matures from a novelty into a workplace staple, a new friction point has emerged: the \"shadow AI\" or \"Bring Your Own AI (BYOAI)\" crisis. Much like the unsanctioned use of personal devices in years past, developers and knowledge workers are increasingly...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7lqOwH8GLmCQm64qHSJScU/6d00dc2059fc15e6596cb9832235bcc9/Gemini_Generated_Image_okcpisokcpisokcp__1_.png?w=300&q=30",
     "tags": [
-      "Security"
+      "Orchestration"
     ],
     "industries": [
       "tech",
@@ -715,7 +845,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "7f017a285a32",
@@ -734,39 +864,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "705e4b840d3d",
-    "title": "2026 Software Stock Slump: Analyzing ServiceNow, Salesforce, and Adobe - News and Statistics - IndexBox",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0duU29XNEtfNllXUlV6WjJpNUtVZ2RjQVA2RnZkQ0JtYXY3VWc2bmxvRzdtN1VVQ2hVUWJYNGprMHBlUkFSaHE0UF9PRHB5YW53aTlDRFZQcXg4empEMmZlWGMwYkhSVVBVc2pYWWJUVTlVYWRuY2UyQXp0eHdkS1hMbjVMcW1yRkw1WmstLW5UZldiOHhGeHdvRUlDLW8?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-04-01T02:40:00+00:00",
-    "summary": "2026 Software Stock Slump: Analyzing ServiceNow, Salesforce, and Adobe - News and Statistics IndexBox",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "2d4b5c67c521",
-    "title": "Japan Telecom Cloud Market Size, Share and Growth Forecast 2026-2034 - vocal.media",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ2pRYmYxQm5ueXVkbkMtS0JWcG9kLXJxb2xKQ0pCWHFzMGQ1SnRXRUtOUlVSWTFkZ2xDQkpOcktvdDgtRWg0QklycjlFSzBudGJidzVJNEZTcHh5U3JMTHdERVVsOEkxdWJBa2xsNVE2R2lGSDZQeUVFRzF1UjRQQjA2QlJIQzR1dXhreVYyaWhzR1dj?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-04-01T13:13:45+00:00",
-    "summary": "Japan Telecom Cloud Market Size, Share and Growth Forecast 2026-2034 vocal.media",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "tech",
-      "telecom"
-    ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "c83076efd074",
@@ -781,124 +879,6 @@
     "industries": [
       "tech",
       "retail",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "91262d8d16b3",
-    "title": "The end of 'shadow AI' at enterprises? Kilo launches KiloClaw for Organizations to enable secure AI agents at scale",
-    "url": "https://venturebeat.com/orchestration/the-end-of-shadow-ai-at-enterprises-kilo-launches-kiloclaw-for-organizations",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-04-01T13:57:57+00:00",
-    "summary": "As generative AI matures from a novelty into a workplace staple, a new friction point has emerged: the \"shadow AI\" or \"Bring Your Own AI (BYOAI)\" crisis. Much like the unsanctioned use of personal devices in years past, developers and knowledge workers are increasingly...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7lqOwH8GLmCQm64qHSJScU/6d00dc2059fc15e6596cb9832235bcc9/Gemini_Generated_Image_okcpisokcpisokcp__1_.png?w=300&q=30",
-    "tags": [
-      "Orchestration"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "adae22b91c32",
-    "title": "Starcloud raises $170 million Series A to build data centers in space",
-    "url": "https://techcrunch.com/2026/03/30/starcloud-raises-170-million-series-ato-build-data-centers-in-space/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-03-30T11:00:00+00:00",
-    "summary": "Starcloud becomes the fastest Y Combinator startup to reach unicorn status, just 17 months after demo day.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Starcloud-1-deployment-virtical-e1774655359557.png?w=549",
-    "tags": [
-      "Space",
-      "AI",
-      "Benchmark",
-      "eqt ventures",
-      "Starcloud"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "3b327974f5f7",
-    "title": "UnitedHealthcare launches Avery, a generative AI companion for members",
-    "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-launches-avery-generative-ai-companion-members",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-03-31T16:59:00+00:00",
-    "summary": "The platform, dubbed Avery, allows UnitedHealthcare members to seek information on coverage, benefits, appointment scheduling, claim approval status and more.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1635360990/UnitedHealthcare_sign.jpg/UnitedHealthcare_sign.jpg?VersionId=mRAMc4oGgCt6.6zJw_PKJwe2kXPjRXqW",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "78436a6750c7",
-    "title": "Google Now Lets You Change Your Gmail Address. Here’s How",
-    "url": "https://www.wired.com/story/how-to-change-your-gmail-address/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-03-31T17:51:29+00:00",
-    "summary": "You’ve probably had the same Gmail address for years. Now, it’s easy to make a name change without worrying about the transition.",
-    "image_url": "https://media.wired.com/photos/69cc086dde3dc53efaa05ee7/master/pass/gear_gmail_change_address.gif",
-    "tags": [
-      "Gear",
-      "Gear / How To and Advice",
-      "Gear / Products / Apps",
-      "Google",
-      "software"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "49e8ac67a008",
-    "title": "Mercor says it was hit by cyberattack tied to compromise of open-source LiteLLM project",
-    "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-01T01:42:59+00:00",
-    "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/mercor-website.jpg?resize=1200,800",
-    "tags": [
-      "Startups",
-      "Security",
-      "AI",
-      "Lapsus$",
-      "Mercor"
-    ],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "ec2c45539d73",
-    "title": "The Download: gig workers training humanoids, and better AI benchmarks",
-    "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-04-01T12:10:00+00:00",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home When Zeus, a medical student in Nigeria, returns to his apartment from a long day...",
-    "image_url": null,
-    "tags": [
-      "The Download"
-    ],
-    "industries": [
-      "tech",
       "industrial"
     ],
     "relevance_score": 13
@@ -921,27 +901,6 @@
     "industries": [
       "tech",
       "retail"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "42450e66ad3e",
-    "title": "Backup Files and Your Entire Digital Life (2026): Hard Drives, Cloud-Based Tools, and Tips",
-    "url": "https://www.wired.com/story/how-to-back-up-your-digital-life/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-03-31T11:30:00+00:00",
-    "summary": "Backups are boring, but they’ll save your bacon. Here’s how to make sure your data lives on, even when your PC doesn’t.",
-    "image_url": "https://media.wired.com/photos/69ca1ce8e1e04f72f973e688/master/pass/How-to-Back-Up-Your-Digital-Life.jpg",
-    "tags": [
-      "Gear",
-      "Gear / How To and Advice",
-      "Gear / Reviews",
-      "Gear / Products / Computers",
-      "Shopping"
-    ],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 12
   },
@@ -978,39 +937,92 @@
     "relevance_score": 12
   },
   {
-    "id": "0b0b1daf0fe5",
-    "title": "Tesla Admits Its Robotaxis Are Sometimes Driven by Remote Humans",
-    "url": "https://www.wired.com/story/tesla-says-its-robotaxis-are-sometimes-driven-by-humans/",
-    "source": "Wired",
+    "id": "42f6b4758f6a",
+    "title": "OpenClaw has 500,000 instances and no enterprise kill switch",
+    "url": "https://venturebeat.com/security/openclaw-500000-instances-no-enterprise-kill-switch",
+    "source": "VentureBeat",
     "source_category": "ai",
-    "published": "2026-03-31T17:00:00+00:00",
-    "summary": "The electric-car maker says it happens rarely and at speeds below 10 mph. But the disclosure—in response to a US senator's questions—occasioned a call for more transparency.",
-    "image_url": "https://media.wired.com/photos/69cad696a096b304782ee374/master/pass/Senator-Demands-More-Transparency-From-Humans-Behind-Self-Driving-Cars-Gear-2265246664.jpg",
+    "published": "2026-03-31T18:15:00+00:00",
+    "summary": "“Your AI? It’s my AI now.” The line came from Etay Maor, VP of Threat Intelligence at Cato Networks , in an exclusive interview with VentureBeat at RSAC 2026 — and it describes exactly what happened to a U.K. CEO whose OpenClaw instance ended up for sale on BreachForums....",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/69DOQfhXlWgAm6BEb5yRWx/edd7628a720eecce0fbb34bb70e3a553/hero_openclaw_story_March_2026.png?w=300&q=30",
     "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Tesla",
-      "Self-Driving Cars",
-      "Autonomous Vehicles"
+      "Security"
     ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "49e8ac67a008",
+    "title": "Mercor says it was hit by cyberattack tied to compromise of open source LiteLLM project",
+    "url": "https://techcrunch.com/2026/03/31/mercor-says-it-was-hit-by-cyberattack-tied-to-compromise-of-open-source-litellm-project/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-01T01:42:59+00:00",
+    "summary": "The AI recruiting startup confirmed a security incident after an extortion hacking crew took credit for stealing data from the company's systems.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/mercor-website.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Security",
+      "Startups",
+      "Lapsus$",
+      "LiteLLM"
+    ],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "705e4b840d3d",
+    "title": "2026 Software Stock Slump: Analyzing ServiceNow, Salesforce, and Adobe - News and Statistics - indexbox.io",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV0duU29XNEtfNllXUlV6WjJpNUtVZ2RjQVA2RnZkQ0JtYXY3VWc2bmxvRzdtN1VVQ2hVUWJYNGprMHBlUkFSaHE0UF9PRHB5YW53aTlDRFZQcXg4empEMmZlWGMwYkhSVVBVc2pYWWJUVTlVYWRuY2UyQXp0eHdkS1hMbjVMcW1yRkw1WmstLW5UZldiOHhGeHdvRUlDLW8?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-04-01T02:40:00+00:00",
+    "summary": "2026 Software Stock Slump: Analyzing ServiceNow, Salesforce, and Adobe - News and Statistics indexbox.io",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "tech"
     ],
     "relevance_score": 12
   },
   {
-    "id": "0a046b8bd5e9",
-    "title": "GFT Technologies Positioned as a Leader in the SPARK Matrix™: Insurance Digital Transformation Services, 2026 by QKS Group - PR Newswire UK",
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxOcVg4OEtsSzNBbXMyVTc1SHI1TU1McGtSZGVUdExUWk9VZ2ZSaWZrWXU4eV9pMWVteVBnN3dBRDROekRKOUZJOFRYak1BOGdwN0tYT3FjS1hyTzRfaldBUUc5LWhaLTRpRHUxNDRYMGRYYzNOb2NvMlF1QXh2bXBTcUZDWV9EOXgxZTRfTklmZUNLRFdjejJOMjQtcEFzTkpLU1dvVE96M0JCb3k1RWZnT3dzR2hYT01qMHl4WFJRdW9Kb0dwU1plZ2t4S05RdWIwbW1lMXQ3WWlrMlM4LWs0WTVjVWpxXzZCLVRNRTMweTZGbjlxOExOLVNGM2REekZ1bWdGUXdPR3Q?oc=5",
-    "source": "Financial Marketing",
-    "source_category": "industry_financial",
-    "published": "2026-04-01T13:00:00+00:00",
-    "summary": "GFT Technologies Positioned as a Leader in the SPARK Matrix™: Insurance Digital Transformation Services, 2026 by QKS Group PR Newswire UK",
+    "id": "ec2c45539d73",
+    "title": "The Download: gig workers training humanoids, and better AI benchmarks",
+    "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-04-01T12:10:00+00:00",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The gig workers who are training humanoid robots at home When Zeus, a medical student in Nigeria, returns to his apartment from a long day...",
+    "image_url": null,
+    "tags": [
+      "The Download"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "2d4b5c67c521",
+    "title": "Japan Telecom Cloud Market Size, Share and Growth Forecast 2026-2034 - vocal.media",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ2pRYmYxQm5ueXVkbkMtS0JWcG9kLXJxb2xKQ0pCWHFzMGQ1SnRXRUtOUlVSWTFkZ2xDQkpOcktvdDgtRWg0QklycjlFSzBudGJidzVJNEZTcHh5U3JMTHdERVVsOEkxdWJBa2xsNVE2R2lGSDZQeUVFRzF1UjRQQjA2QlJIQzR1dXhreVYyaWhzR1dj?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-04-01T13:13:45+00:00",
+    "summary": "Japan Telecom Cloud Market Size, Share and Growth Forecast 2026-2034 vocal.media",
     "image_url": null,
     "tags": [],
     "industries": [
+      "media",
       "tech",
-      "financial"
+      "telecom"
     ],
     "relevance_score": 12
   },
@@ -1093,39 +1105,43 @@
     "relevance_score": 11
   },
   {
-    "id": "df28222012f7",
-    "title": "Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle' - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxON3UyMmIxRnFJcG1rOXFKVWJZZmZ3bm5NajFpdGJFcnA4Yjh2cFpqS2wxQmFYXzhsSF9ocXVYaUxzR0VZbW1sRzVZWUJpVk9wbktXanZaa0otbW05dzVCLVdQenRsUWFpaXZKX2o3cEtqQjJnVVdDdDNtRnRoLVZ5WDdCeTBIbmF3RWQ1U2YwdDJvRkRmdXJDbHJHREo5MjRpS1pETdIBqgFBVV95cUxQQm9QNzZyN0JOTkFjM2NKcEZjUmVxc0FzMnd1ZG1hMEt0cEJJQXFyeGZhU2NMUlhJRkozUFZKV2UtUjVldDJpeng0N1BxTWhYbmlrbXhNVmVMamVyZ1JyUWtCYzdjeDR4bFQ1SnBXWkFoMldjM0F3WVFoYXRDUExhNDdLbUZnTTRJWmFlTEtJRzR2bm1xSFhsQkRPeUN6Q1hEOTl5QmRWeDc1QQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-03-31T20:19:29+00:00",
-    "summary": "Microsoft closes worst quarter on Wall Street since 2008 on AI concerns: 'Redmond is in a pickle' CNBC",
-    "image_url": null,
+    "id": "3b327974f5f7",
+    "title": "UnitedHealthcare launches Avery, a generative AI companion for members",
+    "url": "https://www.fiercehealthcare.com/payers/unitedhealthcare-launches-avery-generative-ai-companion-members",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-03-31T16:59:00+00:00",
+    "summary": "The platform, dubbed Avery, allows UnitedHealthcare members to seek information on coverage, benefits, appointment scheduling, claim approval status and more.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1635360990/UnitedHealthcare_sign.jpg/UnitedHealthcare_sign.jpg?VersionId=mRAMc4oGgCt6.6zJw_PKJwe2kXPjRXqW",
     "tags": [],
     "industries": [
       "tech",
-      "financial"
+      "industrial",
+      "lifesciences"
     ],
     "relevance_score": 11
   },
   {
-    "id": "22ab3ff2d707",
-    "title": "As more Americans adopt AI tools, fewer say they can trust the results",
-    "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
-    "source": "TechCrunch AI",
+    "id": "78436a6750c7",
+    "title": "Google Now Lets You Change Your Gmail Address. Here’s How",
+    "url": "https://www.wired.com/story/how-to-change-your-gmail-address/",
+    "source": "Wired",
     "source_category": "ai",
-    "published": "2026-03-30T20:24:53+00:00",
-    "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+    "published": "2026-03-31T17:51:29+00:00",
+    "summary": "You’ve probably had the same Gmail address for years. Now, it’s easy to make a name change without worrying about the transition.",
+    "image_url": "https://media.wired.com/photos/69cc086dde3dc53efaa05ee7/master/pass/gear_gmail_change_address.gif",
     "tags": [
-      "AI",
-      "AI trust",
-      "quinnipiac university"
+      "Gear",
+      "Gear / How To and Advice",
+      "Gear / Products / Apps",
+      "Google",
+      "software"
     ],
     "industries": [
-      "tech"
+      "tech",
+      "industrial"
     ],
-    "relevance_score": 10
+    "relevance_score": 11
   },
   {
     "id": "8b5236710fc1",
@@ -1137,10 +1153,10 @@
     "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
     "image_url": "https://techcrunch.com/wp-content/uploads/2018/02/exit.png?w=900",
     "tags": [
-      "TC",
-      "Startups",
-      "Security",
       "AI",
+      "Security",
+      "Startups",
+      "TC",
       "Delve"
     ],
     "industries": [
@@ -1158,28 +1174,6 @@
     "summary": "Artificial intelligence in the revenue cycle management space is heating up as companies look to leverage the technology to reduce denials and make financial workflows more efficient.",
     "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2207160096%20%281%29.jpg?VersionId=ClXjsEgney3C9tyHyHG6uzOXqr_Ae3g0",
     "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "967a0514654c",
-    "title": "This App Makes Even the Sketchiest PDF or Word Doc Safe to Open",
-    "url": "https://www.wired.com/story/dangerzone-app-for-safe-pdfs-word-docs/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-03-31T11:00:00+00:00",
-    "summary": "When somebody sends you a document as an attachment, don't just open it. Use the free tool Dangerzone to scrub it clean of any malevolent code. Here's how it works.",
-    "image_url": "https://media.wired.com/photos/69c3de39667a0efa0564afd2/master/pass/032526_Gear-This%20App%20Makes%20Even%20the%20Sketchiest%20PDF%20or%20Word%20Doc%20Safe%20to%20Open.jpg",
-    "tags": [
-      "Gear",
-      "Gear / How To and Advice",
-      "software",
-      "how-to",
-      "security"
-    ],
     "industries": [
       "tech",
       "industrial"
@@ -1232,28 +1226,6 @@
     "relevance_score": 10
   },
   {
-    "id": "2cfa53c7250d",
-    "title": "AI Has Flooded All the Weather Apps",
-    "url": "https://www.wired.com/story/ai-has-flooded-all-the-weather-apps/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-03-31T13:00:00+00:00",
-    "summary": "Weather forecasting has gotten a big boost from machine learning. How that translates into what users see can vary.",
-    "image_url": "https://media.wired.com/photos/69c5a16aef09a65ca95d7cdb/master/pass/Gear_AI_IsHereForYourWeatherApp_2400x1350.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Apps",
-      "artificial intelligence",
-      "Apps"
-    ],
-    "industries": [
-      "media",
-      "tech"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "941c046e9d28",
     "title": "Combining Purpose with Platform: Inside Salesforce’s Pro Bono Fellowship",
     "url": "https://www.salesforce.com/blog/inside-salesforces-pro-bono-fellowship/",
@@ -1286,48 +1258,66 @@
     "relevance_score": 10
   },
   {
-    "id": "2bacdb6d758d",
-    "title": "Watch the newest commercials from King’s Hawaiian, Google Gemini, Michelob Ultra and more - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU1ljaEdNNzQxZ1kzTzBpby1nSjBSMXJHLXZYaFJwU1RaVF85YThUUHVfYXljM0F1NmV2Sk9xbldFTjduMzVxTGJGYm4wLU55dWpjcmFmdzgzcEFEQmUtQnBOY1ZpdnltYlExNkkxQVIwLWhEdHZPb2czUjhTRDNRNkI1UUpmdk9Obzlzd29uWnN2Z3lNUjZCbmYxdEQxR2ZvUmpnN0UxaE51RVZfZW44WWNHVXN0c1F4aVZ5NFVBYlV0WDJkenlfNWRCV1dTWDg?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-03-31T19:16:00+00:00",
-    "summary": "Watch the newest commercials from King’s Hawaiian, Google Gemini, Michelob Ultra and more Ad Age",
+    "id": "0b0b1daf0fe5",
+    "title": "Tesla Admits Its Robotaxis Are Sometimes Driven by Remote Humans",
+    "url": "https://www.wired.com/story/tesla-says-its-robotaxis-are-sometimes-driven-by-humans/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-03-31T17:00:00+00:00",
+    "summary": "The electric-car maker says it happens rarely and at speeds below 10 mph. But the disclosure—in response to a US senator's questions—occasioned a call for more transparency.",
+    "image_url": "https://media.wired.com/photos/69cad696a096b304782ee374/master/pass/Senator-Demands-More-Transparency-From-Humans-Behind-Self-Driving-Cars-Gear-2265246664.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Tesla",
+      "Self-Driving Cars",
+      "Autonomous Vehicles"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "3dbab4bd86bc",
+    "title": "Shaping the next Global Strategy on Digital Health (2028–2033): global stakeholder consultation - World Health Organization (WHO)",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOXdqNWZuR0NTaDVlU3piaFhCclBwRWpPV0tqU01mWkRGZnQ1by1OaTVYZTk5dTAxTjhBcG1BWDRLMUFRN3RsVkE0Z0F4cmNCTGd5MTlDcUVWX0lrcnpGbGFRd3A3WWpiRE1xTDJGekhxcWpvbXpsbzA2aTAzZlBYdDByYVRHZUp0SlBpRjhkLUd6U3RIRnFOVWE2Wm9JTkRpLTdWWnlUTER3WGFIMXNJMURFWU9adERLWFdQSUhkTm9TaWtZbnZBRktlREFzTnFzQWVEM21CSHowcXhkUTktQnZaM0N2U0V6QkMxUnU1S0p0M0cydl9laEVB?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-01T08:17:29+00:00",
+    "summary": "Shaping the next Global Strategy on Digital Health (2028–2033): global stakeholder consultation World Health Organization (WHO)",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "industrial"
+      "lifesciences"
     ],
     "relevance_score": 10
   },
   {
-    "id": "b493aad8dbf0",
-    "title": "Hackers slipped a trojan into the code library behind most of the internet. Your team is probably affected",
-    "url": "https://venturebeat.com/security/axios-npm-supply-chain-attack-rat-maintainer-token-2026",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-04-01T02:30:00+00:00",
-    "summary": "Attackers stole a long-lived npm access token belonging to the lead maintainer of axios , the most popular HTTP client library in JavaScript, and used it to publish two poisoned versions that install a cross-platform remote access trojan. The malicious releases target macOS,...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/uyrfLkDZ8g0lgackcQVnS/e0cb12e1e7988749e4ea84d1e77a9393/hero_axios.png?w=300&q=30",
-    "tags": [
-      "Security"
-    ],
+    "id": "46c365cb45da",
+    "title": "GFT Technologies Positioned as a Leader in the SPARK Matrix™: Insurance Digital Transformation Services, 2026 by QKS Group - The AI Journal",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQRVh6RGxaVlBJRW50TXZCU3B4aEEwLUdtUUF2bS1fSFg4Z3BEM3ZNMVBGamdqSFMyWDY5ck9YYnZqNVlDWFV1SWF0X2hZTHNITEtiNERtYzhRTDluMHZCb3lmeGx5OUQ5WklSc1FEODFPZnpjbzhETndyTF9ZLUVod1V6a2VVa2d4V2drOVo4U1l6aU83TmxHSEk4bkhzYm1Fczlid2lmSWhLZEtsMVFDY0JHT3FtbUlpclVIbDB6c3ladTlDMFBzVWZDV2pWNE9YZ1Y2Ymc3aw?oc=5",
+    "source": "Financial Marketing",
+    "source_category": "industry_financial",
+    "published": "2026-04-01T11:32:18+00:00",
+    "summary": "GFT Technologies Positioned as a Leader in the SPARK Matrix™: Insurance Digital Transformation Services, 2026 by QKS Group The AI Journal",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "tech",
-      "retail",
-      "industrial"
+      "financial"
     ],
     "relevance_score": 10
   },
   {
-    "id": "ce8edd06128d",
-    "title": "What Happened to the Fun Parts of Work? - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQYXhTaElLSTdkenhST2ROdHpsTXZnd0FOWHB1eGZ5WXNBZktmWVFMQTJGVlFHdWx3bDlMLWRneENDbnN6Z2tXRklPX2IyVVdvQmtUMkhJNkFVZEZ4QmZmaTlxTmVralBveTNLYkJ5Z0hlOVF5bmx1T0x1UVdIclJ6VHg3cVUtdkU2TEhBcHBjTFNaMVRCZ0JDWGNLWktVb0dkckNPRExVZWJqTk9iX2tqQkRkYW5fSUQ1LXFCTXJScnVvY3NFVGRtZGxpREdZNkJWM1A3Vmw5R084ZDdQRkw4Z08xYVExWm1WTDJWakJ6UXBDSFdSYnhmT2Z3OGp5U1VCY1dvZkFpZkdWV2RlYVVyOVV5MEJYZW1ySTVjUUlOdDRVMWJWZnlmUktxN2xPdjlmQVM3bTBVNVJkRk04OEpXNjd2MmktaUJFS081TXdSelZyOFdhZFMtNGVmQUhOSXVPcFJRNEtiMFdIcW4xMjhxazJsV3hCZzRwbFV6bHlwTFlLRzNySGVwZmVObVoxVjVZQTVr?oc=5",
+    "id": "6bced6b63305",
+    "title": "Apple Has Archives That Even Tim Cook Didn’t Know About. We Went Inside. - wsj.com",
+    "url": "https://news.google.com/rss/articles/CBMiqwNBVV95cUxPUm55cUhKWHFOR01UQkZRamRfN2NyS1lHTkNiZU0zckp1TGlmTzRXS181OURPa1FUR29uelpQYVdiSldlelJIaTYxMzVfZEFONUl5SGFmY3gzek54a0dueTdJcExPa1Z4dFpQNkNhN2tNWlpodXIxdzkxb1daMFBXWnNIOTVoc29DSWxvdzlfRnAyVFF4N1NFWEJySTBEQVpNdFpCenFtdm5EdFhYWHp4RzBSZEJnai1fOVp6anl1SV94SEtDNVA2eTdobnpMN0pOYWZ5TjlGSFMwOFd6aVdaT09BRGZ3YXlZMDFYS2NPS3pwd2xkLVVMN0RWMnRieEprcEE1aDRpdDAzVENhUUZZcEhXbU00TnZlV2E2SWU0elBtc2FROC1xVVZvLUl5Mlo5NzJzZmM5TmxsaEdRNEVtQ2JLeWZWRk1JMEdCVmsxeld0bmdfRDBWVVdPa0NMVGFjcG1hQnZyUGRMSzZLaTVyMTBoZVVQd3hNTGpFVWg5M1N1LVRrak5EWnB5UVpKbWlBUEtQeER5Ujdzd01OdTB4RDhzNngxaW5MS0RB?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-04-01T14:55:00+00:00",
-    "summary": "What Happened to the Fun Parts of Work? WSJ",
+    "published": "2026-04-01T16:00:00+00:00",
+    "summary": "Apple Has Archives That Even Tim Cook Didn’t Know About. We Went Inside. wsj.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1394,6 +1384,43 @@
     ]
   },
   {
+    "id": "cc16e0696ded",
+    "title": "Tech nonprofit sues CMS over Medicare AI prior authorization pilot",
+    "url": "https://www.healthcaredive.com/news/electronic-frontier-foundation-sues-cms-medicare-ai-prior-authorization-wiser/816087/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-03-30T14:44:37+00:00",
+    "summary": "The Electronic Frontier Foundation is seeking more information on the government’s agreements with participating vendors, along with records related to any evaluations on accuracy, bias or hallucinations in their technology.",
+    "image_url": "https://imgproxy.divecdn.com/8tDp3FYimw6iTRRiXKf-eSGSrRz7cw3R4sIG7Xb0iAs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDA3OTAwMjY2LmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 9,
+    "also_covered_by": [
+      "Fierce Healthcare"
+    ]
+  },
+  {
+    "id": "22ab3ff2d707",
+    "title": "As more Americans adopt AI tools, fewer say they can trust the results",
+    "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-03-30T20:24:53+00:00",
+    "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+    "tags": [
+      "AI",
+      "AI trust",
+      "quinnipiac university"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "e2bfbe43fcf7",
     "title": "HHS reverses Biden-era tech reorganization, returns ONC name",
     "url": "https://www.healthcaredive.com/news/hhs-reverses-biden-technology-reorganization-onc/816221/",
@@ -1409,35 +1436,36 @@
     "relevance_score": 9
   },
   {
-    "id": "df7a15c1ed4a",
-    "title": "OpenAI Closes Silicon Valley’s Largest-Ever Funding Round - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMingNBVV95cUxOcFIwWmxWTzdOREZyWUZ0aklzdEJSSEdjQW1aeE5PeUxhbVhNN05GTklKNW1lOGY1NVBBNEhLbFQxTzJfTS1PSHo5WDRTT2dNZlMzZ0FYQWVaYmFENUhSd3A3Yl9XUlZKTl9ZYUhIWnhDWE1oMUVFOVVYNmhUMUZydnVKZm9iODRpcjZCS0o1YjUtSW9FSkpOMW9hVjNJWEZHVjFpM2wyN1drZzI5N1VfM2xTRVpjZndFV2d4TzhnSC1ON0FhX2NmckxKNjlGYnBnUm9KYnFmS1l0XzNJUFdmSlF4MWRXU2pHZFlWRjRLLWlVOGZWNjU3SnYwZFNKTHFtMXNYMFR3QlloakNMeG9fUVhVYkV4VXh4dnF6SWlPNjMxN2haQzB6QVpSNlZ3bDlkcUF2cjJfWDBWbHZPSnk3bGhEbHRZbTNZU2tMMnhsTHZtMDJpMS1WcDhCQW9DZ3E1WTRxWUdrOEdMZ2djeGVqTGVmTHJydk9kTmdxU3NmbW1LbXBzWXFtb0lyenNRVURYYjN3MnpBVlBLb0VFbHc?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-03-31T21:09:00+00:00",
-    "summary": "OpenAI Closes Silicon Valley’s Largest-Ever Funding Round WSJ",
-    "image_url": null,
-    "tags": [],
+    "id": "b493aad8dbf0",
+    "title": "Hackers slipped a trojan into the code library behind most of the internet. Your team is probably affected",
+    "url": "https://venturebeat.com/security/axios-npm-supply-chain-attack-rat-maintainer-token-2026",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-04-01T02:30:00+00:00",
+    "summary": "Attackers stole a long-lived npm access token belonging to the lead maintainer of axios , the most popular HTTP client library in JavaScript, and used it to publish two poisoned versions that install a cross-platform remote access trojan. The malicious releases target macOS,...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/uyrfLkDZ8g0lgackcQVnS/e0cb12e1e7988749e4ea84d1e77a9393/hero_axios.png?w=300&q=30",
+    "tags": [
+      "Security"
+    ],
     "industries": [
       "tech",
+      "retail",
       "industrial"
     ],
     "relevance_score": 9
   },
   {
-    "id": "864db3d69a47",
-    "title": "Europe’s Fixed Wireless Access Boom Is Reshaping the Future of Broadband - vocal.media",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdnhiTlR5MTY4RHN3RFZFOTFBRFBVZzFpM2JUem1LLW5LSnAtb3JvVUNUSDN4aHF6d2dGNUpLWmV4bTQ1a2o1Z1NHcDU0Wmx0bjhxV21Uc0hDb0Jkckxka0JfS3BpdWZnVUphT1FNQWlRUi15bVhGX0RrS1lXN2owUmdrNTJnWEFwdHdQZ1dEV3ZvRW9LNnFkalVDdEk4UnFv?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-04-01T10:28:18+00:00",
-    "summary": "Europe’s Fixed Wireless Access Boom Is Reshaping the Future of Broadband vocal.media",
+    "id": "25fe488937ae",
+    "title": "What Happened to the Fun Parts of Work? - wsj.com",
+    "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQMEl0ck82R2c1ckhaUm96cDZQY0k1Mm5pbHdTbXdybmxNOGhOSXU0dEh1c3NoMzExLTgyYzZIZUk5aGJTb1E5c0Q3ZFkxOHhhbVIxX2hhQWZ0bVJMSHh6RmpPN1N4bmswaFZDYkVBbl9kZ0U2UXUzTHA2dTRDTWMtdWhBeG1rS2Q5TEVUMmkwX0JOd1F3T3JoQ0VYX3BuX25ESlpmb1U2bmxMMHRNcC1neWxhenJyWjVBTGhna1RSWmF0SmYtUEZSc0JPa3JUMnk1R3ZIVWVHVUdnVlBTVWJHZUtHRGVqYlFmdW9pdnI3VzNhUWZpZXpMNVVPMzBSb1NPQ21HVmpkTDN6WW5MRklVX09QR1EyclkzTXdreVIxQmJ3TlVBVV96QzRDdlBTX1FrdG9ZNktZelJfOFg3VDBfN2pCNHR0bWRxOEFTZm9hMzVLUy10aXlITFMyWlQ3aEc0RjdmdVRDZ3E2Y3FwVVVWUUJmN0tWcW9QVmxna1hYblh5RWxJNzBaTEUwWWZHY1FBR3Fv?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-04-01T14:55:00+00:00",
+    "summary": "What Happened to the Fun Parts of Work? wsj.com",
     "image_url": null,
     "tags": [],
     "industries": [
-      "media",
-      "tech",
-      "telecom"
+      "tech"
     ],
     "relevance_score": 9
   },
@@ -1492,21 +1520,6 @@
     "relevance_score": 8
   },
   {
-    "id": "f1135c7705b1",
-    "title": "Adobe Commerce on Cloud: Continuous enhancements and support | Adobe Australia - Adobe for Business",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOdmd2YmVaUlFTcVZmQzl2ZDNmZURXQ2U3RUlDTVhaNHhUa1pzNHVzNEJ2WHZSRkhTY1J5Yy1waUFDdm9zXzh4S25WblJZUGVxNll2SzM2TFZQMzkwMDIyZnoyTnhFNkUtVkNvcE5rczVvOFY4Ym1Qc0pOcnBlZ2lGenVVS24yU3B3YWV6bHZsQjk?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-03-31T09:54:08+00:00",
-    "summary": "Adobe Commerce on Cloud: Continuous enhancements and support | Adobe Australia Adobe for Business",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "af3f4f7210fe",
     "title": "Claude Code's source code appears to have leaked: here's what we know",
     "url": "https://venturebeat.com/technology/claude-codes-source-code-appears-to-have-leaked-heres-what-we-know",
@@ -1521,6 +1534,39 @@
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "2bacdb6d758d",
+    "title": "Watch the newest commercials from King’s Hawaiian, Google Gemini, Michelob Ultra and more - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPU1ljaEdNNzQxZ1kzTzBpby1nSjBSMXJHLXZYaFJwU1RaVF85YThUUHVfYXljM0F1NmV2Sk9xbldFTjduMzVxTGJGYm4wLU55dWpjcmFmdzgzcEFEQmUtQnBOY1ZpdnltYlExNkkxQVIwLWhEdHZPb2czUjhTRDNRNkI1UUpmdk9Obzlzd29uWnN2Z3lNUjZCbmYxdEQxR2ZvUmpnN0UxaE51RVZfZW44WWNHVXN0c1F4aVZ5NFVBYlV0WDJkenlfNWRCV1dTWDg?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-03-31T19:16:00+00:00",
+    "summary": "Watch the newest commercials from King’s Hawaiian, Google Gemini, Michelob Ultra and more Ad Age",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "864db3d69a47",
+    "title": "Europe’s Fixed Wireless Access Boom Is Reshaping the Future of Broadband - vocal.media",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdnhiTlR5MTY4RHN3RFZFOTFBRFBVZzFpM2JUem1LLW5LSnAtb3JvVUNUSDN4aHF6d2dGNUpLWmV4bTQ1a2o1Z1NHcDU0Wmx0bjhxV21Uc0hDb0Jkckxka0JfS3BpdWZnVUphT1FNQWlRUi15bVhGX0RrS1lXN2owUmdrNTJnWEFwdHdQZ1dEV3ZvRW9LNnFkalVDdEk4UnFv?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-04-01T10:28:18+00:00",
+    "summary": "Europe’s Fixed Wireless Access Boom Is Reshaping the Future of Broadband vocal.media",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "telecom"
     ],
     "relevance_score": 8
   },
@@ -1543,12 +1589,12 @@
   },
   {
     "id": "fba4a36598fa",
-    "title": "Marquis Who's Who Honors Michael Iglesias for Excellence in Digital Health Technology - 24-7 Press Release Newswire",
+    "title": "Marquis Who's Who Honors Michael Iglesias for Excellence in Digital Health Technology - 24-7pressrelease.com",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOS1BVLVNDWGRPeHR5NWJuUzdmYkdGQ18xTlRRalB4QkFYcGhLemNvUlB3OGFYSnFlY3NjVi1mWDh1eHJhZVlSWFJxempJUGs1TXJIM0UzU0lFRGhkbk50TGVWbG5TZXQwMFJOeHV3Y19WQnRyUGRFZkpQcGVLVjdqZUtWa3ZXM1lzWF96cVpEVTI5aC05dHNuOUZ4aDgwR2VmNnNxZWlvcHNRcTh1VHA3MlZFd09DS0xGWms0U084UmJLVXhRRnpGenYtNVYwdXpJbE00bw?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
     "published": "2026-03-30T07:04:24+00:00",
-    "summary": "Marquis Who's Who Honors Michael Iglesias for Excellence in Digital Health Technology 24-7 Press Release Newswire",
+    "summary": "Marquis Who's Who Honors Michael Iglesias for Excellence in Digital Health Technology 24-7pressrelease.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1574,30 +1620,13 @@
     "relevance_score": 7
   },
   {
-    "id": "24fad8fe006a",
-    "title": "FDA approves higher dose of Biogen's drug for genetic muscle-wasting disease - medwatch.com",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBIX185ZmRSM2d1eG9hOEd3ZUI5OTZJYXhCZU04emRyM1dSaTJHREtMeXdCZzA3Wlg3X1JraU1OeE1RNG1kUVBOWE5rTkR4bHl0QlpSRlRjV01JdU9kY0lydXMxQ0IyY0pYZmVMRGpRQQ?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-03-31T09:30:00+00:00",
-    "summary": "FDA approves higher dose of Biogen's drug for genetic muscle-wasting disease medwatch.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 6
-  },
-  {
     "id": "1087ed788d3a",
-    "title": "How to Approach Wells Fargo Stock Now as the Fed Keeps Rates Steady? - TradingView",
+    "title": "How to Approach Wells Fargo Stock Now as the Fed Keeps Rates Steady? - tradingview.com",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQVEpvY0d1VUVLYnV5eTBROW1MS1JhQWh5VGJuanlabS1CUkl6bkpnRmdEUWhqSjc1LS1BaDV1QzVXRUx1SURuYy1sTDg2d0RxZkE3dDBGN1d2bVhpQS1VR2RnSUhmbDE2a0YxMm4zb0xlY1ZzX1NLdndsYlRGbHBrT1Q2eEZscE9ET3pRQ1hMYm82QmxONXJBaXQyaDI4ZVdOWDVjcWQzUDdtbnczWXVVTVZZMVhvVk9HRHRGRHFGV3g?oc=5",
     "source": "Banking",
     "source_category": "industry_financial",
     "published": "2026-03-31T12:45:00+00:00",
-    "summary": "How to Approach Wells Fargo Stock Now as the Fed Keeps Rates Steady? TradingView",
+    "summary": "How to Approach Wells Fargo Stock Now as the Fed Keeps Rates Steady? tradingview.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1640,12 +1669,12 @@
   },
   {
     "id": "23d1af3d0eaf",
-    "title": "FDA approves first gene therapy for rare pediatric immune disorder - News-Medical",
+    "title": "FDA approves first gene therapy for rare pediatric immune disorder - news-medical.net",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQQlg5SlhjRE81SGtYT1NpNXVrcnF4MUpfTDAxRERURmxnaDJBMUUtdFB0QmdfTXF2MGtMWDlVMnByMFNQcHpSQS0yT08zRXJiNTVQQWlRY2RVY0lSY2tFOEdpaFN3UGFyMncwQ2x4MU5EMUpzeDg3OS1ZUjJFWG5aamRPdEhMNi1HUmlrS3c3anFWdW5sWDVYaldTd2RORW1SQl8tdnY3UEQxdC1hMldfbGlqMGI?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
     "published": "2026-03-27T19:29:00+00:00",
-    "summary": "FDA approves first gene therapy for rare pediatric immune disorder News-Medical",
+    "summary": "FDA approves first gene therapy for rare pediatric immune disorder news-medical.net",
     "image_url": null,
     "tags": [],
     "industries": [
