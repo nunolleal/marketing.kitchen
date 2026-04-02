@@ -39,24 +39,6 @@
     "relevance_score": 47
   },
   {
-    "id": "bcabc30255a5",
-    "title": "As programmatic faces signal degradation, agentic advertising offers a solution",
-    "url": "https://digiday.com/sponsored/as-programmatic-faces-signal-degradation-agentic-advertising-offers-a-solution/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-04-01T15:19:29+00:00",
-    "summary": "Vlad Stesin, CEO, Optable Traditional programmatic, the process of holding a 100-millisecond auction between the buyers and sellers of digital media, is wearing thin, but the infrastructure didn’t break overnight. For years now, fragmentation, privacy shifts and signal noise...",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/04/robot-hand-digiday.webp",
-    "tags": [
-      "Sponsored"
-    ],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 47
-  },
-  {
     "id": "de7f801b2294",
     "title": "April Fools’ Day 2026: the best and cringiest pranks",
     "url": "https://www.theverge.com/tldr/904346/april-fools-day-2026-pranks-jokes-best-worst",
@@ -75,6 +57,24 @@
       "consumer"
     ],
     "relevance_score": 46
+  },
+  {
+    "id": "bcabc30255a5",
+    "title": "As programmatic faces signal degradation, agentic advertising offers a solution",
+    "url": "https://digiday.com/sponsored/as-programmatic-faces-signal-degradation-agentic-advertising-offers-a-solution/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-04-01T15:19:29+00:00",
+    "summary": "Vlad Stesin, CEO, Optable Traditional programmatic, the process of holding a 100-millisecond auction between the buyers and sellers of digital media, is wearing thin, but the infrastructure didn’t break overnight. For years now, fragmentation, privacy shifts and signal noise...",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/04/robot-hand-digiday.webp",
+    "tags": [
+      "Sponsored"
+    ],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 44
   },
   {
     "id": "30392886201e",
@@ -200,16 +200,16 @@
     "industries": [
       "media"
     ],
-    "relevance_score": 25
+    "relevance_score": 22
   },
   {
     "id": "9a216127d3eb",
-    "title": "Tracking ad agency account reviews—the latest on brand creative, media and more - Ad Age",
+    "title": "Tracking ad agency account reviews—the latest on brand creative, media and more - adage.com",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQbGltdFQ0SkFXbTFyU1MxbDJBRG0yRWRtTDA0SldTdzV0UmY1b0hjTWpFcFlBaV9IT2loV1Zocm90eEplUXdBNHZsUDVYOWM2X0hZN2Z4WTAxUmhRY1hjQk9McDBveERpX0x5X196QlJJNkw0a1U5eFlyR05iZ1JGaVhpNUIyT0JNblYwTEFzY284RkN5VlBvMkhwbG1UWXJ3YjFZa296Ql9JNWQwSXdTT0t3?oc=5",
     "source": "Ad Age",
     "source_category": "marketing",
     "published": "2026-03-30T07:00:00+00:00",
-    "summary": "Tracking ad agency account reviews—the latest on brand creative, media and more Ad Age",
+    "summary": "Tracking ad agency account reviews—the latest on brand creative, media and more adage.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -217,16 +217,16 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 23
+    "relevance_score": 20
   },
   {
     "id": "bcca11e8ab95",
-    "title": "Social Media and Youth Mental Health: Does More Use Always Mean More Harm? - Yale School of Medicine",
+    "title": "Social Media and Youth Mental Health: Does More Use Always Mean More Harm? - medicine.yale.edu",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNUGt2VElzX05xT0FtZ3Bic1cxVmpEa1BlNVRqQlJjRUg3UVZBRThyYUMwdDgtWWRrenBQTDVYNFFlNEhnbDNzV1M1MWxRWXRSQTJWdlBkcGYtbkM2OUl2V1Fad1lGMmdhZlY2Q3RnVzJCVGRMUHRPNHBWa19TQ1ZwYVFn?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
     "published": "2026-03-30T19:54:40+00:00",
-    "summary": "Social Media and Youth Mental Health: Does More Use Always Mean More Harm? Yale School of Medicine",
+    "summary": "Social Media and Youth Mental Health: Does More Use Always Mean More Harm? medicine.yale.edu",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -251,7 +251,23 @@
       "media",
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
+  },
+  {
+    "id": "d1e10f01cea6",
+    "title": "Omnicom Launches Global Adobe Practice Under Credera, Integrates LeapPoint - MediaNews4U",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNX29uczFrYndJTjdJQS1lSUwzUTYwOV9sMWhfM2xSNFBpWnNLbWdRdi1zWm50My1PNTdCYnFJdnMtdGRmYTZ3QTk5TnQtYmcycE54dXpOZzAzckhWS0lKajBGY2paOFk5VVFOZVlwZk0tbVczc2t1cFU0RUJOYVRKdGZuOGQwWDlkSGJadmx6T19kNjdwWFgwM19WLU4tLWJ3a0k0Sw?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-04-02T06:17:00+00:00",
+    "summary": "Omnicom Launches Global Adobe Practice Under Credera, Integrates LeapPoint MediaNews4U",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "tech"
+    ],
+    "relevance_score": 17
   },
   {
     "id": "9f9d032783cc",
@@ -269,29 +285,7 @@
       "media",
       "industrial"
     ],
-    "relevance_score": 17
-  },
-  {
-    "id": "9278b68dbc27",
-    "title": "Stage Is Set For ‘EPiC: Elvis Presley In Concert’ Streaming Release, Report Says",
-    "url": "https://www.forbes.com/sites/timlammers/2026/04/01/stage-is-set-for-epic-elvis-presley-in-concert-streaming-release-report-says/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-04-01T17:54:54+00:00",
-    "summary": "\"EPiC: Elvis Presley in Concert,\" director Baz Luhrmann’s acclaimed concert documentary, is reportedly coming soon to digital streaming.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69cd58e55825039a81ed4036/0x0.jpg?width=960",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 15
+    "relevance_score": 16
   },
   {
     "id": "e3d85415a2dc",
@@ -403,22 +397,6 @@
     "relevance_score": 12
   },
   {
-    "id": "1ed9f25ddb1a",
-    "title": "Wall Street Analysts Predict a 29.83% Upside in The Beachbody Company (BODI): Here's What You Should Know - qz.com",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM0NTUmw2RnN3b1dDQkVDeUZYUHFTQXB0bF8xMkcwakJESnhyaTVoOW96NkxISFQ4VFRNakhmRTdvdU9id3FNNmdXYU91X2FjUm9aUzlQcmpGTkxvVjBkUFNCMWZla1NlVUxSa0ZvU1Z2bThrMlAxZWlpYlRuT09ZbndCaEpJa3BDNmdVSHg5Y19iTGJtd0Fndmdia0hiNWtyZGJPb24yWGNxNVFOZ0czS0FYdlZEbms?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-04-02T00:04:58+00:00",
-    "summary": "Wall Street Analysts Predict a 29.83% Upside in The Beachbody Company (BODI): Here's What You Should Know qz.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "financial"
-    ],
-    "relevance_score": 12
-  },
-  {
     "id": "0e6ac65ee40e",
     "title": "Mike’s Hard Lemonade looks to win over Gen Z with animated lemons",
     "url": "https://www.marketingdive.com/news/mikes-hard-lemonade-looks-to-win-over-gen-z-with-animated-lemons/816212/",
@@ -455,6 +433,22 @@
     "relevance_score": 11
   },
   {
+    "id": "1ed9f25ddb1a",
+    "title": "Wall Street Analysts Predict a 29.83% Upside in The Beachbody Company (BODI): Here's What You Should Know - qz.com",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNM0NTUmw2RnN3b1dDQkVDeUZYUHFTQXB0bF8xMkcwakJESnhyaTVoOW96NkxISFQ4VFRNakhmRTdvdU9id3FNNmdXYU91X2FjUm9aUzlQcmpGTkxvVjBkUFNCMWZla1NlVUxSa0ZvU1Z2bThrMlAxZWlpYlRuT09ZbndCaEpJa3BDNmdVSHg5Y19iTGJtd0Fndmdia0hiNWtyZGJPb24yWGNxNVFOZ0czS0FYdlZEbms?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-04-02T00:04:58+00:00",
+    "summary": "Wall Street Analysts Predict a 29.83% Upside in The Beachbody Company (BODI): Here's What You Should Know qz.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "financial"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "2d4b5c67c521",
     "title": "Japan Telecom Cloud Market Size, Share and Growth Forecast 2026-2034 - vocal.media",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPZ2pRYmYxQm5ueXVkbkMtS0JWcG9kLXJxb2xKQ0pCWHFzMGQ1SnRXRUtOUlVSWTFkZ2xDQkpOcktvdDgtRWg0QklycjlFSzBudGJidzVJNEZTcHh5U3JMTHdERVVsOEkxdWJBa2xsNVE2R2lGSDZQeUVFRzF1UjRQQjA2QlJIQzR1dXhreVYyaWhzR1dj?oc=5",
@@ -469,24 +463,10 @@
       "tech",
       "telecom"
     ],
-    "relevance_score": 10
-  },
-  {
-    "id": "c1e7fc9b7868",
-    "title": "Abbott’s Whoop Investment Puts Digital Health Wearables On Shareholders’ Radar - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUDhYeXBMSkNfbjczS0xzX1NieUFacjR0ZklMejlKSHUzeGdldDNYMzRPUDBnZzU5dkNBamx0aTZVZDNPWUJJNWJHWExRS0dMUGltSjBkbFF6OUxfTmJxWXczQklUMWphNHNOOFNvUEtLSEltenVzRHRIeWNocGlQVnVqbVBhN0RhMTJwZGJhOG55QjJwaW1JUWFiM3BDODB6R2prU3ZnM0w?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-02T02:11:00+00:00",
-    "summary": "Abbott’s Whoop Investment Puts Digital Health Wearables On Shareholders’ Radar Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "lifesciences",
-      "financial"
-    ],
-    "relevance_score": 10
+    "relevance_score": 10,
+    "also_covered_by": [
+      "Financial Marketing"
+    ]
   },
   {
     "id": "5af79d4cce02",
@@ -506,29 +486,30 @@
     "relevance_score": 9
   },
   {
-    "id": "6e37a57f8d4b",
-    "title": "Philippines Bancassurance Market 2026: Bank-Insurance Partnerships, Digital Distribution & Financial Inclusion - vocal.media",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa2UwQTh2bjFkU1RyUlFXeW9kb1pYZ25MS204SmY2dW1OTm0xaVB2NnMwZXQ5UFQzUWhxYWp2bGpFY3BDeF95RE85VWZUX0MzQnFDOGVMbDFmVXZPdHAtWnRFYkJia0JDcXV5Ym1FTU92aFY5UWFtLWVBZjBtNGZJV2x2b29hbTJrMWV1RDhCZFBxYzBDMEl5U2VjLUxwSUZBamF3Y2E3VG1ycWlZOFczT1oyUFB3S3NiLW11ektsX2N3UGhjT01JeTUzM1pycUYtMjZF?oc=5",
-    "source": "Financial Marketing",
-    "source_category": "industry_financial",
-    "published": "2026-03-26T06:48:53+00:00",
-    "summary": "Philippines Bancassurance Market 2026: Bank-Insurance Partnerships, Digital Distribution & Financial Inclusion vocal.media",
+    "id": "c1e7fc9b7868",
+    "title": "Abbott’s Whoop Investment Puts Digital Health Wearables On Shareholders’ Radar - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNUDhYeXBMSkNfbjczS0xzX1NieUFacjR0ZklMejlKSHUzeGdldDNYMzRPUDBnZzU5dkNBamx0aTZVZDNPWUJJNWJHWExRS0dMUGltSjBkbFF6OUxfTmJxWXczQklUMWphNHNOOFNvUEtLSEltenVzRHRIeWNocGlQVnVqbVBhN0RhMTJwZGJhOG55QjJwaW1JUWFiM3BDODB6R2prU3ZnM0w?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-02T02:11:00+00:00",
+    "summary": "Abbott’s Whoop Investment Puts Digital Health Wearables On Shareholders’ Radar Yahoo Finance",
     "image_url": null,
     "tags": [],
     "industries": [
       "media",
+      "lifesciences",
       "financial"
     ],
-    "relevance_score": 7
+    "relevance_score": 9
   },
   {
     "id": "9c4ca4c679a3",
-    "title": "NewFronts 2026—how media buyers are responding to platform pitches - Ad Age",
+    "title": "NewFronts 2026—how media buyers are responding to platform pitches - adage.com",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPbUVib18wcjBnSEhoUjZWVUdWbXVfOHQwbncxNWxRNG9ZNlhnNlVhWnlrYWl6LVI0d3JnZXlPYVVualBLd0M1TklVb0ZtS3Z1VHQtSXFfTlNoekFWVEZ2d3BSUFk0MFl5YURwSzJsNjFlYWZhTjFCRW9BMmw3RWsycGFVMA?oc=5",
     "source": "Ad Age",
     "source_category": "marketing",
     "published": "2026-03-27T16:08:00+00:00",
-    "summary": "NewFronts 2026—how media buyers are responding to platform pitches Ad Age",
+    "summary": "NewFronts 2026—how media buyers are responding to platform pitches adage.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -573,9 +554,9 @@
     "relevance_score": 6
   },
   {
-    "id": "c050b167627d",
+    "id": "62214bf1cc46",
     "title": "Exclusive | Netflix, Eager for More NFL, Is Looking at a Four-Game Package - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxNOXFhTUZPZHkzLUl3dFQyTVVubHZaaVhOZVBDLS00OC1yZ1ZQdC1rUDBlRVI0aEwwY3kxTkxKYWdTcXZVME5NcVBrN05RU1VyRHdhNEhsTVZlUDhaN1Q1c0Y0MVFUN0tfWHdPUlpZNi1maUlsWUtvV1BPZmJ1YW5HbC1vck9TSG5fSVdkdGJWQ2lRVk5kY2Z6Z3lWeEZhRmNFam82dzNZSWl4aEJWRkl3UHdGQ3pfNGdBSXR1Wm9pbC1BR0hrVnUxaWJBTHlRTm5vNnBLbk5FUC1NRzMyWnROU0p6TjBselE5N192bDgyUmVDRkw4dmdIRl94REw0bTdlM08zNzE3ekhtRG05ZG1jWHJzS0tNblAtbmdwakRTUTZGQk8zNENkZ283WlNPWGY5S3Nyd1ZHSkQ5XzR0UWxISHNZcG9SQ3VUa0xxaTRGVlp2N0VYTmlLMERTRzVkcjhnbGZBZmpfOG4wTk1NNmhkZXhZdmE2cXVBem92VGUzOTZyZ25fYXFTemlnYmk0NDdhNmhUdm9kS215anJzaFVMbkxSTlJHbmZmdi1RUQ?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMirANBVV95cUxQR00yMG1XaVBqc0tsY2JHbGpURVpUXzlNRGpLNHRDTFA3eHhST0d4UEFEaTZkck1iUHV0UjNVY3FNc3ptMmtqMUdrTUcxb0FTT2VhZGF0cDZuQ0pCRWR5SzRESUV5aWtodXB4UVdGNm15WHNXc1dwM3dxeXRGTVU1OGxybXlLbmprMjhTZ2w1T2ZPemNGU3dnNndkQko1NTJ5NVBOSHVRN250R2puQjU5THBBQkZCck1rdjl0aFNIbWZJS3h6b1M1aUF2UkFDcEVRb1JndHc3R0RJYTdxX1czRFdTaW9wa1piY21ETWdPdjhTaWlSdWNxeExXbDVkR28tajVGWlRPcjdNU3k1SVRqTGJfazg1M0lhU251YVh4Uk9aaDM3T3dnQ2Q1V3pkV3RPMUd6V2FnUHJYTlFoUnlKQ1FYUHZURENEV0ZSNXVsd2NfOFNpLTNKNm9FU1FDYjVnM0lfaEFwOVpDUlp1SGp4c3VNWW9NZmdoakJVeENqSURFeWZoRV9qMlRtQTZuVHNIZE80eFBOem55TUxIbW0ydEVZaVVyYThXY1psOQ?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
     "published": "2026-03-30T20:20:00+00:00",
