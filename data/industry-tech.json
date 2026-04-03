@@ -17,7 +17,7 @@
       "media",
       "tech"
     ],
-    "relevance_score": 65
+    "relevance_score": 62
   },
   {
     "id": "1c3059fb7886",
@@ -37,7 +37,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 59
+    "relevance_score": 56
   },
   {
     "id": "814d9f3e156d",
@@ -55,7 +55,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 56
+    "relevance_score": 53
   },
   {
     "id": "07c9358e7aac",
@@ -93,21 +93,6 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 52
-  },
-  {
-    "id": "1bff2a595a23",
-    "title": "Home Depot sets sights on AI with CTO appointment",
-    "url": "https://www.retaildive.com/news/home-depot-ai-cto-appointment/816409/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-04-02T15:00:00+00:00",
-    "summary": "Franziska Bell will join the home improvement company to lead an AI-driven tech strategy that's focused on customer experience and operational efficiency.",
-    "image_url": "https://imgproxy.divecdn.com/AQ6u0J93bbCSB8NftHZbeqFpYbpyBs96Ukg0Qy8BBfU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI2MDU0NzA0LmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
     "relevance_score": 49
   },
   {
@@ -129,25 +114,6 @@
     "relevance_score": 48
   },
   {
-    "id": "bbd1141bf9fe",
-    "title": "Fenty Beauty launches WhatsApp AI advisor as messaging becomes beauty’s next commerce channel",
-    "url": "https://digiday.com/marketing/fenty-beauty-launches-whatsapp-ai-advisor-as-messaging-becomes-beautys-next-commerce-channel/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-04-02T16:01:00+00:00",
-    "summary": "The experience allows users to chat directly with the brand in Whatsapp to get product recommendations, tutorials and reviews.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/02/Copy-of-podcast-listening-1.webp",
-    "tags": [
-      "Marketing"
-    ],
-    "industries": [
-      "tech",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 48
-  },
-  {
     "id": "5740d6f61aeb",
     "title": "Hightouch streamlines the ad ecosystem with data partnerships",
     "url": "https://martech.org/hightouch-streamlines-the-ad-ecosystem-with-data-partnerships/",
@@ -159,6 +125,27 @@
     "tags": [
       "Customer data platform (CDP)",
       "Digital advertising"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 47
+  },
+  {
+    "id": "418982c04c85",
+    "title": "PSA: Anyone with a link can view your Granola notes by default",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/906253/granola-note-links-ai-training-psa",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-04-02T21:56:16+00:00",
+    "summary": "If you use the AI-powered note-taking app Granola, you might want to double-check your privacy settings. Though Granola says your notes are \"private by default,\" it makes them viewable to anyone with a link, and also uses them for internal AI training unless you opt out....",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/granola-logo.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "tags": [
+      "AI",
+      "Apps",
+      "News",
+      "Security",
+      "Tech"
     ],
     "industries": [
       "tech"
@@ -183,6 +170,21 @@
       "tech",
       "consumer",
       "industrial"
+    ],
+    "relevance_score": 46
+  },
+  {
+    "id": "1bff2a595a23",
+    "title": "Home Depot sets sights on AI with CTO appointment",
+    "url": "https://www.retaildive.com/news/home-depot-ai-cto-appointment/816409/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-04-02T15:00:00+00:00",
+    "summary": "Franziska Bell will join the home improvement company to lead an AI-driven tech strategy that's focused on customer experience and operational efficiency.",
+    "image_url": "https://imgproxy.divecdn.com/AQ6u0J93bbCSB8NftHZbeqFpYbpyBs96Ukg0Qy8BBfU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMDI2MDU0NzA0LmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 46
   },
@@ -225,6 +227,25 @@
       "media",
       "tech",
       "retail",
+      "industrial"
+    ],
+    "relevance_score": 45
+  },
+  {
+    "id": "bbd1141bf9fe",
+    "title": "Fenty Beauty launches WhatsApp AI advisor as messaging becomes beauty’s next commerce channel",
+    "url": "https://digiday.com/marketing/fenty-beauty-launches-whatsapp-ai-advisor-as-messaging-becomes-beautys-next-commerce-channel/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-04-02T16:01:00+00:00",
+    "summary": "The experience allows users to chat directly with the brand in Whatsapp to get product recommendations, tutorials and reviews.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/02/Copy-of-podcast-listening-1.webp",
+    "tags": [
+      "Marketing"
+    ],
+    "industries": [
+      "tech",
+      "consumer",
       "industrial"
     ],
     "relevance_score": 45
@@ -342,23 +363,49 @@
     "relevance_score": 36
   },
   {
-    "id": "f22630a04923",
-    "title": "YouTube Reveals Upfront Event Details, Including Trevor Noah and Chappell Roan",
-    "url": "https://www.adweek.com/convergent-tv/youtube-upfront-event-details-including-trevor-noah-and-chappell-roan/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-04-01T09:00:00+00:00",
-    "summary": "YouTube Brandcast 2026 takes place on Wednesday, May 13.",
-    "image_url": null,
+    "id": "fc4c2c3b6b84",
+    "title": "The Google Pixel 10 Is $150 Off",
+    "url": "https://www.wired.com/story/pixel-10-deal-3426/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-04-02T20:50:18+00:00",
+    "summary": "Amazon marks Google's flagship down to just $650 for 128 GB or $750 for 256 GB.",
+    "image_url": "https://media.wired.com/photos/69cebdd42315e7eadb9a416d/master/pass/The-Google-Pixel-10-Is-$150-Off.jpg",
     "tags": [
-      "General",
-      "TV Upfronts"
+      "Gear",
+      "Gear / Deals",
+      "Gear / Products",
+      "Gear / Products / Phones",
+      "Google"
     ],
     "industries": [
       "tech",
-      "consumer"
+      "retail"
     ],
-    "relevance_score": 34
+    "relevance_score": 17
+  },
+  {
+    "id": "dd7b4af937a9",
+    "title": "The best AirPods deals you can get right now",
+    "url": "https://www.theverge.com/21302051/best-apple-airpods-deals",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-04-02T21:19:13+00:00",
+    "summary": "If you know where to look, you can often score deals on Apple’s ever-expanding AirPods lineup. Both the AirPods Pro 3 and the AirPods 4 (with and without ANC) now consistently receive discounts, as do the AirPods Pro 3. And while major shopping events like Black Friday and...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268418_Apple_AirPods_Max_2_AKrales_0086.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Apple",
+      "Deals",
+      "Gadgets",
+      "Headphones",
+      "Tech"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 17
   },
   {
     "id": "6c7c1d3fdaea",
@@ -377,48 +424,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 17
-  },
-  {
-    "id": "5b9a305218b7",
-    "title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
-    "url": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-04-02T17:00:00+00:00",
-    "summary": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.",
-    "image_url": "https://media.wired.com/photos/69cc30f8d49844d66356c85d/master/pass/Model-Behavior-Cursor-Build-Own-AI-Business%202%20(0-00-07-17).jpg",
-    "tags": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Model Behavior",
-      "artificial intelligence",
-      "agentic AI"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 17
-  },
-  {
-    "id": "a401c9f82bdb",
-    "title": "OpenAI just bought TBPN",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/906022/openai-buys-tbpn",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-04-02T17:40:07+00:00",
-    "summary": "OpenAI has purchased TBPN, an online talk show that often interviews AI executives and other tech leaders. The show goes live every weekday at 2PM PT, often for a three-hour duration, counting OpenAI CEO Sam Altman, as well as executives from Meta, Microsoft, Palantir, and...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/STK155_OPEN_AI_CVirginia__C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "AI",
-      "News",
-      "OpenAI"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "67a7a1831bf4",
@@ -439,7 +445,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "612489e10607",
@@ -460,143 +466,11 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 17,
+    "relevance_score": 16,
     "also_covered_by": [
       "Wired",
       "Wall Street"
     ]
-  },
-  {
-    "id": "36f0d17a7648",
-    "title": "Corti's releases agentic model for medical coding, says it outperforms OpenAI, Anthropic",
-    "url": "https://www.fiercehealthcare.com/health-tech/cortis-new-agentic-model-medical-coding-outperforms-openai-and-others",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-02T13:39:00+00:00",
-    "summary": "Symphony for Medical Coding outperforms models from OpenAI, Anthropic, Amazon, Oracle and Google by over 25% in clinical accuracy benchmarks. It was evaluated on two widely used benchmarks and validated on real-world data.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1289305614.jpg?VersionId=xblfxQg0Jh8iwTM5MURgzEieBq9UmrrW",
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "eb69b4c6bd49",
-    "title": "Sociable: Meta highlights improvements to its ad serving program",
-    "url": "https://www.marketingdive.com/news/sociable-meta-highlights-improvements-to-its-ad-serving-program/816476/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-04-02T15:18:00+00:00",
-    "summary": "The updated Adaptive Ranking Model will use less computing power to deliver more relevant ads and drive better return on ad spend.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "3c285b9331de",
-    "title": "Where Supply Chain Technology's Future Takes Shape: Manifest 2026",
-    "url": "https://www.forbes.com/sites/paulnoble/2026/04/02/where-supply-chain-technologys-future-takes-shape-manifest-2026/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-04-02T15:46:48+00:00",
-    "summary": "Manifest, Supply Chain Technology conference focused on end-to-end showcase of the latest in supply chain technology and AI",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69ce8d83133c188ad450f16c/0x0.jpg?width=960&precrop=2491%2C669%2Cx0%2Cy637",
-    "tags": [
-      "Manufacturing",
-      "/manufacturing",
-      "Business",
-      "/business",
-      "Manufacturing"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "16092a2f2ba6",
-    "title": "Microsoft takes on AI rivals with three new foundational models",
-    "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-02T16:48:16+00:00",
-    "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "artificial intelligence",
-      "Microsoft",
-      "Mustafa Suleyman"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "45fc0c0c0325",
-    "title": "Verge subscribers: Join us for a movie night in New York City, hosted by The Vergecast",
-    "url": "https://www.theverge.com/podcast/905524/vergecast-subscribers-movie-night",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-04-02T17:34:27+00:00",
-    "summary": "The Vergecast is hosting a special in-person screening of Sneakers in partnership with IFC Center in New York City, and we're opening presale tickets exclusively to Verge subscribers. Sneakers is a movie about what happens when technology becomes more powerful than our...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VST_MovieNight.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Podcasts",
-      "Vergecast"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "117c292208c2",
-    "title": "Google releases Gemma 4 under Apache 2.0 — and that license change may matter more than benchmarks",
-    "url": "https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-04-02T17:49:39+00:00",
-    "summary": "For the past two years, enterprises evaluating open-weight models have faced an awkward trade-off. Google's Gemma line consistently delivered strong performance, but its custom license — with usage restrictions and terms Google could update at will — pushed many teams toward...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1KjI96SJa9CT3g3xi3ldoE/d0f64bee4c9285397f8a8458b0de4c9d/ChatGPT_Image_Apr_2__2026__01_33_47_PM.png?w=300&q=30",
-    "tags": [
-      "Technology"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "9120d1433e46",
-    "title": "Intuit's AI agents hit 85% repeat usage. The secret was keeping humans involved",
-    "url": "https://venturebeat.com/orchestration/intuits-ai-agents-hit-85-repeat-usage-the-secret-was-keeping-humans-involved",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-04-01T21:24:08+00:00",
-    "summary": "When Intuit shipped AI agents to 3 million customers, 85% came back. The reason, according to the company's EVP and GM: combining AI with human expertise turned out to matter more than anyone expected — not less. Marianna Tessel, the financial software company’s EVP and GM,...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7oKvnfVpg76S9D8j3Ob1Vc/30e2dcc96b2c02ddf060b3cc41d25203/Humans_and_AI.png?w=300&q=30",
-    "tags": [
-      "Orchestration"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
   },
   {
     "id": "865c6245e2eb",
@@ -621,61 +495,53 @@
     "relevance_score": 15
   },
   {
-    "id": "9bf285884446",
-    "title": "Even Artemis II Astronauts Have Microsoft Outlook Problems",
-    "url": "https://www.wired.com/story/artemis-ii-microsoft-outlook-problems/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-04-02T15:59:36+00:00",
-    "summary": "The mission commander’s email inbox failed during the journey to the moon. Have they tried turning the computer off and back on again?",
-    "image_url": "https://media.wired.com/photos/69ce8fe133c5c2ccc368bfb2/master/pass/GettyImages-2269443833.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Artemis",
-      "Spacecraft",
-      "Microsoft"
+    "id": "36f0d17a7648",
+    "title": "Corti's releases agentic model for medical coding, says it outperforms OpenAI, Anthropic",
+    "url": "https://www.fiercehealthcare.com/health-tech/cortis-new-agentic-model-medical-coding-outperforms-openai-and-others",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-02T13:39:00+00:00",
+    "summary": "Symphony for Medical Coding outperforms models from OpenAI, Anthropic, Amazon, Oracle and Google by over 25% in clinical accuracy benchmarks. It was evaluated on two widely used benchmarks and validated on real-world data.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1289305614.jpg?VersionId=xblfxQg0Jh8iwTM5MURgzEieBq9UmrrW",
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial",
+      "lifesciences"
     ],
+    "relevance_score": 15
+  },
+  {
+    "id": "eb69b4c6bd49",
+    "title": "Sociable: Meta highlights improvements to its ad serving program",
+    "url": "https://www.marketingdive.com/news/sociable-meta-highlights-improvements-to-its-ad-serving-program/816476/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-04-02T15:18:00+00:00",
+    "summary": "The updated Adaptive Ranking Model will use less computing power to deliver more relevant ads and drive better return on ad spend.",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "tech"
     ],
     "relevance_score": 15
   },
   {
-    "id": "321c0108b26b",
-    "title": "Flipboard just launched Surf, its new social app and feed reader",
-    "url": "https://www.theverge.com/tech/905929/flipboard-surf-fediverse-launch",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-04-02T16:06:11+00:00",
-    "summary": "Surf is a slightly hard app to explain. It's sort of three things: a client for fediverse apps like Bluesky and Mastodon; a feed reader that lets you subscribe to almost any website, podcast, or YouTube channel; and a tool for creating and following feeds of interesting...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Surf-Social.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.0213451469996%2C100%2C81.957309706001&amp;w=1200",
-    "tags": [
-      "Apps",
-      "Social Media",
-      "Tech",
-      "Web"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "9f06b154e81c",
-    "title": "What Happens When a Nuclear Site Is Hit?",
-    "url": "https://www.wired.com/story/heres-what-can-happen-when-the-us-bombs-irans-nuclear-sites/",
+    "id": "5b9a305218b7",
+    "title": "Cursor Launches a New AI Agent Experience to Take On Claude Code and Codex",
+    "url": "https://www.wired.com/story/cusor-launches-coding-agent-openai-anthropic/",
     "source": "Wired",
     "source_category": "ai",
-    "published": "2026-04-02T18:08:08+00:00",
-    "summary": "As strikes continue on Iran’s nuclear facilities, the real danger isn’t the explosion, but what happens if critical safety systems fail—and how that risk could spread across the Gulf.",
-    "image_url": "https://media.wired.com/photos/69ce780b6ff24e6598c91ffc/master/pass/Nuclear_Lead.jpg",
+    "published": "2026-04-02T17:00:00+00:00",
+    "summary": "As Cursor launches the next generation of its product, the AI coding startup has to compete with OpenAI and Anthropic more directly than ever.",
+    "image_url": "https://media.wired.com/photos/69cc30f8d49844d66356c85d/master/pass/Model-Behavior-Cursor-Build-Own-AI-Business%202%20(0-00-07-17).jpg",
     "tags": [
-      "Security",
-      "Security / National Security",
-      "Security / Security News",
-      "Science / Environment",
-      "Science / Health"
+      "Business",
+      "Business / Artificial Intelligence",
+      "Model Behavior",
+      "artificial intelligence",
+      "agentic AI"
     ],
     "industries": [
       "tech",
@@ -684,22 +550,60 @@
     "relevance_score": 15
   },
   {
-    "id": "ac83124c2d2d",
-    "title": "This bike rack pioneer is selling Bluetooth suction cups to stick bikes to your car",
-    "url": "https://www.theverge.com/gadgets/906076/allen-smart-suction-go-bike-rack",
-    "source": "The Verge",
+    "id": "117c292208c2",
+    "title": "Google releases Gemma 4 under Apache 2.0 — and that license change may matter more than benchmarks",
+    "url": "https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter",
+    "source": "VentureBeat",
     "source_category": "ai",
-    "published": "2026-04-02T20:05:02+00:00",
-    "summary": "Richard Allen didn't invent the automobile bike rack - his 1967 patent application makes it clear that others came before. But after nearly sixty years selling popular and simple mechanical bike carriers, his company Allen Bikes now offers a line of - yes -...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/ALLEN-SB05-Smart-Suction-Lifestyle-02.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
+    "published": "2026-04-02T17:49:39+00:00",
+    "summary": "For the past two years, enterprises evaluating open-weight models have faced an awkward trade-off. Google's Gemma line consistently delivered strong performance, but its custom license — with usage restrictions and terms Google could update at will — pushed many teams toward...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1KjI96SJa9CT3g3xi3ldoE/d0f64bee4c9285397f8a8458b0de4c9d/ChatGPT_Image_Apr_2__2026__01_33_47_PM.png?w=300&q=30",
     "tags": [
-      "Gadgets",
-      "News",
-      "Transportation"
+      "Technology"
     ],
     "industries": [
       "tech",
-      "telecom"
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "f1dabcb48196",
+    "title": "Reddit is moving on from r/all",
+    "url": "https://www.theverge.com/tech/906314/reddit-r-all-deprecating",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-04-02T21:50:53+00:00",
+    "summary": "Reddit is deprecating r/all, one of its feeds that shows popular posts on the platform, as part of \"ongoing efforts to simplify Reddit and improve Home feed personalization.\" Reddit has offered both r/popular and r/all as ways to see trending posts, with r/all being a \"less...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK115_Reddit_01.jpg.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "News",
+      "Reddit",
+      "Tech"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "7bf32d151e19",
+    "title": "'Devastating': HRC President Reacts To Supreme Court Ruling Against Ban On LGBTQ Conversion Therapy",
+    "url": "https://www.forbes.com/sites/forbestv/2026/04/02/devastating-hrc-president-reacts-to-supreme-court-ruling-against-ban-on-lgbtq-conversion-therapy/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-02T21:59:21+00:00",
+    "summary": "In an 8-1 decision on Tuesday, the Supreme Court ruled against Colorado's ban on LGBTQ conversion therapy, arguing it violated the free speech rights of a talk therapist.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69cee6a9fff2618471cf7f92/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "standard"
+    ],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 15
   },
@@ -746,56 +650,41 @@
     "relevance_score": 14
   },
   {
-    "id": "ac04573438c0",
-    "title": "Why Amer Sports is all in on IT modernization",
-    "url": "https://www.retaildive.com/news/amer-sports-it-modernization/816303/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-04-02T15:15:00+00:00",
-    "summary": "The parent company of Salomon and Arc’teryx will boost capital expenditures to $400 million amid ongoing infrastructure overhauls.",
-    "image_url": null,
-    "tags": [],
+    "id": "9bf285884446",
+    "title": "Even Artemis II Astronauts Have Microsoft Outlook Problems",
+    "url": "https://www.wired.com/story/artemis-ii-microsoft-outlook-problems/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-04-02T15:59:36+00:00",
+    "summary": "The mission commander’s email inbox failed during the journey to the moon. Have they tried turning the computer off and back on again?",
+    "image_url": "https://media.wired.com/photos/69ce8fe133c5c2ccc368bfb2/master/pass/GettyImages-2269443833.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Artemis",
+      "Spacecraft",
+      "Microsoft"
+    ],
     "industries": [
       "tech"
     ],
     "relevance_score": 14
   },
   {
-    "id": "e96f7f9d19ee",
-    "title": "Google now lets you direct avatars through prompts in its Vids app",
-    "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+    "id": "16092a2f2ba6",
+    "title": "Microsoft takes on AI rivals with three new foundational models",
+    "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
     "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-04-02T16:00:00+00:00",
-    "summary": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
+    "published": "2026-04-02T16:48:16+00:00",
+    "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?resize=1200,800",
     "tags": [
       "AI",
-      "Apps",
-      "Google",
-      "Google Vids",
-      "Video Editing"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "149bc963d18b",
-    "title": "White House Ballroom Plans Approved By Trump-Friendly Committee",
-    "url": "https://www.forbes.com/sites/zacharyfolk/2026/04/02/white-house-ballroom-plans-approved-by-trump-friendly-committee/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-04-02T18:53:15+00:00",
-    "summary": "The project was still paused by a federal judge on Tuesday.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69c9954bd6c0e0963e948471/0x0.jpg?width=960&precrop=1948%2C1096%2Cx0%2Cy136",
-    "tags": [
-      "Breaking News",
-      "/news",
-      "Business",
-      "/business",
-      "Breaking News"
+      "Enterprise",
+      "artificial intelligence",
+      "Microsoft",
+      "Mustafa Suleyman"
     ],
     "industries": [
       "tech",
@@ -804,23 +693,77 @@
     "relevance_score": 14
   },
   {
-    "id": "20ca382c9840",
-    "title": "California Suspends Enforcement of Law Requiring VCs to Report Diversity Data",
-    "url": "https://www.wired.com/story/california-temporarily-lets-vcs-off-the-hook-for-dei-reporting/",
+    "id": "9f06b154e81c",
+    "title": "What Happens When a Nuclear Site Is Hit?",
+    "url": "https://www.wired.com/story/heres-what-can-happen-when-the-us-bombs-irans-nuclear-sites/",
     "source": "Wired",
     "source_category": "ai",
-    "published": "2026-04-01T23:56:36+00:00",
-    "summary": "After investors appealed to the governor, California again delayed the deadline for venture firms to disclose the demographics of startup founders they back.",
-    "image_url": "https://media.wired.com/photos/69cda3ce9e2d7ad269770417/master/pass/California-Temporarily-Lets-VCs-Off-the-Hook-For-DEI-Reporting-Business-2263930943.jpg",
+    "published": "2026-04-02T18:08:08+00:00",
+    "summary": "As strikes continue on Iran’s nuclear facilities, the real danger isn’t the explosion, but what happens if critical safety systems fail—and how that risk could spread across the Gulf.",
+    "image_url": "https://media.wired.com/photos/69ce780b6ff24e6598c91ffc/master/pass/Nuclear_Lead.jpg",
     "tags": [
-      "Business",
-      "Business / Tech Culture",
-      "Business / Startups",
-      "Venture Capital",
-      "California"
+      "Security",
+      "Security / National Security",
+      "Security / Security News",
+      "Science / Environment",
+      "Science / Health"
     ],
     "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "ac83124c2d2d",
+    "title": "This bike rack pioneer is selling Bluetooth suction cups to stick bikes to your car",
+    "url": "https://www.theverge.com/gadgets/906076/allen-smart-suction-go-bike-rack",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-04-02T20:05:02+00:00",
+    "summary": "Richard Allen didn't invent the automobile bike rack - his 1967 patent application makes it clear that others came before. But after nearly sixty years selling popular and simple mechanical bike carriers, his company Allen Bikes now offers a line of - yes -...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/ALLEN-SB05-Smart-Suction-Lifestyle-02.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
+    "tags": [
+      "Gadgets",
+      "News",
+      "Transportation"
+    ],
+    "industries": [
+      "tech",
+      "telecom"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "155e084e3c6a",
+    "title": "Microsoft Plans to Invest $5.5 Billion in Singapore by 2029 - wsj.com",
+    "url": "https://news.google.com/rss/articles/CBMioANBVV95cUxOb0p1aEhzVFV5cUFaWFpJV2tDbTRSakdSYVhxWHpKZm9nMGFweHFXTXN4Q3dWeUFtWTJGeXBLVTRaRmhUTzhLeEZScnBGazR0VWpGQnRzZE8teG5WdzIxVVdHZWJIN25WcXVFTkJMNDNuLURRQ3F6QUc5YUlZWHdzajQxVlpQYndydkREdVVPN054ZWhtVVd1RUZxOURhS2wyakJIRUNhOXlQMlVFR1lHdUNIbHRiZTVaZ1dGRERGVExfNTVYUjZteHN3VmV4cDNFc2p5NHBkZjJlYXk4QUo4WUM0ZDJUbTZ5OHNNVllxcnF4Uld5VjR1dExwSkRpSkgzMFd5QTRUTTNwWG1nVFhJd2hWR0MxcEpqWFFoaHAwUWc4U2hNRTJmOHJ6WUlSVGlIVk8zMXhkd3JHaTZySFpERHpPbEpDMm9xcTBjSE5pdnBmQ21WdjdSR0loeDlIS1NyekpIMlU4M0h5MW95dk5Za0Y4OHZDcVpvdDRSZFBTS3Q1Z2h0WlA5cVVHRmdhYnotbkxuZ2JjdS16YnEzN0ROZQ?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-04-02T20:15:28+00:00",
+    "summary": "Microsoft Plans to Invest $5.5 Billion in Singapore by 2029 wsj.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
       "tech"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "9120d1433e46",
+    "title": "Intuit's AI agents hit 85% repeat usage. The secret was keeping humans involved",
+    "url": "https://venturebeat.com/orchestration/intuits-ai-agents-hit-85-repeat-usage-the-secret-was-keeping-humans-involved",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-04-01T21:24:08+00:00",
+    "summary": "When Intuit shipped AI agents to 3 million customers, 85% came back. The reason, according to the company's EVP and GM: combining AI with human expertise turned out to matter more than anyone expected — not less. Marianna Tessel, the financial software company’s EVP and GM,...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7oKvnfVpg76S9D8j3Ob1Vc/30e2dcc96b2c02ddf060b3cc41d25203/Humans_and_AI.png?w=300&q=30",
+    "tags": [
+      "Orchestration"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 13
   },
@@ -858,21 +801,58 @@
     "relevance_score": 13
   },
   {
-    "id": "f350dbe69b46",
-    "title": "Employer telehealth company eMed raises $200M at $2B valuation",
-    "url": "https://www.fiercehealthcare.com/health-tech/employer-telehealth-company-emed-raises-200m-2b-valuation",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-03-31T07:33:00+00:00",
-    "summary": "eMed pocketed $200 million in funding to build out its AI agentic platform and offer new models for employers, including programs for GLP-1 medications.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1127392298%20%281%29.jpg?VersionId=0cNfArtDIxtUng7aeCjq0_sErancnw.g",
+    "id": "ac04573438c0",
+    "title": "Why Amer Sports is all in on IT modernization",
+    "url": "https://www.retaildive.com/news/amer-sports-it-modernization/816303/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-04-02T15:15:00+00:00",
+    "summary": "The parent company of Salomon and Arc’teryx will boost capital expenditures to $400 million amid ongoing infrastructure overhauls.",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
+      "tech"
     ],
-    "relevance_score": 12
+    "relevance_score": 13
+  },
+  {
+    "id": "e96f7f9d19ee",
+    "title": "Google now lets you direct avatars through prompts in its Vids app",
+    "url": "https://techcrunch.com/2026/04/02/google-now-lets-you-direct-avatars-through-prompts-in-its-vids-app/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-02T16:00:00+00:00",
+    "summary": "Google is adding a way to customize and instruct avatars for video creation in the Vids app.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/google-logo.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Apps",
+      "Google",
+      "Google Vids",
+      "Video Editing"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "4ec099f3c118",
+    "title": "Arcee's new, open source Trinity-Large-Thinking is the rare, powerful U.S.-made AI model that enterprises can download and customize",
+    "url": "https://venturebeat.com/technology/arcees-new-open-source-trinity-large-thinking-is-the-rare-powerful-u-s-made",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-04-03T00:10:37+00:00",
+    "summary": "The baton of open source AI models has been passed on between several companies over the years since ChatGPT debuted in late 2022, from Meta with its Llama family to Chinese labs like Qwen and z.ai. But lately, Chinese companies have started pivoting back towards proprietary...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/BU6IEd1qLpLq0z4wTsSFU/45efac43ec6d50536095a1ad3e2791bd/Gemini_Generated_Image_coxwn4coxwn4coxw.png?w=300&q=30",
+    "tags": [
+      "Technology"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 13
   },
   {
     "id": "98d512b832b1",
@@ -936,24 +916,24 @@
     "relevance_score": 12
   },
   {
-    "id": "3a0bdc693881",
-    "title": "FDA Approves Eli Lilly’s GLP-1 Pill",
-    "url": "https://www.wired.com/story/fda-approves-eli-lillys-glp-1-pill/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-04-01T18:56:03+00:00",
-    "summary": "Eli Lilly’s once-daily Foundayo is the second obesity pill to receive FDA approval. It will compete with Novo Nordisk’s pill version of Wegovy.",
-    "image_url": "https://media.wired.com/photos/69cd5dbf969ce77a468721f6/master/pass/FDA-Approves-Eli-Lillys-GLP-1-Pill-Science-2237031585.jpg",
+    "id": "149bc963d18b",
+    "title": "White House Ballroom Plans Approved By Trump-Friendly Committee",
+    "url": "https://www.forbes.com/sites/zacharyfolk/2026/04/02/white-house-ballroom-plans-approved-by-trump-friendly-committee/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-02T18:53:15+00:00",
+    "summary": "The project was still paused by a federal judge on Tuesday.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69c9954bd6c0e0963e948471/0x0.jpg?width=960&precrop=1948%2C1096%2Cx0%2Cy136",
     "tags": [
-      "Science",
-      "Science / Health",
-      "medicine",
-      "pharmaceutical industry",
-      "science"
+      "Breaking News",
+      "/news",
+      "Business",
+      "/business",
+      "Breaking News"
     ],
     "industries": [
       "tech",
-      "lifesciences"
+      "industrial"
     ],
     "relevance_score": 12
   },
@@ -1017,22 +997,6 @@
     "relevance_score": 11
   },
   {
-    "id": "9dc785ad440d",
-    "title": "Intuition Robotics secures Medicaid coverage for social AI robot ElliQ in Washington State",
-    "url": "https://www.fiercehealthcare.com/health-tech/intuition-robotics-secures-medicaid-coverage-social-ai-robot-elliq-washington-state",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-01T21:28:00+00:00",
-    "summary": "Washington authorized a statewide reimbursement code for the company's ElliQ companion robot, making it possible for eligible beneficiaries to receive the technology as part of their in-home care services.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/ElliQ%203.0%20-%20Pat%2C%20Coffee%20%283%29.jpg?VersionId=NvTSJT0MSWIyH8Zlku6bZy6v8iAExalP",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
     "id": "49abcc1db7f2",
     "title": "Zacks Market Edge Highlights: ServiceNow, Salesforce, Palantir, Adobe and AppLovin - TradingView",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOSHpqUUMwQWxvVUtEOFVqT1JZc1R2OHA5Z3hqX3ZLWjk2SmtMQlNDckZnY0ZuRG1vUGItRUdsbDhMTVl6Nlk3Zkk2a2JBdEkzUVFMZi1VSlhLS3pwaEJjOVdhWjlFbF9mRUpvamVCd2UtZHV3S2ZHbHBRYkc3dVFFOU94dUNsQ3VXOVVuOUdYWUlIcnhnNVg1dnNINHhyNm1GWGU0WktiQnhoUkVjTG9uV1lTajFfMDV3aFFrTlRLQmo2LVhqbWsybmY5SHZBSEk?oc=5",
@@ -1045,21 +1009,6 @@
     "industries": [
       "tech",
       "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "e0e53f9246b0",
-    "title": "Exclusive | Trump Overhauls Metal Tariffs - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxPcVNIZGZkeERueHFtdWtHN3JGSmQ2YW8zdTJOZzRBUlljcEd6LVp5eGx0YWI5bUY3ZmJJcUdiOE1fNmQtN2lOUF9HbGVMcjVLcmg0QTIxNEpkM3hQRlhBNVltaEk1OFlVNjl4RWRkS281VERSdEZxS2NRUjEwVlpZb3JsMzVWX1pzTnUwTFoyZ0RmWHlzaVp3OGIxbDYyRE9jQlZGRXc5V0pxUjdNemhuWGs0OExhZ2ZuRzNKSDBSM0JFeEVoNUtCSEJNdTdxQkh5c285bkZYMjZWOFBpNHl5S0Z6b1g4b0htSHlYWEJDcl9kb1hXWmFtd2hpMmxaTm5ZY3pNTk9GbEJ0Q2V5SUFrd1hKOGl5Y1g5QTdNTnFlZVN5c2xUX1ZKYl95M3Y5RHE3bFFtaFhCYUdfVkZxRWJrNHNSQ05qeHlJZ29OZ3FpbkUxU0dMTEVHUEVteWZqaktiVERDbGYzLTMxbzlETEZaM0tBeEl2YmZUX2J6am00MUh5M3Z1QkxDUVA4dFpfZ1dJTXBuSmJDQ2NGdE9h?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-04-02T19:44:00+00:00",
-    "summary": "Exclusive | Trump Overhauls Metal Tariffs WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 11
   },
@@ -1138,20 +1087,17 @@
     "relevance_score": 10
   },
   {
-    "id": "91262d8d16b3",
-    "title": "The end of 'shadow AI' at enterprises? Kilo launches KiloClaw for Organizations to enable secure AI agents at scale",
-    "url": "https://venturebeat.com/orchestration/the-end-of-shadow-ai-at-enterprises-kilo-launches-kiloclaw-for-organizations",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-04-01T23:47:24+00:00",
-    "summary": "As generative AI matures from a novelty into a workplace staple, a new friction point has emerged: the \"shadow AI\" or \"Bring Your Own AI (BYOAI)\" crisis. Much like the unsanctioned use of personal devices in years past, developers and knowledge workers are increasingly...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7lqOwH8GLmCQm64qHSJScU/6d00dc2059fc15e6596cb9832235bcc9/Gemini_Generated_Image_okcpisokcpisokcp__1_.png?w=300&q=30",
-    "tags": [
-      "Orchestration"
-    ],
+    "id": "130fe8366012",
+    "title": "Omnicom launches Adobe practice, integrates LeapPoint - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNTV9CNW4zQ0JMSTNiR2NGOFU0SHZJZEMweDFqNVd5RXZINVFiZ2Y4dVcwdHJpb1NNNmcwSGkwa0FaMmFnaVJWOF9YdVJER0FDYlZ2YUFvb1hWbGc0U3hCRlRSRGQtU3F6Yzd5cHdPWkpMS0FLZjdfcm1XVlZ6VjZGMGdMUTBzNWhhQlNmMEtudG5oMlB3ZkFiQXZZRFJpYU9sRGJwTWs4aVBqMFRXVWc?oc=5",
+    "source": "Adobe Inc",
+    "source_category": "adobe",
+    "published": "2026-04-01T14:06:13+00:00",
+    "summary": "Omnicom launches Adobe practice, integrates LeapPoint Investing.com",
+    "image_url": null,
+    "tags": [],
     "industries": [
-      "tech",
-      "industrial"
+      "tech"
     ],
     "relevance_score": 10
   },
@@ -1169,115 +1115,22 @@
       "tech",
       "telecom"
     ],
-    "relevance_score": 10,
-    "also_covered_by": [
-      "Fintech"
-    ]
-  },
-  {
-    "id": "41d4086a5c16",
-    "title": "Alpha Ladder Group and MetaComp Partner with Maqam International Holding, an Abu Dhabi (UAE) company, to Advance RWA Tokenisation and Web2.5 Payments Across Singapore-UAE Corridor - PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi0AJBVV95cUxOYUZ5V05acXNMYTc1dU1yWlhlcEF6dzZUQVJ1MllTZ3hyNlNKTDJjeXRPUUJnTHh0ZHVpdXM3VFBaMGZYNnNZcjNwQmd6OVdTWGVlRkNmWGNTUUNTWEpjME9xUm9jNW9sWGc0QmRoNTBqdzRTVERYQm04Q3dMd1piUnVWNUdiWThYVFpyVEF0R2d1d2JicF9hd05ranhrQnM4WVZONkowaWxfYnJnNC1ob0xtOUVLVHEtbkk1UkF5U1RpMWtRUEgwZ0lWTUF5S1EzRm8tU0IxcUp1WHA3QXE1SHdJZ3dEMEs5aTRORmJOQ2RFRWlVaTBnMnh1Sk1iWm1lVENUeEhlYlMxUU9OQmdldXZBbXpVZEVtblNRQnZlUlNyRE02bEZVd3RoOU96Y0ZmMHFCXzBiRDJtQkdieFhFa0ZpOTBBV2xMdnk4b0tBcnE?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-04-02T04:00:00+00:00",
-    "summary": "Alpha Ladder Group and MetaComp Partner with Maqam International Holding, an Abu Dhabi (UAE) company, to Advance RWA Tokenisation and Web2.5 Payments Across Singapore-UAE Corridor PR Newswire",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
-    ],
     "relevance_score": 10
   },
   {
-    "id": "c739fd576f4b",
-    "title": "Microsoft’s stock has been plagued by ‘apathy.’ Can it excite Wall Street once more? - MarketWatch",
-    "url": "https://news.google.com/rss/articles/CBMixANBVV95cUxPdU56VWpfMVN4bmZFaWhUalVYUmxMZU1XcVN2WnY1TnBKR3p1OW9jX2V6SEpIQ3RTRUVRTkpHTGhVU0lvejJHcVR2aldkZjV0WTlIc2pYelprSUhQcWlHdGc2WDZlRVFWcDFxb1JYbjN3bWxyRnp5LTc5clpSZjVHeU9NR2JiX2c0ZWxROXFzSWFsVVNjY2dkOHV2NF9EcmpZdU1aWGpjWEFMQzVtalF1cVBOQnR4MjhIVGRzc0M0NHRqUXlvNUVHaUpJbjlXUW5VUFdUV0ozaTd0Y2lGeklJMHQ2YXF6VU44UUNYby1ZOWVQWkZLX2Q1RVJPZzBxazhtRmM1SU5kbEotQkRpUURpb2d5ZG8zbzdPeGhVd1ZaOXpYNFIyWGl0bVN0V0J2YlhmMXRYZHJjX083Y2VJVEtDc281MkIxY2pFdjE1djI2ZGdQSDJ1dEhfdnNtWlJjNlM3b2lTWjktcXY0dDBVZ3ZZMC1TV1g1NUZqUktHSHJnQjVyOUM1aVpGQUp2dWFRWDlmbGNrdGo3WUtYNm5jMlZkUkpWNDNFbDNuQUoxTHpXWDNLWG9OT29iaWUxeGF2dnpPdWNEMw?oc=5",
+    "id": "45223f66d14e",
+    "title": "Trump Overhauls Metal Tariffs - wsj.com",
+    "url": "https://news.google.com/rss/articles/CBMinANBVV95cUxNeXo3TGltR2d4Y2dqT2NqXzlYcld5Q0pYdVU0Vm5xRGVJS3lBRDlENDE1QldMRWlNNU1qQzZYOXI0TThvRlhQVERKNURyWWRkX08wTW1UeEt0bG5YQ1pjRllGVG9kXzFKSUh1NmkxZDhINDd1ek5BQ0ZSMXliMHcyRnlERVhCcjJHOU9PM0FmbUNBN0k2aGFCaWN1QktpR3NDQmFVcEsyMUM5TTJHV21TdlpidEhrVlJsaU5PS1hlT3lIZkp0V2c1cXRFc3RQQ3JRLUpjWU1lbnFxcjFaUUdYZFk1b042bmlzY1YwVVdsTG41WEgwYjJ6b3hjNkUyVW1IOTdwR3hycWllYXU5a1lDLUlkSmxmU3Y1NkFWOVUtS3ZwdFFXa1RIY3NIWGQ5dlF3dkFJQ0pKazJBUWIzd3BtOS1tTUh6aUdpVlBXREU3RUZWdTZ4SXFGeEd0YzB4S0FvUkZSV184d21SSVB0bWFuU1l5RFRMY2JSUEZiUE9sanNjdEtpdXpuWnBYSXJPdFdUUVNWdC1meGx1el84?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-04-02T16:24:00+00:00",
-    "summary": "Microsoft’s stock has been plagued by ‘apathy.’ Can it excite Wall Street once more? MarketWatch",
+    "published": "2026-04-02T20:24:00+00:00",
+    "summary": "Trump Overhauls Metal Tariffs wsj.com",
     "image_url": null,
     "tags": [],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "2e5823ec19f6",
-    "title": "Five early-stage startups join new Charlotte program at The Pearl - The Business Journals",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWR4c1lrazZzc3kwUzlkNkNUT1VJd2lSOUZtQTRlX0VnY25QZFRHbVVvYXBYYzFtSTFOUlg4dmEySXJPUzFmVWl5cVBwNExoM0JiQ3NfU3VsQlJ0VVNiUVFxSmRDZzVTcW5XN040V1NDYlh6UkZJbkZMRExfZG1sN2M2dl8yNlpPUnBrMWNJWGVPZEhlVkFyMEJBQzBaZXJUajFUR3h2Zw?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-02T18:17:00+00:00",
-    "summary": "Five early-stage startups join new Charlotte program at The Pearl The Business Journals",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "423b1390ce9b",
-    "title": "Hunter Perkins Capital Management LLC Takes $4.14 Million Position in Adobe Inc. $ADBE - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPNmhDdlJtNWRpNkVyRzZUeFJuTU5HZTVlOWdKSXlINlV1M25rdWF3VlZDclBlRlVBdTlCWjRDWkxNVVJEY0poVFIzSGhrSklXbXk1UFZEUnhQcTRBNHFRWVdSMmFBMUpSNDFQQU9MbDVpd1JGQVVldUpMbF9fYTBIb3BXZk9xd0RQTVVTdXd1R2VpZThRZlhOUXRHU3htS0tGTUFTaG5xWVA2cFhKSlFSWGlVMkV0MGFXVG5RYzZqMTdWelY1eGhyMVEwY3NrQ2NqT1lsR0w1ZTFoQ00?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-03-29T10:24:57+00:00",
-    "summary": "Hunter Perkins Capital Management LLC Takes $4.14 Million Position in Adobe Inc. $ADBE MarketBeat",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "22ab3ff2d707",
-    "title": "As more Americans adopt AI tools, fewer say they can trust the results",
-    "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-03-30T20:24:53+00:00",
-    "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
-    "tags": [
-      "AI",
-      "AI trust",
-      "quinnipiac university"
-    ],
     "industries": [
       "tech"
     ],
-    "relevance_score": 9
-  },
-  {
-    "id": "8b5236710fc1",
-    "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
-    "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-03-30T23:08:12+00:00",
-    "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2018/02/exit.png?w=900",
-    "tags": [
-      "AI",
-      "Security",
-      "Startups",
-      "TC",
-      "Delve"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 9
+    "relevance_score": 10
   },
   {
     "id": "219d120850e6",
@@ -1391,42 +1244,95 @@
     "relevance_score": 9
   },
   {
-    "id": "b493aad8dbf0",
-    "title": "Hackers slipped a trojan into the code library behind most of the internet. Your team is probably affected",
-    "url": "https://venturebeat.com/security/axios-npm-supply-chain-attack-rat-maintainer-token-2026",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-04-01T23:45:17+00:00",
-    "summary": "Attackers stole a long-lived npm access token belonging to the lead maintainer of axios , the most popular HTTP client library in JavaScript, and used it to publish two poisoned versions that install a cross-platform remote access trojan. The malicious releases target macOS,...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/uyrfLkDZ8g0lgackcQVnS/e0cb12e1e7988749e4ea84d1e77a9393/hero_axios.png?w=300&q=30",
-    "tags": [
-      "Security"
-    ],
+    "id": "9dc785ad440d",
+    "title": "Intuition Robotics secures Medicaid coverage for social AI robot ElliQ in Washington State",
+    "url": "https://www.fiercehealthcare.com/health-tech/intuition-robotics-secures-medicaid-coverage-social-ai-robot-elliq-washington-state",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-01T21:28:00+00:00",
+    "summary": "Washington authorized a statewide reimbursement code for the company's ElliQ companion robot, making it possible for eligible beneficiaries to receive the technology as part of their in-home care services.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/ElliQ%203.0%20-%20Pat%2C%20Coffee%20%283%29.jpg?VersionId=NvTSJT0MSWIyH8Zlku6bZy6v8iAExalP",
+    "tags": [],
     "industries": [
       "tech",
-      "retail",
       "industrial"
     ],
     "relevance_score": 9
   },
   {
-    "id": "454f311e3db1",
-    "title": "Mental health provider platform Headway acquires team behind AI company Tezi",
-    "url": "https://www.fiercehealthcare.com/health-tech/mental-health-provider-platform-headway-acquires-team-behind-ai-company-tezi",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-03-30T11:31:00+00:00",
-    "summary": "The acquisition seeks to ensure AI “is developed responsibly” while improving the experience for patients and providers alike, the announcement said.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2152554500.jpg?VersionId=sRgXjDC.XT_Qk5G3gPh_gJLsyMr_r5v6",
-    "tags": [],
+    "id": "91262d8d16b3",
+    "title": "The end of 'shadow AI' at enterprises? Kilo launches KiloClaw for Organizations to enable secure AI agents at scale",
+    "url": "https://venturebeat.com/orchestration/the-end-of-shadow-ai-at-enterprises-kilo-launches-kiloclaw-for-organizations",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-04-01T23:47:24+00:00",
+    "summary": "As generative AI matures from a novelty into a workplace staple, a new friction point has emerged: the \"shadow AI\" or \"Bring Your Own AI (BYOAI)\" crisis. Much like the unsanctioned use of personal devices in years past, developers and knowledge workers are increasingly...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7lqOwH8GLmCQm64qHSJScU/6d00dc2059fc15e6596cb9832235bcc9/Gemini_Generated_Image_okcpisokcpisokcp__1_.png?w=300&q=30",
+    "tags": [
+      "Orchestration"
+    ],
     "industries": [
       "tech",
-      "lifesciences"
+      "industrial"
     ],
-    "relevance_score": 8,
-    "also_covered_by": [
-      "Health Tech"
-    ]
+    "relevance_score": 9
+  },
+  {
+    "id": "2e5823ec19f6",
+    "title": "Five early-stage startups join new Charlotte program at The Pearl - The Business Journals",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNRWR4c1lrazZzc3kwUzlkNkNUT1VJd2lSOUZtQTRlX0VnY25QZFRHbVVvYXBYYzFtSTFOUlg4dmEySXJPUzFmVWl5cVBwNExoM0JiQ3NfU3VsQlJ0VVNiUVFxSmRDZzVTcW5XN040V1NDYlh6UkZJbkZMRExfZG1sN2M2dl8yNlpPUnBrMWNJWGVPZEhlVkFyMEJBQzBaZXJUajFUR3h2Zw?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-02T18:17:00+00:00",
+    "summary": "Five early-stage startups join new Charlotte program at The Pearl The Business Journals",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "22ab3ff2d707",
+    "title": "As more Americans adopt AI tools, fewer say they can trust the results",
+    "url": "https://techcrunch.com/2026/03/30/ai-trust-adoption-poll-more-americans-adopt-tools-fewer-say-they-can-trust-the-results/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-03-30T20:24:53+00:00",
+    "summary": "AI adoption is rising in the U.S., but trust remains low, with most Americans concerned about transparency, regulation, and the technology’s broader societal impact, according to a new Quinnipiac poll.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/claude-app-centered-in-ai-apps-GettyImages-2167861906.jpg?resize=1200,801",
+    "tags": [
+      "AI",
+      "AI trust",
+      "quinnipiac university"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "8b5236710fc1",
+    "title": "Popular AI gateway startup LiteLLM ditches controversial startup Delve",
+    "url": "https://techcrunch.com/2026/03/30/popular-ai-gateway-startup-litellm-ditches-controversial-startup-delve/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-03-30T23:08:12+00:00",
+    "summary": "LiteLLM had obtained two security compliance certifications via Delve and fell victim to some horrific credential-stealing malware last week.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2018/02/exit.png?w=900",
+    "tags": [
+      "AI",
+      "Security",
+      "Startups",
+      "TC",
+      "Delve"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 8
   },
   {
     "id": "e2bfbe43fcf7",
@@ -1475,6 +1381,25 @@
     "relevance_score": 8
   },
   {
+    "id": "b493aad8dbf0",
+    "title": "Hackers slipped a trojan into the code library behind most of the internet. Your team is probably affected",
+    "url": "https://venturebeat.com/security/axios-npm-supply-chain-attack-rat-maintainer-token-2026",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-04-01T23:45:17+00:00",
+    "summary": "Attackers stole a long-lived npm access token belonging to the lead maintainer of axios , the most popular HTTP client library in JavaScript, and used it to publish two poisoned versions that install a cross-platform remote access trojan. The malicious releases target macOS,...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/uyrfLkDZ8g0lgackcQVnS/e0cb12e1e7988749e4ea84d1e77a9393/hero_axios.png?w=300&q=30",
+    "tags": [
+      "Security"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "b81ba98513da",
     "title": "You can’t win today’s race with yesterday’s technology - Electronic Payments International",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPRVJGZU9Kcm1OQVl0YnVRd1l2UnhTRTl2aGZESXN5UXE1NUg2N1JvS3BTQUdSaUN5Rkt2bWZBLUxOTENUNGJSMlNMdjJLSTNOdkp5dWRGbjVnbm4yT3VSOEtLSzVlc1FTdG9VZVNSRDRqMDVOWVVmUHByVmQ3M1djV05DTVZnOS1RZ1FBWTJLc1lRaFdSallrVEJxSFZ0eUUzcVNBNkplQk9jeTMteDQ4?oc=5",
@@ -1491,13 +1416,13 @@
     "relevance_score": 8
   },
   {
-    "id": "96dbcae1f2f0",
-    "title": "Bishops’ pro-life chair backs longshot bill to revoke mifepristone’s FDA approval - Catholic Standard",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPaDBHU0RPY1RQRFlya3FteTR0UE1nYm5fSkN6YVVuOGRNeV96alR3bGw3TU4zNEFXdm96akh6bV8xUUM3QjlucHNCM2M4ekZVSFVRSkVNYXljRmZoQVprc3dPY0tCSUM0NzJ2dlNZOUtYS0NXWFk2VEdOdUJwTmp1bWtzWWhMLWRSdnE1SzZFd29TbjFFa3YwN195RE4yaUViY1BWT3RLTlQ4Wk1JcG1vR3J3UQ?oc=5",
+    "id": "948cad42d14f",
+    "title": "Bishops’ pro-life chair backs longshot bill to revoke mifepristone’s FDA approval - OSV News",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUkR0akY1R2pZMVBoV2xlN19pa3dGSXdZMDBXSVNDVk5VSUxLbnR1eHotbW9pUmFIbnRJZFR1c0wtTG41NWhvSkZaTHRFVWxzcm9OTWFVdDlzWDBmNlpxX1RZYldpMWthbWhRNFB4TDFFQ1p2SndnNFA5X3ppQzh6MlZrRzZxREFsXzR0ZDEzZ1VQaXNzR3R4TkU5TURSQXdEcW5Wam5nWQ?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-02T12:20:36+00:00",
-    "summary": "Bishops’ pro-life chair backs longshot bill to revoke mifepristone’s FDA approval Catholic Standard",
+    "published": "2026-04-02T11:03:00+00:00",
+    "summary": "Bishops’ pro-life chair backs longshot bill to revoke mifepristone’s FDA approval OSV News",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1541,23 +1466,6 @@
     "relevance_score": 7
   },
   {
-    "id": "d54280ff2d61",
-    "title": "UCLA-led gene therapy clinical trial leads to FDA approval for rare immune disorder - KTLA",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVBtVkZJZlNjVEtlajZMMU1qZ2NaNExCdE1jOWZ4UXNMZjk5ODVNdzM3QXV1NDRZaE9Dd0xqWFhSZWVJcTFhbEVCOFNRcjZLRzl2cC1FV3pIUjZ0OW4wc2JMb0NfX3poaVdfTkIwRFVEZkRpeTc1YmR4bE1oTUViSjlGSGxyUnFrODBMTG9IdDhENE5LU0J2SnNuYldxdXI4RnMwdDhKNzhTRHg5QmVjRS1Sd9IBuAFBVV95cUxNS2QxbTEzbmoxN0JfWXE2Z2lYOGRtcGprUnlBSjlkbUJ2THFJX1otUXpqenUxSi1rNERFSHFTRGFVVW1JVWQzNTd0SUNKd3RiVDlJX0stZ180bS1VTWo5bllMSTF1QmZvWmR6Vjk3Nnc3UHliME1EemlJUUFNWFRzdjlmSVdkQk5wY0NTc3VPUWtQUkNiUWdDTklRS2xpeURjZGZXZ20xeUVOWGJ0MkNaeDJuTnkwSzFt?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-01T21:45:12+00:00",
-    "summary": "UCLA-led gene therapy clinical trial leads to FDA approval for rare immune disorder KTLA",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 7
-  },
-  {
     "id": "beef75a0b78b",
     "title": "Why platforms are betting on creators to win the fight for ad dollars - adage.com",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPZl80OXZ2c2Zzd3hfQ0JIWmFJNW9iM1NfRGJ0U1F0MGR1MkhvOE1oYlVyb3REZFo0bUpGdC1mSjhFOWNEcGhkWmdKM0J2QVdxWTh0a2ZYY0xLa2pUTkV3RVhrS213VVNhcWRoYnNzWWdJckVjT1VFVFBaQ1lKN2tLSUVrek5lcjVySUlXNy1ZLTZwZw?oc=5",
@@ -1574,23 +1482,6 @@
     "relevance_score": 6
   },
   {
-    "id": "864db3d69a47",
-    "title": "Europe’s Fixed Wireless Access Boom Is Reshaping the Future of Broadband - vocal.media",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdnhiTlR5MTY4RHN3RFZFOTFBRFBVZzFpM2JUem1LLW5LSnAtb3JvVUNUSDN4aHF6d2dGNUpLWmV4bTQ1a2o1Z1NHcDU0Wmx0bjhxV21Uc0hDb0Jkckxka0JfS3BpdWZnVUphT1FNQWlRUi15bVhGX0RrS1lXN2owUmdrNTJnWEFwdHdQZ1dEV3ZvRW9LNnFkalVDdEk4UnFv?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-04-01T10:28:18+00:00",
-    "summary": "Europe’s Fixed Wireless Access Boom Is Reshaping the Future of Broadband vocal.media",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "tech",
-      "telecom"
-    ],
-    "relevance_score": 6
-  },
-  {
     "id": "0d82867f5b47",
     "title": "Bishop Thomas Supports Bill to End FDA Approval of Chemical Abortion Pills - usccb",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORDZ0MHRQZjMzUWh4UXdSMU52a29kaHRxTUtTMWZrcTh4OWJKRVhUc1JNSlR6SDM3YmY2b0owMDRNbkdFZWVVX0JYekFSa0lvcDg4ZjNuMmIzdjYwYmt6aVBBTi0yWEN1RWlJZnlUVHduSlFEdFhyeWRHM0VVVVNQTjk5Y2w4VzZxMTl5eTd5M2puY1JTeWJ4a25kNUxYMEh1RGc?oc=5",
@@ -1602,6 +1493,23 @@
     "tags": [],
     "industries": [
       "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "d54280ff2d61",
+    "title": "UCLA-led gene therapy clinical trial leads to FDA approval for rare immune disorder - ktla.com",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPSVBtVkZJZlNjVEtlajZMMU1qZ2NaNExCdE1jOWZ4UXNMZjk5ODVNdzM3QXV1NDRZaE9Dd0xqWFhSZWVJcTFhbEVCOFNRcjZLRzl2cC1FV3pIUjZ0OW4wc2JMb0NfX3poaVdfTkIwRFVEZkRpeTc1YmR4bE1oTUViSjlGSGxyUnFrODBMTG9IdDhENE5LU0J2SnNuYldxdXI4RnMwdDhKNzhTRHg5QmVjRS1Sd9IBuAFBVV95cUxNS2QxbTEzbmoxN0JfWXE2Z2lYOGRtcGprUnlBSjlkbUJ2THFJX1otUXpqenUxSi1rNERFSHFTRGFVVW1JVWQzNTd0SUNKd3RiVDlJX0stZ180bS1VTWo5bllMSTF1QmZvWmR6Vjk3Nnc3UHliME1EemlJUUFNWFRzdjlmSVdkQk5wY0NTc3VPUWtQUkNiUWdDTklRS2xpeURjZGZXZ20xeUVOWGJ0MkNaeDJuTnkwSzFt?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-01T21:45:12+00:00",
+    "summary": "UCLA-led gene therapy clinical trial leads to FDA approval for rare immune disorder ktla.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 6
@@ -1667,22 +1575,6 @@
     "industries": [
       "tech",
       "financial"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "ea2259fdf677",
-    "title": "HHS Aligns Health Technology Leadership to Deliver Data Liquidity, Affordability, and an AI-Enabled Health Care System for Americans - HHS.gov",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZXloWTFUWFNxMndJaEdKR1pEWUNlTFlaemxRSU9Uc2ZSbVpFWl9RbnJvTUE0YXdTa0UtQmJpcXBHMHhRbFpJYWxTRjRiOThIT0ZDMk4tYzZOWlZUQU12Y2tZdEdFM2tkYmJyTFZQUEwzaG9HaHZwRnU4WnhWTXBMak80OEEwRGI5VnBVODBLVFgzcGY2c0Y1R0FRaEh0ZHNHTDNpUFFTc2FmUmFPdjZnTmV3eFhsU3hhdXA3dllGd3pFcEdaMk1SWQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-03-31T12:50:00+00:00",
-    "summary": "HHS Aligns Health Technology Leadership to Deliver Data Liquidity, Affordability, and an AI-Enabled Health Care System for Americans HHS.gov",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
     ],
     "relevance_score": 5
   }
