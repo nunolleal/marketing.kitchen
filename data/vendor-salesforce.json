@@ -12,7 +12,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 42
+    "relevance_score": 38
   },
   {
     "id": "28aba52eb738",
@@ -121,24 +121,6 @@
     "relevance_score": 11
   },
   {
-    "id": "da5bce879b84",
-    "title": "Salesforce Stock Gains Momentum from Agentforce Revenue Surge - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNFZOS1pSWllKRjFFUHVBM054UHNBbWEyREg2UFhtTG91YldhWDJkNG92cFgtNjhhWjRqZ0Zsak53cGh2UWl0M3NNVUozNV84Rk91T1otLWJJOTc1LTVPc3d6NWNCU2o5R1hjZHlaTlhJbkV0bWk3MlBsd3V1dGl3YXNLYlMzT2syb3NVVklQZ3N5R0RsRlZYbUhBR0d4enJ5OXVMazNqeTdaVWtCU0psQlNsYUR5Zw?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-04-03T22:57:54+00:00",
-    "summary": "Salesforce Stock Gains Momentum from Agentforce Revenue Surge AD HOC NEWS",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 11,
-    "also_covered_by": [
-      "Telecom 5G"
-    ]
-  },
-  {
     "id": "409b58f44615",
     "title": "AI Broke Your Job Title ‘Moat.’ What Happens Now?",
     "url": "https://www.salesforce.com/blog/ai-redefine-job-title/",
@@ -152,50 +134,6 @@
       "tech"
     ],
     "relevance_score": 11
-  },
-  {
-    "id": "068304bbbbb7",
-    "title": "Building Efficient RL Training for the Agentic Era",
-    "url": "https://www.salesforce.com/blog/efficient-rl-training-agentic-era/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-01T17:00:49+00:00",
-    "summary": "Introduction Reinforcement Learning from Human or AI Feedback (RLHF, RLAIF) has become the standard recipe for aligning large language models (LLMs). But as we push into the agentic era — where models call…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/Image-Mar-31-1.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "127fca9ade51",
-    "title": "Introducing Trailbread: Trailhead’s Pivot into Bread-ucation",
-    "url": "https://www.salesforce.com/blog/trailhead-trailbread-quest-agentforce-builder/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-01T17:10:51+00:00",
-    "summary": "Learning something new can feel like a stretch. Good thing we’ve got what you knead.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/Trailbread_Blog_Banner_1500x844.png",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 8
-  },
-  {
-    "id": "2c74a8d63701",
-    "title": "How to Choose the Right Integration Pattern for Agentforce",
-    "url": "https://www.salesforce.com/blog/how-to-choose-integration-pattern-for-agentforce/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-01T17:32:44+00:00",
-    "summary": "Explore the next generation of Agentforce Integration, Agent2Agent (A2A) and Model Context Protocol (MCP), alongside the established API pattern to determine the best integration strategy for your agent.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/How-to-Choose-the-Right-Integration-Pattern-for-Agentforce.png",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 8
   },
   {
     "id": "9529a29e0f22",
@@ -240,6 +178,50 @@
       "tech"
     ],
     "relevance_score": 8
+  },
+  {
+    "id": "068304bbbbb7",
+    "title": "Building Efficient RL Training for the Agentic Era",
+    "url": "https://www.salesforce.com/blog/efficient-rl-training-agentic-era/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-01T17:00:49+00:00",
+    "summary": "Introduction Reinforcement Learning from Human or AI Feedback (RLHF, RLAIF) has become the standard recipe for aligning large language models (LLMs). But as we push into the agentic era — where models call…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/Image-Mar-31-1.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "127fca9ade51",
+    "title": "Introducing Trailbread: Trailhead’s Pivot into Bread-ucation",
+    "url": "https://www.salesforce.com/blog/trailhead-trailbread-quest-agentforce-builder/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-01T17:10:51+00:00",
+    "summary": "Learning something new can feel like a stretch. Good thing we’ve got what you knead.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/Trailbread_Blog_Banner_1500x844.png",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 7
+  },
+  {
+    "id": "2c74a8d63701",
+    "title": "How to Choose the Right Integration Pattern for Agentforce",
+    "url": "https://www.salesforce.com/blog/how-to-choose-integration-pattern-for-agentforce/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-01T17:32:44+00:00",
+    "summary": "Explore the next generation of Agentforce Integration, Agent2Agent (A2A) and Model Context Protocol (MCP), alongside the established API pattern to determine the best integration strategy for your agent.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/How-to-Choose-the-Right-Integration-Pattern-for-Agentforce.png",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 7
   },
   {
     "id": "eb4f4896aae4",
