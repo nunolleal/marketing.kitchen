@@ -71,55 +71,6 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "688bb873ca43",
-    "title": "How to Design for Trust in Agentforce Voice",
-    "url": "https://www.salesforce.com/blog/design-trust-agentforce-voice/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-03T22:56:11+00:00",
-    "summary": "When creating voice AI, every sound and silence carries meaning. Using the right signals lets users know the system is working.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/voice_AI_Adobe_Pete.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "da5bce879b84",
-    "title": "Salesforce Stock Gains Momentum from Agentforce Revenue Surge - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNFZOS1pSWllKRjFFUHVBM054UHNBbWEyREg2UFhtTG91YldhWDJkNG92cFgtNjhhWjRqZ0Zsak53cGh2UWl0M3NNVUozNV84Rk91T1otLWJJOTc1LTVPc3d6NWNCU2o5R1hjZHlaTlhJbkV0bWk3MlBsd3V1dGl3YXNLYlMzT2syb3NVVklQZ3N5R0RsRlZYbUhBR0d4enJ5OXVMazNqeTdaVWtCU0psQlNsYUR5Zw?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-04-03T22:57:54+00:00",
-    "summary": "Salesforce Stock Gains Momentum from Agentforce Revenue Surge AD HOC NEWS",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13,
-    "also_covered_by": [
-      "Telecom 5G",
-      "Telecom Digital"
-    ]
-  },
-  {
-    "id": "409b58f44615",
-    "title": "AI Broke Your Job Title ‘Moat.’ What Happens Now?",
-    "url": "https://www.salesforce.com/blog/ai-redefine-job-title/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-03T23:24:41+00:00",
-    "summary": "Designers and engineers have spent years specializing in work that AI now does in minutes. It’s time to redefine human value and potential.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/ai_changes_your_role_Adobe_Rayhan_Studio-1.png",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
     "relevance_score": 13
   },
   {
@@ -154,20 +105,68 @@
     "relevance_score": 12
   },
   {
+    "id": "688bb873ca43",
+    "title": "How to Design for Trust in Agentforce Voice",
+    "url": "https://www.salesforce.com/blog/design-trust-agentforce-voice/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-03T22:56:11+00:00",
+    "summary": "When creating voice AI, every sound and silence carries meaning. Using the right signals lets users know the system is working.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/voice_AI_Adobe_Pete.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "da5bce879b84",
+    "title": "Salesforce Stock Gains Momentum from Agentforce Revenue Surge - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPNFZOS1pSWllKRjFFUHVBM054UHNBbWEyREg2UFhtTG91YldhWDJkNG92cFgtNjhhWjRqZ0Zsak53cGh2UWl0M3NNVUozNV84Rk91T1otLWJJOTc1LTVPc3d6NWNCU2o5R1hjZHlaTlhJbkV0bWk3MlBsd3V1dGl3YXNLYlMzT2syb3NVVklQZ3N5R0RsRlZYbUhBR0d4enJ5OXVMazNqeTdaVWtCU0psQlNsYUR5Zw?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-04-03T22:57:54+00:00",
+    "summary": "Salesforce Stock Gains Momentum from Agentforce Revenue Surge AD HOC NEWS",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 12,
+    "also_covered_by": [
+      "Telecom 5G"
+    ]
+  },
+  {
+    "id": "409b58f44615",
+    "title": "AI Broke Your Job Title ‘Moat.’ What Happens Now?",
+    "url": "https://www.salesforce.com/blog/ai-redefine-job-title/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-03T23:24:41+00:00",
+    "summary": "Designers and engineers have spent years specializing in work that AI now does in minutes. It’s time to redefine human value and potential.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/ai_changes_your_role_Adobe_Rayhan_Studio-1.png",
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 12
+  },
+  {
     "id": "e68e071168d0",
-    "title": "Tottenham Hotspur Connects Fan Data With Salesforce Service Cloud - CX Today",
+    "title": "Tottenham Hotspur Connects Fan Data With Salesforce Service Cloud - cxtoday.com",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMTRNWHRHMmNNVVFjM1ptR3dUZG04OXlkQnhlNldVbEgwWUNxbUQ3bkdGT2hTeW5yMVpKakRBOVh5RVRmZ2o0UHppZXFmeGgyR1RJa1F1cnNPMGdCbHltTXpoMWdCUFpELVlCcDIwWmctNG9mZ2RzSnNhQV9OOVdGSVVwelpkbHVmYkNvY3dFSGdRSFp2NkxWelA1cm9Ud0VPZURlU2czQlhsZGZwcGI4?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
     "published": "2026-04-03T14:18:13+00:00",
-    "summary": "Tottenham Hotspur Connects Fan Data With Salesforce Service Cloud CX Today",
+    "summary": "Tottenham Hotspur Connects Fan Data With Salesforce Service Cloud cxtoday.com",
     "image_url": null,
     "tags": [],
     "industries": [
       "media",
       "tech"
     ],
-    "relevance_score": 11
+    "relevance_score": 10
   },
   {
     "id": "9529a29e0f22",
@@ -256,12 +255,12 @@
   },
   {
     "id": "17ced88f2bbe",
-    "title": "Bandwidth Backs Salesforce Agentforce Contact Center with Voice and Messaging Infrastructure - CX Today",
+    "title": "Bandwidth Backs Salesforce Agentforce Contact Center with Voice and Messaging Infrastructure - cxtoday.com",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNd2NtRHMzSWdjRVVsb3VIYWdPSzVpNl9pbHpxWjNnVlY3NTRSSmVEaC16UWxOQmdZODg3V2R0eHlqZzU3cFJDTnJ1WXpJdUxTZXZHeVgxZHE5WlJtTUtyTkh4SWptSkpIcm1tTUNxLTVYa2JOOXZKRG9HYWdROWh1T2t2Z2dOX3JBTVF4YXkwaDJFZTdNZWVPZjFJM2Z5dnM?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
     "published": "2026-03-31T13:54:16+00:00",
-    "summary": "Bandwidth Backs Salesforce Agentforce Contact Center with Voice and Messaging Infrastructure CX Today",
+    "summary": "Bandwidth Backs Salesforce Agentforce Contact Center with Voice and Messaging Infrastructure cxtoday.com",
     "image_url": null,
     "tags": [],
     "industries": [
