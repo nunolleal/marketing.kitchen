@@ -373,7 +373,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 19
+    "relevance_score": 18
   },
   {
     "id": "96769b12581c",
@@ -422,6 +422,26 @@
     "relevance_score": 16
   },
   {
+    "id": "beaeb0e8aff5",
+    "title": "Copilot is ‘for entertainment purposes only,’ according to Microsoft’s terms of use",
+    "url": "https://techcrunch.com/2026/04/05/copilot-is-for-entertainment-purposes-only-according-to-microsofts-terms-of-service/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-05T18:51:37+00:00",
+    "summary": "AI skeptics aren’t the only ones warning users not to unthinkingly trust models’ outputs — that’s what the AI companies say themselves in their terms of service.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-2041281128-e1712563728365.jpg?resize=1200,676",
+    "tags": [
+      "AI",
+      "Copilot",
+      "Microsoft"
+    ],
+    "industries": [
+      "media",
+      "tech"
+    ],
+    "relevance_score": 16
+  },
+  {
     "id": "bbe32922d92b",
     "title": "How the Amazon Echo learned to talk — and listen",
     "url": "https://www.theverge.com/podcast/907146/amazon-echo-alexa-version-history",
@@ -441,7 +461,7 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "7be922b96c0e",
@@ -457,28 +477,6 @@
       "Google",
       "Hands-on",
       "Reviews",
-      "Tech"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "22bfdeb3cce6",
-    "title": "Suno is a music copyright nightmare",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-04-05T16:00:00+00:00",
-    "summary": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's supposed to recognize and stop you from using other people's songs and lyrics. Now,...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "AI",
-      "Entertainment",
-      "Music",
-      "Report",
       "Tech"
     ],
     "industries": [
@@ -524,6 +522,47 @@
     "industries": [
       "tech",
       "retail",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "22bfdeb3cce6",
+    "title": "Suno is a music copyright nightmare",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/906896/sunos-copyright-ai-music-covers",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-04-05T16:00:00+00:00",
+    "summary": "AI music platform Suno's policy is that it does not permit the use of copyrighted material. You can upload your own tracks to remix or set your original lyrics to AI-generated music. But, it's supposed to recognize and stop you from using other people's songs and lyrics. Now,...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STKB368_SUNO_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Music",
+      "Report",
+      "Tech"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "b0fa15a40b67",
+    "title": "OCSF explained: The shared data language security teams have been missing",
+    "url": "https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-04-05T18:07:41+00:00",
+    "summary": "The security industry has spent the last year talking about models, copilots, and agents, but a quieter shift is happening one layer below all of that: Vendors are lining up around a shared way to describe security data. The Open Cybersecurity Schema Framework ( OCSF), is...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1hnK3p6KoPnJhRtzL44Xab/1492dae9e6bd482ddd3ac2e9c5b4c2f1/OCSF.png?w=300&q=30",
+    "tags": [
+      "Security",
+      "DataDecisionMakers"
+    ],
+    "industries": [
+      "tech",
       "industrial"
     ],
     "relevance_score": 14
@@ -591,47 +630,6 @@
     "relevance_score": 12
   },
   {
-    "id": "71e7caf7bd90",
-    "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
-    "url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-03T19:48:22+00:00",
-    "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1294103185.jpg?resize=1200,799",
-    "tags": [
-      "Enterprise",
-      "Climate",
-      "AI",
-      "Google",
-      "Microsoft"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "bc2ab896d46a",
-    "title": "Super Meat Boy 3D makes suffering fun",
-    "url": "https://www.theverge.com/games/904202/super-meat-boy-3d-review",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-04-04T12:00:00+00:00",
-    "summary": "The original Super Meat Boy is one of the best-known indie games of all time. Released in 2010, it's a brutally difficult 2D platformer, but so fun to play: The short levels almost feel like speedrunning puzzles, and even though they're filled with traps and buzzsaws, dying...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/ss_642e90291698c85a287b944e41703a22013703dd.1920x1080.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
-    "tags": [
-      "Entertainment",
-      "Games Review",
-      "Gaming"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 12
-  },
-  {
     "id": "324af28662f3",
     "title": "There are more AI health tools than ever—but how well do they work?",
     "url": "https://www.technologyreview.com/2026/03/30/1134795/there-are-more-ai-health-tools-than-ever-but-how-well-do-they-work/",
@@ -649,27 +647,6 @@
     "industries": [
       "tech",
       "retail"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "612489e10607",
-    "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
-    "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-02T19:21:00+00:00",
-    "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Jordi_Hays_and_John_Coogan_on_set_2_1.webp?resize=1200,675",
-    "tags": [
-      "Media & Entertainment",
-      "AI",
-      "Chris Lehane",
-      "OpenAI",
-      "sam altman"
-    ],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 11
   },
@@ -696,20 +673,24 @@
     "relevance_score": 11
   },
   {
-    "id": "aacf13f32df5",
-    "title": "Four things we’d need to put data centers in space",
-    "url": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
-    "source": "MIT Technology Review",
+    "id": "71e7caf7bd90",
+    "title": "AI companies are building huge natural gas plants to power data centers. What could go wrong?",
+    "url": "https://techcrunch.com/2026/04/03/ai-companies-are-building-huge-natural-gas-plants-to-power-data-centers-what-could-go-wrong/",
+    "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-04-03T17:03:19+00:00",
-    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the US Federal Communications Commission...",
-    "image_url": null,
+    "published": "2026-04-03T19:48:22+00:00",
+    "summary": "Meta, Microsoft, and Google are all betting big on new natural gas power plants to run their AI data centers. They may regret it.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1294103185.jpg?resize=1200,799",
     "tags": [
-      "Space",
-      "App"
+      "Enterprise",
+      "Climate",
+      "AI",
+      "Google",
+      "Microsoft"
     ],
     "industries": [
-      "tech"
+      "tech",
+      "industrial"
     ],
     "relevance_score": 11
   },
@@ -785,42 +766,23 @@
     "relevance_score": 10
   },
   {
-    "id": "16092a2f2ba6",
-    "title": "Microsoft takes on AI rivals with three new foundational models",
-    "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+    "id": "612489e10607",
+    "title": "OpenAI acquires TBPN, the buzzy founder-led business talk show",
+    "url": "https://techcrunch.com/2026/04/02/openai-acquires-tbpn-the-buzzy-founder-led-business-talk-show/",
     "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-04-02T16:48:16+00:00",
-    "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?resize=1200,800",
+    "published": "2026-04-02T19:21:00+00:00",
+    "summary": "TBPN, Silicon Valley's cult-favorite tech podcast, will operate independently, even as it's overseen by chief political operative Chris Lehane.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Jordi_Hays_and_John_Coogan_on_set_2_1.webp?resize=1200,675",
     "tags": [
-      "Enterprise",
+      "Media & Entertainment",
       "AI",
-      "artificial intelligence",
-      "Microsoft",
-      "Mustafa Suleyman"
+      "Chris Lehane",
+      "OpenAI",
+      "sam altman"
     ],
     "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "117c292208c2",
-    "title": "Google releases Gemma 4 under Apache 2.0 — and that license change may matter more than benchmarks",
-    "url": "https://venturebeat.com/technology/google-releases-gemma-4-under-apache-2-0-and-that-license-change-may-matter",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-04-02T17:49:39+00:00",
-    "summary": "For the past two years, enterprises evaluating open-weight models have faced an awkward trade-off. Google's Gemma line consistently delivered strong performance, but its custom license — with usage restrictions and terms Google could update at will — pushed many teams toward...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1KjI96SJa9CT3g3xi3ldoE/d0f64bee4c9285397f8a8458b0de4c9d/ChatGPT_Image_Apr_2__2026__01_33_47_PM.png?w=300&q=30",
-    "tags": [
-      "Technology"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
+      "tech"
     ],
     "relevance_score": 10
   },
@@ -900,24 +862,20 @@
     "relevance_score": 10
   },
   {
-    "id": "9185f889ff99",
-    "title": "Edward ‘Big Balls’ Coristine Is Helping Out on Viral Fraud Videos Now",
-    "url": "https://www.wired.com/story/edward-coristine-nick-shirley-fraud-videos/",
-    "source": "Wired",
+    "id": "aacf13f32df5",
+    "title": "Four things we’d need to put data centers in space",
+    "url": "https://www.technologyreview.com/2026/04/03/1135073/four-things-wed-need-to-put-data-centers-in-space/",
+    "source": "MIT Technology Review",
     "source_category": "ai",
-    "published": "2026-04-03T19:36:59+00:00",
-    "summary": "The DOGE engineer appeared on influencer Nick Shirley's podcast this week to talk corruption and government work—and how they collaborated on Shirley's recent ‘investigation.’",
-    "image_url": "https://media.wired.com/photos/69cfdb9ebd20ea771b0073ba/master/pass/GettyImages-2268187430.jpg",
+    "published": "2026-04-03T17:03:19+00:00",
+    "summary": "MIT Technology Review Explains: Let our writers untangle the complex, messy world of technology to help you understand what’s coming next. You can read more from the series here. In January, Elon Musk’s SpaceX filed an application with the US Federal Communications Commission...",
+    "image_url": null,
     "tags": [
-      "Politics",
-      "politics",
-      "YouTube",
-      "DOGE",
-      "government"
+      "Space",
+      "App"
     ],
     "industries": [
-      "tech",
-      "industrial"
+      "tech"
     ],
     "relevance_score": 10
   },
@@ -957,40 +915,6 @@
     "industries": [
       "tech",
       "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "b0fa15a40b67",
-    "title": "OCSF explained: The shared data language security teams have been missing",
-    "url": "https://venturebeat.com/security/ocsf-explained-the-shared-data-language-security-teams-have-been-missing",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-04-04T18:06:19+00:00",
-    "summary": "The security industry has spent the last year talking about models, copilots, and agents, but a quieter shift is happening one layer below all of that: Vendors are lining up around a shared way to describe security data. The Open Cybersecurity Schema Framework ( OCSF), is...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1hnK3p6KoPnJhRtzL44Xab/1492dae9e6bd482ddd3ac2e9c5b4c2f1/OCSF.png?w=300&q=30",
-    "tags": [
-      "Security",
-      "DataDecisionMakers"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "c3ea72839425",
-    "title": "What Happened to the Fun Parts of Work? - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMikwNBVV95cUxQeUxMc0RaZTBDMXkxcHB5N0Uxdl9fd05RQ2pkbGpvT1A5VElaZVhHYTQ4Z1M5aHVXZmJ0TGppLWJLdGtITFJ3OW13Ti1RbUJqdm9zOExrWjhYd2twNDNXRVBuMThRVjFPMTBicU5YYmRaZEE5ZjVDUWhiRENfa0lfclNCWng5RWQyc3V5MG1iMVFJdUxIOUR6bUF5STZ1QWphQnU0TGhFaGpFWmRCVDdSSWpyVmFPWVZ4dW9KOTBpTkRXY1JFTnZkTzFVcU1vaEh3OENYUnJTNUdCS1JhcXJKZXljRVJHUkY5bVdybFB4X0g1bHplZTJ2WWttcmx4QmhJVWxOS1VhOG4xWXFKVy1YUVlNdnluRjA4THZNUHhhQ1NwM0dXNVlaeWdfVjFTZjhNUnRlakZldjEzNXp2OXZQZWc4bXNvWm5kelBMQl9xY3c4ZDhMV2lWSzBGbzZ3OWFueVF3em8zMnBOcGxlSTQ1MUljcV95YU1sMVVSendFa2c1NEkzOWFpeU5KWmpfRENXS2JV?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-04-05T12:52:52+00:00",
-    "summary": "What Happened to the Fun Parts of Work? WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 10
   },
@@ -1073,6 +997,28 @@
     "relevance_score": 9
   },
   {
+    "id": "16092a2f2ba6",
+    "title": "Microsoft takes on AI rivals with three new foundational models",
+    "url": "https://techcrunch.com/2026/04/02/microsoft-takes-on-ai-rivals-with-three-new-foundational-models/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-02T16:48:16+00:00",
+    "summary": "MAI released models that can transcribe voice into text as well as generate audio and images after the group's formation six months ago.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2207890426.jpg?resize=1200,800",
+    "tags": [
+      "Enterprise",
+      "AI",
+      "artificial intelligence",
+      "Microsoft",
+      "Mustafa Suleyman"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "52b46372dbce",
     "title": "‘The era of link in bio is finally over’: Meta",
     "url": "https://www.retaildive.com/news/era-of-link-in-bio-is-finally-over-instagram-reels-meta/815630/",
@@ -1099,6 +1045,28 @@
     "tags": [],
     "industries": [
       "tech"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "9185f889ff99",
+    "title": "Edward ‘Big Balls’ Coristine Is Helping Out on Viral Fraud Videos Now",
+    "url": "https://www.wired.com/story/edward-coristine-nick-shirley-fraud-videos/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-04-03T19:36:59+00:00",
+    "summary": "The DOGE engineer appeared on influencer Nick Shirley's podcast this week to talk corruption and government work—and how they collaborated on Shirley's recent ‘investigation.’",
+    "image_url": "https://media.wired.com/photos/69cfdb9ebd20ea771b0073ba/master/pass/GettyImages-2268187430.jpg",
+    "tags": [
+      "Politics",
+      "politics",
+      "YouTube",
+      "DOGE",
+      "government"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 9
   },
@@ -1210,6 +1178,22 @@
     "relevance_score": 8
   },
   {
+    "id": "97ad63de0cf8",
+    "title": "JazzCash Onboards Its 1 Millionth Merchant on Pakistan’s National Digital Payments Platform, Advancing the Country’s Cashless Economy - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMWFBbjZuX2ZfUHJ0UDhnMVdxS0huT2R5N0o2YjMyUFoxNm5OY21oQnF0Q0Z2cUFUMW9oMTBaQXVQZ2Z6dFJsN1U0aEJlQ3FvX3Jqb2RLT0VnUU55WktVMXBGbDlHSm9pMFF5VkxZU0pMY1dBbHJyNFFIY04wVzJfTFN6blk5YTdaZ3VFOEp5czNBRzZDTTdGZXZ3OTRNMlFHSXBydWhB?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-03-30T12:00:00+00:00",
+    "summary": "JazzCash Onboards Its 1 Millionth Merchant on Pakistan’s National Digital Payments Platform, Advancing the Country’s Cashless Economy Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 7
+  },
+  {
     "id": "ec2c45539d73",
     "title": "The Download: gig workers training humanoids, and better AI benchmarks",
     "url": "https://www.technologyreview.com/2026/04/01/1134993/the-download-gig-workers-training-humanoids-better-ai-benchmarks/",
@@ -1240,6 +1224,21 @@
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "d064129764ea",
+    "title": "Adobe Inc. (ADBE): Billionaire Ray Dalio Is Buying This Software Stock - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQMTJydkFTOHJtUUNIU3cySkg3TjF3Y05oY3VfQVlzRTFZZ0I4WWNCb1VDR3YwdU5GUElWbjBqcWQ1aWZDZkt2Ql8wOFlPN2RxYm9vN3VGUzhwa19lbVh6enFQODEtc05RUy01MjM4UXBpMlZNRHdXcVkzTjVCcmd3UEd2VTY0dXdVTGJqWGdKaUdVM3A2c1l5TWlkVQ?oc=5",
+    "source": "Adobe Inc",
+    "source_category": "adobe",
+    "published": "2026-04-01T18:55:22+00:00",
+    "summary": "Adobe Inc. (ADBE): Billionaire Ray Dalio Is Buying This Software Stock Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 7
   },
@@ -1327,12 +1326,12 @@
   },
   {
     "id": "3dbab4bd86bc",
-    "title": "Shaping the next Global Strategy on Digital Health (2028–2033): global stakeholder consultation - World Health Organization (WHO)",
+    "title": "Shaping the next Global Strategy on Digital Health (2028–2033): global stakeholder consultation - who.int",
     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOXdqNWZuR0NTaDVlU3piaFhCclBwRWpPV0tqU01mWkRGZnQ1by1OaTVYZTk5dTAxTjhBcG1BWDRLMUFRN3RsVkE0Z0F4cmNCTGd5MTlDcUVWX0lrcnpGbGFRd3A3WWpiRE1xTDJGekhxcWpvbXpsbzA2aTAzZlBYdDByYVRHZUp0SlBpRjhkLUd6U3RIRnFOVWE2Wm9JTkRpLTdWWnlUTER3WGFIMXNJMURFWU9adERLWFdQSUhkTm9TaWtZbnZBRktlREFzTnFzQWVEM21CSHowcXhkUTktQnZaM0N2U0V6QkMxUnU1S0p0M0cydl9laEVB?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
     "published": "2026-04-01T13:00:00+00:00",
-    "summary": "Shaping the next Global Strategy on Digital Health (2028–2033): global stakeholder consultation World Health Organization (WHO)",
+    "summary": "Shaping the next Global Strategy on Digital Health (2028–2033): global stakeholder consultation who.int",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1408,12 +1407,12 @@
   },
   {
     "id": "0d82867f5b47",
-    "title": "Bishop Thomas Supports Bill to End FDA Approval of Chemical Abortion Pills - usccb.org",
+    "title": "Bishop Thomas Supports Bill to End FDA Approval of Chemical Abortion Pills - usccb",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORDZ0MHRQZjMzUWh4UXdSMU52a29kaHRxTUtTMWZrcTh4OWJKRVhUc1JNSlR6SDM3YmY2b0owMDRNbkdFZWVVX0JYekFSa0lvcDg4ZjNuMmIzdjYwYmt6aVBBTi0yWEN1RWlJZnlUVHduSlFEdFhyeWRHM0VVVVNQTjk5Y2w4VzZxMTl5eTd5M2puY1JTeWJ4a25kNUxYMEh1RGc?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
     "published": "2026-04-01T19:01:24+00:00",
-    "summary": "Bishop Thomas Supports Bill to End FDA Approval of Chemical Abortion Pills usccb.org",
+    "summary": "Bishop Thomas Supports Bill to End FDA Approval of Chemical Abortion Pills usccb",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1453,10 +1452,7 @@
       "tech",
       "lifesciences"
     ],
-    "relevance_score": 5,
-    "also_covered_by": [
-      "Health Tech"
-    ]
+    "relevance_score": 5
   },
   {
     "id": "948cad42d14f",
@@ -1492,12 +1488,12 @@
   },
   {
     "id": "319d74c40d5e",
-    "title": "How the Apple Watch defined modern health tech - The Verge",
+    "title": "How the Apple Watch defined modern health tech - theverge.com",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXVlckV0aWJEVjNwNzdjR3Y2Ukd4WUZZR0drSmFNR0dLdFhWZWRjSGE4b1ZMMVdhLXM5Q2NBYzNQSTcwS3RUNGsxS1BGcUREanJFRGU2UjE0TDBQdUVfcjViSHJvNTdqRFBOVW5jQ3VuTEp2bks3Zml0Z1N5cmJkbzNzX0dyUGNSRFFKeU9vYWotRmVRcHc?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
     "published": "2026-04-03T14:00:00+00:00",
-    "summary": "How the Apple Watch defined modern health tech The Verge",
+    "summary": "How the Apple Watch defined modern health tech theverge.com",
     "image_url": null,
     "tags": [],
     "industries": [
