@@ -59,7 +59,7 @@
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "2986c1fbdf61",
@@ -90,7 +90,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "36f0d17a7648",
@@ -108,7 +108,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 11
+    "relevance_score": 10
   },
   {
     "id": "3b327974f5f7",
@@ -154,67 +154,6 @@
     "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202025-04-10T152915.785.jpg?VersionId=r8FCCe6qoFAxs3yINSnZ.hQWytsgyQdj",
     "tags": [],
     "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "996a56f582f0",
-    "title": "CHS closes sale of Alabama hospital",
-    "url": "https://www.healthcaredive.com/news/chs-closes-sale-of-alabama-hospital/816449/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-02T13:24:41+00:00",
-    "summary": "Community Health Systems completed the divestiture of Crestwood Medical Center this week as the for-profit operator continues paying down its debt.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "97ae86ddc71d",
-    "title": "AI scribe adoption linked to modest reductions in EHR, documentation time: study",
-    "url": "https://www.healthcaredive.com/news/ai-artificial-intelligence-scribes-reductions-ehr-documentation-time-jama/816400/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-02T16:12:03+00:00",
-    "summary": "Clinicians’ use of an AI scribe was associated with 13 fewer minutes each day inside electronic health records and 16 fewer minutes on documenting patient care, according to the research published in JAMA.",
-    "image_url": "https://imgproxy.divecdn.com/JW6kkH6ty5giZLsbs9T2MzRCemkzsvRWKAolR7GRy58/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRpZW50X2RvY3Rvcl90YWJsZXRfbWVkaWNhbF9yZWNvcmRzLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "3120d9b96a8a",
-    "title": "Novo Nordisk launches discounted subscription program for Wegovy through telehealth providers",
-    "url": "https://www.fiercehealthcare.com/telehealth/novo-nordisk-launches-first-and-only-wegovy-subscription-program",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-02T16:22:00+00:00",
-    "summary": "The GLP-1 subscription program is available to eligible self-pay patients through select telehealth providers, including Ro, WeightWatchers and Him & Hers.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/WEGOVY5.PNG?VersionId=gagcTe.i0_tqVgBA8OXLUAmf0rphtpae",
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "6ffe04f28011",
-    "title": "FTC urges Tennessee to preserve Ballad Health’s COPA",
-    "url": "https://www.healthcaredive.com/news/ftc-urges-tennessee-to-preserve-ballad-health-copa/816469/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-03T14:42:04+00:00",
-    "summary": "Lawmakers are considering bills that would unwind the state’s oversight over Ballad, a large state-sanctioned hospital monopoly. The FTC argues that’s a bad idea.",
-    "image_url": "https://imgproxy.divecdn.com/1DFG8o5dN41yUuNj7aAn5NjK5NwP8GcncqA_DY_49uE/g:nowe:0:201/c:2121:1198/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDE1MjY5MzAyLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 9
@@ -286,6 +225,51 @@
     "relevance_score": 8
   },
   {
+    "id": "996a56f582f0",
+    "title": "CHS closes sale of Alabama hospital",
+    "url": "https://www.healthcaredive.com/news/chs-closes-sale-of-alabama-hospital/816449/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-02T13:24:41+00:00",
+    "summary": "Community Health Systems completed the divestiture of Crestwood Medical Center this week as the for-profit operator continues paying down its debt.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "97ae86ddc71d",
+    "title": "AI scribe adoption linked to modest reductions in EHR, documentation time: study",
+    "url": "https://www.healthcaredive.com/news/ai-artificial-intelligence-scribes-reductions-ehr-documentation-time-jama/816400/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-02T16:12:03+00:00",
+    "summary": "Clinicians’ use of an AI scribe was associated with 13 fewer minutes each day inside electronic health records and 16 fewer minutes on documenting patient care, according to the research published in JAMA.",
+    "image_url": "https://imgproxy.divecdn.com/JW6kkH6ty5giZLsbs9T2MzRCemkzsvRWKAolR7GRy58/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wYXRpZW50X2RvY3Rvcl90YWJsZXRfbWVkaWNhbF9yZWNvcmRzLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "3120d9b96a8a",
+    "title": "Novo Nordisk launches discounted subscription program for Wegovy through telehealth providers",
+    "url": "https://www.fiercehealthcare.com/telehealth/novo-nordisk-launches-first-and-only-wegovy-subscription-program",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-02T16:22:00+00:00",
+    "summary": "The GLP-1 subscription program is available to eligible self-pay patients through select telehealth providers, including Ro, WeightWatchers and Him & Hers.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/WEGOVY5.PNG?VersionId=gagcTe.i0_tqVgBA8OXLUAmf0rphtpae",
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "8b6baf3f43e4",
     "title": "Industry Voices—Hospitals are fueling AI innovation, should they own a piece of it?",
     "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/industry-voices-hospitals-are-fueling-ai-innovation-should-they-own-piece",
@@ -296,6 +280,22 @@
     "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/fiercebiotech/1621870024/shutterstock_1154735041.jpg/shutterstock_1154735041.jpg?VersionId=NkjuQCOq4C1YOyTJ82fEzJrXM9wiQIW0",
     "tags": [],
     "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "6ffe04f28011",
+    "title": "FTC urges Tennessee to preserve Ballad Health’s COPA",
+    "url": "https://www.healthcaredive.com/news/ftc-urges-tennessee-to-preserve-ballad-health-copa/816469/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-03T14:42:04+00:00",
+    "summary": "Lawmakers are considering bills that would unwind the state’s oversight over Ballad, a large state-sanctioned hospital monopoly. The FTC argues that’s a bad idea.",
+    "image_url": "https://imgproxy.divecdn.com/1DFG8o5dN41yUuNj7aAn5NjK5NwP8GcncqA_DY_49uE/g:nowe:0:201/c:2121:1198/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDE1MjY5MzAyLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 8
@@ -382,21 +382,6 @@
     "relevance_score": 7
   },
   {
-    "id": "41b05cdd4fe2",
-    "title": "Health tech breach exposes 3.4M patient records - Fox News",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaWctTHhLQTBja0NrX3ZQeEN1UGxpdEkwSnlHbEh3cHdRaUxjYi1SN0dTTGk0aEJ6d3V2S3JPekV4Qng5UVRjU3hiS0VIU0dBNF9qdU52VGFodW1GdDV3aExod1ItanVJRTdCUzNZRXZsX3RlUURVbFpMUUgyMW1jcUxB0gGHAUFVX3lxTE1wQVhrRDBNRFZvdHl6NFRGZEJGM0MyRDhWQjVxR3FMaHp2RXdaWWNnLTFMRVYwdGR5WWIwWlc0dFM4N0Jlc1R6dGY0SkFmSHJ1OW1FRGJkWW80aUlxdHZKbUswcnR3V1BmYnFsdWpKNXkxal9pMFNoQ3lHcVlUNDlGbTUwdmdCaw?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-03T13:18:22+00:00",
-    "summary": "Health tech breach exposes 3.4M patient records Fox News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 7
-  },
-  {
     "id": "3dbab4bd86bc",
     "title": "Shaping the next Global Strategy on Digital Health (2028–2033): global stakeholder consultation - World Health Organization (WHO)",
     "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxNOXdqNWZuR0NTaDVlU3piaFhCclBwRWpPV0tqU01mWkRGZnQ1by1OaTVYZTk5dTAxTjhBcG1BWDRLMUFRN3RsVkE0Z0F4cmNCTGd5MTlDcUVWX0lrcnpGbGFRd3A3WWpiRE1xTDJGekhxcWpvbXpsbzA2aTAzZlBYdDByYVRHZUp0SlBpRjhkLUd6U3RIRnFOVWE2Wm9JTkRpLTdWWnlUTER3WGFIMXNJMURFWU9adERLWFdQSUhkTm9TaWtZbnZBRktlREFzTnFzQWVEM21CSHowcXhkUTktQnZaM0N2U0V6QkMxUnU1S0p0M0cydl9laEVB?oc=5",
@@ -428,36 +413,19 @@
     "relevance_score": 6
   },
   {
-    "id": "319d74c40d5e",
-    "title": "How the Apple Watch defined modern health tech - The Verge",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXVlckV0aWJEVjNwNzdjR3Y2Ukd4WUZZR0drSmFNR0dLdFhWZWRjSGE4b1ZMMVdhLXM5Q2NBYzNQSTcwS3RUNGsxS1BGcUREanJFRGU2UjE0TDBQdUVfcjViSHJvNTdqRFBOVW5jQ3VuTEp2bks3Zml0Z1N5cmJkbzNzX0dyUGNSRFFKeU9vYWotRmVRcHc?oc=5",
+    "id": "41b05cdd4fe2",
+    "title": "Health tech breach exposes 3.4M patient records - Fox News",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxPaWctTHhLQTBja0NrX3ZQeEN1UGxpdEkwSnlHbEh3cHdRaUxjYi1SN0dTTGk0aEJ6d3V2S3JPekV4Qng5UVRjU3hiS0VIU0dBNF9qdU52VGFodW1GdDV3aExod1ItanVJRTdCUzNZRXZsX3RlUURVbFpMUUgyMW1jcUxB0gGHAUFVX3lxTE1wQVhrRDBNRFZvdHl6NFRGZEJGM0MyRDhWQjVxR3FMaHp2RXdaWWNnLTFMRVYwdGR5WWIwWlc0dFM4N0Jlc1R6dGY0SkFmSHJ1OW1FRGJkWW80aUlxdHZKbUswcnR3V1BmYnFsdWpKNXkxal9pMFNoQ3lHcVlUNDlGbTUwdmdCaw?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-03T14:00:00+00:00",
-    "summary": "How the Apple Watch defined modern health tech The Verge",
+    "published": "2026-04-03T13:18:22+00:00",
+    "summary": "Health tech breach exposes 3.4M patient records Fox News",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 6
-  },
-  {
-    "id": "931509fe55da",
-    "title": "The risks of direct-to-consumer pharmaceutical advertising and Big Pharma - KevinMD.com",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQVnliZndvN2RfQkdSX1llQkpSLTFIUVBGTFVCU2MycVZrVGlHdGZBWDhETHViLVJ5YUVFUDAzc3VjbVUybmpUdHRxXzVZV1FQOWZlMkUwdzQ5ZnlXckpMUXJpbUVEblR6eVYyT1RDakdyYnppTFI3T2VqWl9fckJpdm1jbTZIcEM5M3JROEFYTGRubkhGaU1YSXNubDc1NjJxRGFoemNfMjgwZw?oc=5",
-    "source": "Pharma Marketing",
-    "source_category": "industry_lifesciences",
-    "published": "2026-03-29T16:17:54+00:00",
-    "summary": "The risks of direct-to-consumer pharmaceutical advertising and Big Pharma KevinMD.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 5
   },
   {
     "id": "3dba93b1efa3",
@@ -493,12 +461,12 @@
   },
   {
     "id": "0d82867f5b47",
-    "title": "Bishop Thomas Supports Bill to End FDA Approval of Chemical Abortion Pills - usccb",
+    "title": "Bishop Thomas Supports Bill to End FDA Approval of Chemical Abortion Pills - usccb.org",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxORDZ0MHRQZjMzUWh4UXdSMU52a29kaHRxTUtTMWZrcTh4OWJKRVhUc1JNSlR6SDM3YmY2b0owMDRNbkdFZWVVX0JYekFSa0lvcDg4ZjNuMmIzdjYwYmt6aVBBTi0yWEN1RWlJZnlUVHduSlFEdFhyeWRHM0VVVVNQTjk5Y2w4VzZxMTl5eTd5M2puY1JTeWJ4a25kNUxYMEh1RGc?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
     "published": "2026-04-01T19:01:24+00:00",
-    "summary": "Bishop Thomas Supports Bill to End FDA Approval of Chemical Abortion Pills usccb",
+    "summary": "Bishop Thomas Supports Bill to End FDA Approval of Chemical Abortion Pills usccb.org",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -544,22 +512,6 @@
     ]
   },
   {
-    "id": "e76bf35139ef",
-    "title": "How Digital Health Is Transforming Healthcare Delivery in Japan - vocal.media",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOQWxOSlk3U2NjSXpIbXBnQXByYVpIOW9EeHNHT2JFS3NYdF9NNTdYTzRWQmZYVHdrWU1kZ1ZfZlBHNV9aUG9seEFJTTJma3pla3d3X2NkUkdhNXZnX0J0Vmt1WEI0ckk5anBJM05YZW1SSHRsb3htT2wycDlacVJzYTE5ek1ZbG05eXZRdXV0RQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-02T10:55:30+00:00",
-    "summary": "How Digital Health Is Transforming Healthcare Delivery in Japan vocal.media",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
     "id": "948cad42d14f",
     "title": "Bishops’ pro-life chair backs longshot bill to revoke mifepristone’s FDA approval - OSV News",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOUkR0akY1R2pZMVBoV2xlN19pa3dGSXdZMDBXSVNDVk5VSUxLbnR1eHotbW9pUmFIbnRJZFR1c0wtTG41NWhvSkZaTHRFVWxzcm9OTWFVdDlzWDBmNlpxX1RZYldpMWthbWhRNFB4TDFFQ1p2SndnNFA5X3ppQzh6MlZrRzZxREFsXzR0ZDEzZ1VQaXNzR3R4TkU5TURSQXdEcW5Wam5nWQ?oc=5",
@@ -586,6 +538,23 @@
     "image_url": null,
     "tags": [],
     "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "319d74c40d5e",
+    "title": "How the Apple Watch defined modern health tech - The Verge",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQLXVlckV0aWJEVjNwNzdjR3Y2Ukd4WUZZR0drSmFNR0dLdFhWZWRjSGE4b1ZMMVdhLXM5Q2NBYzNQSTcwS3RUNGsxS1BGcUREanJFRGU2UjE0TDBQdUVfcjViSHJvNTdqRFBOVW5jQ3VuTEp2bks3Zml0Z1N5cmJkbzNzX0dyUGNSRFFKeU9vYWotRmVRcHc?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-03T14:00:00+00:00",
+    "summary": "How the Apple Watch defined modern health tech The Verge",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 5
