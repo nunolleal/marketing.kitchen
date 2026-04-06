@@ -12,7 +12,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 35
+    "relevance_score": 32
   },
   {
     "id": "28aba52eb738",
@@ -43,6 +43,19 @@
     "relevance_score": 26
   },
   {
+    "id": "1b514e80e315",
+    "title": "Is Your Salesforce Org Overflowing with Data? You Need an ‘’Attic’’ Strategy",
+    "url": "https://www.salesforce.com/blog/data-archiving-strategy/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-06T17:38:52+00:00",
+    "summary": "Stop letting data clutter your org. Learn how a native archiving strategy boosts performance, ensures compliance, and scales with your business.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/26006.01_Salesforce_Blog360Headers2_R1_V1-_Archive-Closet-vs-Attic-Blog.jpg?w=6250",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 15
+  },
+  {
     "id": "7897c3b17473",
     "title": "Slackbot For Small Business: The Best Bot in the Biz",
     "url": "https://www.salesforce.com/blog/slackbot-for-small-business/",
@@ -53,7 +66,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/image_df2c90.jpeg",
     "tags": [],
     "industries": [],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "53b5667232c3",
@@ -66,7 +79,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/field-service-inspection-1500x844_2.jpg",
     "tags": [],
     "industries": [],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "a16642ee687d",
@@ -144,19 +157,6 @@
       "tech"
     ],
     "relevance_score": 8
-  },
-  {
-    "id": "127fca9ade51",
-    "title": "Introducing Trailbread: Trailhead’s Pivot into Bread-ucation",
-    "url": "https://www.salesforce.com/blog/trailhead-trailbread-quest-agentforce-builder/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-01T17:10:51+00:00",
-    "summary": "Learning something new can feel like a stretch. Good thing we’ve got what you knead.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/Trailbread_Blog_Banner_1500x844.png",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 7
   },
   {
     "id": "2c74a8d63701",
@@ -258,22 +258,6 @@
     "tags": [],
     "industries": [
       "industrial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "e68e071168d0",
-    "title": "Tottenham Hotspur Connects Fan Data With Salesforce Service Cloud - CX Today",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMTRNWHRHMmNNVVFjM1ptR3dUZG04OXlkQnhlNldVbEgwWUNxbUQ3bkdGT2hTeW5yMVpKakRBOVh5RVRmZ2o0UHppZXFmeGgyR1RJa1F1cnNPMGdCbHltTXpoMWdCUFpELVlCcDIwWmctNG9mZ2RzSnNhQV9OOVdGSVVwelpkbHVmYkNvY3dFSGdRSFp2NkxWelA1cm9Ud0VPZURlU2czQlhsZGZwcGI4?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-04-03T14:18:13+00:00",
-    "summary": "Tottenham Hotspur Connects Fan Data With Salesforce Service Cloud CX Today",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "tech"
     ],
     "relevance_score": 6
   }
