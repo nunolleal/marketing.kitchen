@@ -10,7 +10,7 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 39
+    "relevance_score": 36
   },
   {
     "id": "30f8f7bb31a3",
@@ -59,6 +59,38 @@
     "relevance_score": 29
   },
   {
+    "id": "84f7b320c51c",
+    "title": "Set Up Your Small Business Wellness Program (And See What Happens)",
+    "url": "https://www.salesforce.com/blog/small-business-wellness-program/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-08T14:00:00+00:00",
+    "summary": "When you take care of your people, they take care of your customers — and everything gets taken care of.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/Wellness-Program-SMB.jpg",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "d6932530e17c",
+    "title": "Your Agent is Live. Now What?",
+    "url": "https://www.salesforce.com/blog/agent-live-now-what/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-08T16:17:49+00:00",
+    "summary": "Deploying your agent is the easy part. Seven questions transform a successful launch into a scalable AI strategy.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/AdobeStock_1772380547.jpeg?w=6717",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
     "id": "5570973d918d",
     "title": "Refreshed Agentforce Guide Captures a Year of Innovation and Script Success",
     "url": "https://www.salesforce.com/blog/agentforce-guide/",
@@ -69,22 +101,6 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/AF-Guide-Kale-Blog.jpeg",
     "tags": [],
     "industries": [
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "75d6800d1a7d",
-    "title": "The Deskless Revolution: One Year of Agentic Field Service (And What Comes Next)",
-    "url": "https://www.salesforce.com/blog/agentic-field-service-success/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-07T16:48:19+00:00",
-    "summary": "The biggest AI value isn't in only summarizing emails. It's in the utility trench, the lab inspection, and the building facility. Applied AI is in the field solving real-world, physical problems for mobile workers.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/field-service-operations-launch-1680x1120_2.jpg",
-    "tags": [],
-    "industries": [
-      "tech",
       "industrial"
     ],
     "relevance_score": 11
@@ -113,48 +129,22 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/image_13bd56.jpeg",
     "tags": [],
     "industries": [],
-    "relevance_score": 10
+    "relevance_score": 9
   },
   {
-    "id": "27e9287582e0",
-    "title": "Engine Delivers Autonomous Travel Support with Hybrid Development on the Agentforce 360 Platform",
-    "url": "https://www.salesforce.com/blog/engine-customer-story/",
+    "id": "75d6800d1a7d",
+    "title": "The Deskless Revolution: One Year of Agentic Field Service (And What Comes Next)",
+    "url": "https://www.salesforce.com/blog/agentic-field-service-success/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-04-03T15:02:24+00:00",
-    "summary": "Low-code Agentforce Builder combined with AI-powered Agentforce Vibes for code generation enabled Engine to deploy tested enterprise applications in 12 days.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/Platform-Customer-Story-Engine-1060x608-1.png",
+    "published": "2026-04-07T16:48:19+00:00",
+    "summary": "The biggest AI value isn't simply summarizing emails. It's in the utility trench, the lab inspection, and the building facility. Applied AI is in the field solving real-world, physical problems for mobile workers.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/field-service-operations-launch-1680x1120_2.jpg",
     "tags": [],
     "industries": [
       "tech",
       "industrial"
     ],
-    "relevance_score": 9
-  },
-  {
-    "id": "7897c3b17473",
-    "title": "Slackbot For Small Business: The Best Bot in the Biz",
-    "url": "https://www.salesforce.com/blog/slackbot-for-small-business/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-06T13:00:00+00:00",
-    "summary": "Turn your team into a productivity powerhouse with the newest little bot in the business.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/image_df2c90.jpeg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 9
-  },
-  {
-    "id": "53b5667232c3",
-    "title": "How AI-Powered Field Inspections Achieve Uptime and Audit-Ready Compliance",
-    "url": "https://www.salesforce.com/blog/field-service-inspections/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-06T13:58:01+00:00",
-    "summary": "AI is augmenting inspections, helping maintain compliance and keeping mobile workers productive.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/field-service-inspection-1500x844_2.jpg",
-    "tags": [],
-    "industries": [],
     "relevance_score": 9
   },
   {
@@ -189,19 +179,30 @@
     "relevance_score": 8
   },
   {
-    "id": "688bb873ca43",
-    "title": "How to Design for Trust in Agentforce Voice",
-    "url": "https://www.salesforce.com/blog/design-trust-agentforce-voice/",
+    "id": "7897c3b17473",
+    "title": "Slackbot For Small Business: The Best Bot in the Biz",
+    "url": "https://www.salesforce.com/blog/slackbot-for-small-business/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-04-03T22:56:11+00:00",
-    "summary": "When creating voice AI, every sound and silence carries meaning. Using the right signals lets users know the system is working.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/voice_AI_Adobe_Pete.png",
+    "published": "2026-04-06T13:00:00+00:00",
+    "summary": "Turn your team into a productivity powerhouse with the newest little bot in the business.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/image_df2c90.jpeg",
     "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 7
+    "industries": [],
+    "relevance_score": 8
+  },
+  {
+    "id": "53b5667232c3",
+    "title": "How AI-Powered Field Inspections Achieve Uptime and Audit-Ready Compliance",
+    "url": "https://www.salesforce.com/blog/field-service-inspections/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-06T13:58:01+00:00",
+    "summary": "AI is augmenting inspections, helping maintain compliance and keeping mobile workers productive.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/field-service-inspection-1500x844_2.jpg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 8
   },
   {
     "id": "409b58f44615",
@@ -230,37 +231,6 @@
     "tags": [],
     "industries": [
       "industrial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "9c8db799f150",
-    "title": "Salesforce Agentforce Executive Departs for Rival Sierra - The Information",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOQW56ZUFWcHVkZlpJLXVPbzNrNXJZa1QyWHk4TVAzQ28wZGFVaVpTb19DU2ZJY1VoUnhBdkhOZjRpRDNPM1lMTk90NHZMTzMzTXNnUVJLT2dGTUZFWHl1ek13N0tZcmFJZWgtQlN2bHdRbHY4OGFXdTRXUVlHT0NvNTVQRUZZSWFTMWFxclV5M2RBLXRXaGFHeA?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-04-03T01:44:00+00:00",
-    "summary": "Salesforce Agentforce Executive Departs for Rival Sierra The Information",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "e68e071168d0",
-    "title": "Tottenham Hotspur Connects Fan Data With Salesforce Service Cloud - CX Today",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMTRNWHRHMmNNVVFjM1ptR3dUZG04OXlkQnhlNldVbEgwWUNxbUQ3bkdGT2hTeW5yMVpKakRBOVh5RVRmZ2o0UHppZXFmeGgyR1RJa1F1cnNPMGdCbHltTXpoMWdCUFpELVlCcDIwWmctNG9mZ2RzSnNhQV9OOVdGSVVwelpkbHVmYkNvY3dFSGdRSFp2NkxWelA1cm9Ud0VPZURlU2czQlhsZGZwcGI4?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-04-03T14:18:13+00:00",
-    "summary": "Tottenham Hotspur Connects Fan Data With Salesforce Service Cloud CX Today",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "tech"
     ],
     "relevance_score": 6
   }
