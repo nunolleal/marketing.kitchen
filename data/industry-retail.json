@@ -40,7 +40,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 55
+    "relevance_score": 52
   },
   {
     "id": "c57ae780ad6d",
@@ -85,22 +85,6 @@
     "relevance_score": 48
   },
   {
-    "id": "1fcfd83ea14a",
-    "title": "Bed Bath & Beyond to acquire Cabinets To Go, Lumber Liquidators owner",
-    "url": "https://www.retaildive.com/news/bed-bath-beyond-acquires-cabinets-to-go-lumber-liquidators-owner/816954/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-04-08T16:04:00+00:00",
-    "summary": "The retailer intends to purchase most of F9 Brands' assets for about $150 million, which would help it develop a home services and improvement portfolio.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "consumer"
-    ],
-    "relevance_score": 45
-  },
-  {
     "id": "651bc7ac1438",
     "title": "Five Guys serves up largest integrated brand campaign to date",
     "url": "https://www.marketingdive.com/news/five-guys-serves-up-largest-integrated-brand-campaign-to-date/816837/",
@@ -114,6 +98,22 @@
       "retail",
       "consumer",
       "industrial"
+    ],
+    "relevance_score": 42
+  },
+  {
+    "id": "1fcfd83ea14a",
+    "title": "Bed Bath & Beyond to acquire Cabinets To Go, Lumber Liquidators owner",
+    "url": "https://www.retaildive.com/news/bed-bath-beyond-acquires-cabinets-to-go-lumber-liquidators-owner/816954/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-04-08T16:04:00+00:00",
+    "summary": "The retailer intends to purchase most of F9 Brands' assets for about $150 million, which would help it develop a home services and improvement portfolio.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "consumer"
     ],
     "relevance_score": 42
   },
@@ -174,27 +174,6 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 17
-  },
-  {
-    "id": "a0afc4cc89d9",
-    "title": "Amazon Pulls Support for Perfectly Fine Older Kindles",
-    "url": "https://www.wired.com/story/amazon-pulls-support-for-perfectly-fine-older-kindles/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-04-08T16:54:08+00:00",
-    "summary": "In an email to customers, Amazon announced that it would be ending service for Kindle devices older than the 2012 edition. Those devices will lose access to the Kindle Store.",
-    "image_url": "https://media.wired.com/photos/69d679c9383b6979c9a47b1a/master/pass/Amazon-Killing-Older-Kindles-Gear-86436640.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Tablets",
-      "Amazon",
-      "Kindle"
-    ],
-    "industries": [
-      "retail"
-    ],
     "relevance_score": 16
   },
   {
@@ -212,6 +191,27 @@
     ],
     "industries": [
       "tech",
+      "retail"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "eaff4da0eaf6",
+    "title": "Sophie Turner Injured on Tomb Raider Set: It’s Not All Fun And Games",
+    "url": "https://www.forbes.com/sites/legalentertainment/2026/04/08/sophie-turner-injured-on-tomb-raider-set-its-not-all-fun-and-games/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-08T20:31:53+00:00",
+    "summary": "GOT's Sophie Turner was injured on set during production of Amazon MGM Studios’ Tomb Raider adaptation, in which she stars as Lara Croft.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69d6a9039a60115efd83878d/0x0.jpg?width=960",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
       "retail"
     ],
     "relevance_score": 15
@@ -255,6 +255,27 @@
     "relevance_score": 14
   },
   {
+    "id": "a0afc4cc89d9",
+    "title": "Amazon Pulls Support for Perfectly Fine Older Kindles",
+    "url": "https://www.wired.com/story/amazon-pulls-support-for-perfectly-fine-older-kindles/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-04-08T16:54:08+00:00",
+    "summary": "In an email to customers, Amazon announced that it would be ending service for Kindle devices older than the 2012 edition. Those devices will lose access to the Kindle Store.",
+    "image_url": "https://media.wired.com/photos/69d679c9383b6979c9a47b1a/master/pass/Amazon-Killing-Older-Kindles-Gear-86436640.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Tablets",
+      "Amazon",
+      "Kindle"
+    ],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 14
+  },
+  {
     "id": "09c423bca9e7",
     "title": "Foot Locker partners with DoorDash for on-demand delivery",
     "url": "https://www.retaildive.com/news/foot-locker-doordash-on-demand-delivery/816928/",
@@ -267,42 +288,6 @@
     "industries": [
       "tech",
       "retail"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "30c2262a4fd9",
-    "title": "Amazon S3 Files gives AI agents a native file system workspace, ending the object-file split that breaks multi-agent pipelines",
-    "url": "https://venturebeat.com/data/amazon-s3-files-gives-ai-agents-a-native-file-system-workspace-ending-the",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-04-07T21:36:00+00:00",
-    "summary": "AI agents run on file systems using standard tools to navigate directories and read file paths. The challenge, however, is that there is a lot of enterprise data in object storage systems, notably Amazon S3. Object stores serve data through API calls, not file paths. Bridging...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7qINoorFvA8oMUYPoXZgvV/96ded88e2eb8ab5a27f6894b6b27cf44/Amazon-s3files-missinglink-smk1.jpg?w=300&q=30",
-    "tags": [
-      "Data"
-    ],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "71edbf296511",
-    "title": "Digital Payment Market 2026-2033 | US$ 18.45 Billion by 2033 | Major Market Players - MasterCard, Google, Amazon - openPR.com",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQ1FuekM0SzdWQ19RTWxQOG9kVTF3TTEwVUJhLVNxY2VnMU9qWURwZjFfaFc4WXhsalByREN0X2lqdm92MU5DbWdPS3BEVVRvOG5hX2JMTE1kYV9nWkJ6WFdzYU1Ud3RKOXNIYmsxTXVZbnYzYUs5dm5XSWt0YktQVy1QS0E2Qk8wbVhPU2pTSUdRMFJVZE1pag?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-04-08T10:50:36+00:00",
-    "summary": "Digital Payment Market 2026-2033 | US$ 18.45 Billion by 2033 | Major Market Players - MasterCard, Google, Amazon openPR.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "financial"
     ],
     "relevance_score": 13
   },
@@ -384,12 +369,31 @@
     "relevance_score": 11
   },
   {
+    "id": "30c2262a4fd9",
+    "title": "Amazon S3 Files gives AI agents a native file system workspace, ending the object-file split that breaks multi-agent pipelines",
+    "url": "https://venturebeat.com/data/amazon-s3-files-gives-ai-agents-a-native-file-system-workspace-ending-the",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-04-07T21:36:00+00:00",
+    "summary": "AI agents run on file systems using standard tools to navigate directories and read file paths. The challenge, however, is that there is a lot of enterprise data in object storage systems, notably Amazon S3. Object stores serve data through API calls, not file paths. Bridging...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7qINoorFvA8oMUYPoXZgvV/96ded88e2eb8ab5a27f6894b6b27cf44/Amazon-s3files-missinglink-smk1.jpg?w=300&q=30",
+    "tags": [
+      "Data"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "f4cb58a5eb69",
     "title": "Accenture global health lead on scaling AI in healthcare with governance and intent - TechTarget",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNZ3l2TnhjanVnU1kzSzFTWjAtbmpRclhsM2EzeFE1MWlqOU1TMWItYUtWVmFrUk85VFZ0cmtaLVlhTF9vTmtRQnd0T0JaOXFsY2dqU3ZIUkJaT0VoQkFWenNILXJzRjBfUXhSU3pNcnM5Yl9vUGtWWHc3UkxrZU1xYmVFRjdEXzJ3YVo0dXBzWEd0azN3QTd4UUMtZ0hSWU9FZzBxdnFMN01CeTJGbHdpSVBsOHE5NWpwVHRRalhzWmhJSlYyUTRra05uMEJMTnJ3X21LTA?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-08T15:11:15+00:00",
+    "published": "2026-04-08T15:16:56+00:00",
     "summary": "Accenture global health lead on scaling AI in healthcare with governance and intent TechTarget",
     "image_url": null,
     "tags": [],
@@ -398,21 +402,6 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 9
-  },
-  {
-    "id": "c1056b5a55a2",
-    "title": "Essential Ecommerce KPIs to Track for Growth (2026) - Shopify",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPSktFaHc0Yk9kbkZsaUdxWlFMZ0EzQW1sWklRZXhvX2tfdDBQSEpkUmhPTk9raFAtR0xUQWJwUlZ5VUh5NW52aElSRWFJYWVvaG1hU3JCaFEweDZBY3BRbUhpTVdRbHpUejljX19wYm5fQkZmYXhmcGhWNzQybVRPcExoZ1R6T0lHdTJrSXVR?oc=5",
-    "source": "Retail Marketing",
-    "source_category": "industry_retail",
-    "published": "2026-04-03T07:00:00+00:00",
-    "summary": "Essential Ecommerce KPIs to Track for Growth (2026) Shopify",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 6
+    "relevance_score": 8
   }
 ]
