@@ -16,7 +16,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 63
+    "relevance_score": 60
   },
   {
     "id": "c3f4fb779eb6",
@@ -35,7 +35,10 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 59
+    "relevance_score": 59,
+    "also_covered_by": [
+      "Agentic Marketing"
+    ]
   },
   {
     "id": "7ba136674fa5",
@@ -54,7 +57,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 59
+    "relevance_score": 56
   },
   {
     "id": "0fd091174564",
@@ -92,69 +95,6 @@
     "relevance_score": 55
   },
   {
-    "id": "b886f9af83a4",
-    "title": "Marketers on the Move: Hires and Exits at Babylist, OpenAI, McDonald’s, and more",
-    "url": "https://www.adweek.com/brand-marketing/marketers-on-the-move-hires-and-exits-at-babylist-openai-mcdonalds-and-more/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-04-10T11:27:49+00:00",
-    "summary": "A weekly roundup of the biggest U.S. and global brand leadership appointments.",
-    "image_url": null,
-    "tags": [
-      "Brands",
-      "Challenger Brands",
-      "CMO Moves",
-      "General",
-      "Legacy Brands"
-    ],
-    "industries": [
-      "tech",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 55
-  },
-  {
-    "id": "f9ded411452d",
-    "title": "Dell: Agents drive more ecommerce traffic, but conversions lag",
-    "url": "https://martech.org/dell-agents-drive-more-ecommerce-traffic-but-conversions-lag/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-04-10T12:56:00+00:00",
-    "summary": "Dell sees rising traffic from AI platforms, but the impact remains inconsistent as search continues to drive most ecommerce performance. The post Dell: Agents drive more ecommerce traffic, but conversions lag appeared first on MarTech .",
-    "image_url": "https://martech.org/searchengineland.com/wp-content/seloads/2025/11/semrush-one.webp",
-    "tags": [
-      "Ecommerce",
-      "Marketing artificial intelligence (AI)",
-      "Search Advertising"
-    ],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 55
-  },
-  {
-    "id": "8685cc983d35",
-    "title": "Email delivers ROI, but many teams still can’t prove it",
-    "url": "https://martech.org/email-delivers-roi-but-many-teams-still-cant-prove-it/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-04-10T14:23:03+00:00",
-    "summary": "Email is crucial to business success, but many marketers still struggle to measure ROI and make the case for more investment. The post Email delivers ROI, but many teams still can’t prove it appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/04/what-metrics-and-methods-used-to-measure-email-perf.png",
-    "tags": [
-      "Email marketing",
-      "MarTechCharts"
-    ],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 55
-  },
-  {
     "id": "3639ac863c39",
     "title": "Google says its AI-powered ads help some brands lift online sales by 80%",
     "url": "https://digiday.com/marketing/google-says-its-ai-powered-ads-help-some-brands-lift-online-sales-by-80/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -175,6 +115,69 @@
     "relevance_score": 54
   },
   {
+    "id": "b886f9af83a4",
+    "title": "Marketers on the Move: Hires and Exits at Babylist, OpenAI, McDonald’s, and more",
+    "url": "https://www.adweek.com/brand-marketing/marketers-on-the-move-hires-and-exits-at-babylist-openai-mcdonalds-and-more/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-04-10T11:27:49+00:00",
+    "summary": "A weekly roundup of the biggest U.S. and global brand leadership appointments.",
+    "image_url": null,
+    "tags": [
+      "Brands",
+      "Challenger Brands",
+      "CMO Moves",
+      "General",
+      "Legacy Brands"
+    ],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 52
+  },
+  {
+    "id": "f9ded411452d",
+    "title": "Dell: Agents drive more ecommerce traffic, but conversions lag",
+    "url": "https://martech.org/dell-agents-drive-more-ecommerce-traffic-but-conversions-lag/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-04-10T12:56:00+00:00",
+    "summary": "Dell sees rising traffic from AI platforms, but the impact remains inconsistent as search continues to drive most ecommerce performance. The post Dell: Agents drive more ecommerce traffic, but conversions lag appeared first on MarTech .",
+    "image_url": "https://martech.org/searchengineland.com/wp-content/seloads/2025/11/semrush-one.webp",
+    "tags": [
+      "Ecommerce",
+      "Marketing artificial intelligence (AI)",
+      "Search Advertising"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 52
+  },
+  {
+    "id": "8685cc983d35",
+    "title": "Email delivers ROI, but many teams still can’t prove it",
+    "url": "https://martech.org/email-delivers-roi-but-many-teams-still-cant-prove-it/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-04-10T14:23:03+00:00",
+    "summary": "Email is crucial to business success, but many marketers still struggle to measure ROI and make the case for more investment. The post Email delivers ROI, but many teams still can’t prove it appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/04/what-metrics-and-methods-used-to-measure-email-perf.png",
+    "tags": [
+      "Email marketing",
+      "MarTechCharts"
+    ],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 52
+  },
+  {
     "id": "023d596bb11b",
     "title": "Karol G Didn’t Wait For Coachella To Make History — Her Google Campaign Just Did",
     "url": "https://www.forbes.com/sites/oliviashalhoup/2026/04/10/karol-g-didnt-wait-for-coachella-to-make-history---her-google-campaign-just-did/",
@@ -193,7 +196,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 51
+    "relevance_score": 48
   },
   {
     "id": "ae43fceafe49",
@@ -215,10 +218,7 @@
       "tech",
       "lifesciences"
     ],
-    "relevance_score": 50,
-    "also_covered_by": [
-      "Health Tech"
-    ]
+    "relevance_score": 47
   },
   {
     "id": "3947868080d6",
@@ -238,23 +238,6 @@
       "retail"
     ],
     "relevance_score": 46
-  },
-  {
-    "id": "609b2ea6195b",
-    "title": "YouTube, CBS Sports and The Walt Disney Company are among the 2026 Digiday Video and TV Award Winners",
-    "url": "https://digiday.com/media/youtube-cbs-sports-and-the-walt-disney-company-are-among-the-2026-digiday-video-and-tv-award-winners/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-04-07T18:55:01+00:00",
-    "summary": "This year’s winners highlight how brands are reshaping video and TV through storytelling, collaboration and technology. Campaigns leaned into emotional narratives and creator partnerships to build deeper audience connections, while advances in ad tech and other emerging tools...",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2023/03/DVTA_Winners-Guide-2023_030223-1.jpg",
-    "tags": [],
-    "industries": [
-      "media",
-      "tech",
-      "consumer"
-    ],
-    "relevance_score": 45
   },
   {
     "id": "2d23a07e8c44",
@@ -293,6 +276,23 @@
     "relevance_score": 43
   },
   {
+    "id": "609b2ea6195b",
+    "title": "YouTube, CBS Sports and The Walt Disney Company are among the 2026 Digiday Video and TV Award Winners",
+    "url": "https://digiday.com/media/youtube-cbs-sports-and-the-walt-disney-company-are-among-the-2026-digiday-video-and-tv-award-winners/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-04-07T18:55:01+00:00",
+    "summary": "This year’s winners highlight how brands are reshaping video and TV through storytelling, collaboration and technology. Campaigns leaned into emotional narratives and creator partnerships to build deeper audience connections, while advances in ad tech and other emerging tools...",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2023/03/DVTA_Winners-Guide-2023_030223-1.jpg",
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 42
+  },
+  {
     "id": "2b7a83773fd9",
     "title": "How to make AI work with context instead of prompts",
     "url": "https://martech.org/how-to-make-ai-work-with-context-instead-of-prompts/",
@@ -308,22 +308,6 @@
     ],
     "industries": [
       "tech"
-    ],
-    "relevance_score": 42
-  },
-  {
-    "id": "cc60ccb46cf7",
-    "title": "Wacoal America CEO retires",
-    "url": "https://www.retaildive.com/news/wacoal-america-ceo-mitch-kauffman-retires/817198/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-04-10T15:09:00+00:00",
-    "summary": "Mitchell Kauffmann will remain on the intimates brand's board as an adviser and President James Wheatley was tapped as his successor.",
-    "image_url": "https://imgproxy.divecdn.com/IqlVnZB2QD_uqMZ-e-pipPzptuu6Yo-UuiyJIFPP5EI/g:nowe:0:0/c:499:282/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XYWNvYWxfQW1lcmljYV9FdmVyZmxleGluZ19CcmEuanBn.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "consumer"
     ],
     "relevance_score": 42
   },
@@ -346,6 +330,22 @@
     "relevance_score": 40
   },
   {
+    "id": "cc60ccb46cf7",
+    "title": "Wacoal America CEO retires",
+    "url": "https://www.retaildive.com/news/wacoal-america-ceo-mitch-kauffman-retires/817198/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-04-10T15:09:00+00:00",
+    "summary": "Mitchell Kauffmann will remain on the intimates brand's board as an adviser and President James Wheatley was tapped as his successor.",
+    "image_url": "https://imgproxy.divecdn.com/IqlVnZB2QD_uqMZ-e-pipPzptuu6Yo-UuiyJIFPP5EI/g:nowe:0:0/c:499:282/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9XYWNvYWxfQW1lcmljYV9FdmVyZmxleGluZ19CcmEuanBn.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 39
+  },
+  {
     "id": "eebdd5844fdd",
     "title": "Fever-Tree mixers celebrate mixology with first US creative platform",
     "url": "https://www.marketingdive.com/news/fever-tree-mixers-celebrate-mixology-with-first-us-creative-platform/816925/",
@@ -360,23 +360,6 @@
       "consumer"
     ],
     "relevance_score": 38
-  },
-  {
-    "id": "7ac449ad9b68",
-    "title": "How SharkNinja builds loyalty with Agentforce Commerce",
-    "url": "https://www.salesforce.com/blog/sharkninja-customer-story/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-08T19:13:12+00:00",
-    "summary": "SharkNinja is a powerhouse brand with a strong reputation for eliminating everyday household frustrations. From high-performance vacuums to viral kitchen appliances, SharkNinja is known for its relentless commitment to functional innovation and consumer-centric…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/salesforce-shark-ninja-story-1080x608-6.png",
-    "tags": [],
-    "industries": [
-      "tech",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 33
   },
   {
     "id": "c4acf7b8b4ca",
@@ -395,6 +378,23 @@
     "relevance_score": 26
   },
   {
+    "id": "16ff5b6674d0",
+    "title": "Best SaaS SEO Agencies in the USA for 2026 - vocal.media",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE41LXZGUFJoQnlXZUIyc3ZqMmM2cGdPdV85R2pPd2pNRG9KcUR5d2dMZThaZGUtQ3laZkRGWGxxOUxsZFFVblZKOHhXSkF1NjFRNmtoam4wbjJLSlZmZDBzeERYMnRlNHV0QTZjU3l6ZFZXS0xYOHlaR1ltQQ?oc=5",
+    "source": "Tech Marketing",
+    "source_category": "industry_tech",
+    "published": "2026-04-08T16:53:44+00:00",
+    "summary": "Best SaaS SEO Agencies in the USA for 2026 vocal.media",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 23
+  },
+  {
     "id": "214458b41b72",
     "title": "Digital Wallets Move to the Center of Payments, But the Long-Awaited 'Superapps' Are Looming - The Financial Brand",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWm5xV2k1dnVRQUNuYXdsT3R4NWRWb25qMFF2ZFhiU21tUTVKUExGYk54QXV3OGRWek9ldXVmZjR1bHZkajJmYU56VGNmcERWWlF3SHY1QnJQajlzYTY1V3N4YXBGZk1KT3ZZZ0J2RWg3NmNhX3FOUnJ0NTJvdnJfalJsRmJvQ2JIOFNGUmxkd2dUQjNHMGxDclNIYw?oc=5",
@@ -409,45 +409,22 @@
       "consumer",
       "financial"
     ],
-    "relevance_score": 22
+    "relevance_score": 19
   },
   {
-    "id": "3d7a9e8a0f4d",
-    "title": "Joel Embiid’s Latest Setback Is All Too Familiar For The 76ers",
-    "url": "https://www.forbes.com/sites/timcasey/2026/04/10/joel-embiids-latest-setback-is-all-too-familiar-for-the-76ers/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-04-10T15:11:09+00:00",
-    "summary": "After Joel Embiid underwent surgery for appendicitis Thursday, the 76ers are in a familiar place. Embiid has dealt with injuries and illnesses since entering the NBA.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69d90eaabc343a04f28195b7/0x0.jpg?width=960",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 18
-  },
-  {
-    "id": "7f677a87884d",
-    "title": "Suspect Arrested For Allegedly Throwing Molotov Cocktail at Sam Altman's Home",
-    "url": "https://www.wired.com/story/sam-altman-home-attack-openai-san-franisco-office-threat/",
-    "source": "Wired",
+    "id": "2c33024cfd2b",
+    "title": "Microsoft finally lets Windows 11 testers unlock experimental features without ViVeTool",
+    "url": "https://www.theverge.com/news/909659/microsoft-windows-insider-changes-unlock-experimental-features-without-vivetool",
+    "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-04-10T16:32:19+00:00",
-    "summary": "An attacker allegedly threw a molotov cocktail at the OpenAI CEO's residence before making threats outside of the startup's headquarters.",
-    "image_url": "https://media.wired.com/photos/69d92427fd497469d089ae63/master/pass/Attacked-Sam-Altman-Home-Business-1170855901.jpg",
+    "published": "2026-04-10T18:00:00+00:00",
+    "summary": "Microsoft is finally allowing Windows 11 testers to get access to experimental features without having to download a third-party app like ViVeTool. The changes are part of making the Windows Insider Program (WIP) less confusing, with Dev and Canary testing rings simplified...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/STK109_WINDOWS_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
     "tags": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Sam Altman",
-      "Crime",
-      "Threat Level"
+      "Microsoft",
+      "News",
+      "Tech",
+      "Windows"
     ],
     "industries": [
       "tech",
@@ -477,23 +454,24 @@
     "relevance_score": 17
   },
   {
-    "id": "851b6c9fdade",
-    "title": "YouTube Hikes Premium Prices—But Denies It’s Adding 90-Second Unskippable Ads For TV Viewers",
-    "url": "https://www.forbes.com/sites/conormurray/2026/04/10/youtube-hikes-premium-prices-but-denies-its-adding-90-second-unskippable-ads-for-tv-viewers/",
+    "id": "3d7a9e8a0f4d",
+    "title": "Joel Embiid’s Latest Setback Is All Too Familiar For The 76ers",
+    "url": "https://www.forbes.com/sites/timcasey/2026/04/10/joel-embiids-latest-setback-is-all-too-familiar-for-the-76ers/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-04-10T14:02:02+00:00",
-    "summary": "YouTube also denied reports it is slapping unskippable 90-second ads on YouTube videos for TV viewers.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69d9029dd032b8b10f19f35f/0x0.jpg?width=960&precrop=5376%2C3023%2Cx0%2Cy277",
+    "published": "2026-04-10T15:11:09+00:00",
+    "summary": "After Joel Embiid underwent surgery for appendicitis Thursday, the 76ers are in a familiar place. Embiid has dealt with injuries and illnesses since entering the NBA.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69d90eaabc343a04f28195b7/0x0.jpg?width=960",
     "tags": [
+      "SportsMoney",
+      "/sportsmoney",
       "Business",
       "/business",
-      "Business",
-      "/business",
-      "Breaking"
+      "SportsMoney"
     ],
     "industries": [
-      "tech"
+      "tech",
+      "industrial"
     ],
     "relevance_score": 17
   },
@@ -516,7 +494,66 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
+  },
+  {
+    "id": "1b51b946e49d",
+    "title": "Little Snitch’s software counter surveillance jumps from Mac to Linux",
+    "url": "https://www.theverge.com/tech/909975/little-snitch-linux-launch",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-04-10T16:57:55+00:00",
+    "summary": "The popular macOS app Little Snitch brought its network-monitoring tools over to Linux this week. In a blog post announcing the launch, one of the developers at Objective Development shared some early results from using the app on Linux: \"On Ubuntu, I found 9 system processes...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268454_little_snitch_CVirginia2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Apps",
+      "Linux",
+      "News",
+      "Privacy",
+      "Tech"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "b5d753efb997",
+    "title": "Amazon Luna axes third-party game purchases",
+    "url": "https://www.theverge.com/tech/910025/amazon-luna-third-party-games-subscriptions",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-04-10T17:31:58+00:00",
+    "summary": "Amazon Luna announced a big change on Friday that will prevent players from purchasing third-party games and subscriptions. The cloud gaming service will remove previously purchased games on June 10th, 2026, though they'll still be available to play on other platforms through...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STKB369_LUNA_A.webp?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Amazon",
+      "Gaming",
+      "News",
+      "Tech"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "9d138356e1fc",
+    "title": "Medicare navigation company Chapter banks $100M series E funding round",
+    "url": "https://www.fiercehealthcare.com/health-tech/medicare-navigation-company-chapter-banks-100m-series-e-funding-round",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-09T13:31:00+00:00",
+    "summary": "Medicare navigation company Chapter has banked a $100 million series E funding round as it continues to grow and build out its platform.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1297492947.jpg?VersionId=i77eDl3o1JxsURyixAW5_Vvojm808tVt",
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 15
   },
   {
     "id": "aa41e587b9e7",
@@ -538,7 +575,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "d7f628ed78ad",
@@ -556,27 +593,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 16
-  },
-  {
-    "id": "47d0c22c6fff",
-    "title": "Cloudflare made a WordPress for AI agents",
-    "url": "https://www.theverge.com/tech/909730/cloudflare-emdash-wordpress-community",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-04-10T13:30:00+00:00",
-    "summary": "Cloudflare, the cloud provider that connects millions of sites to the internet, wants to \"fix\" another digital giant: WordPress. It announced a new open-source system, called EmDash, that's supposed to address the \"core problems that WordPress cannot solve\" - and they want to...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/emdash-logo.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
-    "tags": [
-      "Report",
-      "Tech",
-      "Web"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "ef41d442fc4a",
@@ -598,133 +615,6 @@
       "tech",
       "lifesciences"
     ],
-    "relevance_score": 16
-  },
-  {
-    "id": "9d138356e1fc",
-    "title": "Medicare navigation company Chapter banks $100M series E funding round",
-    "url": "https://www.fiercehealthcare.com/health-tech/medicare-navigation-company-chapter-banks-100m-series-e-funding-round",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-09T13:31:00+00:00",
-    "summary": "Medicare navigation company Chapter has banked a $100 million series E funding round as it continues to grow and build out its platform.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1297492947.jpg?VersionId=i77eDl3o1JxsURyixAW5_Vvojm808tVt",
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "4bf06e965fe4",
-    "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
-    "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-09T19:10:07+00:00",
-    "summary": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195497483.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Apps",
-      "Meta",
-      "meta ai",
-      "muse spark"
-    ],
-    "industries": [
-      "tech",
-      "retail"
-    ],
-    "relevance_score": 15,
-    "also_covered_by": [
-      "VentureBeat"
-    ]
-  },
-  {
-    "id": "62bad3e0a17a",
-    "title": "AI Podcasters Really Want to Tell You How to Keep a Man Happy",
-    "url": "https://www.wired.com/story/ai-podcasters-really-want-to-tell-you-how-to-keep-a-man-happy/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-04-10T10:30:00+00:00",
-    "summary": "Videos of fake relationship guru podcasters are reinforcing gender tropes and racking up millions of views, all the while driving sales to AI influencer schools.",
-    "image_url": "https://media.wired.com/photos/69d6e881e2485977e01e633f/master/pass/AI-Podcasters-Telling-You-How-to-Keep-A-Man-Culture.jpg",
-    "tags": [
-      "Culture",
-      "Culture / Digital Culture",
-      "artificial intelligence",
-      "Social Media",
-      "podcasts"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "2d8bdc9b4c96",
-    "title": "Fear and loathing at OpenAI",
-    "url": "https://www.theverge.com/podcast/909621/openai-sam-altman-drama-vergecast",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-04-10T12:23:18+00:00",
-    "summary": "Sam Altman's tenure at OpenAI has been… messy. Messy to the point where Altman was briefly fired from his role as CEO, only to be reinstated days later, at which point he began reshaping the organization permanently. This week, The New Yorker published a deep look at Altman,...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/VRG_VST_0410_Site.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "Podcasts",
-      "Tech",
-      "Vergecast"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "db142c6b6851",
-    "title": "A Crazy Expensive U.S. Drone Just Disappeared Over Strait Of Hormuz",
-    "url": "https://www.forbes.com/sites/davidhambling/2026/04/10/a-crazy-expensive-us-drone-just-disappeared-over-strait-of-hormuz/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-04-10T12:54:57+00:00",
-    "summary": "An MQ-4C Triton just disappeared off Iran, possibly downed by a missile. Unfortunately its price tag and rarity means this uncrewed aircraft is far from expendable.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69d8fb68de41256a2342d487/0x0.jpg?width=960",
-    "tags": [
-      "Aerospace & Defense",
-      "/aerospace-defense",
-      "Business",
-      "/business",
-      "Aerospace & Defense"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "0ca466392ed4",
-    "title": "Congress can finally close a mass surveillance loophole — but will they?",
-    "url": "https://www.theverge.com/policy/909229/fisa-702-reauthorization-davidson-wyden-warrant-reforms",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-04-10T15:45:00+00:00",
-    "summary": "A warrantless wiretapping authority that has facilitated surveillance for decades is up for renewal in Congress. Section 702 of the Foreign Intelligence Surveillance Act (FISA), last reauthorized in 2024, is set to expire on April 20th. A bipartisan coalition of progressive...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Policy",
-      "Politics",
-      "Privacy",
-      "Report",
-      "Tech"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
     "relevance_score": 15
   },
   {
@@ -745,6 +635,75 @@
     "industries": [
       "media",
       "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "3e49e5da6b1f",
+    "title": "Anthropic’s Mythos Will Force a Cybersecurity Reckoning—Just Not the One You Think",
+    "url": "https://www.wired.com/story/anthropics-mythos-will-force-a-cybersecurity-reckoning-just-not-the-one-you-think/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-04-10T18:08:37+00:00",
+    "summary": "The new AI model is being heralded—and feared—as a hacker’s superweapon. Experts say its arrival is a wake-up call for developers who have long made security an afterthought.",
+    "image_url": "https://media.wired.com/photos/69d81392ce1f65d162ddb2f0/master/pass/Security_Anthropic_Getty.jpg",
+    "tags": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 15,
+    "also_covered_by": [
+      "Banking"
+    ]
+  },
+  {
+    "id": "419158b3a703",
+    "title": "‘You, Me & Tuscany’ Rotten Tomatoes Reviews Like Where Rom-Com Lands",
+    "url": "https://www.forbes.com/sites/timlammers/2026/04/10/you-me--tuscany-rotten-tomatoes-reviews-like-where-rom-com-lands/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-10T18:39:27+00:00",
+    "summary": "“You, Me & Tuscany,” a romantic comedy starring Halle Bailey and Regé-Jean Page, is new in theaters this weekend and many Rotten Tomatoes critics are happy to be along for the ride.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69d93e280cb5ad77b1dae9b8/0x0.jpg?width=960",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "66ffd44bbe41",
+    "title": "Nvidia Chief Jensen Huang Says People Should ‘Move To California’ As Billionaire Tax Looms",
+    "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/04/10/nvidia-chief-jensen-huang-says-people-should-move-to-california-as-billionaire-tax-looms/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-10T19:17:36+00:00",
+    "summary": "Huang acknowledged the Golden State’s high taxes during a public appearance Friday, but said the state is “OK.”",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69d94c34bcfea69cafb9ce1b/0x0.jpg?width=960&precrop=2548%2C1698%2Cx0%2Cy0",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 15
   },
@@ -785,20 +744,45 @@
     "relevance_score": 14
   },
   {
-    "id": "aff268ca9cfb",
-    "title": "The 70-Person AI Image Startup Taking on Silicon Valley's Giants",
-    "url": "https://www.wired.com/story/black-forest-labs-ai-image-generation/",
+    "id": "4bf06e965fe4",
+    "title": "Meta AI app climbs to No. 5 on the App Store after Muse Spark launch",
+    "url": "https://techcrunch.com/2026/04/09/meta-ai-app-climbs-to-no-5-on-the-app-store-after-muse-spark-launch/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-09T19:10:07+00:00",
+    "summary": "The app was ranking No. 57 on the App Store just before Meta AI's new model launched. Now it's No. 5 — and rising.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2195497483.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Apps",
+      "Meta",
+      "meta ai",
+      "muse spark"
+    ],
+    "industries": [
+      "tech",
+      "retail"
+    ],
+    "relevance_score": 14,
+    "also_covered_by": [
+      "VentureBeat"
+    ]
+  },
+  {
+    "id": "62bad3e0a17a",
+    "title": "AI Podcasters Really Want to Tell You How to Keep a Man Happy",
+    "url": "https://www.wired.com/story/ai-podcasters-really-want-to-tell-you-how-to-keep-a-man-happy/",
     "source": "Wired",
     "source_category": "ai",
-    "published": "2026-04-09T18:00:00+00:00",
-    "summary": "Black Forest Labs has long punched above its weight in the AI image generation space. Its next move? Powering physical AI.",
-    "image_url": "https://media.wired.com/photos/69d56806948761f395b6962c/master/pass/Model-Behavior-Black-Forest-Labs-Business-2193762181.jpg",
+    "published": "2026-04-10T10:30:00+00:00",
+    "summary": "Videos of fake relationship guru podcasters are reinforcing gender tropes and racking up millions of views, all the while driving sales to AI influencer schools.",
+    "image_url": "https://media.wired.com/photos/69d6e881e2485977e01e633f/master/pass/AI-Podcasters-Telling-You-How-to-Keep-A-Man-Culture.jpg",
     "tags": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Model Behavior",
+      "Culture",
+      "Culture / Digital Culture",
       "artificial intelligence",
-      "models"
+      "Social Media",
+      "podcasts"
     ],
     "industries": [
       "tech",
@@ -807,20 +791,20 @@
     "relevance_score": 14
   },
   {
-    "id": "0e7fb5c5394c",
-    "title": "Google and Intel deepen AI infrastructure partnership",
-    "url": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
-    "source": "TechCrunch AI",
+    "id": "0ca466392ed4",
+    "title": "Congress can finally close a mass surveillance loophole — but will they?",
+    "url": "https://www.theverge.com/policy/909229/fisa-702-reauthorization-davidson-wyden-warrant-reforms",
+    "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-04-09T18:27:47+00:00",
-    "summary": "The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1709348485.jpg?w=1024",
+    "published": "2026-04-10T15:45:00+00:00",
+    "summary": "A warrantless wiretapping authority that has facilitated surveillance for decades is up for renewal in Congress. Section 702 of the Foreign Intelligence Surveillance Act (FISA), last reauthorized in 2024, is set to expire on April 20th. A bipartisan coalition of progressive...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/STK471_Government_Surveillance_CVirginia_E.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
     "tags": [
-      "Enterprise",
-      "Hardware",
-      "AI",
-      "ai infrastructure",
-      "cpus"
+      "Policy",
+      "Politics",
+      "Privacy",
+      "Report",
+      "Tech"
     ],
     "industries": [
       "tech",
@@ -847,135 +831,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "f0b4e3ffaebc",
-    "title": "Sierra’s Bret Taylor says the era of clicking buttons is over",
-    "url": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-09T17:20:50+00:00",
-    "summary": "Last month, Sierra launched Ghostwriter, an agent designed to build other agents. With this “agent as a service” tool, the startup intends to replace traditional click-based web applications with natural language. Users simply describe what they need, prompting Ghostwriter to...",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762816752.jpg?w=1200",
-    "tags": [
-      "AI",
-      "Startups",
-      "Bret Taylor",
-      "AI agents",
-      "Sierra Ai"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
     "relevance_score": 13
-  },
-  {
-    "id": "cbda7946cd81",
-    "title": "Adobe’s low-processing camera app expands support to select iPads and the iPhone 17e - 9to5Mac",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEgybEdSdEFxZFVfMURfSjJENVduX3BOMUozVV9DUWsza2NPS0VFM3BaWUQ3WDNJcURnRjRFcFp2VzNORm5lSlg5U1d2MDNwLW93TXNKcHJiQmVUODFjdGVVY1pESU11NGZieUVpMWVkbnB5RUtNc25hcEdIVDc0ZVFkTUFFc2Racjh2OXF5bzVQM1Q2aThMMExOR0hxbFVBMnRTTTBKQmliYkVESkp3Y1FNb1lUQQ?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-04-10T01:35:00+00:00",
-    "summary": "Adobe’s low-processing camera app expands support to select iPads and the iPhone 17e 9to5Mac",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "c063fb3a912d",
-    "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
-    "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-04-10T12:10:00+00:00",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Constellations —Constellations is a short story by Jeff VanderMeer, the author of the critically acclaimed, bestselling Southern Reach...",
-    "image_url": null,
-    "tags": [
-      "The Download"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "ed0180f100e8",
-    "title": "Adobe Reader users beware — experts flag months-old security flaw using booby-trapped PDFs to scope out victims - TechRadar",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUXByTVk4N0VKTVVveHlPNmtFa01RSFN4Q0xYTWhzdTNIbEFIMy1ZSHF6R3Z6Y3ZJVW0zR2p5ZndiYzZhbWR3eE1jX0xYUmgtMEgtUzd3NUJJSUNhLThQaWFZdmJWMUpQUXYwV1ZsM0VtZ3U1VVRHeS1zQW9TY1JUTnZlMWNsRU9WS1VMREdMUTRINzRCRVJodUVMcmJtcnhQRzhGWXJ5dmZjUGRCaEQtbjdkZUJua0VFS2xhX3JtYzZZUW9LN1duSTBxM2RwUnBXc25kaEdlZWk5YjlLNFBnZzhR?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-04-10T13:25:00+00:00",
-    "summary": "Adobe Reader users beware — experts flag months-old security flaw using booby-trapped PDFs to scope out victims TechRadar",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "dd64ec08cb25",
-    "title": "getting cooked on adobe 😭😭 software bounce no where near . ima stop out soon ..$Adobe (ADBE.US)$ - Moomoo",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQjFkVFc2ci14ZUI3b1RrV3pud0FiR2FVMENoT1NnWUNxdGRoOUdhTWRST1BGTzZQWjJyWGVIOXEzVVd5ejRXU3BRVUI4X3lRd1RRMGt1RnRJSERKOU0yTkJ3eG9kWWxqRUhadGVkaFFzc1VxN1NfeTZCdDRZcWFnOUhVY1htc2c2QWZ2SVNLS2hLcm1Damo2bFpMTHRRTkNQS1NRQUtUeUZlOW50LTd0dQ?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-04-10T13:44:41+00:00",
-    "summary": "getting cooked on adobe 😭😭 software bounce no where near . ima stop out soon ..$Adobe (ADBE.US)$ Moomoo",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "711477931b31",
-    "title": "Tubi is the first streamer to launch a native app within ChatGPT",
-    "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-08T18:23:06+00:00",
-    "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Chat-GPT-Tubi.png?w=1200",
-    "tags": [
-      "Media & Entertainment",
-      "AI",
-      "ChatGPT",
-      "streaming service",
-      "tubi"
-    ],
-    "industries": [
-      "media",
-      "tech"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "241a8f6de524",
-    "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
-    "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-08T20:09:14+00:00",
-    "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2179195367.jpg?resize=1200,746",
-    "tags": [
-      "Enterprise",
-      "TC",
-      "AI",
-      "AWS",
-      "OpenAI"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 12
   },
   {
     "id": "731d583eaf02",
@@ -995,19 +851,20 @@
     "relevance_score": 12
   },
   {
-    "id": "58afdf38fa95",
-    "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
-    "url": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+    "id": "0e7fb5c5394c",
+    "title": "Google and Intel deepen AI infrastructure partnership",
+    "url": "https://techcrunch.com/2026/04/09/google-and-intel-deepen-ai-infrastructure-partnership/",
     "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-04-09T18:50:05+00:00",
-    "summary": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/Anthropic-Dario-Amodei.jpeg?w=1182",
+    "published": "2026-04-09T18:27:47+00:00",
+    "summary": "The two tech giants are looking to co-develop custom chips, at a time when demand for CPUs is high due to a growing global shortage.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/04/GettyImages-1709348485.jpg?w=1024",
     "tags": [
+      "Enterprise",
+      "Hardware",
       "AI",
-      "cybersecurity",
-      "Anthropic",
-      "Mythos"
+      "ai infrastructure",
+      "cpus"
     ],
     "industries": [
       "tech",
@@ -1034,6 +891,21 @@
     "relevance_score": 12
   },
   {
+    "id": "cbda7946cd81",
+    "title": "Adobe’s low-processing camera app expands support to select iPads and the iPhone 17e - 9to5Mac",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbEgybEdSdEFxZFVfMURfSjJENVduX3BOMUozVV9DUWsza2NPS0VFM3BaWUQ3WDNJcURnRjRFcFp2VzNORm5lSlg5U1d2MDNwLW93TXNKcHJiQmVUODFjdGVVY1pESU11NGZieUVpMWVkbnB5RUtNc25hcEdIVDc0ZVFkTUFFc2Racjh2OXF5bzVQM1Q2aThMMExOR0hxbFVBMnRTTTBKQmliYkVESkp3Y1FNb1lUQQ?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-04-10T01:35:00+00:00",
+    "summary": "Adobe’s low-processing camera app expands support to select iPads and the iPhone 17e 9to5Mac",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 12
+  },
+  {
     "id": "5e2fe6cd4b14",
     "title": "Heavy Reading report: Cloud native 5G core operator survey - Oracle",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQTHVRMDUzV0JRNW9Vc29MVnFuTUE4M0VOOVEwcG56VnA0V2NvS2VyUEV0UDNoeGQ0ZjRZc1hYVllKcC1jY2doNFBvR3otYkt0MG5JVUh1aVNVLTNvb05aSkh4MUhZU2M4aWdzQWJMXzJtdUZONWVtcnJKTmx4MXctdUpEMURmRTdFRUh2a1BB?oc=5",
@@ -1046,6 +918,54 @@
     "industries": [
       "tech",
       "telecom"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "c063fb3a912d",
+    "title": "The Download: an exclusive Jeff VanderMeer story and AI models too scary to release",
+    "url": "https://www.technologyreview.com/2026/04/10/1135618/the-download-jeff-vandermeer-short-story-and-ai-models-too-danger-to-release/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-04-10T12:10:00+00:00",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Constellations —Constellations is a short story by Jeff VanderMeer, the author of the critically acclaimed, bestselling Southern Reach...",
+    "image_url": null,
+    "tags": [
+      "The Download"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "ed0180f100e8",
+    "title": "Adobe Reader users beware — experts flag months-old security flaw using booby-trapped PDFs to scope out victims - TechRadar",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxOUXByTVk4N0VKTVVveHlPNmtFa01RSFN4Q0xYTWhzdTNIbEFIMy1ZSHF6R3Z6Y3ZJVW0zR2p5ZndiYzZhbWR3eE1jX0xYUmgtMEgtUzd3NUJJSUNhLThQaWFZdmJWMUpQUXYwV1ZsM0VtZ3U1VVRHeS1zQW9TY1JUTnZlMWNsRU9WS1VMREdMUTRINzRCRVJodUVMcmJtcnhQRzhGWXJ5dmZjUGRCaEQtbjdkZUJua0VFS2xhX3JtYzZZUW9LN1duSTBxM2RwUnBXc25kaEdlZWk5YjlLNFBnZzhR?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-04-10T13:25:00+00:00",
+    "summary": "Adobe Reader users beware — experts flag months-old security flaw using booby-trapped PDFs to scope out victims TechRadar",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "dd64ec08cb25",
+    "title": "getting cooked on adobe 😭😭 software bounce no where near . ima stop out soon ..$Adobe (ADBE.US)$ - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQQjFkVFc2ci14ZUI3b1RrV3pud0FiR2FVMENoT1NnWUNxdGRoOUdhTWRST1BGTzZQWjJyWGVIOXEzVVd5ejRXU3BRVUI4X3lRd1RRMGt1RnRJSERKOU0yTkJ3eG9kWWxqRUhadGVkaFFzc1VxN1NfeTZCdDRZcWFnOUhVY1htc2c2QWZ2SVNLS2hLcm1Damo2bFpMTHRRTkNQS1NRQUtUeUZlOW50LTd0dQ?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-04-10T13:44:41+00:00",
+    "summary": "getting cooked on adobe 😭😭 software bounce no where near . ima stop out soon ..$Adobe (ADBE.US)$ Moomoo",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 12
   },
@@ -1085,6 +1005,49 @@
     "relevance_score": 11
   },
   {
+    "id": "711477931b31",
+    "title": "Tubi is the first streamer to launch a native app within ChatGPT",
+    "url": "https://techcrunch.com/2026/04/08/tubi-is-the-first-streamer-to-launch-a-native-app-within-chatgpt/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-08T18:23:06+00:00",
+    "summary": "Tubi becomes the first streaming service to offer an app integration within ChatGPT, the AI chatbot that millions of users turn to for answers.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Chat-GPT-Tubi.png?w=1200",
+    "tags": [
+      "Media & Entertainment",
+      "AI",
+      "ChatGPT",
+      "streaming service",
+      "tubi"
+    ],
+    "industries": [
+      "media",
+      "tech"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "241a8f6de524",
+    "title": "AWS boss explains why investing billions in both Anthropic and OpenAI is an OK conflict",
+    "url": "https://techcrunch.com/2026/04/08/aws-boss-explains-why-investing-billions-in-both-anthropic-and-openai-is-an-ok-conflict/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-08T20:09:14+00:00",
+    "summary": "AWS has an ingrained culture of handling competition, he explained, because the cloud giant also competes with its partners.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-2179195367.jpg?resize=1200,746",
+    "tags": [
+      "Enterprise",
+      "TC",
+      "AI",
+      "AWS",
+      "OpenAI"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "6cbf69d48b90",
     "title": "Will ChatGPT ads become a meaningful part of the performance media mix?",
     "url": "https://www.marketingdive.com/news/will-chatgpt-ads-become-a-meaningful-part-of-the-performance-media-mix/816743/",
@@ -1118,46 +1081,50 @@
     "relevance_score": 11
   },
   {
-    "id": "36eb069a1c97",
-    "title": "Mythos autonomously exploited vulnerabilities that survived 27 years of human review. Security teams need a new detection playbook",
-    "url": "https://venturebeat.com/security/mythos-detection-ceiling-security-teams-new-playbook",
-    "source": "VentureBeat",
+    "id": "f0b4e3ffaebc",
+    "title": "Sierra’s Bret Taylor says the era of clicking buttons is over",
+    "url": "https://techcrunch.com/2026/04/09/sierras-bret-taylor-says-the-era-of-clicking-buttons-is-over/",
+    "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-04-09T18:30:00+00:00",
-    "summary": "A 27-year-old bug sat inside OpenBSD’s TCP stack while auditors reviewed the code, fuzzers ran against it, and the operating system earned its reputation as one of the most security-hardened platforms on earth. Two packets could crash any server running it. Finding that bug...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6U30KdpUttFqCNrnyaxxpJ/35987bc5f4459240fe7195e361f84706/Anthropic_Mythos_Hero.png?w=300&q=30",
+    "published": "2026-04-09T17:20:50+00:00",
+    "summary": "Last month, Sierra launched Ghostwriter, an agent designed to build other agents. With this “agent as a service” tool, the startup intends to replace traditional click-based web applications with natural language. Users simply describe what they need, prompting Ghostwriter to...",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2022/10/AP22166762816752.jpg?w=1200",
     "tags": [
-      "Security"
+      "AI",
+      "Startups",
+      "Bret Taylor",
+      "AI agents",
+      "Sierra Ai"
     ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "37e07acf3005",
+    "title": "Premier Health appoints new Chief Digital Information Officer - WKEF",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNGVtaXExRGVNaWZKWjRxdXdkX1BnbnRiRkowSWpORDdLZm1xZVMxZGprQlpXRDlYVnFTZUloU0NOLUc4MG5OUFZidXBWZDViVmVybTFwempVejFLQV9hY29GcHVSSElrTXU2dTVUY3M0Q2JScV83cE9uSDdUWlNXNWtCN2w1aF9MYzdVWWxoNEhhX2hRVkpyNmxOejdzdw?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-10T18:12:48+00:00",
+    "summary": "Premier Health appoints new Chief Digital Information Officer WKEF",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "tech"
     ],
     "relevance_score": 11
   },
   {
-    "id": "0ea6ba96ffb8",
-    "title": "Could your bank move to 24/7 digital payments by 2027 — and what happens to your money if it does? - Yahoo! Finance Canada",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqb0RXTVhuVGZNMlJjMUFXN0dFSUw0V1ZjR00tZGNkdGpCVjN0bFBYcFhsemRZRzc1OFVWLWh0cWNObFNOcUc1NmlkeE00eVdqazlyTGRBanFBQmZIRjJ1cjV3OEtnZUo5YnltcE9tT194b3V2T3hFTg?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-04-10T10:15:00+00:00",
-    "summary": "Could your bank move to 24/7 digital payments by 2027 — and what happens to your money if it does? Yahoo! Finance Canada",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "f0bba957b5c6",
-    "title": "Premier Health Appoints Margaret Lozovatsky, MD as system’s next Chief Digital Information Officer - Premier Health - Dayton, Ohio",
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUkk5VUJXWkZseEh6NVlRc1F3Q09VRFBTSjMxRzRHUE1IOGtWNWEtUEtwT1RZZ1BXMVQ3YXY3UFd0NHlXb21nOVVtYnRqVjR3cF92VzBEZEVUanlNRVdJbmxuYVJoS0VnNjZpZHo5b0ljT3h0WlBCUHpoMWJBNTUyalBhQ2JnZU9oSk1tSU1waWkyLVBUNkk1b1RsbDllakFodHVCVnI5Tm9ucGNSOWVLc0dUemNNTjc4NE9jbm5zYktURThZM01NZ25WRm9HS042Z2dXVWVQUmZmR2ZmYjZ1YkxXa1VWS1RzNnNMeGRfTlhIOW04YXo1MnVsMUZwS1Q4eUFR?oc=5",
+    "id": "9ddf0ebafa6e",
+    "title": "Technology Association of Oregon Partners with Moda Health and ALLtech Benefits to Launch a New Health Plan Offering for Oregon Tech Companies - oregonbusiness.com",
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxOcnhrMkZvN1d1amJoNHVGd3JaUDNFWW1aVTJJb3o0YTYzZldoTDFvV1lPeV9tbjl6WThJekRQYzJxZXJZeVctY2ZCNnh5REk2eHJSWTNrWTdabDlCbkhIV0FNWWZFaWJyOXVCQWh6eGttSDEwSzVZUGtvRVhuTERzY1p3bmNsb05KaG5CUjdnTGRfNUF6Ri04cU9mYklQeDlhRkN2ejJrbDcyWGhBdzExX1ZoWXBaUDVjUWI0Zmx4SjJZM0pDclNWR2J2M3pERzYyRmpJMzduWVJhMVk1Mlg5S0dydkM1NUlWcjY0QjExZklrS1BLcUwwaGk4ZnE5X2c?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-10T16:04:41+00:00",
-    "summary": "Premier Health Appoints Margaret Lozovatsky, MD as system’s next Chief Digital Information Officer Premier Health - Dayton, Ohio",
+    "published": "2026-04-10T20:17:23+00:00",
+    "summary": "Technology Association of Oregon Partners with Moda Health and ALLtech Benefits to Launch a New Health Plan Offering for Oregon Tech Companies oregonbusiness.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1175,28 +1142,12 @@
     "summary": "Poke brings AI agents to everyday users via text message by handling tasks and automations without complex setup, apps, or technical know-how.",
     "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Poke-at-3.57.33-PM.jpg?resize=1200,604",
     "tags": [
-      "AI",
       "Startups",
+      "AI",
       "AI agents",
       "ai automation",
       "consumer AI"
     ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "cdbb93c58779",
-    "title": "Field Service Scheduling & Optimization in the Agentforce Era",
-    "url": "https://www.salesforce.com/blog/field-service-appointment-booking-agentforce/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-09T07:45:05+00:00",
-    "summary": "From Automated to Autonomous: The Power of Smart Appointment Booking",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/Hands-typing-on-laptop-showing-scheduling-software.jpg",
-    "tags": [],
     "industries": [
       "tech",
       "industrial"
@@ -1223,20 +1174,44 @@
     "relevance_score": 10
   },
   {
-    "id": "8e388c47430c",
-    "title": "RINA Wireless extends Mavenir deal to deliver cloud-native LTE voice core upgrades - Telecompaper",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaFRhblpwc3BvR1VoT09EdGVEWEJkWVJPOENnY0dOWlJhWlp2X2E5bzdiUHFVRE9NNkZpUldPRHJhaGZGTlV1eUlzZkZWN3NWU1hSVmhRLW1GVVBrdVN5T1NFeUN5VXY0cU4wOFVLUDRpMWJNOFRUWkppaFdteUk0UE5WaFNQcmp4MkJ4YjZrTEt3RVBfMmc5UlRiR0FHLWhvcUFzSUdrRHRWVEZ2em4yeG9jdW04UF9JRjNReTNhRTM3R0U?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-04-10T09:29:21+00:00",
-    "summary": "RINA Wireless extends Mavenir deal to deliver cloud-native LTE voice core upgrades Telecompaper",
+    "id": "58afdf38fa95",
+    "title": "Is Anthropic limiting the release of Mythos to protect the internet — or Anthropic?",
+    "url": "https://techcrunch.com/2026/04/09/is-anthropic-limiting-the-release-of-mythos-to-protect-the-internet-or-anthropic/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-09T18:50:05+00:00",
+    "summary": "Anthropic said this week that it limited the release of its newest model, dubbed Mythos, because it is too capable of finding security exploits in software relied upon by users around the world. Are real cybersecurity concerns a cover for a bigger problem at the frontier lab?",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/Anthropic-Dario-Amodei.jpeg?w=1182",
+    "tags": [
+      "AI",
+      "cybersecurity",
+      "Anthropic",
+      "Mythos"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "0ea6ba96ffb8",
+    "title": "Could your bank move to 24/7 digital payments by 2027 — and what happens to your money if it does? - Yahoo! Finance Canada",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTFBqb0RXTVhuVGZNMlJjMUFXN0dFSUw0V1ZjR00tZGNkdGpCVjN0bFBYcFhsemRZRzc1OFVWLWh0cWNObFNOcUc1NmlkeE00eVdqazlyTGRBanFBQmZIRjJ1cjV3OEtnZUo5YnltcE9tT194b3V2T3hFTg?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-04-10T10:15:00+00:00",
+    "summary": "Could your bank move to 24/7 digital payments by 2027 — and what happens to your money if it does? Yahoo! Finance Canada",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "telecom"
+      "financial"
     ],
-    "relevance_score": 10
+    "relevance_score": 10,
+    "also_covered_by": [
+      "Banking"
+    ]
   },
   {
     "id": "9154fa9b52c8",
@@ -1323,6 +1298,23 @@
     "relevance_score": 9
   },
   {
+    "id": "36eb069a1c97",
+    "title": "Mythos autonomously exploited vulnerabilities that survived 27 years of human review. Security teams need a new detection playbook",
+    "url": "https://venturebeat.com/security/mythos-detection-ceiling-security-teams-new-playbook",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-04-09T18:30:00+00:00",
+    "summary": "A 27-year-old bug sat inside OpenBSD’s TCP stack while auditors reviewed the code, fuzzers ran against it, and the operating system earned its reputation as one of the most security-hardened platforms on earth. Two packets could crash any server running it. Finding that bug...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6U30KdpUttFqCNrnyaxxpJ/35987bc5f4459240fe7195e361f84706/Anthropic_Mythos_Hero.png?w=300&q=30",
+    "tags": [
+      "Security"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "0432a5d2a593",
     "title": "Cramer explains the divergence in tech stocks – and why software may continue to lag - CNBC",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5pQVBuUnNqTTNhSTRtNEN3V3g2VDVOdFJ6QkRJVWJKUGJCTjllYlBtZjA5N2VTNEZra1dvTjA2SVBObEhWamZTMGljNDUwU2hkVk5ZV1BzeDBEcVZ3MkdOV0d3aXVEb2lRYm9BMk0wMGhpZ1VCVHfSAXtBVV95cUxNNjdLcFlQa3d3TUtBdHpndnVzZ0RMNTU5dzloVU5jREg1MGFMNUZoQ1kzcDdHTGxoQzVTZTdwLVZ2THNMTG9YOWNyVG9PREhTRS1nNlZxYlRiaVRMT0tFZ29iZV90XzMyMnVER21Gamo4WmhkcDRkZ3h1c28?oc=5",
@@ -1335,6 +1327,37 @@
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "8e388c47430c",
+    "title": "RINA Wireless extends Mavenir deal to deliver cloud-native LTE voice core upgrades - Telecompaper",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOaFRhblpwc3BvR1VoT09EdGVEWEJkWVJPOENnY0dOWlJhWlp2X2E5bzdiUHFVRE9NNkZpUldPRHJhaGZGTlV1eUlzZkZWN3NWU1hSVmhRLW1GVVBrdVN5T1NFeUN5VXY0cU4wOFVLUDRpMWJNOFRUWkppaFdteUk0UE5WaFNQcmp4MkJ4YjZrTEt3RVBfMmc5UlRiR0FHLWhvcUFzSUdrRHRWVEZ2em4yeG9jdW04UF9JRjNReTNhRTM3R0U?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-04-10T09:29:21+00:00",
+    "summary": "RINA Wireless extends Mavenir deal to deliver cloud-native LTE voice core upgrades Telecompaper",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "022d357faa60",
+    "title": "CoreWeave, Anthropic Form AI Cloud Agreement - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPQV80REVZTDczMVBURXd2YkdfSEZFNGZfejZrelp6TGhVU3Z5LVpaSDMtZV9DZGo3Wk5TSVFrOVo1T1drY1hfN3BDQ2RHUkFYX2pDRGwzcEV2MGYwc1lwcm40UWdidy1vRXN4YTFMZTZId09mZTFTYnBrVmQtcHpOYnNoLXlLUDg?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-04-10T13:08:00+00:00",
+    "summary": "CoreWeave, Anthropic Form AI Cloud Agreement WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 9
   },
@@ -1389,6 +1412,37 @@
       "industrial"
     ],
     "relevance_score": 8
+  },
+  {
+    "id": "633feff75579",
+    "title": "How VC Money and Israel Outrage Derailed a Hot Hollywood Startup - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPck9oTHBVdHZydmxUVHFSbWJKcFdaU2FneUsxMmdIRm1yZHdmanNXb2lxcUFzQldoeVJtX0FGS3JuUlJweDd1d2hpTzdlRUV4ZDZoZ01rNUZXZE5JZk9feTNxZTVpQlhDQTVmbEFLQllMLXdmYzliUGpmaFR6ZGdDTjFwU25rWUt6MDAzOHFDc21fSFN2aFFaVDk4cVVRTDhCRVY3VWh4cndUdjlO?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-04-10T11:00:00+00:00",
+    "summary": "How VC Money and Israel Outrage Derailed a Hot Hollywood Startup WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "e93432b54cc4",
+    "title": "What’s Happening in the Strait of Hormuz Since the Cease-Fire? - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxObl9ja1Q0RDBIRUxPMU9qeW5UR1hmUENZZUFoWGlTRUIzMlhBaDcxRE9IbXd2aFVKcW56cU54WTU4cHl6WnFjeHNuaDJzQUtSbjhVbVh6R2o4YTJSMGhHSXVNU0VwRHE2ZTQxUTFrYUctNVZBOGhzM0ZvenlRV2M2ajh0VWRLT2pveEd5NHJIYlFfMzRuMzkxNFp1eEM4UW5IYXBNbWk2V2FHanc?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-04-10T02:23:00+00:00",
+    "summary": "What’s Happening in the Strait of Hormuz Since the Cease-Fire? WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 7
   },
   {
     "id": "0af1e6c962d9",
@@ -1532,22 +1586,6 @@
     "industries": [
       "tech",
       "industrial"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "fead28b9f934",
-    "title": "Communication Minister, World Bank delegation discuss digital transformation project - Khabarhub",
-    "url": "https://news.google.com/rss/articles/CBMiWEFVX3lxTE03WjdwR09OR3VUcE0xVkZoZFZDdDNhWEwwWkc1TkIzRlp5b01rcnRLTlNCS3hkYWlVblFQWGFyOTlMSGEtamJPaElwbHZxbkFrLVJqb1hqeXQ?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-04-08T08:49:43+00:00",
-    "summary": "Communication Minister, World Bank delegation discuss digital transformation project Khabarhub",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
     ],
     "relevance_score": 5
   }
