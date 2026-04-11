@@ -107,10 +107,7 @@
       "lifesciences",
       "financial"
     ],
-    "relevance_score": 16,
-    "also_covered_by": [
-      "Health Tech"
-    ]
+    "relevance_score": 16
   },
   {
     "id": "5c7221daaa75",
@@ -201,26 +198,6 @@
       "tech",
       "lifesciences"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "2f59430a6814",
-    "title": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
-    "url": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-04-10T14:04:20+00:00",
-    "summary": "Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America? A vaccine—or an “individualized neoantigen treatment”? That’s the Trump-era vocabulary paradox facing Moderna, the covid-19 shot maker whose plans for next-generation mRNA...",
-    "image_url": null,
-    "tags": [
-      "Biotechnology and health",
-      "App",
-      "The Checkup"
-    ],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
     "relevance_score": 13
   },
   {
@@ -259,39 +236,24 @@
     "relevance_score": 12
   },
   {
-    "id": "86058fdc46e9",
-    "title": "Op-ed: Administrative fragility is costing healthcare more than we think",
-    "url": "https://www.fiercehealthcare.com/health-tech/op-ed-administrative-fragility-costing-healthcare-more-we-think",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-10T13:42:00+00:00",
-    "summary": "The industry has already proven automation works. The question now is whether organizations are prepared to operationalize it at scale, writes Zelis' Yusuf Qasim.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2186725773%20%283%29.jpg?VersionId=l2UtxwnKAAxD2AN7X6tmLLB4R4_56SKy",
-    "tags": [],
+    "id": "2f59430a6814",
+    "title": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
+    "url": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-04-10T14:04:20+00:00",
+    "summary": "Is it the Department of Defense or the Department of War? The Gulf of Mexico or the Gulf of America? A vaccine—or an “individualized neoantigen treatment”? That’s the Trump-era vocabulary paradox facing Moderna, the covid-19 shot maker whose plans for next-generation mRNA...",
+    "image_url": null,
+    "tags": [
+      "Biotechnology and health",
+      "App",
+      "The Checkup"
+    ],
     "industries": [
       "industrial",
       "lifesciences"
     ],
     "relevance_score": 12
-  },
-  {
-    "id": "9a3d07f86287",
-    "title": "CMS unveils first wave of health tech tools as it pushes data sharing initiative",
-    "url": "https://www.healthcaredive.com/news/cms-update-health-tech-ecosystem-data-sharing-interoperability/817205/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-10T14:28:31+00:00",
-    "summary": "The agency showcased dozens of tools Thursday, about 8 months after the CMS first announced the initiative that aims to ease health data sharing and improve access to digital health and AI products.",
-    "image_url": "https://imgproxy.divecdn.com/9-0ucChxHfBOQpAi33zdy8Rx9WVW_Fej0xQCe0BBP0s/g:nowe:0:9/c:1023:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI3NzY4OTQ0LmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 12,
-    "also_covered_by": [
-      "Health Tech"
-    ]
   },
   {
     "id": "d2fa32f9b0e8",
@@ -373,6 +335,56 @@
     "relevance_score": 11
   },
   {
+    "id": "86058fdc46e9",
+    "title": "Op-ed: Administrative fragility is costing healthcare more than we think",
+    "url": "https://www.fiercehealthcare.com/health-tech/op-ed-administrative-fragility-costing-healthcare-more-we-think",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-10T13:42:00+00:00",
+    "summary": "The industry has already proven automation works. The question now is whether organizations are prepared to operationalize it at scale, writes Zelis' Yusuf Qasim.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2186725773%20%283%29.jpg?VersionId=l2UtxwnKAAxD2AN7X6tmLLB4R4_56SKy",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "9a3d07f86287",
+    "title": "CMS unveils first wave of health tech tools as it pushes data sharing initiative",
+    "url": "https://www.healthcaredive.com/news/cms-update-health-tech-ecosystem-data-sharing-interoperability/817205/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-10T14:28:31+00:00",
+    "summary": "The agency showcased dozens of tools Thursday, about 8 months after the CMS first announced the initiative that aims to ease health data sharing and improve access to digital health and AI products.",
+    "image_url": "https://imgproxy.divecdn.com/9-0ucChxHfBOQpAi33zdy8Rx9WVW_Fej0xQCe0BBP0s/g:nowe:0:9/c:1023:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI3NzY4OTQ0LmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 11,
+    "also_covered_by": [
+      "Health Tech"
+    ]
+  },
+  {
+    "id": "52e73bc7e43f",
+    "title": "AI health tech is booming. The cures are not. - The Next Web",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE45Y1F1dzZLS3gxR2tld044bWMxSFczZk5sMGh6X0JTcEttZTF5S3VHRl96Q0xjaUNLclFxR0poYUw2by1fMGJrbmhkU29FZHFSbkwwOVY4SXYxT2tKdHBXSy1aR2UyVHlaQUFraXlLcVZBSUI2bGJzdFdlbmxSZw?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-11T06:00:00+00:00",
+    "summary": "AI health tech is booming. The cures are not. The Next Web",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "82d05e56099f",
     "title": "Humana, Noom and Welldoc team up with b.well to expand health data access as part of CMS push",
     "url": "https://www.fiercehealthcare.com/health-tech/humana-noom-and-welldoc-team-bwell-expand-health-data-access-part-cms-push",
@@ -384,22 +396,6 @@
     "tags": [],
     "industries": [
       "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "1d42d4ee3c8c",
-    "title": "Medicare Debuts Digital Health Record System for Enrollees - MedPage Today",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNald0QmJVc1NfU1BmZThNSlJwWENfcDlOSHZKWnVTYXJuQ0xnc0REYlM0aU8xVzRBWGRKLUc3MXVfaVE0dUg5V3lSR3Qxemg5NHhUdHpnQmJkbmRKc3V1S3FYY0hCVmNUeTFGbzdXdXRHU05XZGp0c1hPcktfQnlJV3lB?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-10T22:04:42+00:00",
-    "summary": "Medicare Debuts Digital Health Record System for Enrollees MedPage Today",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 9
@@ -451,29 +447,13 @@
     "relevance_score": 8
   },
   {
-    "id": "599860da823e",
-    "title": "REPL Vs IOVA: FDA Decision Day Could Test Biotech Bulls’ Conviction On These Melanoma Plays - Stocktwits",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa3ZuQmdOYURJeTloaWVpeTFaQkx2SWl1azdRQ2RXOFZHMjFycnpOSGMtU3lyWHBhS1c0ekE5Xy1fSWNnSXZVUGY2Uld0VG1mZ2hpdVlOT1QtUU00TEhuaFJKaWMyTDZtSGd4UVBpQmEyRldOSzJKNXlNRnJILW5weUFYLUhoc3hxYVRoYmlVUExCUHlfU0E3V1A1aEEzeVp5WVVNYw?oc=5",
-    "source": "Biotech",
+    "id": "30b715450a80",
+    "title": "CMS Rolls Out First Phase of Digital Health Ecosystem - MeriTalk",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNQ045SEpCWDJ3OWxIM19vQWgtdlpaakxITGFOYjhIWDkwM3ZoanppaURyVkVCUlJlUjRZZF9ta09EcjhKbkplTVNmS2M5SThuSW5nSWNGOFpkbTA0M1NTZE1DeWVVY1BZOUpNblVsQnBzSkFTbk1pYzhWLXFWdHdEeEtjVHNudVQwSmJIc0xBdGVtZw?oc=5",
+    "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-10T13:26:25+00:00",
-    "summary": "REPL Vs IOVA: FDA Decision Day Could Test Biotech Bulls’ Conviction On These Melanoma Plays Stocktwits",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "9ad9084e1ed3",
-    "title": "Replimune skin cancer drug that became FDA flashpoint is rejected again - statnews.com",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5id20yRW50RkRKOVBHYnlGN0dNV210ZHI1SFl1R09YMExjcncyMnpMS3lqNmtTam9CSUI4Ul9rQ1dqWWdMYng5LUJ5Nnh2VWRzSDA3OGE0NEZIb0ppUEZSQndUaVRsd3pHX0V1dVNncXpVZENjUGpEMkFNTQ?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-10T15:23:44+00:00",
-    "summary": "Replimune skin cancer drug that became FDA flashpoint is rejected again statnews.com",
+    "published": "2026-04-10T18:49:46+00:00",
+    "summary": "CMS Rolls Out First Phase of Digital Health Ecosystem MeriTalk",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -499,28 +479,45 @@
     "relevance_score": 8
   },
   {
-    "id": "6ddbf9fb72a8",
-    "title": "CMS highlights new digital health ecosystem tools - American Hospital Association",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX212eUVVcFpUNnJWXzJFTE9HWjNlam93RExhazNua0thcXFQNHQzNVVQZjdaUW9qeS1BNDBET2hNa2pfOVlCVWgxMmlpc1ZaTFNkTjMyR2FEd2FDUHZvMjJPMGdkUGg1MjhDUk5xSklLd0M0RlI4VVJ0b3lOX05NSkdxWjVUREdUdFpQTjBQTnB0Rl9iZ3pzcmZB?oc=5",
+    "id": "1d42d4ee3c8c",
+    "title": "Medicare Debuts Digital Health Record System for Enrollees - MedPage Today",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNald0QmJVc1NfU1BmZThNSlJwWENfcDlOSHZKWnVTYXJuQ0xnc0REYlM0aU8xVzRBWGRKLUc3MXVfaVE0dUg5V3lSR3Qxemg5NHhUdHpnQmJkbmRKc3V1S3FYY0hCVmNUeTFGbzdXdXRHU05XZGp0c1hPcktfQnlJV3lB?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-10T19:38:49+00:00",
-    "summary": "CMS highlights new digital health ecosystem tools American Hospital Association",
+    "published": "2026-04-10T22:04:42+00:00",
+    "summary": "Medicare Debuts Digital Health Record System for Enrollees MedPage Today",
     "image_url": null,
     "tags": [],
     "industries": [
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 8
   },
   {
-    "id": "c529f267acaf",
-    "title": "Faegre Drinker boosts FDA regulatory practice with two senior hires - Life Sciences Intellectual Property Review",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVhCakpPcF9CT2RKVG9ZYXNvN3ZJR0pmZ2F4dDBQQmYyTVhZdmJlS1YtbG9mN2JrWXBXR1FVdWtscGlzZDdfcWRubjdSNzRKTXo0Q05KeVFyVHJlVVRQX1VtMWRuLVkwTFRLeGtUWGctYTJYcWZpZTZpU2VXVVRzUjdIRUItQl9JVEFuZFNmU2g4WkVmdHlWTTVYMFMta253N1dyQ3ZNakhESDhlU3JJbk9R?oc=5",
+    "id": "599860da823e",
+    "title": "REPL Vs IOVA: FDA Decision Day Could Test Biotech Bulls’ Conviction On These Melanoma Plays - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNa3ZuQmdOYURJeTloaWVpeTFaQkx2SWl1azdRQ2RXOFZHMjFycnpOSGMtU3lyWHBhS1c0ekE5Xy1fSWNnSXZVUGY2Uld0VG1mZ2hpdVlOT1QtUU00TEhuaFJKaWMyTDZtSGd4UVBpQmEyRldOSzJKNXlNRnJILW5weUFYLUhoc3hxYVRoYmlVUExCUHlfU0E3V1A1aEEzeVp5WVVNYw?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-09T20:12:50+00:00",
-    "summary": "Faegre Drinker boosts FDA regulatory practice with two senior hires Life Sciences Intellectual Property Review",
+    "published": "2026-04-10T13:26:25+00:00",
+    "summary": "REPL Vs IOVA: FDA Decision Day Could Test Biotech Bulls’ Conviction On These Melanoma Plays Stocktwits",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "9ad9084e1ed3",
+    "title": "Replimune skin cancer drug that became FDA flashpoint is rejected again - statnews.com",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5id20yRW50RkRKOVBHYnlGN0dNV210ZHI1SFl1R09YMExjcncyMnpMS3lqNmtTam9CSUI4Ul9rQ1dqWWdMYng5LUJ5Nnh2VWRzSDA3OGE0NEZIb0ppUEZSQndUaVRsd3pHX0V1dVNncXpVZENjUGpEMkFNTQ?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-10T15:23:44+00:00",
+    "summary": "Replimune skin cancer drug that became FDA flashpoint is rejected again statnews.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -534,7 +531,7 @@
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObE1jcDBBTkhxdmVyWUUyUjNKQURjZ1VlRmpKZEhqM1hKMzNjSDZxUGlULW5wTlR3c3lQYUNWb25qMEVLVThBOHJxM2ZGLVROZFZuSTVFWEtNY1pFVklZRk5lckY2UVR5T3pJYTM3bExwVlJlRl92WGxMdEJrZVA2WXJOMmMzbzFSVGhuY2hjbmczcUQ3TkY1b3VvUEM4Zk1Ub1FhbWNEa1lQU2FaSzdzSFFuSjM2ZmhaZHNfWnNZa0xIZURHQTJ2Z29QdGlfR05JOURUUGNza1NUM1dSSGlN?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-07T03:21:30+00:00",
+    "published": "2026-04-07T01:27:00+00:00",
     "summary": "'It's saving his life': FDA approves new drug for rare disease, helping Overland Park family KSHB 41 Kansas City",
     "image_url": null,
     "tags": [],
@@ -557,22 +554,6 @@
     "industries": [
       "retail",
       "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "01506bee3ef6",
-    "title": "Council Capital snaps up health tech firm MedicalServiceQuotes.com - pehub.com",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQnlXVHZDci1XRDJnYlFSMjFIM1dzdnR6OVF6Y3lpRVdOTkFWdV9oeGNYRkF1QjRESFNzVmxXaElKRnQxbmZoRTBIOGRWMGJfMENfMHdHdXpacm84Q3hYWWtxcVBCVzFOSHVrX0tJcUk4ZTV0YkUwR0puOXAzcmdEQi1pSHBkZ2NVWmVaT1hhaldmSEk?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-09T08:24:12+00:00",
-    "summary": "Council Capital snaps up health tech firm MedicalServiceQuotes.com pehub.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
       "lifesciences"
     ],
     "relevance_score": 6
@@ -640,21 +621,6 @@
     "relevance_score": 5
   },
   {
-    "id": "2e2a34bb6c26",
-    "title": "FDA lays out policy wish list, including new trial pathway and new enforcement powers - Fierce Pharma",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNWTEycDFZVDVWY0lJZEtXWjBiSHMwblphd3hHZncxbWxWN0NyUlVucGFURGNkSWZZMUQtVE1xN0Z2eEEwQ0NRTDVIT2liOUQ4eldMN3VEcUFBckNWN18zOEktMjdLOUNTWTF4UWxpVjRZR3NYRW05WlJlQk9aMlloSnZfUkpPYnpQeEc1OTFBVFYyVUxvT3Q2ZXUzdFNGOEJnSFFjWXNsbE5JY0c4NnRwbEFHa1hnX0pQbGM0?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-07T15:04:40+00:00",
-    "summary": "FDA lays out policy wish list, including new trial pathway and new enforcement powers Fierce Pharma",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
     "id": "b9db9393662d",
     "title": "Judge pauses state's abortion pill lawsuit until FDA completes timely safety review - Angelus News",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOaEtFZWxVLThvMmR6MDEzWDM2bHBySUpMcW9LVXIwTW00NVdFUnYxSGdiNmdvYkpGWFZGR3VjMXVjWUJTRW80V1VpbkZKQm4wR0ZROVhuZVNQako0blhsdVJ3MFJEYVgwUFlmQ182M1ZXeEFDT2V2S1JsMzJhT2JLRVcwZw?oc=5",
@@ -687,6 +653,21 @@
     "relevance_score": 5
   },
   {
+    "id": "bac5489e56c2",
+    "title": "J&J's Tremfya retakes TV drug ad spending crown from AbbVie - Fierce Pharma",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNazNBLWFSb2VNN3VNdWU3ZktWdmlzQkhqSU9PLUQ2Z0dZLUZnbEFJZ1I1TjZSWjZJNVI2VnhRVVF1M1ludTN3c0NWazl1N1FaYUJPdG0zTHdTN2xpa1VOOUFXMWZsVlo5bHA2Y2VqNkVGcVJ1WnFXYUV2TEwzV0lSWklSa1BXOWNsc015QUszaVlVNDQ4eEE?oc=5",
+    "source": "Pharma Marketing",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-08T15:44:00+00:00",
+    "summary": "J&J's Tremfya retakes TV drug ad spending crown from AbbVie Fierce Pharma",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
     "id": "1fb07f973ac4",
     "title": "Life Bio’s Trial: Is the FDA Warming to Rejuvenation? - Lifespan Research Institute",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbHdDdzR1Y3gyaUpNVmRvRFRZbUY5MlNsR0lYNl9vTEJGSnoyVGF1OGFxalJhN2RsMmJYZE1OMk1vNEpDYXpaZHZ5WFhObVV3X3l4cW5NRUNfeWQ0UVZQOEZDUEZKY2VBYllNdzN2cE5jX3BzbGNocEo3YWxSRl9DeHlR?oc=5",
@@ -702,22 +683,6 @@
     "relevance_score": 5
   },
   {
-    "id": "cd0f4fb374c6",
-    "title": "Role of Digital Health Technologies and Artificial Intelligence in Modern Public Health Surveillance - Cureus",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNczNKeHZfcWlmNDNGUDJEd2FKOFE3bHhfSm1wdDd6UVhrUWtGaXYyejl0czJpNjlQNVAwa1NDMnRnam1jTHpNSUl1SGlUcXJGUDQ3N1VQZmU4cnQ0RUdnVHBZU01pWmhxTXJZcnc4d1hSYmxZN3FUU05oME9GdXVuS0thaHpNTnJ6ZXJ4VDVsREpTOTV2OEh4djVsOTF1QmtGTGljYjJTSDFzYkQzM3ZBcHcwTmFjdFdIbGdmUG5jenRXNXdRc2V5c01UNzhQOG1zY2ZfdFJn?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-09T05:18:42+00:00",
-    "summary": "Role of Digital Health Technologies and Artificial Intelligence in Modern Public Health Surveillance Cureus",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
     "id": "f65749e96fa9",
     "title": "How to transform healthcare through digital - imd.org",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPZmdMcjhaUWxmSHNkNmNkRGFWQzVQMTNJQ0djMkdFX2hWd05mTDItb2FSaU82dGEzUm51TEpEV3JqQS14RmtrdkxFMDB4Yk5kbFY5VnhUdUU1V2tGcjF6ZFlnTUF3cDRId0VmbHZHTW1mbklNcDFmTF9jLTJCZFdQSXd5NGVaUzdEbjNTOVdwTllCTnFhc19aZ1l4TQ?oc=5",
@@ -728,6 +693,22 @@
     "image_url": null,
     "tags": [],
     "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "01506bee3ef6",
+    "title": "Council Capital snaps up health tech firm MedicalServiceQuotes.com - pehub.com",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQQnlXVHZDci1XRDJnYlFSMjFIM1dzdnR6OVF6Y3lpRVdOTkFWdV9oeGNYRkF1QjRESFNzVmxXaElKRnQxbmZoRTBIOGRWMGJfMENfMHdHdXpacm84Q3hYWWtxcVBCVzFOSHVrX0tJcUk4ZTV0YkUwR0puOXAzcmdEQi1pSHBkZ2NVWmVaT1hhaldmSEk?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-09T08:24:12+00:00",
+    "summary": "Council Capital snaps up health tech firm MedicalServiceQuotes.com pehub.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
       "lifesciences"
     ],
     "relevance_score": 5
