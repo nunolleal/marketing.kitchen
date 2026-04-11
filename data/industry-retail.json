@@ -38,7 +38,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 52
+    "relevance_score": 49
   },
   {
     "id": "3947868080d6",
@@ -72,7 +72,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 45
+    "relevance_score": 42
   },
   {
     "id": "3d7512e82c8b",
@@ -92,7 +92,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "2debe5514089",
@@ -114,7 +114,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "83762e3cb474",
@@ -130,7 +130,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "b5d753efb997",
@@ -151,27 +151,6 @@
       "tech",
       "retail",
       "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "dd4287cdee36",
-    "title": "Motorola’s Souped-Up Folding Phone Is Almost Half Off",
-    "url": "https://www.wired.com/story/motorola-razr-ultra-deal-426/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-04-10T18:14:38+00:00",
-    "summary": "Amazon has the Razr Ultra marked down by $600 for a limited time.",
-    "image_url": "https://media.wired.com/photos/69d92ac7d7f2e496da19531f/master/pass/Motorola's-Souped-Up-Folding-Phone-Is-Almost-Half-Off.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "Gear / Products",
-      "Gear / Products / Phones",
-      "phones"
-    ],
-    "industries": [
-      "retail"
     ],
     "relevance_score": 15
   },
@@ -271,6 +250,27 @@
     ]
   },
   {
+    "id": "dd4287cdee36",
+    "title": "Motorola’s Souped-Up Folding Phone Is Almost Half Off",
+    "url": "https://www.wired.com/story/motorola-razr-ultra-deal-426/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-04-10T18:14:38+00:00",
+    "summary": "Amazon has the Razr Ultra marked down by $600 for a limited time.",
+    "image_url": "https://media.wired.com/photos/69d92ac7d7f2e496da19531f/master/pass/Motorola's-Souped-Up-Folding-Phone-Is-Almost-Half-Off.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "Gear / Products",
+      "Gear / Products / Phones",
+      "phones"
+    ],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 14
+  },
+  {
     "id": "2be2d2761caa",
     "title": "Richard Baker subpoenaed for communications with ex-Saks Global CEO Marc Metrick",
     "url": "https://www.retaildive.com/news/richard-baker-subpoenaed-saks-global-bankruptcy-marc-metrick/817201/",
@@ -284,7 +284,7 @@
       "retail",
       "financial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "3edb3f4696d1",
@@ -301,7 +301,7 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "0135fc117783",
@@ -351,6 +351,21 @@
       "industrial"
     ],
     "relevance_score": 9
+  },
+  {
+    "id": "39fd87abe805",
+    "title": "Ahold Delhaize USA expands digital payment options - Grocery Dive",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQS3Vnb1lPTG5tejR5eW1XVG1INDZfcHoyakZ2Wi1XWGhhNHJMOVljTU9LZlhYeHZ1RWI5Tl9HNXM2anVuUHFzbWp0b0pzckFfUU50OXNheUpRQW1iSEE1VXVyakVHOFlicUF3TWFNbENRNTNsZGJsMENWdHV6dmY5U3FjeEZzRV9CcEcxbDBrbHJRVEVHNFE?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-04-10T14:46:22+00:00",
+    "summary": "Ahold Delhaize USA expands digital payment options Grocery Dive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 8
   },
   {
     "id": "d3cc18ed7ac1",

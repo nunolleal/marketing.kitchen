@@ -17,7 +17,7 @@
       "media",
       "consumer"
     ],
-    "relevance_score": 54
+    "relevance_score": 51
   },
   {
     "id": "7999605dd787",
@@ -34,7 +34,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 51
+    "relevance_score": 48
   },
   {
     "id": "2d23a07e8c44",
@@ -51,7 +51,10 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 44
+    "relevance_score": 44,
+    "also_covered_by": [
+      "Fintech"
+    ]
   },
   {
     "id": "609b2ea6195b",
@@ -92,24 +95,6 @@
     "relevance_score": 39
   },
   {
-    "id": "349fa3ac911b",
-    "title": "Adobe Reader zero-day exploit used in months-long cyber campaign | brief | SC Media - SC Media",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbFRHYTREX1FERThYODBrbzNPLWhrSE9EeWktSHEzR0ZyYnRCb0h3SnpMaVhkbW1Tdld6d1FoREstaERJRjVfSzkzOVp4c2NjUG1MekVSYkhCOWRpbUpPV2pLdExqMG5ldkhGcHFzc2lDc29jaTlpRUdZVXpSNy1nS18xclVEZ0tBck01NTNyUG9xRGRXNG1CVndR?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-04-10T15:14:34+00:00",
-    "summary": "Adobe Reader zero-day exploit used in months-long cyber campaign | brief | SC Media SC Media",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 39,
-    "also_covered_by": [
-      "Adobe Inc"
-    ]
-  },
-  {
     "id": "afc186437c67",
     "title": "Ford and Nissan are embedding their brands in sports as they chase fandoms",
     "url": "https://digiday.com/marketing/ford-and-nissan-are-embedding-their-brands-in-sports-as-they-chase-fandoms/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -126,6 +111,24 @@
       "consumer"
     ],
     "relevance_score": 36
+  },
+  {
+    "id": "349fa3ac911b",
+    "title": "Adobe Reader zero-day exploit used in months-long cyber campaign | brief | SC Media - SC Media",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQbFRHYTREX1FERThYODBrbzNPLWhrSE9EeWktSHEzR0ZyYnRCb0h3SnpMaVhkbW1Tdld6d1FoREstaERJRjVfSzkzOVp4c2NjUG1MekVSYkhCOWRpbUpPV2pLdExqMG5ldkhGcHFzc2lDc29jaTlpRUdZVXpSNy1nS18xclVEZ0tBck01NTNyUG9xRGRXNG1CVndR?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-04-10T15:14:34+00:00",
+    "summary": "Adobe Reader zero-day exploit used in months-long cyber campaign | brief | SC Media SC Media",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 36,
+    "also_covered_by": [
+      "Adobe Inc"
+    ]
   },
   {
     "id": "4594755a2677",
@@ -175,6 +178,27 @@
     "relevance_score": 23
   },
   {
+    "id": "1e7739ddf22a",
+    "title": "‘Hacks’ Season 5 Release Schedule Reveals Final Episodes For Series",
+    "url": "https://www.forbes.com/sites/timlammers/2026/04/10/hacks-season-5-release-schedule-reveals-final-episodes-for-series/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-10T21:30:16+00:00",
+    "summary": "The Emmy-winning comedy series \"Hacks,\" starring Jean Smart and Hannah Einbinder, is back for its fifth and final season with 10 episodes on HBO Max.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69d94df5e07ebdca6d2ec63c/0x0.jpg?width=960&precrop=1558%2C876%2Cx0%2Cy99",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 18
+  },
+  {
     "id": "14cb880fcc57",
     "title": "YouTuber Jesser Launches Parent Company, Preps Business Expansion",
     "url": "https://www.adweek.com/media/youtuber-jesser-parent-company-jesserco/",
@@ -193,38 +217,17 @@
       "media",
       "industrial"
     ],
-    "relevance_score": 17
-  },
-  {
-    "id": "8cd152acd9e3",
-    "title": "Blue Jays’ New 2-Time All-Star Singled Out For Political Support Before Debut",
-    "url": "https://www.forbes.com/sites/peterchawaga/2026/04/10/blue-jays-new-2-time-all-star-singled-out-for-political-support-before-debut/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-04-10T14:07:51+00:00",
-    "summary": "The Toronto Blue Jays’ newest pitcher has been called out by local media for his notable support of U.S. President Donald Trump.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69d903e02f9daa551fcf0412/0x0.jpg?width=960&precrop=3900%2C2193%2Cx0%2Cy178",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "media"
-    ],
     "relevance_score": 16
   },
   {
-    "id": "a287cea2dfeb",
-    "title": "‘Euphoria’ Season 3’s Rotten Tomatoes Score Crashes, Has Lost Key Player",
-    "url": "https://www.forbes.com/sites/paultassi/2026/04/10/euphoria-season-3s-rotten-tomatoes-score-crashes-has-lost-key-player/",
+    "id": "01a32680ab93",
+    "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+    "url": "https://www.forbes.com/sites/erikkain/2026/04/10/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-04-10T15:39:20+00:00",
-    "summary": "Euphoria season 3's Rotten Tomatoes score is way down from past seasons, and it's lost a big part of why the show was good.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69d918dd343e970c49f59b94/0x0.jpg?width=960&precrop=1000%2C562%2Cx0%2Cy91",
+    "published": "2026-04-10T20:00:16+00:00",
+    "summary": "Looking for something new to stream this weekend? Here’s every major new movie and show hitting Netflix, Hulu, Prime Video, Apple TV and more.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69d924ca882041208af195ec/0x0.jpg?width=960",
     "tags": [
       "Gaming",
       "/gaming",
@@ -233,7 +236,8 @@
       "Gaming"
     ],
     "industries": [
-      "media"
+      "media",
+      "tech"
     ],
     "relevance_score": 16
   },
@@ -254,23 +258,24 @@
     "relevance_score": 15
   },
   {
-    "id": "0f4a7c05c749",
-    "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
-    "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-10T16:38:43+00:00",
-    "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep dives into cyber defense and climate tech, and candid...",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/STTchallenge.jpeg?w=800",
+    "id": "b2c24ea6c725",
+    "title": "Dan Levy’s Netflix Crime Comedy ‘Big Mistakes’ Takes Huge, Hilarious Risks",
+    "url": "https://www.forbes.com/sites/danafeldman/2026/04/10/dan-levys-netflix-crime-comedy-big-mistakes-takes-huge-hilarious-risks/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-10T21:02:07+00:00",
+    "summary": "“The minute I thought, ‘Ooh, what if we made a crime comedy?’ the whole world opened up for me,” said Dan Levy in an interview for Netflix's 'Big Mistakes.'",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69d962f182c43ce11afeaa1e/0x0.jpg?width=960&precrop=1280%2C721%2Cx0%2Cy22",
     "tags": [
-      "AI",
-      "Media & Entertainment",
-      "Robotics",
-      "Startups"
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
     ],
     "industries": [
       "media",
-      "tech"
+      "industrial"
     ],
     "relevance_score": 15
   },
@@ -295,11 +300,11 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "e272df6df99c",
-    "title": "The Indie News Queen Who’s Not Done Pissing Off the Powerful",
+    "title": "How 'Democracy Now!' Became the Blueprint for Indie Media",
     "url": "https://www.wired.com/story/the-indie-news-queen-whos-not-done-pissing-off-the-powerful/",
     "source": "Wired",
     "source_category": "ai",
@@ -315,6 +320,27 @@
     ],
     "industries": [
       "media"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "0f4a7c05c749",
+    "title": "TechCrunch is heading to Tokyo — and bringing the Startup Battlefield with it",
+    "url": "https://techcrunch.com/2026/04/10/techcrunch-is-heading-to-tokyo-and-bringing-the-startup-battlefield-with-it/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-10T16:38:43+00:00",
+    "summary": "SusHi Tech 2026 is zeroing in on four technology domains reshaping society: AI, Robotics, Resilience, and Entertainment. Expect live demos of humanoid robots, sessions on autonomous driving's software revolution, deep dives into cyber defense and climate tech, and candid...",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/STTchallenge.jpeg?w=800",
+    "tags": [
+      "Startups",
+      "Media & Entertainment",
+      "AI",
+      "Robotics"
+    ],
+    "industries": [
+      "media",
+      "tech"
     ],
     "relevance_score": 13
   },
@@ -397,21 +423,21 @@
     "relevance_score": 11
   },
   {
-    "id": "ff21df33f8a4",
-    "title": "The USMCA Review: Big Pharma, Glyphosate, & Secure Electronic Payments - Mexico Solidarity Media",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXY0OUN3VkJpLWFUdXlNaFdSalB1YzlaNlg4eXdyM190UU1VM1RQVmlFcDlmY0FlQnA5NDFobXVaSXM0R3p6S2hzOC1TdHk0cTBiRmN5WXJIcE9OSUNLTjdIV1hWdzRiQ0hLOHpneUp3VjNzQmlUWnkxX09LcTAtY2oxR0ZvbllOQ3FaYWZEX0RUdGxGM3dTN0tobw?oc=5",
+    "id": "cd9bc3ebdebe",
+    "title": "Why Are Visa Shares Falling Amid Digital Payment Changes? - Kalkine Media",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOaXhwV2g4QThVNXU4U0JjcmVJMGhKaHhNQVhFWGxWcFg5Q1VvQnFTb1YtamVFVFNNMFVGWHJvT0pBX3p6LXEwemx0SG9Gb0IyUG1ETk5ZdXVSeEtWNVBwVWNEYlowRDFXSUxrWlpqSnVVenIwRmswdmNpdm5jSzA4YWpNZGpKODljdnF0TjJzUEh5eEdkZWQ4VjhxQ0lZYUxUb3hV?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-04-10T18:56:00+00:00",
-    "summary": "The USMCA Review: Big Pharma, Glyphosate, & Secure Electronic Payments Mexico Solidarity Media",
+    "published": "2026-04-10T22:53:00+00:00",
+    "summary": "Why Are Visa Shares Falling Amid Digital Payment Changes? Kalkine Media",
     "image_url": null,
     "tags": [],
     "industries": [
       "media",
-      "lifesciences",
+      "industrial",
       "financial"
     ],
-    "relevance_score": 10
+    "relevance_score": 11
   },
   {
     "id": "051651614142",
@@ -426,12 +452,29 @@
       "AI",
       "Apps",
       "TC",
-      "remote desktop",
-      "AI agents"
+      "remoteaccesssoftware",
+      "Astropad"
     ],
     "industries": [
       "media",
       "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "ff21df33f8a4",
+    "title": "The USMCA Review: Big Pharma, Glyphosate, & Secure Electronic Payments - Mexico Solidarity Media",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXY0OUN3VkJpLWFUdXlNaFdSalB1YzlaNlg4eXdyM190UU1VM1RQVmlFcDlmY0FlQnA5NDFobXVaSXM0R3p6S2hzOC1TdHk0cTBiRmN5WXJIcE9OSUNLTjdIV1hWdzRiQ0hLOHpneUp3VjNzQmlUWnkxX09LcTAtY2oxR0ZvbllOQ3FaYWZEX0RUdGxGM3dTN0tobw?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-04-10T18:56:00+00:00",
+    "summary": "The USMCA Review: Big Pharma, Glyphosate, & Secure Electronic Payments Mexico Solidarity Media",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "lifesciences",
+      "financial"
     ],
     "relevance_score": 9
   },
@@ -448,39 +491,7 @@
     "industries": [
       "media"
     ],
-    "relevance_score": 9
-  },
-  {
-    "id": "7483067a7e44",
-    "title": "Korean telecom giants drop streaming services - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SWS1XNkJMb1VkdzRBUUZzcmJ3MzFvajZwV1FLdk9OWEZEWnBvMEFGSFpFRUtaTlk0dnNDclp5a01QNHU4WmFoakdZYkJLNDhDUXA2UEkxUQ?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-04-10T06:32:06+00:00",
-    "summary": "Korean telecom giants drop streaming services The Korea Herald",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "telecom"
-    ],
     "relevance_score": 8
-  },
-  {
-    "id": "cf7b8fb99c5e",
-    "title": "Saudi Arabia Fintech Market: Digital Payments Growth, Financial Inclusion & AI-Driven Innovation - vocal.media",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPQTFCNXVhWHFRaE9vQk5VdFZnOWFlM2lvMUJfN3gwSTE0SjVnbzZWSkNkYWlnTmVfZzZJM1laRUFycUNhVnhKVTNBYTB2VlU1OVlDMnQ5NnZXM1poV3hfaFZYWTBOUnZHenBMWW11S2h5cmJTSzhIVTkydUdGajBLN1U1aVR0clNtQUtkUVBXd0JLalo0MGJUNjJXc0NpUmR1eE5kbE0zVm9KZjJiRjZaRy1ZTUI1cVIxcXdzVnlKaVBRbE0?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-04-09T08:58:14+00:00",
-    "summary": "Saudi Arabia Fintech Market: Digital Payments Growth, Financial Inclusion & AI-Driven Innovation vocal.media",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "financial"
-    ],
-    "relevance_score": 7
   },
   {
     "id": "452e392803e5",
@@ -499,19 +510,20 @@
     "relevance_score": 7
   },
   {
-    "id": "d0e57499e2e3",
-    "title": "2023 media and entertainment industry outlook - Deloitte",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQb2pQVjFSd29INmtLaUxjNzFfbFVvTkk2QUpfTkFOYndjOVFzaDZaUXhhR2pINzFfOUVaNnNSLW5iWmxDS2dOa3NGc3NwQW9xOVhMdTFEMXZtV2FUNnp3NWZ5RDZDYTBsZ2lZcmlVTEVnWGEzbTVwQVRpRTZSYzNKeVBCYS1qYzVncXlVa1ZPMVBfZmZ5UXhIWkh2YlV2cXo2dG5YaHNnNHB5QTdy?oc=5",
-    "source": "Media Entertainment",
-    "source_category": "industry_media",
-    "published": "2026-04-08T13:11:03+00:00",
-    "summary": "2023 media and entertainment industry outlook Deloitte",
+    "id": "7483067a7e44",
+    "title": "Korean telecom giants drop streaming services - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SWS1XNkJMb1VkdzRBUUZzcmJ3MzFvajZwV1FLdk9OWEZEWnBvMEFGSFpFRUtaTlk0dnNDclp5a01QNHU4WmFoakdZYkJLNDhDUXA2UEkxUQ?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-04-10T06:32:06+00:00",
+    "summary": "Korean telecom giants drop streaming services The Korea Herald",
     "image_url": null,
     "tags": [],
     "industries": [
-      "media"
+      "media",
+      "telecom"
     ],
-    "relevance_score": 6
+    "relevance_score": 7
   },
   {
     "id": "fbc6aa712f6a",
@@ -542,22 +554,6 @@
     "industries": [
       "media",
       "tech",
-      "industrial"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "a25de315cdc8",
-    "title": "Wendy’s is adding media to WPP’s remit—behind the decision - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9XUjJFSGZyZFNMa201VHM4WjZEN3BMUm16QW11a2h4SS1rR180WGcyUUhjb28wX19vcnVYcjNONXNqc1Z6U3ozZ0h2Qm81dUtVNWlVc3hiT0xFVGZPSWhzZHJlT0dzN3VVXzI0cFlpSEtzc1Y1RmRTMm9n?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-04-07T13:44:00+00:00",
-    "summary": "Wendy’s is adding media to WPP’s remit—behind the decision Ad Age",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
       "industrial"
     ],
     "relevance_score": 5
