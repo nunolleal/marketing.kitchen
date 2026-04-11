@@ -19,7 +19,7 @@
       "consumer",
       "lifesciences"
     ],
-    "relevance_score": 54
+    "relevance_score": 51
   },
   {
     "id": "ae43fceafe49",
@@ -41,7 +41,7 @@
       "tech",
       "lifesciences"
     ],
-    "relevance_score": 47
+    "relevance_score": 44
   },
   {
     "id": "789facd2f29b",
@@ -59,7 +59,7 @@
       "consumer",
       "lifesciences"
     ],
-    "relevance_score": 45
+    "relevance_score": 41
   },
   {
     "id": "d3d28d4620ec",
@@ -91,7 +91,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
     "id": "c515d404725d",
@@ -107,7 +107,10 @@
       "lifesciences",
       "financial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16,
+    "also_covered_by": [
+      "Health Tech"
+    ]
   },
   {
     "id": "5c7221daaa75",
@@ -201,23 +204,6 @@
     "relevance_score": 14
   },
   {
-    "id": "20cb76a636d9",
-    "title": "Function Health acquires mobile healthcare platform Getlabs to provide members with at-home lab tests",
-    "url": "https://www.fiercehealthcare.com/health-tech/function-health-acquires-mobile-healthcare-platform-getlabs-provide-members-home-lab",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-10T12:39:00+00:00",
-    "summary": "Function’s testing platform is available at all Quest Diagnostics locations across the U.S. Members will soon be able to choose whether to visit a location or schedule an at-home or in-office test with Getlabs.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1617383361%20%281%29.jpg?VersionId=wpVpBOIJmlcI6cd2kREmaS4OeeEzDoyJ",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 13
-  },
-  {
     "id": "2f59430a6814",
     "title": "What’s in a name? Moderna’s “vaccine” vs. “therapy” dilemma",
     "url": "https://www.technologyreview.com/2026/04/10/1135631/whats-in-a-name-modernas-vaccine-vs-therapy-dilemma/",
@@ -254,6 +240,23 @@
     "also_covered_by": [
       "Health Tech"
     ]
+  },
+  {
+    "id": "20cb76a636d9",
+    "title": "Function Health acquires mobile healthcare platform Getlabs to provide members with at-home lab tests",
+    "url": "https://www.fiercehealthcare.com/health-tech/function-health-acquires-mobile-healthcare-platform-getlabs-provide-members-home-lab",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-10T12:39:00+00:00",
+    "summary": "Function’s testing platform is available at all Quest Diagnostics locations across the U.S. Members will soon be able to choose whether to visit a location or schedule an at-home or in-office test with Getlabs.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1617383361%20%281%29.jpg?VersionId=wpVpBOIJmlcI6cd2kREmaS4OeeEzDoyJ",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 12
   },
   {
     "id": "86058fdc46e9",
@@ -303,10 +306,7 @@
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 12,
-    "also_covered_by": [
-      "Health Tech"
-    ]
+    "relevance_score": 12
   },
   {
     "id": "f4e96b6c036b",
@@ -373,22 +373,6 @@
     "relevance_score": 11
   },
   {
-    "id": "1d42d4ee3c8c",
-    "title": "Medicare Debuts Digital Health Record System for Enrollees - MedPage Today",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNald0QmJVc1NfU1BmZThNSlJwWENfcDlOSHZKWnVTYXJuQ0xnc0REYlM0aU8xVzRBWGRKLUc3MXVfaVE0dUg5V3lSR3Qxemg5NHhUdHpnQmJkbmRKc3V1S3FYY0hCVmNUeTFGbzdXdXRHU05XZGp0c1hPcktfQnlJV3lB?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-10T22:04:42+00:00",
-    "summary": "Medicare Debuts Digital Health Record System for Enrollees MedPage Today",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "82d05e56099f",
     "title": "Humana, Noom and Welldoc team up with b.well to expand health data access as part of CMS push",
     "url": "https://www.fiercehealthcare.com/health-tech/humana-noom-and-welldoc-team-bwell-expand-health-data-access-part-cms-push",
@@ -405,33 +389,17 @@
     "relevance_score": 9
   },
   {
-    "id": "ff21df33f8a4",
-    "title": "The USMCA Review: Big Pharma, Glyphosate, & Secure Electronic Payments - Mexico Solidarity Media",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXY0OUN3VkJpLWFUdXlNaFdSalB1YzlaNlg4eXdyM190UU1VM1RQVmlFcDlmY0FlQnA5NDFobXVaSXM0R3p6S2hzOC1TdHk0cTBiRmN5WXJIcE9OSUNLTjdIV1hWdzRiQ0hLOHpneUp3VjNzQmlUWnkxX09LcTAtY2oxR0ZvbllOQ3FaYWZEX0RUdGxGM3dTN0tobw?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-04-10T18:56:00+00:00",
-    "summary": "The USMCA Review: Big Pharma, Glyphosate, & Secure Electronic Payments Mexico Solidarity Media",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "lifesciences",
-      "financial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "6ddbf9fb72a8",
-    "title": "CMS highlights new digital health ecosystem tools - American Hospital Association",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX212eUVVcFpUNnJWXzJFTE9HWjNlam93RExhazNua0thcXFQNHQzNVVQZjdaUW9qeS1BNDBET2hNa2pfOVlCVWgxMmlpc1ZaTFNkTjMyR2FEd2FDUHZvMjJPMGdkUGg1MjhDUk5xSklLd0M0RlI4VVJ0b3lOX05NSkdxWjVUREdUdFpQTjBQTnB0Rl9iZ3pzcmZB?oc=5",
+    "id": "1d42d4ee3c8c",
+    "title": "Medicare Debuts Digital Health Record System for Enrollees - MedPage Today",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNald0QmJVc1NfU1BmZThNSlJwWENfcDlOSHZKWnVTYXJuQ0xnc0REYlM0aU8xVzRBWGRKLUc3MXVfaVE0dUg5V3lSR3Qxemg5NHhUdHpnQmJkbmRKc3V1S3FYY0hCVmNUeTFGbzdXdXRHU05XZGp0c1hPcktfQnlJV3lB?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-10T19:38:49+00:00",
-    "summary": "CMS highlights new digital health ecosystem tools American Hospital Association",
+    "published": "2026-04-10T22:04:42+00:00",
+    "summary": "Medicare Debuts Digital Health Record System for Enrollees MedPage Today",
     "image_url": null,
     "tags": [],
     "industries": [
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 9
@@ -514,6 +482,38 @@
     "relevance_score": 8
   },
   {
+    "id": "ff21df33f8a4",
+    "title": "The USMCA Review: Big Pharma, Glyphosate, & Secure Electronic Payments - Mexico Solidarity Media",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXY0OUN3VkJpLWFUdXlNaFdSalB1YzlaNlg4eXdyM190UU1VM1RQVmlFcDlmY0FlQnA5NDFobXVaSXM0R3p6S2hzOC1TdHk0cTBiRmN5WXJIcE9OSUNLTjdIV1hWdzRiQ0hLOHpneUp3VjNzQmlUWnkxX09LcTAtY2oxR0ZvbllOQ3FaYWZEX0RUdGxGM3dTN0tobw?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-04-10T18:56:00+00:00",
+    "summary": "The USMCA Review: Big Pharma, Glyphosate, & Secure Electronic Payments Mexico Solidarity Media",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "lifesciences",
+      "financial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "6ddbf9fb72a8",
+    "title": "CMS highlights new digital health ecosystem tools - American Hospital Association",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNX212eUVVcFpUNnJWXzJFTE9HWjNlam93RExhazNua0thcXFQNHQzNVVQZjdaUW9qeS1BNDBET2hNa2pfOVlCVWgxMmlpc1ZaTFNkTjMyR2FEd2FDUHZvMjJPMGdkUGg1MjhDUk5xSklLd0M0RlI4VVJ0b3lOX05NSkdxWjVUREdUdFpQTjBQTnB0Rl9iZ3pzcmZB?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-10T19:38:49+00:00",
+    "summary": "CMS highlights new digital health ecosystem tools American Hospital Association",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "c529f267acaf",
     "title": "Faegre Drinker boosts FDA regulatory practice with two senior hires - Life Sciences Intellectual Property Review",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQTVhCakpPcF9CT2RKVG9ZYXNvN3ZJR0pmZ2F4dDBQQmYyTVhZdmJlS1YtbG9mN2JrWXBXR1FVdWtscGlzZDdfcWRubjdSNzRKTXo0Q05KeVFyVHJlVVRQX1VtMWRuLVkwTFRLeGtUWGctYTJYcWZpZTZpU2VXVVRzUjdIRUItQl9JVEFuZFNmU2g4WkVmdHlWTTVYMFMta253N1dyQ3ZNakhESDhlU3JJbk9R?oc=5",
@@ -534,27 +534,12 @@
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxObE1jcDBBTkhxdmVyWUUyUjNKQURjZ1VlRmpKZEhqM1hKMzNjSDZxUGlULW5wTlR3c3lQYUNWb25qMEVLVThBOHJxM2ZGLVROZFZuSTVFWEtNY1pFVklZRk5lckY2UVR5T3pJYTM3bExwVlJlRl92WGxMdEJrZVA2WXJOMmMzbzFSVGhuY2hjbmczcUQ3TkY1b3VvUEM4Zk1Ub1FhbWNEa1lQU2FaSzdzSFFuSjM2ZmhaZHNfWnNZa0xIZURHQTJ2Z29QdGlfR05JOURUUGNza1NUM1dSSGlN?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-07T01:27:00+00:00",
+    "published": "2026-04-07T03:21:30+00:00",
     "summary": "'It's saving his life': FDA approves new drug for rare disease, helping Overland Park family KSHB 41 Kansas City",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "67e39a473b62",
-    "title": "4 Digital Health Projects Transforming Care Delivery - American Hospital Association",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUng4amZ2eXFpbnRkSW5qMmV0R0k1XzNhQ0M3aU01WGpJcDNCRDFWbVFFVGJNTF9EYm9lemhlOVBTeTdPSUFmX3lBcnE5WHZ5UkY0dmlaVUd0MlZtaVpZTk9BRVREOEdoNnM0REZZRXR3SEtCeENEWm44T2x2ZTA0cGNHMHBNdTZVRmxiN0FXTkN5RldNZ0cxY0VEWTNoVVBqcE1ETDVIcW1CQlZHR0w1LTBhT0tSdk9xeGdvZWtVaHNFZw?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-07T11:15:00+00:00",
-    "summary": "4 Digital Health Projects Transforming Care Delivery American Hospital Association",
-    "image_url": null,
-    "tags": [],
-    "industries": [
       "lifesciences"
     ],
     "relevance_score": 6
@@ -571,22 +556,6 @@
     "tags": [],
     "industries": [
       "retail",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "cd0f4fb374c6",
-    "title": "Role of Digital Health Technologies and Artificial Intelligence in Modern Public Health Surveillance - Cureus",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNczNKeHZfcWlmNDNGUDJEd2FKOFE3bHhfSm1wdDd6UVhrUWtGaXYyejl0czJpNjlQNVAwa1NDMnRnam1jTHpNSUl1SGlUcXJGUDQ3N1VQZmU4cnQ0RUdnVHBZU01pWmhxTXJZcnc4d1hSYmxZN3FUU05oME9GdXVuS0thaHpNTnJ6ZXJ4VDVsREpTOTV2OEh4djVsOTF1QmtGTGljYjJTSDFzYkQzM3ZBcHcwTmFjdFdIbGdmUG5jenRXNXdRc2V5c01UNzhQOG1zY2ZfdFJn?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-09T05:18:42+00:00",
-    "summary": "Role of Digital Health Technologies and Artificial Intelligence in Modern Public Health Surveillance Cureus",
-    "image_url": null,
-    "tags": [],
-    "industries": [
       "industrial",
       "lifesciences"
     ],
@@ -728,6 +697,22 @@
     "image_url": null,
     "tags": [],
     "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "cd0f4fb374c6",
+    "title": "Role of Digital Health Technologies and Artificial Intelligence in Modern Public Health Surveillance - Cureus",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNczNKeHZfcWlmNDNGUDJEd2FKOFE3bHhfSm1wdDd6UVhrUWtGaXYyejl0czJpNjlQNVAwa1NDMnRnam1jTHpNSUl1SGlUcXJGUDQ3N1VQZmU4cnQ0RUdnVHBZU01pWmhxTXJZcnc4d1hSYmxZN3FUU05oME9GdXVuS0thaHpNTnJ6ZXJ4VDVsREpTOTV2OEh4djVsOTF1QmtGTGljYjJTSDFzYkQzM3ZBcHcwTmFjdFdIbGdmUG5jenRXNXdRc2V5c01UNzhQOG1zY2ZfdFJn?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-09T05:18:42+00:00",
+    "summary": "Role of Digital Health Technologies and Artificial Intelligence in Modern Public Health Surveillance Cureus",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 5
