@@ -95,7 +95,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "4bf06e965fe4",
@@ -117,7 +117,7 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 14,
+    "relevance_score": 13,
     "also_covered_by": [
       "VentureBeat"
     ]
@@ -142,7 +142,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "9f4e76a951e1",
@@ -249,23 +249,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 12
-  },
-  {
-    "id": "0135fc117783",
-    "title": "Walmart to close Illinois fulfillment center",
-    "url": "https://www.retaildive.com/news/walmart-layoffs-illinois-fulfillment-center-nextgen/817053/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-04-09T19:25:00+00:00",
-    "summary": "Operations at the Matteson facility will be relocated to other NextGen facilities in Walmart’s fulfillment network, impacting 111 employees.",
-    "image_url": "https://imgproxy.divecdn.com/2HsbHnd4I_sde3pgQzKnMaBl7RkoOFeBv207HFHuU4k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9LbmFwcC1XYWxtYXJ0LUFzc29jaWF0ZS1XaXRoLUJveGVzLnBuZw==.webp",
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 10
+    "relevance_score": 11
   },
   {
     "id": "2be2d2761caa",
@@ -282,6 +266,22 @@
       "financial"
     ],
     "relevance_score": 10
+  },
+  {
+    "id": "0135fc117783",
+    "title": "Walmart to close Illinois fulfillment center",
+    "url": "https://www.retaildive.com/news/walmart-layoffs-illinois-fulfillment-center-nextgen/817053/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-04-09T19:25:00+00:00",
+    "summary": "Operations at the Matteson facility will be relocated to other NextGen facilities in Walmart’s fulfillment network, impacting 111 employees.",
+    "image_url": "https://imgproxy.divecdn.com/2HsbHnd4I_sde3pgQzKnMaBl7RkoOFeBv207HFHuU4k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9LbmFwcC1XYWxtYXJ0LUFzc29jaWF0ZS1XaXRoLUJveGVzLnBuZw==.webp",
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 9
   },
   {
     "id": "8db952bf70ed",
@@ -317,23 +317,6 @@
     "relevance_score": 8
   },
   {
-    "id": "54911a55e13e",
-    "title": "Human-in-the-loop constructs for agentic workflows in healthcare and life sciences | Artificial Intelligence - Amazon Web Services",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcFlmemU0Z2R6TG1QYlk5bkF0b2xsSTFhdnlNUW1GbTVWNER3VXQtaW5JRF8yZjRoQ0ZQajRWVTdmM3l4Ynlnb21oSjJLSVdDNzRodTYtX1FETjEzTXZTV0RyYnpsUlp0QmVHbXFvXzVrT1JCWU1rZEdsQ3NjRC1fT2F1Z2lmcFRlRUgwaDVYbnB2dmJQODRzMHF3V0ZScF9CeVZVMC1Ua192ajNhbWlYc0FVd0tEQUhTU1p1XzhWcjdIa0padEhpbw?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-08T19:48:07+00:00",
-    "summary": "Human-in-the-loop constructs for agentic workflows in healthcare and life sciences | Artificial Intelligence Amazon Web Services",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 6
-  },
-  {
     "id": "d3cc18ed7ac1",
     "title": "JPMorgan Trims Wells Fargo & Company (WFC) Target, Flags Volatility Risks for Banks - Yahoo Finance",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYXRRSHF4NnNBcU9nY2hlZ2RGRHlRcGpSX2xsbFNwZnp2RTlncFg1ZWx3YmJhQVh0akxaY1d1RmhMSWxKbjhCc0VkdG5SR0dPYzR0RkVYUmNITnozaFlQa2xjNFJxZHNRbVVsNkVzRTczTDVnZEg2UVJseU1EN1pZaEFkb3Q2MVZubjNUVFFOdnNxR2ZQNzcyQVVfU1EzVmtK?oc=5",
@@ -364,5 +347,22 @@
       "retail"
     ],
     "relevance_score": 6
+  },
+  {
+    "id": "54911a55e13e",
+    "title": "Human-in-the-loop constructs for agentic workflows in healthcare and life sciences | Artificial Intelligence - Amazon Web Services",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcFlmemU0Z2R6TG1QYlk5bkF0b2xsSTFhdnlNUW1GbTVWNER3VXQtaW5JRF8yZjRoQ0ZQajRWVTdmM3l4Ynlnb21oSjJLSVdDNzRodTYtX1FETjEzTXZTV0RyYnpsUlp0QmVHbXFvXzVrT1JCWU1rZEdsQ3NjRC1fT2F1Z2lmcFRlRUgwaDVYbnB2dmJQODRzMHF3V0ZScF9CeVZVMC1Ua192ajNhbWlYc0FVd0tEQUhTU1p1XzhWcjdIa0padEhpbw?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-08T19:48:07+00:00",
+    "summary": "Human-in-the-loop constructs for agentic workflows in healthcare and life sciences | Artificial Intelligence Amazon Web Services",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 5
   }
 ]
