@@ -134,7 +134,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 23
+    "relevance_score": 20
   },
   {
     "id": "3c1b8ce06058",
@@ -145,27 +145,6 @@
     "published": "2026-04-11T14:19:19+00:00",
     "summary": "Netflix's best new show unites two of the best comedic talents in the business, from Schitt's Creek and I Love LA's creators.",
     "image_url": "https://imageio.forbes.com/specials-images/imageserve/69da57d25a7fcabc4c4477e7/0x0.jpg",
-    "tags": [
-      "Gaming",
-      "/gaming",
-      "Innovation",
-      "/innovation",
-      "Gaming"
-    ],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 17
-  },
-  {
-    "id": "bf1fe7734bab",
-    "title": "Tyson Fury Pounds His Way To Victory, Presses AJ With WWE-Like Mic Work",
-    "url": "https://www.forbes.com/sites/brianmazique/2026/04/11/tyson-fury-pounds-his-way-to-victory-presses-aj-with-wwe-like-mic-work/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-04-11T22:31:06+00:00",
-    "summary": "Fury beat Makhmudov UD (120-108x2, 119-109) at Tottenham on Netflix. Post-fight: AJ called Fury a clout chaser. Negotiations ongoing.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69dac920d4a7cfebe7e67bb2/0x0.jpg?width=960",
     "tags": [
       "Gaming",
       "/gaming",
@@ -187,6 +166,27 @@
     "published": "2026-04-11T20:57:02+00:00",
     "summary": "Benn beat Prograis by UD (98-92x3) at Tottenham on Netflix. Stevenson and Conlan questioned the performance. $15M Zuffa deal scrutinized.",
     "image_url": "https://imageio.forbes.com/specials-images/imageserve/69dab48d5de0592a79254571/0x0.jpg?width=960",
+    "tags": [
+      "Gaming",
+      "/gaming",
+      "Innovation",
+      "/innovation",
+      "Gaming"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "bf1fe7734bab",
+    "title": "Tyson Fury Pounds His Way To Victory, Presses AJ With WWE-Like Mic Work",
+    "url": "https://www.forbes.com/sites/brianmazique/2026/04/11/tyson-fury-pounds-his-way-to-victory-presses-aj-with-wwe-like-mic-work/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-11T22:31:06+00:00",
+    "summary": "Fury beat Makhmudov UD (120-108x2, 119-109) at Tottenham on Netflix. Post-fight: AJ called Fury a clout chaser. Negotiations ongoing.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69dac920d4a7cfebe7e67bb2/0x0.jpg?width=960",
     "tags": [
       "Gaming",
       "/gaming",
@@ -436,22 +436,6 @@
     "relevance_score": 7
   },
   {
-    "id": "7483067a7e44",
-    "title": "Korean telecom giants drop streaming services - The Korea Herald",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SWS1XNkJMb1VkdzRBUUZzcmJ3MzFvajZwV1FLdk9OWEZEWnBvMEFGSFpFRUtaTlk0dnNDclp5a01QNHU4WmFoakdZYkJLNDhDUXA2UEkxUQ?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-04-10T06:32:06+00:00",
-    "summary": "Korean telecom giants drop streaming services The Korea Herald",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "telecom"
-    ],
-    "relevance_score": 6
-  },
-  {
     "id": "ff21df33f8a4",
     "title": "The USMCA Review: Big Pharma, Glyphosate, & Secure Electronic Payments - Mexico Solidarity Media",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXY0OUN3VkJpLWFUdXlNaFdSalB1YzlaNlg4eXdyM190UU1VM1RQVmlFcDlmY0FlQnA5NDFobXVaSXM0R3p6S2hzOC1TdHk0cTBiRmN5WXJIcE9OSUNLTjdIV1hWdzRiQ0hLOHpneUp3VjNzQmlUWnkxX09LcTAtY2oxR0ZvbllOQ3FaYWZEX0RUdGxGM3dTN0tobw?oc=5",
@@ -496,6 +480,22 @@
     "industries": [
       "media",
       "financial"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "7483067a7e44",
+    "title": "Korean telecom giants drop streaming services - The Korea Herald",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE1SWS1XNkJMb1VkdzRBUUZzcmJ3MzFvajZwV1FLdk9OWEZEWnBvMEFGSFpFRUtaTlk0dnNDclp5a01QNHU4WmFoakdZYkJLNDhDUXA2UEkxUQ?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-04-10T06:32:06+00:00",
+    "summary": "Korean telecom giants drop streaming services The Korea Herald",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "telecom"
     ],
     "relevance_score": 5
   }
