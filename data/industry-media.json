@@ -87,7 +87,7 @@
       "media",
       "consumer"
     ],
-    "relevance_score": 33
+    "relevance_score": 30
   },
   {
     "id": "4594755a2677",
@@ -176,7 +176,7 @@
     "industries": [
       "media"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "fdaf45b05ec6",
@@ -197,7 +197,7 @@
     "industries": [
       "media"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "cbd4fdaa2b7a",
@@ -255,7 +255,7 @@
       "media",
       "tech"
     ],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "3e049347aa0c",
@@ -276,26 +276,7 @@
     "industries": [
       "media"
     ],
-    "relevance_score": 13
-  },
-  {
-    "id": "6e54d087c45d",
-    "title": "Media Briefing: Another AI threat emerges for publishers: the third-party scraper",
-    "url": "https://digiday.com/media/media-briefing-another-ai-threat-emerges-for-publishers-the-third-party-scraper/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-04-09T04:01:00+00:00",
-    "summary": "A growing network of third-party web scrapers is fueling an AI content licensing market, where publisher content is scraped and sold.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/04/scrape-content-digiday1.jpg",
-    "tags": [
-      "Media",
-      "Digiday+"
-    ],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 11
+    "relevance_score": 12
   },
   {
     "id": "7ba70136ec59",
@@ -337,6 +318,25 @@
     "industries": [
       "media",
       "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "6e54d087c45d",
+    "title": "Media Briefing: Another AI threat emerges for publishers: the third-party scraper",
+    "url": "https://digiday.com/media/media-briefing-another-ai-threat-emerges-for-publishers-the-third-party-scraper/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-04-09T04:01:00+00:00",
+    "summary": "A growing network of third-party web scrapers is fueling an AI content licensing market, where publisher content is scraped and sold.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/04/scrape-content-digiday1.jpg",
+    "tags": [
+      "Media",
+      "Digiday+"
+    ],
+    "industries": [
+      "media",
+      "industrial"
     ],
     "relevance_score": 10
   },
@@ -411,8 +411,8 @@
       "AI",
       "Apps",
       "TC",
-      "remoteaccesssoftware",
-      "Astropad"
+      "remote desktop",
+      "AI agents"
     ],
     "industries": [
       "media",
@@ -480,6 +480,22 @@
     "tags": [],
     "industries": [
       "media"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "fbc6aa712f6a",
+    "title": "Why Wells Fargo just upgraded dozens of Charlotte-area branches - The Business Journals",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNd1hJN2pDRlBCd1BTR2FNbG1BeVlmZzFja3VURy1yVkJLSWg5QzVfb2Z5VWxnX2hyQkpqQnlTUXM2d1l2RXpWTDVvbkJvNkNvQnp3M1luWWUzNDk5LTd2bW5peEw2dFFwVE5odDhQdDFaY1AtWlJTRU9PcmRRTzhOWDFlZFUxRmlWLW5zaDVENlQwNnJjOC1sN2hMNWJKNGY1X0d3?oc=5",
+    "source": "Banking",
+    "source_category": "industry_financial",
+    "published": "2026-04-09T11:06:00+00:00",
+    "summary": "Why Wells Fargo just upgraded dozens of Charlotte-area branches The Business Journals",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "financial"
     ],
     "relevance_score": 5
   }

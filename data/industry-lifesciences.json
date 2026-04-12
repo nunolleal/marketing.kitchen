@@ -1,23 +1,5 @@
 [
   {
-    "id": "789facd2f29b",
-    "title": "Why Pfizer and other blue-chip brands are building internal AI search hubs to reclaim control",
-    "url": "https://digiday.com/marketing/why-pfizer-and-other-blue-chip-brands-are-building-internal-ai-search-hubs-to-reclaim-control/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-04-10T04:01:00+00:00",
-    "summary": "As AI upends traditional rankings, big spenders like Pfizer and other blue-chip brands are building internal task forces.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/08/ai-search-digiday.jpg",
-    "tags": [
-      "Marketing"
-    ],
-    "industries": [
-      "consumer",
-      "lifesciences"
-    ],
-    "relevance_score": 41
-  },
-  {
     "id": "ae43fceafe49",
     "title": "Meta’s New AI Asked for My Raw Health Data—and Gave Me Terrible Advice",
     "url": "https://www.wired.com/story/metas-new-ai-asked-for-my-raw-health-data-and-gave-me-terrible-advice/",
@@ -38,6 +20,24 @@
       "lifesciences"
     ],
     "relevance_score": 40
+  },
+  {
+    "id": "789facd2f29b",
+    "title": "Why Pfizer and other blue-chip brands are building internal AI search hubs to reclaim control",
+    "url": "https://digiday.com/marketing/why-pfizer-and-other-blue-chip-brands-are-building-internal-ai-search-hubs-to-reclaim-control/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-04-10T04:01:00+00:00",
+    "summary": "As AI upends traditional rankings, big spenders like Pfizer and other blue-chip brands are building internal task forces.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/08/ai-search-digiday.jpg",
+    "tags": [
+      "Marketing"
+    ],
+    "industries": [
+      "consumer",
+      "lifesciences"
+    ],
+    "relevance_score": 38
   },
   {
     "id": "d3d28d4620ec",
@@ -119,10 +119,7 @@
       "lifesciences",
       "financial"
     ],
-    "relevance_score": 12,
-    "also_covered_by": [
-      "Health Tech"
-    ]
+    "relevance_score": 12
   },
   {
     "id": "9f4e76a951e1",
@@ -226,7 +223,10 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 10
+    "relevance_score": 10,
+    "also_covered_by": [
+      "Health Tech"
+    ]
   },
   {
     "id": "2397f3d9e522",
@@ -521,6 +521,21 @@
     "relevance_score": 6
   },
   {
+    "id": "c27f5ec9a158",
+    "title": "How to build performance-based contracts for digital health vendors - Modern Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQTUNEQXFxU3Q3VnZ0VkxzZ1JMUGU1Y2NpQnlZZHltS1JQZDJ1NnhSZFRyWDFwMG5TVW40VWtRLXM5WUtmOUF0Z1p2VVRBN0RnZDV5ZnRGeEZHYlVaUm1wcFM5Vmh4LXpUWmlHUzFTd0VGLU5CUk54MDNnTkxWQ2dFU2lLU1dGSGFSUmlPTHpLN0RCeUct?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-07T10:00:00+00:00",
+    "summary": "How to build performance-based contracts for digital health vendors Modern Healthcare",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
     "id": "824a1fb69a68",
     "title": "FDA seeks legislative teeth to bite back against misleading DTC drug ads - Fierce Pharma",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOS3g4czJaTWJCOWZmb1lVQWkyNkhicTVKUE1oRU1HRFBfUkZ5WnFjUkJkV0pjZkhDdHFlSWRhOUZsM28wNU1ZWVFxZFJSelloRGJhWlJlczE2Ym9MMHF4RnAwVjE2LXJzdWhPNF9idEpRSUlHMXpsT2JCTWtoY0NkLXg4U3A1X1pmUUxzbS15WmlmdEdwck5pWlk5ZlRPOXJBMGxGSlBMODRtb2R1?oc=5",
@@ -623,6 +638,21 @@
     "source_category": "industry_lifesciences",
     "published": "2026-04-09T07:06:45+00:00",
     "summary": "How to transform healthcare through digital imd.org",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "e85d0a241379",
+    "title": "Aptar Digital Health Partners With Enable Injections For enFuse Companion Digital Solution - citybiz",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPNnh0NmJ6M3hmenpzRnNVTmlWTmMwMk5PRmpLRUthWGZrRlUxYVBFcUZweER1d0c4UFlNaGJ0TjF6Z0Zzd2ZtMzRvdHdJYUVHWlY1M0JRNjZyRm01ZGg4TlVUWTlCTFVDMmc5SHh5dGJKbnVGWXk2VFltQmZsakNEa3k2a2Y0aGs4eHBpOWhtNkQ4bC14VXBEOUltZFdQQ0E4Qk54dXhGb1Z5aTFYUlNJNGN1cDBRblR1ck1QQ21qVEo0b2RFSUdaTg?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-09T07:57:05+00:00",
+    "summary": "Aptar Digital Health Partners With Enable Injections For enFuse Companion Digital Solution citybiz",
     "image_url": null,
     "tags": [],
     "industries": [
