@@ -36,7 +36,7 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 43
+    "relevance_score": 40
   },
   {
     "id": "f9ded411452d",
@@ -57,7 +57,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 42
+    "relevance_score": 39
   },
   {
     "id": "aecdf9703b33",
@@ -72,7 +72,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 35
+    "relevance_score": 32
   },
   {
     "id": "4bf06e965fe4",
@@ -116,6 +116,22 @@
     "relevance_score": 12
   },
   {
+    "id": "9b2779a7abff",
+    "title": "Eli Lilly launches oral GLP-1 drug across US through Lilly Direct, telehealth providers",
+    "url": "https://www.fiercehealthcare.com/telehealth/eli-lillys-launches-oral-glp-1-drug-across-us-through-lilly-direct-telehealth-providers",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-09T10:46:00+00:00",
+    "summary": "Beginning April 9, eligible patients can access Foundayo through LillyDirect as well as Amazon Pharmacy, GoodRx, Ro and Weight Watchers.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/LILLYSIGN.jpg?VersionId=YAjx95URbeDvZm3b4yvFa.Dr50m_kl9S",
+    "tags": [],
+    "industries": [
+      "retail",
+      "lifesciences"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "a3545a1a0f89",
     "title": "Amazon CEO takes aim at Nvidia, Intel, Starlink, more in annual shareholder letter",
     "url": "https://techcrunch.com/2026/04/09/amazon-ceo-takes-aim-at-nvidia-intel-starlink-more-in-annual-shareholder-letter/",
@@ -135,7 +151,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "be1d9415a0ea",
@@ -151,7 +167,7 @@
       "retail",
       "financial"
     ],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "83762e3cb474",
@@ -166,22 +182,6 @@
     "industries": [
       "retail",
       "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "9b2779a7abff",
-    "title": "Eli Lilly launches oral GLP-1 drug across US through Lilly Direct, telehealth providers",
-    "url": "https://www.fiercehealthcare.com/telehealth/eli-lillys-launches-oral-glp-1-drug-across-us-through-lilly-direct-telehealth-providers",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-09T10:46:00+00:00",
-    "summary": "Beginning April 9, eligible patients can access Foundayo through LillyDirect as well as Amazon Pharmacy, GoodRx, Ro and Weight Watchers.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/LILLYSIGN.jpg?VersionId=YAjx95URbeDvZm3b4yvFa.Dr50m_kl9S",
-    "tags": [],
-    "industries": [
-      "retail",
-      "lifesciences"
     ],
     "relevance_score": 11
   },
@@ -229,22 +229,6 @@
     "relevance_score": 11
   },
   {
-    "id": "2be2d2761caa",
-    "title": "Richard Baker subpoenaed for communications with ex-Saks Global CEO Marc Metrick",
-    "url": "https://www.retaildive.com/news/richard-baker-subpoenaed-saks-global-bankruptcy-marc-metrick/817201/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-04-10T16:08:00+00:00",
-    "summary": "A committee of unsecured creditors says the Saks Global executive chairman has rebuffed requests for information as part of the luxury retailer’s bankruptcy.",
-    "image_url": "https://imgproxy.divecdn.com/NJkP6DficgGhwL2g_frPGEeuUxYzRLo87agAmIlgq7M/g:nowe:0:57/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTQ5MTYxOTg5LmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "retail",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "0135fc117783",
     "title": "Walmart to close Illinois fulfillment center",
     "url": "https://www.retaildive.com/news/walmart-layoffs-illinois-fulfillment-center-nextgen/817053/",
@@ -257,6 +241,22 @@
     "industries": [
       "retail",
       "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "2be2d2761caa",
+    "title": "Richard Baker subpoenaed for communications with ex-Saks Global CEO Marc Metrick",
+    "url": "https://www.retaildive.com/news/richard-baker-subpoenaed-saks-global-bankruptcy-marc-metrick/817201/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-04-10T16:08:00+00:00",
+    "summary": "A committee of unsecured creditors says the Saks Global executive chairman has rebuffed requests for information as part of the luxury retailer’s bankruptcy.",
+    "image_url": "https://imgproxy.divecdn.com/NJkP6DficgGhwL2g_frPGEeuUxYzRLo87agAmIlgq7M/g:nowe:0:57/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTQ5MTYxOTg5LmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "retail",
+      "financial"
     ],
     "relevance_score": 9
   },
@@ -274,7 +274,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 8
+    "relevance_score": 7
   },
   {
     "id": "300df20497bc",
@@ -291,7 +291,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 8
+    "relevance_score": 7
   },
   {
     "id": "e8931a451285",
@@ -307,7 +307,7 @@
       "telecom",
       "retail"
     ],
-    "relevance_score": 8
+    "relevance_score": 7
   },
   {
     "id": "54911a55e13e",
@@ -327,13 +327,30 @@
     "relevance_score": 5
   },
   {
-    "id": "2a1b6239e29e",
-    "title": "JPMorgan Trims Wells Fargo & Company (WFC) Target, Flags Volatility Risks for Banks - Insider Monkey",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQV2xXcTJHOFA5aG9jdVREM2lEY1VCSjI5QkotY3lKZlBKbG9YY1dhU215UHZWNWFvNWJPcm1sMHNlc1ZqWGxROHBHR2kzRENzbXVsOUV3Rk1SdmNVT3RLTEctNlRMTWY0UEZOcnFmQ2x4OUItN2NoMnpEbGlkNWZzZ3VsQWdQOEg5TU9mZzJmSl9zT21MeUlVVFNMbm9GeDNkcjYzLTQxWS1tSFZYV1U4cGpQZndWbDhXNkRTYlVNRdIBxwFBVV95cUxNNWQwQTNBS18yaWRYcllpLUxpdGxtdEdHZmI3Z2FaUWdTTUZFWi1GTjNTbkhNVjZSYzA5YU5idV9mZjZSVHpnbjJab3N3QXBZMm1JaTB2NFUwZzJuVmZBU0hOZTJtYmpGRzdfOTZhWWNHQy1CcU5ObEhQNllLbF85YmliQ3VxNUp2N1hpeGxqMGdiNkx1LUlpSjdsNTZGZHZUXzI5ck11M1ZGTHJlbW93enpDSzQ3bnlTVGp0WjFpdUx3ZWVXWHJj?oc=5",
+    "id": "d3cc18ed7ac1",
+    "title": "JPMorgan Trims Wells Fargo & Company (WFC) Target, Flags Volatility Risks for Banks - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNYXRRSHF4NnNBcU9nY2hlZ2RGRHlRcGpSX2xsbFNwZnp2RTlncFg1ZWx3YmJhQVh0akxaY1d1RmhMSWxKbjhCc0VkdG5SR0dPYzR0RkVYUmNITnozaFlQa2xjNFJxZHNRbVVsNkVzRTczTDVnZEg2UVJseU1EN1pZaEFkb3Q2MVZubjNUVFFOdnNxR2ZQNzcyQVVfU1EzVmtK?oc=5",
     "source": "Banking",
     "source_category": "industry_financial",
-    "published": "2026-04-09T02:13:57+00:00",
-    "summary": "JPMorgan Trims Wells Fargo & Company (WFC) Target, Flags Volatility Risks for Banks Insider Monkey",
+    "published": "2026-04-09T02:10:00+00:00",
+    "summary": "JPMorgan Trims Wells Fargo & Company (WFC) Target, Flags Volatility Risks for Banks Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "4d79923f9668",
+    "title": "Visa debuts Intelligent Commerce Connect for AI-driven shopping - Electronic Payments International",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPUkJSNWw5OWQzVkZ3SVQ4b3lXdkNYVDQ1VnBOQ2tESHRUOUQ1QzQtOGFKR2VSamE1Z2x4NDcxRzhZbkhPamo2UTFJM3RUeFZFcnpkamhYVWFNVlpxTl81ak53V2xxMEhUTEs3d2JaWGUtWHJVdVMtRDdrVFVfWm5RZG9Ic1R3cV9oSmZkc2VCYzR4UUctM2xaSEJB?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-04-09T09:21:37+00:00",
+    "summary": "Visa debuts Intelligent Commerce Connect for AI-driven shopping Electronic Payments International",
     "image_url": null,
     "tags": [],
     "industries": [

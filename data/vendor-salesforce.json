@@ -27,20 +27,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 36
-  },
-  {
-    "id": "68d90bcc74e2",
-    "title": "Hidden Insights: The Guide to Tableau For Small Business Owners",
-    "url": "https://www.salesforce.com/blog/tableau-for-small-business/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-09T14:00:00+00:00",
-    "summary": "Tableau helps SMBs turn raw data into clear, actionable insights that fuel growth across sales, marketing, and service.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/Tableau-SMB.png",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 27
+    "relevance_score": 33
   },
   {
     "id": "03fe158f0277",
@@ -58,6 +45,19 @@
     "relevance_score": 27
   },
   {
+    "id": "68d90bcc74e2",
+    "title": "Hidden Insights: The Guide to Tableau For Small Business Owners",
+    "url": "https://www.salesforce.com/blog/tableau-for-small-business/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-09T14:00:00+00:00",
+    "summary": "Tableau helps SMBs turn raw data into clear, actionable insights that fuel growth across sales, marketing, and service.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/Tableau-SMB.png",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 24
+  },
+  {
     "id": "2b9c41b87c29",
     "title": "A Look At Salesforce (CRM) Valuation As AI Agentforce Progress And Expanded Buybacks Signal Confidence - Yahoo Finance",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNVS1UUkxWMm5UWHlNV3FGRjJ0a28wbjAzVkFWNjZybS1DdndpRF9tUFVyeUJTck9UQ1hkRVM1d21Fby01M1dEb3B3bTRRVjU0QzdmZkNhdXcxUi1LUFppWWRsN3VoSU12X3c5aEtWTXJRUnBpQkpubEFrNmFKcWJjYXZROUotcTNGVjk5R1JuaDVWSVVkSmpHeWhvaVFmQQ?oc=5",
@@ -71,23 +71,6 @@
       "industrial"
     ],
     "relevance_score": 23
-  },
-  {
-    "id": "731d583eaf02",
-    "title": "G2 Crowns Salesforce as Best Financial Services Software",
-    "url": "https://www.salesforce.com/blog/agentforce-financial-services-tops-g2-rankings/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-09T15:34:19+00:00",
-    "summary": "Agentforce Financial Services proves its standing as best-in-industry due to its purpose-built features for banking, insurance, and wealth management.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/AdobeStock_588303429.jpeg?w=7752",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 11
   },
   {
     "id": "109e52567a78",
@@ -116,17 +99,21 @@
     "relevance_score": 11
   },
   {
-    "id": "f39ef4e9b54b",
-    "title": "Trying to Scale Beyond ‘One-Off’ AI Tasks? You’re Probably Using the Wrong Interface",
-    "url": "https://www.salesforce.com/blog/agentforce-grid/",
+    "id": "731d583eaf02",
+    "title": "G2 Crowns Salesforce as Best Financial Services Software",
+    "url": "https://www.salesforce.com/blog/agentforce-financial-services-tops-g2-rankings/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-04-10T13:00:00+00:00",
-    "summary": "Chat interfaces were never designed for bulk execution or chained workflows. Can a new interface fill the gap?",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/AdobeStock_495996533.jpeg",
+    "published": "2026-04-09T15:34:19+00:00",
+    "summary": "Agentforce Financial Services proves its standing as best-in-industry due to its purpose-built features for banking, insurance, and wealth management.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/AdobeStock_588303429.jpeg?w=7752",
     "tags": [],
-    "industries": [],
-    "relevance_score": 9
+    "industries": [
+      "tech",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 10
   },
   {
     "id": "57369f5a58cd",
@@ -144,19 +131,6 @@
     "relevance_score": 9
   },
   {
-    "id": "003a1b8048bd",
-    "title": "What Is SPIN Selling? A Way to Build Trust With Your Customers",
-    "url": "https://www.salesforce.com/blog/spin-selling/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-09T16:10:50+00:00",
-    "summary": "Learn how to focus on asking the right questions to become a trusted advisor to your customers.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2024/06/salesforceblogheader-final.jpg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 8
-  },
-  {
     "id": "c9e3cbcb2d5d",
     "title": "In the New Era of AI, You Need to Win Over Both Humans and Agents",
     "url": "https://www.salesforce.com/blog/agentic-marketing-innovation/",
@@ -172,14 +146,14 @@
     "relevance_score": 8
   },
   {
-    "id": "0f9c96fc2c92",
-    "title": "What is Cost Per Lead (CPL)?",
-    "url": "https://www.salesforce.com/blog/cost-per-lead/",
+    "id": "f39ef4e9b54b",
+    "title": "Trying to Scale Beyond ‘One-Off’ AI Tasks? You’re Probably Using the Wrong Interface",
+    "url": "https://www.salesforce.com/blog/agentforce-grid/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
     "published": "2026-04-10T13:00:00+00:00",
-    "summary": "So, what is CPL and how can understanding it improve your outreach efforts? Let’s find out.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/image_387be5.jpeg",
+    "summary": "Chat interfaces were never designed for bulk execution or chained workflows. Can a new interface fill the gap?",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/AdobeStock_495996533.jpeg",
     "tags": [],
     "industries": [],
     "relevance_score": 8
@@ -197,6 +171,32 @@
     "industries": [
       "industrial"
     ],
+    "relevance_score": 7
+  },
+  {
+    "id": "003a1b8048bd",
+    "title": "What Is SPIN Selling? A Way to Build Trust With Your Customers",
+    "url": "https://www.salesforce.com/blog/spin-selling/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-09T16:10:50+00:00",
+    "summary": "Learn how to focus on asking the right questions to become a trusted advisor to your customers.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2024/06/salesforceblogheader-final.jpg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 7
+  },
+  {
+    "id": "0f9c96fc2c92",
+    "title": "What is Cost Per Lead (CPL)?",
+    "url": "https://www.salesforce.com/blog/cost-per-lead/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-10T13:00:00+00:00",
+    "summary": "So, what is CPL and how can understanding it improve your outreach efforts? Let’s find out.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/image_387be5.jpeg",
+    "tags": [],
+    "industries": [],
     "relevance_score": 7
   }
 ]
