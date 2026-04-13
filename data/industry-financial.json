@@ -14,7 +14,10 @@
       "consumer",
       "financial"
     ],
-    "relevance_score": 50
+    "relevance_score": 47,
+    "also_covered_by": [
+      "Telecom"
+    ]
   },
   {
     "id": "8685cc983d35",
@@ -33,7 +36,7 @@
       "tech",
       "financial"
     ],
-    "relevance_score": 39
+    "relevance_score": 36
   },
   {
     "id": "065447d3adf0",
@@ -54,24 +57,7 @@
     "industries": [
       "financial"
     ],
-    "relevance_score": 18
-  },
-  {
-    "id": "214458b41b72",
-    "title": "Digital Wallets Move to the Center of Payments, But the Long-Awaited 'Superapps' Are Looming - The Financial Brand",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWm5xV2k1dnVRQUNuYXdsT3R4NWRWb25qMFF2ZFhiU21tUTVKUExGYk54QXV3OGRWek9ldXVmZjR1bHZkajJmYU56VGNmcERWWlF3SHY1QnJQajlzYTY1V3N4YXBGZk1KT3ZZZ0J2RWg3NmNhX3FOUnJ0NTJvdnJfalJsRmJvQ2JIOFNGUmxkd2dUQjNHMGxDclNIYw?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-04-08T18:09:37+00:00",
-    "summary": "Digital Wallets Move to the Center of Payments, But the Long-Awaited 'Superapps' Are Looming The Financial Brand",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "consumer",
-      "financial"
-    ],
-    "relevance_score": 16
+    "relevance_score": 17
   },
   {
     "id": "63f25a8f2fed",
@@ -86,24 +72,32 @@
     "industries": [
       "financial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
-    "id": "f76569910798",
-    "title": "Visa Inc. stock (US92826C8394): Is digital payments dominance still the real growth engine for U.S. - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNOE5wbjk2YWM2cDRkd0pXaHpBMTIxOUU0eHU2NWZxQzFjU0pPQmFXV2R0a2xJT2RENUVIZkhJdkFFSDAwMzdMc0dIM1RaWS0tWGYzT0ZlejRKZ3U1M3pfT2tRWDltdXZoNndCdjVkUlN1d19YX09tM0tKUGl3WG9FeHdqdzEzdnpqMFY1Ykd6QUd3b3ZkU09oLTJKWlFOMlVQaXBFUnNxUUcxQmRhZFQxcFBPc2tQMUNWakZkZElNRzJSYUQ0?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-04-13T10:32:38+00:00",
-    "summary": "Visa Inc. stock (US92826C8394): Is digital payments dominance still the real growth engine for U.S. AD HOC NEWS",
-    "image_url": null,
-    "tags": [],
+    "id": "8976ed8005e4",
+    "title": "Court Throws Out Trump’s Lawsuit Against Murdoch For Epstein ‘Birthday Book’ Piece",
+    "url": "https://www.forbes.com/sites/alisondurkee/2026/04/13/court-throws-out-trumps-lawsuit-against-murdoch-for-epstein-birthday-book-piece/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-13T13:58:26+00:00",
+    "summary": "The judge found The Wall Street Journal did not defame Trump by publishing the piece.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69dcfcd83be668e260738a8f/0x0.jpg?width=960&precrop=1120%2C631%2Cx56%2Cy22",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Billionaires"
+    ],
     "industries": [
+      "media",
+      "industrial",
       "financial"
     ],
-    "relevance_score": 15,
+    "relevance_score": 14,
     "also_covered_by": [
-      "Telecom 5G"
+      "Wall Street"
     ]
   },
   {
@@ -112,7 +106,7 @@
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQLTN0bGx1eDNIVzRjSHhLZ191WmItN2Z0WGxrRWpxeFJ4dlhoQ1BaYmZxOHdHb3N3QXFwXzRvNzBhS1JIRllNLTd0Wm1UM0NpaG4wMFI1V0lMN1g2YjEtTDhGNkwxUzRmU0tUUHM2QjM4WEdrX1V0LThUM3l3em8yMkJ3V3d6ME56TkticG1DSEY0SzZOS0tQcXktMXBKck54ZEY2VWNpSmZJbDJYcTlyVkN3?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-04-13T11:27:53+00:00",
+    "published": "2026-04-13T15:22:20+00:00",
     "summary": "Goldman Stock Traders Trounce Wall Street Record by $1 Billion Bloomberg.com",
     "image_url": null,
     "tags": [],
@@ -120,27 +114,6 @@
       "financial"
     ],
     "relevance_score": 14
-  },
-  {
-    "id": "ab4a2bfe2fb0",
-    "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
-    "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-12T21:14:38+00:00",
-    "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Government & Policy",
-      "jerome powell",
-      "Scott Bessent",
-      "Anthropic"
-    ],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 13
   },
   {
     "id": "9d138356e1fc",
@@ -175,15 +148,21 @@
     "relevance_score": 12
   },
   {
-    "id": "1f5ebc2523a0",
-    "title": "Payments Firm Wise Heads to New York With £181 Billion Year Behind It - Finance Magnates",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeWdLNE9tZkc2cmhnUFlGYjQ0azRQaFdEV3hvWW1FU3BBVWFSNFQtMDRZV3Q4RW1FQk9CYmw1QjlsbWJKMVVESFlaVkdUb1kxSzhIU0pYbXotTmx1V3Y1djVuWnFBNnBOWmFoenRScUhEZjctU1ZCajBzb0tpemNtaFB2OUtha3dHWTRwSXNGNkEyQlE5NEwxSUI2NVpVX2xMX1UtajU0Q2ZzLUhPNG02LVd4N1pkcGJWU1HSAb8BQVVfeXFMUEJpQnJldVNGTmFPSG1CXzhIR3l3U212cDU3MEZjSVkyZmR5R19tWGhxbXBVWlEwTU9ncXRULVB0Tkd1SjVDU0FvYTZiSER6VVBKMWRhRUxSY01lZVQ0TzJkQ2lvQ0NlSzFCS2dPV2dtMy1LblFXd2UwUlFVcWNBQUlxMDdGdWtsWlNOV1Z1VDFxZlBpaVNGRzRvMXN1RWVrekxRaFRWNnhVOGUtdFJEc0g0dlFOM0RDZUYtZFlNUFU?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-04-13T07:11:52+00:00",
-    "summary": "Payments Firm Wise Heads to New York With £181 Billion Year Behind It Finance Magnates",
-    "image_url": null,
-    "tags": [],
+    "id": "ab4a2bfe2fb0",
+    "title": "Trump officials may be encouraging banks to test Anthropic’s Mythos model",
+    "url": "https://techcrunch.com/2026/04/12/trump-officials-may-be-encouraging-banks-to-test-anthropics-mythos-model/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-12T21:14:38+00:00",
+    "summary": "The report is particularly surprising since the Department of Defense recently declared Anthropic a supply-chain risk.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/anthropic-image-jagmeet-singh-techcrunch.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "Anthropic",
+      "In Brief",
+      "jerome powell"
+    ],
     "industries": [
       "financial"
     ],
@@ -195,7 +174,7 @@
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSEtubjFmNDh5MHdxdW1udmFPV1NUeHlQSWRIYzkyb3VDV2lOVTdSdmxPTVdoNnZNLVRyRG5LbTM0VDBTUXJHQkZTVEdHZmFERVhjV0Z0Slp6Q0ZPbWNqRHNOYlZGaWhhdGNRMmhKcHJsVlpwTTdOdmp6TlhlWUd4TXM5SXVqQnkxRHctc0V3V0I3cG5saVJpU2I0N0tpS0ZQS1lpdGFFZndVYWNvMF9abHhOem1QZkJ4OUw2UUo2OGNTcUVZRXg0?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-04-13T12:52:51+00:00",
+    "published": "2026-04-13T12:53:53+00:00",
     "summary": "Rethinking Payments for Subscription and Digital Commerce in 2026 Retail TouchPoints",
     "image_url": null,
     "tags": [],
@@ -206,20 +185,19 @@
     "relevance_score": 12
   },
   {
-    "id": "be1d9415a0ea",
-    "title": "Andy Jassy defends Amazon’s $200B AI investment in letter to shareholders",
-    "url": "https://www.retaildive.com/news/amazon-andy-jassy-defend-billions-ai-investment-shareholder-letter/817058/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-04-09T15:56:00+00:00",
-    "summary": "The e-commerce giant’s CEO noted the dominance of brick-and-mortar retail despite decades of disruption, but sees that as a massive opportunity.",
-    "image_url": "https://imgproxy.divecdn.com/r8CUEzjlJyb7_yO9Z3I6x2-4iDaN2XJM2vjHJOtpKoI/g:nowe:2:32/c:1018:575/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI0MTgzMjQ1LmpwZw==.webp",
+    "id": "ecf21dd15ac4",
+    "title": "3 charts reveal how delusional Wall Street is being about the Middle East conflict - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxORlI4RGFuU0xWWUh1bmFkN3FrR3NPaThVS25DRXJCOE1qbXNaMTJBaXNCNjF2TDQ5QWhKSEFZakVHZ3dZcXdjZDd5ZVlCT1FEcUFkeE9ONjloM0JkZnBNVFdTeldJNlJBMzcxN2V5WXo5U2dNWndkZ2dTcW1vVU92TGxodzRwQS1qYklzN0d6OUlYdU1WXzk5RGZGZ1B4SV9HSms2a1F4SU1iMzdaTGZHUmVlTlR5dDFabnhYcThhb2ZSWlVNSkdr?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-04-13T13:59:11+00:00",
+    "summary": "3 charts reveal how delusional Wall Street is being about the Middle East conflict Yahoo Finance",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "retail",
       "financial"
     ],
-    "relevance_score": 11
+    "relevance_score": 12
   },
   {
     "id": "cb959832fe91",
@@ -237,13 +215,13 @@
     "relevance_score": 11
   },
   {
-    "id": "dae6d168a039",
-    "title": "3 of Wall Street’s Favorite Stocks with Open Questions - StockStory",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNbGdPa0ZyMW5VTFRudUNtNk9MREV1MlRhbF9zT0ZVZGF5NzEzN1ByUlZIamYtNXhEVmZsLVRDSVFQVmEtOHQwT0JZU1FnU2ZOUDZ3WTFNdTJMazRHcUswUzNyZVBkZ2N2dXkxVVM2aUc4MGZzTXkxUFRwcnFZNE5EdDBVdHFuMmE0ejV0bFBtdzViLWQ4UzJTaTVLa0k0UXZWZXl6TG1NUGxaSnVQb1lVcUc5VXZBdw?oc=5",
-    "source": "Wall Street",
+    "id": "1f5ebc2523a0",
+    "title": "Payments Firm Wise Heads to New York With £181 Billion Year Behind It - Finance Magnates",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPeWdLNE9tZkc2cmhnUFlGYjQ0azRQaFdEV3hvWW1FU3BBVWFSNFQtMDRZV3Q4RW1FQk9CYmw1QjlsbWJKMVVESFlaVkdUb1kxSzhIU0pYbXotTmx1V3Y1djVuWnFBNnBOWmFoenRScUhEZjctU1ZCajBzb0tpemNtaFB2OUtha3dHWTRwSXNGNkEyQlE5NEwxSUI2NVpVX2xMX1UtajU0Q2ZzLUhPNG02LVd4N1pkcGJWU1HSAb8BQVVfeXFMUEJpQnJldVNGTmFPSG1CXzhIR3l3U212cDU3MEZjSVkyZmR5R19tWGhxbXBVWlEwTU9ncXRULVB0Tkd1SjVDU0FvYTZiSER6VVBKMWRhRUxSY01lZVQ0TzJkQ2lvQ0NlSzFCS2dPV2dtMy1LblFXd2UwUlFVcWNBQUlxMDdGdWtsWlNOV1Z1VDFxZlBpaVNGRzRvMXN1RWVrekxRaFRWNnhVOGUtdFJEc0g0dlFOM0RDZUYtZFlNUFU?oc=5",
+    "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-04-13T07:36:31+00:00",
-    "summary": "3 of Wall Street’s Favorite Stocks with Open Questions StockStory",
+    "published": "2026-04-13T07:11:52+00:00",
+    "summary": "Payments Firm Wise Heads to New York With £181 Billion Year Behind It Finance Magnates",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -252,34 +230,48 @@
     "relevance_score": 11
   },
   {
-    "id": "09de0ddf1d93",
-    "title": "Korea ICT Minister, Telcos Pledge Cheaper 5G and AI Network Investment - Telecom Review Asia",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTS05enJzNmJjQnFSRVplZGUySHNRVDBpY1J2dTgyZkY5LVZWUGRTNnNnbktmVTNHUEk3RkxYNHRwQlJRNHdma2lEanNZWTFSaGswNEpMTGZFZWdBMngyUlJFVTdyRmp1bWdzNjNxYzdTY1pfNEFxRmpkUGdneWhialcyMDA3WjNJLWVwem1MZHVSRmhlQ05vWUdfNS1lX2hMZFZsOTdtdnpGUm1ueHVTZklSbHJUZ3pxZTlxOE5lcGllWFExRTdKUw?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-04-13T08:31:11+00:00",
-    "summary": "Korea ICT Minister, Telcos Pledge Cheaper 5G and AI Network Investment Telecom Review Asia",
+    "id": "cb43e86a653c",
+    "title": "Goldman Sachs profits rise on stock trading, M&A surge - National Today",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQb0s5NTIzb2VkSnFPX19aNTlQY2h5RTZGN3ZfWHUycUFCQ0JjampyNGU3alhjS0xPa24zeHZxNUk1OTN5TnRWRG1kYmtDdGFQcERsWGV0UHFnX3NGSE40bmhaRlhDR0wzV3AzUlJJUjNzS3ZRVm5iS1NtQWxXX3M4NG8xWjBId0Y2a2FmLXpqS0lOeHp4ZHZjdGhQdGMwckF3d2hnQ3hKeko5M2lTc2NSQ3FMTm4yRWM?oc=5",
+    "source": "Banking",
+    "source_category": "industry_financial",
+    "published": "2026-04-13T13:11:27+00:00",
+    "summary": "Goldman Sachs profits rise on stock trading, M&A surge National Today",
     "image_url": null,
     "tags": [],
     "industries": [
-      "telecom",
       "industrial",
       "financial"
     ],
     "relevance_score": 11
   },
   {
-    "id": "84773aae4c45",
-    "title": "Bolt Group acquires Aussie consumer payments app Beem - FinTech Futures",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS0ZXazFPRUNTT3RlSWtIQnNOeEM1YUQtdjg3UmJkZGt0TXNmVnAtRnlnaXdIeWNfLXc0dDJCLUg5VWdOWHRxOExlUUY5YTlMd3htSWVUOUp0YlY1dnZTZjZERXI0cno3MUh5RnF1QVZmNi1XWWU1ZEVJc1YzdjhLVlFaOEk0bVF6NThvc21KWVQ5QQ?oc=5",
-    "source": "Fintech",
+    "id": "ed00b6f48b00",
+    "title": "Goldman Sachs Kicks Off Big Bank Earnings Amid Uncertain Economy - Investopedia",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPWmdUUUwxRUU3cmV1ckJTOWN3aHd3bFppT1dXVzFJTUN3bXZvMDRFNTVNZnppZHIxTWFPV2p4WVVQemhDMk1qeVNUWkRvaGVLUVlqSGRDM04zaTFnVHdWYXdBR2lRSktpZDZOYXNpWE1wcW4zQ0hlbWhvTFljMk84eUh4Q1prYkRMS3J6NnJIbTBpREdJdFlSWlFFRkdHdTVWQnMxZm9XVVc?oc=5",
+    "source": "Banking",
     "source_category": "industry_financial",
-    "published": "2026-04-13T10:29:33+00:00",
-    "summary": "Bolt Group acquires Aussie consumer payments app Beem FinTech Futures",
+    "published": "2026-04-13T14:05:02+00:00",
+    "summary": "Goldman Sachs Kicks Off Big Bank Earnings Amid Uncertain Economy Investopedia",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
+      "financial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "86fc47c39466",
+    "title": "Wall Street's earnings fantasies may soon get harsh reality check - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPTWtQd3hGcktRVXp6U3FMMS1ZYnFxUDlDa2dFdmRWR2xScDhhRk5BdkRaZkhITGZPdUZXeVhnRTJ4cE5DQWE2WU1fS01tTHozUFBGbExhNEt2Tjc1R0hiaGFJaDBjNW1SUzlBalBkYmxxVVVublI3cEk0Q0pGUGN2Mkl3M1k5VzJoaUFXRE5LenRJWWxSeXNoNVFpaFZyZGFiNmJJRGhCdWVTQ1EwdnlfSA?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-04-13T14:37:51+00:00",
+    "summary": "Wall Street's earnings fantasies may soon get harsh reality check Reuters",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
       "financial"
     ],
     "relevance_score": 11
@@ -290,7 +282,7 @@
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPUG1jSG11Rjg3SE8tcGV6ZG9uZDdHSW5aSVJZZTJuaUlDZ1doLWQwbEtZSUtQQjZmZ0FlOVoxajhkRFpkRGdVZTBTTTQ4YTBmZGk5WTRUYjlkY2ZOZDVSV1ZHYi0yRVg4bHo3TkN1TkY5QUNPelVQS1dCbVcya29aSDNiTnFYbEJrd0Nwb1FOZ0ZVdHpaRm1tVHN3VXh0V29VTXJEaGQ2OFdtN3dJdGVudU1TZE4?oc=5",
     "source": "Banking",
     "source_category": "industry_financial",
-    "published": "2026-04-13T12:49:00+00:00",
+    "published": "2026-04-13T14:51:00+00:00",
     "summary": "Goldman Sachs Beats Earnings Views, Fueled By Investment Banking, Mergers Investor's Business Daily",
     "image_url": null,
     "tags": [],
@@ -334,28 +326,30 @@
     "relevance_score": 10
   },
   {
-    "id": "d9902a3d575a",
-    "title": "Papaya and Tech Mahindra: Modernising Cross-Border Payments - FinTech Magazine",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkJGcl9pQ2ZWcjVFVXVQcVlCUkxtanJ1NDZ6VHJDWFBsSDJrZ1VDN3JLNGZaRVliQkZpaDVVQTREWlFSdjlNMDdoRWRfN1lXeFJrVWY0dlV6UUhlQVFlTjVuTUx0U2VVb1NlaEJnX1ZaaHp3TkZZQWZxVmVnNUJXOUNLUEprZGlrZzVqM3B5eUZUcEJQX1E?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-04-13T10:44:31+00:00",
-    "summary": "Papaya and Tech Mahindra: Modernising Cross-Border Payments FinTech Magazine",
+    "id": "09de0ddf1d93",
+    "title": "Korea ICT Minister, Telcos Pledge Cheaper 5G and AI Network Investment - Telecom Review Asia",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQTS05enJzNmJjQnFSRVplZGUySHNRVDBpY1J2dTgyZkY5LVZWUGRTNnNnbktmVTNHUEk3RkxYNHRwQlJRNHdma2lEanNZWTFSaGswNEpMTGZFZWdBMngyUlJFVTdyRmp1bWdzNjNxYzdTY1pfNEFxRmpkUGdneWhialcyMDA3WjNJLWVwem1MZHVSRmhlQ05vWUdfNS1lX2hMZFZsOTdtdnpGUm1ueHVTZklSbHJUZ3pxZTlxOE5lcGllWFExRTdKUw?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-04-13T08:31:11+00:00",
+    "summary": "Korea ICT Minister, Telcos Pledge Cheaper 5G and AI Network Investment Telecom Review Asia",
     "image_url": null,
     "tags": [],
     "industries": [
+      "telecom",
+      "industrial",
       "financial"
     ],
     "relevance_score": 10
   },
   {
-    "id": "f22e189b2647",
-    "title": "FOO to serve as technology partner for OMPAY wallet in Oman - Electronic Payments International",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmQ2cEpqS1ZNQVpXQXdDTG9IUVNSR1VRa3Fqc1Jib3R4Sm9ZeFJZRnNMRFNSLTZzYk9KOVozWjR0WDRkRkI5NnFRMzBKbXB0RkNFRW5pX3FuN2dVcWotMHQ2NFdHMnJSZ2liWTRFMWhNenFOVktwaTYyRkxHR2pMazktaEdnRDdKNlFKTWVERTZ3cFFBaW4yaGd3?oc=5",
+    "id": "84773aae4c45",
+    "title": "Bolt Group acquires Aussie consumer payments app Beem - FinTech Futures",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS0ZXazFPRUNTT3RlSWtIQnNOeEM1YUQtdjg3UmJkZGt0TXNmVnAtRnlnaXdIeWNfLXc0dDJCLUg5VWdOWHRxOExlUUY5YTlMd3htSWVUOUp0YlY1dnZTZjZERXI0cno3MUh5RnF1QVZmNi1XWWU1ZEVJc1YzdjhLVlFaOEk0bVF6NThvc21KWVQ5QQ?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-04-13T10:48:36+00:00",
-    "summary": "FOO to serve as technology partner for OMPAY wallet in Oman Electronic Payments International",
+    "published": "2026-04-13T10:29:33+00:00",
+    "summary": "Bolt Group acquires Aussie consumer payments app Beem FinTech Futures",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -365,13 +359,13 @@
     "relevance_score": 10
   },
   {
-    "id": "44376697d255",
-    "title": "Live Q&A: Private Credit Under Pressure–Ask WSJ Your Questions - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS1ltcjVEeGRTSUdrX2Iwak9PcDBhd0hnSEdpZzlNd0N1SWNiVndVck4yQ19KcGF4clJLVVNNUGk3NVBUMUVCYTk4aHdqS3Q0NkhGQUJyaFAxUVlFREtqVzFTSThlRGV4Nm1BVl9GbW5kUENkMDdLTzhjdGl0Yi11STdIVHVrTE9zM0pYMGVPOTI4UVlRRlVYczV5VWdZa0N5eFpQOEY5QTVkMFE?oc=5",
+    "id": "9e593143aee8",
+    "title": "AFBF to Wall Street Journal: Strong Farms Start with Legal Foreign Workforce - American Farm Bureau Federation",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPUmZVb2lKbS1ybDU1VGNTUnljT0pDLUNlY1JoUm9LN0todTlMY294RktVRUFUdWEzZ2h6MUxnUGdLRUh2ZWEwejZTWjJGeGZydjBQVjJQWlJDRVNZdGJXVXoyc0RXUU1KOTBoaHJpeTJscFBWdEk2SjBhNDBmbUNXczZLZk1iUHJqZzBWODhNVm9pam5MaXRueU5lc0ZVdThTNGtkM05ES21pZw?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-04-13T11:00:00+00:00",
-    "summary": "Live Q&A: Private Credit Under Pressure–Ask WSJ Your Questions WSJ",
+    "published": "2026-04-13T14:29:02+00:00",
+    "summary": "AFBF to Wall Street Journal: Strong Farms Start with Legal Foreign Workforce American Farm Bureau Federation",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -380,13 +374,13 @@
     "relevance_score": 10
   },
   {
-    "id": "c1cd314cb204",
-    "title": "Andrew Fowler Featured in The Wall Street Journal - Yankee Institute",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNUlVHNGxDUmtJbndTckpaZ2dZdWk0WE94bHB0b1VhOTZEZzJqZElUdUhsQXFGSHpQYkJSYVZ5Zllid1NuWGZzdWZRLXZJdnlsSUZibjI4YmYxMlczSS0wNXlrT25WUE1GUmQ1V1Zoc0RCWDdNT05OSHh1VXhWRnA1MzhiX01BM21sckE4RERNcGdNM3Y2dHRpdw?oc=5",
-    "source": "Wall Street",
+    "id": "51bf03a9a096",
+    "title": "Digital Asset Technologies Retracts Promotional Claims on Crypto Payments Plans - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQbmtCU2xkZ09pQkhjNFBscUp5dTVfRTZzMUtpUkhLc0hWVHJleGZuWkpuUFBfaGRaeHJuc1BfYnloWU9JUGp4VTBaV0t5TGlKc3V3eGZOc08wSV9lU05XX1BtNUtyTHA4SmZhM0xDOE9IWk1GNTI3U0pfTEtybnJIcTJfdnAxUVJuREhxZTc3VXBlamJzc0Y2bjRFRGZacEhXTWFrdDNkczQ2NGYwRVFtWHVFeDdwenFQWjdwWVd1WkppN3YzTUdZRDl5SQ?oc=5",
+    "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-04-13T12:00:34+00:00",
-    "summary": "Andrew Fowler Featured in The Wall Street Journal Yankee Institute",
+    "published": "2026-04-13T15:12:36+00:00",
+    "summary": "Digital Asset Technologies Retracts Promotional Claims on Crypto Payments Plans TipRanks",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -395,20 +389,81 @@
     "relevance_score": 10
   },
   {
-    "id": "2be2d2761caa",
-    "title": "Richard Baker subpoenaed for communications with ex-Saks Global CEO Marc Metrick",
-    "url": "https://www.retaildive.com/news/richard-baker-subpoenaed-saks-global-bankruptcy-marc-metrick/817201/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-04-10T16:08:00+00:00",
-    "summary": "A committee of unsecured creditors says the Saks Global executive chairman has rebuffed requests for information as part of the luxury retailer’s bankruptcy.",
-    "image_url": "https://imgproxy.divecdn.com/NJkP6DficgGhwL2g_frPGEeuUxYzRLo87agAmIlgq7M/g:nowe:0:57/c:1024:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTQ5MTYxOTg5LmpwZw==.webp",
+    "id": "163985486d8d",
+    "title": "But \"We Don't Take Insurance\": Why Cash-Pay Digital Health Companies Still Face Kickback and Fee-Splitting Risk - Wilson Sonsini",
+    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxQT2NUVEtabHl6b2oxMGhGeGdqTVdnVFBYYXdmRzBnUktlZEdLOWwySW1Hc0pVaTlpRjJOQldWT2lqVUZqbmpKQV9nRVFyYnBpa08zNk1xbUx2NGlfZGlfSEFXbnlZdEZHOTBUOGRlZlBpbzd6bHFpaEhqRmd4VnBNRlhZbndyNFhSRDQ4SzZqQTBXa2ZKN3F3WlBrQmxWTUg5eG1sQldQbkhSUlRBU2FWdWZmdExtNl9kWlgtckVnRU80cmQ5NWNKTGt4MFBUYWJHY1h6Z2NrMXF4TGxZalE?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-13T16:04:45+00:00",
+    "summary": "But \"We Don't Take Insurance\": Why Cash-Pay Digital Health Companies Still Face Kickback and Fee-Splitting Risk Wilson Sonsini",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "retail",
+      "lifesciences",
       "financial"
     ],
-    "relevance_score": 9
+    "relevance_score": 10
+  },
+  {
+    "id": "5eb6a0af6c7d",
+    "title": "Stock market optimism is baffling some on Wall Street - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObHhFNUszUDNid1BUVzdLZ3JzRzd6YUVkUmxKUTJrelh3aFNRRTdkU3RhTzhzdkd6MUJCV000azNZd25JVHJ2TTk3VjJvaFdwaUxhMU52R3dBSnVmYklaZGxaWWcxeHhkQVNKMGMyVUJkSU5ISkxCQzlKeXg3Yks4dUJKWEVYbjNLemlPdDlBSG9GN0dh?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-04-13T16:15:01+00:00",
+    "summary": "Stock market optimism is baffling some on Wall Street CNBC",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "407492306b4e",
+    "title": "Wall Street still loves streaming, but are its affections well placed? - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1XTkdDOXFUaUl6RkZaRUJjbG5ZZXZBY0dqQ2pVZFZQNVV4SWRPZ1Q2MjdvRFN1Uml6QkJueGgxQnFYWjVJOEVQU3oyVE92YkZuajdVeE9zaFdsZW5Rc1hUSXFsRWNXRWxJWnhYdUN3TjBhYmZMbnRVaXpBRdIBgAFBVV95cUxQaUZjRjhFS1J4UHpPLTZyclJIZjR5bGF1dEh2c2NNUllEclZkeDBDdUl4dmNjNWhJU0tJdVduRV8xX3hWTkFUazRHTl9vM3dVbF9Gc0trbEwyVU1VM3F2T3Z6R19HaFE4VnNmT1hTUVJZR1JIa3hMdnl5T0RhRWlBVQ?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-04-13T16:29:28+00:00",
+    "summary": "Wall Street still loves streaming, but are its affections well placed? CNBC",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "06346ce9620a",
+    "title": "Cash demand eases as digital payments rise - The Manila Times",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOY1NXOWpDMkZjbVEtS3RDRktDZUNCVUFtcXBncEE3d2tCaFFIaFktS0JZRmxudnE2eUxRbFBxekhfQ1p6dnIxdUtHanNhRW41MWhjdTNzbTYwM0NYcGlPMXJVSjdRdC1fSm83TjA3OHBRYWtPRjAwcWtVOWxQSjF5VG1ydHpiSTFCT21OUXdEYnlzNUhJODA3bDdJMUp5cl9OTUQxU1VLTUk2VzNYZDk0OdIBtgFBVV95cUxPMElNYjdsejU4aHlianIwdU9WNEtYSVpkT2lTWnJuLURCelVEZlBjT2xBYVNBdFExY2JoNWNySGNyaUNjaGluZXdsdzdoQkhabVZkUl9CRldlbk9FQk93czB1cklsSko5Rm1tMzd6X0otV1RTb05zM080Z2RRRXo3ZndPNDVHbzlJdlAzTEtWSHg2LWdXbldzaHRvc3JIWm9aZE80UDQ2Uk5YNGItQjA2bEpVZXh3Zw?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-04-13T16:30:00+00:00",
+    "summary": "Cash demand eases as digital payments rise The Manila Times",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "854b3597fbbb",
+    "title": "HSBC: Advancing Blockchain for Institutional Payments - FinTech Magazine",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPdnNPTGdVeVNIWU9SdHNHZGtob3o1ZWxnUExiSVIzbnhUX0xtdkxfNlJ2N2NCQVFoc0J6cHhJVlFZNmRPN3BsNEl5R09wSkhySW16VGVVTkRReWFrNU9ySkJsZXdzdUNjR0RjY0dBRVg5MDFIemxicGp1MWRHWjBIZEZUN3hvd1JZazdIWmt3?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-04-13T16:51:44+00:00",
+    "summary": "HSBC: Advancing Blockchain for Institutional Payments FinTech Magazine",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 10
   },
   {
     "id": "b6427c2daa62",
@@ -432,21 +487,6 @@
     "relevance_score": 9
   },
   {
-    "id": "7d77c7379aee",
-    "title": "3 Different Fintech Giants: Turnaround, Stability, or Risky Bet? - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQMG9rbHZ6clozYnZ6NkRQWW0xSVhXQWJsd2pzU3ZXT2txblJ6VlVvU1FiSzZ5cUw4all6Y0lhRC1Icld2UEk1XzBSU2lxdVZ4R2VDLTdERF9QVUxoNjVfaWVZMm1NeDNoQmNXN0ZleVg5eENKa0NpdXVMak5xSlRlZHhkaXFCZE4ydTJqMGMzTC0wdnRqd093bU04UHVJMW8?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-04-12T14:23:11+00:00",
-    "summary": "3 Different Fintech Giants: Turnaround, Stability, or Risky Bet? MarketBeat",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 9
-  },
-  {
     "id": "589675363914",
     "title": "Wall Street Predicts Record Trading Revenue amid Market Jitters - The Daily Upside",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOOVdnVllKby0ydTBubDk5MTVfdXl5dVpTZnM5MmJYbzlucmVrOExiWmdOdUFGQmNBdnZJLUNrN2VUb0VfMXY1ZlFPQ282LTBncGhQaHRPMXFrLWxyN0pJSUlzcXplTVJ4VzlhZDVxSHI2UERoSHlyQnJVUW1PYnZzMGM1bkFERC1rTFBlX3d0QVRmVloxXzVhMzZzYTVIVFVWcXMxUmpuQml4UmpFeW9YV0tqTQ?oc=5",
@@ -462,35 +502,65 @@
     "relevance_score": 9
   },
   {
-    "id": "b325cb2ea2f4",
-    "title": "Goldman Sachs, Bank of America, JP Morgan, Netflix, J&J, Producer Prices, and More to Watch This Week - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQcThodkZJVFBJLUpwaGFXdlJ2VzdpMXhpeTBYNVg1WWRBLWF0cndGNlNZS0JMV0xDc29qdUp2N1JBRUhKdVdZWWR0T0lGanlNSG9pMkpCMHFwaThGOUk4Z0N0LWtuN2plV0FkMTZLVThyNmREVXFTZGg0RF92bHFtNWhiYnE4Wi1nUWdPb2Y1cElEb3BhVmNBbzh2d1dtdmU0UEl2NzNDRGZNcHBUclFfUVV6TkhLeWxUNzFkZ0NOUjFLZjcxMnZYcXYzbThGQUhyZk1V?oc=5",
-    "source": "Banking",
+    "id": "db98aa8e41e8",
+    "title": "ZTE and Damane Cash Partner to Accelerate Morocco’s Digital Payments Revolution - TechAfrica News",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTi1IQmZkU0FPS2V3bFIyVFhNbTNaODVocDZWMzd0NDVXd2JpWlFDZlg2RHpSMkt6cS1jMGg1aFVYczREaGhmMHlXMFhoRi1nc2F6Yllkc0FKS2o4S1BBenZnNVFjMGsyRW10X2x0d1d3eEFvRVFXd1Ntb190MnllY08xdkVKdDZGdWVVMnRMUzhCQkY3TzNyYkRvVUhSY0xZdVZodW5fNWtSdGhDRW9tMHg4ZDB3Zm1O?oc=5",
+    "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-04-12T18:00:00+00:00",
-    "summary": "Goldman Sachs, Bank of America, JP Morgan, Netflix, J&J, Producer Prices, and More to Watch This Week Barron's",
+    "published": "2026-04-13T10:16:40+00:00",
+    "summary": "ZTE and Damane Cash Partner to Accelerate Morocco’s Digital Payments Revolution TechAfrica News",
     "image_url": null,
     "tags": [],
     "industries": [
-      "media",
       "financial"
     ],
-    "relevance_score": 8
+    "relevance_score": 9
   },
   {
-    "id": "b74b6f07615c",
-    "title": "Wells Fargo Goes on the Offensive: Chasing the $3.2 Trillion Private Equity 'Coiled Spring' - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxOQVd4eXRZcGszX0dzRDZqb3VWUDBaNGRPSmNkYXR1d2hfcE9URHRfWTFRQUxmbEZoU0R5RnN6TkpJRy1ESU9fcnBKMlFPNlh0Y2xzRHBUZTdJbkxWZHA2bGFvLUNkNTNDa3BRQzhVQndNSWZnLUxSdzJ1ZUZwN2ZicVdjbHQ0UzlhVWhfWVNmeWhHbm1WS2ZGdDFaNEl4bm16bDZvRTJmZG1hOEI4UTdXNE9SVGhTVnBfbnNuV2UxTGRJSWZESXE0TENDNWI3MU5GQjdQTlQwTTRoc2ZGVGlsNlJWdTFoU3NSbjFmVTdCbk9LaE0?oc=5",
-    "source": "Banking",
+    "id": "d9902a3d575a",
+    "title": "Papaya and Tech Mahindra: Modernising Cross-Border Payments - FinTech Magazine",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQNkJGcl9pQ2ZWcjVFVXVQcVlCUkxtanJ1NDZ6VHJDWFBsSDJrZ1VDN3JLNGZaRVliQkZpaDVVQTREWlFSdjlNMDdoRWRfN1lXeFJrVWY0dlV6UUhlQVFlTjVuTUx0U2VVb1NlaEJnX1ZaaHp3TkZZQWZxVmVnNUJXOUNLUEprZGlrZzVqM3B5eUZUcEJQX1E?oc=5",
+    "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-04-10T21:15:00+00:00",
-    "summary": "Wells Fargo Goes on the Offensive: Chasing the $3.2 Trillion Private Equity 'Coiled Spring' FinancialContent",
+    "published": "2026-04-13T10:44:31+00:00",
+    "summary": "Papaya and Tech Mahindra: Modernising Cross-Border Payments FinTech Magazine",
     "image_url": null,
     "tags": [],
     "industries": [
       "financial"
     ],
-    "relevance_score": 7
+    "relevance_score": 9
+  },
+  {
+    "id": "f22e189b2647",
+    "title": "FOO to serve as technology partner for OMPAY wallet in Oman - Electronic Payments International",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQMmQ2cEpqS1ZNQVpXQXdDTG9IUVNSR1VRa3Fqc1Jib3R4Sm9ZeFJZRnNMRFNSLTZzYk9KOVozWjR0WDRkRkI5NnFRMzBKbXB0RkNFRW5pX3FuN2dVcWotMHQ2NFdHMnJSZ2liWTRFMWhNenFOVktwaTYyRkxHR2pMazktaEdnRDdKNlFKTWVERTZ3cFFBaW4yaGd3?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-04-13T10:48:36+00:00",
+    "summary": "FOO to serve as technology partner for OMPAY wallet in Oman Electronic Payments International",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "44376697d255",
+    "title": "Live Q&A: Private Credit Under Pressure—Ask WSJ Your Questions - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQS1ltcjVEeGRTSUdrX2Iwak9PcDBhd0hnSEdpZzlNd0N1SWNiVndVck4yQ19KcGF4clJLVVNNUGk3NVBUMUVCYTk4aHdqS3Q0NkhGQUJyaFAxUVlFREtqVzFTSThlRGV4Nm1BVl9GbW5kUENkMDdLTzhjdGl0Yi11STdIVHVrTE9zM0pYMGVPOTI4UVlRRlVYczV5VWdZa0N5eFpQOEY5QTVkMFE?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-04-13T11:00:00+00:00",
+    "summary": "Live Q&A: Private Credit Under Pressure—Ask WSJ Your Questions WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 9
   },
   {
     "id": "8b625c953e7d",
@@ -509,37 +579,6 @@
     "relevance_score": 7
   },
   {
-    "id": "1f5b81f96402",
-    "title": "Trump’s SEC Is Going After Fewer Wall Street Crimes - Mother Jones",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTXNxX2hyOUZ0OTZfTDdUSVFzS1ZlVUlFSmh0NHVDV1ViRHYwU0diVlVKWENCZ2I0QkZucWdGS1MzQWUxSVJxUndFby1kUVhnOGlFRmpaa2ljaVJuUUR4VGhYU01ObTYxWXJ2NTFWZ2E3Rm1kdDBzdmVOc0FzZXlXeTB5bmpDTmVWRVBrV19iNk1TZ1E5UWpHdGx0ZXhtQ2dNcmdF?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-04-12T20:37:49+00:00",
-    "summary": "Trump’s SEC Is Going After Fewer Wall Street Crimes Mother Jones",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "5a88a43ca443",
-    "title": "T-Mobile Just Got a Wall Street Upgrade. Is This the Telecom Stock to Own Right Now? - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmZwblZtMVBRc2htX1dsYjlvbk5OWjgwUFVTbjhQY28yQnJsZzJTQjlSUnVSQXVVMWhzeDJJMzNxbk1NQ3FBMnpHLU5QdlhmR1lGNWVwaDE1Ym1kTnNMOFhpU0xQNXgyTlhlNWxSbkZNUHhobWxwX0ZJSkJUNU5rdDdvUzBlZmZILWZtQTNBTE1BSUF1amMzVEh3WTlvbXkxbVh2WnpKQllnb0VnWUxScVNhUFJObjBteUZQX1FFdjVBNFA4?oc=5",
-    "source": "Telecom",
-    "source_category": "industry_telecom",
-    "published": "2026-04-08T13:07:39+00:00",
-    "summary": "T-Mobile Just Got a Wall Street Upgrade. Is This the Telecom Stock to Own Right Now? 24/7 Wall St.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "financial"
-    ],
-    "relevance_score": 6
-  },
-  {
     "id": "ae50c779d843",
     "title": "Ethio telecom and Mastercard Deepen Partnership on Cross-Border Digital Payments - TechAfrica News",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxPeE1aMXNzdERwdlEzekI5WVB2QkowTV92ekJfSWpEeHRVTGdKSWN3T09NMUVZOVRJWExhejRFeWVhUHJFYzBLQmVRMFBrUzJqWWxmN00xTTJLYkQxZ2UtQVZZdnJfNmtZcUM0MnlKazVVUTVtTXFYUlB2WGpsTFZYLVZpeVNwckN6emNTbkttTms3X1VSRUg2SW1nUmozeEFqZjNWNUJGTFo3TjE0cmsxODZzT3pIdV9UVEkw?oc=5",
@@ -556,36 +595,6 @@
     "relevance_score": 6
   },
   {
-    "id": "c09e334a3da2",
-    "title": "Zacks Earnings Trends Highlights: JPMorgan, Citigroup and Wells Fargo - TradingView — Track All Markets",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQMkZDbHAwYW1nTHZ6T2lWeW0yTmR1MkNRZ2ZSbFZ4SFdPbDNua3VRZjYwb3QtTHdvSmdVUi0yWjVQeTRQeXlkeXJKQmYtemNlU05rN2UzWTZNTDdJQzBVeDBfeHUxNXVoQXAzXzctS0RCY3UxNm5pY21YLVVGeXUzdy0wa215b2RDMUpUcTNTRzN0VFRuOGdVX0R0azdCVm50eDNOdlMtOWV0NTRxeGxTU01BZlJ0aHR3bnlTMW13Yno?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-04-09T12:36:00+00:00",
-    "summary": "Zacks Earnings Trends Highlights: JPMorgan, Citigroup and Wells Fargo TradingView — Track All Markets",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "a6f905826cd2",
-    "title": "1-hr delay for digital payments over Rs 10,000: RBI proposes plan to curb frauds - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxNMmhQYTBsOWFRZnQ1eXR1V0ZudzJycHY3eXFpUnRUU0RIM014ODIyT1JqbFNabXBseWVsdzFVaW9Vb01OcnpFa2gzcHBYN0tXeTlEMmtMN3FXMjRWbzVSSjl2MWtkQi1TamRtdXYyeDhqU2twODQ1MXlvRWZjZXhZYlUwdlFNbkFPbzl3clZ3LXhudFE1Y3FxeWJIOEhkNkN5SE1zRHA5QXpaTGFwQktra2ZzTnFYVFc0YV94cmZOSDJGZzRwemI1VXl5Rkhsdmh4dWJIME5qSFUyLWlVb1h0eXd0c0FQY1FVTE94OElBTkdrdw?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-04-10T05:03:07+00:00",
-    "summary": "1-hr delay for digital payments over Rs 10,000: RBI proposes plan to curb frauds MSN",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 6
-  },
-  {
     "id": "9bdb6adc56cd",
     "title": "Deutsche Bank raises chairman pay, Wells Fargo hires Ghosh - American Banker",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNWmZrVlI4MkxSNm94ZE41TTdmUWZPQ3JGYzl0VmI1ZnJWd2s4Y0IyaEhNM3JocXJOclN6OUdSTlVRdGFEdm1NWjI5MGtDYmZHSXlDakkxS2ppTWZJVHNpYTB4MVV0NnFxbHYyQ0FGMnVQU0VrSk9FZF9kYktrdUUyZDQ2WUVzY2NBb2IyNTZvV3IxUHUtaUxkOQ?oc=5",
@@ -593,21 +602,6 @@
     "source_category": "industry_financial",
     "published": "2026-04-10T20:01:45+00:00",
     "summary": "Deutsche Bank raises chairman pay, Wells Fargo hires Ghosh American Banker",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "5efb323e3723",
-    "title": "Bessent, Powell warned bank CEOs about Anthropic model risks, sources say - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQ05ad1ZkdnNrcEhEMklEalc0TVBmWlppMzkxQlZxQVBpbUp1Nlk1STVqUm51WDI5QnYxS1BleDFONDZwTmR2Tlc4OGl3WGU2US0zVUhhVUQ0Zk5yYlFEV1g2M1ByNy1jUTVSTTRSYjhwUU9XU0lsRHY0V2tjbXNGX1dwUlFJZUV6UkRoang1TW5IbllaTTcycmRDV0ZNYnNQRnRFUWhybVNuVHMtdFdyX0tTLUN4Q1cwYTFPU3BPRG5UeGI4UTJZMXpBc25uZw?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-04-10T21:10:55+00:00",
-    "summary": "Bessent, Powell warned bank CEOs about Anthropic model risks, sources say Reuters",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -630,37 +624,6 @@
       "financial"
     ],
     "relevance_score": 6
-  },
-  {
-    "id": "2cef8f2526e0",
-    "title": "Cash On Its Way Out? Only If Digital Payments Can Work Together - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNcFQ3Z0dMd1p2YlRNWXF4ZDFHcHdMbWFUcER5RVo0b29kQ2xYaUZHcjJESlNQNy12U2poUDNhelQ2Z0VRUHhNWVNkd3FRVXduLU1IODM5dHRPR09MN0FiaUk5MlYzRjFpZ0NPa2tkY3AtSUNvNWR2X0FLZVRIcVVsU1JLN0hFbVhoQkptVGI4QkhzSTNfV3NkdDV2Q0dVMTBnb3M3NTJ2MXRwZHhXMnM5eUJ1cXk?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-04-07T14:00:00+00:00",
-    "summary": "Cash On Its Way Out? Only If Digital Payments Can Work Together Forbes",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "2064a7eb9b26",
-    "title": "Wells Fargo Hires Ghosh to Lead Chemicals Investment Banking - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNRjFtcVpTdHEzbUJzZGlNQjVTc2ZJZjh4N25CUEpfcTdjcldROXM2Mnp2cUU5RFhCSTkwamZOWWM5TUY1Uk1VSkh1YlNlb3R1c0QwRFpsOG84MHVsbVdMVGVrUmJGMklvLURnQXBuME5Mc1Q5WFRMWVF3anEyakNqM29nMkkxYnMwLTVlR3BjbXFRZ1AxX0dsY3dKeWw2WGZKYnViM0hISkJGWkREUTB1SA?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-04-07T22:48:42+00:00",
-    "summary": "Wells Fargo Hires Ghosh to Lead Chemicals Investment Banking Bloomberg.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 5
   },
   {
     "id": "5db617d751b9",
@@ -691,21 +654,6 @@
     "industries": [
       "tech",
       "industrial",
-      "financial"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "6d3b377e7fc8",
-    "title": "Big bank stocks are poised to rebound from slump, Wells Fargo's Mayo says (C:NYSE) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOeTBvT0ZyT2VpZ0hZcUVGaEo0S3RqLTg5bElfV2ZpbGlUd200U3FobG9yT1VxMHJjRHdJVXpDN291dUlaQzZuSkRLY0ZGNDh4cXJiUHg0NF9lVmtObzdnVEVNN2lxZUxxeFFmbDZURkJkUWUzbmFwSDJpOEQ0TTltV1dvVXBvV1UteDlOc21Cb3I3MGFqd1BGSjRLTTgwZ3RtUVczOXdQZWhxeWFRSm5r?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-04-08T14:38:58+00:00",
-    "summary": "Big bank stocks are poised to rebound from slump, Wells Fargo's Mayo says (C:NYSE) Seeking Alpha",
-    "image_url": null,
-    "tags": [],
-    "industries": [
       "financial"
     ],
     "relevance_score": 5
@@ -744,6 +692,21 @@
     "relevance_score": 5
   },
   {
+    "id": "91dbed4f5b7e",
+    "title": "Birmingham Housing Authority partners with Occupi to expand digital rent payments - WBMA",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPR2doRzlYSnhQek10MWNUMkpEcUxCbUc1T0dOdGFFMi1NY3R5LUZUd2JUOV83MDdXQ09xZklqX193Wi15THk2V1k4UUx3NHZuS015MVBPWW9aaF9FUVp2Y19qbUl1RU9VUTl3RmNvVUplZnpwMHF2Z1N1elJhQXc5UlVGa1Q1TTBJS205Y1lFZUtxamlrTGNsVVdJQkN6bFNjcnB2ZGVrcUc1ZVJkQ0NKWFJBUkM3RUVNeE1kTg?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-04-09T16:30:49+00:00",
+    "summary": "Birmingham Housing Authority partners with Occupi to expand digital rent payments WBMA",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 5
+  },
+  {
     "id": "3914000c994f",
     "title": "Payments fintech Pepper Pay declares bankruptcy - American Banker",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxObHdLR0diV01ObGxfSUtRR1Z1LXB4alpRaHRfQUpDRC1GdlJBOVRxdVliX0ZfNkhvZlNqc09lQ2tJaUZmS3dwQkxqWXVYdy1yNHphNXQwM3NZbzUzcDNrTURCLW01azZEdnpWMzBQTTAxdGVnWkphZERRXy1oLVJfNHZJeTlsd0lOR3pV?oc=5",
@@ -774,21 +737,6 @@
     "relevance_score": 5
   },
   {
-    "id": "48eeabcd5f79",
-    "title": "10 of the Best Bank Stocks to Buy for 2026 - U.S. News Money",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUGt0UjdwdFVqTjRvOGJJeVdmaDVQRVNPVXYtRGswN1FlSnlMZjdabHR0aEFKUXI5RnAwWS0tUVZ4Q0R4RmEtTlFoTWdFdW8tUDJXbzdXbzItQjBURjktY08xY3cybklaZUxFS2ZrY3d4YkZrNnFCMnc0VVZiNFFlQTZtMA?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-04-09T20:26:00+00:00",
-    "summary": "10 of the Best Bank Stocks to Buy for 2026 U.S. News Money",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 5
-  },
-  {
     "id": "2d70269af007",
     "title": "PayPal integrates payment links into Canva Marketplace - Electronic Payments International",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNSjkwRG9lbEY4bENRcnhKN3lEV2ZpVndkYXdOdDJkUmNEYmpxY0ZWd1dLYkJhN3lhV3RLcG1rRWFlSnJkTjRiTWlhQWxLdl9TbklBWTlBSjItekJyUVhBMnpsOFhselpfdHdQQnRGck52eWV6aUhlWHdLc2dyZlkzTkNKbUVSY2dEd2UxODZPZ1JwWVZnV280?oc=5",
@@ -796,21 +744,6 @@
     "source_category": "industry_financial",
     "published": "2026-04-10T11:40:05+00:00",
     "summary": "PayPal integrates payment links into Canva Marketplace Electronic Payments International",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "cacb07c524f3",
-    "title": "Powell, Bessent discussed Anthropic's Mythos AI cyber threat with major U.S. banks - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOeE80ckp2eUNOWjVVbThxLTBiM2tGY2VBdlFtejFzR0hqaUZJamJSZEF1UGlkU2ZUWlY2WExxOEFZSkxuMFJzUXJiMDc5RTVLRlAxV0RlLTdVeXNHaDhNNnZtcDRXOEx4dFE2QWRZR041QVlabmdQNEJmX0E5c28tMzc0eUUzNnFIVWQ0TjRtYXcyX2hW0gGaAUFVX3lxTE5ZLWRORERzblhSUUdoNEt6cWw3RllKTlN5SkpHeUZ4UkUwdTJ5UGo4TjZsYWw4UWx1UmNsa3UzeElsbXhlMFdXMkhOYXRtbnRnNE5XQjExd1VkSXZBa2Etd0lMc0JVRGxOTlpDcHo1QTJoS2JLblJ2dDB2V0VRTXNuMWVGQjMxMjVmSGRtZlZFNmhteVNjUk4xYWc?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-04-10T12:38:44+00:00",
-    "summary": "Powell, Bessent discussed Anthropic's Mythos AI cyber threat with major U.S. banks CNBC",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -851,21 +784,6 @@
     "relevance_score": 5
   },
   {
-    "id": "4e352be30bb1",
-    "title": "Wall Street Builds New Tool to Bet Against Private Credit - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxObGZaUlN3cDZEcURrcC1ubWhyWHd4aDgxZ21VQkIybTlWc0Nzbm4ydjI0VDFqQjlscXE4TGxlY2NRWGNBU1o3SHdZWFVEUU9yMmtaalZoaVM5LUtxOUhRS0xkbGpwVjJTVzBGakluWEFCWWM0UEh0dWVCTlFrZHhTT01GMV9wME5pOXB6U18tWGsxWU01OEFnSHp3?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-04-10T16:45:00+00:00",
-    "summary": "Wall Street Builds New Tool to Bet Against Private Credit WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 5
-  },
-  {
     "id": "ff21df33f8a4",
     "title": "The USMCA Review: Big Pharma, Glyphosate, & Secure Electronic Payments - Mexico Solidarity Media",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNMXY0OUN3VkJpLWFUdXlNaFdSalB1YzlaNlg4eXdyM190UU1VM1RQVmlFcDlmY0FlQnA5NDFobXVaSXM0R3p6S2hzOC1TdHk0cTBiRmN5WXJIcE9OSUNLTjdIV1hWdzRiQ0hLOHpneUp3VjNzQmlUWnkxX09LcTAtY2oxR0ZvbllOQ3FaYWZEX0RUdGxGM3dTN0tobw?oc=5",
@@ -878,6 +796,21 @@
     "industries": [
       "media",
       "lifesciences",
+      "financial"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "c77c0a8b5cba",
+    "title": "Bessent, Powell warn banks about new Anthropic model's cyber risks - KABB",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQMU5oMDZBcUNSVHFva0h4ckY1UzFyV2VEZnBIQ3ZMbnRXZUJHYzdMbl9EM0dkaDd6R0JJR1FMdmlUdWk4TnZIZG9kV0t4YmxWSllnWlVBcmRrSkNfT0hrcDN5TUUwaWZUNmhjbFZVT2ZFTnNWVnJndDdfYXppZ2VHN3MybWxYWnlWTXYyMjE1SlMxdnllNWtiR1pJd2UwMG1FZGVBLWMxQVRrQXdPb21zU1gtTFU2cUV4Y0Rzc3Q0VENjb3Ntc1VrcHpQRHdGdWt1cl9pQjJaSFdhbFJyUW95eHMwdzZUaFp0?oc=5",
+    "source": "Banking",
+    "source_category": "industry_financial",
+    "published": "2026-04-10T20:41:49+00:00",
+    "summary": "Bessent, Powell warn banks about new Anthropic model's cyber risks KABB",
+    "image_url": null,
+    "tags": [],
+    "industries": [
       "financial"
     ],
     "relevance_score": 5
