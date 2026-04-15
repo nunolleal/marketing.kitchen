@@ -1,21 +1,5 @@
 [
   {
-    "id": "9a0873f14244",
-    "title": "The Future of MedTech Field Execution is Agentic",
-    "url": "https://www.salesforce.com/blog/medtech-field-execution/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-14T15:22:55+00:00",
-    "summary": "The “last mile” of engagement — the face-to-face interaction between a field rep and a healthcare provider (HCP) — has always been critical. Yet, for years, this vital connection has been stifled by…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/AdobeStock_1473552157.jpeg?w=5481",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 33
-  },
-  {
     "id": "dfd7f10527fe",
     "title": "WebMD Ignite rolls out program to help providers get Rural Health Transformation efforts off the ground",
     "url": "https://www.fiercehealthcare.com/health-tech/webmd-ignite-rolls-out-program-help-providers-get-rural-health-transformation-efforts",
@@ -31,6 +15,22 @@
       "lifesciences"
     ],
     "relevance_score": 32
+  },
+  {
+    "id": "9a0873f14244",
+    "title": "The Future of MedTech Field Execution is Agentic",
+    "url": "https://www.salesforce.com/blog/medtech-field-execution/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-14T15:22:55+00:00",
+    "summary": "The “last mile” of engagement — the face-to-face interaction between a field rep and a healthcare provider (HCP) — has always been critical. Yet, for years, this vital connection has been stifled by…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/AdobeStock_1473552157.jpeg?w=5481",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 29
   },
   {
     "id": "d3d28d4620ec",
@@ -49,25 +49,57 @@
     "relevance_score": 19
   },
   {
-    "id": "35ad3440e112",
-    "title": "Wellness Tourism Tops $900 Billion—Luxury Hotels Are Racing To Keep Up",
-    "url": "https://www.forbes.com/sites/paulaconway/2026/04/15/wellness-tourism-tops-900-billion-luxury-hotels-are-racing-to-keep-up/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-04-15T10:30:00+00:00",
-    "summary": "Wellness Tourism Tops $900 Billion—Luxury Hotels Are Racing To Keep Up",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69ded753fc2f13c861545349/0x0.jpg?width=960",
-    "tags": [
-      "Travel",
-      "/travel",
-      "Lifestyle",
-      "/lifestyle",
-      "Travel"
-    ],
+    "id": "b61ad74e2525",
+    "title": "Physician compensation up 3% in 2025, but not all specialties saw raises: Medscape",
+    "url": "https://www.fiercehealthcare.com/providers/physician-compensation-3-2025-not-all-specialties-saw-raises-medscape",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-15T09:49:00+00:00",
+    "summary": "Fifty-three percent of all physicians report feeling fairly compensated, as opposed to last year’s report in which only 48% reported fair compensation.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1218508931%20%281%29.jpg?VersionId=jlftBsQc2wAHWfcGSJqlRZe3W7imyNtE",
+    "tags": [],
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 17
+    "relevance_score": 18
+  },
+  {
+    "id": "0e7e9121aa00",
+    "title": "Are retailers ready for what the weight-loss boom requires?",
+    "url": "https://www.retaildive.com/news/retail-impact-weight-loss-boom-glp-1/817230/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-04-15T13:00:00+00:00",
+    "summary": "The era of GLP-1 and similar drugs goes beyond consumers refreshing their closets, and merchants are going to need a new mindset.",
+    "image_url": "https://imgproxy.divecdn.com/cDP5F-cAw4NvW2QdltDLp80AP7zSKhNmpZC5Qd9ZmoU/g:nowe:0:286/c:2042:1154/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9EU0NGNzA5Ny5qcGc=.webp",
+    "tags": [],
+    "industries": [
+      "retail",
+      "lifesciences"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "d86e49b37542",
+    "title": "This Pill May Help Pancreatic Cancer Patients Live Longer",
+    "url": "https://www.forbes.com/sites/innovationrx/2026/04/15/this-pill-may-help-pancreatic-cancer-patients-live-longer/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-15T16:00:00+00:00",
+    "summary": "In this week’s edition of InnovationRx, we look at the top self-made healthcare entrepreneurs, the latest 30 Under 30 Science & Healthcare list, and more.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69dd6c793b25ecbaaebb71d6/0x0.jpg?width=960&precrop=1988%2C1118%2Cx717%2Cy978",
+    "tags": [
+      "Newsletters",
+      "/newsletters-old",
+      "Newsletters",
+      "/newsletters-old",
+      "Innovation"
+    ],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 15
   },
   {
     "id": "9b48cb596ee1",
@@ -82,86 +114,20 @@
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 14
+    "relevance_score": 12
   },
   {
-    "id": "cc06e42d5a9b",
-    "title": "CMS accepts more than 150 providers, digital health firms for ACCESS model",
-    "url": "https://www.healthcaredive.com/news/150-healthcare-organizations-approved-access-model-cms/817426/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-14T13:50:00+00:00",
-    "summary": "Participants will receive set reimbursement for managing Medicare beneficiaries’ chronic conditions, like diabetes, chronic kidney disease and hypertension.",
-    "image_url": "https://imgproxy.divecdn.com/58N7uxJXwbN7npucf09uGWfXNC_xMQM2TQfhbxJ1Grw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMTcwMDExLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 13,
-    "also_covered_by": [
-      "Fierce Healthcare"
-    ]
-  },
-  {
-    "id": "5c7221daaa75",
-    "title": "Hospital M&A roars back to life in Q1 2026; Operating performances fray in February",
-    "url": "https://www.fiercehealthcare.com/providers/hospital-ma-roars-back-life-q1-2026-operating-performances-fray-february",
+    "id": "46644414fda1",
+    "title": "Abridge expands clinical decision support solution with UpToDate partnership, new NEJM, JAMA content tie-ups",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/abridge-expands-clinical-decision-support-capabilities-uptodate-partnership",
     "source": "Fierce Healthcare",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-09T16:55:00+00:00",
-    "summary": "The first quarter of 2026 extended a recovery from last year's dealmaking slowdown with 22 newly announced transactions, largely fueled by divestitures. Meanwhile, February benchmarking data outlined persistent operating pressures and soft volumes.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-912405390.jpg?VersionId=hFA.51p8SdMGJIkpERoHOINT8QP8YqOO",
+    "published": "2026-04-14T20:25:00+00:00",
+    "summary": "Abridge is supercharging its clinical decision support capabilities through a partnership with Wolters Kluwer's UpToDate and new content integrations with The New England Journal of Medicine and JAMA.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1646106148%20%281%29.jpg?VersionId=xOalZvUp3s8aemxyT_rmWml9t0XnDIIe",
     "tags": [],
     "industries": [
       "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "40d2f460725d",
-    "title": "Westfield targets £100m milestone with launch of digital health platform Evolve - itij.com",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQQWp4V0xrVkNPNlR0Ylp5YlZiSHRLX1U3bzJTS244ak0wSTZDbVdjV0JRaFFPRE9HRnh1SWVRTGNzYkl1X2Fyc194ZTRRN2ZmeFBLWFNreDFRSWdpZ2xCZVNRcG5CczZxQmVOQ1AxdXA0VEE2a2dhQVpnOTU5QjNLQmdyUTdiT05rTk9ndEc5NGVzSFFfMzdXWGlqcDZBbGJvQ2d2eE9sdmE?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-15T07:07:28+00:00",
-    "summary": "Westfield targets £100m milestone with launch of digital health platform Evolve itij.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "f9a965131f1f",
-    "title": "Why 2026 is the pivot point for electronic health records - Home | Digital Health",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQWDEtZkt3aHRBNnZ2QmszSzZhczcwc3NwNFl0ZVZna2ZxNDRGa1ZjWnI4dnJKdW44YjNhYWpDTTFEaEdzemtOVjlCM2JhYTkwN1g3Wm9qeFRFTDdjQUp1WEU0N05TT0UxLVd5TkRSVHVxak9DTGlRTEw3aUFRcTlfLTF2V1dQd25YNXM4a21pb1BxajFWeXN2NVpJcWJLQUdjRDQyb2xzdw?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-15T12:27:04+00:00",
-    "summary": "Why 2026 is the pivot point for electronic health records Home | Digital Health",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "a6cce5758720",
-    "title": "HealPort Raises 1.2M USD to Scale Global Digital Health Infrastructure - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRHl3ZlhoaTFXLW1aQ3k5X1RkbGNhNVlZS0xVWEZtcjZvaUVHclhkWXpZbTZOT21vNDQ2emFIem5YUzU5NFRsSWhqNmZjXy1FUzFPSEJIZG5zbDZoRGVDT19jbGFxTWwzTUl6d21LenNPSUtUWHJ4UzhXTHNiRzh4RFl6QWg3OUdGNkl0dnZVSDRzX256VmtfVg?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-15T12:30:00+00:00",
-    "summary": "HealPort Raises 1.2M USD to Scale Global Digital Health Infrastructure Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
       "lifesciences"
     ],
     "relevance_score": 12
@@ -179,22 +145,6 @@
     "industries": [
       "lifesciences",
       "financial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "114d3f3ae661",
-    "title": "Hospital M&A rebounds after 2025 lull",
-    "url": "https://www.healthcaredive.com/news/hospital-ma-rebounds-after-2025-lull-kaufman-hall/817180/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-10T18:33:00+00:00",
-    "summary": "Mergers and acquisitions in the first quarter hit multi-year highs after providers pumped the brakes last year, according to a new study from Kaufman Hall.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
     ],
     "relevance_score": 11
   },
@@ -219,52 +169,57 @@
     "relevance_score": 11
   },
   {
-    "id": "ca71eece846a",
-    "title": "Bill would force payers to apply DTC drug purchases to patient deductibles",
-    "url": "https://www.fiercehealthcare.com/regulatory/bill-seeks-force-payers-apply-dtc-drug-purchases-patient-deductibles",
-    "source": "Fierce Healthcare",
+    "id": "cc06e42d5a9b",
+    "title": "CMS accepts more than 150 providers, digital health firms for ACCESS model",
+    "url": "https://www.healthcaredive.com/news/150-healthcare-organizations-approved-access-model-cms/817426/",
+    "source": "Healthcare Dive",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-14T14:47:00+00:00",
-    "summary": "A prominent physician voice in the House of Representatives has introduced a new bill that would compel insurers to apply the cost for drugs purchased from direct-to-consumer platforms to deductibles and out-of-pocket maximums.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202024-09-25T135647.552.jpg?VersionId=lq570SshFNMgqy.J23tNIGUCUD07vAS9",
+    "published": "2026-04-14T13:50:00+00:00",
+    "summary": "Participants will receive set reimbursement for managing Medicare beneficiaries’ chronic conditions, like diabetes, chronic kidney disease and hypertension.",
+    "image_url": "https://imgproxy.divecdn.com/58N7uxJXwbN7npucf09uGWfXNC_xMQM2TQfhbxJ1Grw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMTcwMDExLmpwZw==.webp",
     "tags": [],
     "industries": [
-      "tech",
-      "consumer",
       "lifesciences"
     ],
-    "relevance_score": 11
+    "relevance_score": 11,
+    "also_covered_by": [
+      "Fierce Healthcare",
+      "Health Tech"
+    ]
   },
   {
-    "id": "c718bef130e1",
-    "title": "Travere Therapeutics TVTX Stock 2026 Outlook: Buy Rating Holds After FDA Approval of FILSPARI for FSGS - International Business Times Australia",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPZnU5WF9DaV8zLXliQVhrdVpLZlBqYlhpZGVkT0V5QlMwcFdISHkzSFBVM3VqMDZXTnlwNHFJQ0RVbEZhLV91WGlBRW9sMjlnOEdqUGNubHZDVEtrLXVEcnI5ZTI2TVp0YUpTdmhWNjFqOUtrN0M2R0dWWThlS2xFQVlveHBWR1F0S2phalV4cWhFMWVxR3BGakRBWTRiU1YyV1h0QzZ6OGpHZEs2MU5ZX1d4N1FzbE9wajcwQ05tZXNobVRrcTVhTQ?oc=5",
+    "id": "d30dd8223286",
+    "title": "Biotech Firm Cuts 63 Jobs in Woburn After FDA Setback - National Today",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3g4R1dseXlyR0lETmVVamFCd25GUzJpVDhlVDQyeXNHNXowWlNwX0IxeUhVMkQweV9fN0k5dmFnLVdEdjNWckZmaFNISDZtMVhPTFh5Y0JpSGZSZWQtejkzb3ltcmhZYTVJMEtLZFlHT1otOWloYmZsSERwWjBtVngySXk1S0NBMUtLQnVzYVpGRjhqaVhIOTBkUHBVLWJUWGVmWjJwME4wMk42UFYyanlB?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-15T06:26:17+00:00",
-    "summary": "Travere Therapeutics TVTX Stock 2026 Outlook: Buy Rating Holds After FDA Approval of FILSPARI for FSGS International Business Times Australia",
+    "published": "2026-04-15T09:18:10+00:00",
+    "summary": "Biotech Firm Cuts 63 Jobs in Woburn After FDA Setback National Today",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 11
   },
   {
-    "id": "91d9bd94c2ca",
-    "title": "Best Smart Ring Health Tracker Picks for 2026 in Wearable Health Tech - Tech Times",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU5aZ3AxMVc0b3dHZV9McDJIZS1va3lkNGJaVm0yTkRvQ1VDdW4yNndjRzZmdlFvcVFYc2NnNmY2cWFNc1V5SHJZdHlMNi1mYldlZzVIWm03bFNCR3lfZkhpWGttaXJmM01JQjk5NEs2dGFWVzhoczVkU2NJNzdZYk1tWmxJWHl1SGNid0NpVGRRZElsZTg4ejNIc0NqT1B2eG1hWlRaMzdKYUZZUzgyR1ZrQ09YX0hu?oc=5",
+    "id": "a6cce5758720",
+    "title": "HealPort Raises 1.2M USD to Scale Global Digital Health Infrastructure - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRHl3ZlhoaTFXLW1aQ3k5X1RkbGNhNVlZS0xVWEZtcjZvaUVHclhkWXpZbTZOT21vNDQ2emFIem5YUzU5NFRsSWhqNmZjXy1FUzFPSEJIZG5zbDZoRGVDT19jbGFxTWwzTUl6d21LenNPSUtUWHJ4UzhXTHNiRzh4RFl6QWg3OUdGNkl0dnZVSDRzX256VmtfVg?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-15T07:42:21+00:00",
-    "summary": "Best Smart Ring Health Tracker Picks for 2026 in Wearable Health Tech Tech Times",
+    "published": "2026-04-15T12:30:00+00:00",
+    "summary": "HealPort Raises 1.2M USD to Scale Global Digital Health Infrastructure Yahoo Finance",
     "image_url": null,
     "tags": [],
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 11
+    "relevance_score": 11,
+    "also_covered_by": [
+      "Fintech"
+    ]
   },
   {
     "id": "73b3b56bfa48",
@@ -299,22 +254,6 @@
     "relevance_score": 10
   },
   {
-    "id": "21a84ea94788",
-    "title": "Wavelet Medical, Aegis Ventures partner on first AI non-invasive fetal EEG monitoring platform",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/wavelet-aegis-partner-first-ai-non-invasive-fetal-eeg-monitoring-platform",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-13T14:07:00+00:00",
-    "summary": "The device detects fetal brain signals through sensors on a pregnant person, Wavelet CEO Liz Golden told Fierce Healthcare in an exclusive interview. The device then extracts auditory signals and evaluates them to detect when fetal distress occurs in real-time.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Wavelet%20patient%20%281%29_0.jpeg?VersionId=y1SPb3PpttiTcQoeQ3osJVB5cgVENPrx",
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "0e0fe797d32f",
     "title": "Stanford Health Care, Alameda Health System partner to support St. Rose Hospital",
     "url": "https://www.fiercehealthcare.com/hospitals/stanford-health-care-alameda-health-system-partner-support-st-rose-hospital",
@@ -330,13 +269,45 @@
     "relevance_score": 10
   },
   {
-    "id": "a107725c3e04",
-    "title": "Digital health systems keep failing. The fix isn’t more tech, it’s designing with and for people - Biometric Update",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOVZCN1ZrV3VqTWZiUnRSQVhrYnhhWm5rX09LSzNBNDVBUjFvY2FaMDVveFNjdkFPRWQ4U1p0SFZrMjRTb3BlTk9LT3hEM1VCc09PdWRSUzBuNjN6ZGxOdjRkRmpFS2hDRWd2cktrek45dGR0Mng4b1VvMlpicmhwSjlDYkRoNVViZXRJNkNsRHdMR0s4RUpCV2ZXTU5OREpObjlyVVloRUJVTGVpcW5WbXVZRzRKZHV6TVhBSGN4UmFfZHNXQUFPZTItOA?oc=5",
+    "id": "fbc9abab2d77",
+    "title": "Hospitals with more disadvantaged patients fall short on price transparency, study finds",
+    "url": "https://www.fiercehealthcare.com/providers/hospitals-more-disadvantaged-patients-fall-short-price-transparency-study",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-14T16:34:00+00:00",
+    "summary": "A recent analysis of nearly 2,500 hospitals outlines a \"harmful paradox\" of less price transparency available for those with the greatest need to make financially informed decisions.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1632167586/chargemastersfeespublic.jpg/chargemastersfeespublic.jpg?VersionId=hlmeixvrkliKhJC0iRbBFSYAc4Pi91MP",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "f8eb9a951d5c",
+    "title": "With health costs ballooning, workers turn to wellness and the internet, ADP finds",
+    "url": "https://www.healthcaredive.com/news/with-health-costs-ballooning-workers-turn-to-wellness-and-the-internet-ad/817531/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-14T20:04:00+00:00",
+    "summary": "When workers delay care because of cost, it could hurt employers more in the long run, other research suggests.",
+    "image_url": "https://imgproxy.divecdn.com/Fl9EokJOQUtyQQ9sEWdvbXeEqMXM9lUZf0T-9k0xoto/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8ySlRUV1c1LmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "91d9bd94c2ca",
+    "title": "Best Smart Ring Health Tracker Picks for 2026 in Wearable Health Tech - Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNWU5aZ3AxMVc0b3dHZV9McDJIZS1va3lkNGJaVm0yTkRvQ1VDdW4yNndjRzZmdlFvcVFYc2NnNmY2cWFNc1V5SHJZdHlMNi1mYldlZzVIWm03bFNCR3lfZkhpWGttaXJmM01JQjk5NEs2dGFWVzhoczVkU2NJNzdZYk1tWmxJWHl1SGNid0NpVGRRZElsZTg4ejNIc0NqT1B2eG1hWlRaMzdKYUZZUzgyR1ZrQ09YX0hu?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-15T09:04:29+00:00",
-    "summary": "Digital health systems keep failing. The fix isn’t more tech, it’s designing with and for people Biometric Update",
+    "published": "2026-04-15T07:42:21+00:00",
+    "summary": "Best Smart Ring Health Tracker Picks for 2026 in Wearable Health Tech Tech Times",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -345,13 +316,13 @@
     "relevance_score": 10
   },
   {
-    "id": "0d428b42a2fd",
-    "title": "A shift towards personalised health monitoring - Healthcare Today",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON2Z3SVVqdDhJaFRIdndtMzVndXNKcEdnVjNKSEF6VTRjVWRHUjEza0hibXl6LW40VlhHU1Q0VXk2NHV2b01wMHYwQ21oTjhQMEh2YXE0RlJFclFsOHhaZ24wNjBWU3VWWU5GYlNfcHRYRm1naWZveUtlbElEeWtXUC0ySXUzeWgwVXozaWloRG5sMHpCT29CZWRPeEJLUQ?oc=5",
+    "id": "024f225f6a35",
+    "title": "From Insight to Intervention: Why Over-the-Counter Digital Therapeutics (ODTx) are the Next Step for LLMs and Wearables - MedCity News",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNODlQRkkxRXhPaHR3Z3lHQXpOLVV5VjMtcDduNTdhS3ExV28tcDlrRUJKXzRDVWVZMFJ6OFEtUVhJaEJDOS1fc3lqMFB1c2tRaVdfN1JtakNOOXpJd29XSFpnUDMyWmI2dlQ2SkdXTEo0TGNSUVYtUFJjRENGdG5Jd1ZndkVjRC1hajExMlhtdl8wMHJHZXhMbW5UbnFXNkdNVld5SEVGQUlnQWdqZ1ZsdnRZWUY2RFhYNHpBUlZnUExLam1RV0s2LUNHOERQaW1SZDUxLUJObDhfeGNkN1NVRDBTMA?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-15T09:24:46+00:00",
-    "summary": "A shift towards personalised health monitoring Healthcare Today",
+    "published": "2026-04-15T13:57:53+00:00",
+    "summary": "From Insight to Intervention: Why Over-the-Counter Digital Therapeutics (ODTx) are the Next Step for LLMs and Wearables MedCity News",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -360,47 +331,32 @@
     "relevance_score": 10
   },
   {
-    "id": "069a38bb3e3b",
-    "title": "Achieve Life Sciences Announces Operational Progress Including Completion of Technology Transfer to Adare Pharma Solutions - The Manila Times",
-    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNcWNkc2FFakVIZnJQYXRfN1NkMlRmRmFWQUlIOVlpWjRBMTV1WUpEYU1xOXFfeEVQVkt1QXNteUFDdnlWbVhjVjZ5UFQ3NUYydXpTWmhCXzgxX3VLNHloWVF3UzRZY0x1emlEVDM3WVhRWG9wSGpzM1NIWXF3cWlTNXBIRTZUN0U1Mnpxc1JtWHdCUU5XejYxZU02VGk2MFdzaEY3UGJDN2U4dXlYenJzeEZhaWJJbnFPSnhjZDBrM3c3ZnFtMmdrazZ2bFZlaGFiTTQ5SlowVl9IQzZsSy0yTmdLeHIzRFUxTjA3TDNFbWVjNmNKaWNPLThfeDlGclhZMHpLMEZYa0tJSlg0bk54MFNVUnhwaW9uMDhaOEY1OUtVd9IBpwJBVV95cUxOWE51MTVIcUxTelBLTlowaTN2clZIS0gzMDJ5X0RLbHBkYW1acGhhbjRXa1FmdEtMSXJSU19HaE56TzBLaTdFeS1IX3hMSUVTOW0zRlhIRE5nTkNfNklyeF9RVE55ejhpQ0JUV0tzczZIQ2ZteVM5Q010cERmVFVnSUVwS1dCZkdLakljUFc0eVJWd0RLYVM0ZU90TXFPNHRoX3cyaHhwS1lEN3FJR2lhZnRUY05MMjZPX3B2MmRjd3U3SmFZVDdWN1RUc0k0NThER0dndVFyM21kX2FqWEJhZkJNTmhJSVJDTVVjWnMwZkh4NTQ5Rng5bnl4UkMzUy1TTUhkc1V1LXhGV3dIYi1OejNlRUhkS0kyWXRLQXNkOE9pMHJHNnJB?oc=5",
-    "source": "Biotech",
+    "id": "510b8901d0af",
+    "title": "Limited tickets now available - Health Tech World",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWXB6WjMtSWwtcWFzbXF4OFphUmVuRXdQQnpyUnAxOTNadXFfNXJ4QjkwTi1JOUZoNnNUWVBUcDkyZmxSckRwdC1qWkhhY01EMmdMRnlSYWg5NW9FbGpXZ1Q1eFpyYk1NY2pfdnc2X01QNExmRzYzcm5JVldxRFRnNDZSVEctTGZxVmk1WUZMNjJlQ1phSUpXMXlR?oc=5",
+    "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-15T12:05:40+00:00",
-    "summary": "Achieve Life Sciences Announces Operational Progress Including Completion of Technology Transfer to Adare Pharma Solutions The Manila Times",
+    "published": "2026-04-15T14:31:44+00:00",
+    "summary": "Limited tickets now available Health Tech World",
     "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "21a84ea94788",
+    "title": "Wavelet Medical, Aegis Ventures partner on first AI non-invasive fetal EEG monitoring platform",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/wavelet-aegis-partner-first-ai-non-invasive-fetal-eeg-monitoring-platform",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-13T14:07:00+00:00",
+    "summary": "The device detects fetal brain signals through sensors on a pregnant person, Wavelet CEO Liz Golden told Fierce Healthcare in an exclusive interview. The device then extracts auditory signals and evaluates them to detect when fetal distress occurs in real-time.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Wavelet%20patient%20%281%29_0.jpeg?VersionId=y1SPb3PpttiTcQoeQ3osJVB5cgVENPrx",
     "tags": [],
     "industries": [
       "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "3bbcdb7432e9",
-    "title": "CMS proposes new deadlines for prior authorizations for drugs",
-    "url": "https://www.healthcaredive.com/news/cms-proposes-drug-prior-authorizations-electronic-deadlines/817287/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-13T13:01:55+00:00",
-    "summary": "Drugs were left out of a 2024 rule streamlining prior authorizations by making decisions electronic and requiring payers to turn them around more quickly. The Trump administration is looking to address that gap.",
-    "image_url": "https://imgproxy.divecdn.com/5RHqNDZFgUFfignT5rqVP6ETVGApAb__iAS5G4tEp8E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA1OTA4MDM3LmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "51cefb242e52",
-    "title": "Healthcare spending varies widely between metropolitan areas: HCCI",
-    "url": "https://www.fiercehealthcare.com/finance/healthcare-spending-varies-widely-between-metropolitan-areas-hcci",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-13T14:25:00+00:00",
-    "summary": "Healthcare spending varies widely between metropolitan areas, according to new data from the Health Care Cost Institute.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-471488408.jpg?VersionId=ovqw.qM5mLvqFtRO1cKrdZ3azjLm0cpn",
-    "tags": [],
-    "industries": [
       "lifesciences"
     ],
     "relevance_score": 9
@@ -421,37 +377,82 @@
     "relevance_score": 9
   },
   {
-    "id": "20cb76a636d9",
-    "title": "Function Health acquires mobile healthcare platform Getlabs to provide members with at-home lab tests",
-    "url": "https://www.fiercehealthcare.com/health-tech/function-health-acquires-mobile-healthcare-platform-getlabs-provide-members-home-lab",
+    "id": "ca71eece846a",
+    "title": "Bill would force payers to apply DTC drug purchases to patient deductibles",
+    "url": "https://www.fiercehealthcare.com/regulatory/bill-seeks-force-payers-apply-dtc-drug-purchases-patient-deductibles",
     "source": "Fierce Healthcare",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-10T12:39:00+00:00",
-    "summary": "Function’s testing platform is available at all Quest Diagnostics locations across the U.S. Members will soon be able to choose whether to visit a location or schedule an at-home or in-office test with Getlabs.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1617383361%20%281%29.jpg?VersionId=wpVpBOIJmlcI6cd2kREmaS4OeeEzDoyJ",
+    "published": "2026-04-14T14:47:00+00:00",
+    "summary": "A prominent physician voice in the House of Representatives has introduced a new bill that would compel insurers to apply the cost for drugs purchased from direct-to-consumer platforms to deductibles and out-of-pocket maximums.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202024-09-25T135647.552.jpg?VersionId=lq570SshFNMgqy.J23tNIGUCUD07vAS9",
     "tags": [],
     "industries": [
       "tech",
-      "industrial",
+      "consumer",
       "lifesciences"
     ],
-    "relevance_score": 8
+    "relevance_score": 9
   },
   {
-    "id": "d7fe7fe576f4",
-    "title": "How Evernorth's new Delaware specialty pharmacy facility highlights a broader care coordination approach",
-    "url": "https://www.fiercehealthcare.com/payers/how-evernorths-new-delware-specialty-pharmacy-facility-highlights-broader-care-coordination",
-    "source": "Fierce Healthcare",
+    "id": "0d428b42a2fd",
+    "title": "A shift towards personalised health monitoring - Healthcare Today",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxON2Z3SVVqdDhJaFRIdndtMzVndXNKcEdnVjNKSEF6VTRjVWRHUjEza0hibXl6LW40VlhHU1Q0VXk2NHV2b01wMHYwQ21oTjhQMEh2YXE0RlJFclFsOHhaZ24wNjBWU3VWWU5GYlNfcHRYRm1naWZveUtlbElEeWtXUC0ySXUzeWgwVXozaWloRG5sMHpCT29CZWRPeEJLUQ?oc=5",
+    "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-10T16:03:00+00:00",
-    "summary": "In late October, Evernorth opened a new specialty pharmacy and distribution facility in Newark, Delaware, with the goal of making it easier for members to access key specialty therapies.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202025-04-16T100815.299.jpg?VersionId=0zJzNzQ.KUM3YIhJcKlNWQkb3L5kwZCX",
+    "published": "2026-04-15T09:24:46+00:00",
+    "summary": "A shift towards personalised health monitoring Healthcare Today",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "a107725c3e04",
+    "title": "Digital health systems keep failing. The fix isn’t more tech, it’s designing with and for people - Biometric Update",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOOVZCN1ZrV3VqTWZiUnRSQVhrYnhhWm5rX09LSzNBNDVBUjFvY2FaMDVveFNjdkFPRWQ4U1p0SFZrMjRTb3BlTk9LT3hEM1VCc09PdWRSUzBuNjN6ZGxOdjRkRmpFS2hDRWd2cktrek45dGR0Mng4b1VvMlpicmhwSjlDYkRoNVViZXRJNkNsRHdMR0s4RUpCV2ZXTU5OREpObjlyVVloRUJVTGVpcW5WbXVZRzRKZHV6TVhBSGN4UmFfZHNXQUFPZTItOA?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-15T09:30:00+00:00",
+    "summary": "Digital health systems keep failing. The fix isn’t more tech, it’s designing with and for people Biometric Update",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "4bb8a979035a",
+    "title": "Nicotine-dependence drug moves to Ohio production ahead of FDA refiling - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNaWhRTjd4dEVodkx2Q3hja2tvblpRY3NlOUpmVHdiZm1YcnhpWUU1Wlpld2J1anF0OWdadnRRandidmlTcjlHb00wTDJ2LTU2WkVQVUdRZU5wd0tRWERpMWQzcVlSajVqQWlGcmxVU1JxdndMckRuckl6cXBCTWcxVWdJb214LWJ6LVlXNU9ubFFXTnQxMmtOWGgzNUptbjJtQXU1VTZYSEUwRDIwTHd3bU53Z0xBUnNx?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-15T12:00:00+00:00",
+    "summary": "Nicotine-dependence drug moves to Ohio production ahead of FDA refiling Stock Titan",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "069a38bb3e3b",
+    "title": "Achieve Life Sciences Announces Operational Progress Including Completion of Technology Transfer to Adare Pharma Solutions - The Manila Times",
+    "url": "https://news.google.com/rss/articles/CBMiogJBVV95cUxNcWNkc2FFakVIZnJQYXRfN1NkMlRmRmFWQUlIOVlpWjRBMTV1WUpEYU1xOXFfeEVQVkt1QXNteUFDdnlWbVhjVjZ5UFQ3NUYydXpTWmhCXzgxX3VLNHloWVF3UzRZY0x1emlEVDM3WVhRWG9wSGpzM1NIWXF3cWlTNXBIRTZUN0U1Mnpxc1JtWHdCUU5XejYxZU02VGk2MFdzaEY3UGJDN2U4dXlYenJzeEZhaWJJbnFPSnhjZDBrM3c3ZnFtMmdrazZ2bFZlaGFiTTQ5SlowVl9IQzZsSy0yTmdLeHIzRFUxTjA3TDNFbWVjNmNKaWNPLThfeDlGclhZMHpLMEZYa0tJSlg0bk54MFNVUnhwaW9uMDhaOEY1OUtVd9IBpwJBVV95cUxOWE51MTVIcUxTelBLTlowaTN2clZIS0gzMDJ5X0RLbHBkYW1acGhhbjRXa1FmdEtMSXJSU19HaE56TzBLaTdFeS1IX3hMSUVTOW0zRlhIRE5nTkNfNklyeF9RVE55ejhpQ0JUV0tzczZIQ2ZteVM5Q010cERmVFVnSUVwS1dCZkdLakljUFc0eVJWd0RLYVM0ZU90TXFPNHRoX3cyaHhwS1lEN3FJR2lhZnRUY05MMjZPX3B2MmRjd3U3SmFZVDdWN1RUc0k0NThER0dndVFyM21kX2FqWEJhZkJNTmhJSVJDTVVjWnMwZkh4NTQ5Rng5bnl4UkMzUy1TTUhkc1V1LXhGV3dIYi1OejNlRUhkS0kyWXRLQXNkOE9pMHJHNnJB?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-15T12:05:40+00:00",
+    "summary": "Achieve Life Sciences Announces Operational Progress Including Completion of Technology Transfer to Adare Pharma Solutions The Manila Times",
+    "image_url": null,
     "tags": [],
     "industries": [
       "tech",
       "lifesciences"
     ],
-    "relevance_score": 8
+    "relevance_score": 9
   },
   {
     "id": "61a8222ce13f",
@@ -469,14 +470,14 @@
     "relevance_score": 8
   },
   {
-    "id": "17b3bf6ab65b",
-    "title": "FDA Digital Health Deregulation: Faster Innovation - Telehealth.org",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ2p2UU5fZWNaUnczQl9vS1JPU2wwQnNyZ055bXM3c2laLWEyTm5MRUp1cFZNMmU1YzVMYmVUMUl4TXp6eTBEQXYtOXBFOS1MMnZSTFlSckRiTzQ5YWEyNVQ0NVpmVU9CXzdQYVhlY1N3YU1kYmZGaGtDX3JzWlJyQnBQcmtOQU5ILWZXczVYWS10X2hvYXNzTDU1WmxFUzZIU05QcE5ldUlIdjJMYUs3OGRnV3AyZw?oc=5",
-    "source": "Health Tech",
+    "id": "3bbcdb7432e9",
+    "title": "CMS proposes new deadlines for prior authorizations for drugs",
+    "url": "https://www.healthcaredive.com/news/cms-proposes-drug-prior-authorizations-electronic-deadlines/817287/",
+    "source": "Healthcare Dive",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-14T23:34:36+00:00",
-    "summary": "FDA Digital Health Deregulation: Faster Innovation Telehealth.org",
-    "image_url": null,
+    "published": "2026-04-13T13:01:55+00:00",
+    "summary": "Drugs were left out of a 2024 rule streamlining prior authorizations by making decisions electronic and requiring payers to turn them around more quickly. The Trump administration is looking to address that gap.",
+    "image_url": "https://imgproxy.divecdn.com/5RHqNDZFgUFfignT5rqVP6ETVGApAb__iAS5G4tEp8E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA1OTA4MDM3LmpwZw==.webp",
     "tags": [],
     "industries": [
       "lifesciences"
@@ -484,17 +485,31 @@
     "relevance_score": 8
   },
   {
-    "id": "94e1add8e8e9",
-    "title": "Bulgaria adopts telemedicine rules, but digital health challenges remain - Euractiv",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd29odUFCTUZxWWN4R2R0V25zTzJxN2JBemNKQ3lpaTU1bHV0Tzg5NWY4LXJtRDZPUE9jNzJrQ19EdUtZTi1PUDlZQzVFNE8zZkhBdVZlMHdXU0pNMW13RV9XQmEwNDlfRkVOUlJLZktlVjRIdzJpOWRaRFRDZG1CejhDQXB1Zkhob0drWTVwcjRDTFdrTHBDVnE3UUpIZHNMS0RxcA?oc=5",
+    "id": "51cefb242e52",
+    "title": "Healthcare spending varies widely between metropolitan areas: HCCI",
+    "url": "https://www.fiercehealthcare.com/finance/healthcare-spending-varies-widely-between-metropolitan-areas-hcci",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-13T14:25:00+00:00",
+    "summary": "Healthcare spending varies widely between metropolitan areas, according to new data from the Health Care Cost Institute.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-471488408.jpg?VersionId=ovqw.qM5mLvqFtRO1cKrdZ3azjLm0cpn",
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "ccd52eb29aa4",
+    "title": "JMIR Report: Why Mental Health Tech Needs Systems, Not Just Tools | Newswise - Newswise",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN1MzRF94emE3U2JwYkIxMzJQaTl0eTllNnBKZm9ackhRbTg2WENaNFBhaWVQSkFXTzRCLTRJZzJKaFJUd2xaaDlKOXJRVnkwa1N0WE0yNlpDeW5xNkRHb0JkSmlPQ3NFT3MzTmNjR3BQdnFJa0Uwb1BRS0VmYTBFNkxyWnE3RUQ5N0JPaF94V3ViNFcta3FMR0hTR1c3QdIBngFBVV95cUxPN1MzRF94emE3U2JwYkIxMzJQaTl0eTllNnBKZm9ackhRbTg2WENaNFBhaWVQSkFXTzRCLTRJZzJKaFJUd2xaaDlKOXJRVnkwa1N0WE0yNlpDeW5xNkRHb0JkSmlPQ3NFT3MzTmNjR3BQdnFJa0Uwb1BRS0VmYTBFNkxyWnE3RUQ5N0JPaF94V3ViNFcta3FMR0hTR1c3QQ?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-15T00:26:09+00:00",
-    "summary": "Bulgaria adopts telemedicine rules, but digital health challenges remain Euractiv",
+    "published": "2026-04-15T00:35:00+00:00",
+    "summary": "JMIR Report: Why Mental Health Tech Needs Systems, Not Just Tools | Newswise Newswise",
     "image_url": null,
     "tags": [],
     "industries": [
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 8
@@ -511,38 +526,6 @@
     "tags": [],
     "industries": [
       "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "86058fdc46e9",
-    "title": "Op-ed: Administrative fragility is costing healthcare more than we think",
-    "url": "https://www.fiercehealthcare.com/health-tech/op-ed-administrative-fragility-costing-healthcare-more-we-think",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-10T13:42:00+00:00",
-    "summary": "The industry has already proven automation works. The question now is whether organizations are prepared to operationalize it at scale, writes Zelis' Yusuf Qasim.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2186725773%20%283%29.jpg?VersionId=l2UtxwnKAAxD2AN7X6tmLLB4R4_56SKy",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "9a3d07f86287",
-    "title": "CMS unveils first wave of health tech tools as it pushes data sharing initiative",
-    "url": "https://www.healthcaredive.com/news/cms-update-health-tech-ecosystem-data-sharing-interoperability/817205/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-10T14:28:31+00:00",
-    "summary": "The agency showcased dozens of tools Thursday, about 8 months after the CMS first announced the initiative that aims to ease health data sharing and improve access to digital health and AI products.",
-    "image_url": "https://imgproxy.divecdn.com/9-0ucChxHfBOQpAi33zdy8Rx9WVW_Fej0xQCe0BBP0s/g:nowe:0:9/c:1023:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI3NzY4OTQ0LmpwZw==.webp",
-    "tags": [],
-    "industries": [
       "industrial",
       "lifesciences"
     ],
@@ -580,16 +563,32 @@
     "relevance_score": 7
   },
   {
-    "id": "ec06cc0a3b98",
-    "title": "Hospitals offer chatbots to fight off ChatGPT - statnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWXVncV9WSk1pTl9MVDZKQWhWWUFQd2NDNldSVHR0SXJPblJHMmg5cUE0OGZxdVRiNEo0cU5OMk9XZllwcTNaOS14N0ZNUlJEaE15eERDcFpCdUd3bm5iaDVZVzU1N0I5TURJY0NMbzZ3YUVVb1RoQU1DRTlSYWVvT2VweHh3ZDZV?oc=5",
+    "id": "17b3bf6ab65b",
+    "title": "FDA Digital Health Deregulation: Faster Innovation - Telehealth.org",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQZ2p2UU5fZWNaUnczQl9vS1JPU2wwQnNyZ055bXM3c2laLWEyTm5MRUp1cFZNMmU1YzVMYmVUMUl4TXp6eTBEQXYtOXBFOS1MMnZSTFlSckRiTzQ5YWEyNVQ0NVpmVU9CXzdQYVhlY1N3YU1kYmZGaGtDX3JzWlJyQnBQcmtOQU5ILWZXczVYWS10X2hvYXNzTDU1WmxFUzZIU05QcE5ldUlIdjJMYUs3OGRnV3AyZw?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-14T13:29:21+00:00",
-    "summary": "Hospitals offer chatbots to fight off ChatGPT statnews.com",
+    "published": "2026-04-14T23:34:36+00:00",
+    "summary": "FDA Digital Health Deregulation: Faster Innovation Telehealth.org",
     "image_url": null,
     "tags": [],
     "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "94e1add8e8e9",
+    "title": "Bulgaria adopts telemedicine rules, but digital health challenges remain - Euractiv",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPd29odUFCTUZxWWN4R2R0V25zTzJxN2JBemNKQ3lpaTU1bHV0Tzg5NWY4LXJtRDZPUE9jNzJrQ19EdUtZTi1PUDlZQzVFNE8zZkhBdVZlMHdXU0pNMW13RV9XQmEwNDlfRkVOUlJLZktlVjRIdzJpOWRaRFRDZG1CejhDQXB1Zkhob0drWTVwcjRDTFdrTHBDVnE3UUpIZHNMS0RxcA?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-15T00:26:09+00:00",
+    "summary": "Bulgaria adopts telemedicine rules, but digital health challenges remain Euractiv",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 7
@@ -661,22 +660,6 @@
     "relevance_score": 5
   },
   {
-    "id": "4e4cd768d5b9",
-    "title": "‘I didn’t want to be on medication the rest of my life’: veteran runs psilocybin retreats for PTSD before FDA approval - The Guardian",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQZG9sRTZXazhhUE4za3ZwM1lhMHliVEIxbG1qUG5yYlpCT0FJZnp5TDBzcU0wclpnU3ZudUx3X1k0bm1iSVJjNjJ2bEJRcWlRNjcxNVBhQzFoOVhjTFExbGFRUFRvY3J5ak9SNHh2UWp4VkZMVEVpSTF2Q1lZOFRYVQ?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-12T22:45:00+00:00",
-    "summary": "‘I didn’t want to be on medication the rest of my life’: veteran runs psilocybin retreats for PTSD before FDA approval The Guardian",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
     "id": "d9ad0eda87c0",
     "title": "BioNTech, SynOx plot paths to FDA as tumor trials hit goals - Fierce Biotech",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOMTZoNS1GV2xtLTRZR1dMMGN1cU5oMk1vWGdKLVU4dXdmYTE4eXNxa3VlRHJ4LVh3SUZMNVFBcmp0SUN1ZU51TWhBb29NdTE5QzM4LXpkb3gyNURUNGw3UjZWMGNnQllfb0FZM1pBMURDeFBuNjVNYUFQMTNWVmRaTzdqYkJBZGJweVRxNXRMT3hVcXhyZG9UYzA0MnNuSG5rYW14QWFvQk1sTThO?oc=5",
@@ -688,6 +671,21 @@
     "tags": [],
     "industries": [
       "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "ec06cc0a3b98",
+    "title": "Hospitals offer chatbots to fight off ChatGPT - statnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQWXVncV9WSk1pTl9MVDZKQWhWWUFQd2NDNldSVHR0SXJPblJHMmg5cUE0OGZxdVRiNEo0cU5OMk9XZllwcTNaOS14N0ZNUlJEaE15eERDcFpCdUd3bm5iaDVZVzU1N0I5TURJY0NMbzZ3YUVVb1RoQU1DRTlSYWVvT2VweHh3ZDZV?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-14T13:29:21+00:00",
+    "summary": "Hospitals offer chatbots to fight off ChatGPT statnews.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
       "lifesciences"
     ],
     "relevance_score": 5
