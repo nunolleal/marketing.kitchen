@@ -1,22 +1,5 @@
 [
   {
-    "id": "6bf893cb0536",
-    "title": "The financial impact of low engagement in digital health programmes - FinTech Global",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWS1mTUNzbW9oX3IyR2wzM1E3ckEybU9pN1dYZ0xkUUh6ZkhBaW5kbjJhQUlBeFFRVnMwbHdhSUtveEplaFBtZE5kR0xnaGtaN09IVjNQWVlDNmc1eG4wMWpleTJXWl9HQXlEMXVEVEM0Njh6ZWdxX3dPd1B2UjduNEFTUllqYjBjOS1FeUlneFlIYnktYXJ0b250ellOZ25sTDV4NQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-16T11:02:52+00:00",
-    "summary": "The financial impact of low engagement in digital health programmes FinTech Global",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences",
-      "financial"
-    ],
-    "relevance_score": 32
-  },
-  {
     "id": "dfd7f10527fe",
     "title": "WebMD Ignite rolls out program to help providers get Rural Health Transformation efforts off the ground",
     "url": "https://www.fiercehealthcare.com/health-tech/webmd-ignite-rolls-out-program-help-providers-get-rural-health-transformation-efforts",
@@ -30,6 +13,23 @@
       "tech",
       "industrial",
       "lifesciences"
+    ],
+    "relevance_score": 29
+  },
+  {
+    "id": "6bf893cb0536",
+    "title": "The financial impact of low engagement in digital health programmes - FinTech Global",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQWS1mTUNzbW9oX3IyR2wzM1E3ckEybU9pN1dYZ0xkUUh6ZkhBaW5kbjJhQUlBeFFRVnMwbHdhSUtveEplaFBtZE5kR0xnaGtaN09IVjNQWVlDNmc1eG4wMWpleTJXWl9HQXlEMXVEVEM0Njh6ZWdxX3dPd1B2UjduNEFTUllqYjBjOS1FeUlneFlIYnktYXJ0b250ellOZ25sTDV4NQ?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-16T11:02:52+00:00",
+    "summary": "The financial impact of low engagement in digital health programmes FinTech Global",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences",
+      "financial"
     ],
     "relevance_score": 29
   },
@@ -50,22 +50,6 @@
     "relevance_score": 26
   },
   {
-    "id": "d3d28d4620ec",
-    "title": "The Billion-Dollar Blind Spot in Pharma Marketing - DTC Perspectives",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxObFlveWpjVmFJMnZsNG1senpWV25DdTJsdUZrdm9WMlhuazFVZm82ZVYtUEhUS0FVZjVoalJyM3BIYjF1UjhHQnlMS1RKTDNncUxwRjc3c1FoTDl5UHNEdVA4THNMTHRMbnhyVHhZb2c4c2ZxU1NiQmRVNnA3MUxrdFY2N0hSWDY0c2c?oc=5",
-    "source": "Pharma Marketing",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-09T17:32:40+00:00",
-    "summary": "The Billion-Dollar Blind Spot in Pharma Marketing DTC Perspectives",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "consumer",
-      "lifesciences"
-    ],
-    "relevance_score": 19
-  },
-  {
     "id": "cd8c93bba443",
     "title": "Walmart expands digital health platform’s weight loss offerings, including GLP-1 prescribing",
     "url": "https://www.healthcaredive.com/news/walmarts-expands-digital-health-platform-glp1s/817681/",
@@ -81,7 +65,10 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 18
+    "relevance_score": 18,
+    "also_covered_by": [
+      "Health Tech"
+    ]
   },
   {
     "id": "b61ad74e2525",
@@ -99,6 +86,24 @@
     "relevance_score": 15
   },
   {
+    "id": "1629fae50e26",
+    "title": "OpenAI debuts GPT-Rosalind, a new limited access model for life sciences, and broader Codex plugin on Github",
+    "url": "https://venturebeat.com/technology/openai-debuts-gpt-rosalind-a-new-limited-access-model-for-life-sciences-and-broader-codex-plugin-on-github",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-04-16T19:02:45+00:00",
+    "summary": "The journey from a laboratory hypothesis to a pharmacy shelf is one of the most grueling marathons in modern industry, typically spanning 10 to 15 years and billions of dollars in investment. Progress is often stymied not just by the inherent mysteries of biology, but by the...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2kuM1Fize1fBE3pybDQsvD/ae6248e28eafe454993a21e87632c189/ChatGPT_Image_Apr_16__2026__03_01_33_PM.png?w=300&q=30",
+    "tags": [
+      "Technology"
+    ],
+    "industries": [
+      "lifesciences",
+      "financial"
+    ],
+    "relevance_score": 15
+  },
+  {
     "id": "ef30be425d9b",
     "title": "More employers considering medical, pharmacy vendor switch amid rising healthcare costs, survey finds",
     "url": "https://www.healthcaredive.com/news/employer-health-costs-switch-vendors-pbgh/817551/",
@@ -112,7 +117,26 @@
       "retail",
       "lifesciences"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
+  },
+  {
+    "id": "6dbb34a49cb8",
+    "title": "Abridge partners with medical journals to expand AI clinical decision support",
+    "url": "https://www.healthcaredive.com/news/abridge-partners-new-england-journal-medicine-nejm-jama-network-clinical-decision-support/817630/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-16T18:38:45+00:00",
+    "summary": "The AI scribe company said information from the New England Journal of Medicine and the JAMA Network will allow providers to more easily access the latest medical research.",
+    "image_url": "https://imgproxy.divecdn.com/5PnnwGjPi1ZhgMVkeisZpZNwPRLmEc80Bgs7SaRAHzQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTYyNzgwOTU0X3FZcFNyS0ouanBn.webp",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 14,
+    "also_covered_by": [
+      "Fierce Healthcare"
+    ]
   },
   {
     "id": "a5d1a7c588b2",
@@ -128,7 +152,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "31ff045219bb",
@@ -140,28 +164,6 @@
     "summary": "Alongside the $399 monthly dose, patients can choose to get a two-month supply for $798 or a three-month supply for $1,197.",
     "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Wegovy%20HD.jpg?VersionId=FZw6V4.BcWLleAZeiyHKanZruE8wRNGU",
     "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "866225878135",
-    "title": "The musician-turned-biotech-founder waiting to fundraise",
-    "url": "https://techcrunch.com/podcast/the-musician-turned-biotech-founder-waiting-to-fundraise/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-15T17:58:28+00:00",
-    "summary": "When Grammy-nominated singer-songwriter Aloe Blacc got COVID despite being vaccinated and boosted, he tried to fund research for a better solution. What he quickly found out? You can’t just write a check in biotech. Regulators require a commercialization plan, and...",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Copy-of-Stand-Together-Photo-By-Zach-Bell.jpg?resize=1200,1200",
-    "tags": [
-      "AI",
-      "Biotech & Health",
-      "Media & Entertainment",
-      "Startups",
-      "music industry"
-    ],
     "industries": [
       "industrial",
       "lifesciences"
@@ -232,36 +234,31 @@
     "relevance_score": 11
   },
   {
-    "id": "cc06e42d5a9b",
-    "title": "CMS accepts more than 150 providers, digital health firms for ACCESS model",
-    "url": "https://www.healthcaredive.com/news/150-healthcare-organizations-approved-access-model-cms/817426/",
-    "source": "Healthcare Dive",
+    "id": "fbd5d2513938",
+    "title": "Shionogi to Present RADICAVA® (edaravone) ORS and Digital Health Analyses in ALS at AAN 2026 - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxQeTVjMFAtUndYVkh5U1UtMDlxUFFVNmp1RHdRYm1WbU1mT1NMRTRreUVKcTd4V3d0VExUMndrWkg1cC1vWW9Oa1hmb3lra0ZoeDliSFhfMHprQWEzbUE1Zy05SUF4Wko1VGw1bVlPQ250Q0ljbUs0eHl5R3NyWThaUGhaVW1sT3VGdTNaUTREMG05Z0NNUkxveEs1NWNWcjVIZ0gyNFRtanBmWTRyZzZRekJidDh5d3hYSUZXZkg3M2plQ3RkQy04U0ptSTNvNDJFdnZMWFgwWUhpSVppcXZ3?oc=5",
+    "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-14T13:50:00+00:00",
-    "summary": "Participants will receive set reimbursement for managing Medicare beneficiaries’ chronic conditions, like diabetes, chronic kidney disease and hypertension.",
-    "image_url": "https://imgproxy.divecdn.com/58N7uxJXwbN7npucf09uGWfXNC_xMQM2TQfhbxJ1Grw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzYzMTcwMDExLmpwZw==.webp",
+    "published": "2026-04-16T13:00:00+00:00",
+    "summary": "Shionogi to Present RADICAVA® (edaravone) ORS and Digital Health Analyses in ALS at AAN 2026 Business Wire",
+    "image_url": null,
     "tags": [],
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 10,
-    "also_covered_by": [
-      "Fierce Healthcare",
-      "Health Tech"
-    ]
+    "relevance_score": 11
   },
   {
-    "id": "46644414fda1",
-    "title": "Abridge expands clinical decision support solution with UpToDate partnership, new NEJM, JAMA content tie-ups",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/abridge-expands-clinical-decision-support-capabilities-uptodate-partnership",
+    "id": "80068184ed63",
+    "title": "CMS taps 150 digital health companies, providers for ACCESS Model",
+    "url": "https://www.fiercehealthcare.com/digital-health/cms-taps-150-digital-health-companies-providers-access-model",
     "source": "Fierce Healthcare",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-14T20:25:00+00:00",
-    "summary": "Abridge is supercharging its clinical decision support capabilities through a partnership with Wolters Kluwer's UpToDate and new content integrations with The New England Journal of Medicine and JAMA.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1646106148%20%281%29.jpg?VersionId=xOalZvUp3s8aemxyT_rmWml9t0XnDIIe",
+    "published": "2026-04-13T15:40:00+00:00",
+    "summary": "CMS picked 150 digital health companies and healthcare providers to participate in the launch of its tech-enabled chronic care model.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1446888614%20%281%29%20%281%29.jpg?VersionId=ztk3thQHI20iAzRJyDeLv1kcwZ0JRV92",
     "tags": [],
     "industries": [
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 10
@@ -289,6 +286,21 @@
     "source_category": "industry_lifesciences",
     "published": "2026-04-16T12:57:00+00:00",
     "summary": "Achieve, pursuing a new nicotine treatment, picks physician as CEO Stock Titan",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "39abd0a51480",
+    "title": "UF Health Names Healthcare Vet Craig Richardville As New Tech Leader - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdjdNNThuTF9TdUpBeGtJSmxIaFlaMWJBV1FkRnJrQUxQOG1VT0lRRHhoZkNReUgzR2FhVnVabzR1bUgwdkJxVW9HaTRJWHpEXzJXdHgwQkUtMVRFWUpoa1A2aXNxN3J3TmdJTUp1TThqZTFzRng2d3dDdVVOaUVRa1JaTjhwZlp0ZU52UWdjazBLWnVhNVYxLUE1dU14UGc3UzlTclUzMXhGbTdhdlhGRQ?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-16T20:20:51+00:00",
+    "summary": "UF Health Names Healthcare Vet Craig Richardville As New Tech Leader Forbes",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -328,94 +340,16 @@
     "relevance_score": 9
   },
   {
-    "id": "f8eb9a951d5c",
-    "title": "With health costs ballooning, workers turn to wellness and the internet, ADP finds",
-    "url": "https://www.healthcaredive.com/news/with-health-costs-ballooning-workers-turn-to-wellness-and-the-internet-ad/817531/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-14T20:04:00+00:00",
-    "summary": "When workers delay care because of cost, it could hurt employers more in the long run, other research suggests.",
-    "image_url": "https://imgproxy.divecdn.com/Fl9EokJOQUtyQQ9sEWdvbXeEqMXM9lUZf0T-9k0xoto/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8ySlRUV1c1LmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "262bfa1f0315",
-    "title": "Doctor Care Anywhere selects Tandem Health as AI care partner for virtual clinical workflows - Med-Tech Insights",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOMzVvM3UtSW5fNHYycmZ4Qlo3NUVhSUt4dU5od1VjQmdsczc4NGJVbzQwTldGbTVqd0ZlV1FQV1hrdWNSeDViclE2cmdrbWtPTWNlZEV1STZQemt2azlTblRiY280SjV6cldHQmxlVDBmRVo0NVVMWXRjZGtJZTcwR0xZQ1czcWFGZXVieFU3WUxLYXFjcExYNHJFVU5YZWc1ejR3OW15WW5LNVR5cHBFbHBmVUVjZVJ0WmJKb3h3SFdKSXl6RHJERDM0VlV6UQ?oc=5",
+    "id": "7148defa890d",
+    "title": "DiMe leads effort to create standards for cash-pay drug models - Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQZWc4VW1Cel9VTWhPVTkzNmw4UTJsWVFOS0xmdmtkT0plQ3FtSmhDWFF3dC1MWEEtSTE0bGhReXJjUVlaUUF5RGdDLW81dG9DV0xnLXFROGJFN0VZdWdaUnV3bmlFNS12X3ktTkdhcGhjZTF1aFZzdXlPYUtVc1lXV3RfRmZLRGhWem9lT1VqTU91NTAxVkNKZWRXVllZXzdrYTJpdDNXakI4Q08yZ2RBLWE1QzAzTlZ5LXV0bEtRUlhWX0gySTEzQ29UOG4?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-16T08:27:12+00:00",
-    "summary": "Doctor Care Anywhere selects Tandem Health as AI care partner for virtual clinical workflows Med-Tech Insights",
+    "published": "2026-04-16T13:30:00+00:00",
+    "summary": "DiMe leads effort to create standards for cash-pay drug models Fierce Healthcare",
     "image_url": null,
     "tags": [],
     "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "15f0704bc8d7",
-    "title": "Travere’s drug for a kidney disease doesn’t improve kidney function. The FDA approved it anyway - statnews.com",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOTd0enBMUy01d18wazFoRUlxcmZCX1Q2V1hNbFIxc3dic2RGbGxmTVFRdm1JQ0YzWm9IbGx2S3lyTWdJT3ljeHNnVWYyakRELVJ5UlJzWXNwUTMwcWtXYzRUOVR0c2YzX0U1OHhQYzA2VTFJUlA4Uk1qb1ZmS3h1SE1QWDZiRmdhcTN1ZjZn?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-16T10:30:35+00:00",
-    "summary": "Travere’s drug for a kidney disease doesn’t improve kidney function. The FDA approved it anyway statnews.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "c75ecfde3398",
-    "title": "Health tech innovators and industry experts invited to join fast-paced innovation sprint to accelerate solutions - Health Tech World",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNalphaUhLeWprUklwdlVGeG80WkNrRXBSMTdvc0hhTkxEaE83UXJFWnJpcG44bnhkdFJxeWZmVXE2SXk4enVzOWp0X2Y5b2hCdEJMTi03TFJBcHpwaFpZQktQRW5pbUNqdlNGdU02dFMyQXE1STNjdHgxc1duVHVXcjkxR1VybWdiZ1VWUnktTE45NjNiRXdJUXpkaDlGQ2RwaXp3Y2s4d291dVpvSnVJcnZYUmFrTHY1US1lRFotc3ZQOFBjd2hmcVdka3VZQVIyS0xLcDRkUTJVYUxKeFJrZUk2WmtGUQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-16T11:31:36+00:00",
-    "summary": "Health tech innovators and industry experts invited to join fast-paced innovation sprint to accelerate solutions Health Tech World",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "39abd0a51480",
-    "title": "UF Health Names Healthcare Vet Craig Richardville As New Tech Leader - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPdjdNNThuTF9TdUpBeGtJSmxIaFlaMWJBV1FkRnJrQUxQOG1VT0lRRHhoZkNReUgzR2FhVnVabzR1bUgwdkJxVW9HaTRJWHpEXzJXdHgwQkUtMVRFWUpoa1A2aXNxN3J3TmdJTUp1TThqZTFzRng2d3dDdVVOaUVRa1JaTjhwZlp0ZU52UWdjazBLWnVhNVYxLUE1dU14UGc3UzlTclUzMXhGbTdhdlhGRQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-16T13:00:00+00:00",
-    "summary": "UF Health Names Healthcare Vet Craig Richardville As New Tech Leader Forbes",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "04ffb4d0e5c4",
-    "title": "Rare Disease Research, myTomorrows team up to help patients access trials - Fierce Biotech",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNa1ZlR2pJUmVyWnU0QWstNkR6Nk85MGdkYlliUzBhRDE1RmpNbVloSzJHamdxWXpidzVhTTA4SmJzaUdpcnMwWmZDZGM1TkpGb1E1bGs3Y0VDbmlZeE1QRE9zb2I2dFFTNTZpQ1FJcXJiZFhHdFczQUVqd3dEZ2JXQmxraVNkbzhCMURvOHNLNmJaMHlTTkw0bG5nNjJVUTdybVk2cWJRaVc5V3NBWkpuZ2pJUXU?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-16T13:00:00+00:00",
-    "summary": "Rare Disease Research, myTomorrows team up to help patients access trials Fierce Biotech",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 9
@@ -454,6 +388,22 @@
     "relevance_score": 8
   },
   {
+    "id": "f8eb9a951d5c",
+    "title": "With health costs ballooning, workers turn to wellness and the internet, ADP finds",
+    "url": "https://www.healthcaredive.com/news/with-health-costs-ballooning-workers-turn-to-wellness-and-the-internet-ad/817531/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-14T20:04:00+00:00",
+    "summary": "When workers delay care because of cost, it could hurt employers more in the long run, other research suggests.",
+    "image_url": "https://imgproxy.divecdn.com/Fl9EokJOQUtyQQ9sEWdvbXeEqMXM9lUZf0T-9k0xoto/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8ySlRUV1c1LmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "d30dd8223286",
     "title": "Biotech Firm Cuts 63 Jobs in Woburn After FDA Setback - National Today",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNd3g4R1dseXlyR0lETmVVamFCd25GUzJpVDhlVDQyeXNHNXowWlNwX0IxeUhVMkQweV9fN0k5dmFnLVdEdjNWckZmaFNISDZtMVhPTFh5Y0JpSGZSZWQtejkzb3ltcmhZYTVJMEtLZFlHT1otOWloYmZsSERwWjBtVngySXk1S0NBMUtLQnVzYVpGRjhqaVhIOTBkUHBVLWJUWGVmWjJwME4wMk42UFYyanlB?oc=5",
@@ -485,6 +435,52 @@
     "relevance_score": 8
   },
   {
+    "id": "c0e10223a710",
+    "title": "Digital health companies share plans for Medicare’s ACCESS Model - Modern Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPR1BUeTVlUzgtcHJxc2lBdUpMRU41U1laNnQ3SzU3QUk2OVZPOFpvT1hhTV9QU2NPRGhzSjV1Q2NvNWtqVWhid0hua29HTGdqWFg1SU5FM2lyZjhZaU1hVlVxX0g2YkxZQ2VRSGJHLTdNVWdZQU42QlQ4RjFob0ttTDBGZHpWZXRB?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-16T10:00:00+00:00",
+    "summary": "Digital health companies share plans for Medicare’s ACCESS Model Modern Healthcare",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "15f0704bc8d7",
+    "title": "Travere’s drug for a kidney disease doesn’t improve kidney function. The FDA approved it anyway - statnews.com",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPOTd0enBMUy01d18wazFoRUlxcmZCX1Q2V1hNbFIxc3dic2RGbGxmTVFRdm1JQ0YzWm9IbGx2S3lyTWdJT3ljeHNnVWYyakRELVJ5UlJzWXNwUTMwcWtXYzRUOVR0c2YzX0U1OHhQYzA2VTFJUlA4Uk1qb1ZmS3h1SE1QWDZiRmdhcTN1ZjZn?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-16T10:30:35+00:00",
+    "summary": "Travere’s drug for a kidney disease doesn’t improve kidney function. The FDA approved it anyway statnews.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "c75ecfde3398",
+    "title": "Health tech innovators and industry experts invited to join fast-paced innovation sprint to accelerate solutions - Health Tech World",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxNalphaUhLeWprUklwdlVGeG80WkNrRXBSMTdvc0hhTkxEaE83UXJFWnJpcG44bnhkdFJxeWZmVXE2SXk4enVzOWp0X2Y5b2hCdEJMTi03TFJBcHpwaFpZQktQRW5pbUNqdlNGdU02dFMyQXE1STNjdHgxc1duVHVXcjkxR1VybWdiZ1VWUnktTE45NjNiRXdJUXpkaDlGQ2RwaXp3Y2s4d291dVpvSnVJcnZYUmFrTHY1US1lRFotc3ZQOFBjd2hmcVdka3VZQVIyS0xLcDRkUTJVYUxKeFJrZUk2WmtGUQ?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-16T11:31:36+00:00",
+    "summary": "Health tech innovators and industry experts invited to join fast-paced innovation sprint to accelerate solutions Health Tech World",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "ccd52eb29aa4",
     "title": "JMIR Report: Why Mental Health Tech Needs Systems, Not Just Tools | Newswise - Newswise",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPN1MzRF94emE3U2JwYkIxMzJQaTl0eTllNnBKZm9ackhRbTg2WENaNFBhaWVQSkFXTzRCLTRJZzJKaFJUd2xaaDlKOXJRVnkwa1N0WE0yNlpDeW5xNkRHb0JkSmlPQ3NFT3MzTmNjR3BQdnFJa0Uwb1BRS0VmYTBFNkxyWnE3RUQ5N0JPaF94V3ViNFcta3FMR0hTR1c3QdIBngFBVV95cUxPN1MzRF94emE3U2JwYkIxMzJQaTl0eTllNnBKZm9ackhRbTg2WENaNFBhaWVQSkFXTzRCLTRJZzJKaFJUd2xaaDlKOXJRVnkwa1N0WE0yNlpDeW5xNkRHb0JkSmlPQ3NFT3MzTmNjR3BQdnFJa0Uwb1BRS0VmYTBFNkxyWnE3RUQ5N0JPaF94V3ViNFcta3FMR0hTR1c3QQ?oc=5",
@@ -495,37 +491,6 @@
     "image_url": null,
     "tags": [],
     "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "c46db22c4de4",
-    "title": "Wave Life Sciences seeks Delaware move to cut compliance costs - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY3JGaVgwbUZKTVJ3MktPZ3dIOVpiSXhkN200LWJQZDU0alNJeTZ0VXRhd01qNmY2UWhLNlNKNTg4SzVuaFE5MTZYWGpzazVtbjJwOTU5TmtIdWJhX1k0NWNOWHVZV3lHM3FqSUp5bm43elBncWhsMGMyS2I0cjBtNUF5VElxZXJ2d19MQml2cW1lQnlXNGI1NU45NHpzYUN6Um40cWpNX1dwZ3JYa3ZpdW1VU29GQlZNOFY1TGFn?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-15T20:01:00+00:00",
-    "summary": "Wave Life Sciences seeks Delaware move to cut compliance costs Stock Titan",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "0326c1c522ab",
-    "title": "Australia urged to rethink ROI in digital health push - Outsource Accelerator",
-    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE5aX1FPTHJIWFBqNk1qaTVoZHdfT3pCTTRXMEZoaHZvNU9yeXg0R3Y3aDRRc1pkRVY0Rld3WFYyWWNyRDRtOWdiUEJtd1dfOVU4MGtrZk9oNGtIZw?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-15T23:20:42+00:00",
-    "summary": "Australia urged to rethink ROI in digital health push Outsource Accelerator",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 7
@@ -627,13 +592,28 @@
     "relevance_score": 6
   },
   {
-    "id": "3f4303a3d9bc",
-    "title": "SF health tech companies create air-based pathogen detection system - San Francisco Examiner",
-    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxOMVp0bmp3cWhrLWRkMEVVd3Y1emJDMGhuMmxxQ0gwNDlGRDc1MHR3THRQMmdlUGNzZkhjUFRfeC1kSW10OW56QkptWm9ubXMxTGpKVGhiVENzczMyc0dfOWNiRHlRM3FOY1p3LWVXZFh3M20yTjNSSG1fTHFTRHZ0XzUySnNHanlkVlJWM3dyMHVnd0p0emVSeXlLb3N2ak5MVjVXRk43ajRpUmI1X2p2ZWVKVUZKcWZXOENxWFh6Y3BkYk9CS0RWb2QtMG0ydXcybHUyODY5d1BjNTZZU3YtM0d3Rnl3ZTNs?oc=5",
+    "id": "c46db22c4de4",
+    "title": "Wave Life Sciences seeks Delaware move to cut compliance costs - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPY3JGaVgwbUZKTVJ3MktPZ3dIOVpiSXhkN200LWJQZDU0alNJeTZ0VXRhd01qNmY2UWhLNlNKNTg4SzVuaFE5MTZYWGpzazVtbjJwOTU5TmtIdWJhX1k0NWNOWHVZV3lHM3FqSUp5bm43elBncWhsMGMyS2I0cjBtNUF5VElxZXJ2d19MQml2cW1lQnlXNGI1NU45NHpzYUN6Um40cWpNX1dwZ3JYa3ZpdW1VU29GQlZNOFY1TGFn?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-15T20:01:00+00:00",
+    "summary": "Wave Life Sciences seeks Delaware move to cut compliance costs Stock Titan",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "a5949717bcca",
+    "title": "Delivering on Our CMS Health Tech Pledge Commitment - Oura Ring",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE55NmJQQlprMjg1aEd5eUNUdG1RT0p2c0FOdHFVY1JScjE4cC15c3VsVXZBRG9tdFVmYk1lMG5zU0h5cFpQMlpjTXpKdW9QdEZxRDBTTTd3eDVyRW93d3VhMG0zWjM1aTR2M2RWNUZzM3Y?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-13T11:00:00+00:00",
-    "summary": "SF health tech companies create air-based pathogen detection system San Francisco Examiner",
+    "published": "2026-04-13T20:37:21+00:00",
+    "summary": "Delivering on Our CMS Health Tech Pledge Commitment Oura Ring",
     "image_url": null,
     "tags": [],
     "industries": [
