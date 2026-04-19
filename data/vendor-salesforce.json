@@ -43,7 +43,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 29
+    "relevance_score": 26
   },
   {
     "id": "a91f44dc9120",
@@ -58,34 +58,6 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 11
-  },
-  {
-    "id": "a7456b87180a",
-    "title": "Small Business Week Readiness: 4 Things to Do Before May (2026)",
-    "url": "https://www.salesforce.com/blog/small-business-week-readiness/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-16T13:00:00+00:00",
-    "summary": "Get ready for the biggest week for small business by checking these essential items off your list.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/image_125a31.jpeg",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "8c3a9121b34a",
-    "title": "Introducing the Future of Salesforce Data Protection: Backup & Recover Next",
-    "url": "https://www.salesforce.com/blog/introducing-salesforce-backup-recover-next/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-17T15:28:34+00:00",
-    "summary": "Don’t choose between security and resilience. Learn how to protect your organization from both malicious threats and accidental errors.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/AdobeStock_595119359.jpg",
-    "tags": [],
-    "industries": [],
     "relevance_score": 10
   },
   {
@@ -104,14 +76,29 @@
     "relevance_score": 9
   },
   {
-    "id": "cdf945ca0201",
-    "title": "Data Sharing: Is it Safe? Is it Secure? Everything You Need to Know",
-    "url": "https://www.salesforce.com/blog/data-sharing/",
+    "id": "a7456b87180a",
+    "title": "Small Business Week Readiness: 4 Things to Do Before May (2026)",
+    "url": "https://www.salesforce.com/blog/small-business-week-readiness/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-04-17T13:00:00+00:00",
-    "summary": "Keep your small business information safe with these built-in protection tools and smart strategies.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/image_d2addd.jpeg",
+    "published": "2026-04-16T13:00:00+00:00",
+    "summary": "Get ready for the biggest week for small business by checking these essential items off your list.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/image_125a31.jpeg",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "8c3a9121b34a",
+    "title": "Introducing the Future of Salesforce Data Protection: Backup & Recover Next",
+    "url": "https://www.salesforce.com/blog/introducing-salesforce-backup-recover-next/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-17T15:28:34+00:00",
+    "summary": "Don’t choose between security and resilience. Learn how to protect your organization from both malicious threats and accidental errors.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/AdobeStock_595119359.jpg",
     "tags": [],
     "industries": [],
     "relevance_score": 9
@@ -145,18 +132,16 @@
     "relevance_score": 8
   },
   {
-    "id": "2217018760ec",
-    "title": "Salesforce Agentforce Contact Center Review: Strengths, Gaps and How It Compares to Rivals - CMSWire",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM0lPR1E0MlpEUDVlZ2tJNkx6bTZEQkhRd3JUZkJxV0xUT2VJY3ZmOGxPQkg1X0QyQ2NPelJjSFNBdzRDNUxLNVMzWGEzaHdTM01NT0p2Q3BOTDVLRFVfUEpmMXVodTQ3WjcxenZsZ2pZX05xWGI0dzNleENUUGhvVTB1V1pENDVDMVllY1N6NHhvbEtzTUZlamRvVXlEQUFpOWVSclV1RWkyTUVUUW1wMFVjd1RmOTNkWU1OZDBkYklJUzM2X1dF?oc=5",
-    "source": "Salesforce AI",
+    "id": "cdf945ca0201",
+    "title": "Data Sharing: Is it Safe? Is it Secure? Everything You Need to Know",
+    "url": "https://www.salesforce.com/blog/data-sharing/",
+    "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-04-17T15:39:38+00:00",
-    "summary": "Salesforce Agentforce Contact Center Review: Strengths, Gaps and How It Compares to Rivals CMSWire",
-    "image_url": null,
+    "published": "2026-04-17T13:00:00+00:00",
+    "summary": "Keep your small business information safe with these built-in protection tools and smart strategies.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/image_d2addd.jpeg",
     "tags": [],
-    "industries": [
-      "industrial"
-    ],
+    "industries": [],
     "relevance_score": 8
   },
   {
@@ -220,44 +205,28 @@
     "relevance_score": 7
   },
   {
-    "id": "8b931c0923e4",
-    "title": "AgentExchange: Salesforce’s Bet That Trust Can Scale With Agentic Speed - salesforcedevops.net",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPX2dKUXVuYXd3WWdmLWxNcmJxNS0wTmFJX0JIY0JleVFzTnczNEFDTnExZVdZTGdOOTdtTXFpTjk2Y1RyQUhzeDU1Njd6UlNCR0FYMUdvS19kWmJObmU3TEU2b0R6OVhUYl9WOEVJWjJINTFVeGZYcjlybEVGN3RhWUJCSWlnd0dzdWlOUU13LXdkbnYzeEhrVGZLRFBmZTIyV3o1YWRKSWNkdGJNdFlNYXhMazUzd0ZrckJDbA?oc=5",
+    "id": "2217018760ec",
+    "title": "Salesforce Agentforce Contact Center Review: Strengths, Gaps and How It Compares to Rivals - CMSWire",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPM0lPR1E0MlpEUDVlZ2tJNkx6bTZEQkhRd3JUZkJxV0xUT2VJY3ZmOGxPQkg1X0QyQ2NPelJjSFNBdzRDNUxLNVMzWGEzaHdTM01NT0p2Q3BOTDVLRFVfUEpmMXVodTQ3WjcxenZsZ2pZX05xWGI0dzNleENUUGhvVTB1V1pENDVDMVllY1N6NHhvbEtzTUZlamRvVXlEQUFpOWVSclV1RWkyTUVUUW1wMFVjd1RmOTNkWU1OZDBkYklJUzM2X1dF?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-04-14T21:19:13+00:00",
-    "summary": "AgentExchange: Salesforce’s Bet That Trust Can Scale With Agentic Speed salesforcedevops.net",
+    "published": "2026-04-17T15:39:38+00:00",
+    "summary": "Salesforce Agentforce Contact Center Review: Strengths, Gaps and How It Compares to Rivals CMSWire",
     "image_url": null,
     "tags": [],
     "industries": [
       "industrial"
     ],
-    "relevance_score": 6
-  },
-  {
-    "id": "566495d70f9b",
-    "title": "Salesforce merges AppExchange, Slack Marketplace and AgentExchange - Techzine Global",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOS0lYbUpTSnRlNlBydkdtSHJLaW9ZcDJrcWVtQUt6bi1Qc1MxNFh2NUdnUFNVZTBhQlNCZHFrYnR6emxDY2pUN1FqMUF0R0tNODFWcU51UC1OZ0hPcW9QVlpoX0N1TXV0STZWOGhqZUZ1Vm1yaktYdmtocGxobHB5QXFPWGNtRUlkVTdDaTU1dnpyUVJKVmZlR2h4VXM3YWh6U1dKeUdieFVGUzA0R3dVOC04cWdLZw?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-04-15T16:04:33+00:00",
-    "summary": "Salesforce merges AppExchange, Slack Marketplace and AgentExchange Techzine Global",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 6
+    "relevance_score": 7
   },
   {
     "id": "d90941bbbe4e",
-    "title": "Microsoft patched a Copilot Studio prompt injection. The data exfiltrated anyway - Venturebeat",
+    "title": "Microsoft patched a Copilot Studio prompt injection. The data exfiltrated anyway - VentureBeat",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPWmVGang1VHlDZkFDMHdYdVRFNDJqdDVOZmFxdmVFT3V0Yi1aNkYzYkdTU1JLeHVreEhhaFRTS25FaUt5cmlDUlh1UjZWYXd6S1ZlNGt4SFQ5T3BaSzZEZGdDX0E4Ml9NeDMxbFRwV2RudHM1UFZvQ0VHbFpXLWp0VjZYbzFMS2FLcFBpVW9USlJNb2dEMGhaNUw1U2VReExfUXRJd3F3QjJYbEdNSU9OelYyLS1Eb2tsaWxUSA?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
     "published": "2026-04-15T20:58:42+00:00",
-    "summary": "Microsoft patched a Copilot Studio prompt injection. The data exfiltrated anyway Venturebeat",
+    "summary": "Microsoft patched a Copilot Studio prompt injection. The data exfiltrated anyway VentureBeat",
     "image_url": null,
     "tags": [],
     "industries": [
