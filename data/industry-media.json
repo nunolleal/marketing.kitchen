@@ -133,7 +133,7 @@
     "industries": [
       "media"
     ],
-    "relevance_score": 20
+    "relevance_score": 19
   },
   {
     "id": "ba7ae87daa47",
@@ -155,7 +155,7 @@
       "media",
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
     "id": "38d8ffee022a",
@@ -176,7 +176,29 @@
     "industries": [
       "media"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
+  },
+  {
+    "id": "e83aa9c2c9f0",
+    "title": "There’s New Evidence for How Loneliness Affects Memory in Old Age",
+    "url": "https://www.wired.com/story/theres-new-evidence-for-how-loneliness-affects-memory-in-old-age/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-04-20T09:00:00+00:00",
+    "summary": "A longitudinal study found that loneliness is more closely linked to lapses in immediate and delayed recall than to the overall speed of cognitive decline.",
+    "image_url": "https://media.wired.com/photos/69e26f4466e2b77438cf4564/master/pass/GettyImages-2256650784.jpg",
+    "tags": [
+      "Science",
+      "Science / Health",
+      "Brains and Behavior",
+      "Neuroscience",
+      "mental health"
+    ],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 16
   },
   {
     "id": "77f9c8fce619",
@@ -211,28 +233,6 @@
     "relevance_score": 13
   },
   {
-    "id": "7a38a187eb5b",
-    "title": "Toronto Hotel Unveils Room With Unique View Of Blue Jays Games",
-    "url": "https://www.forbes.com/sites/danschlossberg/2026/04/19/toronto-hotel-unveils-room-with-unique-view-of-blue-jays-games/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-04-19T22:32:22+00:00",
-    "summary": "Ardent baseball fans will find the Rawlings Room at the Toronto Marriott City Centre a memorable experience.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69e5542790eb37a35d3a86ef/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
     "id": "32ca67a23db3",
     "title": "Ticker: Brian Williams Teams With Netflix for New Podcast Series",
     "url": "https://www.adweek.com/tvnewser/ticker-brian-williams-teams-with-netflix-for-new-podcast-series/",
@@ -247,6 +247,28 @@
       "Fox News",
       "MSNBC",
       "NBC"
+    ],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "7a38a187eb5b",
+    "title": "Toronto Hotel Unveils Room With Unique View Of Blue Jays Games",
+    "url": "https://www.forbes.com/sites/danschlossberg/2026/04/19/toronto-hotel-unveils-room-with-unique-view-of-blue-jays-games/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-19T22:32:22+00:00",
+    "summary": "Ardent baseball fans will find the Rawlings Room at the Toronto Marriott City Centre a memorable experience.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69e5542790eb37a35d3a86ef/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
     ],
     "industries": [
       "media",
