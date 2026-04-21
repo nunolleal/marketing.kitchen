@@ -14,7 +14,7 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 61
+    "relevance_score": 58
   },
   {
     "id": "6aeb9c4366d0",
@@ -30,12 +30,29 @@
       "media",
       "consumer"
     ],
-    "relevance_score": 60,
+    "relevance_score": 57,
     "also_covered_by": [
-      "Agentic Marketing",
       "Adobe",
-      "AI Personalization"
+      "Adobe Inc",
+      "Agentic Marketing"
     ]
+  },
+  {
+    "id": "2fea906ad91c",
+    "title": "The Rundown: Q1 dealmaking cools across ad tech and martech as AI remains the hottest ticket",
+    "url": "https://digiday.com/marketing/the-rundown-q1-dealmaking-cools-across-ad-tech-and-martech-as-ai-remains-the-hottest-ticket/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-04-17T04:01:00+00:00",
+    "summary": "LUMA Partners’ Q1 report notes the drag that macroeconomic uncertainty has had on dealmaking.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/11/google-ai-deal-digiday.jpg",
+    "tags": [
+      "Marketing"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 53
   },
   {
     "id": "fa592c17ad3f",
@@ -56,24 +73,7 @@
       "media",
       "industrial"
     ],
-    "relevance_score": 55
-  },
-  {
-    "id": "2fea906ad91c",
-    "title": "The Rundown: Q1 dealmaking cools across ad tech and martech as AI remains the hottest ticket",
-    "url": "https://digiday.com/marketing/the-rundown-q1-dealmaking-cools-across-ad-tech-and-martech-as-ai-remains-the-hottest-ticket/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-04-17T04:01:00+00:00",
-    "summary": "LUMA Partners’ Q1 report notes the drag that macroeconomic uncertainty has had on dealmaking.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/11/google-ai-deal-digiday.jpg",
-    "tags": [
-      "Marketing"
-    ],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 53
+    "relevance_score": 52
   },
   {
     "id": "52a5ce059e14",
@@ -93,7 +93,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 53
+    "relevance_score": 50
   },
   {
     "id": "92c6e6a60122",
@@ -113,7 +113,7 @@
       "media",
       "industrial"
     ],
-    "relevance_score": 52
+    "relevance_score": 49
   },
   {
     "id": "19b358d67576",
@@ -135,7 +135,7 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 52
+    "relevance_score": 49
   },
   {
     "id": "115e5ea12707",
@@ -156,7 +156,7 @@
     "industries": [
       "media"
     ],
-    "relevance_score": 51
+    "relevance_score": 48
   },
   {
     "id": "8fa9f9613a80",
@@ -195,23 +195,6 @@
     "relevance_score": 42
   },
   {
-    "id": "94159f799d02",
-    "title": "Kendra Scott eyes expansion with first business chief",
-    "url": "https://www.retaildive.com/news/kendra-scott-names-gap-veteran-adrienne-gernand-first-chief-business-officer/817924/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-04-20T15:30:00+00:00",
-    "summary": "Adrienne Gernand, a veteran of Gap Inc., will be responsible for expanding the brand’s assortment and global reach.",
-    "image_url": "https://imgproxy.divecdn.com/K53yW1HGWiOrRblFStrFSxaVchl9iD2QS43RU0I4KO0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDMtMTFfMTM1MzM3LnBuZw==.webp",
-    "tags": [],
-    "industries": [
-      "media",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 34
-  },
-  {
     "id": "678251d456d0",
     "title": "Target puts creators at forefront of Pokémon anniversary campaign",
     "url": "https://www.marketingdive.com/news/target-puts-creators-at-forefront-of-pokemon-anniversary-campaign/817648/",
@@ -227,6 +210,23 @@
       "industrial"
     ],
     "relevance_score": 32
+  },
+  {
+    "id": "94159f799d02",
+    "title": "Kendra Scott eyes expansion with first business chief",
+    "url": "https://www.retaildive.com/news/kendra-scott-names-gap-veteran-adrienne-gernand-first-chief-business-officer/817924/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-04-20T15:30:00+00:00",
+    "summary": "Adrienne Gernand, a veteran of Gap Inc., will be responsible for expanding the brand’s assortment and global reach.",
+    "image_url": "https://imgproxy.divecdn.com/K53yW1HGWiOrRblFStrFSxaVchl9iD2QS43RU0I4KO0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDMtMTFfMTM1MzM3LnBuZw==.webp",
+    "tags": [],
+    "industries": [
+      "media",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 31
   },
   {
     "id": "d2dfbed3df86",
@@ -278,22 +278,6 @@
       "media",
       "industrial"
     ],
-    "relevance_score": 18
-  },
-  {
-    "id": "3fa18dcffe23",
-    "title": "Viant acquires TVision to realize CTV advertising trifecta",
-    "url": "https://www.marketingdive.com/news/viant-acquires-tvision-to-realize-ctv-advertising-trifecta/817937/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-04-20T14:43:00+00:00",
-    "summary": "The $40 million deal builds on the platform’s previous acquisition of IRIS.TV to provide clients with identity, context and verified attention.",
-    "image_url": "https://imgproxy.divecdn.com/foFsXPgYtTWgQGtFwPV3aHWuk7UkWjf1ARytlayc4IY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDc2NzQ5MTM3LmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "media",
-      "tech"
-    ],
     "relevance_score": 17
   },
   {
@@ -311,6 +295,22 @@
     ],
     "industries": [
       "media"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "3fa18dcffe23",
+    "title": "Viant acquires TVision to realize CTV advertising trifecta",
+    "url": "https://www.marketingdive.com/news/viant-acquires-tvision-to-realize-ctv-advertising-trifecta/817937/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-04-20T14:43:00+00:00",
+    "summary": "The $40 million deal builds on the platform’s previous acquisition of IRIS.TV to provide clients with identity, context and verified attention.",
+    "image_url": "https://imgproxy.divecdn.com/foFsXPgYtTWgQGtFwPV3aHWuk7UkWjf1ARytlayc4IY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDc2NzQ5MTM3LmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "media",
+      "tech"
     ],
     "relevance_score": 16
   },
@@ -354,7 +354,7 @@
       "media",
       "tech"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "77f9c8fce619",
@@ -416,28 +416,6 @@
     "relevance_score": 14
   },
   {
-    "id": "e83aa9c2c9f0",
-    "title": "There’s New Evidence for How Loneliness Affects Memory in Old Age",
-    "url": "https://www.wired.com/story/theres-new-evidence-for-how-loneliness-affects-memory-in-old-age/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-04-20T09:00:00+00:00",
-    "summary": "A longitudinal study found that loneliness is more closely linked to lapses in immediate and delayed recall than to the overall speed of cognitive decline.",
-    "image_url": "https://media.wired.com/photos/69e26f4466e2b77438cf4564/master/pass/GettyImages-2256650784.jpg",
-    "tags": [
-      "Science",
-      "Science / Health",
-      "Brains and Behavior",
-      "Neuroscience",
-      "mental health"
-    ],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
     "id": "d3cedc213827",
     "title": "War Memes Are Turning Conflict Into Content",
     "url": "https://www.wired.com/story/war-memes-turn-conflict-into-content/",
@@ -459,48 +437,26 @@
     "relevance_score": 13
   },
   {
-    "id": "371a7e166cbb",
-    "title": "Silicon Valley has forgotten what normal people want",
-    "url": "https://www.theverge.com/tldr/915176/nft-metaverse-ai-weirdos",
-    "source": "The Verge",
+    "id": "e83aa9c2c9f0",
+    "title": "There’s New Evidence for How Loneliness Affects Memory in Old Age",
+    "url": "https://www.wired.com/story/theres-new-evidence-for-how-loneliness-affects-memory-in-old-age/",
+    "source": "Wired",
     "source_category": "ai",
-    "published": "2026-04-20T20:30:00+00:00",
-    "summary": "One of the most mortifying things about knowing a lot of techies is listening to them tell me excitedly about some very important discovery that they believe they have made. Recently, I ran into an acquaintance of mine, who began talking my ear off about an amazing discovery...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/268457_HUBRIS_CVIRGINIA.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "published": "2026-04-20T09:00:00+00:00",
+    "summary": "A longitudinal study found that loneliness is more closely linked to lapses in immediate and delayed recall than to the overall speed of cognitive decline.",
+    "image_url": "https://media.wired.com/photos/69e26f4466e2b77438cf4564/master/pass/GettyImages-2256650784.jpg",
     "tags": [
-      "AI",
-      "Analysis",
-      "Business",
-      "Crypto",
-      "Meta"
-    ],
-    "industries": [
-      "media",
-      "tech"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "840019dbdb54",
-    "title": "How An NBA-Style Lottery Would Change The NFL Draft",
-    "url": "https://www.forbes.com/sites/giovannimalloy/2026/04/20/how-an-nba-style-lottery-would-change-the-nfl-draft/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-04-20T21:04:50+00:00",
-    "summary": "A deep-dive analysis into the economics of tanking and how an NBA-style draft lottery would reshape expected value for teams looking to make a splash in the NFL Draft.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69e5cc56b728cc8308b4d37c/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
+      "Science",
+      "Science / Health",
+      "Brains and Behavior",
+      "Neuroscience",
+      "mental health"
     ],
     "industries": [
       "media",
       "industrial"
     ],
-    "relevance_score": 13
+    "relevance_score": 11
   },
   {
     "id": "87814fdbb1a9",
