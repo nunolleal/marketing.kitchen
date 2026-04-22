@@ -16,7 +16,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 64
+    "relevance_score": 61
   },
   {
     "id": "d123c00505d0",
@@ -36,7 +36,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 60
+    "relevance_score": 57
   },
   {
     "id": "99283ddd9b80",
@@ -52,11 +52,11 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 60,
+    "relevance_score": 57,
     "also_covered_by": [
       "AI Personalization",
       "Adobe Marketing Cloud",
-      "Forbes Business"
+      "TechCrunch AI"
     ]
   },
   {
@@ -77,43 +77,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 58
-  },
-  {
-    "id": "cd72c73fb383",
-    "title": "Typeface Brings Agentic Marketing Orchestration to Google Cloud - ACCESS Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPQmpaaUFVYTVTbWtxanFEaVVFWWp3cDRaLUR3ODlBWjJDclBuam9OOV9tRzRCaUotb3N0T0laZ2VfQ1FVMjN4aXNIOG1BOWFrRWEzcTREQTVmejNveXd3NF9Ka1lvNkp1WjBFdmFCcmxMR0R6enhoV3dOTENQWURlcUd4Mm14Vjd4MGxpTmF4bnozdDBfMXB0ZXpRcVIzWjNMTlVfdnM3djZ4el9lNTdDLTVpMzFJNldaZFd4aEJEUUVJZ0loaXFmZkM2T3NTbGxqaXJhWXpCMUVfX2xEZG1aTDZB?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-04-22T13:08:38+00:00",
-    "summary": "Typeface Brings Agentic Marketing Orchestration to Google Cloud ACCESS Newswire",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 54
-  },
-  {
-    "id": "33d85c207de9",
-    "title": "A whole new way to think about TV advertising",
-    "url": "https://martech.org/a-whole-new-way-to-think-about-tv-advertising/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-04-22T13:29:15+00:00",
-    "summary": "TV advertising has ruled the media roost for 75 years. Now, advances in targeting and product placement are re-writing the playbook. The post A whole new way to think about TV advertising appeared first on MarTech .",
-    "image_url": "https://www.youtube.com/embed/0IVtBiWK0cE",
-    "tags": [
-      "Conversations with MarTech"
-    ],
-    "industries": [
-      "media",
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 52
+    "relevance_score": 55
   },
   {
     "id": "8adcac6b7d55",
@@ -172,25 +136,6 @@
     "relevance_score": 50
   },
   {
-    "id": "c50e3c32bd9b",
-    "title": "AI + human ingenuity: Where creative and technical teams meet",
-    "url": "https://martech.org/ai-human-ingenuity-where-creative-and-technical-teams-meet/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-04-22T12:27:00+00:00",
-    "summary": "Integrating AI shouldn't mean breaking what works. On May 6, discover practical ways to sync your creative and tech teams while protecting your brand voice. The post AI + human ingenuity: Where creative and technical teams meet appeared first on MarTech .",
-    "image_url": "https://www.youtube.com/embed/yR-uHlPi-o4",
-    "tags": [
-      "MarTech Conference"
-    ],
-    "industries": [
-      "tech",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 50
-  },
-  {
     "id": "ba5a2e7ad7b7",
     "title": "5 B2B marketing tactics beyond lead generation",
     "url": "https://martech.org/5-b2b-marketing-tactics-beyond-lead-generation/",
@@ -205,6 +150,43 @@
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 49
+  },
+  {
+    "id": "33d85c207de9",
+    "title": "A whole new way to think about TV advertising",
+    "url": "https://martech.org/a-whole-new-way-to-think-about-tv-advertising/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-04-22T13:29:15+00:00",
+    "summary": "TV advertising has ruled the media roost for 75 years. Now, advances in targeting and product placement are re-writing the playbook. The post A whole new way to think about TV advertising appeared first on MarTech .",
+    "image_url": "https://www.youtube.com/embed/0IVtBiWK0cE",
+    "tags": [
+      "Conversations with MarTech"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 49
+  },
+  {
+    "id": "8dfb44a775ed",
+    "title": "OpenAI launches Privacy Filter, an open source, on-device data sanitization model that removes personal information from enterprise datasets",
+    "url": "https://venturebeat.com/data/openai-launches-privacy-filter-an-open-source-on-device-data-sanitization-model-that-removes-personal-information-from-enterprise-datasets",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-04-22T18:01:00+00:00",
+    "summary": "In a significant shift toward local-first privacy infrastructure, OpenAI has released Privacy Filter , a specialized open-source model designed to detect and redact personally identifiable information (PII) before it ever reaches a cloud-based server. Launched today on AI...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6XCBm5srH1Bxz7O3CpDLSp/a22758d387829873af7990a15e208306/ChatGPT_Image_Apr_22__2026__01_50_30_PM.png?w=300&q=30",
+    "tags": [
+      "Data"
+    ],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 49
   },
@@ -225,6 +207,25 @@
       "tech"
     ],
     "relevance_score": 48
+  },
+  {
+    "id": "c50e3c32bd9b",
+    "title": "AI + human ingenuity: Where creative and technical teams meet",
+    "url": "https://martech.org/ai-human-ingenuity-where-creative-and-technical-teams-meet/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-04-22T12:27:00+00:00",
+    "summary": "Integrating AI shouldn't mean breaking what works. On May 6, discover practical ways to sync your creative and tech teams while protecting your brand voice. The post AI + human ingenuity: Where creative and technical teams meet appeared first on MarTech .",
+    "image_url": "https://www.youtube.com/embed/yR-uHlPi-o4",
+    "tags": [
+      "MarTech Conference"
+    ],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 47
   },
   {
     "id": "52a5ce059e14",
@@ -269,6 +270,41 @@
     "relevance_score": 46
   },
   {
+    "id": "7ac59bdeaa51",
+    "title": "OpenAI turns on cost-per-click ads inside ChatGPT",
+    "url": "https://digiday.com/marketing/openai-turns-on-cost-per-click-ads-inside-chatgpt/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-04-21T14:22:35+00:00",
+    "summary": "The move come as the platform looks to hire its first Advertising Marketing Science Lead.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/04/openai-cpc-digiday.jpg",
+    "tags": [
+      "Marketing",
+      "wpopenai"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 42
+  },
+  {
+    "id": "70d6abfa49e3",
+    "title": "Men’s Wearhouse owner aims to rejoin the stock market",
+    "url": "https://www.retaildive.com/news/mens-wearhouse-owner-tailored-brands-go-public-ipo/818170/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-04-22T15:18:00+00:00",
+    "summary": "Tailored Brands struggled even after its 2020 bankruptcy as the menswear specialist grappled with the pandemic and changing consumer habits.",
+    "image_url": "https://imgproxy.divecdn.com/jcSXAkY-ltN3C6Ih0U1v6xcLRpo53OsE27bLy3_31f0/g:nowe:0:746/c:4032:2277/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDg4Ni5qcGVn.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer",
+      "financial"
+    ],
+    "relevance_score": 42
+  },
+  {
     "id": "4900a3855b50",
     "title": "Sam Altman throws shade at Anthropic’s cyber model, Mythos: ‘fear-based marketing’",
     "url": "https://techcrunch.com/2026/04/21/sam-altman-throws-shade-at-anthropics-cyber-model-mythos-fear-based-marketing/",
@@ -287,24 +323,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 45
-  },
-  {
-    "id": "70d6abfa49e3",
-    "title": "Men’s Wearhouse owner aims to rejoin the stock market",
-    "url": "https://www.retaildive.com/news/mens-wearhouse-owner-tailored-brands-go-public-ipo/818170/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-04-22T15:18:00+00:00",
-    "summary": "Tailored Brands struggled even after its 2020 bankruptcy as the menswear specialist grappled with the pandemic and changing consumer habits.",
-    "image_url": "https://imgproxy.divecdn.com/jcSXAkY-ltN3C6Ih0U1v6xcLRpo53OsE27bLy3_31f0/g:nowe:0:746/c:4032:2277/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDg4Ni5qcGVn.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "consumer",
-      "financial"
-    ],
-    "relevance_score": 45
+    "relevance_score": 41
   },
   {
     "id": "6bc1c4032bbd",
@@ -323,23 +342,6 @@
       "consumer"
     ],
     "relevance_score": 40
-  },
-  {
-    "id": "7ac59bdeaa51",
-    "title": "OpenAI turns on cost-per-click ads inside ChatGPT",
-    "url": "https://digiday.com/marketing/openai-turns-on-cost-per-click-ads-inside-chatgpt/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-04-21T14:22:35+00:00",
-    "summary": "The move come as the platform looks to hire its first Advertising Marketing Science Lead.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/04/openai-cpc-digiday.jpg",
-    "tags": [
-      "Marketing"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 39
   },
   {
     "id": "a465301271c6",
@@ -431,7 +433,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 22
+    "relevance_score": 21
   },
   {
     "id": "eb1e276708b8",
@@ -451,50 +453,6 @@
     "relevance_score": 20
   },
   {
-    "id": "62e7f7de0f8f",
-    "title": "Watch DAWG: Where Pentagon’s $55 Billion Drone Gamble Could Go Wrong",
-    "url": "https://www.forbes.com/sites/davidhambling/2026/04/22/watch-dawg-where-pentagons-55-billion-drone-gamble-could-go-wrong/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-04-22T15:26:44+00:00",
-    "summary": "The Pentagon plans a massive investment in drone technology. But anyone expecting vast numbers of low-cost but capable drones may be sorely disappointed.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69e8e591777ab398d6a8d79a/0x0.jpg",
-    "tags": [
-      "Aerospace & Defense",
-      "/aerospace-defense",
-      "Business",
-      "/business",
-      "Aerospace & Defense"
-    ],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 19
-  },
-  {
-    "id": "513880293e34",
-    "title": "BMW’s flagship 7 Series gets its ‘Neue Klasse’ upgrade",
-    "url": "https://www.theverge.com/transportation/915630/bmw-7-series-neue-klasse-range-price-specs",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-04-22T13:00:00+00:00",
-    "summary": "Ever since BMW first announced its \"Neue Klasse\" next-generation electric vehicle architecture and design language way back in 2021, the question on many fans' minds was when the new technology would reach the automaker's flagship 7 Series. Well, that moment has finally...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/01_0033.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "BMW",
-      "Cars",
-      "Electric Cars",
-      "News",
-      "Transportation"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 18
-  },
-  {
     "id": "569251d09708",
     "title": "Amazon One Medical launches weight management program including GLP-1 drugs",
     "url": "https://www.healthcaredive.com/news/amazon-one-medical-glp-1-management-program/818184/",
@@ -510,73 +468,11 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 18
-  },
-  {
-    "id": "eb556b717fc0",
-    "title": "Will a new CEO realize Apple’s smart home potential?",
-    "url": "https://www.theverge.com/tech/916698/apple-home-ternus-hardware-homepad-rumors",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-04-22T15:31:34+00:00",
-    "summary": "It took Tim Cook years to launch Apple into major new hardware categories, such as the smartwatch. But John Ternus could start his tenure right away with an ambitious new project: smart home hardware. All signs point to a strong lineup of new smart home devices coming...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB377_APPLE_HOME_APP_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Analysis",
-      "Apple",
-      "Report",
-      "Smart Home",
-      "Tech"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 18
-  },
-  {
-    "id": "dd41a93c017e",
-    "title": "A Sudden Changing Of The Guard, At Apple, Adobe, Netflix And Disney",
-    "url": "https://www.forbes.com/sites/dbloom/2026/04/22/a-sudden-changing-of-the-guard-at-apple-adobe-netflix-and-disney/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-04-22T15:56:19+00:00",
-    "summary": "CEOs at four top tech and entertainment companies are departing seemingly at once, as AI reshapes the business landscape in fundamental ways.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69e7c8f1e995ccd70d6f5b01/0x0.jpg",
-    "tags": [
-      "Media",
-      "/media",
-      "Business",
-      "/business",
-      "Media"
-    ],
-    "industries": [
-      "media",
-      "tech"
-    ],
-    "relevance_score": 18
-  },
-  {
-    "id": "b86e5fde7054",
-    "title": "Microsoft says the ‘idea’ of an Xbox mobile store ‘is not dead’",
-    "url": "https://www.theverge.com/news/916601/microsoft-xbox-mobile-store-comment",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-04-22T16:28:20+00:00",
-    "summary": "Microsoft first revealed it was building an Xbox mobile gaming store to take on Apple and Google all the way back in 2022. Former Xbox president Sarah Bond even went on stage at a Bloomberg event nearly two years ago and promised the store would launch in July, 2024. Now, it...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/xboxmobile.jpg?quality=90&amp;strip=all&amp;crop=0,3.4801106327551,100,93.03977873449",
-    "tags": [
-      "Gaming",
-      "Microsoft",
-      "News",
-      "Tech",
-      "Xbox"
-    ],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 18
+    "relevance_score": 17,
+    "also_covered_by": [
+      "Fierce Healthcare",
+      "Health Tech"
+    ]
   },
   {
     "id": "b369a325c8f5",
@@ -598,7 +494,7 @@
       "telecom",
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
     "id": "7267e9f30513",
@@ -608,7 +504,7 @@
     "source_category": "ai",
     "published": "2026-04-22T16:41:06+00:00",
     "summary": "Microsoft has started teasing a new Discord and Xbox Game Pass partnership, just a day after lowering prices of its Game Pass Ultimate and PC Game Pass subscriptions. Microsoft Gaming CEO Asha Sharma says the company is partnering with Discord again \"as we continue to make...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24763499/xboxlogo.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/discordxboxgamepass.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
     "tags": [
       "Gaming",
       "Microsoft",
@@ -619,7 +515,28 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
+  },
+  {
+    "id": "314b2b60d46e",
+    "title": "Two Of The Beatles Are Releasing Their First Duet Since 1970",
+    "url": "https://www.forbes.com/sites/hannahabraham/2026/04/22/two-of-the-beatles-are-releasing-their-first-duet-since-1970/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-22T18:52:55+00:00",
+    "summary": "Since The Beatles dissolved, Paul McCartney and Ringo Starr have appeared on each other's songs and kept a lasting friendship but never once recorded a proper duet. Until now.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69e917db55f93ff99c89d581/0x0.jpg?width=960",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 17
   },
   {
     "id": "2599b0f6e413",
@@ -637,7 +554,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "3a3c99ccab86",
@@ -658,16 +575,16 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "ca83ae742bbe",
-    "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multi-billion-dollar deal",
+    "title": "Exclusive: Google deepens Thinking Machines Lab ties with new multibillion-dollar deal",
     "url": "https://techcrunch.com/2026/04/22/exclusive-google-deepens-thinking-machines-lab-ties-with-new-multi-billion-dollar-deal/",
     "source": "TechCrunch AI",
     "source_category": "ai",
     "published": "2026-04-22T12:00:00+00:00",
-    "summary": "Mira Murati's Thinking Machines Lab has signed a multi-billion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
+    "summary": "Mira Murati's Thinking Machines Lab has signed a multibillion-dollar deal with Google Cloud for AI infrastructure powered by Nvidia's latest GB300 chips, TechCrunch has exclusively learned.",
     "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
     "tags": [
       "AI",
@@ -679,227 +596,44 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
-    "id": "dc027f2eb8e8",
-    "title": "Now Meta will track what employees do on their computers to train its AI agents",
-    "url": "https://www.theverge.com/tech/916681/meta-ai-agents-employee-tracking",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-04-22T14:22:35+00:00",
-    "summary": "Meta employees' activity at work is now being used to train the company's AI agents. As reported by Reuters, Meta is installing a tool it calls Model Capability Initiative (MCI) on US-based employees' computers that runs in work-related apps and websites, recording mouse...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/STK043_VRG_Illo_N_Barclay_1_Meta-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "AI",
-      "Meta",
-      "News",
-      "Tech"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 17,
-    "also_covered_by": [
-      "TechCrunch AI"
-    ]
-  },
-  {
-    "id": "8faa8e8a501d",
-    "title": "Sony’s PlayStation 5 is $200 off for the first time since December",
-    "url": "https://www.theverge.com/gadgets/916610/ps5-digital-4k-bluray-fitbit-google-pixel-watch-deal-sale",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-04-22T14:38:51+00:00",
-    "summary": "When the price increases for PlayStation 5 consoles went into effect on April 2nd, we weren’t sure when the next time a good discount would happen. Surely, not for at least a couple months, right? Well, now just a few weeks later, Sony’s direct-to-consumer site is offering...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/vergedealsgrifstudio.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 17
-  },
-  {
-    "id": "b5e9cc2fb13b",
-    "title": "Anthropic takes $5B from Amazon and pledges $100B in cloud spending in return",
-    "url": "https://techcrunch.com/2026/04/20/anthropic-takes-5b-from-amazon-and-pledges-100b-in-cloud-spending-in-return/",
+    "id": "6b812ac4f593",
+    "title": "Google turns Chrome into an AI co-worker for the workplace",
+    "url": "https://techcrunch.com/2026/04/22/google-turns-chrome-into-an-ai-coworker-for-the-workplace/",
     "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-04-20T23:10:27+00:00",
-    "summary": "Amazon has made another circular AI deal: It's investing another $5 billion in Anthropic. Anthropic has agreed to spend $100 billion on AWS in return.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/GettyImages-1445867611.jpg?w=1024",
-    "tags": [
-      "AI",
-      "Amazon",
-      "Anthropic",
-      "AWS",
-      "data center"
-    ],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "430f2d909c20",
-    "title": "Tim Cook Grew Apple by Reducing Its Ambition",
-    "url": "https://www.adweek.com/brand-marketing/tim-cook-grew-apple-by-reducing-its-ambition/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-04-21T14:35:34+00:00",
-    "summary": "There is more to Apple than just being profitable, and you can argue the trajectory that Steve Jobs created accounts for a lot of Tim Cook's “success.”",
-    "image_url": null,
-    "tags": [
-      "Branding",
-      "Brands",
-      "Legacy Brands",
-      "minimba",
-      "Voice"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "eb1bd70a39c0",
-    "title": "The Best Apps to Help You Cancel Subscriptions (2026): Trim, Bobby, TrackMySubs, Hiatus",
-    "url": "https://www.wired.com/story/apps-cancel-subscriptions-save-money/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-04-22T11:00:00+00:00",
-    "summary": "You may have several recurring subscriptions you've forgotten about. These apps help you keep track of them—and cancel the ones you don't need.",
-    "image_url": "https://media.wired.com/photos/5ff8e294656c0d4b056b3cd7/master/pass/Gear-Save-Money-1270998711.jpg",
-    "tags": [
-      "Gear",
-      "Gear / How To and Advice",
-      "money",
-      "how-to",
-      "Apps"
-    ],
-    "industries": [
-      "media",
-      "tech"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "d54f22d5700b",
-    "title": "Best Chromebooks (2026): Most Are Bad, but These Aren't",
-    "url": "https://www.wired.com/story/best-chromebooks/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-04-22T11:30:00+00:00",
-    "summary": "Chromebooks have a reputation for being cheap and crappy. But they don't have to be, and these are the Chromebooks that prove it.",
-    "image_url": "https://media.wired.com/photos/69e7df555301878a0065581e/master/pass/The-Best-Chromebooks.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Products",
-      "Gear / Products / Computers",
-      "Gear / Reviews",
-      "Chromebooks"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "ded348100cff",
-    "title": "The most interesting startups showcased at Google Cloud Next 2026",
-    "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-22T12:00:00+00:00",
-    "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2023/08/Google-Cloud-Next-_23_Thomas-Kurian_1.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Startups",
-      "Exclusive",
-      "Google",
-      "google cloud"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "3108f8f58a17",
-    "title": "Beyond 100K Tokens: Evaluating AI Agents in Long-Context Software Engineering",
-    "url": "https://www.salesforce.com/blog/locobench-agent/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-22T12:00:00+00:00",
-    "summary": "As codebases grow to millions of lines of code, can AI agents still understand, reason, and code effectively? LoCoBench-Agent delivers the answer: a comprehensive benchmark for evaluating AI coding assistants across contexts ranging…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/long-context_light.png",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "87c4b1feafb0",
-    "title": "Call of Duty never made much sense for Xbox Game Pass",
-    "url": "https://www.theverge.com/games/916627/call-of-duty-xbox-game-pass",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-04-22T13:45:00+00:00",
-    "summary": "Yesterday Microsoft announced some surprising news: at a time when everything in gaming is getting more expensive, Xbox Game Pass Ultimate was actually getting a price cut. Going forward, the subscription service will drop from $29.99 to $22.99 per month, less than a year...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/ss_7bce43350428d4b8859481263113e30d169451d9.1920x1080.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
-    "tags": [
-      "Analysis",
-      "Entertainment",
-      "Gaming",
-      "Microsoft",
-      "Report"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "defc34270c31",
-    "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
-    "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-22T14:22:10+00:00",
-    "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800",
+    "published": "2026-04-22T17:30:00+00:00",
+    "summary": "Google brings Gemini-powered \"auto browse\" capabilities to Chrome for enterprise users, letting workers automate tasks like research, data entry, and more.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/google-chrome-GettyImages-2151457378.jpg?w=1024",
     "tags": [
       "AI",
       "Enterprise",
-      "infosys",
-      "OpenAI"
+      "Chrome",
+      "Google",
+      "gemini"
     ],
     "industries": [
-      "tech"
+      "tech",
+      "industrial"
     ],
     "relevance_score": 16
   },
   {
-    "id": "5441c408517d",
-    "title": "Rogers slashes capital spending as it blames regulations, reports Q1 profit up - BNN Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdzdiSW51bFhpUWxiSzFYYTJuN1JRSENfaUlsMTVVWVpHejFTZ1BOVVN0Znd2a1N6TUFZbzBRQnUxaENCRTRLYlA3eVkxN2FNemtwN1B4bFZmMl9KY2QzQkJWY3JJNWVhTnhBMTY5cEFTZ1k1NTlJZEQwWFFYVTFWSUwyeFlWcTRJdG1fa2JaQ2FIYTlQd3dSeVA0VmNzdkpCRUJNOVNNRHBITE11LWxTYlNSWlFvdFZXOGsxSzVjX3dhNzYweWVRNWdkeHFLZWhSOC10STF2T3I?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-04-22T16:19:24+00:00",
-    "summary": "Rogers slashes capital spending as it blames regulations, reports Q1 profit up BNN Bloomberg",
-    "image_url": null,
-    "tags": [],
+    "id": "048974ccb8fc",
+    "title": "OpenAI now lets teams make custom bots that can do work on their own",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/917065/openai-chatgpt-workspace-agents-custom-teams-bots",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-04-22T20:09:02+00:00",
+    "summary": "OpenAI is giving users of its Business, Enterprise, Edu, and Teachers plans access to cloud-based \"workspace\" agents available in ChatGPT that can perform business tasks. In its blog post, OpenAI gives examples of agents like one that finds product feedback on the web and...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/08/STK155_OPEN_AI_4_CVirginia_B.png?quality=90&amp;strip=all&amp;crop=0%2C10.742221417566%2C100%2C78.515557164868&amp;w=1200",
+    "tags": [
+      "AI",
+      "News",
+      "OpenAI"
+    ],
     "industries": [
       "tech",
       "industrial"
@@ -927,6 +661,219 @@
     "relevance_score": 15
   },
   {
+    "id": "eb1bd70a39c0",
+    "title": "The Best Apps to Help You Cancel Subscriptions (2026): Trim, Bobby, TrackMySubs, Hiatus",
+    "url": "https://www.wired.com/story/apps-cancel-subscriptions-save-money/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-04-22T11:00:00+00:00",
+    "summary": "You may have several recurring subscriptions you've forgotten about. These apps help you keep track of them—and cancel the ones you don't need.",
+    "image_url": "https://media.wired.com/photos/5ff8e294656c0d4b056b3cd7/master/pass/Gear-Save-Money-1270998711.jpg",
+    "tags": [
+      "Gear",
+      "Gear / How To and Advice",
+      "money",
+      "how-to",
+      "Apps"
+    ],
+    "industries": [
+      "media",
+      "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "d54f22d5700b",
+    "title": "Best Chromebooks (2026): Most Are Bad, but These Aren't",
+    "url": "https://www.wired.com/story/best-chromebooks/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-04-22T11:30:00+00:00",
+    "summary": "Chromebooks have a reputation for being cheap and crappy. But they don't have to be, and these are the Chromebooks that prove it.",
+    "image_url": "https://media.wired.com/photos/69e7df555301878a0065581e/master/pass/The-Best-Chromebooks.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Products",
+      "Gear / Products / Computers",
+      "Gear / Reviews",
+      "Chromebooks"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "ded348100cff",
+    "title": "The most interesting startups showcased at Google Cloud Next 2026",
+    "url": "https://techcrunch.com/2026/04/22/the-most-interesting-startups-showcased-at-google-cloud-next-2026/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-22T12:00:00+00:00",
+    "summary": "Google wants AI startups on its cloud and has showcased a long list of them at its annual conference.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2023/08/Google-Cloud-Next-_23_Thomas-Kurian_1.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Startups",
+      "Exclusive",
+      "Google",
+      "google cloud"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "3108f8f58a17",
+    "title": "Beyond 100K Tokens: Evaluating AI Agents in Long-Context Software Engineering",
+    "url": "https://www.salesforce.com/blog/locobench-agent/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-22T12:00:00+00:00",
+    "summary": "As codebases grow to millions of lines of code, can AI agents still understand, reason, and code effectively? LoCoBench-Agent delivers the answer: a comprehensive benchmark for evaluating AI coding assistants across contexts ranging…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/long-context_light.png",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "defc34270c31",
+    "title": "OpenAI teams up with Infosys to bring AI tools to more businesses",
+    "url": "https://techcrunch.com/2026/04/22/openai-teams-up-with-infosys-to-bring-ai-tools-to-more-businesses/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-22T14:22:10+00:00",
+    "summary": "Infosys said the integration will be used to help its clients modernize software development, automate workflows, and deploy AI systems, initially focusing software engineering, legacy modernization, and DevOps.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/GettyImages-2021258442.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "infosys",
+      "OpenAI"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "df2c80389745",
+    "title": "Verizon to Report Q1 Earnings: How to Approach the Stock Now? - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQWlNoSzJ5aEw3azVWdUpfT1ZxN2cxV0VmcFVpSU9TdVh5dWNnOUxWTHM1UGVMSUFBdm0xMTFpYWNDODlhTll4SG1PaGtaTlZ0TFRnOElreGY3QmJQMjNwekwzelUxSUlEbExRXzlDanNrVkhxRGVreklVT0JxeWoxUUZIX096aXlsNk5aVnBxT3pXUE55b3cwTDhralNoN25Ha3RUMUNQMldabjNjd3NUTWRxWHBKQQ?oc=5",
+    "source": "Telecom",
+    "source_category": "industry_telecom",
+    "published": "2026-04-22T15:54:00+00:00",
+    "summary": "Verizon to Report Q1 Earnings: How to Approach the Stock Now? TradingView",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "5441c408517d",
+    "title": "Rogers slashes capital spending as it blames regulations, reports Q1 profit up - BNN Bloomberg",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPdzdiSW51bFhpUWxiSzFYYTJuN1JRSENfaUlsMTVVWVpHejFTZ1BOVVN0Znd2a1N6TUFZbzBRQnUxaENCRTRLYlA3eVkxN2FNemtwN1B4bFZmMl9KY2QzQkJWY3JJNWVhTnhBMTY5cEFTZ1k1NTlJZEQwWFFYVTFWSUwyeFlWcTRJdG1fa2JaQ2FIYTlQd3dSeVA0VmNzdkpCRUJNOVNNRHBITE11LWxTYlNSWlFvdFZXOGsxSzVjX3dhNzYweWVRNWdkeHFLZWhSOC10STF2T3I?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-04-22T16:19:24+00:00",
+    "summary": "Rogers slashes capital spending as it blames regulations, reports Q1 profit up BNN Bloomberg",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "a6caf900e365",
+    "title": "Google makes an interesting choice with its new agent-building tool for enterprises",
+    "url": "https://techcrunch.com/2026/04/22/google-makes-an-interesting-choice-with-its-new-agent-building-tool-for-enterprises/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-22T16:58:27+00:00",
+    "summary": "Gemini Enterprise Agent Platform takes an interesting approach: It is geared for IT and technical users.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2266466589.jpg?w=1024",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "TC",
+      "AI agents",
+      "Google"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "08cadf678e6e",
+    "title": "Alexis Ohanian shocks Washington with pro-immigration remarks",
+    "url": "https://www.theverge.com/column/916949/alexis-ohanian-pro-immigration-remarks",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-04-22T20:04:45+00:00",
+    "summary": "Hello and welcome to Regulator, a newsletter for Verge readers about tech politics, political tech, and how they're muddying the waters of Washington, DC. My birthday is this week, and if you're not a Verge subscriber but would like to wish me a happy birthday, you should...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2268210802.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.9956749374%2C100%2C74.008650125199&amp;w=1200",
+    "tags": [
+      "Column",
+      "Policy",
+      "Politics",
+      "Regulator"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "3fa18dcffe23",
+    "title": "Viant acquires TVision to realize CTV advertising trifecta",
+    "url": "https://www.marketingdive.com/news/viant-acquires-tvision-to-realize-ctv-advertising-trifecta/817937/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-04-20T14:43:00+00:00",
+    "summary": "The $40 million deal builds on the platform’s previous acquisition of IRIS.TV to provide clients with identity, context and verified attention.",
+    "image_url": "https://imgproxy.divecdn.com/foFsXPgYtTWgQGtFwPV3aHWuk7UkWjf1ARytlayc4IY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDc2NzQ5MTM3LmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "media",
+      "tech"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "eeca7c631fb0",
+    "title": "Google Maps is about to get a big dose of AI",
+    "url": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-22T12:00:00+00:00",
+    "summary": "The new features, announced at Cloud Next in Las Vegas this week, add generative AI capabilities to Google's mapping platform, giving it enhanced visual and data analytics powers.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-21-at-5.26.25-PM.png?resize=1200,670",
+    "tags": [
+      "AI",
+      "Generative AI",
+      "Google",
+      "Google Maps",
+      "Street View"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
     "id": "fee55edd87e4",
     "title": "Google’s Gemini can now run on a single air-gapped server — and vanish when you pull the plug",
     "url": "https://venturebeat.com/technology/googles-gemini-can-now-run-on-a-single-air-gapped-server-and-vanish-when-you-pull-the-plug",
@@ -943,7 +890,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "1d9a124552b7",
@@ -961,7 +908,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "214aef074415",
@@ -983,7 +930,7 @@
       "tech",
       "lifesciences"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "417c6c5be16a",
@@ -999,7 +946,7 @@
       "tech",
       "telecom"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "5e9094f5c88e",
@@ -1021,7 +968,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "ef94daf33f8b",
@@ -1038,56 +985,66 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 15
-  },
-  {
-    "id": "3fa18dcffe23",
-    "title": "Viant acquires TVision to realize CTV advertising trifecta",
-    "url": "https://www.marketingdive.com/news/viant-acquires-tvision-to-realize-ctv-advertising-trifecta/817937/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-04-20T14:43:00+00:00",
-    "summary": "The $40 million deal builds on the platform’s previous acquisition of IRIS.TV to provide clients with identity, context and verified attention.",
-    "image_url": "https://imgproxy.divecdn.com/foFsXPgYtTWgQGtFwPV3aHWuk7UkWjf1ARytlayc4IY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDc2NzQ5MTM3LmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "media",
-      "tech"
-    ],
     "relevance_score": 14
   },
   {
-    "id": "feb30ed09dc8",
-    "title": "6 New Innovations Redefining Salesforce Development",
-    "url": "https://www.salesforce.com/blog/salesforce-development-innovation-2026/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-21T17:45:13+00:00",
-    "summary": "TDX 2026 unveiled the latest round of new innovation, reshaping Salesforce development. We’re unpacking the top announcements and what it means for your stack.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/TDX-Recap-Resource-Card-1500x844_2.png",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "b31dbe215c86",
-    "title": "The AI governance mirage: Why 72% of enterprises don’t have the control and security they think they do",
-    "url": "https://venturebeat.com/orchestration/the-ai-governance-mirage-why-72-of-enterprises-dont-have-the-control-and-security-they-think-they-do",
+    "id": "2a8fb0640291",
+    "title": "Google doesn't pay the Nvidia tax. Its new TPUs explain why.",
+    "url": "https://venturebeat.com/orchestration/google-doesnt-pay-the-nvidia-tax-its-new-tpus-explain-why",
     "source": "VentureBeat",
     "source_category": "ai",
-    "published": "2026-04-21T19:04:56+00:00",
-    "summary": "Decision makers at 72% of organizations claim to have two or more AI platforms that they identify as their \"primary\" layer, according to a survey of 40 enterprise companies conducted by VentureBeat last month, revealing real gaps in security and control. For enterprise...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3WMHdvrskEj3HdPeIS9rrR/9af392294440928de19655b5f5e212a8/the_governance_mirage.png?w=300&q=30",
+    "published": "2026-04-22T17:04:17+00:00",
+    "summary": "Every frontier AI lab right now is rationing two things: electricity and compute. Most of them buy their compute for model training from the same supplier, at the steep gross margins that have turned Nvidia into one of the most valuable companies in the world. Google does...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7Lv60ZibdUZoJ7qlsTTtBS/28670e6d74be8e010be8906057eb9bae/PXL_20260422_025515735.jpg?w=300&q=30",
     "tags": [
       "Orchestration"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "3530670a0740",
+    "title": "Trump Slams ‘Rigged’ Virginia Redistricting Vote—Reprises Mail-In Ballot Conspiracy",
+    "url": "https://www.forbes.com/sites/saradorn/2026/04/22/trump-slams-rigged-virginia-redistricting-vote-reprises-mail-in-ballot-conspiracy/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-22T18:15:54+00:00",
+    "summary": "Virginia voters approved a new map Tuesday that would likely give Democrats four more seats in the House.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69e91008f2b1595fdfe5cbb0/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
     ],
     "industries": [
       "tech",
       "industrial"
     ],
     "relevance_score": 14
+  },
+  {
+    "id": "329fbd156d8c",
+    "title": "Meta will record employees’ keystrokes and use it to train its AI models",
+    "url": "https://techcrunch.com/2026/04/21/meta-will-record-employees-keystrokes-and-use-it-to-train-its-ai-models/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-21T23:45:21+00:00",
+    "summary": "Meta says that it has a new internal tool that is converting mouse movements and button clicks into data that can train its AI models.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg?w=1024",
+    "tags": [
+      "AI",
+      "AI training",
+      "In Brief",
+      "Meta"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 13
   },
   {
     "id": "ac9a95b51ff6",
@@ -1104,7 +1061,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "ab0f462cfc73",
@@ -1124,50 +1081,38 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
-    "id": "eeca7c631fb0",
-    "title": "Google Maps is about to get a big dose of AI",
-    "url": "https://techcrunch.com/2026/04/22/google-maps-is-about-to-get-a-big-dose-of-ai/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-22T12:00:00+00:00",
-    "summary": "Generative AI is being infused into Google's popular feature within Maps.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Screenshot-2026-04-21-at-5.26.25-PM.png?resize=1200,670",
-    "tags": [
-      "AI",
-      "Google",
-      "Google Maps",
-      "Street View",
-      "Generative AI"
-    ],
+    "id": "a16c0a8be870",
+    "title": "RFK Jr. continues congressional hearing appearances to talk White House budget plan",
+    "url": "https://www.fiercehealthcare.com/regulatory/rfk-jr-continues-congressional-hearing-appearances-talk-white-house-budget-plan",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-22T14:21:00+00:00",
+    "summary": "HHS Secretary Robert F. Kennedy Jr. went in front of the Senate Committee on Health, Education Labor and Pensions, his latest in a string of congressional hearings.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202025-03-27T082206.137.jpg?VersionId=KM6Xv1qEkNQqIVc21hr5pzCLfJRjIcIW",
+    "tags": [],
     "industries": [
       "tech",
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
-    "id": "da81bd396385",
-    "title": "Kanye West’s Italy Concert Could Be In Jeopardy—Latest Country Weighing Rapper’s Presence",
-    "url": "https://www.forbes.com/sites/asia-alexander/2026/04/22/kanye-wests-italy-concert-could-be-in-jeopardy-latest-country-weighing-rappers-presence/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-04-22T15:50:30+00:00",
-    "summary": "Kanye West’s Italy Concert Could Be Latest One In Jeopardy After Antisemitic Remarks",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69e8ee2ba783294cb0ba71e2/0x0.jpg?width=960&precrop=2381%2C1339%2Cx0%2Cy122",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
+    "id": "feb30ed09dc8",
+    "title": "6 New Innovations Redefining Salesforce Development",
+    "url": "https://www.salesforce.com/blog/salesforce-development-innovation-2026/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-21T17:45:13+00:00",
+    "summary": "TDX 2026 unveiled the latest round of new innovation, reshaping Salesforce development. We’re unpacking the top announcements and what it means for your stack.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/TDX-Recap-Resource-Card-1500x844_2.png",
+    "tags": [],
     "industries": [
       "tech"
     ],
-    "relevance_score": 14
+    "relevance_score": 12
   },
   {
     "id": "949d161f526b",
@@ -1189,7 +1134,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "daee7ec89581",
@@ -1204,22 +1149,23 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
-    "id": "07fdc8215322",
-    "title": "Adobe tries to climb out of the software stock abyss, with a little help from a buyback and Jensen Huang - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNUHhFQ0FiTzdLZGtvSXp2SVZteGp0anphZmFZMzhCLUtXcUs2c01laHlpM1g1dFFNTFVmXzRUM3FmXzl5eXVxZzJDM3d6VThKZHpPdlJaRVBOUm9yUkNqLXpGazEzby03bzJQekJLVnhVZzBWSHY5MFNSSWgwV2J4bU03VVgwOXRMTVZxdVd2S3RhaXAtRlFXT3Y3UHZqcm9wcVF6UXNRaUNDdw?oc=5",
-    "source": "Adobe Inc",
+    "id": "9d988602acdf",
+    "title": "A Sudden Changing Of The Guard, At Apple, Adobe, Netflix And Disney - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxORWRPX01Jd2QxZ0lNZ1h0cHpfMjdHUC1tcUpfalBmS0YyRjg0anNsR2tVcjNOeVlJOGRfcFcxYmo5aFdJUFdWQndPM0UtaE9IRG5kV1ctckY2ZTRVX2sySTBCaEdkckRTQlY3NTdSNTRMQXhYYU5wSUd6YXdUaW5sM0V1RHZVSkxoNjlOcUU3YWwwTGppQk5vV1NGUkNfbDducnVqQlAwMFduOFNDXzRBU3ZR?oc=5",
+    "source": "Adobe",
     "source_category": "adobe",
-    "published": "2026-04-22T16:17:20+00:00",
-    "summary": "Adobe tries to climb out of the software stock abyss, with a little help from a buyback and Jensen Huang CNBC",
+    "published": "2026-04-22T15:56:19+00:00",
+    "summary": "A Sudden Changing Of The Guard, At Apple, Adobe, Netflix And Disney Forbes",
     "image_url": null,
     "tags": [],
     "industries": [
+      "media",
       "tech"
     ],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "35f9b7ed7246",
@@ -1241,7 +1187,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "351ed1f2e4db",
@@ -1255,28 +1201,6 @@
     "tags": [],
     "industries": [
       "tech"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "f9e7d5c399a7",
-    "title": "Google rolls out Gemini in Chrome in APAC countries",
-    "url": "https://techcrunch.com/2026/04/20/google-rolls-out-gemini-in-chrome-in-seven-new-countries/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-20T22:00:00+00:00",
-    "summary": "Google is rolling out Gemini in Chrome in Australia, Indonesia, Japan, the Philippines, Singapore, South Korea, and Vietnam. The company is rolling this feature out to both desktop and iOS in all of these countries except Japan.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Chrome_Hero.png?resize=1200,677",
-    "tags": [
-      "AI",
-      "Apps",
-      "Google",
-      "In Brief",
-      "gemini"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
     ],
     "relevance_score": 11
   },
@@ -1325,83 +1249,52 @@
       "tech",
       "lifesciences"
     ],
-    "relevance_score": 10,
-    "also_covered_by": [
-      "Health Tech"
-    ]
-  },
-  {
-    "id": "cdd17c81b5aa",
-    "title": "GRAI believes AI can make music more social, not replace artists",
-    "url": "https://techcrunch.com/2026/04/21/grai-believes-ai-can-make-music-more-social-not-replace-artists/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-21T13:00:00+00:00",
-    "summary": "AI music startup GRAI says fans want to remix tracks, not generate songs from scratch.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/listening-to-music-GettyImages-2170179832.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Apps",
-      "Media & Entertainment",
-      "Social",
-      "Startups"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
     "relevance_score": 10
   },
   {
-    "id": "60844ea392fe",
-    "title": "YouTube expands its AI likeness detection technology to celebrities",
-    "url": "https://techcrunch.com/2026/04/21/youtube-expands-its-ai-likeness-detection-technology-to-celebrities/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-21T15:02:06+00:00",
-    "summary": "YouTube is expanding its AI likeness detection tool to celebrities, giving talent and their reps a way to find and remove deepfakes.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/celebrity-paparazzi-GettyImages-523409170.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Media & Entertainment",
-      "YouTube",
-      "Hollywood",
-      "Celebs"
-    ],
+    "id": "31bc06e22268",
+    "title": "Google Introduces Specialized Chip for New Wave of AI Computing - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE9KbjBPVEdiNXlEaWxsQ1A3RnQ1RmNxTm4yWWNUOFF0SXBZY1ZFWDFfRHZSdUFxRzFDdzBPa1JMbU1iZl9XNnNpU2d1YkRkOER6cEVHOE12SEY5X3RuMF84cDhDR2dMS2JUWXF6YnJOdFg?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-04-22T15:50:00+00:00",
+    "summary": "Google Introduces Specialized Chip for New Wave of AI Computing WSJ",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "tech"
     ],
     "relevance_score": 10
   },
   {
-    "id": "8043ba584ad3",
-    "title": "Watch the newest commercials from Google, Nike, Off and more - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON0pEZ2xOQldTOF9BbW5SdmNac2RGZldGT2dGZVEtMW1vLTM1UXJaekJrV2h3Mm9sZ0Y5NHl6c2hMcFE1dU1ubE1qVEhEamhWR0JOUTZ2a0NLOG03VlBLa2h2QWxOYVdBOXotakRkemxIdXFLLW11bmEwVlktTlFmXzVfNkNsZWc3dUxDQmtPUEhGNnlOaUNVX2ZjLW9IN1BHMk9wODZOUXdFcmNOcVVLSXQ1YkItem1GSnJPUHdlNkVpQUFLZWc?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-04-21T17:10:00+00:00",
-    "summary": "Watch the newest commercials from Google, Nike, Off and more Ad Age",
+    "id": "e8e0168edb43",
+    "title": "Idvynso Receives FDA Approval | PharmExec - Pharmaceutical Executive",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5KOVVDSTBRZk04NVNtTTl4eXloWU16V05va05XZWNCN2dUQy0yX3R3ZmRyZzd3RHNxTERDeUgxS0dtdUtfbFlWMmRHWVlwS0g1Ynpac3hfSTVVNVpBS2VLS19TS2RHSW9CNnlQd0x3Qk1KUlo4?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-22T17:56:55+00:00",
+    "summary": "Idvynso Receives FDA Approval | PharmExec Pharmaceutical Executive",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "industrial"
+      "lifesciences"
     ],
     "relevance_score": 10
   },
   {
-    "id": "5f71605c9b51",
-    "title": "Orange Egypt Named Digital Transformation Partner for Circle K’s Nationwide Modernization - TechAfrica News",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPN2ZndHdjSGp4Zk12Y0FSOVNaa3BIdTJFcWdVV3NIbHhuWDJwYnBXT0NKVTR0QjRwTG9meWkyeGZPWWx0eUJyR3FMOEFhWkcxSnc4SElaN3dRX0Fza2wzdlFOekJLM2ZKcjVqdkE3QnJabDg5dG8xQTZsamFLY29ocnVkclpmUDFyVmNuSl9QblNlamp5OTJWNXNYVUpIbHVmaktjdVdkd0x5MjZqMnpqdlUtNzI4RzZhRnlFQkRVYVNGbU1wTFE?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-04-22T14:56:59+00:00",
-    "summary": "Orange Egypt Named Digital Transformation Partner for Circle K’s Nationwide Modernization TechAfrica News",
+    "id": "ec53d671758a",
+    "title": "From Fragmentation to Digital Transformation in Healthcare - Mexico Business News",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPdWhBaWVfNU1QTFpET3JJZG1iVFNyZVBqaldYUVk3cE41U01TVUszcVQ5Z0FPZlAzbFFqWEpzVldvLUdyYW1sdGljZXdDYlhFcmw0LWpqQ2xJRG5zaUMySDRKelJwQU5VZVZoVWxmRXBQeXBwVExESE1PNGlLR0pvRGJBb3BZcUduNWlwYjJlVDc?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-22T19:05:26+00:00",
+    "summary": "From Fragmentation to Digital Transformation in Healthcare Mexico Business News",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "industrial"
+      "lifesciences"
     ],
     "relevance_score": 10
   },
@@ -1413,6 +1306,22 @@
     "source_category": "salesforce",
     "published": "2026-04-17T07:00:00+00:00",
     "summary": "Salesforce Just Launched Headless for AI Agents. We’ve Already Been Living It for 6 Months. SaaStr",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "8043ba584ad3",
+    "title": "Watch the newest commercials from Google, Nike, Off and more - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxON0pEZ2xOQldTOF9BbW5SdmNac2RGZldGT2dGZVEtMW1vLTM1UXJaekJrV2h3Mm9sZ0Y5NHl6c2hMcFE1dU1ubE1qVEhEamhWR0JOUTZ2a0NLOG03VlBLa2h2QWxOYVdBOXotakRkemxIdXFLLW11bmEwVlktTlFmXzVfNkNsZWc3dUxDQmtPUEhGNnlOaUNVX2ZjLW9IN1BHMk9wODZOUXdFcmNOcVVLSXQ1YkItem1GSnJPUHdlNkVpQUFLZWc?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-04-21T17:10:00+00:00",
+    "summary": "Watch the newest commercials from Google, Nike, Off and more Ad Age",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1436,7 +1345,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 9
+    "relevance_score": 8
   },
   {
     "id": "aaccc5d5b04d",
@@ -1503,17 +1412,19 @@
     "relevance_score": 7
   },
   {
-    "id": "b8cf77e1c6ff",
-    "title": "How MAN Truck & Bus is Shaping the Future of Sales with Salesfive",
-    "url": "https://www.salesforce.com/blog/man-truck-and-bus-digital-sales/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-17T18:18:52+00:00",
-    "summary": "MAN Truck & Bus is one of the world’s leading commercial vehicle manufacturers, renowned for over 260 years of engineering excellence, innovation, and customer proximity. However, the industry is changing rapidly: customers now…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/260211_SF_TrailblazerBlog_MAN_Sales_16x9.jpg",
+    "id": "9e1f6ff96c02",
+    "title": "Ethiopia to Showcase Green Energy and Digital Transformation at COP32 – Ethio Telecom CEO - Fana Media Corporation S.C",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNSGRfbjRuUktFMFhROFVMeEJtS2I4bG8wWk03cloxX3F5dm9FTGtrX0pKZGhfelJRWGlTQkg4WTdQY2hMNUFmU1dLZG0zMmI2d2tTMjhFSExPWG9ndHk0dmZRSkEyMS1GYkswODd5ZWJmcWF3NHhfdlFtdUhLNlRQQkxQTFBjNmZQeGVJaWJDd3h2Z3hSTS0tYXZ1bUNXeklWUTFhczg3V0NFMUtPSEplMjdqU0tFLWI4YzVJ?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-04-18T16:04:26+00:00",
+    "summary": "Ethiopia to Showcase Green Energy and Digital Transformation at COP32 – Ethio Telecom CEO Fana Media Corporation S.C",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "tech"
+      "media",
+      "tech",
+      "telecom"
     ],
     "relevance_score": 7
   },
@@ -1548,29 +1459,13 @@
     "relevance_score": 7
   },
   {
-    "id": "8bbfe56f92f3",
-    "title": "Health tech startup Coral lands $12.5M to automate medical paperwork processing - Crain's New York Business",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOVlFRUy1tamxHZ0dRMUQ2RnQwYWxnUTJ4RVJSR0ZNN2o0SzhhZ0VCa0l1MTNtbERGdzVTU1ByeHIzSWxxTTdtTFVnNjJWNEdSUjV4WldmLUpKenNrd0JpTUZQTDhzckpFajRFZkk5NE9XRGx2cXBLUVIyNnFfUFk5WQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-20T09:30:00+00:00",
-    "summary": "Health tech startup Coral lands $12.5M to automate medical paperwork processing Crain's New York Business",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "94c207bad00a",
-    "title": "Wave Life Sciences seeks court approval for Singapore-to-US move - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbDBMRmpCUWJGdWczemdoazBDalA3ZDBVVmRMamlqb0hXejBTM2dzaEV4TnJSbHh2VmhKcHNQSlhkSU9TZHYzbXc2WVM2OUVFMElhWjU5OHN3eFNTeE5NTjNxdnlZemxRaHhHSkNTMURiS1pTbEI1X25LQXFDU21Fem1pSUtxTjFXaThWM0dtdldGZ2NBdVUxUEZuSE1HcTAtUVdSTGwzZ01tYzc3a0hRak8zbW1FSmhzUjZZ?oc=5",
+    "id": "d85542e34fc6",
+    "title": "Wave Life Sciences (WVE) Pursues Approval for Redomiciliation to the U.S. - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQTm1lTnFUVTNvQWRWNnZlZ20tTHhEdTZ0NUl5QXhjN0pnNVFzU09zcC1hX0FPcVZpcXNOSEw2d01BTUd2a1dDaW5JSUVYeWhhTXlDbVZiYjFPQW9FVkFpVG1jOTBOaG9EYWlFcXg3RWJzcHJ4bEttMUdDNFZxR0ZrMDhpSXh2dHZQVlVCWWtEZVVXM2FIa2FmXzhmb3dxUDVKTzJFNXg4WXF0N1Jq?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-21T20:25:57+00:00",
-    "summary": "Wave Life Sciences seeks court approval for Singapore-to-US move Investing.com",
+    "published": "2026-04-21T22:05:17+00:00",
+    "summary": "Wave Life Sciences (WVE) Pursues Approval for Redomiciliation to the U.S. GuruFocus",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1594,21 +1489,6 @@
       "lifesciences"
     ],
     "relevance_score": 7
-  },
-  {
-    "id": "54ab31cf8a99",
-    "title": "Adobe takes Creative Cloud into Claude Code-esque territory - Ars Technica",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcHc0MGw4dkdmN0hsVmtOM3VTYmVGRWRzU1l3c2p6MWtxa1hITDlCZUc1ZVY0NzRLdnBNS2pWUFVVYmVZWTBEQnltREpaazJMTi1Da2JLdUdJZkJyTFE4SGwyc1gzeWxYTkhyX0hpcW1CVkpzS2pBRVlfejAyOVFpTEdFRk12MlJxWU9ad2Jpckt5VVgzU1F1cFRpTQ?oc=5",
-    "source": "Adobe Products",
-    "source_category": "adobe",
-    "published": "2026-04-15T16:54:33+00:00",
-    "summary": "Adobe takes Creative Cloud into Claude Code-esque territory Ars Technica",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 6
   },
   {
     "id": "aaa38c41fb8f",
@@ -1650,21 +1530,6 @@
     "source_category": "industry_financial",
     "published": "2026-04-19T01:00:00+00:00",
     "summary": "Behind Trump’s Public Bravado on the War, He Grapples With His Own Fears WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "780c81b7c87d",
-    "title": "Bear Bytes Initiative Supports Students’ Holistic Health - New York Institute of Technology",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSkJHUTJMaWVlcjlKZzBFSkNYVjRLV2tKcWpxejd5eDEyMzBMVm50XzVQdF81SG1Xb3BGV3UzUzBybm53OW94V2g1X2RiR01mMTd4eTRiR2Zrc1FyaHJYaGlRMUw3RXB1UDFfTjZCODczaUY3OWhpRW9yT0VvRXk1RkpwMzVGX0lzd25ieTRxbWxUWEd4aWc?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-20T16:06:52+00:00",
-    "summary": "Bear Bytes Initiative Supports Students’ Holistic Health New York Institute of Technology",
     "image_url": null,
     "tags": [],
     "industries": [

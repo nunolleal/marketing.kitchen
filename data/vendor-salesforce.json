@@ -12,7 +12,7 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 43
+    "relevance_score": 40
   },
   {
     "id": "d052aaaec449",
@@ -43,19 +43,6 @@
       "industrial"
     ],
     "relevance_score": 35
-  },
-  {
-    "id": "97eb508bea79",
-    "title": "Salesforce Headless 360: What if Your Team Never Had to Open the CRM again? - UC Today",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPWGFVUXkxXzNoUUc5cDNwN2pOeU5RaWtzb3MwRTJZSW1RN2dxV1ZuWnZ1Rm9iYTZBa29tVXgwbV9QQ3hJQk1YVzB6c05PTndhcmtFN1VfejZlWU1tNUlNM2x5ZURRSmZfYUZsRms4dGhsTTNWR0NXX3Vjc1kwMzdYMERpc1FkS2pYZWZpRkgycjRJQWh0UEx0eEJlMURURzV6Qk5QdlE3dW0tdXBCZVlHMWRTbE92SWZyaUd3LXQ5Yw?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-04-20T11:02:00+00:00",
-    "summary": "Salesforce Headless 360: What if Your Team Never Had to Open the CRM again? UC Today",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 32
   },
   {
     "id": "38c3f8a855e2",
@@ -106,6 +93,19 @@
     ]
   },
   {
+    "id": "5cf5432ae776",
+    "title": "Salesforce AI Research at ICLR 2026",
+    "url": "https://www.salesforce.com/blog/salesforce-iclr-2026/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-22T19:21:22+00:00",
+    "summary": "Salesforce AI Research will present 21 accepted papers at ICLR 2026, the Fourteenth International Conference on Learning Representations. The conference runs April 23–27 at the Riocentro Convention and Event Center in Rio de…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/iclr2026-feature.jpg?w=8062",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 17
+  },
+  {
     "id": "3108f8f58a17",
     "title": "Beyond 100K Tokens: Evaluating AI Agents in Long-Context Software Engineering",
     "url": "https://www.salesforce.com/blog/locobench-agent/",
@@ -119,22 +119,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 16
-  },
-  {
-    "id": "feb30ed09dc8",
-    "title": "6 New Innovations Redefining Salesforce Development",
-    "url": "https://www.salesforce.com/blog/salesforce-development-innovation-2026/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-21T17:45:13+00:00",
-    "summary": "TDX 2026 unveiled the latest round of new innovation, reshaping Salesforce development. We’re unpacking the top announcements and what it means for your stack.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/TDX-Recap-Resource-Card-1500x844_2.png",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
+    "relevance_score": 15
   },
   {
     "id": "fe4fc00911eb",
@@ -156,17 +141,19 @@
     "relevance_score": 14
   },
   {
-    "id": "4301bfcfa912",
-    "title": "AI now routes 1 million Unisys service calls a year across 120 countries - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDBKVDk4MUt6bGpWeVpGUlBOY1dHNnVaWEt4TXFqaFNjSlBRMlRzblJBRDJRMXZFNDdkVVdWaFUxY05ucmNYV2ZEQ3ZmOTNFVGk2ZzRTMHN4UTZqMFhhNXQyb214OHRJcEpZTXRrdXFHZXdxXzhsaFM2dS00OWdUNFVaQzJicnMtNGd3b1RmcjAwbVRTZjFGUEF0OE5MUDh2UTZFNTNlVWlQX04tcjVKcTh4N3JwaDg?oc=5",
-    "source": "Salesforce AI",
+    "id": "feb30ed09dc8",
+    "title": "6 New Innovations Redefining Salesforce Development",
+    "url": "https://www.salesforce.com/blog/salesforce-development-innovation-2026/",
+    "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-04-22T12:30:00+00:00",
-    "summary": "AI now routes 1 million Unisys service calls a year across 120 countries Stock Titan",
-    "image_url": null,
+    "published": "2026-04-21T17:45:13+00:00",
+    "summary": "TDX 2026 unveiled the latest round of new innovation, reshaping Salesforce development. We’re unpacking the top announcements and what it means for your stack.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/TDX-Recap-Resource-Card-1500x844_2.png",
     "tags": [],
-    "industries": [],
-    "relevance_score": 14
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 12
   },
   {
     "id": "045910538c9f",
@@ -179,7 +166,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/image_5a6c5c.jpeg",
     "tags": [],
     "industries": [],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "836d2fb04101",
@@ -255,21 +242,6 @@
       "industrial"
     ],
     "relevance_score": 8
-  },
-  {
-    "id": "b8cf77e1c6ff",
-    "title": "How MAN Truck & Bus is Shaping the Future of Sales with Salesfive",
-    "url": "https://www.salesforce.com/blog/man-truck-and-bus-digital-sales/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-17T18:18:52+00:00",
-    "summary": "MAN Truck & Bus is one of the world’s leading commercial vehicle manufacturers, renowned for over 260 years of engineering excellence, innovation, and customer proximity. However, the industry is changing rapidly: customers now…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/260211_SF_TrailblazerBlog_MAN_Sales_16x9.jpg",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 7
   },
   {
     "id": "491e42dd0c63",
