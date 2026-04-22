@@ -12,7 +12,7 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 46
+    "relevance_score": 43
   },
   {
     "id": "d052aaaec449",
@@ -27,7 +27,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 40
+    "relevance_score": 36
   },
   {
     "id": "00a85f4f0add",
@@ -42,7 +42,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 38
+    "relevance_score": 35
   },
   {
     "id": "97eb508bea79",
@@ -55,21 +55,6 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 32
-  },
-  {
-    "id": "f63f62d0092b",
-    "title": "How to Win the Battle for Attention in the Agentic Email Inbox",
-    "url": "https://www.salesforce.com/blog/agentic-email-inbox/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-21T14:36:15+00:00",
-    "summary": "A look at new challenges in email marketing and tips on how to move forward",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/AdobeStock_355794354.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
     "relevance_score": 32
   },
   {
@@ -88,20 +73,19 @@
     "relevance_score": 29
   },
   {
-    "id": "1c64aa520fa6",
-    "title": "Stop Making AI Slop – Build a Foundation for Authentic AI Content",
-    "url": "https://www.salesforce.com/blog/authentic-ai-content/",
+    "id": "f63f62d0092b",
+    "title": "How to Win the Battle for Attention in the Agentic Email Inbox",
+    "url": "https://www.salesforce.com/blog/agentic-email-inbox/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-04-17T14:18:39+00:00",
-    "summary": "Agentic AI works best when it’s architected to protect your brand’s unique identity and amplify a human-led point of view",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/AdobeStock_69430828.png",
+    "published": "2026-04-21T14:36:15+00:00",
+    "summary": "A look at new challenges in email marketing and tips on how to move forward",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/AdobeStock_355794354.png",
     "tags": [],
     "industries": [
-      "consumer",
       "industrial"
     ],
-    "relevance_score": 23
+    "relevance_score": 28
   },
   {
     "id": "ba2cc39ca17b",
@@ -135,20 +119,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 17
-  },
-  {
-    "id": "4301bfcfa912",
-    "title": "AI now routes 1 million Unisys service calls a year across 120 countries - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDBKVDk4MUt6bGpWeVpGUlBOY1dHNnVaWEt4TXFqaFNjSlBRMlRzblJBRDJRMXZFNDdkVVdWaFUxY05ucmNYV2ZEQ3ZmOTNFVGk2ZzRTMHN4UTZqMFhhNXQyb214OHRJcEpZTXRrdXFHZXdxXzhsaFM2dS00OWdUNFVaQzJicnMtNGd3b1RmcjAwbVRTZjFGUEF0OE5MUDh2UTZFNTNlVWlQX04tcjVKcTh4N3JwaDg?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-04-22T12:30:00+00:00",
-    "summary": "AI now routes 1 million Unisys service calls a year across 120 countries Stock Titan",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 15
+    "relevance_score": 16
   },
   {
     "id": "feb30ed09dc8",
@@ -164,6 +135,51 @@
       "tech"
     ],
     "relevance_score": 14
+  },
+  {
+    "id": "fe4fc00911eb",
+    "title": "Top 32 Small Business Tools To Try Today",
+    "url": "https://www.salesforce.com/blog/small-business-tools-for-productivity/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-22T08:23:00+00:00",
+    "summary": "Get the list of the ultimate productivity tools to boost your growing business.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2024/08/TSK-36107_0724_24_SMB_Tools_Productivity.png",
+    "tags": [
+      "small business",
+      "small business tools",
+      "smb"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "4301bfcfa912",
+    "title": "AI now routes 1 million Unisys service calls a year across 120 countries - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQUDBKVDk4MUt6bGpWeVpGUlBOY1dHNnVaWEt4TXFqaFNjSlBRMlRzblJBRDJRMXZFNDdkVVdWaFUxY05ucmNYV2ZEQ3ZmOTNFVGk2ZzRTMHN4UTZqMFhhNXQyb214OHRJcEpZTXRrdXFHZXdxXzhsaFM2dS00OWdUNFVaQzJicnMtNGd3b1RmcjAwbVRTZjFGUEF0OE5MUDh2UTZFNTNlVWlQX04tcjVKcTh4N3JwaDg?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-04-22T12:30:00+00:00",
+    "summary": "AI now routes 1 million Unisys service calls a year across 120 countries Stock Titan",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 14
+  },
+  {
+    "id": "045910538c9f",
+    "title": "Data Protection For Small Business: How To Safeguard Yourself",
+    "url": "https://www.salesforce.com/blog/data-protection-for-small-business/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-22T13:00:00+00:00",
+    "summary": "Learn how to keep your customer information safe with modern security tools designed for growing teams.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/image_5a6c5c.jpeg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 13
   },
   {
     "id": "836d2fb04101",
@@ -192,22 +208,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/02/Eisenhower-Matrix-SMB.jpg",
     "tags": [],
     "industries": [],
-    "relevance_score": 11
-  },
-  {
-    "id": "f6c96e996686",
-    "title": "Conga Highlights Enterprise Resilience Use Cases at Salesforce Agentforce NYC - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPVDdmUzFsOXFFek9rM0p0SFZ1TDhLRFl5V05CdGFSODdvMDd6b0IwMUlGOFIwT3R3MEwzSXVLX2Z1VExnamxVbEt2TWxNOTMtVHJWNVlRXzBMVjRZTTAxWmxnUHZZU1ZNYnNGSTVwbHRoY25mQzkyOXhSWnlrcVlTYk9sa1dvdGwtcm1xZDBFVHdJRlgyVU9TNzlxRHJDUXhQQ0VIdmluc3RNSkFpU3BnenA1M1M0Y2Y1WkhnTVhRS0VXVG8?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-04-22T00:38:34+00:00",
-    "summary": "Conga Highlights Enterprise Resilience Use Cases at Salesforce Agentforce NYC TipRanks",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 11
+    "relevance_score": 10
   },
   {
     "id": "ffa98290f1f8",
@@ -239,19 +240,6 @@
       "industrial"
     ],
     "relevance_score": 9
-  },
-  {
-    "id": "8c3a9121b34a",
-    "title": "Introducing the Future of Salesforce Data Protection: Backup & Recover Next",
-    "url": "https://www.salesforce.com/blog/introducing-salesforce-backup-recover-next/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-17T15:28:34+00:00",
-    "summary": "Don’t choose between security and resilience. Learn how to protect your organization from both malicious threats and accidental errors.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/AdobeStock_595119359.jpg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 8
   },
   {
     "id": "3c64f600c277",
