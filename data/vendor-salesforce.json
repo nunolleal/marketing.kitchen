@@ -12,7 +12,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 43
+    "relevance_score": 40
   },
   {
     "id": "00a85f4f0add",
@@ -55,7 +55,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 35
+    "relevance_score": 32
   },
   {
     "id": "38c3f8a855e2",
@@ -135,6 +135,22 @@
     "relevance_score": 15
   },
   {
+    "id": "836d2fb04101",
+    "title": "Celebrating 10 Years of Financial Services Innovation",
+    "url": "https://www.salesforce.com/blog/financial-services-cloud-celebrates-10-years/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-21T00:22:55+00:00",
+    "summary": "After a decade of spurring transformation, we welcome the Agentforce Financial Services era.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/AdobeStock_295769596_2a745e.jpeg",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "1d2b336498b3",
     "title": "Mastering the Eisenhower Matrix: Prioritize Like a Pro",
     "url": "https://www.salesforce.com/blog/the-eisenhower-matrix/",
@@ -145,7 +161,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/02/Eisenhower-Matrix-SMB.jpg",
     "tags": [],
     "industries": [],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "f6c96e996686",
@@ -159,22 +175,6 @@
     "tags": [],
     "industries": [
       "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "836d2fb04101",
-    "title": "Celebrating 10 Years of Financial Services Innovation",
-    "url": "https://www.salesforce.com/blog/financial-services-cloud-celebrates-10-years/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-21T00:22:55+00:00",
-    "summary": "After a decade of spurring transformation, we welcome the Agentforce Financial Services era.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/AdobeStock_295769596_2a745e.jpeg",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "financial"
     ],
     "relevance_score": 11
   },
@@ -225,6 +225,19 @@
     "relevance_score": 9
   },
   {
+    "id": "8c3a9121b34a",
+    "title": "Introducing the Future of Salesforce Data Protection: Backup & Recover Next",
+    "url": "https://www.salesforce.com/blog/introducing-salesforce-backup-recover-next/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-17T15:28:34+00:00",
+    "summary": "Don’t choose between security and resilience. Learn how to protect your organization from both malicious threats and accidental errors.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/AdobeStock_595119359.jpg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 8
+  },
+  {
     "id": "3c64f600c277",
     "title": "Salesforce Announces Huge AI Initiative and Calls It ‘Headless 360’ - Gizmodo",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPQWJaUGpySUZLZTU2Sks4eVZ3d0ptX25DOGlJZHg3STBIOEhiSWtDR1k3T0pKRWZBa3o3aGphU01TbnFDMmVFUzRyQXJqYWJVS2ItUXBFV29UQkw3X2NHOTNtSFpTck93US1zSXc0MW5jUUJTS1ljbGl6bHNYRzlYQnBJdmFVMEMyd2g5T2Nod0FmZkVudjdCVGs0ejU?oc=5",
@@ -237,19 +250,21 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 9
+    "relevance_score": 8
   },
   {
-    "id": "8c3a9121b34a",
-    "title": "Introducing the Future of Salesforce Data Protection: Backup & Recover Next",
-    "url": "https://www.salesforce.com/blog/introducing-salesforce-backup-recover-next/",
-    "source": "Salesforce Blog",
+    "id": "e65939a1bfab",
+    "title": "Marc Benioff shares 'stories' of Salesforce AI Agentforce 'helping' companies 'resolve issues' without an - The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNc2FMbVNsQU9QdXBWV0g4ck9HRlc1cWlMS3c5VTJlNFNlUXJMMWl0UUNycWNZWFhjZTc1bm9oT09xcEZIZ3lpUGhFcGgxMlZDb0JhNkJyU04zVmxoNk1WNkZyZFk1TVJPR21JQzVrTUo1QWZPekR2RTFCOG0xdzJ6WEdNRV81VnlDM29SNUgtU2RSbl9aeHgtWWxkOUtrYWtsX3VnSmxoa3lId2pKSkxtMHJCcmEzOXJYM3ZXYWxrY1RkTXRkN284a3JNLXNMMGdIUlc4MU9DYWpOZjVScGZYYUs0Z2VocFVpbGhNSk03UzJUWVA0VmF5RlA3S3NNc2g5X1V3anVqaFB1cjE5dmg0QWtBSktNaTI4clB6SUhWWnNkS2JwWGNHaDhXOFhQUWZCNmktZFhVNGNUUXp3UkhkY2dKbjlIRG5uY0MxWEFIaTlzMTNNcklaUzVFUDdwa1NhcnRjQmt0aTRBMXBkZllqRtIB9gJBVV95cUxOaUhpNEh0ekNodlF1Ynl2OVZxcFBzYWtnRVI3Mjhib1FIX1pqemwtd0lGdi1rZ2xiZGhkNWk0RXRzWUppZXlaUmxaaEtEMWNQcEM1SmNvSlRsQ01ENGlLUXg2X3Jsek5OUmpieTBJTVVJNlFjWGFNc3Q4cDhZcldWcjdaem5ZejVtMHFBSHZSQ2ZiOVlVS1RzTXdDSE9nNDl4NC1aMkRKZzZPVG9sSVFEejN4ZjJxQWVOcXRrV1Ywa1hyUW5hbDFDNGF1a2NweThTUDBFc01aRjBqX0M2aldtLS14TlQwMGhfaFJ6c0tYVVdRNS1HTllneWRsOVY1eTI0d3N3VEp6anpObjJNM0Y4UHFCemFGc3NGQW83R0xqSEpFREQweko5UlN3ck1QQmFuRG8tbHhTb1ZaZVdqeEJqdmpPNlYzRGlwai1mNVJQQ21vaXRwZl9BWWQ5SEdWRTQyNkZJZGJZblhIMkI0dmRRWWtGY3VJZw?oc=5",
+    "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-04-17T15:28:34+00:00",
-    "summary": "Don’t choose between security and resilience. Learn how to protect your organization from both malicious threats and accidental errors.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/AdobeStock_595119359.jpg",
+    "published": "2026-04-20T10:27:00+00:00",
+    "summary": "Marc Benioff shares 'stories' of Salesforce AI Agentforce 'helping' companies 'resolve issues' without an The Times of India",
+    "image_url": null,
     "tags": [],
-    "industries": [],
+    "industries": [
+      "industrial"
+    ],
     "relevance_score": 8
   },
   {
@@ -279,6 +294,22 @@
     "tags": [],
     "industries": [
       "tech"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "aaa38c41fb8f",
+    "title": "Mark Benioff Counters 'Software Bears' With Agentforce's Impressive Performance: 'Opportunity Has Never B - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQTExJamtwT3JFS25zWHB0T0l1dkZZT25FcWstcHl2Y3FPTmFFX0pwZWV2WUJSWkFnX3dGVWtjT0NPanV1M2lrUmJBMm5uZk1NQUlGbGRCQy1YaGJCSFYtMG5DXzIwNUs4M1k1b2hpZmt2eVdvSXNlS2xQd3NKR2VvMjM2N0h2d0VmTDN5UGtsM1NWaUdMOUJXQXBwUEo5bmltR1ZkWWE0ejZETUhJYUlqY2JnV3EyR1ZCN0Q2TGoteE5IbVFaNWJKWWxCOXFzZUFLTl9Scm92TDVPdU5Od3Z1VmJZT0dLczQ4NkRsamVvZ1ZnTDc0TWRNYnJwZmVTa1BsU3owNUkzZw?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-04-20T10:57:11+00:00",
+    "summary": "Mark Benioff Counters 'Software Bears' With Agentforce's Impressive Performance: 'Opportunity Has Never B Benzinga",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 7
   },
