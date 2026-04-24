@@ -12,7 +12,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 41
+    "relevance_score": 38
   },
   {
     "id": "0ae6185bba8c",
@@ -27,7 +27,7 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 33
+    "relevance_score": 30
   },
   {
     "id": "f63f62d0092b",
@@ -57,36 +57,26 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 23
+    "relevance_score": 23,
+    "also_covered_by": [
+      "Adobe Products"
+    ]
   },
   {
-    "id": "808e3ec47c48",
-    "title": "12 Free Webinars for Small Business Owners (2026)",
-    "url": "https://www.salesforce.com/blog/best-free-webinars-for-small-business-owners/",
-    "source": "Salesforce Blog",
+    "id": "5bd68c356c2b",
+    "title": "Agentforce Adoption Rises: Can It Be Salesforce's Next Growth Engine? - Zacks Investment Research",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPRDF1bkxDQk5tX09jRWlXOW9ZVTcxdzBqbDNsbnNzRGlRTnJjLW5IUlRYUFdVLUFPei1Icnh5czJ2REk0bXZNRTJxbVQtTHBnTXREaDVoRU9KRXZaUktCSTBIWTg4aW9pS1NCSWVXVE40aVZQcWVLdHFsZFVzU2xVQmxNV2lkcWEwZTJzTEhOYTBKem9rc01RWl9FdWdKTkZTUEdXbFN3T3BhZW8?oc=5",
+    "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-04-23T17:27:19+00:00",
-    "summary": "Sharpen your skills with on-demand sessions including business essentials from online selling to AI innovation.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/05/free-webinars.png",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 13
-  },
-  {
-    "id": "3108f8f58a17",
-    "title": "Beyond 100K Tokens: Evaluating AI Agents in Long-Context Software Engineering",
-    "url": "https://www.salesforce.com/blog/locobench-agent/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-22T12:00:00+00:00",
-    "summary": "As codebases grow to millions of lines of code, can AI agents still understand, reason, and code effectively? LoCoBench-Agent delivers the answer: a comprehensive benchmark for evaluating AI coding assistants across contexts ranging…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/long-context_light.png",
+    "published": "2026-04-24T11:30:47+00:00",
+    "summary": "Agentforce Adoption Rises: Can It Be Salesforce's Next Growth Engine? Zacks Investment Research",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
-      "industrial"
+      "industrial",
+      "financial"
     ],
-    "relevance_score": 12
+    "relevance_score": 14
   },
   {
     "id": "5cf5432ae776",
@@ -114,6 +104,19 @@
     "industries": [
       "tech"
     ],
+    "relevance_score": 12
+  },
+  {
+    "id": "808e3ec47c48",
+    "title": "12 Free Webinars for Small Business Owners (2026)",
+    "url": "https://www.salesforce.com/blog/best-free-webinars-for-small-business-owners/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-23T17:27:19+00:00",
+    "summary": "Sharpen your skills with on-demand sessions including business essentials from online selling to AI innovation.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/05/free-webinars.png",
+    "tags": [],
+    "industries": [],
     "relevance_score": 12
   },
   {
@@ -151,6 +154,22 @@
     "relevance_score": 11
   },
   {
+    "id": "3108f8f58a17",
+    "title": "Beyond 100K Tokens: Evaluating AI Agents in Long-Context Software Engineering",
+    "url": "https://www.salesforce.com/blog/locobench-agent/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-22T12:00:00+00:00",
+    "summary": "As codebases grow to millions of lines of code, can AI agents still understand, reason, and code effectively? LoCoBench-Agent delivers the answer: a comprehensive benchmark for evaluating AI coding assistants across contexts ranging…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/long-context_light.png",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "410829b26ed4",
     "title": "The Agentforce Life Sciences Consultant Certification",
     "url": "https://www.salesforce.com/blog/agentforce-life-sciences-consultant-certification/",
@@ -177,22 +196,7 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 10
-  },
-  {
-    "id": "96f06dbfe533",
-    "title": "Help Desk Migration Delivers Enterprise Zendesk to Salesforce Agentforce Migration for Pandora - The AI Journal",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPM3Zoel9NNm5kUHdfaTk5TFFBRzhIYWlBYnp2dDZxSk9sU0Z3OXVXQVpqRVpmRnpQVUtUbFJrRXhSRGJmZnVjN2YxV1lGTzgwWFdEbTdSMmlwMmx2SGpsVmd1TG1yT0xBcWVEN2NxM3o4ZnVURW1pUkdMYjJkcTEyVXhYVlhvYVZRRHppTXhDa0J1RUtGMnd6cmMwSll6YjRmcGJUWUI2LWFBQUFSMTNIcFdQWGNJUQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-04-23T11:49:21+00:00",
-    "summary": "Help Desk Migration Delivers Enterprise Zendesk to Salesforce Agentforce Migration for Pandora The AI Journal",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 10
+    "relevance_score": 9
   },
   {
     "id": "045910538c9f",
@@ -206,6 +210,21 @@
     "tags": [],
     "industries": [],
     "relevance_score": 9
+  },
+  {
+    "id": "5c028eae840a",
+    "title": "Help Desk Migration Delivers Enterprise Zendesk to Salesforce Agentforce Migration for Pandora - Yahoo Finance UK",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPdWt0SFNRUEp6QlpJOTZubk5iYmpUWWY0a0x6VnJpNmZ5aDhnVjdZZ0N1X2hwS1FkeExlNGtnMmUzUHc2RGVGeENuSUllUXcwM1pjYkJ6bENUVElyYmtfbmpqUmhMQzZNR0k2TDFuSVo0WTNySGxobVNPU281alhMSy1kM093WWFzZ20zNlpvOV8yQQ?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-04-23T11:35:00+00:00",
+    "summary": "Help Desk Migration Delivers Enterprise Zendesk to Salesforce Agentforce Migration for Pandora Yahoo Finance UK",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 8
   },
   {
     "id": "2217018760ec",
@@ -252,5 +271,36 @@
       "tech"
     ],
     "relevance_score": 6
+  },
+  {
+    "id": "e65939a1bfab",
+    "title": "Marc Benioff shares 'stories' of Salesforce AI Agentforce 'helping' companies 'resolve issues' without an - The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMi8AJBVV95cUxNc2FMbVNsQU9QdXBWV0g4ck9HRlc1cWlMS3c5VTJlNFNlUXJMMWl0UUNycWNZWFhjZTc1bm9oT09xcEZIZ3lpUGhFcGgxMlZDb0JhNkJyU04zVmxoNk1WNkZyZFk1TVJPR21JQzVrTUo1QWZPekR2RTFCOG0xdzJ6WEdNRV81VnlDM29SNUgtU2RSbl9aeHgtWWxkOUtrYWtsX3VnSmxoa3lId2pKSkxtMHJCcmEzOXJYM3ZXYWxrY1RkTXRkN284a3JNLXNMMGdIUlc4MU9DYWpOZjVScGZYYUs0Z2VocFVpbGhNSk03UzJUWVA0VmF5RlA3S3NNc2g5X1V3anVqaFB1cjE5dmg0QWtBSktNaTI4clB6SUhWWnNkS2JwWGNHaDhXOFhQUWZCNmktZFhVNGNUUXp3UkhkY2dKbjlIRG5uY0MxWEFIaTlzMTNNcklaUzVFUDdwa1NhcnRjQmt0aTRBMXBkZllqRtIB9gJBVV95cUxOaUhpNEh0ekNodlF1Ynl2OVZxcFBzYWtnRVI3Mjhib1FIX1pqemwtd0lGdi1rZ2xiZGhkNWk0RXRzWUppZXlaUmxaaEtEMWNQcEM1SmNvSlRsQ01ENGlLUXg2X3Jsek5OUmpieTBJTVVJNlFjWGFNc3Q4cDhZcldWcjdaem5ZejVtMHFBSHZSQ2ZiOVlVS1RzTXdDSE9nNDl4NC1aMkRKZzZPVG9sSVFEejN4ZjJxQWVOcXRrV1Ywa1hyUW5hbDFDNGF1a2NweThTUDBFc01aRjBqX0M2aldtLS14TlQwMGhfaFJ6c0tYVVdRNS1HTllneWRsOVY1eTI0d3N3VEp6anpObjJNM0Y4UHFCemFGc3NGQW83R0xqSEpFREQweko5UlN3ck1QQmFuRG8tbHhTb1ZaZVdqeEJqdmpPNlYzRGlwai1mNVJQQ21vaXRwZl9BWWQ5SEdWRTQyNkZJZGJZblhIMkI0dmRRWWtGY3VJZw?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-04-20T10:27:00+00:00",
+    "summary": "Marc Benioff shares 'stories' of Salesforce AI Agentforce 'helping' companies 'resolve issues' without an The Times of India",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "aaa38c41fb8f",
+    "title": "Mark Benioff Counters 'Software Bears' With Agentforce's Impressive Performance: 'Opportunity Has Never B - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQTExJamtwT3JFS25zWHB0T0l1dkZZT25FcWstcHl2Y3FPTmFFX0pwZWV2WUJSWkFnX3dGVWtjT0NPanV1M2lrUmJBMm5uZk1NQUlGbGRCQy1YaGJCSFYtMG5DXzIwNUs4M1k1b2hpZmt2eVdvSXNlS2xQd3NKR2VvMjM2N0h2d0VmTDN5UGtsM1NWaUdMOUJXQXBwUEo5bmltR1ZkWWE0ejZETUhJYUlqY2JnV3EyR1ZCN0Q2TGoteE5IbVFaNWJKWWxCOXFzZUFLTl9Scm92TDVPdU5Od3Z1VmJZT0dLczQ4NkRsamVvZ1ZnTDc0TWRNYnJwZmVTa1BsU3owNUkzZw?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-04-20T10:57:11+00:00",
+    "summary": "Mark Benioff Counters 'Software Bears' With Agentforce's Impressive Performance: 'Opportunity Has Never B Benzinga",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 5
   }
 ]
