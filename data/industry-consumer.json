@@ -14,7 +14,10 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 62
+    "relevance_score": 59,
+    "also_covered_by": [
+      "Marketing Strategy"
+    ]
   },
   {
     "id": "64b336302d19",
@@ -33,7 +36,23 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 60
+    "relevance_score": 57
+  },
+  {
+    "id": "2c73fd423014",
+    "title": "VaynerX’s new agency wants to help brands master the attention economy",
+    "url": "https://www.marketingdive.com/news/vaynerxs-new-agency-wants-to-help-brands-master-the-attention-economy/818363/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-04-27T16:30:00+00:00",
+    "summary": "The Tamara Group seeks to flip the typical agency split between strategy and production work as CMOs wrestle with volume, CEO Ryan Harwood explains.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 56
   },
   {
     "id": "b805fd8a4bd5",
@@ -55,23 +74,7 @@
       "media",
       "consumer"
     ],
-    "relevance_score": 58
-  },
-  {
-    "id": "2c73fd423014",
-    "title": "VaynerX’s new agency wants to help brands master the attention economy",
-    "url": "https://www.marketingdive.com/news/vaynerxs-new-agency-wants-to-help-brands-master-the-attention-economy/818363/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-04-27T16:30:00+00:00",
-    "summary": "The Tamara Group seeks to flip the typical agency split between strategy and production work as CMOs wrestle with volume, CEO Ryan Harwood explains.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 56
+    "relevance_score": 55
   },
   {
     "id": "1f2e0d2d3bef",
@@ -86,7 +89,7 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 55
+    "relevance_score": 52
   },
   {
     "id": "002017c54284",
@@ -102,28 +105,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 48
-  },
-  {
-    "id": "d74fd1610d28",
-    "title": "Omnicom’s New Influencer Tool Uses Agentic AI to Tweak Content For Brand Standards",
-    "url": "https://www.adweek.com/commerce/omnicoms-new-influencer-tool-uses-agentic-ai-to-tweak-content-for-brand-safety/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-04-27T06:00:00+00:00",
-    "summary": "Google’s GeminiVeo and Nano Banana fix creator content.",
-    "image_url": null,
-    "tags": [
-      "Exclusive",
-      "Influencers &amp; Creators",
-      "Premium"
-    ],
-    "industries": [
-      "tech",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 44
+    "relevance_score": 45
   },
   {
     "id": "c77bbcedb940",
@@ -138,36 +120,6 @@
     "industries": [
       "consumer",
       "industrial"
-    ],
-    "relevance_score": 42
-  },
-  {
-    "id": "7d7ff24cd205",
-    "title": "The pros and cons of adding AI to first-party experiences",
-    "url": "https://www.marketingdive.com/news/pros-cons-adding-ai-first-party-experiences/818530/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-04-27T11:00:00+00:00",
-    "summary": "Major brands are introducing AI into their experiences, but are consumers interested in using these options over more traditional channels?",
-    "image_url": "https://imgproxy.divecdn.com/fT9233rEclcyr4nM-iH7eW3m1J17REt09y8vJTxuBQg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05ODM0NTY1NjAuanBn.webp",
-    "tags": [],
-    "industries": [
-      "consumer"
-    ],
-    "relevance_score": 42
-  },
-  {
-    "id": "3e192199e3c1",
-    "title": "Celsius unites sports, music and culture ahead of soccer-centric summer",
-    "url": "https://www.marketingdive.com/news/celsius-unites-sports-music-and-culture-ahead-of-soccer-centric-summer/818374/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-04-27T12:00:00+00:00",
-    "summary": "Soccer stars, DJ Diplo and creator Marlon Garcia feature in a new ad that reimagines the brand’s “Live. Fit. Go.” slogan as “Live. Fit. Goal.”",
-    "image_url": "https://imgproxy.divecdn.com/gehnYHjIBYTkuy5E3eQ93_dYTj8v-ND8xoEZsPYIyeM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jZWxzaXVzLWRpcGxvLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "consumer"
     ],
     "relevance_score": 42
   },
@@ -188,6 +140,57 @@
       "industrial"
     ],
     "relevance_score": 42
+  },
+  {
+    "id": "d74fd1610d28",
+    "title": "Omnicom’s New Influencer Tool Uses Agentic AI to Tweak Content For Brand Standards",
+    "url": "https://www.adweek.com/commerce/omnicoms-new-influencer-tool-uses-agentic-ai-to-tweak-content-for-brand-safety/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-04-27T06:00:00+00:00",
+    "summary": "Google’s GeminiVeo and Nano Banana fix creator content.",
+    "image_url": null,
+    "tags": [
+      "Exclusive",
+      "Influencers &amp; Creators",
+      "Premium"
+    ],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 40
+  },
+  {
+    "id": "7d7ff24cd205",
+    "title": "The pros and cons of adding AI to first-party experiences",
+    "url": "https://www.marketingdive.com/news/pros-cons-adding-ai-first-party-experiences/818530/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-04-27T11:00:00+00:00",
+    "summary": "Major brands are introducing AI into their experiences, but are consumers interested in using these options over more traditional channels?",
+    "image_url": "https://imgproxy.divecdn.com/fT9233rEclcyr4nM-iH7eW3m1J17REt09y8vJTxuBQg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05ODM0NTY1NjAuanBn.webp",
+    "tags": [],
+    "industries": [
+      "consumer"
+    ],
+    "relevance_score": 39
+  },
+  {
+    "id": "3e192199e3c1",
+    "title": "Celsius unites sports, music and culture ahead of soccer-centric summer",
+    "url": "https://www.marketingdive.com/news/celsius-unites-sports-music-and-culture-ahead-of-soccer-centric-summer/818374/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-04-27T12:00:00+00:00",
+    "summary": "Soccer stars, DJ Diplo and creator Marlon Garcia feature in a new ad that reimagines the brand’s “Live. Fit. Go.” slogan as “Live. Fit. Goal.”",
+    "image_url": "https://imgproxy.divecdn.com/gehnYHjIBYTkuy5E3eQ93_dYTj8v-ND8xoEZsPYIyeM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jZWxzaXVzLWRpcGxvLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "consumer"
+    ],
+    "relevance_score": 39
   },
   {
     "id": "83f591eefec2",

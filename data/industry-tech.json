@@ -14,7 +14,10 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 62
+    "relevance_score": 59,
+    "also_covered_by": [
+      "Marketing Strategy"
+    ]
   },
   {
     "id": "9eee243606cb",
@@ -34,7 +37,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 61
+    "relevance_score": 58
   },
   {
     "id": "64b336302d19",
@@ -53,7 +56,7 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 60
+    "relevance_score": 57
   },
   {
     "id": "9e4f35ad7077",
@@ -71,7 +74,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 55
+    "relevance_score": 52
   },
   {
     "id": "26aaabd2de59",
@@ -87,7 +90,11 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 52
+    "relevance_score": 49,
+    "also_covered_by": [
+      "Health Tech",
+      "Banking"
+    ]
   },
   {
     "id": "219481f4b438",
@@ -106,7 +113,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 51
+    "relevance_score": 48
   },
   {
     "id": "0a646d1bb6ab",
@@ -123,25 +130,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 50
-  },
-  {
-    "id": "4d1f3e824e14",
-    "title": "Advertisers are flying blind on ChatGPT ads — Adthena wants to change that",
-    "url": "https://digiday.com/marketing/advertisers-are-flying-blind-on-chatgpt-ads-adthena-wants-to-change-that/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-04-27T13:01:00+00:00",
-    "summary": "Adthena has launched ChatGPT AdBridge -- a tool which aims to turn clients' existing Google Ads accounts into ready-to-run ChatGPT campaigns.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/01/zero-click-trends-digiday.jpg",
-    "tags": [
-      "Marketing"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 48
+    "relevance_score": 47
   },
   {
     "id": "5309379b71d5",
@@ -163,62 +152,22 @@
     "relevance_score": 45
   },
   {
-    "id": "5184f98c7c5b",
-    "title": "The Streams Are Up, But The Fans Aren’t There. What Music Marketing Is Getting Wrong Right Now",
-    "url": "https://www.forbes.com/sites/oliviashalhoup/2026/04/27/the-streams-are-up-but-the-fans-arent-there-what-music-marketing-is-getting-wrong-right-now/",
-    "source": "Forbes Business",
+    "id": "4d1f3e824e14",
+    "title": "Advertisers are flying blind on ChatGPT ads — Adthena wants to change that",
+    "url": "https://digiday.com/marketing/advertisers-are-flying-blind-on-chatgpt-ads-adthena-wants-to-change-that/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
     "source_category": "marketing",
-    "published": "2026-04-27T20:03:07+00:00",
-    "summary": "I asked music marketing executives the same question: what is music marketing missing? The answers differed in approach but pointed in the same direction.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69efbc995e3cbdc656512c03/0x0.jpg",
+    "published": "2026-04-27T13:01:00+00:00",
+    "summary": "Adthena has launched ChatGPT AdBridge -- a tool which aims to turn clients' existing Google Ads accounts into ready-to-run ChatGPT campaigns.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/01/zero-click-trends-digiday.jpg",
     "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
+      "Marketing"
     ],
     "industries": [
       "tech",
       "industrial"
     ],
     "relevance_score": 45
-  },
-  {
-    "id": "d74fd1610d28",
-    "title": "Omnicom’s New Influencer Tool Uses Agentic AI to Tweak Content For Brand Standards",
-    "url": "https://www.adweek.com/commerce/omnicoms-new-influencer-tool-uses-agentic-ai-to-tweak-content-for-brand-safety/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-04-27T06:00:00+00:00",
-    "summary": "Google’s GeminiVeo and Nano Banana fix creator content.",
-    "image_url": null,
-    "tags": [
-      "Exclusive",
-      "Influencers &amp; Creators",
-      "Premium"
-    ],
-    "industries": [
-      "tech",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 44
-  },
-  {
-    "id": "0491e3f224a4",
-    "title": "10 Ways An AI CRM Can Amplify Your Startup",
-    "url": "https://www.salesforce.com/blog/ai-crm-for-startups/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-27T13:00:00+00:00",
-    "summary": "Find out how smart CRMs are transforming small teams without big costs.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/01/Agentforce-in-Suites-AI-launch-SMB.png?w=2554",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 43
   },
   {
     "id": "8f6359172d78",
@@ -300,6 +249,42 @@
     "relevance_score": 41
   },
   {
+    "id": "d74fd1610d28",
+    "title": "Omnicom’s New Influencer Tool Uses Agentic AI to Tweak Content For Brand Standards",
+    "url": "https://www.adweek.com/commerce/omnicoms-new-influencer-tool-uses-agentic-ai-to-tweak-content-for-brand-safety/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-04-27T06:00:00+00:00",
+    "summary": "Google’s GeminiVeo and Nano Banana fix creator content.",
+    "image_url": null,
+    "tags": [
+      "Exclusive",
+      "Influencers &amp; Creators",
+      "Premium"
+    ],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 40
+  },
+  {
+    "id": "0491e3f224a4",
+    "title": "10 Ways An AI CRM Can Amplify Your Startup",
+    "url": "https://www.salesforce.com/blog/ai-crm-for-startups/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-27T13:00:00+00:00",
+    "summary": "Find out how smart CRMs are transforming small teams without big costs.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/01/Agentforce-in-Suites-AI-launch-SMB.png?w=2554",
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 40
+  },
+  {
     "id": "5446efc049f2",
     "title": "How to Design a High-Scale Multi-Cloud Incident Journey",
     "url": "https://www.salesforce.com/blog/design-high-scale-multi-cloud-incident-journey/",
@@ -368,22 +353,6 @@
       "tech"
     ],
     "relevance_score": 36
-  },
-  {
-    "id": "68572ba65365",
-    "title": "What Salesforce (CRM)'s Expanded Agentforce Adoption and Google Cloud Partnership Means For Shareholders - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOENWczY3NkF1dUVPTWlCd2dNRnlpUGNwRHR4YktnVDdfNFlfeDRMZzNMdjBLSFBGTHBwaWJBcWR3QnlxTU9Rd0F3cGwxM0JSVEF5RXRsVDFRQ2xHY2x1cFQ5Q0F1M3otT21qeWMxMHpjRXdXS3R4MVduR3hlYjFpRjE2dnA1RzVZNWhaZkRUM0VMMmY5Vmd0aldlMlE2QWNKcWp4VXV1Zk5YVW1vLS1EQ0N3RjJvLUxCb21vMHlUdWlFODJt0gHKAUFVX3lxTFBCcktlanZLdzMtMXFKSU1yTDlKdmxpYXVQaFFFV2RzcWdjcklGWHVUcVhWWTluUVRZbVNCd0tMYXZtUnNrenNqc3VTeUNPaUd1b3V1dmFSMUVOZ1dQU2RnRENYV19ZRmR3enlqMmRadDVxellqWlhNMEttZDUzOHRuaDlUeGFDQ3pSdW5pUmlmN1g5V2NRRHlaUkw2dWRNbTlMQVFlcUh4aXRVeXRyVVk5NGlHNU1hR1ZlZ1J1N0Y3blAyWWFwNmxpalE?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-04-26T04:28:56+00:00",
-    "summary": "What Salesforce (CRM)'s Expanded Agentforce Adoption and Google Cloud Partnership Means For Shareholders simplywall.st",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 34
   },
   {
     "id": "591dd4fc029d",
@@ -480,7 +449,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 18,
+    "relevance_score": 17,
     "also_covered_by": [
       "Wall Street"
     ]
@@ -502,7 +471,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
     "id": "10eab992fe72",
@@ -525,7 +494,66 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
+  },
+  {
+    "id": "d4bb5059cf48",
+    "title": "Will Oprah’s Podcast Still Be On YouTube Now That Amazon Has This New Deal?",
+    "url": "https://www.forbes.com/sites/terinaallen/2026/04/27/will-oprahs-podcast-still-be-on-youtube-now-that-amazon-has-this-new-deal/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-28T03:17:21+00:00",
+    "summary": "What happens to The Oprah Podcast YouTube channel and episodes that are already on YouTube? And, will future podcast episodes be available exclusively on Amazon?",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69f00bc682f402b5372e8763/0x0.jpg",
+    "tags": [
+      "Careers",
+      "/careers",
+      "Leadership",
+      "/leadership",
+      "Careers"
+    ],
+    "industries": [
+      "tech",
+      "retail"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "93380324ae54",
+    "title": "Ad Tech Briefing: Meta and Pinterest showcase CTV possibilities at ad tech’s Miami jamboree",
+    "url": "https://digiday.com/media-buying/ad-tech-briefing-meta-and-pinterest-showcase-ctv-possibilities-at-ad-techs-miami-jamobree/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-04-28T04:01:00+00:00",
+    "summary": "Comcast-owned FreeWheel Meta, and Pinterest employ APIs to scale.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/03/person-tv-watch-digiday.jpg",
+    "tags": [
+      "Media Buying",
+      "Digiday+"
+    ],
+    "industries": [
+      "media",
+      "tech"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "6eb456c3d687",
+    "title": "How Netflix is rewriting the streaming ad playbook",
+    "url": "https://digiday.com/podcasts/how-netflix-is-rewriting-the-streaming-ad-playbook/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-04-28T04:01:00+00:00",
+    "summary": "Netflix is thriving on third-party DSPs, raising a critical question: Can the streaming giant afford to pursue its own adtech platform?",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/04/Digiday_1030x600_N.jpg",
+    "tags": [
+      "Podcasts"
+    ],
+    "industries": [
+      "media",
+      "tech"
+    ],
+    "relevance_score": 17
   },
   {
     "id": "b18a6b9a5120",
@@ -546,7 +574,28 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
+  },
+  {
+    "id": "9f72917f489d",
+    "title": "Kerry Washington, Elisabeth Moss And Kate Mara Discuss Apple TV Series ‘Imperfect Women’ Ahead Of Finale",
+    "url": "https://www.forbes.com/sites/dominiquefluker/2026/04/27/kerry-washington-elisabeth-moss-and-kate-mara-discuss-apple-tv-series-imperfect-women-ahead-of-finale/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-28T01:34:23+00:00",
+    "summary": "Apple TV’s popular adaptation of Araminta Hall’s novel, Imperfect Women is rooted in layered sisterhood, and the core cast members agree.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69f00dea82f402b5372e8765/0x0.jpg",
+    "tags": [
+      "ForbesWomen",
+      "/forbeswomen",
+      "Leadership",
+      "/leadership",
+      "ForbesWomen"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 16
   },
   {
     "id": "4416708350f7",
@@ -568,7 +617,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "fb210ab92d20",
@@ -586,29 +635,22 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
-    "id": "89278b8dd8f6",
-    "title": "Samsung’s first smart glasses have leaked",
-    "url": "https://www.theverge.com/gadgets/919189/samsung-galaxy-glasses-leaked-images",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-04-27T16:25:51+00:00",
-    "summary": "The upcoming Samsung Galaxy Glasses look nearly identical to Meta's Ray-Ban smart glasses in leaked images from Android Headlines. The glasses, which could be announced at Google I/O next month, are code-named \"Jinju\" and will reportedly cost between $379 and $499, on par...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Exclusive-Samsung-Galaxy-Glasses-AH-5.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
-    "tags": [
-      "Gadgets",
-      "News",
-      "Samsung",
-      "Tech",
-      "Wearable"
-    ],
+    "id": "5224ae8ea9c7",
+    "title": "This Adobe deal brings back Black Friday prices with 50% off Creative Cloud Pro subscriptions - TechRadar",
+    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxQb1JIWDhJcURqUXY4X3B4NVhiWlBzZE9qaFcybktOX3Q2ZGg3SFN3OTU0NzVZOEtLTElUbDJrYmJQZklvdEdELXZRWWI0c3ZhUldDMDktZFE4RDJyQjlNMTM0cHFTT0NvVnYyQWZvT2lIRkNZQXNpVXNrbjFMUWFtbmRlblRTeTFDa0RnRXZib1JmY0Zoa2JhamttRUY3b3Jpb0lLaFRjdk0xWDl4MjhKTUE2T0NiQ0tpWlN6VnNMWlVBSV9LUXRmcVJyVHRPMkIxRWlCbUtycGRnLWtFZ3BpUHlNb2Y3TEpQamQ3RkdRcmhmV2tsNk9XS0lTMHdjdWtHdHlnQmQ0WkoteDZKcHhodHhielFJZm1XTWpIRjItYkpLVmFtVlE?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-04-27T17:02:35+00:00",
+    "summary": "This Adobe deal brings back Black Friday prices with 50% off Creative Cloud Pro subscriptions TechRadar",
+    "image_url": null,
+    "tags": [],
     "industries": [
-      "tech",
-      "industrial"
+      "tech"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "25740529633a",
@@ -629,7 +671,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "95ddf2a528b0",
@@ -639,7 +681,7 @@
     "source_category": "ai",
     "published": "2026-04-28T00:01:54+00:00",
     "summary": "Google is trying out an AI Mode-like search experience for YouTube. The company is now testing \"a new way to search on YouTube that feels more like a conversation,\" with results pulling in things like longform videos, YouTube Shorts, and text about what you're searching for....",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK092_04.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Screenshot-2026-04-27-at-4.55.32PM.png?quality=90&amp;strip=all&amp;crop=0%2C8.9356249312774%2C100%2C82.128750137445&amp;w=1200",
     "tags": [
       "AI",
       "Google",
@@ -650,25 +692,24 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
-    "id": "c54223682ba6",
-    "title": "Adobe Creative Cloud Pro is now 50% off - how to get the deal - ZDNET",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE5ZZ3g5RFRaclA5cF9tbGtHT0ZkRGhSQUYzYlUxemNsd185clNSRHJIbHBZMjRDQ3I0YjFVa0c0NEZ4SUlVYUxfem53YkRkWUVNSEJUdDFKbVRUbnc3RmJsNHM2b3JpLVFXQ3ZOUF8ycmxYaDA?oc=5",
-    "source": "Adobe",
+    "id": "e799d93b8c75",
+    "title": "Adobe Creative Cloud Statistics By Market Share And User Adoption (2026) - Bayelsa Watch",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9EaEFOWHlvaldPZ0lvdEhiWUx6Zi1lcnBFSDcwQTdwWUlPTmlKOUhOQmVfb1V6WWlIVkdDc1V6WTRTZjR2ZXlyWmo2LXFPWldqdW0zLTFoYWlsMXRkdTQ3ekhhMkZVVnZk?oc=5",
+    "source": "Adobe Marketing Cloud",
     "source_category": "adobe",
-    "published": "2026-04-27T12:00:00+00:00",
-    "summary": "Adobe Creative Cloud Pro is now 50% off - how to get the deal ZDNET",
+    "published": "2026-04-28T03:54:14+00:00",
+    "summary": "Adobe Creative Cloud Statistics By Market Share And User Adoption (2026) Bayelsa Watch",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
-      "industrial"
+      "tech"
     ],
     "relevance_score": 15,
     "also_covered_by": [
-      "Adobe Products"
+      "Salesforce AI"
     ]
   },
   {
@@ -692,82 +733,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 15
-  },
-  {
-    "id": "710603f4559d",
-    "title": "Stop Treating Disputes Management Like IT Tickets",
-    "url": "https://www.salesforce.com/blog/financial-services-dispute-management/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-27T23:30:20+00:00",
-    "summary": "Why Does the 41 Billion Dollar Chargeback Crisis Require a Purpose Built Platform? If you lead service operations or a contact center at a financial institution, you know the industry is at a…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/Disputes-blog-1.jpeg",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "181c65f8e6f9",
-    "title": "Meta eyes CTV expansion to fuel its next wave of ad growth",
-    "url": "https://digiday.com/future-of-tv/meta-eyes-ctv-expansion-to-fuel-its-next-wave-of-ad-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-04-27T04:01:00+00:00",
-    "summary": "Meta is looking to extend its performance advertising offering onto the biggest screen in the home.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/02/meta-revenue-digiday.jpg",
-    "tags": [
-      "Future of TV"
-    ],
-    "industries": [
-      "media",
-      "tech",
-      "industrial"
-    ],
     "relevance_score": 14
-  },
-  {
-    "id": "7d4458cb4b7b",
-    "title": "Meta inks deal for solar power at night, beamed from space",
-    "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-27T10:00:00+00:00",
-    "summary": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Overview-satellite-rendering.png?resize=1200,664",
-    "tags": [
-      "AI",
-      "Space",
-      "Meta",
-      "Overview Energy",
-      "Solar Power"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "82830ae1ac5e",
-    "title": "Adobe launches Firefly AI Assistant public beta with cross-app workflow automation - 9to5Mac",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRVB3WG1HX1BEY3F1ZHNzSUxWNnRHUUZPR0Z4NXB6X2tKZWtKc3B1M29NQ0tiRTQ5Z055MUJuM2VXRnd3WTl4U3NuVTRFbmRKdDg1SkhxNkNRLUhXNncyMHRtU1ZHN1MtVWxBRThxeHZTTmd4MzB5X1N2eFZRU1R6UTQ5UndaV2VnYVBOQmY0ejZCdDNiNFpTWXhudXVTOV9qdmVJa0xzMWhHVnh4YTE2cHpINTA?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-04-27T13:01:00+00:00",
-    "summary": "Adobe launches Firefly AI Assistant public beta with cross-app workflow automation 9to5Mac",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 14,
-    "also_covered_by": [
-      "Adobe Products"
-    ]
   },
   {
     "id": "82411fdde3f8",
@@ -821,46 +787,82 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 14,
-    "also_covered_by": [
-      "Wall Street",
-      "Adobe Inc",
-      "Banking"
-    ]
-  },
-  {
-    "id": "74c8eb937c2d",
-    "title": "NYC Digital Health Startups Land $1.6B in Q1 Funding - Hoodline",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPczlqY3I4ZS15cG82VDJrZlI0UTNaaWJYR1l0cTNkaWJzU05kVzNFYWxORzFDckM1TzBvSFhZdV9IVVV4MWRJaG81QXBqaVNIeTktRXB3ci1hSzh5NjhRTHlEbXJzLThRRzVfMFhIR01GVVpOamtuQjFGaWNZdkdRR0tKS1hNQ1MzU3QwNFNXZGhKYTBsOU1Qd3M5TFpoVzEt?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-27T20:16:43+00:00",
-    "summary": "NYC Digital Health Startups Land $1.6B in Q1 Funding Hoodline",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
     "relevance_score": 14
   },
   {
-    "id": "3c544078a74a",
-    "title": "Marketers join OpenAI’s ad pilot, nudged by FOMO",
-    "url": "https://digiday.com/marketing/marketers-join-openais-ad-pilot-nudged-by-fomo/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-04-27T04:01:00+00:00",
-    "summary": "Weeks into the offering going live, it’s unclear if the tech company’s ad platform offers real value to marketers.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/12/EOY-pub-ai-myths-digiday.jpg",
-    "tags": [
-      "Marketing"
-    ],
+    "id": "710603f4559d",
+    "title": "Stop Treating Disputes Management Like IT Tickets",
+    "url": "https://www.salesforce.com/blog/financial-services-dispute-management/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-27T23:30:20+00:00",
+    "summary": "Why Does the 41 Billion Dollar Chargeback Crisis Require a Purpose Built Platform? If you lead service operations or a contact center at a financial institution, you know the industry is at a…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/Disputes-blog-1.jpeg",
+    "tags": [],
     "industries": [
       "tech",
       "industrial"
     ],
+    "relevance_score": 14
+  },
+  {
+    "id": "181c65f8e6f9",
+    "title": "Meta eyes CTV expansion to fuel its next wave of ad growth",
+    "url": "https://digiday.com/future-of-tv/meta-eyes-ctv-expansion-to-fuel-its-next-wave-of-ad-growth/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-04-27T04:01:00+00:00",
+    "summary": "Meta is looking to extend its performance advertising offering onto the biggest screen in the home.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/02/meta-revenue-digiday.jpg",
+    "tags": [
+      "Future of TV"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
     "relevance_score": 13
+  },
+  {
+    "id": "7d4458cb4b7b",
+    "title": "Meta inks deal for solar power at night, beamed from space",
+    "url": "https://techcrunch.com/2026/04/27/meta-inks-deal-for-solar-power-at-night-beamed-from-space/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-27T10:00:00+00:00",
+    "summary": "Overview Energy's first contract with Meta is a small step toward a future of space-based solar power.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Overview-satellite-rendering.png?resize=1200,664",
+    "tags": [
+      "AI",
+      "Space",
+      "Meta",
+      "Overview Energy",
+      "Solar Power"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "82830ae1ac5e",
+    "title": "Adobe launches Firefly AI Assistant public beta with cross-app workflow automation - 9to5Mac",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRVB3WG1HX1BEY3F1ZHNzSUxWNnRHUUZPR0Z4NXB6X2tKZWtKc3B1M29NQ0tiRTQ5Z055MUJuM2VXRnd3WTl4U3NuVTRFbmRKdDg1SkhxNkNRLUhXNncyMHRtU1ZHN1MtVWxBRThxeHZTTmd4MzB5X1N2eFZRU1R6UTQ5UndaV2VnYVBOQmY0ejZCdDNiNFpTWXhudXVTOV9qdmVJa0xzMWhHVnh4YTE2cHpINTA?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-04-27T13:01:00+00:00",
+    "summary": "Adobe launches Firefly AI Assistant public beta with cross-app workflow automation 9to5Mac",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 13,
+    "also_covered_by": [
+      "Adobe Products"
+    ]
   },
   {
     "id": "79750a34bfe4",
@@ -895,39 +897,6 @@
       "ai apps",
       "signull labs"
     ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "b591da7e6757",
-    "title": "The 10 Most Influential Software Companies of 2026 - Time Magazine",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kRk9CMDZJNHNIWXV1bEZMdEY1MjhCUVdOcUpKOHFpamM0M0lONHBKSTlZQ0FDd0lwTE10S3RtdUZKU1BXT3U0c3Nod1Q5bC10dnh5TWNLMWFpbzJnRFhoR245YjZMbTBIeEM3MkJtLVg?oc=5",
-    "source": "Adobe Products",
-    "source_category": "adobe",
-    "published": "2026-04-27T18:05:23+00:00",
-    "summary": "The 10 Most Influential Software Companies of 2026 Time Magazine",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 13,
-    "also_covered_by": [
-      "Biotech"
-    ]
-  },
-  {
-    "id": "8f8a7bd233ce",
-    "title": "Analysts’ Opinions Are Mixed on These Technology Stocks: WEX (WEX), Adobe (ADBE) and Cohu (COHU) - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSWJfbkZIOWx5TWc0NFZoVkRSU0Y3WHFYdV8wUnZBMWs1R3NLcXhlRFB6ajNHWVhpbEU4bE1naHo5dzVleXRjdkNUc1RLRkxRVkRaLXh6RDVTSGZkSHhpZWRvb2VWZnNQQXM1VjFVc1JiYThBZ3BmZE9JZjI0WHhrQnpxQmNNd0hGZGFGQ1lSeVNmNlhfNUx0SlE2SEZGSUw3aDFuTkhnSF9sYVFkMml1TGl3SUZvWnZodVMzRGVUdjItR05scTBDZTg2eUpiZ3l3dVhfQjE5N1JGcnloemE0ak8wUzR0NUpXRlNhRi1pR3JFbjFMVU9fREhZWkFCaDMyM3c?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-04-27T23:37:30+00:00",
-    "summary": "Analysts’ Opinions Are Mixed on These Technology Stocks: WEX (WEX), Adobe (ADBE) and Cohu (COHU) The Globe and Mail",
-    "image_url": null,
-    "tags": [],
     "industries": [
       "tech"
     ],
@@ -976,83 +945,69 @@
     "relevance_score": 12
   },
   {
-    "id": "cf7c103f6c88",
-    "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
-    "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-04-27T12:10:00+00:00",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship...",
-    "image_url": null,
+    "id": "3c544078a74a",
+    "title": "Marketers join OpenAI’s ad pilot, nudged by FOMO",
+    "url": "https://digiday.com/marketing/marketers-join-openais-ad-pilot-nudged-by-fomo/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-04-27T04:01:00+00:00",
+    "summary": "Weeks into the offering going live, it’s unclear if the tech company’s ad platform offers real value to marketers.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/12/EOY-pub-ai-myths-digiday.jpg",
     "tags": [
-      "The Download"
+      "Marketing"
     ],
     "industries": [
-      "tech"
+      "tech",
+      "industrial"
     ],
     "relevance_score": 12
   },
   {
-    "id": "3df890fdab1e",
-    "title": "Humana's CenterWell, Mark Cuban Cost Plus Drugs partner to tackle employers' drug costs",
-    "url": "https://www.fiercehealthcare.com/payers/humanas-centerwell-mark-cubans-cost-plus-drugs-handle-employers-prescriptions",
-    "source": "Fierce Healthcare",
+    "id": "b591da7e6757",
+    "title": "The 10 Most Influential Software Companies of 2026 - Time Magazine",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1kRk9CMDZJNHNIWXV1bEZMdEY1MjhCUVdOcUpKOHFpamM0M0lONHBKSTlZQ0FDd0lwTE10S3RtdUZKU1BXT3U0c3Nod1Q5bC10dnh5TWNLMWFpbzJnRFhoR245YjZMbTBIeEM3MkJtLVg?oc=5",
+    "source": "Adobe Products",
+    "source_category": "adobe",
+    "published": "2026-04-27T18:05:23+00:00",
+    "summary": "The 10 Most Influential Software Companies of 2026 Time Magazine",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 12,
+    "also_covered_by": [
+      "Biotech"
+    ]
+  },
+  {
+    "id": "74c8eb937c2d",
+    "title": "NYC Digital Health Startups Land $1.6B in Q1 Funding - Hoodline",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPczlqY3I4ZS15cG82VDJrZlI0UTNaaWJYR1l0cTNkaWJzU05kVzNFYWxORzFDckM1TzBvSFhZdV9IVVV4MWRJaG81QXBqaVNIeTktRXB3ci1hSzh5NjhRTHlEbXJzLThRRzVfMFhIR01GVVpOamtuQjFGaWNZdkdRR0tKS1hNQ1MzU3QwNFNXZGhKYTBsOU1Qd3M5TFpoVzEt?oc=5",
+    "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-04-27T12:24:00+00:00",
-    "summary": "The arrangement aims to create new \"end-to-end employer prescription solutions\" fueled by Cost Plus Drugs' software platform and drug pricing, as well as CenterWell Pharmacy's distribution infrastructure.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
+    "published": "2026-04-27T20:16:43+00:00",
+    "summary": "NYC Digital Health Startups Land $1.6B in Q1 Funding Hoodline",
+    "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 12
   },
   {
-    "id": "219c7160d30f",
-    "title": "Insurers making progress on standardizing prior authorizations",
-    "url": "https://www.healthcaredive.com/news/insurers-standardize-electronic-prior-authorizations-ahip-bcbsa/818524/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-27T13:14:56+00:00",
-    "summary": "Aligning electronic data submission requirements for prior authorizations is one prong of the insurance industry’s commitment to reform the unpopular preapprovals.",
-    "image_url": "https://imgproxy.divecdn.com/b4tGJEzkA6zU5-LlPaw63eFJi__Gvv7S1Ph-hZjNI3A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "f9e18cdaeec9",
-    "title": "Adobe Stock Is Dropping Today: What's Happening? - Adobe (NASDAQ:ADBE) - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVFRZS3NVX3dBcTV4aVNFYm1ZY3hHZE9tQXNERUZBbS0wSm5xU3owc0U4UGtIUzJCWnM3SThJYy1EcDdWVXNvcWNHeXhuZFRwbzEzaW93YjljXzJ3MVl6TXRfNXJCYm1DdFo4S1dPVTRwTDEtYzNrUTZEak9ibGRDbTA3N2o3S3YxbWNRMS1TcEtuQ0NjWE92QXRIdHN0TDI5dzFEZkZIUlBJUQ?oc=5",
-    "source": "Adobe",
+    "id": "8f8a7bd233ce",
+    "title": "Analysts’ Opinions Are Mixed on These Technology Stocks: WEX (WEX), Adobe (ADBE) and Cohu (COHU) - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQSWJfbkZIOWx5TWc0NFZoVkRSU0Y3WHFYdV8wUnZBMWs1R3NLcXhlRFB6ajNHWVhpbEU4bE1naHo5dzVleXRjdkNUc1RLRkxRVkRaLXh6RDVTSGZkSHhpZWRvb2VWZnNQQXM1VjFVc1JiYThBZ3BmZE9JZjI0WHhrQnpxQmNNd0hGZGFGQ1lSeVNmNlhfNUx0SlE2SEZGSUw3aDFuTkhnSF9sYVFkMml1TGl3SUZvWnZodVMzRGVUdjItR05scTBDZTg2eUpiZ3l3dVhfQjE5N1JGcnloemE0ak8wUzR0NUpXRlNhRi1pR3JFbjFMVU9fREhZWkFCaDMyM3c?oc=5",
+    "source": "Adobe Inc",
     "source_category": "adobe",
-    "published": "2026-04-27T18:27:41+00:00",
-    "summary": "Adobe Stock Is Dropping Today: What's Happening? - Adobe (NASDAQ:ADBE) Benzinga",
+    "published": "2026-04-27T23:37:30+00:00",
+    "summary": "Analysts’ Opinions Are Mixed on These Technology Stocks: WEX (WEX), Adobe (ADBE) and Cohu (COHU) The Globe and Mail",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "e5fcc08358bf",
-    "title": "Hans Vestberg: Global Technology Visionary, 5G Pioneer, and Former Verizon Chairman and CEO - BBN Times",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa1F3RWozNGs4M091TVJDd2o4Mk5oRWlsMFlyOFh6QmFocERPOTN5Z0tzSzVpOG1KZktVb0xCRmNFZWxweEFEbzlwOVlKSFBYNXRLZ1g3TUpZWFZfX1VWQ01NV25KWmhIUXRtaWFkNDc4OU5lMjhLbmF6RnJWQzBNaV9fYkJMdHZPMDZ4WFRlalF5NzlSTWNQRkJ1Y21Qd1RqQ3dsQ1NxSzhOWkdjal9BeTE0dmJ3VFFCOUFhbUYzQU0?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-04-27T20:23:11+00:00",
-    "summary": "Hans Vestberg: Global Technology Visionary, 5G Pioneer, and Former Verizon Chairman and CEO BBN Times",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "telecom"
     ],
     "relevance_score": 12
   },
@@ -1159,6 +1114,56 @@
     "relevance_score": 11
   },
   {
+    "id": "cf7c103f6c88",
+    "title": "The Download: DeepSeek’s latest AI breakthrough, and the race to build world models",
+    "url": "https://www.technologyreview.com/2026/04/27/1136438/the-download-deepseek-v4-ai-world-models/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-04-27T12:10:00+00:00",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Three reasons why DeepSeek’s new model matters On Friday, Chinese AI firm DeepSeek released a preview of V4, its long-awaited new flagship...",
+    "image_url": null,
+    "tags": [
+      "The Download"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "3df890fdab1e",
+    "title": "Humana's CenterWell, Mark Cuban Cost Plus Drugs partner to tackle employers' drug costs",
+    "url": "https://www.fiercehealthcare.com/payers/humanas-centerwell-mark-cubans-cost-plus-drugs-handle-employers-prescriptions",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-27T12:24:00+00:00",
+    "summary": "The arrangement aims to create new \"end-to-end employer prescription solutions\" fueled by Cost Plus Drugs' software platform and drug pricing, as well as CenterWell Pharmacy's distribution infrastructure.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-680899226%20%281%29.jpg?VersionId=ZcyQSs8gUTxWwvUgdwYtlJrnJJJghFtA",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "219c7160d30f",
+    "title": "Insurers making progress on standardizing prior authorizations",
+    "url": "https://www.healthcaredive.com/news/insurers-standardize-electronic-prior-authorizations-ahip-bcbsa/818524/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-27T13:14:56+00:00",
+    "summary": "Aligning electronic data submission requirements for prior authorizations is one prong of the insurance industry’s commitment to reform the unpopular preapprovals.",
+    "image_url": "https://imgproxy.divecdn.com/b4tGJEzkA6zU5-LlPaw63eFJi__Gvv7S1Ph-hZjNI3A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTgxMDI0NDgyLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "2db938509b2d",
     "title": "Watch the newest commercials from FedEx, Apple, Heinz and more - Ad Age",
     "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE9UbWhkWGctVURwakFCa3NiYTNOV2dQRUFQclN2bEh0VmNra3ZpYkM1QkZQUnQzbWRDdUtnV1M5M3daZWM0a1lNMXBIZkJtNEYtZjJqbTRFdw?oc=5",
@@ -1171,6 +1176,21 @@
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "2dfbaba80e14",
+    "title": "Another former bull throws in the towel on Adobe’s stock. Here’s the software stock he now favors. - MarketWatch",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOQzlEbDItVVN3cXhlZXJxT3FHdXh6Sm81a0ZVa1M0MldIaHZUdS1PT0x4c29mbXJMMkYzY0JlZ1FwRjR2c19uZnNmWnZ2Q3A4VGJWdG1tUlRPN21nNk14WnVPVlB2RkFfb0xJb09BM1FOUFJjb196T3FObjlfNlRnaHFib2RwMlpiMEtkYVdoR1U5VjVYekRCUzdHRXJDT3gyUTIyajc5NldDVVk1VGJBZjRWNE9NRnBoZzZPQ3FkdFp5VlhSQmpubmNoRmcydUFxVTdZ?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-04-27T17:29:00+00:00",
+    "summary": "Another former bull throws in the towel on Adobe’s stock. Here’s the software stock he now favors. MarketWatch",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 11
   },
@@ -1191,18 +1211,33 @@
     "relevance_score": 11
   },
   {
-    "id": "14404fc43efa",
-    "title": "A Verizon Customer Tricked Into Receiving A $1,500 iPad Pro 13 As Scammers Hijack The Official App’s Notifications - Wccftech",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUE80SEswdng2REVYeGFtbWtuZDNTRDJXUmdkWERrWWEtRW5VV1l0MF9VVDFzMWVjQW5UcWRvNzFaTnVXQmtjbGhhYzdHbE1mNHpRWDRqdmtJNkVnQkJyN1BDXzUwc1Q0bUJFd3BjYjhURmNpZUw5LVlRa19tYzIxZmpRazc2SGZBcnZTMkhhMUJ4QW9KaWgxLURoU0ZQNVRySnhjaDRYaW04TktsWG1GYk1PWHRTNUhDTm9XMnNhZHM3elBNeEFlX3hqRDFLd9IB0wFBVV95cUxPa1NLc09INEcwbFY3b3l1R2ZaNTRfMjk3d2Vucjk0YlVGV3lCaUhHTTNjRXVodkZUZmx3aE4xblZvN3RrUkpGSGxlMDVIbjNmQUdmSVFqamhELTQtQzlRNWtiUTZXclFsaGhRMEJKUWZFRng0NWIxcTlDVG9wQ21HNzNIRmhISEZadlplbVhMZ2JGajY5MkwtazU4aTE3RVYweEd0U3JYS0tCSng1U2FhaFFKdTlmaEdwOVFMY1RoVVdMTDBkaXRGbmlNYXdjUFRNQWg0?oc=5",
-    "source": "Telecom",
+    "id": "e5fcc08358bf",
+    "title": "Hans Vestberg: Global Technology Visionary, 5G Pioneer, and Former Verizon Chairman and CEO - BBN Times",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNa1F3RWozNGs4M091TVJDd2o4Mk5oRWlsMFlyOFh6QmFocERPOTN5Z0tzSzVpOG1KZktVb0xCRmNFZWxweEFEbzlwOVlKSFBYNXRLZ1g3TUpZWFZfX1VWQ01NV25KWmhIUXRtaWFkNDc4OU5lMjhLbmF6RnJWQzBNaV9fYkJMdHZPMDZ4WFRlalF5NzlSTWNQRkJ1Y21Qd1RqQ3dsQ1NxSzhOWkdjal9BeTE0dmJ3VFFCOUFhbUYzQU0?oc=5",
+    "source": "Telecom 5G",
     "source_category": "industry_telecom",
-    "published": "2026-04-27T19:03:00+00:00",
-    "summary": "A Verizon Customer Tricked Into Receiving A $1,500 iPad Pro 13 As Scammers Hijack The Official App’s Notifications Wccftech",
+    "published": "2026-04-27T20:23:06+00:00",
+    "summary": "Hans Vestberg: Global Technology Visionary, 5G Pioneer, and Former Verizon Chairman and CEO BBN Times",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
       "telecom"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "c2a312741e75",
+    "title": "Meta Is Preparing to Have to Undo Its Manus Acquisition After China Ban - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPRXFaS3ZpOHN5MkktLW9Ta0FudDRTSW8wS2xPMEt1MjlOTU8ta29XNzk0LVhMenA5d1liVWRuRFJRalA4RDI2a0tHa3BqUHJmLVJROGhnY1R3eS1RbEN2R294NHl1YmlrWThGdE01QVN6M1YtY2tjX3FobVlySDg5RjJ1Ml9aUTd4OWpnTUZ5Y0Zyb3FGR3lHcVNDYTI2eWtKN1FaTDdhRExIaWVP?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-04-28T02:49:00+00:00",
+    "summary": "Meta Is Preparing to Have to Undo Its Manus Acquisition After China Ban WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 11
   },
@@ -1301,6 +1336,53 @@
     "relevance_score": 10
   },
   {
+    "id": "14404fc43efa",
+    "title": "A Verizon Customer Tricked Into Receiving A $1,500 iPad Pro 13 As Scammers Hijack The Official App’s Notifications - Wccftech",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOUE80SEswdng2REVYeGFtbWtuZDNTRDJXUmdkWERrWWEtRW5VV1l0MF9VVDFzMWVjQW5UcWRvNzFaTnVXQmtjbGhhYzdHbE1mNHpRWDRqdmtJNkVnQkJyN1BDXzUwc1Q0bUJFd3BjYjhURmNpZUw5LVlRa19tYzIxZmpRazc2SGZBcnZTMkhhMUJ4QW9KaWgxLURoU0ZQNVRySnhjaDRYaW04TktsWG1GYk1PWHRTNUhDTm9XMnNhZHM3elBNeEFlX3hqRDFLd9IB0wFBVV95cUxPa1NLc09INEcwbFY3b3l1R2ZaNTRfMjk3d2Vucjk0YlVGV3lCaUhHTTNjRXVodkZUZmx3aE4xblZvN3RrUkpGSGxlMDVIbjNmQUdmSVFqamhELTQtQzlRNWtiUTZXclFsaGhRMEJKUWZFRng0NWIxcTlDVG9wQ21HNzNIRmhISEZadlplbVhMZ2JGajY5MkwtazU4aTE3RVYweEd0U3JYS0tCSng1U2FhaFFKdTlmaEdwOVFMY1RoVVdMTDBkaXRGbmlNYXdjUFRNQWg0?oc=5",
+    "source": "Telecom",
+    "source_category": "industry_telecom",
+    "published": "2026-04-27T19:03:00+00:00",
+    "summary": "A Verizon Customer Tricked Into Receiving A $1,500 iPad Pro 13 As Scammers Hijack The Official App’s Notifications Wccftech",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "7e590110367f",
+    "title": "Claudia Sheinbaum Is Learning the Price of Appeasing Trump - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPUU9pci1iOXpvVnJYOFpKZF9EeUZwbFlsZWNJLXVYZUVpdVNtSGd1VUJCZFVOVGt3YWtDLTBYMXBMSm1aSnRpX2ZOOUpnVjFubUhCTzBaNmIwQlRmS241MHdoSWZRVHV4VHRoMXQxYWhVUmNIX1l4dVd0UHBnV2xublRiaw?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-04-28T04:31:25+00:00",
+    "summary": "Claudia Sheinbaum Is Learning the Price of Appeasing Trump WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "7923fb071e03",
+    "title": "Digital age reshaping health information, trust under pressure – Stakeholder - Realnews Magazine",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQREpId19ydEh2WS1rM2M5dHlnWTJGYU5FTm1ZTXFSSlVLMmpWYjZNLURjclR0X1FLVXR0bW1SZ0lwWmNCRzZzX1NLX2ZsUjc0OVdxSlg0U2VVVElQSFpoLUh2VWlhTWZuMHFBYXBkUWJ2bkVkbnBKLUUwRXJmMzRXU2hmY1dLdnZWcmFweWZJbjFGS0xIc0JYT2RMcnpXYUp2ZWQtZkRR?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-28T06:20:40+00:00",
+    "summary": "Digital age reshaping health information, trust under pressure – Stakeholder Realnews Magazine",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "1d9a124552b7",
     "title": "The Download: introducing the 10 Things That Matter in AI Right Now",
     "url": "https://www.technologyreview.com/2026/04/22/1136310/the-download-10-things-that-matter-in-ai-right-now/",
@@ -1315,24 +1397,6 @@
     "industries": [
       "tech",
       "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "fddb52976b78",
-    "title": "NHL looks to TikTok to capitalize on Heated Rivalry and Olympics as it grows beyond U.S. and Canada",
-    "url": "https://digiday.com/marketing/nhl-looks-to-tiktok-to-capitalize-on-heated-rivalry-and-olympics-as-it-grows-beyond-u-s/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-04-23T04:01:00+00:00",
-    "summary": "The league is leveraging a successful TikTok operation to expand presence in Europe, recruit casual fans and pump up the value of its media rights.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/04/hockey-revenue-digiday.jpg",
-    "tags": [
-      "Marketing"
-    ],
-    "industries": [
-      "media",
-      "tech"
     ],
     "relevance_score": 9
   },
@@ -1449,24 +1513,6 @@
     "relevance_score": 9
   },
   {
-    "id": "fe6bdeec24ac",
-    "title": "AI synthetic audiences are already here and poised to upend the consulting industry",
-    "url": "https://venturebeat.com/technology/ai-synthetic-audiences-are-already-here-and-poised-to-upend-the-consulting-industry",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-04-26T04:00:00+00:00",
-    "summary": "There is a war brewing between AI and consulting. Akin to an armies slow march towards the castle, a new technology is coming to dethrone the expert guessers of Mckinsey, Nielsen, Gartner, Publicis and the rest. Any consulting that involves analyzing people (think all of...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4AZSXEMtdtnPgmv3m8XzM6/e9cc92137da39bed7cf07a278ffa2775/Carl_Franzen_graphic_novel_style_intricate_line_drawing_first_f1777103-36c6-4343-90ce-11883e004271_2.png?w=300&q=30",
-    "tags": [
-      "Technology",
-      "DataDecisionMakers"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 9
-  },
-  {
     "id": "3d3481ec5582",
     "title": "Monitoring LLM behavior: Drift, retries, and refusal patterns",
     "url": "https://venturebeat.com/infrastructure/monitoring-llm-behavior-drift-retries-and-refusal-patterns",
@@ -1482,86 +1528,6 @@
     "industries": [
       "tech",
       "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "f855a6169458",
-    "title": "Video production services turn a B2B manufacturing trade show booth into a 6-month sales asset, extending value and reaping a high ROI - FinancialContent",
-    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPMlZRV1A4SEZFUllmNUN0a1NsVERkNWoxQmdjMHRmdGVVdkFzQVZUc21SZ1UyazdpOFlLVC14TF9xQ2dBbGltdHFGT1h5V1dxN0tsb3JKRXQ3S1lpZS1va3dBZ0ZzSnh5cWxLQ1FFOG0wYUlTakZRamNZVVdWcGY1bHE2ZWV3ZkpyTXpIaGxzLXBsTTF4VFd1SFZQc2Q4aXJmZnA0UkZiZnJDV2ZmT19qYmIxNFhCQ0RmZU5BSVhjZC1YOUkyY1VqT2dnT0NNMFgtcHJDLWgxYTBVV3FqWkhmREt6dkVTYk54WjhxVGZqOHV2OVVHd29VanZZemUyU2p0YkczS2ZLS2VESTZLZGtYNHg1NHc2SUoyTXlkWE9FLVY2Nm5KN0E?oc=5",
-    "source": "Industrial B2B",
-    "source_category": "industry_industrial",
-    "published": "2026-04-27T02:01:00+00:00",
-    "summary": "Video production services turn a B2B manufacturing trade show booth into a 6-month sales asset, extending value and reaping a high ROI FinancialContent",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "d27276ca2bd0",
-    "title": "Meta Platforms Enters Solar-Power Pact - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQbXJyLVlfaTFTQVhucmlSWnd5ZkRoSjJqdFJqRGFVUXBVSHZoLV85RENRUFFtd2FRam53RUpaSUNnRVFWS2ZOeE9MYWZMekFHZjFVdWZ2QTRzNjNnMUw5LWZOTkN3NUNhQkZXQWhkeUhHemZpV1Nlc2VwcF9NMWIyb09UcTF5SWxFUnUxejRMeXQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-04-27T11:51:00+00:00",
-    "summary": "Meta Platforms Enters Solar-Power Pact WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "b57df08aabba",
-    "title": "Regeneron Partners with TriNetX to Expand Data-Driven Drug Discovery and Digital Health Capabilities - The Healthcare Technology Report.",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNNjREM0Y5OUlSWFp3MjNPZkh3Ty03eF9jS1lldTNzS2k1M09yc2NjMnQzSldGVkFyRDgtTC1VeWJEcmJCaDBuYXhJbUxMWmVNX0pISGcwV0dCbTlfMVE5MDRVaW9RRDZRWEo1Z3JVeDB2UWJyV3M5UjVoUE9TVzdVQUFFMjJ6Rlp2TGlINlllLVhsMXotU1NudXNlOWk1Z0k3RGhTUUUzY1hMZ2p1aVVxSDJ1Q2otdV8ybnFqdHdFcnladWV3Zm1Wc21PSkJtNEFpOWJ0UU5tY1BOekE?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-27T15:02:35+00:00",
-    "summary": "Regeneron Partners with TriNetX to Expand Data-Driven Drug Discovery and Digital Health Capabilities The Healthcare Technology Report.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "8f5a3e2349fd",
-    "title": "FDA Approves Caplyta for Adults with Schizophrenia | PharmExec - Pharmaceutical Executive",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0JydHE5UjFwLXg1N1ZYcnByTWk5d1VvTk1abndTVnhlbEpyQTh0Q3RfQl9zQ2lyYm1oMzNoRkUwNklzcU5KbUhvenU3NjN6VVZXMXVoS1YtcjFPOGItRHVYeGNBVGNiWXZFeEhtemRlLWRwNFBtdW03eU1FZVpjdkpFNXk?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-27T18:45:17+00:00",
-    "summary": "FDA Approves Caplyta for Adults with Schizophrenia | PharmExec Pharmaceutical Executive",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "3309066fc875",
-    "title": "The Main Street Economy Will Suffer If Capital Is Reduced For Wall Street’s Eight Megabanks - Better Markets",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmIzZU02cUo5cUNPOXhWRlIwX25IeXdsYi00anFfaGlmaDhDbVdFTzlpMnRmOFlFM1hCT0g3T2s4Z296MmZfcmdFcGtBVDNVVDNVaFlYQU9FR3pSRGp2TmdxTDVEVWZBSGRueC1wYWowdTRmamN2MktQVi1OR0J6S21FTDZTVXdreTVwck9sV21aRnhVNGprdDN3cVE4WVdOel9nemZ4OEViMzkwSk1nWVlaQzRIRVFxR3FYSTEtNW84aWVS?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-04-27T19:51:10+00:00",
-    "summary": "The Main Street Economy Will Suffer If Capital Is Reduced For Wall Street’s Eight Megabanks Better Markets",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
     ],
     "relevance_score": 9
   },
@@ -1636,18 +1602,52 @@
     "relevance_score": 8
   },
   {
-    "id": "7447cf0f1d4a",
-    "title": "India's Paytm trims losses; analysts see limited hit from bank unit licence scrapping - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUxDNldLVUNubjRWV3ZRUGhySE03S2JNMWgtdGpfOXJYXzNuRVI5WUlKZ0xhLWlvcllTdVNTNnk2d3ktdGxmU2g1N3c2MG1OWjBXdnhpWVFObUV5dmQ0aU9aSE1kMlZBclBOVU9fTlY0UXQyZFZfdUcwWFh1R2NIbTlfY25lV1dORkN0VnBqa0Y2eWFmalgzS2w2b2tCRFJpUU52aG9iampvUnBDbVR1cHhXZDNTcTROLXgtdXJR?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-04-27T04:10:00+00:00",
-    "summary": "India's Paytm trims losses; analysts see limited hit from bank unit licence scrapping Reuters",
+    "id": "fe6bdeec24ac",
+    "title": "AI synthetic audiences are already here and poised to upend the consulting industry",
+    "url": "https://venturebeat.com/technology/ai-synthetic-audiences-are-already-here-and-poised-to-upend-the-consulting-industry",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-04-26T04:00:00+00:00",
+    "summary": "There is a war brewing between AI and consulting. Akin to an armies slow march towards the castle, a new technology is coming to dethrone the expert guessers of Mckinsey, Nielsen, Gartner, Publicis and the rest. Any consulting that involves analyzing people (think all of...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4AZSXEMtdtnPgmv3m8XzM6/e9cc92137da39bed7cf07a278ffa2775/Carl_Franzen_graphic_novel_style_intricate_line_drawing_first_f1777103-36c6-4343-90ce-11883e004271_2.png?w=300&q=30",
+    "tags": [
+      "Technology",
+      "DataDecisionMakers"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "1a3f2132e877",
+    "title": "FDA Approves Icotrokinra, First Oral IL-23 Receptor Blocker for Psoriasis - Dermatology Times",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQZTJKWnB0YmNqMWhlLUxsX2xzNFpCMWt1cjNPYkhjMzR4RW1DWjVaTkllTUpiNDJLMlVhbFFrdjZod2NTMW4xd0pJMUNNVWpSWVZTLVdKWkwtSHFJZ1N5RkVBMTFBM1hIRy1HUU1GUXFaTENFZmhuOHgxajJNYTQ2b1V5UUhjUzZsTlhOYmx1WE1MYWpvN2twelhFRkYyV2RIRm9URXMySkpnUG5UeXc?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-26T15:00:00+00:00",
+    "summary": "FDA Approves Icotrokinra, First Oral IL-23 Receptor Blocker for Psoriasis Dermatology Times",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "financial"
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "f855a6169458",
+    "title": "Video production services turn a B2B manufacturing trade show booth into a 6-month sales asset, extending value and reaping a high ROI - FinancialContent",
+    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxPMlZRV1A4SEZFUllmNUN0a1NsVERkNWoxQmdjMHRmdGVVdkFzQVZUc21SZ1UyazdpOFlLVC14TF9xQ2dBbGltdHFGT1h5V1dxN0tsb3JKRXQ3S1lpZS1va3dBZ0ZzSnh5cWxLQ1FFOG0wYUlTakZRamNZVVdWcGY1bHE2ZWV3ZkpyTXpIaGxzLXBsTTF4VFd1SFZQc2Q4aXJmZnA0UkZiZnJDV2ZmT19qYmIxNFhCQ0RmZU5BSVhjZC1YOUkyY1VqT2dnT0NNMFgtcHJDLWgxYTBVV3FqWkhmREt6dkVTYk54WjhxVGZqOHV2OVVHd29VanZZemUyU2p0YkczS2ZLS2VESTZLZGtYNHg1NHc2SUoyTXlkWE9FLVY2Nm5KN0E?oc=5",
+    "source": "Industrial B2B",
+    "source_category": "industry_industrial",
+    "published": "2026-04-27T02:01:00+00:00",
+    "summary": "Video production services turn a B2B manufacturing trade show booth into a 6-month sales asset, extending value and reaping a high ROI FinancialContent",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 8
   },
@@ -1659,38 +1659,6 @@
     "source_category": "industry_lifesciences",
     "published": "2026-04-27T09:10:00+00:00",
     "summary": "FDA approves Regeneron gene therapy for genetic hearing loss medwatch.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "50cce08fb188",
-    "title": "Infrasat highlights Africa’s role in space and satellite-driven digital transformation - Tech Review Africa",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOXzBqWTZMVmNHRFZmeDVZNEIwei1wV1F0dWt0MVJNbUMwS2JKN2lvTmFiYXRtdUlFQ1Z6NDZ2aWNwdnB5M2FGM3JaUzFvbE1nNFhRc3MxZ2l0SkJyMEVmdklhdllLb1hQNEdzOHhnXzFxM0ZJS0pTMVRKSW5BeWJfSGhZcTlNU3p2WlhGME9FbjZpdDhWcnI3UV9kLXNwOWRSbmNNOWNVUm9ZU1lZTl9XLTI0MnZ5ZDh3QVJNZlcwX3dmZw?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-04-27T10:06:25+00:00",
-    "summary": "Infrasat highlights Africa’s role in space and satellite-driven digital transformation Tech Review Africa",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "bd8a4b4b7a0d",
-    "title": "Advancing Efficiency in Health Clinic Practice Management Software - Healthcare Tech Outlook",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOc2xEUWQzaEJxcjY3TGhwWmhrY0R4eDBXaE9kZEtCaHlZdk9GSXltUzZBQ3ZZYVhqYnM2aE9ZV1UyTHhmalJqTElDVERyRVhaRFE0ODZNZ1owbFgwS3RLUlBuRlU0MVkxaDRlT21VME1maWlEcVZoVFR3Y1ROUndVWWkzNWhLZm9ZNy1yUHZRLWJzcUQzYzhFRk5GelBTRDB1VDItWHlCOFlKRkE5am1NQk9maVNQWFhxLWFyUVlmMHM?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-27T12:21:29+00:00",
-    "summary": "Advancing Efficiency in Health Clinic Practice Management Software Healthcare Tech Outlook",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1717,6 +1685,54 @@
     "relevance_score": 8
   },
   {
+    "id": "8f5a3e2349fd",
+    "title": "FDA Approves Caplyta for Adults with Schizophrenia | PharmExec - Pharmaceutical Executive",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQN0JydHE5UjFwLXg1N1ZYcnByTWk5d1VvTk1abndTVnhlbEpyQTh0Q3RfQl9zQ2lyYm1oMzNoRkUwNklzcU5KbUhvenU3NjN6VVZXMXVoS1YtcjFPOGItRHVYeGNBVGNiWXZFeEhtemRlLWRwNFBtdW03eU1FZVpjdkpFNXk?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-27T18:45:17+00:00",
+    "summary": "FDA Approves Caplyta for Adults with Schizophrenia | PharmExec Pharmaceutical Executive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "3309066fc875",
+    "title": "The Main Street Economy Will Suffer If Capital Is Reduced For Wall Street’s Eight Megabanks - Better Markets",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQMmIzZU02cUo5cUNPOXhWRlIwX25IeXdsYi00anFfaGlmaDhDbVdFTzlpMnRmOFlFM1hCT0g3T2s4Z296MmZfcmdFcGtBVDNVVDNVaFlYQU9FR3pSRGp2TmdxTDVEVWZBSGRueC1wYWowdTRmamN2MktQVi1OR0J6S21FTDZTVXdreTVwck9sV21aRnhVNGprdDN3cVE4WVdOel9nemZ4OEViMzkwSk1nWVlaQzRIRVFxR3FYSTEtNW84aWVS?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-04-27T19:51:10+00:00",
+    "summary": "The Main Street Economy Will Suffer If Capital Is Reduced For Wall Street’s Eight Megabanks Better Markets",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "5e1bba1f434f",
+    "title": "AI agents will work across Slack, Google Workspace and Salesforce - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdkNrc3RWSGZtaFh3Qm8tSll3ZHNBd24zM01NN2tva2lUSnVJWlRKbWhqNHljcGd2Z3VXVkMzSGZnQy03UW5vekdjX3FITG4yX21FdnNyQXowOUZOS0JhTU1sdVI5b2Q1RVZiVl9xRHJ5SXdVdk5ONTZzZ2lNTUQ2NmFUZlo5MDFlY290aTZ2V29KclBSQmRldmxGM3pMeEk2djdNUTh0eGcyMnpEdy0xYXRVYWFKd0x6?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-04-22T11:58:00+00:00",
+    "summary": "AI agents will work across Slack, Google Workspace and Salesforce Stock Titan",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 7
+  },
+  {
     "id": "813e6e22edbb",
     "title": "Zocdoc partners with Yelp to allow real-time scheduling",
     "url": "https://www.fiercehealthcare.com/health-tech/zocdoc-partners-yelp-allow-real-time-scheduling",
@@ -1725,6 +1741,22 @@
     "published": "2026-04-22T12:01:00+00:00",
     "summary": "The capability is now available on Yelp’s iOS app on provider pages and through the platform’s new artificial intelligence chatbot, Yelp Assistant. It will expand to Android and desktop later this year, the announcement said.",
     "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1096889966.jpg?VersionId=PbYqDzxfR5up5Eh75OZri55Q3FOeYNpJ",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "3db656042d49",
+    "title": "Salesforce and Google partner on agentic cross-platform collaboration - SiliconANGLE",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPQndYck0wdV8wV1JzRXJ2aTNwLUlnbjNKdzNSWW80bU9NaWpqRlhsTV8zcjlPbmdnQWtpbHpqMklVaHczZzVaOWFpeXdxbU5KVjdyVE9xazFCTndKOXFVS2FNdko3Z0YzUFN3aXhwY3dHZk5xcXhkajQ4bW55b09VZXRndUwyb203SVMwdmx2VWtRUU9YbXE0WjlzTjFlTW5Y?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-04-23T01:02:07+00:00",
+    "summary": "Salesforce and Google partner on agentic cross-platform collaboration SiliconANGLE",
+    "image_url": null,
     "tags": [],
     "industries": [
       "tech",
@@ -1750,6 +1782,22 @@
     "relevance_score": 7
   },
   {
+    "id": "7447cf0f1d4a",
+    "title": "India's Paytm trims losses; analysts see limited hit from bank unit licence scrapping - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUxDNldLVUNubjRWV3ZRUGhySE03S2JNMWgtdGpfOXJYXzNuRVI5WUlKZ0xhLWlvcllTdVNTNnk2d3ktdGxmU2g1N3c2MG1OWjBXdnhpWVFObUV5dmQ0aU9aSE1kMlZBclBOVU9fTlY0UXQyZFZfdUcwWFh1R2NIbTlfY25lV1dORkN0VnBqa0Y2eWFmalgzS2w2b2tCRFJpUU52aG9iampvUnBDbVR1cHhXZDNTcTROLXgtdXJR?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-04-27T04:10:00+00:00",
+    "summary": "India's Paytm trims losses; analysts see limited hit from bank unit licence scrapping Reuters",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 7
+  },
+  {
     "id": "dd686c194e21",
     "title": "The AI Splurge Is Costing Big Tech Its Workforce - WSJ",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNWnlEMnJWd0ZUVXF6a2VRU1VmTDBXdTZpT3dCb0ItRF9CQkVUVEw3d3FmSlNwMlhvNFp0UkFLZi1va0swMDd3WjFrZ1NEcExkR2xGdmFDb2ExWm5Rc0RBalJrYUtWYm5pNXdpZ0gxdHh0RmFjSzktRzl2UEMtRjRwY295SUFXV19NZEFMR2RR?oc=5",
@@ -1766,68 +1814,18 @@
     "relevance_score": 7
   },
   {
-    "id": "6e16f088034b",
-    "title": "Wall Street Is Sorting Software Companies Into Winners and Losers - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPQy04TFNJcDNWaHlJNHBVUVZaRy1TamNxcXoxYV93dEN2VmpTb2JGMW1URjBnMXlCOGpCcjR2aGpWYWk4LS1FckhKamJhZEJiYjAxQ0xmRTIxS201OUpGZ192OVlyYzZMYzE1alowdy1BTF9SNGFqNmd4N1BOdzBQd1NRenNGbVhtTzVwMVdyMTJNalZ1NS02VVplWXpmeFJhYlFQSC15WU92M2RxYXFHNmZB?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-04-26T09:30:00+00:00",
-    "summary": "Wall Street Is Sorting Software Companies Into Winners and Losers WSJ",
+    "id": "50cce08fb188",
+    "title": "Infrasat highlights Africa’s role in space and satellite-driven digital transformation - Tech Review Africa",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOXzBqWTZMVmNHRFZmeDVZNEIwei1wV1F0dWt0MVJNbUMwS2JKN2lvTmFiYXRtdUlFQ1Z6NDZ2aWNwdnB5M2FGM3JaUzFvbE1nNFhRc3MxZ2l0SkJyMEVmdklhdllLb1hQNEdzOHhnXzFxM0ZJS0pTMVRKSW5BeWJfSGhZcTlNU3p2WlhGME9FbjZpdDhWcnI3UV9kLXNwOWRSbmNNOWNVUm9ZU1lZTl9XLTI0MnZ5ZDh3QVJNZlcwX3dmZw?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-04-27T10:06:25+00:00",
+    "summary": "Infrasat highlights Africa’s role in space and satellite-driven digital transformation Tech Review Africa",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
-      "financial"
+      "tech"
     ],
-    "relevance_score": 6
-  },
-  {
-    "id": "94c207bad00a",
-    "title": "Wave Life Sciences seeks court approval for Singapore-to-US move - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbDBMRmpCUWJGdWczemdoazBDalA3ZDBVVmRMamlqb0hXejBTM2dzaEV4TnJSbHh2VmhKcHNQSlhkSU9TZHYzbXc2WVM2OUVFMElhWjU5OHN3eFNTeE5NTjNxdnlZemxRaHhHSkNTMURiS1pTbEI1X25LQXFDU21Fem1pSUtxTjFXaThWM0dtdldGZ2NBdVUxUEZuSE1HcTAtUVdSTGwzZ01tYzc3a0hRak8zbW1FSmhzUjZZ?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-21T20:25:57+00:00",
-    "summary": "Wave Life Sciences seeks court approval for Singapore-to-US move Investing.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "d2a210956166",
-    "title": "‘Rapidly becoming table stakes’: The state of agentic advertising - thecurrent.com",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONTJYUDB6ZklhZW8yeTVWRGxrY2ZGNU54MFp1WlZKdWVJNDR6OC1fb3FaaFdvcDRNdVcwbVk5RUdJNExzWlE2X1piNmNGdjFkSVFrTms0ZDZabWtnVzFfV3FTb3o4YXNSZVUyWTd4aHpCakh1QWRRVUEzYl9tTGZVWHVnWjhLWThIa0E1SzVB?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-04-23T12:00:00+00:00",
-    "summary": "‘Rapidly becoming table stakes’: The state of agentic advertising thecurrent.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "fff3d7be97b5",
-    "title": "'Life-changing' psoriasis pill gets FDA approval - Institute for Molecular Bioscience",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNekdQcGdzZkVYdG4tY18zak9NSGlVTjBSSVRSTWJpWjl5bWRQSGl4MUNRY2JkMlVKc09SanRfQ0tfY2xIckxWX05sRldiMmQwNlRUdnZHdHdGNTVkampGTzJFaUhlU3lCVkM0NllmM2xRQ3RSQVVZc3JYT3Y5Z0RJaWRMYlViOGFDRGMzaw?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-24T04:00:33+00:00",
-    "summary": "'Life-changing' psoriasis pill gets FDA approval Institute for Molecular Bioscience",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 5
+    "relevance_score": 7
   }
 ]
