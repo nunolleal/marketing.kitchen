@@ -13,10 +13,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 60,
-    "also_covered_by": [
-      "Telecom 5G"
-    ]
+    "relevance_score": 57
   },
   {
     "id": "7525467a61bf",
@@ -35,7 +32,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 58,
+    "relevance_score": 55,
     "also_covered_by": [
       "Agentic Marketing"
     ]
@@ -58,7 +55,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 55,
+    "relevance_score": 52,
     "also_covered_by": [
       "Salesforce AI"
     ]
@@ -81,7 +78,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 54
+    "relevance_score": 51
   },
   {
     "id": "c9bbf3c7bccd",
@@ -103,7 +100,7 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 54
+    "relevance_score": 51
   },
   {
     "id": "ce8169df615c",
@@ -117,41 +114,6 @@
     "tags": [
       "Marketing management",
       "Marketing operations (MOps)"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 53
-  },
-  {
-    "id": "7769836e5508",
-    "title": "Meta opens its ad ecosystem to third-party AI tools",
-    "url": "https://digiday.com/marketing/meta-opens-its-ad-ecosystem-to-third-party-ai-tools/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-04-29T22:01:00+00:00",
-    "summary": "The platform is introducing Meta ads AI connectors, as part of its broader AI push to make campaign management easier.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/04/meta-tools-digiday.jpg",
-    "tags": [
-      "Marketing"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 52
-  },
-  {
-    "id": "020436ca3363",
-    "title": "How to focus marketing on high-impact work",
-    "url": "https://martech.org/how-to-focus-marketing-on-high-impact-work/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-04-29T13:27:41+00:00",
-    "summary": "If your marketing team spends too much time on low-effort, mind-numbing work, burnout is only one problem headed your way. The post How to focus marketing on high-impact work appeared first on MarTech .",
-    "image_url": "https://www.youtube.com/embed/0-jsvKYMvuc",
-    "tags": [
-      "Conversations with MarTech"
     ],
     "industries": [
       "tech"
@@ -220,25 +182,6 @@
     "relevance_score": 49
   },
   {
-    "id": "9acaed037954",
-    "title": "What vibe coding misses and what open source gets right",
-    "url": "https://martech.org/what-vibe-coding-misses-and-what-open-source-gets-right/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-04-29T12:46:00+00:00",
-    "summary": "As AI-driven development accelerates, ownership and maintenance questions grow. Here’s how open source offers a path forward. The post What vibe coding misses and what open source gets right appeared first on MarTech .",
-    "image_url": "https://martech.org/searchengineland.com/wp-content/seloads/2025/11/semrush-one.webp",
-    "tags": [
-      "Marketing artificial intelligence (AI)",
-      "Marketing technology"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 49
-  },
-  {
     "id": "ba3f5d27b313",
     "title": "10 lessons from real-world ESP migrations",
     "url": "https://martech.org/10-lessons-from-real-world-esp-migrations/",
@@ -275,6 +218,60 @@
     "relevance_score": 48
   },
   {
+    "id": "020436ca3363",
+    "title": "How to focus marketing on high-impact work",
+    "url": "https://martech.org/how-to-focus-marketing-on-high-impact-work/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-04-29T13:27:41+00:00",
+    "summary": "If your marketing team spends too much time on low-effort, mind-numbing work, burnout is only one problem headed your way. The post How to focus marketing on high-impact work appeared first on MarTech .",
+    "image_url": "https://www.youtube.com/embed/0-jsvKYMvuc",
+    "tags": [
+      "Conversations with MarTech"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 47
+  },
+  {
+    "id": "9acaed037954",
+    "title": "What vibe coding misses and what open source gets right",
+    "url": "https://martech.org/what-vibe-coding-misses-and-what-open-source-gets-right/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-04-29T12:46:00+00:00",
+    "summary": "As AI-driven development accelerates, ownership and maintenance questions grow. Here’s how open source offers a path forward. The post What vibe coding misses and what open source gets right appeared first on MarTech .",
+    "image_url": "https://martech.org/searchengineland.com/wp-content/seloads/2025/11/semrush-one.webp",
+    "tags": [
+      "Marketing artificial intelligence (AI)",
+      "Marketing technology"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 46
+  },
+  {
+    "id": "7769836e5508",
+    "title": "Meta opens its ad ecosystem to third-party AI tools",
+    "url": "https://digiday.com/marketing/meta-opens-its-ad-ecosystem-to-third-party-ai-tools/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-04-29T22:01:00+00:00",
+    "summary": "The platform is introducing Meta ads AI connectors, as part of its broader AI push to make campaign management easier.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/04/meta-tools-digiday.jpg",
+    "tags": [
+      "Marketing"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 46
+  },
+  {
     "id": "3ab3a2ff5de5",
     "title": "The confidence layer: Building data foundations marketers can trust",
     "url": "https://martech.org/the-confidence-layer-building-data-foundations-marketers-can-trust/",
@@ -289,7 +286,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 47
+    "relevance_score": 44
   },
   {
     "id": "2ef9109f0711",
@@ -393,114 +390,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 21
-  },
-  {
-    "id": "fefbf9ee2b91",
-    "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
-    "url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-29T18:33:05+00:00",
-    "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Parag-Agrawal-Parallel.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Startups",
-      "TC",
-      "ai agent",
-      "In Brief"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 18
-  },
-  {
-    "id": "dccf9a330fc3",
-    "title": "Google Search queries hit an ‘all time high’ last quarter",
-    "url": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-04-29T20:28:11+00:00",
-    "summary": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday. \"Our AI investments and full stack approach are lighting up every part of the business,\" Pichai...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "AI",
-      "Business",
-      "Google",
-      "News",
-      "Tech"
-    ],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 18
-  },
-  {
-    "id": "893f13be2886",
-    "title": "Microsoft reports sinking Xbox revenue as its cloud business climbs",
-    "url": "https://www.theverge.com/tech/920785/microsoft-xbox-revenue-q3-2026-earnings",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-04-29T20:43:37+00:00",
-    "summary": "Microsoft's Xbox hardware revenue continues to tumble, with the company revealing a 33 percent decline as part of its earnings report released on Wednesday. Even though the rest of Microsoft's consumer-focused division took a dip, the company's cloud and productivity...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Microsoft",
-      "News",
-      "Tech"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 18
-  },
-  {
-    "id": "b5ca8c1cb31d",
-    "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
-    "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-29T23:55:23+00:00",
-    "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "TC",
-      "Microsoft",
-      "OpenAI"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 18
-  },
-  {
-    "id": "8a567f5bf8d3",
-    "title": "Firestorm Labs raises $82M to take drone factories into the field",
-    "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-29T13:10:57+00:00",
-    "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/DSC07538.jpg?resize=1200,675",
-    "tags": [
-      "AI",
-      "Startups",
-      "defense technology",
-      "drones",
-      "Firestorm Labs"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 17
+    "relevance_score": 20
   },
   {
     "id": "ae8921c20636",
@@ -524,6 +414,133 @@
     "relevance_score": 17
   },
   {
+    "id": "fefbf9ee2b91",
+    "title": "Parallel Web Systems hits $2B valuation five months after its last big raise",
+    "url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-29T18:33:05+00:00",
+    "summary": "The AI agent-tool startup founded by former Twitter CEO Parag Agrawal has raised $100 million, led by Sequoia, months after raising a previous $100 million.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/Parag-Agrawal-Parallel.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Startups",
+      "TC",
+      "ai agent",
+      "In Brief"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "dccf9a330fc3",
+    "title": "Google Search queries hit an ‘all time high’ last quarter",
+    "url": "https://www.theverge.com/tech/920815/google-alphabet-q1-2026-earnings-sundar-pichai",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-04-29T20:28:11+00:00",
+    "summary": "Google Search queries hit an \"all time high\" in the first quarter of 2026, according to a statement from CEO Sundar Pichai published as part of Alphabet's earnings on Wednesday. \"Our AI investments and full stack approach are lighting up every part of the business,\" Pichai...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951561/VRG_Illo_STK179_L_Normand_SundarPichai_Neutral.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "AI",
+      "Business",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "893f13be2886",
+    "title": "Microsoft reports sinking Xbox revenue as its cloud business climbs",
+    "url": "https://www.theverge.com/tech/920785/microsoft-xbox-revenue-q3-2026-earnings",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-04-29T20:43:37+00:00",
+    "summary": "Microsoft's Xbox hardware revenue continues to tumble, with the company revealing a 33 percent decline as part of its earnings report released on Wednesday. Even though the rest of Microsoft's consumer-focused division took a dip, the company's cloud and productivity...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/STK095_MICROSOFT_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Microsoft",
+      "News",
+      "Tech"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "b5ca8c1cb31d",
+    "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+    "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-29T23:55:23+00:00",
+    "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "TC",
+      "Microsoft",
+      "OpenAI"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "f3cb86b7bab5",
+    "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+    "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-30T03:58:22+00:00",
+    "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1229449621.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "robots",
+      "Softbank"
+    ],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "8a567f5bf8d3",
+    "title": "Firestorm Labs raises $82M to take drone factories into the field",
+    "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-29T13:10:57+00:00",
+    "summary": "A defense startup just raised $82 million to put drone factories inside shipping containers and bring manufacturing to the front lines.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/DSC07538.jpg?resize=1200,675",
+    "tags": [
+      "AI",
+      "Startups",
+      "defense technology",
+      "drones",
+      "Firestorm Labs"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
     "id": "7725a88c27e8",
     "title": "Google gains 25M subscriptions in Q1, driven by YouTube and Google One",
     "url": "https://techcrunch.com/2026/04/29/google-gains-25m-subscriptions-in-q1-driven-by-youtube-and-google-one/",
@@ -542,7 +559,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "f5fad6ad530c",
@@ -560,7 +577,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "35f3147ae708",
@@ -581,7 +598,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "1abac019fd7c",
@@ -602,84 +619,7 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 16
-  },
-  {
-    "id": "350a3ad1d3cd",
-    "title": "Amazon’s OpenAI gambit signals a new phase in the cloud wars — one where exclusivity no longer applies",
-    "url": "https://venturebeat.com/technology/amazons-openai-gambit-signals-a-new-phase-in-the-cloud-wars-one-where-exclusivity-no-longer-applies",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-04-29T21:14:06+00:00",
-    "summary": "Amazon Web Services on Tuesday launched one of the most consequential enterprise AI plays in the company's 20-year history, simultaneously bringing OpenAI's most powerful models to its Bedrock platform , unveiling a new agentic developer framework, releasing a desktop AI...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6uDI4U3BDukdOjvS9sIfb6/e737b3f07d2422e2215a430785511e2c/nuneybits_Vector_art_of_Amazon_Web_Services_represented_by_a_se_c066ceeb-0bbb-4cee-944b-7e5e9a644fc5.webp?w=300&q=30",
-    "tags": [
-      "Technology",
-      "Orchestration",
-      "Infrastructure"
-    ],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
     "relevance_score": 15
-  },
-  {
-    "id": "aea728b2a4b4",
-    "title": "Google Profit Jumps 81% as Cloud Business Booms - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HclZLODdDV3pZNVNjaWliSGo4QmJSV3ZsOTRzbkkxeF9idTFfT0ZhcDhpRzZUNW56Ny1qNHBTZkJkcEtMcWs0WHNPeWRabW93YnN2cmNDbGhXUVd4QU9OVUxfd2tTTGFfLV8yX05NYloyOUgzbHdZNjBzTQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-04-29T21:56:00+00:00",
-    "summary": "Google Profit Jumps 81% as Cloud Business Booms WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "8861dea7a88e",
-    "title": "Grindr — yes, Grindr — won the WHCD party circuit",
-    "url": "https://www.theverge.com/column/920845/grindr-whcd-party-2026",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-04-29T22:00:00+00:00",
-    "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about technology, politics, and technology learning how to politick. If you're not a subscriber but would like to support our work, please subscribe here. I promise that your money will not go toward paying...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2273020723.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Column",
-      "Policy",
-      "Politics",
-      "Regulator"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "7f6f73dc3be6",
-    "title": "20% Off LG Promo Code & Coupons | May 2026",
-    "url": "https://www.wired.com/story/lg-promo-code/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-04-29T05:00:00+00:00",
-    "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-    "image_url": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
   },
   {
     "id": "8099265fe7af",
@@ -749,6 +689,47 @@
     "relevance_score": 14
   },
   {
+    "id": "350a3ad1d3cd",
+    "title": "Amazon’s OpenAI gambit signals a new phase in the cloud wars — one where exclusivity no longer applies",
+    "url": "https://venturebeat.com/technology/amazons-openai-gambit-signals-a-new-phase-in-the-cloud-wars-one-where-exclusivity-no-longer-applies",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-04-29T21:14:06+00:00",
+    "summary": "Amazon Web Services on Tuesday launched one of the most consequential enterprise AI plays in the company's 20-year history, simultaneously bringing OpenAI's most powerful models to its Bedrock platform , unveiling a new agentic developer framework, releasing a desktop AI...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6uDI4U3BDukdOjvS9sIfb6/e737b3f07d2422e2215a430785511e2c/nuneybits_Vector_art_of_Amazon_Web_Services_represented_by_a_se_c066ceeb-0bbb-4cee-944b-7e5e9a644fc5.webp?w=300&q=30",
+    "tags": [
+      "Technology",
+      "Orchestration",
+      "Infrastructure"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "7f6f73dc3be6",
+    "title": "20% Off LG Promo Code & Coupons | May 2026",
+    "url": "https://www.wired.com/story/lg-promo-code/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-04-29T05:00:00+00:00",
+    "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+    "image_url": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 13
+  },
+  {
     "id": "e25e10361790",
     "title": "Emergency First Responders Say Waymos Are Getting Worse",
     "url": "https://www.wired.com/story/emergency-first-responders-say-waymos-are-getting-worse/",
@@ -768,22 +749,43 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
-    "id": "16e717ee4794",
-    "title": "Microsoft Reports Strong Cloud Growth, but Questions About AI Returns Persist - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmRJQkJzYzc5SHI0bFlpWDQ4V3g0X0tmOWFWSlJuZFZ1a0d1bzZuMFIxN0lON2twMVhfRlZfR1ExQjJuWGdqVWVyWjBYX01XU3hzSVkydDZURE0xTkZzc0dFU285VHlFTmVweUF5VWNBOFotMlFSd3BibDRrVlB3MWFmbVZDMm4ycFdGM05Ob3k4a2NZeFE?oc=5",
+    "id": "aea728b2a4b4",
+    "title": "Google Profit Jumps 81% as Cloud Business Booms - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HclZLODdDV3pZNVNjaWliSGo4QmJSV3ZsOTRzbkkxeF9idTFfT0ZhcDhpRzZUNW56Ny1qNHBTZkJkcEtMcWs0WHNPeWRabW93YnN2cmNDbGhXUVd4QU9OVUxfd2tTTGFfLV8yX05NYloyOUgzbHdZNjBzTQ?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-04-29T23:05:00+00:00",
-    "summary": "Microsoft Reports Strong Cloud Growth, but Questions About AI Returns Persist WSJ",
+    "published": "2026-04-29T21:56:00+00:00",
+    "summary": "Google Profit Jumps 81% as Cloud Business Booms WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
+  },
+  {
+    "id": "8861dea7a88e",
+    "title": "Grindr — yes, Grindr — won the WHCD party circuit",
+    "url": "https://www.theverge.com/column/920845/grindr-whcd-party-2026",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-04-29T22:00:00+00:00",
+    "summary": "Hello and welcome to Regulator, a newsletter for Verge subscribers about technology, politics, and technology learning how to politick. If you're not a subscriber but would like to support our work, please subscribe here. I promise that your money will not go toward paying...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/gettyimages-2273020723.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Column",
+      "Policy",
+      "Politics",
+      "Regulator"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 13
   },
   {
     "id": "a022818483ea",
@@ -804,123 +806,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "65613fe63989",
-    "title": "Meta Reports Big Revenue Jump and Projected Spending Increase - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNY3BKQmlyRHhON210Mmx6VW9QRTIxOHE0d0hzRHhVNnhvMzc4bk5UWFBMWEVFOERENDU1dWswZnhjeGhOTTlFMkJzLTFnRlk2T0dzTVdvUFl3VHVsOWxrSUVCSmNqV2F1S1RwT0Y4YXZWU3V5akdRQmxzc25Mejh5a3h2SHNuUU0?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-04-30T00:27:00+00:00",
-    "summary": "Meta Reports Big Revenue Jump and Projected Spending Increase WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "64db57d7d975",
-    "title": "I've Covered Robots for Years. This One Is Different",
-    "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-04-29T10:00:00+00:00",
-    "summary": "From sorting chicken nuggets to screwing in lightbulbs, Eka’s robotic claw feels like we're approaching a ChatGPT moment for the physical world.",
-    "image_url": "https://media.wired.com/photos/69f11fc37df9442e8d9b4374/master/pass/20260320-wired-eka-robotics-0429.jpg",
-    "tags": [
-      "The Big Story",
-      "Business",
-      "Business / Artificial Intelligence",
-      "longreads",
-      "robots"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
     "relevance_score": 13
-  },
-  {
-    "id": "92dbb98b0b7a",
-    "title": "Your Phone Notifications Reveal More Than You Realize. Here’s How to Lock Them Down",
-    "url": "https://www.wired.com/story/phone-notifications-reveal-more-than-you-realize-how-to-lock-them-down/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-04-29T11:00:00+00:00",
-    "summary": "A recent case shows law enforcement can see incoming Signal messages by searching an iPhone, even after the Signal app has been deleted. Here’s what to know, and how to protect yourself.",
-    "image_url": "https://media.wired.com/photos/69ebc2fb8bd883f99bb0f0e5/master/pass/Forensic-Searches-Can-Expose-Deleted-Signal-Messages-Gear-2264943495.jpg",
-    "tags": [
-      "Gear",
-      "Gear / How To and Advice",
-      "privacy",
-      "ios",
-      "iPhone"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "283b4b195b48",
-    "title": "Slack is the AI Work Platform for Every Salesforce Customer, Ready on Day One",
-    "url": "https://www.salesforce.com/blog/connect-slack-to-salesforce/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-29T11:53:43+00:00",
-    "summary": "Slack just became the easiest way to put your Salesforce data, agents, and apps to work. And every customer can start for free.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/blog-salesforce-slack-work-platform-tile@2x.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "1ef63596691d",
-    "title": "WELL-CAPITALIZED BANKS, STRONGER RATINGS, LOWER BORROWING COSTS",
-    "url": "https://www.forbes.com/sites/mayrarodriguezvalladares/2026/04/29/well-capitalized-banks-stronger-ratings-lower-borrowing-costs/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-04-29T21:10:22+00:00",
-    "summary": "Well-capitalized banks earn higher credit ratings which helps them lower their borrowing costs.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69f26db8e5c8447d213f20f5/0x0.jpg",
-    "tags": [
-      "Banking & Insurance",
-      "/banking-insurance",
-      "Money",
-      "/money",
-      "Banking & Insurance"
-    ],
-    "industries": [
-      "tech",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "6eb456c3d687",
-    "title": "How Netflix is rewriting the streaming ad playbook",
-    "url": "https://digiday.com/podcasts/how-netflix-is-rewriting-the-streaming-ad-playbook/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-04-28T04:01:00+00:00",
-    "summary": "Netflix is thriving on third-party DSPs, raising a critical question: Can the streaming giant afford to pursue its own adtech platform?",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/04/Digiday_1030x600_N.jpg",
-    "tags": [
-      "Podcasts"
-    ],
-    "industries": [
-      "media",
-      "tech"
-    ],
-    "relevance_score": 12
   },
   {
     "id": "08d8f04a746a",
@@ -984,59 +870,132 @@
     "relevance_score": 12
   },
   {
-    "id": "a86f831123cb",
-    "title": "The Download: storing nuclear waste and orchestrating agents",
-    "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
-    "source": "MIT Technology Review",
+    "id": "64db57d7d975",
+    "title": "I've Covered Robots for Years. This One Is Different",
+    "url": "https://www.wired.com/story/when-robots-have-their-chatgpt-moment-remember-these-pincers/",
+    "source": "Wired",
     "source_category": "ai",
-    "published": "2026-04-29T12:10:00+00:00",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has...",
-    "image_url": null,
+    "published": "2026-04-29T10:00:00+00:00",
+    "summary": "From sorting chicken nuggets to screwing in lightbulbs, Eka’s robotic claw feels like we're approaching a ChatGPT moment for the physical world.",
+    "image_url": "https://media.wired.com/photos/69f11fc37df9442e8d9b4374/master/pass/20260320-wired-eka-robotics-0429.jpg",
     "tags": [
-      "The Download"
+      "The Big Story",
+      "Business",
+      "Business / Artificial Intelligence",
+      "longreads",
+      "robots"
     ],
     "industries": [
       "tech",
-      "telecom",
       "industrial"
     ],
     "relevance_score": 12
   },
   {
-    "id": "e7f13a1df6ec",
-    "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
-    "url": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
-    "source": "TechCrunch AI",
+    "id": "92dbb98b0b7a",
+    "title": "Your Phone Notifications Reveal More Than You Realize. Here’s How to Lock Them Down",
+    "url": "https://www.wired.com/story/phone-notifications-reveal-more-than-you-realize-how-to-lock-them-down/",
+    "source": "Wired",
     "source_category": "ai",
-    "published": "2026-04-29T13:00:00+00:00",
-    "summary": "Think Discord chats, but with AI characters in addition to humans.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2270785056.jpg?resize=1200,686",
+    "published": "2026-04-29T11:00:00+00:00",
+    "summary": "A recent case shows law enforcement can see incoming Signal messages by searching an iPhone, even after the Signal app has been deleted. Here’s what to know, and how to protect yourself.",
+    "image_url": "https://media.wired.com/photos/69ebc2fb8bd883f99bb0f0e5/master/pass/Forensic-Searches-Can-Expose-Deleted-Signal-Messages-Gear-2264943495.jpg",
     "tags": [
-      "AI",
-      "Apps",
-      "Social",
-      "Startups"
+      "Gear",
+      "Gear / How To and Advice",
+      "privacy",
+      "ios",
+      "iPhone"
     ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "283b4b195b48",
+    "title": "Slack is the AI Work Platform for Every Salesforce Customer, Ready on Day One",
+    "url": "https://www.salesforce.com/blog/connect-slack-to-salesforce/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-29T11:53:43+00:00",
+    "summary": "Slack just became the easiest way to put your Salesforce data, agents, and apps to work. And every customer can start for free.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/blog-salesforce-slack-work-platform-tile@2x.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "1ef63596691d",
+    "title": "WELL-CAPITALIZED BANKS, STRONGER RATINGS, LOWER BORROWING COSTS",
+    "url": "https://www.forbes.com/sites/mayrarodriguezvalladares/2026/04/29/well-capitalized-banks-stronger-ratings-lower-borrowing-costs/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-29T21:10:22+00:00",
+    "summary": "Well-capitalized banks earn higher credit ratings which helps them lower their borrowing costs.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69f26db8e5c8447d213f20f5/0x0.jpg",
+    "tags": [
+      "Banking & Insurance",
+      "/banking-insurance",
+      "Money",
+      "/money",
+      "Banking & Insurance"
+    ],
+    "industries": [
+      "tech",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "16e717ee4794",
+    "title": "Microsoft Reports Strong Cloud Growth, but Questions About AI Returns Persist - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmRJQkJzYzc5SHI0bFlpWDQ4V3g0X0tmOWFWSlJuZFZ1a0d1bzZuMFIxN0lON2twMVhfRlZfR1ExQjJuWGdqVWVyWjBYX01XU3hzSVkydDZURE0xTkZzc0dFU285VHlFTmVweUF5VWNBOFotMlFSd3BibDRrVlB3MWFmbVZDMm4ycFdGM05Ob3k4a2NZeFE?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-04-29T23:05:00+00:00",
+    "summary": "Microsoft Reports Strong Cloud Growth, but Questions About AI Returns Persist WSJ",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "tech"
     ],
     "relevance_score": 12
   },
   {
-    "id": "a113184bf0f7",
-    "title": "IBM launches Bob with multi-model routing and human checkpoints to turn AI coding into a secure production system",
-    "url": "https://venturebeat.com/orchestration/ibm-launches-bob-with-multi-model-routing-and-human-checkpoints-to-turn-ai-coding-into-a-secure-production-system",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-04-29T18:37:08+00:00",
-    "summary": "Bringing AI agents into the enterprise software development lifecycle is fast becoming the norm. As developers experiment with new platforms, organizations are exposed to potential security and orchestration failures. Systems that work in pilots may fail once the agents start...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2hnW8yXhIy2PrKn4j7xAho/678d5cc2eaf24d7e2ed66bfef2b3c823/crimedy7_illustration_of_a_robot_figuring_out_a_hiking_path_w_713cbac6-fb4f-4f40-bfec-d5f3e27ffaff_0.png?w=300&q=30",
-    "tags": [
-      "Orchestration"
+    "id": "2cc678c5834a",
+    "title": "What Happens When We Disregard ICT4D Cybersecurity Risks - ICTworks",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT3VZRkZaMUJ6UGtfZ1dDMnRLRXJ6TmFiTVE2R3FEMzNXSmhxN1k5RTJLR1ljYllxQnAzWExVUEFhby1jZ1RJNTZoNTRHVlBFVXJ0NmpOYVZ0ZmwtbTZNeVgwb0JoQVRWcVBQYXlBRHhNVm5WTFFPUDhBNzRRQjBzMnBHczkxcjloRXRlQVFxV3dJbm5NdXU3R3Vhcjk4NnJJd2NxX2dWM3QzVklxX2hqUTBXVS0?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-30T04:48:55+00:00",
+    "summary": "What Happens When We Disregard ICT4D Cybersecurity Risks ICTworks",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
     ],
+    "relevance_score": 12
+  },
+  {
+    "id": "5ff81306b8d6",
+    "title": "Australia’s Card Payments Sector Approaches Saturation Point as Digital Transactions Dominate and Future Growth Shifts Toward Efficiency, Innovation and Regulatory Driven Change - Travel And Tour World",
+    "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOU3NNVUZlOHNvZ0dfaU1KOEVZZTI0djc5NHBubVJoSDgwZlRfVU5yZ2pDNUZzcEhpTXN3S1JrRDE0TVhuYVY0TmQ5NU9UWGRjWDUxeUczNU5tRC0tMk1ycE5WOEpreUNfVXlQQkdseUFCRWZ5bExNd3JVZWhNbnhxUVVaYTd1Z3B0RU83Zy1pVVNTZXNVdlVKdEpLOEd0WFMxWnRPRzlrQVVTcDF0bkNNMmQybEhOUEg2b1M4MVRpU3c4RkFYSVMzUTduU0ViVURwOU5JbWVYQTkyMzMxMDNZeVFtdkhXbC1BelRkQlIwSjlzV2NvVjdtTVVIRElPS085ejRsYndQeHZWcDhreWh1S0IwTXZVRnNDQVpNSmxJeVczN2FMNi00QU5qYXJ0SWZzblFyd21VaXBranp6X1VwWmNOZTE4UUk?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-04-30T04:52:24+00:00",
+    "summary": "Australia’s Card Payments Sector Approaches Saturation Point as Digital Transactions Dominate and Future Growth Shifts Toward Efficiency, Innovation and Regulatory Driven Change Travel And Tour World",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "tech",
-      "industrial"
+      "industrial",
+      "financial"
     ],
     "relevance_score": 12
   },
@@ -1069,26 +1028,6 @@
     "industries": [
       "tech",
       "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "9230e6bdbbd8",
-    "title": "Lovable launches its vibe-coding app on iOS and Android",
-    "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-28T16:09:30+00:00",
-    "summary": "The app allows developers to vibe code web apps and websites on the go.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
-    "tags": [
-      "AI",
-      "Apps",
-      "Lovable",
-      "vibe coding"
-    ],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 11
   },
@@ -1136,30 +1075,53 @@
     "relevance_score": 11
   },
   {
-    "id": "4b70a79e7960",
-    "title": "Metro by T-Mobile gives you ‘more for your money’ with $20 unlimited plan, free devices - 9to5Google",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOGp6UXp3V20xQXUwMDVpX0dCMlFuSGhnZVZaeVpXVF9Ud21ldk5YU0hhalQ5VlRTN0RodEdZNEVvUGpoMUVoWGI3cmNnSE4wVFJZWTRqY1JYbDBtRV9aRHc1RkVQU1Y5M1hFSUdINU51eVcwamhXbVFvWWFFdkZ6aklXVzJ3V1FOSHZpcHdEd2ZjWmpsTDZyZ2s5bmEyanRMQUFERlRJTFlxQjhxVG9yUXVCRTVxTGw1UzFTbXJ0bEs?oc=5",
-    "source": "Telecom",
-    "source_category": "industry_telecom",
-    "published": "2026-04-29T12:44:00+00:00",
-    "summary": "Metro by T-Mobile gives you ‘more for your money’ with $20 unlimited plan, free devices 9to5Google",
+    "id": "a86f831123cb",
+    "title": "The Download: storing nuclear waste and orchestrating agents",
+    "url": "https://www.technologyreview.com/2026/04/29/1136666/the-download-nuclear-waste-orchestrated-ai-agents/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-04-29T12:10:00+00:00",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. It’s time to make a plan for nuclear waste Today, nuclear energy enjoys rare support across the political spectrum. Public approval has...",
     "image_url": null,
-    "tags": [],
+    "tags": [
+      "The Download"
+    ],
     "industries": [
       "tech",
-      "telecom"
+      "telecom",
+      "industrial"
     ],
     "relevance_score": 11
   },
   {
-    "id": "6ac3acfd9334",
-    "title": "AWS Quick's personal knowledge graph is making orchestration decisions most control planes can't see",
-    "url": "https://venturebeat.com/orchestration/aws-quicks-personal-knowledge-graph-is-making-orchestration-decisions-most-control-planes-cant-see",
+    "id": "e7f13a1df6ec",
+    "title": "Meet Shapes, the app bringing humans and AI into the same group chats",
+    "url": "https://techcrunch.com/2026/04/29/meet-shapes-the-app-bringing-humans-and-ai-into-the-same-group-chats/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-29T13:00:00+00:00",
+    "summary": "Think Discord chats, but with AI characters in addition to humans.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2270785056.jpg?resize=1200,686",
+    "tags": [
+      "AI",
+      "Apps",
+      "Social",
+      "Startups"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "a113184bf0f7",
+    "title": "IBM launches Bob with multi-model routing and human checkpoints to turn AI coding into a secure production system",
+    "url": "https://venturebeat.com/orchestration/ibm-launches-bob-with-multi-model-routing-and-human-checkpoints-to-turn-ai-coding-into-a-secure-production-system",
     "source": "VentureBeat",
     "source_category": "ai",
-    "published": "2026-04-29T18:23:14+00:00",
-    "summary": "Enterprise AI teams running centralized orchestration stacks now have a new variable to account for: AWS Quick , which expanded this week to a desktop-native agent that builds a persistent personal knowledge graph and executes actions across local files and SaaS tools —...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3ot6lp8aTVJz5b5v6zugXe/33d45063cd6cee0ae4ce6d082be5c80b/crimedy7_illustration_of_ai_orchestration_abstract_--ar_169_-_cb6c24fb-7c3b-414f-a8d4-7733592d8d94_1.png?w=300&q=30",
+    "published": "2026-04-29T18:37:08+00:00",
+    "summary": "Bringing AI agents into the enterprise software development lifecycle is fast becoming the norm. As developers experiment with new platforms, organizations are exposed to potential security and orchestration failures. Systems that work in pilots may fail once the agents start...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2hnW8yXhIy2PrKn4j7xAho/678d5cc2eaf24d7e2ed66bfef2b3c823/crimedy7_illustration_of_a_robot_figuring_out_a_hiking_path_w_713cbac6-fb4f-4f40-bfec-d5f3e27ffaff_0.png?w=300&q=30",
     "tags": [
       "Orchestration"
     ],
@@ -1170,20 +1132,23 @@
     "relevance_score": 11
   },
   {
-    "id": "e9e15c82e5df",
-    "title": "Amazon Discusses ‘Apprentice’ Reboot—With Don Jr. as a Potential Host - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGxKLUNlX2NQaFp2dERZbW1XOU1SVmZXRnFCUEk5X0duRldjbmJzQUZsVzVMQWhFRUNWQkVDZHh0T2RWU0U2RDZNUV9jbjJnQ3QwQ2FiRC0tWFZ6TWtCa2xDa25OdWQtLVVRVVJMRDVmTVZiR3lPMlg2aFkyLUJKazBXQUZnbFpNNktSeXkxblFQSnotSHBhU1hhQ1AxVi1jbzc4VVN2TTBSc2thWEE?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-04-30T01:01:00+00:00",
-    "summary": "Amazon Discusses ‘Apprentice’ Reboot—With Don Jr. as a Potential Host WSJ",
+    "id": "82830ae1ac5e",
+    "title": "Adobe launches Firefly AI Assistant public beta with cross-app workflow automation - 9to5Mac",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRVB3WG1HX1BEY3F1ZHNzSUxWNnRHUUZPR0Z4NXB6X2tKZWtKc3B1M29NQ0tiRTQ5Z055MUJuM2VXRnd3WTl4U3NuVTRFbmRKdDg1SkhxNkNRLUhXNncyMHRtU1ZHN1MtVWxBRThxeHZTTmd4MzB5X1N2eFZRU1R6UTQ5UndaV2VnYVBOQmY0ejZCdDNiNFpTWXhudXVTOV9qdmVJa0xzMWhHVnh4YTE2cHpINTA?oc=5",
+    "source": "Adobe Products",
+    "source_category": "adobe",
+    "published": "2026-04-27T13:01:00+00:00",
+    "summary": "Adobe launches Firefly AI Assistant public beta with cross-app workflow automation 9to5Mac",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "retail"
+      "industrial"
     ],
-    "relevance_score": 11
+    "relevance_score": 10,
+    "also_covered_by": [
+      "Adobe"
+    ]
   },
   {
     "id": "a98a18e31e8c",
@@ -1223,28 +1188,6 @@
     "also_covered_by": [
       "Telecom"
     ]
-  },
-  {
-    "id": "a4e4b7790fe3",
-    "title": "Get Ready for More Brain-Scanning Consumer Gadgets",
-    "url": "https://www.wired.com/story/get-ready-for-more-brain-scanning-consumer-gadgets/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-04-28T13:00:00+00:00",
-    "summary": "Neurable, which makes noninvasive brain-computer interfaces, is licensing its technology and promises a “flood” of new third-party hardware this year and next.",
-    "image_url": "https://media.wired.com/photos/69efb27b4bfb1490a36aaf50/master/pass/Brain-Scanning-Texh-Gear-Headset%20Front%20Angle%201.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Headphones",
-      "gadgets",
-      "Wearables"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 10
   },
   {
     "id": "3c8e7a63357e",
@@ -1287,21 +1230,6 @@
     "relevance_score": 10
   },
   {
-    "id": "32e6be008076",
-    "title": "Adobe Express Is the Most Important App You're Not Thinking About - The AI Economy | Ken Yeung",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNUtIMjhZWmNSMXhUVVVNYlJDZlg4TkduZTBHRHNEdHhvRGhUcDdLeXBhV2xQOTdXdUMwLXVwOXNHcDNDQTJoUTlUZXhnMHU3YkZCLVRrelJmckZkcXFLZTFhMGpmb3hIanlPQVZ3b2dFTWk0LVlVRXNrOHowelk?oc=5",
-    "source": "Adobe Products",
-    "source_category": "adobe",
-    "published": "2026-04-29T02:00:12+00:00",
-    "summary": "Adobe Express Is the Most Important App You're Not Thinking About The AI Economy | Ken Yeung",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "f94b4ccd2ebc",
     "title": "Salesforce, Google Cloud Deepen AI Agent Integration Across Slack and Gemini - thelec.net",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OZEpJZmJNNDlrdmFlWXFlMWhSMThtd0xXWmhqZXZGSUx2SFVHZzBnQkhoNklmUEp5czJjZmN6TEVfUDFsb1VkTHFlMHFETnZFM1lzbUVTcGc3cFVyS3l2Y2xYcTVXWE0?oc=5",
@@ -1318,52 +1246,18 @@
     "relevance_score": 10
   },
   {
-    "id": "9ba0b5ce44d8",
-    "title": "India Online Food Delivery Forecast Report 2026-2034: $269.77 Bn Market Surges on Smartphone Adoption, Digital Payments and Rapid Expansion into Tier-2 Cities - Yahoo Finance UK",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPUE1XbDZ4UHNFU285cWx2V2VnWTlHcHpVTF9iREdDQ1E5c0VFb1FQaDBwOFBqMXlEaE1GVEs0a1J6RHNkMUY2RFJDU2RvcVF0ejM2amJ2OHJqVjNrYzhDLVpWZ3lKeUNSUHZPXzVVTUxSOGhibU15V3B1c2hGVEozVVpNb3hVMTF6YmtDeQ?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-04-29T08:54:00+00:00",
-    "summary": "India Online Food Delivery Forecast Report 2026-2034: $269.77 Bn Market Surges on Smartphone Adoption, Digital Payments and Rapid Expansion into Tier-2 Cities Yahoo Finance UK",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "3d756af629dd",
-    "title": "Tru2u.health Expands Digital Health Platform with the Addition of NAD+ - The Cellular Energy Molecule Transforming Modern Wellness - TMX Newsfile",
-    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxNTTNGTnExWnhPWXBLQjRDOHRONGlQMFhVdG5rQnF5U2dKUGtKenlUSzhHYUZQbkNramhjRUVaMVR5RFZJN1BrR2VJX3ZCblpiQ1Q4eFNhdnktT25YNUV4RDV2X3BzbUdlLWgtVXpNSE9EbXF5Mm0tVjRKZXgzWTVqaHNIeHlGNGZIcjlHQzYzOWZVdkRabkhoVG5kd0R4b3cyTkRnbXZabHRsWWQzWGZsUjVRYTJIVjhlZW5pMmZnQ2xQRVBja1dWOHZGNUtXdmdpLW55QkhXZ1VyY2otNTRPbjZYVTRiSmRoWnVEODZPNkFsQXRUcko0MTkxbVRvdzNG?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-29T12:00:00+00:00",
-    "summary": "Tru2u.health Expands Digital Health Platform with the Addition of NAD+ - The Cellular Energy Molecule Transforming Modern Wellness TMX Newsfile",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "telecom",
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "96dd9b054397",
-    "title": "Guinea discusses digital transformation agenda under SIMANDOU 2040 vision - Tech Review Africa",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUG9MalVRdTNLVXAyajg0Rk5TaGdSVVdSekhwV1dmUzB5X3pfSzlCVGF3aTBhUXJnTFY5WjluZWNwaVdFNk1lQ2Jzd2d0VGd6SzVzZUs2ZWt2Z19oZDVyaGlYRXhnenZlaThzMDJhWkpHNjIwQUZDSkNTWU5tN19iazg0UUZHQ2RTLW9kZ3h3eUJuLWxjbUFjZ0JIZDV2amV0TERKMHg5bnJjX2R0MnNUQVVB?oc=5",
-    "source": "Telecom Digital",
+    "id": "4b70a79e7960",
+    "title": "Metro by T-Mobile gives you ‘more for your money’ with $20 unlimited plan, free devices - 9to5Google",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOGp6UXp3V20xQXUwMDVpX0dCMlFuSGhnZVZaeVpXVF9Ud21ldk5YU0hhalQ5VlRTN0RodEdZNEVvUGpoMUVoWGI3cmNnSE4wVFJZWTRqY1JYbDBtRV9aRHc1RkVQU1Y5M1hFSUdINU51eVcwamhXbVFvWWFFdkZ6aklXVzJ3V1FOSHZpcHdEd2ZjWmpsTDZyZ2s5bmEyanRMQUFERlRJTFlxQjhxVG9yUXVCRTVxTGw1UzFTbXJ0bEs?oc=5",
+    "source": "Telecom",
     "source_category": "industry_telecom",
-    "published": "2026-04-29T12:01:54+00:00",
-    "summary": "Guinea discusses digital transformation agenda under SIMANDOU 2040 vision Tech Review Africa",
+    "published": "2026-04-29T12:44:00+00:00",
+    "summary": "Metro by T-Mobile gives you ‘more for your money’ with $20 unlimited plan, free devices 9to5Google",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "industrial"
+      "telecom"
     ],
     "relevance_score": 10
   },
@@ -1385,18 +1279,52 @@
     "relevance_score": 10
   },
   {
-    "id": "c8620c6fd70b",
-    "title": "Meta Will Run Some Servers Longer in Response to Memory Shortage - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUJhRmtJY1d6RW1idnhDdHBTdE01OXVmQmY3YXJ2ZjEwRnRmOGZtbXBUcjFyOWZOMk1wTld1YWlpRGY0bUhjVVdoQ3BKTERlb29GWTBPNXgzcHAwUXBkRklEaHFJSTA4ZzBpQ2F5cDI2UERiYUFDcUEyRC02cXRHTVBtTmZDalhLcms1anF2RU5TczAwNE5CLTJTUzAyc1k?oc=5",
+    "id": "6ac3acfd9334",
+    "title": "AWS Quick's personal knowledge graph is making orchestration decisions most control planes can't see",
+    "url": "https://venturebeat.com/orchestration/aws-quicks-personal-knowledge-graph-is-making-orchestration-decisions-most-control-planes-cant-see",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-04-29T18:23:14+00:00",
+    "summary": "Enterprise AI teams running centralized orchestration stacks now have a new variable to account for: AWS Quick , which expanded this week to a desktop-native agent that builds a persistent personal knowledge graph and executes actions across local files and SaaS tools —...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3ot6lp8aTVJz5b5v6zugXe/33d45063cd6cee0ae4ce6d082be5c80b/crimedy7_illustration_of_ai_orchestration_abstract_--ar_169_-_cb6c24fb-7c3b-414f-a8d4-7733592d8d94_1.png?w=300&q=30",
+    "tags": [
+      "Orchestration"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "87aa67bfff44",
+    "title": "Wall Street ends mixed ahead of big tech earnings - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSi1NbFNKUTZGWklnWGVWV2o5MUtLYktDdkhHeU5vTkxtbzZacnp2eE1XUEtELXdGUHlpbHg3WGZFemJmb0xZMVJ6bU1ieVNsaXRSVHUwbWRUTmVFcmhyM2MyMkhVaE9OZ2prckoxMEVpS1U1LW5IMm9vbkJsRElVMw?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-04-29T19:17:00+00:00",
-    "summary": "Meta Will Run Some Servers Longer in Response to Memory Shortage WSJ",
+    "published": "2026-04-29T22:56:34+00:00",
+    "summary": "Wall Street ends mixed ahead of big tech earnings Yahoo Finance",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "industrial"
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "e9e15c82e5df",
+    "title": "Amazon Discusses ‘Apprentice’ Reboot—With Don Jr. as a Potential Host - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGxKLUNlX2NQaFp2dERZbW1XOU1SVmZXRnFCUEk5X0duRldjbmJzQUZsVzVMQWhFRUNWQkVDZHh0T2RWU0U2RDZNUV9jbjJnQ3QwQ2FiRC0tWFZ6TWtCa2xDa25OdWQtLVVRVVJMRDVmTVZiR3lPMlg2aFkyLUJKazBXQUZnbFpNNktSeXkxblFQSnotSHBhU1hhQ1AxVi1jbzc4VVN2TTBSc2thWEE?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-04-30T01:01:00+00:00",
+    "summary": "Amazon Discusses ‘Apprentice’ Reboot—With Don Jr. as a Potential Host WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail"
     ],
     "relevance_score": 10
   },
@@ -1450,17 +1378,34 @@
     "relevance_score": 9
   },
   {
-    "id": "7dc387074d42",
-    "title": "Health is Tim Cook's defining legacy - and your Apple Watch proves it - ZDNET",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOUUxnWUM3eDZGUXJzZGxvNVpRWkVGY2h5ckswWjkzSEpkZUo4cFp1TXFmeWN2Rno2UDJvYmNRNHd3QWFqbTBIczYwWVhTM0daODVIRUplQ2dNcVkyQ1QyMENZVVB1anRUbm83TzB1ZFdjUGNSWGhRZTZFOHQ5QWFKLUlGdnRidTRENTFRUHVxM3p5UkxFQVZyZVlMTi0?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-29T15:34:00+00:00",
-    "summary": "Health is Tim Cook's defining legacy - and your Apple Watch proves it ZDNET",
+    "id": "96dd9b054397",
+    "title": "Guinea discusses digital transformation agenda under SIMANDOU 2040 vision - Tech Review Africa",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUG9MalVRdTNLVXAyajg0Rk5TaGdSVVdSekhwV1dmUzB5X3pfSzlCVGF3aTBhUXJnTFY5WjluZWNwaVdFNk1lQ2Jzd2d0VGd6SzVzZUs2ZWt2Z19oZDVyaGlYRXhnenZlaThzMDJhWkpHNjIwQUZDSkNTWU5tN19iazg0UUZHQ2RTLW9kZ3h3eUJuLWxjbUFjZ0JIZDV2amV0TERKMHg5bnJjX2R0MnNUQVVB?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-04-29T12:01:54+00:00",
+    "summary": "Guinea discusses digital transformation agenda under SIMANDOU 2040 vision Tech Review Africa",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech"
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "c8620c6fd70b",
+    "title": "Meta Will Run Some Servers Longer in Response to Memory Shortage - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOMUJhRmtJY1d6RW1idnhDdHBTdE01OXVmQmY3YXJ2ZjEwRnRmOGZtbXBUcjFyOWZOMk1wTld1YWlpRGY0bUhjVVdoQ3BKTERlb29GWTBPNXgzcHAwUXBkRklEaHFJSTA4ZzBpQ2F5cDI2UERiYUFDcUEyRC02cXRHTVBtTmZDalhLcms1anF2RU5TczAwNE5CLTJTUzAyc1k?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-04-29T19:17:00+00:00",
+    "summary": "Meta Will Run Some Servers Longer in Response to Memory Shortage WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 9
   },
@@ -1631,18 +1576,17 @@
     "relevance_score": 8
   },
   {
-    "id": "da4bfc245fa0",
-    "title": "Wall Street ends mixed ahead of big tech earnings - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQZ2xIcDUxN3pVSGgtN3VKSnZsLXphakpwdFRHb2NtcnA1NzEtWG1DUWpxTTFhWGNsSGdXS2xMQXdJcV9Gbzc0TzdMUUNNbk9DOE95LWk2YktiR0JoZ1RyV0R4OEgwTWIxbGc0QkNmVzFVcHlZVENWZWJkQ1JGdTVfM3NiaF9MM1JleWlnR1hWSjRaM0N0bm5rWGlXZDJXako4MnkwcVNZOF9vdw?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-04-29T09:31:00+00:00",
-    "summary": "Wall Street ends mixed ahead of big tech earnings Reuters",
+    "id": "32e6be008076",
+    "title": "Adobe Express Is the Most Important App You're Not Thinking About - The AI Economy | Ken Yeung",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE9VNUtIMjhZWmNSMXhUVVVNYlJDZlg4TkduZTBHRHNEdHhvRGhUcDdLeXBhV2xQOTdXdUMwLXVwOXNHcDNDQTJoUTlUZXhnMHU3YkZCLVRrelJmckZkcXFLZTFhMGpmb3hIanlPQVZ3b2dFTWk0LVlVRXNrOHowelk?oc=5",
+    "source": "Adobe Products",
+    "source_category": "adobe",
+    "published": "2026-04-29T02:00:12+00:00",
+    "summary": "Adobe Express Is the Most Important App You're Not Thinking About The AI Economy | Ken Yeung",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
-      "financial"
+      "tech"
     ],
     "relevance_score": 8
   },
@@ -1723,6 +1667,39 @@
     "industries": [
       "tech",
       "financial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "64789648672f",
+    "title": "How agencies are reshaping junior-level roles and training in the AI era - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZMnlad2J6MWZ3T0RTN0xzbS1hbFFqV0c4S3hSUVY2ZmRCS0xHUUh3bzdaZnlUN2NsZW9ENVRlR3hRQlRFOEgwOWdlOWE1cm56QlM2MnF0WUR2YVg5Q295T0tPNkthVFZfN25YYTJOSUEtRFlpdDF5QkJR?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-04-27T09:00:00+00:00",
+    "summary": "How agencies are reshaping junior-level roles and training in the AI era Ad Age",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "ce0678b95960",
+    "title": "Albion and Tecnotree Partner to Deliver Next-Generation VAS Platform for TELUS in North America - PA Media",
+    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRW0zOVdYTFZjTzROWTN4Y2NXZUhSZ1JiR1ZfVmNTcExzcEY5a3FhU29yTzlaajR3dHNoZDIwYWJreHZHbjVxeTdlUGRXV3Jqa1dZYWdqVXlkSWZqdm9KanlsYzF6aUptTU9YdkhweE8xMEpra3hYRlhqSkNYY3BQWUVyQW9RUzJxUEZ1WFZvU2E1cjU1YzM4MlVVRVI1SHU3bzFDQUU1bVJXYTBzUDEyNVI0WmtLU25DdkVZdkV2TXRIbkZUSzFzTGQtMHNjaU9NdXoxcl8zTU9iTmNyR0d0ZA?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-04-28T07:04:39+00:00",
+    "summary": "Albion and Tecnotree Partner to Deliver Next-Generation VAS Platform for TELUS in North America PA Media",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
     ],
     "relevance_score": 6
   },
@@ -1834,6 +1811,22 @@
     "source_category": "industry_lifesciences",
     "published": "2026-04-24T18:32:41+00:00",
     "summary": "The Insight Series: AI & Digital Health AdvaMed® - Advanced Medical Technology Association®",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "cee1b9288c2a",
+    "title": "FDA Approves Breztri | PharmExec - Pharmaceutical Executive",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE5DMGMyeldxaE41Q0xaNkVWdGlWTlN5eGk1dW5WOUU5X0JTbl95cHZORFZ4RXljekI3ZHczTDJ0TDdtdm9qOUt6ZDVfM0xEc0tvd1JZQmxPVHdpMlA4cmh5WUdaTVBZMWQ2?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-28T18:53:49+00:00",
+    "summary": "FDA Approves Breztri | PharmExec Pharmaceutical Executive",
     "image_url": null,
     "tags": [],
     "industries": [
