@@ -21,23 +21,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 54
-  },
-  {
-    "id": "28bfe8d2718f",
-    "title": "Can Bed Bath & Beyond’s Bilt partnership simplify its experience?",
-    "url": "https://www.retaildive.com/news/bed-bath-beyond-bilt-partnership-simplify-experience/818607/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-04-29T14:50:00+00:00",
-    "summary": "The move could offer the retailer a way to make its complex collection of brands more coherent, but it falls on Bed Bath & Beyond to do the heavy lifting.",
-    "image_url": "https://imgproxy.divecdn.com/1YwkqIfP0Gj67HvV-AWbAGnIHyVnY1jQrrV1zTl_zYc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDU0NDQ4OTQ1LmpwZ19yZXNpemUuanBn.webp",
-    "tags": [],
-    "industries": [
-      "retail",
-      "consumer"
-    ],
-    "relevance_score": 42
+    "relevance_score": 51
   },
   {
     "id": "53be92944816",
@@ -55,6 +39,22 @@
       "media",
       "tech",
       "retail"
+    ],
+    "relevance_score": 39
+  },
+  {
+    "id": "28bfe8d2718f",
+    "title": "Can Bed Bath & Beyond’s Bilt partnership simplify its experience?",
+    "url": "https://www.retaildive.com/news/bed-bath-beyond-bilt-partnership-simplify-experience/818607/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-04-29T14:50:00+00:00",
+    "summary": "The move could offer the retailer a way to make its complex collection of brands more coherent, but it falls on Bed Bath & Beyond to do the heavy lifting.",
+    "image_url": "https://imgproxy.divecdn.com/1YwkqIfP0Gj67HvV-AWbAGnIHyVnY1jQrrV1zTl_zYc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDU0NDQ4OTQ1LmpwZ19yZXNpemUuanBn.webp",
+    "tags": [],
+    "industries": [
+      "retail",
+      "consumer"
     ],
     "relevance_score": 39
   },
@@ -125,6 +125,27 @@
     "relevance_score": 30
   },
   {
+    "id": "bcc76734e0d7",
+    "title": "Amazon Hits $70 Billion in Ad Revenue Over the Past 12 Months",
+    "url": "https://www.adweek.com/commerce/amazon-hits-70-billion-in-ad-revenue-over-the-past-12-months/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-04-29T18:47:36+00:00",
+    "summary": "AWS growth rate continues to accelerate, driven by the ecommerce giant's AI services.",
+    "image_url": null,
+    "tags": [
+      "Ad Tech Industry News",
+      "Advertising News",
+      "Advertising/Marketing",
+      "Amazon News",
+      "Earnings Reports"
+    ],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 22
+  },
+  {
     "id": "ab152ed2afe6",
     "title": "UHS reaffirms 2026 volume targets, despite seasonal hits in Q1",
     "url": "https://www.healthcaredive.com/news/uhs-reaffirms-2026-volume-targets-despite-seasonal-hits-in-q1/818708/",
@@ -138,7 +159,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 18,
+    "relevance_score": 17,
     "also_covered_by": [
       "Fierce Healthcare",
       "Health Tech"
@@ -165,7 +186,10 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17,
+    "also_covered_by": [
+      "Wall Street"
+    ]
   },
   {
     "id": "10211535a9ed",
@@ -188,20 +212,39 @@
     "relevance_score": 16
   },
   {
-    "id": "8203898ada26",
-    "title": "OpenAI ends Microsoft legal peril over its $50B Amazon deal",
-    "url": "https://techcrunch.com/2026/04/27/openai-ends-microsoft-legal-peril-over-its-50b-amazon-deal/",
+    "id": "1abac019fd7c",
+    "title": "Amazon’s cloud business is surging — and so is its capital spending",
+    "url": "https://techcrunch.com/2026/04/29/amazons-cloud-business-is-surging-and-so-is-its-capital-spending/",
     "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-04-27T17:40:38+00:00",
-    "summary": "OpenAI has won major concessions from its largest shareholder, Microsoft, that will allow it to sell products on AWS, while Microsoft gets more cash in a revenue-share agreement.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/09/GettyImages-2214107176.jpg?resize=1200,800",
+    "published": "2026-04-30T00:14:23+00:00",
+    "summary": "The e-commerce giant is making more money than expected from AWS but it's also spending a lot, and will continue to do so in the near term, its chief executive said.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2201505679.jpg?resize=1200,800",
     "tags": [
       "AI",
-      "Enterprise",
       "Amazon",
-      "Microsoft",
-      "OpenAI"
+      "Andy Jassy",
+      "AWS"
+    ],
+    "industries": [
+      "tech",
+      "retail"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "350a3ad1d3cd",
+    "title": "Amazon’s OpenAI gambit signals a new phase in the cloud wars — one where exclusivity no longer applies",
+    "url": "https://venturebeat.com/technology/amazons-openai-gambit-signals-a-new-phase-in-the-cloud-wars-one-where-exclusivity-no-longer-applies",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-04-29T21:14:06+00:00",
+    "summary": "Amazon Web Services on Tuesday launched one of the most consequential enterprise AI plays in the company's 20-year history, simultaneously bringing OpenAI's most powerful models to its Bedrock platform , unveiling a new agentic developer framework, releasing a desktop AI...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6uDI4U3BDukdOjvS9sIfb6/e737b3f07d2422e2215a430785511e2c/nuneybits_Vector_art_of_Amazon_Web_Services_represented_by_a_se_c066ceeb-0bbb-4cee-944b-7e5e9a644fc5.webp?w=300&q=30",
+    "tags": [
+      "Technology",
+      "Orchestration",
+      "Infrastructure"
     ],
     "industries": [
       "tech",
@@ -223,46 +266,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 15
-  },
-  {
-    "id": "2d95b64b68e9",
-    "title": "The Aisle Is Smarter Than It Looks—and It’s Reshaping Retail Media Budgets",
-    "url": "https://www.adweek.com/commerce/the-aisle-is-smarter-than-it-looks-and-its-reshaping-retail-media-budgets/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-04-29T10:51:06+00:00",
-    "summary": "The quiet merger of shelf space and screen space has real implications for retail investment",
-    "image_url": null,
-    "tags": [
-      "General",
-      "Retail Media Networks",
-      "Retail News",
-      "Voice"
-    ],
-    "industries": [
-      "media",
-      "tech",
-      "retail",
-      "industrial",
-      "financial"
-    ],
     "relevance_score": 14
-  },
-  {
-    "id": "2d4f2298c736",
-    "title": "Amazon extends annual pet sale",
-    "url": "https://www.retaildive.com/news/amazon-extends-annual-pet-sale/818675/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-04-29T15:45:00+00:00",
-    "summary": "The promotional event is being lengthened from two days to five for the first time, starting May 11.",
-    "image_url": "https://imgproxy.divecdn.com/xMtTo3WAPipzp--jCM93xHC1Xo-bLMe2kGMI3ld9XHw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wZXRfZGF5LmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 13
   },
   {
     "id": "bd4c668e7c40",
@@ -279,30 +283,6 @@
     "industries": [
       "retail",
       "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "897c48db936e",
-    "title": "The Race Is on to Keep AI Agents From Running Wild With Your Credit Cards",
-    "url": "https://www.wired.com/story/the-race-is-on-to-keep-ai-agents-from-running-wild-with-your-credit-cards/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-04-28T13:00:00+00:00",
-    "summary": "AI agents may soon be buying your stuff for you. The FIDO Alliance has teamed up with Google and Mastercard to try to ensure that shopping in the near future isn't a complete disaster.",
-    "image_url": "https://media.wired.com/photos/69ef5ffea87ec1fab4d8a468/master/pass/GettyImages-1223459427.jpg",
-    "tags": [
-      "Security",
-      "Security / Privacy",
-      "Security / Cyberattacks and Hacks",
-      "Security / Security News",
-      "artificial intelligence"
-    ],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial",
-      "financial"
     ],
     "relevance_score": 12
   },
@@ -374,6 +354,21 @@
     "relevance_score": 12
   },
   {
+    "id": "2d4f2298c736",
+    "title": "Amazon extends annual pet sale",
+    "url": "https://www.retaildive.com/news/amazon-extends-annual-pet-sale/818675/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-04-29T15:45:00+00:00",
+    "summary": "The promotional event is being lengthened from two days to five for the first time, starting May 11.",
+    "image_url": "https://imgproxy.divecdn.com/xMtTo3WAPipzp--jCM93xHC1Xo-bLMe2kGMI3ld9XHw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9wZXRfZGF5LmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 12
+  },
+  {
     "id": "d34e36003d2c",
     "title": "Target requires 150 remote merchandising employees to relocate",
     "url": "https://www.retaildive.com/news/target-remote-merchandising-employees-relocate-minneapolis-headquarters/818603/",
@@ -382,22 +377,6 @@
     "published": "2026-04-28T14:44:00+00:00",
     "summary": "Impacted employees can move to the retailer's Minneapolis HQ or leave the company. Target hopes that in-person collaboration will help it regain merchandising authority.",
     "image_url": "https://imgproxy.divecdn.com/s5gd7x8VQZjS-gJehj4BMe_3CXuPJSXUpMmqcOwYJmg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDc4MC5qcGc=.webp",
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "5911b8e01593",
-    "title": "SAS adds agentic AI tools to Customer Intelligence 360 - ecommercenews.com.au",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQVFMzR2QzOWNpWG11ZDR2UF9ueHk2bElYQWZCZHpvN0VzRk9CT19YMi0yekptcDZJbWpmTW4tbl8yN2ZWU2RMOFdYVEp6MC1DTENDX25LUl9tYzJDR1kzZFJXT2w0bUZzVHJ5UDVJOXlyTG1EZktPSU5aQ2ZlalFyRHJsV1hBbEV4V05HVWlCaEQ3eUE?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-04-29T00:03:00+00:00",
-    "summary": "SAS adds agentic AI tools to Customer Intelligence 360 ecommercenews.com.au",
-    "image_url": null,
     "tags": [],
     "industries": [
       "retail",
@@ -425,42 +404,36 @@
     "relevance_score": 11
   },
   {
-    "id": "280218001097",
-    "title": "Oppenheimer Upgrades T-Mobile to Outperform With a $260 Price Target: Can AI Pricing Power Drive the Next Leg? - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPeVdibFpvalBNSmE3c3BHdERScGxJMl8tNWxQQm5VQzhsTXpNX1lQbDJUai1iSlBQOG1TazdKeHFfTl9KendqNmsyTzJWWndiSU9PVG1adjcyVGFWNDl5bExKWVQxTGNOVkRsVGVndkkycGNZNnRWYnVtTWl5eWZEMGlzbzZyVUVobkRUc3Q3ZjMwX09wTXZsMVluM2JyQ1pjUFJRb25PdHlFRnExUWRfMkZ0Zkg4Z01VRFVtRF9ZR3g1S1F5RmhGUENoUGQxUEhGbVdkWldSVGJ0bVQ5Q1JEWTBoVlBlZw?oc=5",
-    "source": "Telecom",
-    "source_category": "industry_telecom",
-    "published": "2026-04-29T14:29:40+00:00",
-    "summary": "Oppenheimer Upgrades T-Mobile to Outperform With a $260 Price Target: Can AI Pricing Power Drive the Next Leg? 24/7 Wall St.",
+    "id": "831d64e2ae9c",
+    "title": "Watch the newest commercials from Amazon Health AI, Uber Eats, Philadelphia Cream Cheese and more - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOU3BJYXA2bzVUTEsxbFVYWG9melFvQk80WUFjbnU5eDBjUUtFb3NMai1zWXd4ZWtFZFdfTGdIRTk0X05MLURsYkE5Sm4zaGFERXhmMTVkR3FsTDlzcVRTR1NENzlTOTljcE5QemdITzUwOE1jOXRqQkxIaTlIc196TldpZ0hKbnVjdWlXbTNpUlRKMjI3SjNLYlV6ZjVtUVVKUUROcXJRWE90TTVXZGRENVgtbHJBS2tULUR4NzFzRXlORVhFUVZWTDRTR0E2eWFETk5TVA?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-04-29T16:59:00+00:00",
+    "summary": "Watch the newest commercials from Amazon Health AI, Uber Eats, Philadelphia Cream Cheese and more Ad Age",
     "image_url": null,
     "tags": [],
     "industries": [
-      "telecom",
       "retail",
       "industrial"
     ],
-    "relevance_score": 11,
-    "also_covered_by": [
-      "Salesforce AI",
-      "Wall Street",
-      "Adobe"
-    ]
+    "relevance_score": 11
   },
   {
-    "id": "9da8d0aea652",
-    "title": "Mizuho resets Adobe stock price target for the rest of 2026 - thestreet.com",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQUTdCX2pGMmVKWjhXTUY1WTlUSWc3eGUwaWNucjJuOGgtTkNjMWRGWm5wc1o1aUQ3bzJUU2dHLW5KczcxdXN4cFNhMG5zUW9pRU95TVR5M1FTbmdTakMtNnFnWGVNcnlNaFdRRWFJdmlHZWRLbWVJRHFYeGg3d0tDSDE4UVFWZWVtS1ZNZ0JTY1FaUkpyekxBTWVNUVVjWHBGd19Naw?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-04-27T22:34:00+00:00",
-    "summary": "Mizuho resets Adobe stock price target for the rest of 2026 thestreet.com",
+    "id": "e9e15c82e5df",
+    "title": "Amazon Discusses ‘Apprentice’ Reboot—With Don Jr. as a Potential Host - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGxKLUNlX2NQaFp2dERZbW1XOU1SVmZXRnFCUEk5X0duRldjbmJzQUZsVzVMQWhFRUNWQkVDZHh0T2RWU0U2RDZNUV9jbjJnQ3QwQ2FiRC0tWFZ6TWtCa2xDa25OdWQtLVVRVVJMRDVmTVZiR3lPMlg2aFkyLUJKazBXQUZnbFpNNktSeXkxblFQSnotSHBhU1hhQ1AxVi1jbzc4VVN2TTBSc2thWEE?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-04-30T01:01:00+00:00",
+    "summary": "Amazon Discusses ‘Apprentice’ Reboot—With Don Jr. as a Potential Host WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
-      "retail",
-      "industrial"
+      "tech",
+      "retail"
     ],
-    "relevance_score": 10
+    "relevance_score": 11
   },
   {
     "id": "379d701b59c1",
@@ -495,6 +468,23 @@
     "relevance_score": 9
   },
   {
+    "id": "de8564c0127c",
+    "title": "Micron Stock Got a Wall Street-High Price Target. Why the Price Can Double. - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOQTZfZHNZamhHb0prNGF2R1ZreTFGenU3QWJCZVY3ZjBZekdZalZOS2tVTXM3Zzgtb2JOYmZSR00zeUdvd1JZaFg2bFl6SnpUWmh0YURwRnl0LWphYU5UN2llNXlqek43NWxCRGJMYzRzZjlMYjFQc3Joalo5VHJVYQ?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-04-29T20:39:00+00:00",
+    "summary": "Micron Stock Got a Wall Street-High Price Target. Why the Price Can Double. Barron's",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "f0251084f797",
     "title": "BNPL’s role in expanding shopping accessibility in emerging markets - Electronic Payments International",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOazEtaVpxbmM5X1JHTUo1THJJVGctOFd5MTYtMjJ3RmZfb252T2dmRE1hV3d0aHVGRDlWc0daWktZWDdOTGhZckVGWjFncks0Rm00aW0wa2dfYUVNc0l5WTY1QjFtVUI5T19jbXRYZnM3bFRhZTJiZkNZQ1ZRemc2MUlmR3NObjh4ZGwwaTJPZEV0cTNwbGZVV1ptXzZLSWZy?oc=5",
@@ -509,20 +499,5 @@
       "financial"
     ],
     "relevance_score": 6
-  },
-  {
-    "id": "05b09dc887cc",
-    "title": "Digital Payment Update - AI's Double Role: Fueling and Fighting E-Commerce Fraud - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPLTBtMndwek5HU1VDbFVJN0w4WF91aFZ0djhHUjEteDVHaGdXLTY2REtiZUhtZmdzODJIUDVhWnFzN003bUV6WG1xOElrOXB1bHRTM05IbmljUDRxWWd6UGNsTnMzUjFydnNZVWFiejBYaFE5UjNrMU9kNnJCamFKNDFBX1ZkQ0RuaWZLemZPTXNNel90bXVIY3drUzM?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-04-27T12:38:10+00:00",
-    "summary": "Digital Payment Update - AI's Double Role: Fueling and Fighting E-Commerce Fraud Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 5
   }
 ]
