@@ -13,7 +13,12 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 57
+    "relevance_score": 57,
+    "also_covered_by": [
+      "Ad Age",
+      "Fintech",
+      "Telecom"
+    ]
   },
   {
     "id": "7525467a61bf",
@@ -59,48 +64,6 @@
     "also_covered_by": [
       "Salesforce AI"
     ]
-  },
-  {
-    "id": "468641f1ee0b",
-    "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
-    "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-29T23:02:23+00:00",
-    "summary": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2017/07/gettyimages-496394442.jpg?resize=1200,747",
-    "tags": [
-      "AI",
-      "copilot ai",
-      "Microsoft"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 51
-  },
-  {
-    "id": "c9bbf3c7bccd",
-    "title": "How Jeni Castro Turned An 88 Square Foot Coffee Shop Into An 8 Figure Brand",
-    "url": "https://www.forbes.com/sites/yolarobert1/2026/04/29/how-jeni-castro-turned-an-88-square-foot-coffee-shop-into-an-8-figure-brand/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-04-29T23:46:50+00:00",
-    "summary": "Jeni Castro bootstrapped Coffee Dose from a hair salon cafe concept to an eight-figure brand known for its bright and colorful personality.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69f295f88c1480ea4f600ba4/0x0.jpg?width=960",
-    "tags": [
-      "ForbesWomen",
-      "/forbeswomen",
-      "Leadership",
-      "/leadership",
-      "ForbesWomen"
-    ],
-    "industries": [
-      "tech",
-      "consumer"
-    ],
-    "relevance_score": 51
   },
   {
     "id": "ce8169df615c",
@@ -201,19 +164,44 @@
     "relevance_score": 48
   },
   {
-    "id": "59b2485b25f8",
-    "title": "Expedia bets on creator-led marketing with IShowSpeed partnership",
-    "url": "https://www.marketingdive.com/news/expedia-bets-on-creator-led-marketing-with-ishowspeed-partnership/818792/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-04-29T14:45:00+00:00",
-    "summary": "The platform is becoming the official travel partner of the livestreamer known for his globe-trotting endeavors and rabid Gen Z fandom.",
-    "image_url": "https://imgproxy.divecdn.com/DUA9a4yYxU6v-e7NjailkEIl8Mjr9XGELXr7YHA45hs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QRDFfMDEyODNfQkVYX0lDX2lTaG93U3BlZWRfR1BXaXRoU3BlZWQuanBn.webp",
-    "tags": [],
+    "id": "468641f1ee0b",
+    "title": "Microsoft says it has over 20M paid Copilot users, and they really are using it",
+    "url": "https://techcrunch.com/2026/04/29/microsoft-says-it-has-over-20m-paid-copilot-users-and-they-really-are-using-it/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-29T23:02:23+00:00",
+    "summary": "Despite the lingering perception that no one really uses Copilot, Microsoft said on Wednesday that the number of users and engagement is growing.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2017/07/gettyimages-496394442.jpg?resize=1200,747",
+    "tags": [
+      "AI",
+      "copilot ai",
+      "Microsoft"
+    ],
     "industries": [
-      "media",
       "tech",
       "industrial"
+    ],
+    "relevance_score": 48
+  },
+  {
+    "id": "c9bbf3c7bccd",
+    "title": "How Jeni Castro Turned An 88 Square Foot Coffee Shop Into An 8 Figure Brand",
+    "url": "https://www.forbes.com/sites/yolarobert1/2026/04/29/how-jeni-castro-turned-an-88-square-foot-coffee-shop-into-an-8-figure-brand/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-29T23:46:50+00:00",
+    "summary": "Jeni Castro bootstrapped Coffee Dose from a hair salon cafe concept to an eight-figure brand known for its bright and colorful personality.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69f295f88c1480ea4f600ba4/0x0.jpg?width=960",
+    "tags": [
+      "ForbesWomen",
+      "/forbeswomen",
+      "Leadership",
+      "/leadership",
+      "ForbesWomen"
+    ],
+    "industries": [
+      "tech",
+      "consumer"
     ],
     "relevance_score": 48
   },
@@ -272,6 +260,23 @@
     "relevance_score": 46
   },
   {
+    "id": "59b2485b25f8",
+    "title": "Expedia bets on creator-led marketing with IShowSpeed partnership",
+    "url": "https://www.marketingdive.com/news/expedia-bets-on-creator-led-marketing-with-ishowspeed-partnership/818792/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-04-29T14:45:00+00:00",
+    "summary": "The platform is becoming the official travel partner of the livestreamer known for his globe-trotting endeavors and rabid Gen Z fandom.",
+    "image_url": "https://imgproxy.divecdn.com/DUA9a4yYxU6v-e7NjailkEIl8Mjr9XGELXr7YHA45hs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QRDFfMDEyODNfQkVYX0lDX2lTaG93U3BlZWRfR1BXaXRoU3BlZWQuanBn.webp",
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 45
+  },
+  {
     "id": "3ab3a2ff5de5",
     "title": "The confidence layer: Building data foundations marketers can trust",
     "url": "https://martech.org/the-confidence-layer-building-data-foundations-marketers-can-trust/",
@@ -321,6 +326,23 @@
       "media",
       "tech",
       "retail"
+    ],
+    "relevance_score": 39
+  },
+  {
+    "id": "d18d1d047993",
+    "title": "Emerging technology trends brands and agencies need to know about - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRHZGQ3BHTlNqaXhBaEZDbWlnNGhBOTFuU0haUGpEZGpacDVLYWc3N0V3SE1QTmFDWEsycld6b1Q1MWI1MU9WMWhtSC1UbFFiZFFIazkzc25lQXo3U3BESGMxMHB6Q210S21QU2J0VEpVbVRGT1ZUa3QxS1FPZDEtVEViOA?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-04-30T09:00:00+00:00",
+    "summary": "Emerging technology trends brands and agencies need to know about Ad Age",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
     ],
     "relevance_score": 39
   },
@@ -390,28 +412,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 20
-  },
-  {
-    "id": "ae8921c20636",
-    "title": "Former X CEO Linda Yaccarino: ‘X’s Ads Business is Not Falling Short’",
-    "url": "https://www.adweek.com/media/former-x-ceo-linda-yaccarino-xs-ads-business-is-not-falling-short/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-04-29T17:19:46+00:00",
-    "summary": "Former X CEO Linda Yaccarino defended the platform’s cultural and advertising relevance despite steep revenue declines under Elon Musk.",
-    "image_url": null,
-    "tags": [
-      "Ad Tech Industry News",
-      "AI News",
-      "Artificial Intelligence",
-      "Exclusive",
-      "General"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 17
+    "relevance_score": 19
   },
   {
     "id": "fefbf9ee2b91",
@@ -477,48 +478,6 @@
     "relevance_score": 17
   },
   {
-    "id": "b5ca8c1cb31d",
-    "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
-    "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-29T23:55:23+00:00",
-    "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "TC",
-      "Microsoft",
-      "OpenAI"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 17
-  },
-  {
-    "id": "f3cb86b7bab5",
-    "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
-    "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-04-30T03:58:22+00:00",
-    "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1229449621.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "robots",
-      "Softbank"
-    ],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 17
-  },
-  {
     "id": "8a567f5bf8d3",
     "title": "Firestorm Labs raises $82M to take drone factories into the field",
     "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
@@ -537,6 +496,27 @@
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "ae8921c20636",
+    "title": "Former X CEO Linda Yaccarino: ‘X’s Ads Business is Not Falling Short’",
+    "url": "https://www.adweek.com/media/former-x-ceo-linda-yaccarino-xs-ads-business-is-not-falling-short/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-04-29T17:19:46+00:00",
+    "summary": "Former X CEO Linda Yaccarino defended the platform’s cultural and advertising relevance despite steep revenue declines under Elon Musk.",
+    "image_url": null,
+    "tags": [
+      "Ad Tech Industry News",
+      "AI News",
+      "Artificial Intelligence",
+      "Exclusive",
+      "General"
+    ],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 16
   },
@@ -562,6 +542,70 @@
     "relevance_score": 16
   },
   {
+    "id": "b5ca8c1cb31d",
+    "title": "Satya Nadella says he’s ready to ‘exploit’ the new OpenAI deal",
+    "url": "https://techcrunch.com/2026/04/29/satya-nadella-says-hes-ready-to-exploit-the-new-openai-deal/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-29T23:55:23+00:00",
+    "summary": "Microsoft gets to offer OpenAI's tech to its cloud customers and doesn't have to pay for it. \"We fully plan to exploit it,\" Nadella said.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-2153474575.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "TC",
+      "Microsoft",
+      "OpenAI"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "f3cb86b7bab5",
+    "title": "SoftBank is creating a robotics company that builds data centers — and already eyeing a $100B IPO",
+    "url": "https://techcrunch.com/2026/04/29/softbank-is-creating-a-robotics-company-that-builds-data-centers-and-already-eyeing-a-100b-ipo/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-04-30T03:58:22+00:00",
+    "summary": "You need infrastructure to build AI a and robots, but apparently you also need AI and robots to build infrastructure.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1229449621.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "robots",
+      "Softbank"
+    ],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "0a24fd3fe4db",
+    "title": "Reid Hoffman Thinks Doctors Should Ask AI for a Second Opinion",
+    "url": "https://www.wired.com/story/reid-hoffman-ai-doctor-second-opinion-wired-health/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-04-30T09:00:00+00:00",
+    "summary": "The LinkedIn cofounder now has an AI drug discovery startup—and thinks not asking chatbots for medical advice is “bordering on committing malpractice.”",
+    "image_url": "https://media.wired.com/photos/69ef9664677c4219ddb764c5/master/pass/Reid-Hoffman-WIRED-Health-Science-XT503179.jpg",
+    "tags": [
+      "Science",
+      "Science / Health",
+      "artificial intelligence",
+      "health care",
+      "health"
+    ],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 16
+  },
+  {
     "id": "f5fad6ad530c",
     "title": "Meta is still burning money on AR/VR",
     "url": "https://techcrunch.com/2026/04/29/meta-is-still-burning-money-on-ar-vr/",
@@ -577,17 +621,17 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
-    "id": "35f3147ae708",
-    "title": "Whimsy, Wonder And Mother’s Day 2026",
-    "url": "https://www.forbes.com/sites/katehardcastle/2026/04/29/whimsy-wonder-and-mothers-day-2026/",
+    "id": "3b2ed06a743a",
+    "title": "Altos Carves Out A Distinctive Position In The Global Tequila Market",
+    "url": "https://www.forbes.com/sites/kevinrozario/2026/04/30/altos-carves-out-a-distinctive-position-in-the-global-tequila-market/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-04-29T20:55:05+00:00",
-    "summary": "Mother’s Day 2026 gifting turns whimsical, with Tiffany, Veuve Clicquot, Floom and Big Sur escapes shaping this year’s most searched luxury gift ideas.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69f26cc416b034a947b1f307/0x0.jpg?width=960",
+    "published": "2026-04-30T07:19:10+00:00",
+    "summary": "Going back to its Mexican roots, and striking a clearer on-shelf presence, Altos is aiming for wider consumer appeal, especially among first-time tequila buyers.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69f2fb95bc7adfb22cdfa108/0x0.jpg",
     "tags": [
       "Retail",
       "/retail",
@@ -599,6 +643,48 @@
       "tech"
     ],
     "relevance_score": 15
+  },
+  {
+    "id": "e8e369735044",
+    "title": "The Eve Aqua Smart Water Controller Lets You Water Your Garden From Your Phone",
+    "url": "https://www.wired.com/review/review-eve-aqua-smart-water-controller/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-04-30T09:32:00+00:00",
+    "summary": "No need to excavate an in-ground irrigation system once you install this fixture onto your home’s spigot—you just have to figure out how to use the connected app.",
+    "image_url": "https://media.wired.com/photos/69f2eb9db9af2f8a25a718be/master/pass/Review--Eve-Aqua-Smart-Water-Controller.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Reviews",
+      "Gear / Products / Outdoor",
+      "Shopping",
+      "review"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "350a3ad1d3cd",
+    "title": "Amazon’s OpenAI gambit signals a new phase in the cloud wars — one where exclusivity no longer applies",
+    "url": "https://venturebeat.com/technology/amazons-openai-gambit-signals-a-new-phase-in-the-cloud-wars-one-where-exclusivity-no-longer-applies",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-04-29T21:14:06+00:00",
+    "summary": "Amazon Web Services on Tuesday launched one of the most consequential enterprise AI plays in the company's 20-year history, simultaneously bringing OpenAI's most powerful models to its Bedrock platform , unveiling a new agentic developer framework, releasing a desktop AI...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6uDI4U3BDukdOjvS9sIfb6/e737b3f07d2422e2215a430785511e2c/nuneybits_Vector_art_of_Amazon_Web_Services_represented_by_a_se_c066ceeb-0bbb-4cee-944b-7e5e9a644fc5.webp?w=300&q=30",
+    "tags": [
+      "Technology",
+      "Orchestration",
+      "Infrastructure"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 14
   },
   {
     "id": "1abac019fd7c",
@@ -619,7 +705,27 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
+  },
+  {
+    "id": "7f6f73dc3be6",
+    "title": "20% Off LG Promo Code & Coupons | May 2026",
+    "url": "https://www.wired.com/story/lg-promo-code/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-04-29T05:00:00+00:00",
+    "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+    "image_url": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 13
   },
   {
     "id": "8099265fe7af",
@@ -640,7 +746,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 14,
+    "relevance_score": 13,
     "also_covered_by": [
       "Wired"
     ]
@@ -665,7 +771,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "d0af6970986d",
@@ -685,47 +791,6 @@
     "industries": [
       "tech",
       "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "350a3ad1d3cd",
-    "title": "Amazon’s OpenAI gambit signals a new phase in the cloud wars — one where exclusivity no longer applies",
-    "url": "https://venturebeat.com/technology/amazons-openai-gambit-signals-a-new-phase-in-the-cloud-wars-one-where-exclusivity-no-longer-applies",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-04-29T21:14:06+00:00",
-    "summary": "Amazon Web Services on Tuesday launched one of the most consequential enterprise AI plays in the company's 20-year history, simultaneously bringing OpenAI's most powerful models to its Bedrock platform , unveiling a new agentic developer framework, releasing a desktop AI...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6uDI4U3BDukdOjvS9sIfb6/e737b3f07d2422e2215a430785511e2c/nuneybits_Vector_art_of_Amazon_Web_Services_represented_by_a_se_c066ceeb-0bbb-4cee-944b-7e5e9a644fc5.webp?w=300&q=30",
-    "tags": [
-      "Technology",
-      "Orchestration",
-      "Infrastructure"
-    ],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "7f6f73dc3be6",
-    "title": "20% Off LG Promo Code & Coupons | May 2026",
-    "url": "https://www.wired.com/story/lg-promo-code/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-04-29T05:00:00+00:00",
-    "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
-    "image_url": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
-    "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 13
   },
@@ -752,21 +817,6 @@
     "relevance_score": 13
   },
   {
-    "id": "aea728b2a4b4",
-    "title": "Google Profit Jumps 81% as Cloud Business Booms - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5HclZLODdDV3pZNVNjaWliSGo4QmJSV3ZsOTRzbkkxeF9idTFfT0ZhcDhpRzZUNW56Ny1qNHBTZkJkcEtMcWs0WHNPeWRabW93YnN2cmNDbGhXUVd4QU9OVUxfd2tTTGFfLV8yX05NYloyOUgzbHdZNjBzTQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-04-29T21:56:00+00:00",
-    "summary": "Google Profit Jumps 81% as Cloud Business Booms WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 13
-  },
-  {
     "id": "8861dea7a88e",
     "title": "Grindr — yes, Grindr — won the WHCD party circuit",
     "url": "https://www.theverge.com/column/920845/grindr-whcd-party-2026",
@@ -784,27 +834,6 @@
     "industries": [
       "tech",
       "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "a022818483ea",
-    "title": "New York Knicks Great Allan Houston, Brian Kortovich On Why ACES Has Become A Big Platform In Basketball Community",
-    "url": "https://www.forbes.com/sites/djsiddiqi/2026/04/29/new-york-knicks-great-allan-houston-brian-kortovich-on-why-aces-has-become-a-big-platform-in-basketball-community/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-04-29T23:22:58+00:00",
-    "summary": "Allan Houston and ACES Founder Brian Kortovich detail the Platform's impact in the NBA and basketball community.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69f290506432f225dea0923d/0x0.jpg?width=960&precrop=3000%2C1687%2Cx0%2Cy124",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 13
   },
@@ -953,49 +982,23 @@
     "relevance_score": 12
   },
   {
-    "id": "16e717ee4794",
-    "title": "Microsoft Reports Strong Cloud Growth, but Questions About AI Returns Persist - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNdmRJQkJzYzc5SHI0bFlpWDQ4V3g0X0tmOWFWSlJuZFZ1a0d1bzZuMFIxN0lON2twMVhfRlZfR1ExQjJuWGdqVWVyWjBYX01XU3hzSVkydDZURE0xTkZzc0dFU285VHlFTmVweUF5VWNBOFotMlFSd3BibDRrVlB3MWFmbVZDMm4ycFdGM05Ob3k4a2NZeFE?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-04-29T23:05:00+00:00",
-    "summary": "Microsoft Reports Strong Cloud Growth, but Questions About AI Returns Persist WSJ",
-    "image_url": null,
-    "tags": [],
+    "id": "a022818483ea",
+    "title": "New York Knicks Great Allan Houston, Brian Kortovich On Why ACES Has Become A Big Platform In Basketball Community",
+    "url": "https://www.forbes.com/sites/djsiddiqi/2026/04/29/new-york-knicks-great-allan-houston-brian-kortovich-on-why-aces-has-become-a-big-platform-in-basketball-community/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-04-29T23:22:58+00:00",
+    "summary": "Allan Houston and ACES Founder Brian Kortovich detail the Platform's impact in the NBA and basketball community.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69f290506432f225dea0923d/0x0.jpg?width=960&precrop=3000%2C1687%2Cx0%2Cy124",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
     "industries": [
       "tech"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "2cc678c5834a",
-    "title": "What Happens When We Disregard ICT4D Cybersecurity Risks - ICTworks",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT3VZRkZaMUJ6UGtfZ1dDMnRLRXJ6TmFiTVE2R3FEMzNXSmhxN1k5RTJLR1ljYllxQnAzWExVUEFhby1jZ1RJNTZoNTRHVlBFVXJ0NmpOYVZ0ZmwtbTZNeVgwb0JoQVRWcVBQYXlBRHhNVm5WTFFPUDhBNzRRQjBzMnBHczkxcjloRXRlQVFxV3dJbm5NdXU3R3Vhcjk4NnJJd2NxX2dWM3QzVklxX2hqUTBXVS0?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-30T04:48:55+00:00",
-    "summary": "What Happens When We Disregard ICT4D Cybersecurity Risks ICTworks",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "5ff81306b8d6",
-    "title": "Australia’s Card Payments Sector Approaches Saturation Point as Digital Transactions Dominate and Future Growth Shifts Toward Efficiency, Innovation and Regulatory Driven Change - Travel And Tour World",
-    "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxOU3NNVUZlOHNvZ0dfaU1KOEVZZTI0djc5NHBubVJoSDgwZlRfVU5yZ2pDNUZzcEhpTXN3S1JrRDE0TVhuYVY0TmQ5NU9UWGRjWDUxeUczNU5tRC0tMk1ycE5WOEpreUNfVXlQQkdseUFCRWZ5bExNd3JVZWhNbnhxUVVaYTd1Z3B0RU83Zy1pVVNTZXNVdlVKdEpLOEd0WFMxWnRPRzlrQVVTcDF0bkNNMmQybEhOUEg2b1M4MVRpU3c4RkFYSVMzUTduU0ViVURwOU5JbWVYQTkyMzMxMDNZeVFtdkhXbC1BelRkQlIwSjlzV2NvVjdtTVVIRElPS085ejRsYndQeHZWcDhreWh1S0IwTXZVRnNDQVpNSmxJeVczN2FMNi00QU5qYXJ0SWZzblFyd21VaXBranp6X1VwWmNOZTE4UUk?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-04-30T04:52:24+00:00",
-    "summary": "Australia’s Card Payments Sector Approaches Saturation Point as Digital Transactions Dominate and Future Growth Shifts Toward Efficiency, Innovation and Regulatory Driven Change Travel And Tour World",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "financial"
     ],
     "relevance_score": 12
   },
@@ -1132,6 +1135,21 @@
     "relevance_score": 11
   },
   {
+    "id": "2cc678c5834a",
+    "title": "What Happens When We Disregard ICT4D Cybersecurity Risks - ICTworks",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPT3VZRkZaMUJ6UGtfZ1dDMnRLRXJ6TmFiTVE2R3FEMzNXSmhxN1k5RTJLR1ljYllxQnAzWExVUEFhby1jZ1RJNTZoNTRHVlBFVXJ0NmpOYVZ0ZmwtbTZNeVgwb0JoQVRWcVBQYXlBRHhNVm5WTFFPUDhBNzRRQjBzMnBHczkxcjloRXRlQVFxV3dJbm5NdXU3R3Vhcjk4NnJJd2NxX2dWM3QzVklxX2hqUTBXVS0?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-30T04:48:55+00:00",
+    "summary": "What Happens When We Disregard ICT4D Cybersecurity Risks ICTworks",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "82830ae1ac5e",
     "title": "Adobe launches Firefly AI Assistant public beta with cross-app workflow automation - 9to5Mac",
     "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRVB3WG1HX1BEY3F1ZHNzSUxWNnRHUUZPR0Z4NXB6X2tKZWtKc3B1M29NQ0tiRTQ5Z055MUJuM2VXRnd3WTl4U3NuVTRFbmRKdDg1SkhxNkNRLUhXNncyMHRtU1ZHN1MtVWxBRThxeHZTTmd4MzB5X1N2eFZRU1R6UTQ5UndaV2VnYVBOQmY0ejZCdDNiNFpTWXhudXVTOV9qdmVJa0xzMWhHVnh4YTE2cHpINTA?oc=5",
@@ -1184,31 +1202,6 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 10,
-    "also_covered_by": [
-      "Telecom"
-    ]
-  },
-  {
-    "id": "3c8e7a63357e",
-    "title": "A DOGE Affiliate Is Now in Charge of the US Government’s ID Platform",
-    "url": "https://www.wired.com/story/a-doge-affiliate-is-now-in-charge-of-the-us-governments-id-platform/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-04-28T14:38:21+00:00",
-    "summary": "Greg Hogan will oversee Login.gov as the government seeks to integrate driver’s license and passport information into the service, making what one insider calls “a national ID.”",
-    "image_url": "https://media.wired.com/photos/69efe27bcbaa77bdcc0d53dc/master/pass/DOGE-Affiliate-Now-Leading-Tech-Team-at-GSA-Politics-2251588253.jpg",
-    "tags": [
-      "Politics",
-      "Politics / Politics News",
-      "politics",
-      "Elon Musk",
-      "DOGE"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
     "relevance_score": 10
   },
   {
@@ -1230,22 +1223,6 @@
     "relevance_score": 10
   },
   {
-    "id": "f94b4ccd2ebc",
-    "title": "Salesforce, Google Cloud Deepen AI Agent Integration Across Slack and Gemini - thelec.net",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OZEpJZmJNNDlrdmFlWXFlMWhSMThtd0xXWmhqZXZGSUx2SFVHZzBnQkhoNklmUEp5czJjZmN6TEVfUDFsb1VkTHFlMHFETnZFM1lzbUVTcGc3cFVyS3l2Y2xYcTVXWE0?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-04-29T07:42:46+00:00",
-    "summary": "Salesforce, Google Cloud Deepen AI Agent Integration Across Slack and Gemini thelec.net",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "4b70a79e7960",
     "title": "Metro by T-Mobile gives you ‘more for your money’ with $20 unlimited plan, free devices - 9to5Google",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNOGp6UXp3V20xQXUwMDVpX0dCMlFuSGhnZVZaeVpXVF9Ud21ldk5YU0hhalQ5VlRTN0RodEdZNEVvUGpoMUVoWGI3cmNnSE4wVFJZWTRqY1JYbDBtRV9aRHc1RkVQU1Y5M1hFSUdINU51eVcwamhXbVFvWWFFdkZ6aklXVzJ3V1FOSHZpcHdEd2ZjWmpsTDZyZ2s5bmEyanRMQUFERlRJTFlxQjhxVG9yUXVCRTVxTGw1UzFTbXJ0bEs?oc=5",
@@ -1258,23 +1235,6 @@
     "industries": [
       "tech",
       "telecom"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "5cc33eaa5f4c",
-    "title": "10 questions to ask health tech AI vendors before signing on the dotted line - IAPP",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT2RxcTB3WGs5SXF4QVBPeHlma0lfRkFOdXhyRlYxZEI2UndnaHViUnMwbVBReEtzeWhQNEVMMkw3bFF1TnBPOWxVOVJFb1hUQ0RUQzlxZWVndUxYdDBRdl9HLU5XZ2pmTG80ZW1NZFN5bHluYVVsYmRSNFlxbTJKeDZlS0xYdjVOc0hBZktwbV9SMU9mX3JJd3VNb1JONGJTenc?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-29T15:06:26+00:00",
-    "summary": "10 questions to ask health tech AI vendors before signing on the dotted line IAPP",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "tech",
-      "lifesciences"
     ],
     "relevance_score": 10
   },
@@ -1297,34 +1257,34 @@
     "relevance_score": 10
   },
   {
-    "id": "87aa67bfff44",
-    "title": "Wall Street ends mixed ahead of big tech earnings - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQSi1NbFNKUTZGWklnWGVWV2o5MUtLYktDdkhHeU5vTkxtbzZacnp2eE1XUEtELXdGUHlpbHg3WGZFemJmb0xZMVJ6bU1ieVNsaXRSVHUwbWRUTmVFcmhyM2MyMkhVaE9OZ2prckoxMEVpS1U1LW5IMm9vbkJsRElVMw?oc=5",
+    "id": "fd1838f6cda7",
+    "title": "Protection customers embrace rapid digital health support as Aviva DigiCare+ demand rises - Aviva corporate website",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQcXB5ZGtDazJveVJ6bko5bm1lbWxmOHBaWXJqQ2J3d0s0RVgxY29IenV2RUFlQmd1cGU4TDVTY3pmTWczZEY0YjdNVmZfWDlGT0taMkV6bUpWNlg4WTJKQ0pMUGVXbnRRTm50alV0cTVWOFdoRXFTR09NNUphX3VKMDM2U2J1c3NDLXJRekhYWF9TTUFFNEI4UFVjT2tlZWFHVUl5OFRjbllPcF9FRFROMw?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-30T08:50:39+00:00",
+    "summary": "Protection customers embrace rapid digital health support as Aviva DigiCare+ demand rises Aviva corporate website",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "1dcc4afbcac2",
+    "title": "French banks lag Wall Street rivals in trading as dollar, Iran war cloud results - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQOFFUQ01rTG5vQXpwVllIeUVTOVlTdmhPc3hzV3NrY25WNUNQeGtPXzRWaVl2Yk9ZLTVaVGd2Qk9aeWItdUpzaDlWRGV6TVQ2dWlUQVhBTExKUGpqT1ZnUHFwbE1kdlJWTmZqS3dqNHFmd056OFAzbWZFazhicjZvT3RmdWhsdWxBYnpiRDdvSVktU29NTkFFS2lWcGZHQXh1eGJ3RXJYb2tvV1NzbG9FSDVmaTFBZ2F2N09PWTNHUEVHNldj?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-04-29T22:56:34+00:00",
-    "summary": "Wall Street ends mixed ahead of big tech earnings Yahoo Finance",
+    "published": "2026-04-30T08:50:58+00:00",
+    "summary": "French banks lag Wall Street rivals in trading as dollar, Iran war cloud results Reuters",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
       "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "e9e15c82e5df",
-    "title": "Amazon Discusses ‘Apprentice’ Reboot—With Don Jr. as a Potential Host - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGxKLUNlX2NQaFp2dERZbW1XOU1SVmZXRnFCUEk5X0duRldjbmJzQUZsVzVMQWhFRUNWQkVDZHh0T2RWU0U2RDZNUV9jbjJnQ3QwQ2FiRC0tWFZ6TWtCa2xDa25OdWQtLVVRVVJMRDVmTVZiR3lPMlg2aFkyLUJKazBXQUZnbFpNNktSeXkxblFQSnotSHBhU1hhQ1AxVi1jbzc4VVN2TTBSc2thWEE?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-04-30T01:01:00+00:00",
-    "summary": "Amazon Discusses ‘Apprentice’ Reboot—With Don Jr. as a Potential Host WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail"
     ],
     "relevance_score": 10
   },
@@ -1378,6 +1338,22 @@
     "relevance_score": 9
   },
   {
+    "id": "f94b4ccd2ebc",
+    "title": "Salesforce, Google Cloud Deepen AI Agent Integration Across Slack and Gemini - thelec.net",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OZEpJZmJNNDlrdmFlWXFlMWhSMThtd0xXWmhqZXZGSUx2SFVHZzBnQkhoNklmUEp5czJjZmN6TEVfUDFsb1VkTHFlMHFETnZFM1lzbUVTcGc3cFVyS3l2Y2xYcTVXWE0?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-04-29T07:42:46+00:00",
+    "summary": "Salesforce, Google Cloud Deepen AI Agent Integration Across Slack and Gemini thelec.net",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "96dd9b054397",
     "title": "Guinea discusses digital transformation agenda under SIMANDOU 2040 vision - Tech Review Africa",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNUG9MalVRdTNLVXAyajg0Rk5TaGdSVVdSekhwV1dmUzB5X3pfSzlCVGF3aTBhUXJnTFY5WjluZWNwaVdFNk1lQ2Jzd2d0VGd6SzVzZUs2ZWt2Z19oZDVyaGlYRXhnenZlaThzMDJhWkpHNjIwQUZDSkNTWU5tN19iazg0UUZHQ2RTLW9kZ3h3eUJuLWxjbUFjZ0JIZDV2amV0TERKMHg5bnJjX2R0MnNUQVVB?oc=5",
@@ -1390,6 +1366,23 @@
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "5cc33eaa5f4c",
+    "title": "10 questions to ask health tech AI vendors before signing on the dotted line - IAPP",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQT2RxcTB3WGs5SXF4QVBPeHlma0lfRkFOdXhyRlYxZEI2UndnaHViUnMwbVBReEtzeWhQNEVMMkw3bFF1TnBPOWxVOVJFb1hUQ0RUQzlxZWVndUxYdDBRdl9HLU5XZ2pmTG80ZW1NZFN5bHluYVVsYmRSNFlxbTJKeDZlS0xYdjVOc0hBZktwbV9SMU9mX3JJd3VNb1JONGJTenc?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-29T15:06:26+00:00",
+    "summary": "10 questions to ask health tech AI vendors before signing on the dotted line IAPP",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "lifesciences"
     ],
     "relevance_score": 9
   },
@@ -1410,6 +1403,22 @@
     "relevance_score": 9
   },
   {
+    "id": "e9e15c82e5df",
+    "title": "Amazon Discusses ‘Apprentice’ Reboot—With Don Jr. as a Potential Host - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbGxKLUNlX2NQaFp2dERZbW1XOU1SVmZXRnFCUEk5X0duRldjbmJzQUZsVzVMQWhFRUNWQkVDZHh0T2RWU0U2RDZNUV9jbjJnQ3QwQ2FiRC0tWFZ6TWtCa2xDa25OdWQtLVVRVVJMRDVmTVZiR3lPMlg2aFkyLUJKazBXQUZnbFpNNktSeXkxblFQSnotSHBhU1hhQ1AxVi1jbzc4VVN2TTBSc2thWEE?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-04-30T01:01:00+00:00",
+    "summary": "Amazon Discusses ‘Apprentice’ Reboot—With Don Jr. as a Potential Host WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "4d7643bd97c1",
     "title": "The Download: supercharged scams and studying AI healthcare",
     "url": "https://www.technologyreview.com/2026/04/24/1136400/the-download-supercharged-scams-questionable-ai-healthcare/",
@@ -1421,23 +1430,6 @@
     "tags": [
       "The Download"
     ],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "634e8fa31679",
-    "title": "UnityAI builds out agentic AI for staffing operations to match outpatient clinicians with patient demand",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/unityai-builds-out-agentic-ai-staffing-operations-keep-pace-patient-demand",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-27T07:15:00+00:00",
-    "summary": "Nashville-based health tech startup UnityAI built out an agentic AI platform to streamline day-to-day staff scheduling and match it in real time with patient demand.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2193795785%20%281%29%20%281%29.jpg?VersionId=NQx9Uvx51Ol40lUy99.YjZFdZU53AiEK",
-    "tags": [],
     "industries": [
       "tech",
       "industrial",
@@ -1528,22 +1520,6 @@
     "relevance_score": 8
   },
   {
-    "id": "5f13e62d3f29",
-    "title": "Boise customer insights startup lands $5.2M in funding, customers include Intel, Verizon - Boise Dev",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE9BUElmZ1lRandmQmljRjNBTjI3REZCNWhLRVVUaVlDelROTDRMWW04Y20tdmhyNkVpY0NscW9PV3pLUmdGT1RuckRhaWJMZFU4anNvTkdVckRqU0x3TGxrbg?oc=5",
-    "source": "Telecom",
-    "source_category": "industry_telecom",
-    "published": "2026-04-27T17:46:50+00:00",
-    "summary": "Boise customer insights startup lands $5.2M in funding, customers include Intel, Verizon Boise Dev",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "telecom"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "73d1648ceba5",
     "title": "Stagwell Eyes SaaS Growth With Agent Cloud Launch for SMBs - ADWEEK",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPWHRQVzhaMl9PX3ZjNUp5R3BWMVBQLWpTLXVXWnBiRGdrN3k0cHhLRWtOM19HcERpV0dGcnpiX3pxMHJENlpLTFRTRE9BaThOa1FaQW9Ya3hqOWJQRXV2YzU5SWhOREh1NDJ3OHNvbktLdEZhUk9QSE9mS3N3dHdjZFhmMExzWTROekROOHYzQTJtcUtma1E?oc=5",
@@ -1591,20 +1567,21 @@
     "relevance_score": 8
   },
   {
-    "id": "d062ca41a18f",
-    "title": "How Have Mobile Payments Evolved to Become Super Apps? - FinTech Magazine",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOblBBQnpzYm1Pc1FnT0RCYlA4VU93cEcxVjJLTDlxUUhOV0lreDEwVTMzakxva0Z6VmFHZU03alpqMXktZ2xlVTNHQ2ZlRjRsQUhtS005V1c4Z01KNmVMSkhpcU51U09nd1lWX2hPZEt6RXhFdVlEb3BaeDFWYTk1a05fWjAxZ1c3U0QwNDF5SQ?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-04-29T15:41:58+00:00",
-    "summary": "How Have Mobile Payments Evolved to Become Super Apps? FinTech Magazine",
-    "image_url": null,
+    "id": "634e8fa31679",
+    "title": "UnityAI builds out agentic AI for staffing operations to match outpatient clinicians with patient demand",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/unityai-builds-out-agentic-ai-staffing-operations-keep-pace-patient-demand",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-27T07:15:00+00:00",
+    "summary": "Nashville-based health tech startup UnityAI built out an agentic AI platform to streamline day-to-day staff scheduling and match it in real time with patient demand.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2193795785%20%281%29%20%281%29.jpg?VersionId=NQx9Uvx51Ol40lUy99.YjZFdZU53AiEK",
     "tags": [],
     "industries": [
       "tech",
-      "financial"
+      "industrial",
+      "lifesciences"
     ],
-    "relevance_score": 8
+    "relevance_score": 7
   },
   {
     "id": "14404fc43efa",
@@ -1619,6 +1596,23 @@
     "industries": [
       "tech",
       "telecom"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "cf36c22d131d",
+    "title": "Google’s clinical director on AI challenges - statnews.com",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNM1ZSbnpaWWRvQ3NyLTk5YU5vQTlMS1hwaVJsaWs5VUN3UnRNTG5mUGhpdkdKVUtnYmtGZjNROGY1ZjdTcE5HejZabUJYMkZJNzdaR3BNY2x3aEhMWFo0Q1hQRTI3aENYV1h6OFlOVlZiVk42UmZpeC1DSTZYTGt6eHdKSkpBUXNOV1VFZ25LSWtRYi1Ibnphd1VDS2dHaTh2?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-28T13:30:43+00:00",
+    "summary": "Google’s clinical director on AI challenges statnews.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
     ],
     "relevance_score": 7
   },
@@ -1655,70 +1649,20 @@
     "relevance_score": 7
   },
   {
-    "id": "7447cf0f1d4a",
-    "title": "India's Paytm trims losses; analysts see limited hit from bank unit licence scrapping - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUxDNldLVUNubjRWV3ZRUGhySE03S2JNMWgtdGpfOXJYXzNuRVI5WUlKZ0xhLWlvcllTdVNTNnk2d3ktdGxmU2g1N3c2MG1OWjBXdnhpWVFObUV5dmQ0aU9aSE1kMlZBclBOVU9fTlY0UXQyZFZfdUcwWFh1R2NIbTlfY25lV1dORkN0VnBqa0Y2eWFmalgzS2w2b2tCRFJpUU52aG9iampvUnBDbVR1cHhXZDNTcTROLXgtdXJR?oc=5",
+    "id": "d062ca41a18f",
+    "title": "How Have Mobile Payments Evolved to Become Super Apps? - FinTech Magazine",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOblBBQnpzYm1Pc1FnT0RCYlA4VU93cEcxVjJLTDlxUUhOV0lreDEwVTMzakxva0Z6VmFHZU03alpqMXktZ2xlVTNHQ2ZlRjRsQUhtS005V1c4Z01KNmVMSkhpcU51U09nd1lWX2hPZEt6RXhFdVlEb3BaeDFWYTk1a05fWjAxZ1c3U0QwNDF5SQ?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-04-27T08:28:52+00:00",
-    "summary": "India's Paytm trims losses; analysts see limited hit from bank unit licence scrapping Reuters",
+    "published": "2026-04-29T15:41:58+00:00",
+    "summary": "How Have Mobile Payments Evolved to Become Super Apps? FinTech Magazine",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
       "financial"
     ],
-    "relevance_score": 6
-  },
-  {
-    "id": "64789648672f",
-    "title": "How agencies are reshaping junior-level roles and training in the AI era - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZMnlad2J6MWZ3T0RTN0xzbS1hbFFqV0c4S3hSUVY2ZmRCS0xHUUh3bzdaZnlUN2NsZW9ENVRlR3hRQlRFOEgwOWdlOWE1cm56QlM2MnF0WUR2YVg5Q295T0tPNkthVFZfN25YYTJOSUEtRFlpdDF5QkJR?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-04-27T09:00:00+00:00",
-    "summary": "How agencies are reshaping junior-level roles and training in the AI era Ad Age",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "ce0678b95960",
-    "title": "Albion and Tecnotree Partner to Deliver Next-Generation VAS Platform for TELUS in North America - PA Media",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxPRW0zOVdYTFZjTzROWTN4Y2NXZUhSZ1JiR1ZfVmNTcExzcEY5a3FhU29yTzlaajR3dHNoZDIwYWJreHZHbjVxeTdlUGRXV3Jqa1dZYWdqVXlkSWZqdm9KanlsYzF6aUptTU9YdkhweE8xMEpra3hYRlhqSkNYY3BQWUVyQW9RUzJxUEZ1WFZvU2E1cjU1YzM4MlVVRVI1SHU3bzFDQUU1bVJXYTBzUDEyNVI0WmtLU25DdkVZdkV2TXRIbkZUSzFzTGQtMHNjaU9NdXoxcl8zTU9iTmNyR0d0ZA?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-04-28T07:04:39+00:00",
-    "summary": "Albion and Tecnotree Partner to Deliver Next-Generation VAS Platform for TELUS in North America PA Media",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "df369adc8ba9",
-    "title": "How Digital Health Technology Is Revolutionizing Global Healthcare - vocal.media",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWk5oSDJqYlM1ejhxTkptQ3FySGNsamkyZlhqck9Qcm5Fc0NSYmpmT0lERVpDZnRPM2UtODV4Yml3TGViTmxSOXY5RERDa0l5TWZoZEZfbFl5a01GczVZbTg1QnQxOVhUd2FuMGphUk5LSi00RmJPOHlEYzdnb25DWThrOUtOUUtURmJQQTdyQVFZcXc?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-04-28T09:16:26+00:00",
-    "summary": "How Digital Health Technology Is Revolutionizing Global Healthcare vocal.media",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 6
+    "relevance_score": 7
   },
   {
     "id": "30e9458c5dd0",
@@ -1771,22 +1715,6 @@
     "relevance_score": 6
   },
   {
-    "id": "d2a210956166",
-    "title": "‘Rapidly becoming table stakes’: The state of agentic advertising - thecurrent.com",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxONTJYUDB6ZklhZW8yeTVWRGxrY2ZGNU54MFp1WlZKdWVJNDR6OC1fb3FaaFdvcDRNdVcwbVk5RUdJNExzWlE2X1piNmNGdjFkSVFrTms0ZDZabWtnVzFfV3FTb3o4YXNSZVUyWTd4aHpCakh1QWRRVUEzYl9tTGZVWHVnWjhLWThIa0E1SzVB?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-04-23T12:00:00+00:00",
-    "summary": "‘Rapidly becoming table stakes’: The state of agentic advertising thecurrent.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 5
-  },
-  {
     "id": "fff3d7be97b5",
     "title": "'Life-changing' psoriasis pill gets FDA approval - Institute for Molecular Bioscience",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNekdQcGdzZkVYdG4tY18zak9NSGlVTjBSSVRSTWJpWjl5bWRQSGl4MUNRY2JkMlVKc09SanRfQ0tfY2xIckxWX05sRldiMmQwNlRUdnZHdHdGNTVkampGTzJFaUhlU3lCVkM0NllmM2xRQ3RSQVVZc3JYT3Y5Z0RJaWRMYlViOGFDRGMzaw?oc=5",
@@ -1814,6 +1742,55 @@
     "image_url": null,
     "tags": [],
     "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "7447cf0f1d4a",
+    "title": "India's Paytm trims losses; analysts see limited hit from bank unit licence scrapping - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQWUxDNldLVUNubjRWV3ZRUGhySE03S2JNMWgtdGpfOXJYXzNuRVI5WUlKZ0xhLWlvcllTdVNTNnk2d3ktdGxmU2g1N3c2MG1OWjBXdnhpWVFObUV5dmQ0aU9aSE1kMlZBclBOVU9fTlY0UXQyZFZfdUcwWFh1R2NIbTlfY25lV1dORkN0VnBqa0Y2eWFmalgzS2w2b2tCRFJpUU52aG9iampvUnBDbVR1cHhXZDNTcTROLXgtdXJR?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-04-27T08:28:52+00:00",
+    "summary": "India's Paytm trims losses; analysts see limited hit from bank unit licence scrapping Reuters",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "64789648672f",
+    "title": "How agencies are reshaping junior-level roles and training in the AI era - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1ZMnlad2J6MWZ3T0RTN0xzbS1hbFFqV0c4S3hSUVY2ZmRCS0xHUUh3bzdaZnlUN2NsZW9ENVRlR3hRQlRFOEgwOWdlOWE1cm56QlM2MnF0WUR2YVg5Q295T0tPNkthVFZfN25YYTJOSUEtRFlpdDF5QkJR?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-04-27T09:00:00+00:00",
+    "summary": "How agencies are reshaping junior-level roles and training in the AI era Ad Age",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "df369adc8ba9",
+    "title": "How Digital Health Technology Is Revolutionizing Global Healthcare - vocal.media",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPWk5oSDJqYlM1ejhxTkptQ3FySGNsamkyZlhqck9Qcm5Fc0NSYmpmT0lERVpDZnRPM2UtODV4Yml3TGViTmxSOXY5RERDa0l5TWZoZEZfbFl5a01GczVZbTg1QnQxOVhUd2FuMGphUk5LSi00RmJPOHlEYzdnb25DWThrOUtOUUtURmJQQTdyQVFZcXc?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-04-28T09:16:26+00:00",
+    "summary": "How Digital Health Technology Is Revolutionizing Global Healthcare vocal.media",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
       "tech",
       "lifesciences"
     ],
