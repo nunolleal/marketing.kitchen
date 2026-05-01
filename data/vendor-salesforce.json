@@ -12,7 +12,7 @@
     "industries": [
       "telecom"
     ],
-    "relevance_score": 34
+    "relevance_score": 31
   },
   {
     "id": "68572ba65365",
@@ -46,22 +46,6 @@
     "relevance_score": 15
   },
   {
-    "id": "15c48057f431",
-    "title": "Unlocking Unstructured Data: Building AI-Powered Support Triage with Data 360",
-    "url": "https://www.salesforce.com/blog/unlocking-unstructured-data-building-ai-powered-support-triage-with-data-360/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-30T17:19:29+00:00",
-    "summary": "For years, “Email-to-Case” has been the backbone of customer service. But as any developer who has managed a high-volume support org knows, raw inbound text is a double-edged sword. Without metadata, your support…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/image3.png",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
     "id": "5807296877b1",
     "title": "4 Principles to Make the Right Salesforce UI Decisions",
     "url": "https://www.salesforce.com/blog/4-principles-salesforce-ui-form-decisions/",
@@ -75,6 +59,22 @@
       "tech"
     ],
     "relevance_score": 15
+  },
+  {
+    "id": "15c48057f431",
+    "title": "Unlocking Unstructured Data: Building AI-Powered Support Triage with Data 360",
+    "url": "https://www.salesforce.com/blog/unlocking-unstructured-data-building-ai-powered-support-triage-with-data-360/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-30T17:19:29+00:00",
+    "summary": "For years, “Email-to-Case” has been the backbone of customer service. But as any developer who has managed a high-volume support org knows, raw inbound text is a double-edged sword. Without metadata, your support…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/image3.png",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
   },
   {
     "id": "7988605bfe53",
@@ -121,22 +121,6 @@
     "relevance_score": 12
   },
   {
-    "id": "4e1ca74eb8e8",
-    "title": "Salesforce Is Letting Its Customers Build the Agentforce Roadmap and the Strategy Is Smarter Than It Looks - Startup Fortune",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWlpmdUxIOFJ3WkRhUVE0SlZQTmU0Y25YMFdVMUtKaVVOd01jMHgtTDUyTXNQVzdLV0J1OUFFeWlnMmlnTEZHcUpGWlgxMV9pV3RuUXNjNGhlaHlXV1JjclpKY2NqUmp6SFI4LWY0UjFPTGVTeEh5M2otUi1DX0dOU2toeV9vV0xUcmMtbnpKSGhOX2Rzdk1HWms0QU1QXzFPSm9kczByb1J3cExqc1ppR0t0RVo2YkhOcXJsTElqMVRaVHhrb2xBeUg3VzhVN0k?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-04-30T22:57:37+00:00",
-    "summary": "Salesforce Is Letting Its Customers Build the Agentforce Roadmap and the Strategy Is Smarter Than It Looks Startup Fortune",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
     "id": "1e18e3151479",
     "title": "Submit Your Architect Session: The Dreamforce 2026 Call for Participation Is Open",
     "url": "https://www.salesforce.com/blog/architect-dreamforce-2026-call-for-participation/",
@@ -145,21 +129,6 @@
     "published": "2026-04-29T17:30:00+00:00",
     "summary": "The Dreamforce 2026 Call for Participation is now open. Submit your session proposal by May 27, 2026 and share your architect expertise with the world's most engaged technical audience.",
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/TDX26-SF-Architect-Vista-12104.jpg?w=6908",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "d32714594beb",
-    "title": "Convoso Announces ‘Convoso for Salesforce’ on Salesforce AgentExchange - AiThority",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcXItZU1TaGRqS0lPa0pHMG9odERRY3NXWXhBTWhqMDBZMzlHWGRKSjZ5X1YyRzJJTDg0bWs4ejNzWWo1Skw5ZUxYVUlkc2JrWG5TZG9TN3NMLTZYajBRamRMTHpWWWx1NFp6TlB4S2hLcnNSSDAyM1llT0xRdTFiRWY4M0xFSWlXWC1OVW5pS056dDBuamN0a19rbUdwY0ZLSDZLQy10X3RLOGhi?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-04-30T14:45:44+00:00",
-    "summary": "Convoso Announces ‘Convoso for Salesforce’ on Salesforce AgentExchange AiThority",
-    "image_url": null,
     "tags": [],
     "industries": [
       "industrial"
@@ -189,6 +158,22 @@
     "source_category": "salesforce",
     "published": "2026-04-30T20:55:24+00:00",
     "summary": "Salesforce unveils Agentforce Operations to streamline cross-application task automation Traders Union",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "4e1ca74eb8e8",
+    "title": "Salesforce Is Letting Its Customers Build the Agentforce Roadmap and the Strategy Is Smarter Than It Looks - Startup Fortune",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOWlpmdUxIOFJ3WkRhUVE0SlZQTmU0Y25YMFdVMUtKaVVOd01jMHgtTDUyTXNQVzdLV0J1OUFFeWlnMmlnTEZHcUpGWlgxMV9pV3RuUXNjNGhlaHlXV1JjclpKY2NqUmp6SFI4LWY0UjFPTGVTeEh5M2otUi1DX0dOU2toeV9vV0xUcmMtbnpKSGhOX2Rzdk1HWms0QU1QXzFPSm9kczByb1J3cExqc1ppR0t0RVo2YkhOcXJsTElqMVRaVHhrb2xBeUg3VzhVN0k?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-04-30T22:57:37+00:00",
+    "summary": "Salesforce Is Letting Its Customers Build the Agentforce Roadmap and the Strategy Is Smarter Than It Looks Startup Fortune",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -228,20 +213,19 @@
     "relevance_score": 10
   },
   {
-    "id": "f94b4ccd2ebc",
-    "title": "Salesforce, Google Cloud Deepen AI Agent Integration Across Slack and Gemini - thelec.net",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OZEpJZmJNNDlrdmFlWXFlMWhSMThtd0xXWmhqZXZGSUx2SFVHZzBnQkhoNklmUEp5czJjZmN6TEVfUDFsb1VkTHFlMHFETnZFM1lzbUVTcGc3cFVyS3l2Y2xYcTVXWE0?oc=5",
+    "id": "d32714594beb",
+    "title": "Convoso Announces ‘Convoso for Salesforce’ on Salesforce AgentExchange - AiThority",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcXItZU1TaGRqS0lPa0pHMG9odERRY3NXWXhBTWhqMDBZMzlHWGRKSjZ5X1YyRzJJTDg0bWs4ejNzWWo1Skw5ZUxYVUlkc2JrWG5TZG9TN3NMLTZYajBRamRMTHpWWWx1NFp6TlB4S2hLcnNSSDAyM1llT0xRdTFiRWY4M0xFSWlXWC1OVW5pS056dDBuamN0a19rbUdwY0ZLSDZLQy10X3RLOGhi?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-04-29T07:42:46+00:00",
-    "summary": "Salesforce, Google Cloud Deepen AI Agent Integration Across Slack and Gemini thelec.net",
+    "published": "2026-04-30T14:45:44+00:00",
+    "summary": "Convoso Announces ‘Convoso for Salesforce’ on Salesforce AgentExchange AiThority",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
       "industrial"
     ],
-    "relevance_score": 9
+    "relevance_score": 10
   },
   {
     "id": "cbef012ebc12",
@@ -255,6 +239,22 @@
     "tags": [],
     "industries": [],
     "relevance_score": 9
+  },
+  {
+    "id": "f94b4ccd2ebc",
+    "title": "Salesforce, Google Cloud Deepen AI Agent Integration Across Slack and Gemini - thelec.net",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OZEpJZmJNNDlrdmFlWXFlMWhSMThtd0xXWmhqZXZGSUx2SFVHZzBnQkhoNklmUEp5czJjZmN6TEVfUDFsb1VkTHFlMHFETnZFM1lzbUVTcGc3cFVyS3l2Y2xYcTVXWE0?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-04-29T07:42:46+00:00",
+    "summary": "Salesforce, Google Cloud Deepen AI Agent Integration Across Slack and Gemini thelec.net",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 8
   },
   {
     "id": "4340ec1243de",
