@@ -10,7 +10,7 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 51
+    "relevance_score": 48
   },
   {
     "id": "f2f9ce60a2bf",
@@ -26,7 +26,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 48
+    "relevance_score": 45
   },
   {
     "id": "1e1f34f18576",
@@ -41,7 +41,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 48
+    "relevance_score": 45
   },
   {
     "id": "8fb1c9209206",
@@ -90,6 +90,22 @@
     "relevance_score": 27
   },
   {
+    "id": "763918aaf8fd",
+    "title": "The 4-Step Guide to Salesforce Agent and Application Development",
+    "url": "https://www.salesforce.com/blog/salesforce-agent-application-development/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-01T20:31:57+00:00",
+    "summary": "Deploy robust, secure AI solutions with Salesforce’s development approach, designed to fit the size and skillset of your team and business priorities.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/BLOG-4-Step-Process-for-Agent-and-App-Dev.png",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
     "id": "c76c21c0fa5a",
     "title": "7 LinkedIn Connection Strategies For Small and Medium Enterprises",
     "url": "https://www.salesforce.com/blog/linkedin-strategies-for-small-business/",
@@ -100,23 +116,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/image_11feff.jpeg",
     "tags": [],
     "industries": [],
-    "relevance_score": 16
-  },
-  {
-    "id": "15c48057f431",
-    "title": "Unlocking Unstructured Data: Building AI-Powered Support Triage with Data 360",
-    "url": "https://www.salesforce.com/blog/unlocking-unstructured-data-building-ai-powered-support-triage-with-data-360/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-30T17:19:29+00:00",
-    "summary": "For years, “Email-to-Case” has been the backbone of customer service. But as any developer who has managed a high-volume support org knows, raw inbound text is a double-edged sword. Without metadata, your support…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/image3.png",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 14
+    "relevance_score": 15
   },
   {
     "id": "5807296877b1",
@@ -134,51 +134,18 @@
     "relevance_score": 14
   },
   {
-    "id": "7988605bfe53",
-    "title": "Scaling the Agentforce Life Sciences Ecosystem to Drive the Future of Pharma and MedTech",
-    "url": "https://www.salesforce.com/blog/salesforce-scales-agentforce-life-sciences/",
+    "id": "15c48057f431",
+    "title": "Unlocking Unstructured Data: Building AI-Powered Support Triage with Data 360",
+    "url": "https://www.salesforce.com/blog/unlocking-unstructured-data-building-ai-powered-support-triage-with-data-360/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-04-30T18:19:15+00:00",
-    "summary": "Salesforce is expanding its partner ecosystem for life sciences, aimed to help accelerate the industry’s imperative to transform into Agentic Enterprises. This growth includes deeper collaborations with leading Systems Integrators (SIs), specialized Content…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/AdobeStock_1821466990.jpeg?w=6000",
+    "published": "2026-04-30T17:19:29+00:00",
+    "summary": "For years, “Email-to-Case” has been the backbone of customer service. But as any developer who has managed a high-volume support org knows, raw inbound text is a double-edged sword. Without metadata, your support…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/image3.png",
     "tags": [],
     "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "0d6e82bf701e",
-    "title": "Salesforce Changes Financial Disclosure On AI Products. Good Or Bad For Investors? - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVWVCOTcwb2hYd0ZyYnBGLVdvSnB1Y1pKVWpoeDdkei1najQwMmVDanFydV94LW95UllYMWIyZ2s4aDIyUE0wQ2xNM3I0ZXRGTHZBWWM5Z1VZamZaTFRMdk10NW5QX1ZTbUNhNUhPazJ3alU5LUp3RWlWcTBnb1BKRllVWkhscDFtYTBDNDF2WGFIaGxITmZ0X0RHTm1zZ3dFMHRRSGZ4a2U4dw?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-05-01T15:18:00+00:00",
-    "summary": "Salesforce Changes Financial Disclosure On AI Products. Good Or Bad For Investors? Investor's Business Daily",
-    "image_url": null,
-    "tags": [],
-    "industries": [
+      "tech",
       "industrial"
-    ],
-    "relevance_score": 13,
-    "also_covered_by": [
-      "Adobe"
-    ]
-  },
-  {
-    "id": "7f40b46f46ef",
-    "title": "Apprentice Journey Shines a Light on Talent Pathways at Salesforce",
-    "url": "https://www.salesforce.com/blog/apprentice-journey-shines-a-light-on-talent-pathways-at-salesforce/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-04-30T20:28:19+00:00",
-    "summary": "At Salesforce, we believe that talent knows no bounds, and that different perspectives fuel innovation. Few stories exemplify this more powerfully than that of Luis Salazar, who joined us in 2025 as an…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/01/image-72-1.png",
-    "tags": [],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 12
   },
@@ -199,16 +166,37 @@
     "relevance_score": 12
   },
   {
-    "id": "0945dc22b109",
-    "title": "5 Slack Shortcuts For Small Teams",
-    "url": "https://www.salesforce.com/blog/slack-shortcuts-for-small-business/",
+    "id": "0d6e82bf701e",
+    "title": "Salesforce Changes Financial Disclosure On AI Products. Good Or Bad For Investors? - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOVWVCOTcwb2hYd0ZyYnBGLVdvSnB1Y1pKVWpoeDdkei1najQwMmVDanFydV94LW95UllYMWIyZ2s4aDIyUE0wQ2xNM3I0ZXRGTHZBWWM5Z1VZamZaTFRMdk10NW5QX1ZTbUNhNUhPazJ3alU5LUp3RWlWcTBnb1BKRllVWkhscDFtYTBDNDF2WGFIaGxITmZ0X0RHTm1zZ3dFMHRRSGZ4a2U4dw?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-05-01T15:18:00+00:00",
+    "summary": "Salesforce Changes Financial Disclosure On AI Products. Good Or Bad For Investors? Investor's Business Daily",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 12,
+    "also_covered_by": [
+      "Adobe"
+    ]
+  },
+  {
+    "id": "7988605bfe53",
+    "title": "Scaling the Agentforce Life Sciences Ecosystem to Drive the Future of Pharma and MedTech",
+    "url": "https://www.salesforce.com/blog/salesforce-scales-agentforce-life-sciences/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-04-30T13:00:00+00:00",
-    "summary": "Learn how small teams use quick actions in Slack to speed up their work and stay focused on growing their business.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/image_88e1e1.jpeg",
+    "published": "2026-04-30T18:19:15+00:00",
+    "summary": "Salesforce is expanding its partner ecosystem for life sciences, aimed to help accelerate the industry’s imperative to transform into Agentic Enterprises. This growth includes deeper collaborations with leading Systems Integrators (SIs), specialized Content…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/AdobeStock_1821466990.jpeg?w=6000",
     "tags": [],
-    "industries": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
     "relevance_score": 11
   },
   {
@@ -230,33 +218,17 @@
     ]
   },
   {
-    "id": "b448df438f88",
-    "title": "Agent Script: The Control Plane for Agentic Decisions",
-    "url": "https://www.salesforce.com/blog/agent-script-control-plane/",
+    "id": "7f40b46f46ef",
+    "title": "Apprentice Journey Shines a Light on Talent Pathways at Salesforce",
+    "url": "https://www.salesforce.com/blog/apprentice-journey-shines-a-light-on-talent-pathways-at-salesforce/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-04-30T18:54:23+00:00",
-    "summary": "A language built for humans and the coding agents that help them",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/AdobeStock_1962202846-AI-Hands.jpeg?w=10162",
+    "published": "2026-04-30T20:28:19+00:00",
+    "summary": "At Salesforce, we believe that talent knows no bounds, and that different perspectives fuel innovation. Few stories exemplify this more powerfully than that of Luis Salazar, who joined us in 2025 as an…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/01/image-72-1.png",
     "tags": [],
     "industries": [
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "cb82fe6d0268",
-    "title": "Salesforce unveils Agentforce Operations to streamline cross-application task automation - Traders Union",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNYTRIc3hJSnB2WTE1OXF6UUNkYi00Smo4U2o1MjVzMFpDcmdWbHV4djhlYWxzMG9sUlRrblNIRUVyUHFNdld1YU4xam5Bb3hJSlhCeHVKc2xIWl9CYUVsQnVLdXM4MkZ6blNGTHlHQUtsaGMzMnZzT0RkQUxGMUhnT3VQbnU5M1Foazl5Qg?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-04-30T20:55:24+00:00",
-    "summary": "Salesforce unveils Agentforce Operations to streamline cross-application task automation Traders Union",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
+      "tech"
     ],
     "relevance_score": 10
   },
@@ -275,6 +247,21 @@
       "industrial"
     ],
     "relevance_score": 10
+  },
+  {
+    "id": "b448df438f88",
+    "title": "Agent Script: The Control Plane for Agentic Decisions",
+    "url": "https://www.salesforce.com/blog/agent-script-control-plane/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-04-30T18:54:23+00:00",
+    "summary": "A language built for humans and the coding agents that help them",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/AdobeStock_1962202846-AI-Hands.jpeg?w=10162",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 9
   },
   {
     "id": "f94b4ccd2ebc",
@@ -308,13 +295,13 @@
     "relevance_score": 8
   },
   {
-    "id": "d32714594beb",
-    "title": "Convoso Announces ‘Convoso for Salesforce’ on Salesforce AgentExchange - AiThority",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNcXItZU1TaGRqS0lPa0pHMG9odERRY3NXWXhBTWhqMDBZMzlHWGRKSjZ5X1YyRzJJTDg0bWs4ejNzWWo1Skw5ZUxYVUlkc2JrWG5TZG9TN3NMLTZYajBRamRMTHpWWWx1NFp6TlB4S2hLcnNSSDAyM1llT0xRdTFiRWY4M0xFSWlXWC1OVW5pS056dDBuamN0a19rbUdwY0ZLSDZLQy10X3RLOGhi?oc=5",
+    "id": "8f688596301a",
+    "title": "Convoso Announces 'Convoso for Salesforce' on Salesforce AgentExchange - The National Law Review",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbXVjd0N1cWY0c2tfTmJQUzVycXc5TkZRbVNxb0l0ZWU4RVhLU3IzbXdyMTU4anVpTW9fRkJ2Z3JTTk1YblRYa0VUOFBjZWFidi1MbFlLWkNmcjFGSC0wLURPaXpERG9GQnFEUUt3VHVjRjZmRk1rRW9SWWY5TW9CQS1Va3UtUk5sU2tNQVBTU2dxeXJMY25uZUpra1hJQWhxQUQ4?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-04-30T14:45:44+00:00",
-    "summary": "Convoso Announces ‘Convoso for Salesforce’ on Salesforce AgentExchange AiThority",
+    "published": "2026-04-30T14:19:41+00:00",
+    "summary": "Convoso Announces 'Convoso for Salesforce' on Salesforce AgentExchange The National Law Review",
     "image_url": null,
     "tags": [],
     "industries": [
