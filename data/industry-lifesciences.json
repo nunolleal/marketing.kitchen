@@ -43,7 +43,7 @@
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "b21016a126d2",
@@ -65,7 +65,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 14,
+    "relevance_score": 13,
     "also_covered_by": [
       "Fierce Healthcare"
     ]
@@ -89,39 +89,6 @@
     "relevance_score": 12
   },
   {
-    "id": "ca1545a5498d",
-    "title": "Cleveland Clinic taps startup Luminai to test how AI can run hospital operations",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/how-cleveland-clinic-working-startup-luminai-test-how-ai-can-run-hospital",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-01T11:22:00+00:00",
-    "summary": "As the Cleveland Clinic works with Luminai, tech leadership sees opportunities to use its tech to tackle other administrative workflows, especially in workflows that are high-volume, complex and operationally intensive, Rohit Chandra, Cleveland Clinic chief digital officer, said.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2152554500.jpg?VersionId=sRgXjDC.XT_Qk5G3gPh_gJLsyMr_r5v6",
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "7f43ef0073cf",
-    "title": "Senators introduce clean extension to cost-based payments for some rural hospitals",
-    "url": "https://www.fiercehealthcare.com/providers/senators-introduce-clean-extension-cost-based-payments-rural-hospitals",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-01T13:07:00+00:00",
-    "summary": "The bipartisan reauthorization would add five more years to the Rural Community Hospital Demonstration, a payment model for hospitals with fewer than 51 beds but still too large for Critical Access Hospital designation.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1620054291/washington-1880341.jpg/washington-1880341.jpg?VersionId=jv6YWC0e4lqP4I4hr7wTZJ4MPBEa.NBm",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences",
-      "financial"
-    ],
-    "relevance_score": 12
-  },
-  {
     "id": "d8685531e3a6",
     "title": "Teladoc Health reports strong momentum behind BetterHelp insurance shift, CEO says",
     "url": "https://www.fiercehealthcare.com/health-tech/teladoc-health-reports-strong-momentum-behind-betterhelp-insurance-shift-ceo-says",
@@ -136,7 +103,10 @@
       "lifesciences",
       "financial"
     ],
-    "relevance_score": 11
+    "relevance_score": 11,
+    "also_covered_by": [
+      "Health Tech"
+    ]
   },
   {
     "id": "5c150a63d9d8",
@@ -178,23 +148,37 @@
     "relevance_score": 11
   },
   {
-    "id": "a66bbbf59cbb",
-    "title": "Health Tech Weekly Rundown: Sage launches Tasking for senior care workflows; St. Luke’s taps Auxira Health for cardiologist support",
-    "url": "https://www.fiercehealthcare.com/health-tech/health-tech-weekly-rundown-sage-launches-ehr-integrated-senior-care-workflows-st-lukes",
+    "id": "ca1545a5498d",
+    "title": "Cleveland Clinic taps startup Luminai to test how AI can run hospital operations",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/how-cleveland-clinic-working-startup-luminai-test-how-ai-can-run-hospital",
     "source": "Fierce Healthcare",
     "source_category": "industry_lifesciences",
-    "published": "2026-05-01T10:19:00+00:00",
-    "summary": "Stay up-to-date on the latest in health tech, digital health and health AI news with this weekly brief.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2217168478.jpg?VersionId=0phAnpOmLcGCkwxate79_jHGSX6nTo0S",
+    "published": "2026-05-01T11:22:00+00:00",
+    "summary": "As the Cleveland Clinic works with Luminai, tech leadership sees opportunities to use its tech to tackle other administrative workflows, especially in workflows that are high-volume, complex and operationally intensive, Rohit Chandra, Cleveland Clinic chief digital officer, said.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2152554500.jpg?VersionId=sRgXjDC.XT_Qk5G3gPh_gJLsyMr_r5v6",
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "7f43ef0073cf",
+    "title": "Senators introduce clean extension to cost-based payments for some rural hospitals",
+    "url": "https://www.fiercehealthcare.com/providers/senators-introduce-clean-extension-cost-based-payments-rural-hospitals",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-01T13:07:00+00:00",
+    "summary": "The bipartisan reauthorization would add five more years to the Rural Community Hospital Demonstration, a payment model for hospitals with fewer than 51 beds but still too large for Critical Access Hospital designation.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1620054291/washington-1880341.jpg/washington-1880341.jpg?VersionId=jv6YWC0e4lqP4I4hr7wTZJ4MPBEa.NBm",
     "tags": [],
     "industries": [
       "industrial",
-      "lifesciences"
+      "lifesciences",
+      "financial"
     ],
-    "relevance_score": 11,
-    "also_covered_by": [
-      "Health Tech"
-    ]
+    "relevance_score": 11
   },
   {
     "id": "926d5c2f64bb",
@@ -227,6 +211,25 @@
     "relevance_score": 10
   },
   {
+    "id": "a66bbbf59cbb",
+    "title": "Health Tech Weekly Rundown: Sage launches Tasking for senior care workflows; St. Luke’s taps Auxira Health for cardiologist support",
+    "url": "https://www.fiercehealthcare.com/health-tech/health-tech-weekly-rundown-sage-launches-ehr-integrated-senior-care-workflows-st-lukes",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-01T10:19:00+00:00",
+    "summary": "Stay up-to-date on the latest in health tech, digital health and health AI news with this weekly brief.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2217168478.jpg?VersionId=0phAnpOmLcGCkwxate79_jHGSX6nTo0S",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 10,
+    "also_covered_by": [
+      "Health Tech"
+    ]
+  },
+  {
     "id": "9e38b052ca62",
     "title": "Iterative Health banks $77m to level up AI-driven clinical research tech - Clinical Trials Arena",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOWmVKWDB0OEtOSEl0bkRMcHB0TlViR29wQTJzUmhZS19jckFUMGhwcTA1ZXNjRkh3SWRuV0ZIbzI4LXVsbk9pMFhHT09lSi1ycmJQSWZoQjVFRF80b2prcVFudG5Pc0hOel9EOV9ISlR4ME00WUdTdzhhY2xad2U0R0I4YjBBQjNPSDhFaHpWZ1hmWU1QRUtTMGRwcXpOSC1HUGk1Z2pzU2dTVmFk?oc=5",
@@ -254,54 +257,6 @@
     "tags": [],
     "industries": [
       "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "963921d6d3cb",
-    "title": "AHA, West Health launch health tech adoption initiative - TechTarget",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORlVveDlMenMwSEFKMFN4a0poT2hQX1dfdmVfSkNWRXc3Q2V3SXcySi1WM0xHeExrdWctYmdDRm1lRVdZeFM5WDBtSmZjQVpFd2kyemR0aDU3QW1HSlpmbUtpR3FIQU9mdk51TUdZbmxiU0IxVm1PSTVHeHlMTDI4cFlHSmQ3TGZ6ODdIS3hTTkZXQWZrSGNnUVpPR3o0d20tNzJQU3NsOUxzOTJHQk1sUlBwMTE?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-01T17:43:19+00:00",
-    "summary": "AHA, West Health launch health tech adoption initiative TechTarget",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "92dc650fbf74",
-    "title": "AbbVie’s Earnings Beat Wall Street’s Estimates. Investors Are Still Worried - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPY3lnMnVSVUFrVGZyX2UyZW5jRWNFQ3QzaW14Z193UnhsYUtXbGJIeEQ2ME5oWlBXdldGVVc3bnpOSmUtTHcyMXUxS2QwM0pmQ09vMTRUSzdWX0hDc0p6TTE1UGZEZ01RTV9WdG1XVnRuMVNHSGxGempGTXltQ3BTdjdQMjRLRzBZaWt4OWVBZmhZamFwbElyWldFTGk5NWkwZmlobUkzOFRMT3VfNklnbEVUdGdVUE52enk2bXdPaXBmZVNwUkdZelhWVVFIb1Zl?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-05-01T19:32:34+00:00",
-    "summary": "AbbVie’s Earnings Beat Wall Street’s Estimates. Investors Are Still Worried WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "cd0cf016650f",
-    "title": "Validated quality signals will drive digital health adoption - Healthcare Finance News",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdVRKZGJtMzhkbURtTFdwb041SkxSRDJoZjQ5NnI2a2hwZUFyRkNPcTNWZTdMdkFBVFVkVl9XYjBSWWFiTFJxYjdfQ1VRUjFESWdGV2Q5ckp4QS15bktTSm4zQmUxYlc2dGtLdGRLazZFVEx1UFdvSktFS3U0eHV6bzhna1RKRVlIWDJrMktaai1QMlZMWmZ0MVBsX3FUcmFkVk1WNFpoOA?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-01T21:37:58+00:00",
-    "summary": "Validated quality signals will drive digital health adoption Healthcare Finance News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
       "lifesciences"
     ],
     "relevance_score": 10
@@ -386,17 +341,18 @@
     "relevance_score": 9
   },
   {
-    "id": "cdc7e0f579d9",
-    "title": "FDA Approves Auvelity | PharmExec - Pharmaceutical Executive",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XTmVOdnJTZnJhc2RQRnBTU3FtUjhWaW5RSmtZN0J1RUg4ZDVMbjI2M3BIMjZQbVhUUDIydEl2U1hweTIyMDJDbDRZeGRWc1hhVjJMcWRPTzRCTlhCSGlsU1Btb0dBOUNiQlE?oc=5",
-    "source": "Biotech",
+    "id": "963921d6d3cb",
+    "title": "AHA, West Health launch health tech adoption initiative - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxORlVveDlMenMwSEFKMFN4a0poT2hQX1dfdmVfSkNWRXc3Q2V3SXcySi1WM0xHeExrdWctYmdDRm1lRVdZeFM5WDBtSmZjQVpFd2kyemR0aDU3QW1HSlpmbUtpR3FIQU9mdk51TUdZbmxiU0IxVm1PSTVHeHlMTDI4cFlHSmQ3TGZ6ODdIS3hTTkZXQWZrSGNnUVpPR3o0d20tNzJQU3NsOUxzOTJHQk1sUlBwMTE?oc=5",
+    "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-05-01T19:24:34+00:00",
-    "summary": "FDA Approves Auvelity | PharmExec Pharmaceutical Executive",
+    "published": "2026-05-01T17:43:19+00:00",
+    "summary": "AHA, West Health launch health tech adoption initiative TechTarget",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
+      "retail",
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 9
@@ -433,29 +389,28 @@
     "relevance_score": 8
   },
   {
-    "id": "dbb995dca7f0",
-    "title": "ECRI Urges Congress to Strengthen Regulatory Transparency for Digital Health and CDS Tools - HIT Consultant",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOdzAzVGpNaGJzMTZoNE5LWjYtQWt0dXY2RDJEajZQNzVYT0w2Q2dMT29BUzRqNi1XdWZkOHI1bk5BYjFUeTNBUUliMGJSYmhaM2ZjTExyaENSQVdJSEVjalNMa2FwOG5tdWo2X3c4Y2pTT0hrRWNYY3lUZE15X284dEp6UFotbHBFUUFvN2sxLTNITmVWTEZlYjdR?oc=5",
+    "id": "a21b922a2eca",
+    "title": "Arturo LoAIza-Bonilla: Where AI Meets Healthcare – Digital Health and AI Innovation Summit - Oncodaily",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpczJtbDZhNG9nUkRhcWdxQkdtMXNkQ1QzMjFXUkw1OWNDT1lCdDdldURxdmVMaThSN2lsTjcyZEYzWVhSX1JZRzF5aXRxVHdEZi1hQ3o3UWszVm5vdERTRmNsVTZBNDI1?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-05-01T10:20:34+00:00",
-    "summary": "ECRI Urges Congress to Strengthen Regulatory Transparency for Digital Health and CDS Tools HIT Consultant",
+    "published": "2026-05-01T14:12:36+00:00",
+    "summary": "Arturo LoAIza-Bonilla: Where AI Meets Healthcare – Digital Health and AI Innovation Summit Oncodaily",
     "image_url": null,
     "tags": [],
     "industries": [
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 8
   },
   {
-    "id": "cc3c5328bb79",
-    "title": "Evolving Technology with Changing Healthcare Landscape - Medical Tech Outlook",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYmJSdjlQSXRzY0Y2NTlBNGF3R1hzbElUdDVUMzVKTENCcWczTHFxSWN3ZE5famtNT0FOdTktSXJ1TUFpOE1USm4wZmJKRUxWVnIzMVFTM0pwbU1Rb1V5OEZzanc5bUZUR0EwQm5xOFh0eTRiRnFNYzVxTGhnTnNUaHVmTDNIXzhIUVljZTJRZ0Q4cmRFZ3pJZ3d5WjNjSW9SbGl1ZkoxVkhkajBKT1NZZWFvd3RlLVFMbnVLUm1kS2FxYXZJ?oc=5",
-    "source": "Health Tech",
+    "id": "cdc7e0f579d9",
+    "title": "FDA Approves Auvelity | PharmExec - Pharmaceutical Executive",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5XTmVOdnJTZnJhc2RQRnBTU3FtUjhWaW5RSmtZN0J1RUg4ZDVMbjI2M3BIMjZQbVhUUDIydEl2U1hweTIyMDJDbDRZeGRWc1hhVjJMcWRPTzRCTlhCSGlsU1Btb0dBOUNiQlE?oc=5",
+    "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-05-01T13:40:35+00:00",
-    "summary": "Evolving Technology with Changing Healthcare Landscape Medical Tech Outlook",
+    "published": "2026-05-01T19:24:34+00:00",
+    "summary": "FDA Approves Auvelity | PharmExec Pharmaceutical Executive",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -465,13 +420,13 @@
     "relevance_score": 8
   },
   {
-    "id": "a21b922a2eca",
-    "title": "Arturo LoAIza-Bonilla: Where AI Meets Healthcare – Digital Health and AI Innovation Summit - Oncodaily",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTFBpczJtbDZhNG9nUkRhcWdxQkdtMXNkQ1QzMjFXUkw1OWNDT1lCdDdldURxdmVMaThSN2lsTjcyZEYzWVhSX1JZRzF5aXRxVHdEZi1hQ3o3UWszVm5vdERTRmNsVTZBNDI1?oc=5",
+    "id": "cd0cf016650f",
+    "title": "Validated quality signals will drive digital health adoption - Healthcare Finance News",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOdVRKZGJtMzhkbURtTFdwb041SkxSRDJoZjQ5NnI2a2hwZUFyRkNPcTNWZTdMdkFBVFVkVl9XYjBSWWFiTFJxYjdfQ1VRUjFESWdGV2Q5ckp4QS15bktTSm4zQmUxYlc2dGtLdGRLazZFVEx1UFdvSktFS3U0eHV6bzhna1RKRVlIWDJrMktaai1QMlZMWmZ0MVBsX3FUcmFkVk1WNFpoOA?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-05-01T14:12:36+00:00",
-    "summary": "Arturo LoAIza-Bonilla: Where AI Meets Healthcare – Digital Health and AI Innovation Summit Oncodaily",
+    "published": "2026-05-01T21:37:58+00:00",
+    "summary": "Validated quality signals will drive digital health adoption Healthcare Finance News",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -523,6 +478,22 @@
     "tags": [],
     "industries": [
       "media",
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "cc3c5328bb79",
+    "title": "Evolving Technology with Changing Healthcare Landscape - Medical Tech Outlook",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNYmJSdjlQSXRzY0Y2NTlBNGF3R1hzbElUdDVUMzVKTENCcWczTHFxSWN3ZE5famtNT0FOdTktSXJ1TUFpOE1USm4wZmJKRUxWVnIzMVFTM0pwbU1Rb1V5OEZzanc5bUZUR0EwQm5xOFh0eTRiRnFNYzVxTGhnTnNUaHVmTDNIXzhIUVljZTJRZ0Q4cmRFZ3pJZ3d5WjNjSW9SbGl1ZkoxVkhkajBKT1NZZWFvd3RlLVFMbnVLUm1kS2FxYXZJ?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-01T13:40:35+00:00",
+    "summary": "Evolving Technology with Changing Healthcare Landscape Medical Tech Outlook",
+    "image_url": null,
+    "tags": [],
+    "industries": [
       "tech",
       "lifesciences"
     ],
@@ -620,6 +591,21 @@
     "tags": [],
     "industries": [
       "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "92b37a1bd681",
+    "title": "More Health Data, Limited Follow-Through: Korea’s Digital Health Reality Check - KoreaTechDesk",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBtazEwR1BvaVJFYXRwLUw1Q1d0Q2dLcjBNVW5QemdpaXptVWxIWmZMdFFQOTd1V09KVWN1OGo3Z1YyNTJTbjVEM1ZaMzBJNEZQaFBuLWJ1Wi04TzBtbUc0cTJGZ2Fid1lIU0V4eld1ZzlrUU5hd2w2M2M4Y2txZw?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-01T02:14:43+00:00",
+    "summary": "More Health Data, Limited Follow-Through: Korea’s Digital Health Reality Check KoreaTechDesk",
+    "image_url": null,
+    "tags": [],
+    "industries": [
       "lifesciences"
     ],
     "relevance_score": 6

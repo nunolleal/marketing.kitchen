@@ -10,22 +10,6 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 45
-  },
-  {
-    "id": "f2f9ce60a2bf",
-    "title": "8 Ways AI Agents Are Evolving in 2026",
-    "url": "https://www.salesforce.com/blog/ai-agent-trends-2026/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-01T13:00:00+00:00",
-    "summary": "Eight trends reshaping enterprise AI in 2026 — from deterministic guardrails and context engineering to headless CRM access and the new job titles running it all.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/AdobeStock_1781447353.jpeg?w=5824",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
     "relevance_score": 42
   },
   {
@@ -42,6 +26,22 @@
       "industrial"
     ],
     "relevance_score": 42
+  },
+  {
+    "id": "f2f9ce60a2bf",
+    "title": "8 Ways AI Agents Are Evolving in 2026",
+    "url": "https://www.salesforce.com/blog/ai-agent-trends-2026/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-01T13:00:00+00:00",
+    "summary": "Eight trends reshaping enterprise AI in 2026 — from deterministic guardrails and context engineering to headless CRM access and the new job titles running it all.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/AdobeStock_1781447353.jpeg?w=5824",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 39
   },
   {
     "id": "8fb1c9209206",
@@ -118,7 +118,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "c76c21c0fa5a",
@@ -131,7 +131,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/image_11feff.jpeg",
     "tags": [],
     "industries": [],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "15c48057f431",
@@ -229,22 +229,6 @@
     "relevance_score": 9
   },
   {
-    "id": "f94b4ccd2ebc",
-    "title": "Salesforce, Google Cloud Deepen AI Agent Integration Across Slack and Gemini - thelec.net",
-    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5OZEpJZmJNNDlrdmFlWXFlMWhSMThtd0xXWmhqZXZGSUx2SFVHZzBnQkhoNklmUEp5czJjZmN6TEVfUDFsb1VkTHFlMHFETnZFM1lzbUVTcGc3cFVyS3l2Y2xYcTVXWE0?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-04-29T07:42:46+00:00",
-    "summary": "Salesforce, Google Cloud Deepen AI Agent Integration Across Slack and Gemini thelec.net",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "26efd719f7bf",
     "title": "Salesforce Aims to Close the CX Gap by Letting AI Agents Run Operations - CX Today",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQbWVOczdYS0poVklaNm1fVXE1QmpJMHJYQ240YjBFRjBlRWE0azhoTHZUS05telZVZ1NMYllTVFRfbDZCWkE3azFvdl9OU3QwTXEyY1NrLUVKQU15QnNKSFotR1Q4OUdXYUZTcVdtODJhdXVCMEhUX1FyTUFRTS1lMXl0TzdPNDdTNlZZTi1wZ0hYTDF4N2diVHNRQUhGbGt0Qmc?oc=5",
@@ -274,6 +258,36 @@
       "industrial"
     ],
     "relevance_score": 8
+  },
+  {
+    "id": "f8441b71f4b3",
+    "title": "Salesforce’s Dreamforce Conference Kicks Off. CEO Benioff Touts AI Tool Agentforce. - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi7gJBVV95cUxOeEVXNjVGdkRVWER4REZTX2p2a1AtcHpuNW5OV1NoeElHaEJoM3J3Tk56dW5kMFV3UTBJb1l6ZVRJWnpIT1NQS1V6c0JvZUhyYXhpV2RWNDdaUG1aMHZrR3llZnZuWElpMFo0NFRfWE9yWEo5V2hSSjJZTXEtSkt0dmFqeEV4cm5Qdlo5XzNhNVpiN1RDV0JHOFl2VnVKNEdQWm43ZjhHY0tpZXA0Qm9DWEIyb2ZEMDNxRVUtSVNOQk5ycjVLQlBXR0k1LXBHOHRiamlFTXVXSlZPbW1mSUd6OEs2dnl0LUpsMzZkbEMyWUMtS0x2cUNUb3VRWEs2QklJcG4zVFFySDUzejU3T0pleER4dmxFN042NFRMb2pQQmo3bFZuMG5saGNTY1ctN1hPdTVrMFItTEEwVFZhdm1LalExU0g0aTZESkxicjRCMC1yVXQ4bmd1eXFQeDQ1Z21UTTJHOUU4emNrTTdEQ3c?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-04-26T19:19:06+00:00",
+    "summary": "Salesforce’s Dreamforce Conference Kicks Off. CEO Benioff Touts AI Tool Agentforce. MSN",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "3b7ad612dcd1",
+    "title": "Salesforce in focus as checks show uptick in Agentforce, 'muted' core growth: UBS - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi-gJBVV95cUxOXzh3dXBtRzA0bEY5ZzVhUzdBcnQwOHdRdnFnd0tzYWptbHNwcUVXeE10ZVpIcDIxSlBvbHpCQW1qTE83NTFNN0YxQUktNXBqc1NnVjdldlRSUnkxenFsQW9OSmhOMjY0OU9kNjgyb0g0MXR0UE1PY0RiWWlzNEZKRGVhVFQ5MXZYVUtkd1BSRm9JMDR2UGZNcTh5MjRzQUkwWEdQMy1WeGFIM05Ya3RhRGhtNHlmOER5bDN3eDJEQzNyUDVSOGRiVXFRSVVHMU9ETHE1b05WVGg4anR3dlVndnd5b3ZyS0UxRXlIV0JxZzVxLWZRZW9mb253OXc0VS1WMTkzNGU1Y081T1MxVXlvbEV5Z1FQM3ZFRm5kRnFoM2xQTFFNT1BFUTRKSVFianVMamFIWWh0UkRLNm41QjlwSkEwWkxVaG5WTERRWjZEUUg3VXdqQV84cXpfUlF3cElqNnZCcGw4MzZsWF9mdlZIOWFkTV85VEo1eEE?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-04-27T13:15:17+00:00",
+    "summary": "Salesforce in focus as checks show uptick in Agentforce, 'muted' core growth: UBS MSN",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 7
   },
   {
     "id": "1383c7c949da",
