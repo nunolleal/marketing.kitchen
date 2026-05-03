@@ -43,7 +43,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 44
+    "relevance_score": 41
   },
   {
     "id": "e613e2ae9aab",
@@ -67,7 +67,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 44
+    "relevance_score": 41
   },
   {
     "id": "3ef054303b96",
@@ -124,22 +124,6 @@
     "relevance_score": 35
   },
   {
-    "id": "999e65117a84",
-    "title": "How Nestlé turns creator content into brand-suitable ads at scale",
-    "url": "https://www.marketingdive.com/news/how-nestle-turns-creator-content-into-brand-suitable-ads-at-scale/818825/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-04-30T14:30:00+00:00",
-    "summary": "The CPG giant is deploying a new tool from CreatorIQ and CreativeX that identifies and scores creator posts that can work as paid media.",
-    "image_url": "https://imgproxy.divecdn.com/MgEZZdt191-lN5WdCakogtP-U2n8xxBT_u_Wc0BwVEk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy03MTI0MDM5NS5qcGc=.webp",
-    "tags": [],
-    "industries": [
-      "media",
-      "consumer"
-    ],
-    "relevance_score": 35
-  },
-  {
     "id": "89b86c5d3ed1",
     "title": "Legal AI startup Legora hits $5.6B valuation and its battle with Harvey just got hotter",
     "url": "https://techcrunch.com/2026/04/30/legal-ai-startup-legora-hits-5-6-valuation-and-its-battle-with-harvey-just-got-hotter/",
@@ -160,6 +144,22 @@
       "tech"
     ],
     "relevance_score": 35
+  },
+  {
+    "id": "999e65117a84",
+    "title": "How Nestlé turns creator content into brand-suitable ads at scale",
+    "url": "https://www.marketingdive.com/news/how-nestle-turns-creator-content-into-brand-suitable-ads-at-scale/818825/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-04-30T14:30:00+00:00",
+    "summary": "The CPG giant is deploying a new tool from CreatorIQ and CreativeX that identifies and scores creator posts that can work as paid media.",
+    "image_url": "https://imgproxy.divecdn.com/MgEZZdt191-lN5WdCakogtP-U2n8xxBT_u_Wc0BwVEk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy03MTI0MDM5NS5qcGc=.webp",
+    "tags": [],
+    "industries": [
+      "media",
+      "consumer"
+    ],
+    "relevance_score": 32
   },
   {
     "id": "1c93ebeb2d22",
@@ -209,26 +209,46 @@
     "relevance_score": 26
   },
   {
-    "id": "a8ae52d87a38",
-    "title": "As Warner Bros. Discovery Revenue Fell In 2025, CEO David Zaslav’s Pay Tripled",
-    "url": "https://www.forbes.com/sites/andymeek/2026/05/02/as-warner-bros-discovery-revenue-fell-in-2025-ceo-david-zaslavs-pay-tripled/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-05-02T20:45:25+00:00",
-    "summary": "Ahead of a $110 billion merger with Paramount Skydance, Warner Bros. Discovery CEO David Zaslav saw his pay surge to $165 million.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69f65d8c8e6bcd4c90d05d0c/0x0.jpg",
+    "id": "d932fa302ff4",
+    "title": "How the internet’s favorite squirrel dad made the hottest camera app of 2026",
+    "url": "https://www.theverge.com/tech/921690/dualshot-recorder-iphone-camera-app-derrick-downey-jr",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-05-03T13:00:00+00:00",
+    "summary": "It's not hyperbole to call DualShot Recorder an overnight sensation. It took only 12 hours from the time it was released to hit number one on the App Store's list of top paid apps. It was a surprise success - but what's even more surprising is the app's origin story: it all...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/Vrg_illo_squirrel_influencer.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
     "tags": [
-      "Media",
-      "/media",
-      "Business",
-      "/business",
-      "Media"
+      "AI",
+      "Apple",
+      "Apps",
+      "iPhone",
+      "Mobile"
     ],
+    "industries": [
+      "media",
+      "tech",
+      "retail"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "5072bdf3b7ef",
+    "title": "Salesforce Launches Agentforce Operations To End Back-Office Bottlenecks - Pulse 2.0",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOSGN0czlvWnRYRUJ2WDl2WWZhaXJwZXdKcWtFbW1LMGZYV2htLXp1cjR6V0xFa2F5LTlITkt4eldWcElRdE13cy1Da1pnYlFNZ2tEYVY4M2duN0pGbnNPbGdBdXR2U19rNXB5M21iUXlrdExmZUVqdzN6TzVOZklrRlFSa1NMYUdESGdjMEdQZllPR0RRSGFn0gGcAUFVX3lxTE44aXVjQ3Z1bWIzQncxWEZmNWN6N2JMY1F1cG4zeldoU2dMTTNuMVpBU0VNc2JVdi0tdnFJY2NDWHJMNjBqLWRQRHVZQks0SmZoNjNNbW81NHZZSzM3STk3UjNsdDh0Z05EZktRM1pYU3RzTThfOHVBRWJOV2h5Vi1LNEVGMVU0bUgwbkw5MTZqcXFKMmhyVG9ucmlVWQ?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-05-03T16:12:08+00:00",
+    "summary": "Salesforce Launches Agentforce Operations To End Back-Office Bottlenecks Pulse 2.0",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "media",
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 16,
+    "also_covered_by": [
+      "VentureBeat"
+    ]
   },
   {
     "id": "dfb9e1c34f96",
@@ -247,51 +267,6 @@
     ],
     "industries": [
       "media"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "390b79fa417d",
-    "title": "Apple raises the Mac Mini’s starting price",
-    "url": "https://www.theverge.com/tech/922572/apple-mac-mini-256-model",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-05-01T21:52:09+00:00",
-    "summary": "Apple's Mac Mini now starts at $799 after the company pulled the $599 option with 256GB of storage from its online store, as spotted earlier by MacRumors. The model's discontinuation comes just one day after Apple CEO Tim Cook said during an earnings call that a chip shortage...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25717370/DSC_1249.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Apple",
-      "macOS",
-      "News",
-      "Tech"
-    ],
-    "industries": [
-      "media",
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "37d7377fa66e",
-    "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
-    "url": "https://www.forbes.com/sites/erikkain/2026/05/02/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-05-02T18:08:22+00:00",
-    "summary": "Looking for something new to stream this weekend? Here’s every major new movie and show hitting Netflix, Hulu, Prime Video, Apple TV and more.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69f4dad8681c8e78fa993b38/0x0.jpg?width=960",
-    "tags": [
-      "Gaming",
-      "/gaming",
-      "Innovation",
-      "/innovation",
-      "Gaming"
-    ],
-    "industries": [
-      "media",
-      "tech"
     ],
     "relevance_score": 14
   },
@@ -315,7 +290,7 @@
       "media",
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "dfd37bfac148",
@@ -337,29 +312,6 @@
       "industrial"
     ],
     "relevance_score": 12
-  },
-  {
-    "id": "991e4b9cc741",
-    "title": "The Trade Desk Is Selling Onsite Retail Media Ads for Dollar General",
-    "url": "https://www.adweek.com/commerce/the-trade-desk-is-selling-onsite-retail-media-ads-for-dollar-general/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-05-01T15:07:37+00:00",
-    "summary": "The adtech firm’s offerings compete with Criteo.",
-    "image_url": null,
-    "tags": [
-      "Ad Tech Industry News",
-      "Advertising News",
-      "Advertising/Marketing",
-      "Ecommerce News",
-      "Exclusive"
-    ],
-    "industries": [
-      "media",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 11
   },
   {
     "id": "fb6441390b6e",
@@ -438,6 +390,29 @@
     "relevance_score": 10
   },
   {
+    "id": "991e4b9cc741",
+    "title": "The Trade Desk Is Selling Onsite Retail Media Ads for Dollar General",
+    "url": "https://www.adweek.com/commerce/the-trade-desk-is-selling-onsite-retail-media-ads-for-dollar-general/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-05-01T15:07:37+00:00",
+    "summary": "The adtech firm’s offerings compete with Criteo.",
+    "image_url": null,
+    "tags": [
+      "Ad Tech Industry News",
+      "Advertising News",
+      "Advertising/Marketing",
+      "Ecommerce News",
+      "Exclusive"
+    ],
+    "industries": [
+      "media",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "b948cbd1997d",
     "title": "Ottocast Cabin Care Wireless CarPlay Adapter Review: Tiny Tracker",
     "url": "https://www.wired.com/review/ottocast-cabin-care-wireless-carplay-adapter/",
@@ -458,6 +433,22 @@
       "telecom"
     ],
     "relevance_score": 10
+  },
+  {
+    "id": "b22ecfb042f0",
+    "title": "Salesforce Launches Agentforce Operations to Eliminate Back-Office Bottlenecks - Demand Gen Report",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxON29fSmV3eTVNTTk0NnJCSFozRlJ2dlluejFXSGR3N0hLd2l6SzVGdkZLUnNDeHpTeGlKTGEzdFI5RHZyZ3dBaGhuUTdGR2prZWpuMmxXYkVLQVlFM2tnRERvYmxBQ2I3WTVKcnNLbW5aU0pnbWxaTEhMS3BrV1RyWHVZSUphTWFIcWpVMkJWa1BQTzJkY3dBTUFsUjRXVEYxSGRrRk9NZHdUQkhQazkyWDJkSFh3c0tRWjdkTFBGOHo5S1J3ZUoxYXYwV3hRaWo5Tmt5bktVT29uQQ?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-04-30T16:09:21+00:00",
+    "summary": "Salesforce Launches Agentforce Operations to Eliminate Back-Office Bottlenecks Demand Gen Report",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 8
   },
   {
     "id": "5ab9703c86c4",
@@ -493,22 +484,6 @@
     "relevance_score": 6
   },
   {
-    "id": "ea60f9c7ec29",
-    "title": "Beyond the Dashboard: Brian Olson and the Era of Agentic AI - Roastbrief US",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVjRWZk14dHpvTEVPRl9HOWxjRVgySmY2Nkw1RWR5QlVDdXBWMVpfcFFvelpQdFRIVmZSNUdXMnBoWFhEQ3pBNXI5ZzBjazhtME15MW5qZDVrd3lzZDlyU0ZmS0wxQnV6Y0JIY3g2MS1XeUtWb0hzOWt0RXgtUDFXcFpxSUdQTGlC?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-04-30T15:44:23+00:00",
-    "summary": "Beyond the Dashboard: Brian Olson and the Era of Agentic AI Roastbrief US",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 6
-  },
-  {
     "id": "2bac8c01b1f6",
     "title": "Cache Optimization Strategies for Telecom Operators to Improve Video Streaming Experience - ookla.com",
     "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFBKVW9GZ21xbmpMczNkQVlHOFJSVjM5NXo5VDNtMXFQQllhZ1dFTk1uZWZ4SnRNSERWQmF3YXBGelRaQ1JZTHRBTm1jLUQ2RGpkT2RyX0xkdG5fMW1RXzF5SA?oc=5",
@@ -521,6 +496,22 @@
     "industries": [
       "media",
       "telecom"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "ea60f9c7ec29",
+    "title": "Beyond the Dashboard: Brian Olson and the Era of Agentic AI - Roastbrief US",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNVjRWZk14dHpvTEVPRl9HOWxjRVgySmY2Nkw1RWR5QlVDdXBWMVpfcFFvelpQdFRIVmZSNUdXMnBoWFhEQ3pBNXI5ZzBjazhtME15MW5qZDVrd3lzZDlyU0ZmS0wxQnV6Y0JIY3g2MS1XeUtWb0hzOWt0RXgtUDFXcFpxSUdQTGlC?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-04-30T15:44:23+00:00",
+    "summary": "Beyond the Dashboard: Brian Olson and the Era of Agentic AI Roastbrief US",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "industrial"
     ],
     "relevance_score": 5
   }
