@@ -228,7 +228,7 @@
       "media",
       "tech"
     ],
-    "relevance_score": 19
+    "relevance_score": 18
   },
   {
     "id": "e5e0d374efd6",
@@ -250,7 +250,7 @@
       "media",
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
     "id": "d932fa302ff4",
@@ -273,7 +273,7 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "bd3a15b0750c",
@@ -296,7 +296,29 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
+  },
+  {
+    "id": "5ab079bae8a7",
+    "title": "Alex Ligertwood, Former Santana Lead Singer, Dies At 79",
+    "url": "https://www.forbes.com/sites/timlammers/2026/05/03/alex-ligertwood-former-santana-lead-singer-dies-at-79/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-05-03T20:35:21+00:00",
+    "summary": "Alex Ligertwood, a Scottish singer who was a lead vocalist with the classic rock group Santana, has died.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69f7ae528d25e31c8ce0f517/0x0.jpg?width=960&precrop=2360%2C1327%2Cx90%2Cy70",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 15
   },
   {
     "id": "5072bdf3b7ef",
@@ -312,25 +334,40 @@
       "media",
       "industrial"
     ],
-    "relevance_score": 15,
+    "relevance_score": 14,
     "also_covered_by": [
       "VentureBeat"
     ]
   },
   {
-    "id": "9ee1acb69047",
+    "id": "4798bbd2b783",
     "title": "Dick's Partners With Adobe for AI Coaches 05/04/2026 - MediaPost",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQM1RsMTgwQ0pzSHJRdHE5eE9UQVhneWRjb25qYWhKSUVGeC1jYjRHMWlGaG1JcmZsVWtWcHN2YVBfeGN1MlFGQ0p4SE00NEpTWFpDVEVBMEJlRk85Q3M0ODJNRWxMMkhRU0JKUWVleThUQXdYUUFzYTd6Z0JGTTIydS1kNk9wbDZwUXcyc3FPY25RZTdpTEZTRHBPY0xISjMtel9Sdi11RHBZM3BkSGNxa3AwTXE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNd18zclpzdWZzVFVfdzd6cGFpNE10bHRVa3VCTk0zemJjQVNZeFdpcEtyU0Z4M3NpQVZLTXlMQkFuV0J6a3IzaWg3Qzc4N2lfZkpSQ01XdE5sWE5TaGVpQzh1QTZoS252V0RhY01ncHdIbVlITHhLQ2VOdU5hQXRYaEJkVWtlclFHWGRsS2JfeEN3dXZSTkRpZnJkb2JPaXp6?oc=5",
     "source": "Adobe",
     "source_category": "adobe",
-    "published": "2026-05-03T18:45:29+00:00",
+    "published": "2026-05-03T18:54:49+00:00",
     "summary": "Dick's Partners With Adobe for AI Coaches 05/04/2026 MediaPost",
     "image_url": null,
     "tags": [],
     "industries": [
       "media"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
+  },
+  {
+    "id": "381f873942f3",
+    "title": "Simplicity, scale and boosting partner profitability paramount in Southeast Asia for Salesforce - CRN Asia",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE92cmhFZXpvNlR6UUk3dGxUXzluODBOalNrSHdia0gwbDFPSHhXclZ6TnlxNTVXS0s2eEd1Mk01YkdqX19JZ2Y3cnlGMlhEY0hNZGcyZ3dwcU9OSXlRT0ZJUg?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-05-04T00:26:40+00:00",
+    "summary": "Simplicity, scale and boosting partner profitability paramount in Southeast Asia for Salesforce CRN Asia",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 14
   },
   {
     "id": "dfb9e1c34f96",
@@ -431,25 +468,6 @@
     "relevance_score": 10
   },
   {
-    "id": "e67176e9adfb",
-    "title": "Alibaba's Metis agent cuts redundant AI tool calls from 98% to 2% — and gets more accurate doing it",
-    "url": "https://venturebeat.com/orchestration/alibabas-metis-agent-cuts-redundant-ai-tool-calls-from-98-to-2-and-gets-more-accurate-doing-it",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-04-30T20:51:26+00:00",
-    "summary": "One of the key challenges of building effective AI agents is teaching them to choose between using external tools or relying on their internal knowledge. But large language models are often trained to blindly invoke tools, which causes latency bottlenecks, unnecessary API...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5adrVJG12DsZYPv3bAT3Kk/786e22dcb26f295b11a3de9d91a97ac3/LLM_tool-use_abstention.jpg?w=300&q=30",
-    "tags": [
-      "Orchestration"
-    ],
-    "industries": [
-      "media",
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "991e4b9cc741",
     "title": "The Trade Desk Is Selling Onsite Retail Media Ads for Dollar General",
     "url": "https://www.adweek.com/commerce/the-trade-desk-is-selling-onsite-retail-media-ads-for-dollar-general/",
@@ -495,6 +513,25 @@
     "relevance_score": 10
   },
   {
+    "id": "e67176e9adfb",
+    "title": "Alibaba's Metis agent cuts redundant AI tool calls from 98% to 2% — and gets more accurate doing it",
+    "url": "https://venturebeat.com/orchestration/alibabas-metis-agent-cuts-redundant-ai-tool-calls-from-98-to-2-and-gets-more-accurate-doing-it",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-04-30T20:51:26+00:00",
+    "summary": "One of the key challenges of building effective AI agents is teaching them to choose between using external tools or relying on their internal knowledge. But large language models are often trained to blindly invoke tools, which causes latency bottlenecks, unnecessary API...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5adrVJG12DsZYPv3bAT3Kk/786e22dcb26f295b11a3de9d91a97ac3/LLM_tool-use_abstention.jpg?w=300&q=30",
+    "tags": [
+      "Orchestration"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "b22ecfb042f0",
     "title": "Salesforce Launches Agentforce Operations to Eliminate Back-Office Bottlenecks - Demand Gen Report",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxON29fSmV3eTVNTTk0NnJCSFozRlJ2dlluejFXSGR3N0hLd2l6SzVGdkZLUnNDeHpTeGlKTGEzdFI5RHZyZ3dBaGhuUTdGR2prZWpuMmxXYkVLQVlFM2tnRERvYmxBQ2I3WTVKcnNLbW5aU0pnbWxaTEhMS3BrV1RyWHVZSUphTWFIcWpVMkJWa1BQTzJkY3dBTUFsUjRXVEYxSGRrRk9NZHdUQkhQazkyWDJkSFh3c0tRWjdkTFBGOHo5S1J3ZUoxYXYwV3hRaWo5Tmt5bktVT29uQQ?oc=5",
@@ -509,6 +546,22 @@
       "industrial"
     ],
     "relevance_score": 8
+  },
+  {
+    "id": "4c9acca9214e",
+    "title": "Verizon's Streaming Deals Let You Watch Netflix, Disney Plus and More, for Less - CNET",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPN0MySGVvb21vZHNERFN2ZjFYbW9CcDhiR3p5QXAwN3h4Z0dzdWVCQlhPcGR5c1NjNEVuR0FmZHFoT3RkR3RsSkE4ZVFmZkptUG5HdnVIQTd4ZVV1X3JRUm0ySl9aTk42X2xIZzhBNEU5bkZ2Sk81ZmsyZDhxUWgwNk1fTkt6Z05Wcm9rcUo3dVlGTmlKYnB6MWN6VVFxTVpJT21WSTZkRWNiVkxyMzMxUjFjbw?oc=5",
+    "source": "Telecom",
+    "source_category": "industry_telecom",
+    "published": "2026-04-29T11:01:00+00:00",
+    "summary": "Verizon's Streaming Deals Let You Watch Netflix, Disney Plus and More, for Less CNET",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "telecom"
+    ],
+    "relevance_score": 7
   },
   {
     "id": "5ab9703c86c4",
@@ -542,6 +595,22 @@
       "lifesciences"
     ],
     "relevance_score": 6
+  },
+  {
+    "id": "8cb75a5d08d7",
+    "title": "Warner Bros. Discovery - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE9pNnFqVFdCWEFuMUVYdnZpZUZqR0UtOThLeHhQeDVDVFE2ZGplS2pqUW5mQ3dpMndaQUJ5UGVwY3R5WWxPWXU5aDh4MDNLRVJEUUZXbjVGdGJVU3N2S0Q0RmxkNWdheV9iYS1J?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-04-27T12:00:00+00:00",
+    "summary": "Warner Bros. Discovery Ad Age",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 5
   },
   {
     "id": "ea60f9c7ec29",
