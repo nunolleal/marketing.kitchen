@@ -13,7 +13,7 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 42
+    "relevance_score": 39
   },
   {
     "id": "1129ff46ea90",
@@ -101,7 +101,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "7bbd1102f30b",
@@ -144,29 +144,6 @@
     "relevance_score": 14
   },
   {
-    "id": "6bca88eb20e0",
-    "title": "The “people’s airline” and the enterprise AI gold rush",
-    "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-05-08T15:46:17+00:00",
-    "summary": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it’s becoming clear...",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
-    "tags": [
-      "AI",
-      "Startups",
-      "Anthropic",
-      "crypto",
-      "Enterprise AI"
-    ],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
     "id": "f6a13e8f62e8",
     "title": "Omada Health reports 42% revenue boost, GLP-1 partnership - TechTarget",
     "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPSzlEUEpVT3Fra2Z3UkpiUXc4UHloSHhxbG04dnF2RFBKYldKdGpLSnJwQnlhMEJ0RHZ3Q0xxMDB3MEhTNXdXUkZtZ1VZcVU2MW5DOFpUaDlZaGZjajlOLWQtOUtZdTJXZ3pZN1pHSThoQWZ5MzhlWU5ub2V4MzFzemIwd2JyRF9RbmZTVlpTNGprTm9oQW9PMnZ4dXU4cTAyMWNFM2hJeEVpR0xnb3M5SmZjTkRXQQ?oc=5",
@@ -201,6 +178,29 @@
     "relevance_score": 13
   },
   {
+    "id": "6bca88eb20e0",
+    "title": "The “people’s airline” and the enterprise AI gold rush",
+    "url": "https://techcrunch.com/podcast/the-peoples-airline-and-the-enterprise-ai-gold-rush/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-05-08T15:46:17+00:00",
+    "summary": "Everyone wants a piece of the enterprise AI pie, and this week, we saw a string of companies making their moves. From Anthropic and OpenAI announcing new joint ventures targeting enterprise AI deployment to SAP dropping $1B on German AI startup Prior Labs, it’s becoming clear...",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/Claude-Chrome-Ext_email-hero-hero.png?w=1200",
+    "tags": [
+      "AI",
+      "Startups",
+      "Anthropic",
+      "crypto",
+      "Enterprise AI"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
     "id": "79961e590c92",
     "title": "E.l.f. spotlights competitive dance with new sponsorship",
     "url": "https://www.marketingdive.com/news/elf-spotlights-competitive-dance-with-new-sponsorship/819596/",
@@ -215,22 +215,6 @@
       "industrial"
     ],
     "relevance_score": 11
-  },
-  {
-    "id": "45c11b138479",
-    "title": "Target’s digital chief breaks down the retailer’s creator overhaul",
-    "url": "https://www.marketingdive.com/news/targets-digital-chief-breaks-down-the-retailers-creator-overhaul/819368/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-05-06T08:00:00+00:00",
-    "summary": "Sarah Travis details two new offerings designed for the social commerce boom and addresses frustration with the wind down of a prior affiliate program.",
-    "image_url": "https://imgproxy.divecdn.com/OBKSTJ9iyV-cs9wwO1IHjTQ6LZzKQ-4Q_Ne_jo2XuEc/g:nowe:0:11/c:1023:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg1ODA0ODkyLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 10
   },
   {
     "id": "8878e4bb5dca",
@@ -281,12 +265,44 @@
     "relevance_score": 10
   },
   {
+    "id": "45c11b138479",
+    "title": "Target’s digital chief breaks down the retailer’s creator overhaul",
+    "url": "https://www.marketingdive.com/news/targets-digital-chief-breaks-down-the-retailers-creator-overhaul/819368/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-05-06T08:00:00+00:00",
+    "summary": "Sarah Travis details two new offerings designed for the social commerce boom and addresses frustration with the wind down of a prior affiliate program.",
+    "image_url": "https://imgproxy.divecdn.com/OBKSTJ9iyV-cs9wwO1IHjTQ6LZzKQ-4Q_Ne_jo2XuEc/g:nowe:0:11/c:1023:578/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg1ODA0ODkyLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "004fed488661",
+    "title": "Disney doubles down on franchise flywheel as IP powers growth across streaming, parks and retail - Storyboard18",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOaDE0Q2M4UzJPR1JSLS1lSXRsVE54a0NrbnlJX29MQXB2Qmx1QnlNLUNFZm5JWkxMQkxTemlHbDk1VVc1Nkh4Zk1fMzE1UDk0YWpNODJFSUlLaWFGSllTQkd6TnBoNkpqeFJSamZLVXZYUFVUTWpNNFRaOTRzVnNqYXF5TzYtWU5BYmtZX3UzLTVDeEQzcDNwcXprUTNfbEtrSTJiNUhzOGhobml3VUZ6RkpCX0pjdC1lOGNLbGZfRDg3V0pHMWFuUEtKdTdCbjI2ZS1Kc1lIUWx4WjhhWi10d01xMlZka3E0c191LWhRa9IB9AFBVV95cUxOQU5LaUJwTGFtSmcxUkdGS1dXeVNWUkU2QkdOMElwVWlhOF9NdWNEcHlBZTBJMW9FbXczcmNqMnMyeG5TZ0FaUmx0ZC1DZHVxV2FrZk10SktyLTNfTTJVcndOT2QwZXFIZXptVnhzZG1MVGNnV0pBWWJQR3lBTVNSUkFlVjBjUjZaOTI5UlpFVTlJUXpFQjQtVUtNYjVScmt3MTIwTks4Z3NxX0NWZWZOMWpRX2NRbFd3Mmc1d0JqVFlEVmNtYWk3NUpUV24wWndmd1ZXcms1RlhtQk5mVFRENTVJdW44M2NTOHNERmFnYVRyMDZF?oc=5",
+    "source": "Media Entertainment",
+    "source_category": "industry_media",
+    "published": "2026-05-07T07:01:07+00:00",
+    "summary": "Disney doubles down on franchise flywheel as IP powers growth across streaming, parks and retail Storyboard18",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "retail"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "646335804f68",
     "title": "CVS Health partners with Google; launching health tech subsidiary - Chain Store Age",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVzJ6ZE13YVI3ZHYydTQyWTZYaFVrdHh4NmZ6dzF6b0RPdXVyTDJualJiRUNTdEFuUXducXdGZUxvZ3Jfd3k3MllsdDFkNXRYSjhmdUpCNnE5OVM5aWRDS0lTYTRfRVJ0LWl4OXdDY1k2czY4NmV0ckhSNE96R3dvUXZCUHhYeFJmaWpIdlh3?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-05-03T07:00:00+00:00",
+    "published": "2026-05-04T03:45:18+00:00",
     "summary": "CVS Health partners with Google; launching health tech subsidiary Chain Store Age",
     "image_url": null,
     "tags": [],
