@@ -153,28 +153,6 @@
     ]
   },
   {
-    "id": "8a5119a1f181",
-    "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
-    "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-05-08T04:42:29+00:00",
-    "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that;...",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-10005136-e1667318874934.jpg?resize=1200,675",
-    "tags": [
-      "AI",
-      "Biotech & Health",
-      "TC",
-      "Aileen Lee",
-      "Basata"
-    ],
-    "industries": [
-      "media",
-      "lifesciences"
-    ],
-    "relevance_score": 12
-  },
-  {
     "id": "acb531393200",
     "title": "Venom and Hot Peppers Offer a Key to Killing Resistant Bacteria",
     "url": "https://www.wired.com/story/mexican-science-transforms-scorpion-venom-and-habanero-chile-into-antibiotics-against-resistant-bacteria/",
@@ -197,22 +175,6 @@
     "relevance_score": 12
   },
   {
-    "id": "9c8bea98bc28",
-    "title": "Op-ed: It's time to make more strategic bets on AI in healthcare",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/op-ed-its-time-make-more-strategic-bets-ai-healthcare",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-08T10:29:00+00:00",
-    "summary": "EY's John Ward outlines how healthcare leaders with limited investment resources make the right AI moves for near-term and long-term value.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/fiercebiotech/1614864259/artificial-intelligence-3382507_1280-2.jpg/artificial-intelligence-3382507_1280-2.jpg?VersionId=NPu8EBbgKApZGlRqgUt90mxCvzMcnXr2",
-    "tags": [],
-    "industries": [
-      "lifesciences",
-      "financial"
-    ],
-    "relevance_score": 12
-  },
-  {
     "id": "9f4d9bd27d7e",
     "title": "CVS hikes outlook as Aetna insurance profit rises",
     "url": "https://www.healthcaredive.com/news/cvs-hikes-outlook-aetna-improved-performance-q1-2026-earnings/819462/",
@@ -229,22 +191,51 @@
     "relevance_score": 11
   },
   {
-    "id": "4cfb7375d286",
-    "title": "Adobe (ADBE): A New Healthcare Collaboration Signals A Broader Strategy At Work - Insider Monkey",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQN1I3N2R2WDZrenV3R0xyRTZPY015cEJZWUdzWHFYRnFpNG9ZMUtkemduVnZLY3U0d0Q5ODBzU3lxbV9mRWl1UmxySllWOTZiYWN2a1N3Q0xNOV9DZnE2OHdpTHQ3bmplUy1RQ3U1UElPM3VDNFljMnZkQ1l4QWdSOWVnUUdRZXlPU0U1a3JpR0s4aGo5MXZ4eVdOelktakhSWDhsRHhPcy1XaWxscHBiYjl5Nzh5bnZEU3ZwWtIBxAFBVV95cUxPV0dBbGhBXzZySDMxMDJfT2huem43aC1ybVlYb29pQUlfX1BIYl9JZG5RYXllb253d3ZMUk1CUHhtdTFOdklmZVRsT2tKTjBDSEVnLS1iZWs1dExWZ1d5aGdQdmxvSzNRdzVXYVl2U3A4bVRLb2RqNkp1UHJiMGVQdERYUUZoVmxxOHlkVnRXTHBLMG91SDNiajk2eUd3WV8wcUlrY0cyQzd4RlVQV0JZREFFcnFOZHhteFItQTlwYThvemtS?oc=5",
-    "source": "Adobe",
+    "id": "9c8bea98bc28",
+    "title": "Op-ed: It's time to make more strategic bets on AI in healthcare",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/op-ed-its-time-make-more-strategic-bets-ai-healthcare",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-08T10:29:00+00:00",
+    "summary": "EY's John Ward outlines how healthcare leaders with limited investment resources make the right AI moves for near-term and long-term value.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/fiercebiotech/1614864259/artificial-intelligence-3382507_1280-2.jpg/artificial-intelligence-3382507_1280-2.jpg?VersionId=NPu8EBbgKApZGlRqgUt90mxCvzMcnXr2",
+    "tags": [],
+    "industries": [
+      "lifesciences",
+      "financial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "8329547b7e6e",
+    "title": "Adobe (ADBE): A New Healthcare Collaboration Signals A Broader Strategy At Work - Yahoo Finance Singapore",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOWk82YnoxeEk0VGYzSDZkNDdWd2FHV2t5Yzk3NVVFRW45dl9SRnVnSE8ydzdXWmVDd01ZSHA5SHBsMWswakYwQWI2RjFlOWxzX3dMUVpqY2lkS2FqZXVYT2VJVTMwU0NiWXVfOFFaZC1rTWp6WmR1Y3hNQWFkR3NiLTFzQXNYb09iWjVOWlQ4VXJKMDVnVjFz?oc=5",
+    "source": "Adobe Inc",
     "source_category": "adobe",
-    "published": "2026-05-08T17:03:22+00:00",
-    "summary": "Adobe (ADBE): A New Healthcare Collaboration Signals A Broader Strategy At Work Insider Monkey",
+    "published": "2026-05-08T16:56:16+00:00",
+    "summary": "Adobe (ADBE): A New Healthcare Collaboration Signals A Broader Strategy At Work Yahoo Finance Singapore",
     "image_url": null,
     "tags": [],
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 11,
-    "also_covered_by": [
-      "Adobe Inc"
-    ]
+    "relevance_score": 11
+  },
+  {
+    "id": "fb12a7ef1d07",
+    "title": "Google Bets on Invisible Health Tech as It Unveils Screenless Fitbit Air - Sri Lanka Guardian",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNdThCUUFUN294YkdINXd5eDVXYnFOY0lNZTZaekVNMC1xMzU4bkhpSEYxWU85cmx2ZVRJNkMwS2ZvaFhGQzZCd2ZFTUM5R0RCYUFheUJpUU5pS25LQTBNbk5CTFlVc05ieFRjbHpyS1pOb0g5eDRtNm94eTJEbkNuYU1XRGRvLUgxMGJ5T3BFZk11NTh4ZENLWGtpcDg?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-09T05:04:25+00:00",
+    "summary": "Google Bets on Invisible Health Tech as It Unveils Screenless Fitbit Air Sri Lanka Guardian",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 11
   },
   {
     "id": "982086e334df",
@@ -295,16 +286,23 @@
     "relevance_score": 10
   },
   {
-    "id": "1a3f561a0ec0",
-    "title": "Kazakhstan building 'one-stop shop' digital health system - Qazinform",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVXdwbjF0X09TVUdUY1o1RWtFUmVwVHJQX2puSlN2UTdId01LbGJIUDNQRlk3cG1ycVJHaURWZERvb3FVSHgxQWFIRWFIQVF2bl9VM2ZDd2JFd0JISllWRzIzRENwdEplcTBfZXhhWjZhSXlZbDhQMmp5OC16eXQwVXVIcl9xYUJjTFZSZ1RHVDdhMjTSAZMBQVVfeXFMTjFUNnowVzBpQjNxcjd0ZERTNGhwM3BrdlMtVGpxMVZTYXBvTGVfd1F2UnVOX1RLWGRtb2ltMFNvNTNoLWQybkswM1gtV3A0cmNFMXk4S2hycTBKajJXajhUbFVnNFpKR3R2ZWUwb3dDdlBaX0VyOG1KQTBTVGpxYWNzM2ZIdEFMVjBBQWhmY1VxdDJz?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-08T22:56:28+00:00",
-    "summary": "Kazakhstan building 'one-stop shop' digital health system Qazinform",
-    "image_url": null,
-    "tags": [],
+    "id": "8a5119a1f181",
+    "title": "The fax machine is the bottleneck in US healthcare, and VCs are starting to notice",
+    "url": "https://techcrunch.com/2026/05/07/the-back-office-problem-that-explains-why-specialists-never-call-you-back/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-05-08T04:42:29+00:00",
+    "summary": "Like many AI companies automating work that humans currently do, Basata will eventually face a harder question about where the line is between augmenting workers and displacing them. For now, the founders say the administrative staff they work with aren't worried about that;...",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2022/11/GettyImages-10005136-e1667318874934.jpg?resize=1200,675",
+    "tags": [
+      "AI",
+      "Biotech & Health",
+      "TC",
+      "Aileen Lee",
+      "Basata"
+    ],
     "industries": [
+      "media",
       "lifesciences"
     ],
     "relevance_score": 10
@@ -360,6 +358,21 @@
     "relevance_score": 9
   },
   {
+    "id": "1a3f561a0ec0",
+    "title": "Kazakhstan building 'one-stop shop' digital health system - Qazinform",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPVXdwbjF0X09TVUdUY1o1RWtFUmVwVHJQX2puSlN2UTdId01LbGJIUDNQRlk3cG1ycVJHaURWZERvb3FVSHgxQWFIRWFIQVF2bl9VM2ZDd2JFd0JISllWRzIzRENwdEplcTBfZXhhWjZhSXlZbDhQMmp5OC16eXQwVXVIcl9xYUJjTFZSZ1RHVDdhMjTSAZMBQVVfeXFMTjFUNnowVzBpQjNxcjd0ZERTNGhwM3BrdlMtVGpxMVZTYXBvTGVfd1F2UnVOX1RLWGRtb2ltMFNvNTNoLWQybkswM1gtV3A0cmNFMXk4S2hycTBKajJXajhUbFVnNFpKR3R2ZWUwb3dDdlBaX0VyOG1KQTBTVGpxYWNzM2ZIdEFMVjBBQWhmY1VxdDJz?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-08T22:56:28+00:00",
+    "summary": "Kazakhstan building 'one-stop shop' digital health system Qazinform",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "3a7888c5ac30",
     "title": "Atrium Health, WakeMed propose to merge",
     "url": "https://www.healthcaredive.com/news/atrium-health-wakemed-propose-to-merge-north-carolina/819246/",
@@ -407,6 +420,21 @@
     "relevance_score": 8
   },
   {
+    "id": "7b29d5ef4888",
+    "title": "A Decade of Digital Health Innovation: MedTech Breakthrough Announces Winners of the 10th Annual Awards Program - GlobeNewswire",
+    "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxNZFhVY1ZPQ2p3YnRnM0xZdFdkNTM0eDRtRU0zOGJiVXlBa2hrNGhVSkNDRGVQTGs1clZPM3VIcERlX3VOMU5vYnJuTC14cmJ5UjJORWpHVVA1b3lBeXZ3a3JVb3Bwbk5xaHpjOGRjNHVxb0Z4Zy1WMFJ5cFBBR0RaZ3A4NDVDenYxUUlzVHd5dVNrVkplNmxkZDdBVkFPbzItUGl0MHlhZTFKU1RkbDZvdzFvcDVaZS1UMGc0ZWVvTDREX0FhckNPTHVWbjFGUjctb01BUEtLWW0yeEN2cHNhdUY1UUZFMnBMTndxLW02NmVtM1l5MWtZY0c3aUNKUWpwYzM5enFBOWUtbjBDbWpN?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-07T13:59:00+00:00",
+    "summary": "A Decade of Digital Health Innovation: MedTech Breakthrough Announces Winners of the 10th Annual Awards Program GlobeNewswire",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "65cd7e057fa5",
     "title": "Alivus Life Sciences Schedules Board Meeting on May 14, 2026 to Approve FY26 Audited Results and Consider Dividend - scanx.trade",
     "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxPZXhDTHU0VzhmQnRHVUQyMzFMRjFmMVRhcDlFMURtWWNuUW5XTlI1WDRKTWFsb3NFQXIzUEFmRnlqS00tU3VJRWFLbC1MV2g4MEFWeTV3cDYwQlZCeGtOd3A0THdiR01oZFQ2ay1pRGhzTDFMN094YjNFVnMteG54dndNeHZSd3pGSmtoQUFKT0FrZERIN0FsVmNSazhmZ3BSRjYwUVdlRWJxVUczVmhSeDhaVWFITEpzYnBWQkJoc2tYV1FBdTAwdmxXSERGc09oYXQzZENSWDFKM2Q1S252OUFPNFBUZlhJSXlaa2ZZSlNUV1RndU5Mbi1nVUxQaWs?oc=5",
@@ -438,64 +466,32 @@
     "relevance_score": 8
   },
   {
-    "id": "ec56868f7eaa",
-    "title": "Infographic: Why Digital Tools Aren't Enough in Addressing the Healthcare Affordability Crisis - HealthLeaders Media",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQTGFlNGU2c3hHaV9xbVM1c0h0dlRla1RrZzR4ZWtSb3lXd3FGVVg2Z1ZnSC10OWRqM0FrZzVFUmpZcUluYTJBMnM5RmdZNjlVdXFLT1hYOGFoaGxYQS1kZDh6VlRlSlJ0Y0hxS2RYSlhXcnBDTnZtaF9aUlB3RTU0SjBycWw4Qkk5OUx0THdXTy1vQUx3ME9feU1YeVNjaG53UDJlV0RZY3VpemRGTVFtUkNHTS1JemFma1ZsLVlPZTIyd2R1cGp5REt1OEhvb3c?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-08T10:07:56+00:00",
-    "summary": "Infographic: Why Digital Tools Aren't Enough in Addressing the Healthcare Affordability Crisis HealthLeaders Media",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "f4c6d55532b8",
-    "title": "Health Tech World brings NHS procurement insider to exclusive AI event - Health Tech World",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaVVCNi1hZ3FsZ0ttY2I5U0xXOXNmWEw0TEdYYnFLQ25fLVZGNHhpdW9zeUVvbmVMQldtak4tTVFwM2t3dWFlU3BXUVlkdEJfMzItU0t5cTZXQXBNU2VGdmFpSm9TSzdGenJxaW5HRFVPLXFNam5BOFEyY045dzJIM3RGTGNSZmc2S2RqdVF1UlZTRk9pSWxPU2NRQWJlT2VWNTFiZUlHQmNmV250QmRZYVdnS0I?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-08T12:59:50+00:00",
-    "summary": "Health Tech World brings NHS procurement insider to exclusive AI event Health Tech World",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "d837f6a33a5c",
-    "title": "AbbVie’s Skyrizi beats out J&J’s Tremfya in April drug ad spending leaderboard - Fierce Pharma",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdVZiNFlTMEhBUmI0N1VOTGw5eWRkR00ySW9TTHdtOERxV1JMRTFMNTd4bjdjYk5UVUNqWXEyVXMyM05icnBKbG5tdThNbWcwckZ2QXBxM0FOdmM3OUZoODRoWjk1eWpvUWpNYmpMSzhFR2JwMlc1cHBFeUZWU0JkdTRURkUtcFM3WXJaZl8xRjROcFFQMFZHY0ROOUQ0ZHMyMjA5OTc1bTUyV2R2T3VTc0Z3?oc=5",
-    "source": "Pharma Marketing",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-08T14:03:16+00:00",
-    "summary": "AbbVie’s Skyrizi beats out J&J’s Tremfya in April drug ad spending leaderboard Fierce Pharma",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "8f6365f0692b",
-    "title": "Gene Therapy Briefs: Regeneron Wins FDA Approval for First Neurosensory Gene Therapy - Genetic Engineering and Biotechnology News",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSFp1TkRMTDIzSk5PQnlzUWpvdC1DWlc3YUhzUTBJcUpGMDNmLWkxRWprTGhhaEx4RUxWUHdqT1FlNnhyVVVKYi10bm9HNGQ0b1I0LVZnUjE0YlVkYU5RTzN6NG54M1pJclJTZU9nQkF6d0pCYnVTSnZiZ0NULTRuU1pPQ280Z25CWkRzWV8wako2bVpSanhuUTEyUVFLb0hJYkNzbk9HMld6Tzk5Sm5OdVpVTzZiZmxvS2dzdkJGVXlyYVhJN3NFYndsOGRyUQ?oc=5",
+    "id": "f39e4dbf9fc6",
+    "title": "Caris Life Sciences Submits Application to New York State Department of Health for Caris Assure Blood‑Based Testing Authorization - PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxOZXFjTDhJNnFPQlVLZG85ZWdpVWdzS3JVd0ZJN0o0OHRFc08tdERBT2RRWENpVzZ6UWpsTlJPMXA1VDdQQ2ZqREtXUHYyRGx1bnBrNHdaUmtqM3BsSEZLeFNPb1hOMU8yRjFicWVxZU5mNFU4NXhoZXkxSmh4YzVGSldXV05BQ29wQzlPVjZRLXFSY2kwN1BDQnVJcHV5V2RGTGtkekNEY0NfTXNSaTlIN1FMSk12MTUxUnBjN2xkUVJROE1UN0s1WGRZTkoyNEVISElSRnZWV1VPaGVLMHFDX2g0aU4yOW9ld1JndXloeFNoblBFVUU0YlptMlFxcEMtc2FucGJ6REFFTnNrdG5RUU1B?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-05-08T14:04:35+00:00",
-    "summary": "Gene Therapy Briefs: Regeneron Wins FDA Approval for First Neurosensory Gene Therapy Genetic Engineering and Biotechnology News",
+    "published": "2026-05-08T20:05:00+00:00",
+    "summary": "Caris Life Sciences Submits Application to New York State Department of Health for Caris Assure Blood‑Based Testing Authorization PR Newswire",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "b9a2f93cf01f",
+    "title": "Prevalence and Utilization Patterns of Digital Medical Resources in Clinical Practice Among Family Medicine Physicians in Riyadh Health Clusters - Cureus",
+    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxPLTJaekh6Qk92NW9HNlBDamNNRHdzMEJnUDdSbUpycFZLT1lBWjBMX2w3eU1vWEdZX3FPenhDaHJNeGRCaUpRVWtmaDc4ekZfaUVPY2ZwOU9FbkNpUEZoZ1hWSEh6aElCSUNua3ZWZmpDVGl5eHJfaGw4ZER5SVdjTFE4VkI3Mk1pQjI4eWIwQ0FNcGhtb0lHSjNZOVdnb0g0QzN0R0VMVlZueE4zcU5uVFZHMjZSR1FBV1dKV0N4M0lraU1kV095NFVFalpMaVd1S0J1LV9oc1JGRXB6Y2Q1cnItZFF1ZXFBTjBPYWZEeTh1WTNENzVFYU9BQmJPVnpTZUFmSlZsVzRqWVo5dC03WA?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-08T21:44:31+00:00",
+    "summary": "Prevalence and Utilization Patterns of Digital Medical Resources in Clinical Practice Among Family Medicine Physicians in Riyadh Health Clusters Cureus",
+    "image_url": null,
+    "tags": [],
+    "industries": [
       "lifesciences"
     ],
     "relevance_score": 8
@@ -579,22 +575,6 @@
     "relevance_score": 7
   },
   {
-    "id": "cd21ccebc386",
-    "title": "Wellness-Driven Health Tech Apps - Trend Hunter",
-    "url": "https://news.google.com/rss/articles/CBMiYkFVX3lxTE5jSkw0UUJsOVEybFJEaUNMa08wNEJzeTByUTQtM3hGOVRpaDNtNWVxMFl6OW5QbnNDaU05QWJNSWlBcTNOVWdXNDkzTEM0Q3d5ak9Hd2VxbWFrUHdCcDJpY0pR0gFnQVVfeXFMT2FSY1pwY2R0b08teGs2X3RMOVVxdHVaNlRJcFRaZzhvSi1CTDMwSzVZaTF3UURtVlBmSC15WlZ1VV92dXc3WkRlSzRzazJsOGJIeE9rYTdOS0NJcjhWN3RTQVFJVElQbw?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-08T02:56:47+00:00",
-    "summary": "Wellness-Driven Health Tech Apps Trend Hunter",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 7
-  },
-  {
     "id": "a43fd513809d",
     "title": "Irish-American health-tech startup aims to rewire patient journeys - Euractiv",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPSWdlWDR3b3RvWG5VbUFlSnI3RzFham4wazRmbkxtRVpfWnpUWmkzT3F1NkdwLVQyWjRaajR4T183Y1BvdWtaZ2Njdjl6ZjBjOHM4N25wRENSN0tWaGVnb0xPckplMnNfcnFaTUw0enlDaHJOWE5UWlBBZS1oakRyMHFRb1FVdlJ1QWxaNnh3eUUwcjRWcUhOZ0E5MVdOMU9RMWZ2Zw?oc=5",
@@ -611,12 +591,59 @@
     "relevance_score": 7
   },
   {
+    "id": "f4c6d55532b8",
+    "title": "Health Tech World brings NHS procurement insider to exclusive AI event - Health Tech World",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPaVVCNi1hZ3FsZ0ttY2I5U0xXOXNmWEw0TEdYYnFLQ25fLVZGNHhpdW9zeUVvbmVMQldtak4tTVFwM2t3dWFlU3BXUVlkdEJfMzItU0t5cTZXQXBNU2VGdmFpSm9TSzdGenJxaW5HRFVPLXFNam5BOFEyY045dzJIM3RGTGNSZmc2S2RqdVF1UlZTRk9pSWxPU2NRQWJlT2VWNTFiZUlHQmNmV250QmRZYVdnS0I?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-08T12:59:50+00:00",
+    "summary": "Health Tech World brings NHS procurement insider to exclusive AI event Health Tech World",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "d837f6a33a5c",
+    "title": "AbbVie’s Skyrizi beats out J&J’s Tremfya in April drug ad spending leaderboard - Fierce Pharma",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdVZiNFlTMEhBUmI0N1VOTGw5eWRkR00ySW9TTHdtOERxV1JMRTFMNTd4bjdjYk5UVUNqWXEyVXMyM05icnBKbG5tdThNbWcwckZ2QXBxM0FOdmM3OUZoODRoWjk1eWpvUWpNYmpMSzhFR2JwMlc1cHBFeUZWU0JkdTRURkUtcFM3WXJaZl8xRjROcFFQMFZHY0ROOUQ0ZHMyMjA5OTc1bTUyV2R2T3VTc0Z3?oc=5",
+    "source": "Pharma Marketing",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-08T14:03:16+00:00",
+    "summary": "AbbVie’s Skyrizi beats out J&J’s Tremfya in April drug ad spending leaderboard Fierce Pharma",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "8f6365f0692b",
+    "title": "Gene Therapy Briefs: Regeneron Wins FDA Approval for First Neurosensory Gene Therapy - Genetic Engineering and Biotechnology News",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSFp1TkRMTDIzSk5PQnlzUWpvdC1DWlc3YUhzUTBJcUpGMDNmLWkxRWprTGhhaEx4RUxWUHdqT1FlNnhyVVVKYi10bm9HNGQ0b1I0LVZnUjE0YlVkYU5RTzN6NG54M1pJclJTZU9nQkF6d0pCYnVTSnZiZ0NULTRuU1pPQ280Z25CWkRzWV8wako2bVpSanhuUTEyUVFLb0hJYkNzbk9HMld6Tzk5Sm5OdVpVTzZiZmxvS2dzdkJGVXlyYVhJN3NFYndsOGRyUQ?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-08T14:04:35+00:00",
+    "summary": "Gene Therapy Briefs: Regeneron Wins FDA Approval for First Neurosensory Gene Therapy Genetic Engineering and Biotechnology News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
     "id": "646335804f68",
     "title": "CVS Health partners with Google; launching health tech subsidiary - Chain Store Age",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVzJ6ZE13YVI3ZHYydTQyWTZYaFVrdHh4NmZ6dzF6b0RPdXVyTDJualJiRUNTdEFuUXducXdGZUxvZ3Jfd3k3MllsdDFkNXRYSjhmdUpCNnE5OVM5aWRDS0lTYTRfRVJ0LWl4OXdDY1k2czY4NmV0ckhSNE96R3dvUXZCUHhYeFJmaWpIdlh3?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-05-04T03:45:18+00:00",
+    "published": "2026-05-03T07:00:00+00:00",
     "summary": "CVS Health partners with Google; launching health tech subsidiary Chain Store Age",
     "image_url": null,
     "tags": [],
@@ -629,21 +656,6 @@
     "relevance_score": 6
   },
   {
-    "id": "46b6ea2dda79",
-    "title": "FDA Accepts sNDA for Taletrectinib in ROS1+ NSCLC - OncLive",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPNDFic1B6M2ZzLUpVZ1Yxd1BuVU1tWGNScWZVbzRrcEFEY0RTSVR5bFJNVmNYZFFNOXVGaUp4ejNXYktpdDY2SVFlNnlRZ2w2NnkzZUdJcVF6LXpGNHVFa3ZhQVlYeUExb3ZsSnhqcXh5THFCbTV6QXFOS3FScTRxS1BFTQ?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-06T17:48:59+00:00",
-    "summary": "FDA Accepts sNDA for Taletrectinib in ROS1+ NSCLC OncLive",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 6
-  },
-  {
     "id": "9ea4999300cd",
     "title": "Silversmith-backed Med Tech snaps up health tech firm Avarion - pehub.com",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOVkVrU1lTRDNRYTdNV1I0QXJSYS1lQTY2WDVvTlUyMkNxbjZGbWVNaXFHaEh6Sml4dTl1eThKN1hkSnhiUmIxUGIzX0VJM1VlWUVqZVJLVHhlUVBTMzNaZXF6dEhEenNmdVkxZmJwVnNMMkprYUJBMnVSS1Zad0lMN0MySW9ORkZ1M0JEZQ?oc=5",
@@ -651,21 +663,6 @@
     "source_category": "industry_lifesciences",
     "published": "2026-05-07T13:57:57+00:00",
     "summary": "Silversmith-backed Med Tech snaps up health tech firm Avarion pehub.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "5a8361be4213",
-    "title": "Digital health: What is possible? Who will benefit? - World Council of Churches",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPYnF4N3NBczNjYjFWd0dYMmRxeHR2eU5vZEZibkN5amNMTXZFdVpWRUF5aERJV21hdnBpSnRyRzg2c1VIOEVaSHY2d1lFQjgyTDB6NEJzTUFLc3dWd2JDazRQUy1uaFNUS1Jscno3RmdGcEotb3ktQVlESHZHUnJTWUtUOC1fUQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-07T15:30:26+00:00",
-    "summary": "Digital health: What is possible? Who will benefit? World Council of Churches",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -721,33 +718,16 @@
     "relevance_score": 5
   },
   {
-    "id": "7ed6fd30af9d",
-    "title": "Trump Pressures FDA Commissioner to Approve Flavored Vapes - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQOG5CUGJWbWZKQ21Dc3R5T2szNHQ3Tkc5bE1rVXB4N3Y1VXdjSGVwWUs2eWVLTldaMHhzTDFWeFZJcV8yQ2FsZmFyVWNFZWdRSkNYQlBuYjRDa2lBOGtNc2RqVi1HWi1lY1FfdmZ6ZWpjZmNjZDBEMG4xM053dkpmdU5GSndTY1lIMFpVdzdXSTUyWjVqRFhQZ1dKWmpQTjNsaE1MRXlB?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-05-05T20:41:00+00:00",
-    "summary": "Trump Pressures FDA Commissioner to Approve Flavored Vapes WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "988a8fbc449a",
-    "title": "Due diligence for health tech M&A: Identifying organizational, regulatory, and data governance red flags - Nixon Peabody",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQWHNENTRVWFFLbE5yQ3lBRTJGNEx3OGNPNjV4ZHNGdWlVZnpYbkhRVTcxM2pfcC11MWhza1FjY0pyLXJRaGxweEdGWW55WDFUamxTRXUxTjV2eml5UGUxSXYtQW9qRmxaYW43bjBYU09jNGRtZ1hVWjJvaHE2MWRYemx2YXR6ampHNi16ZGc3dDk5dlZC?oc=5",
+    "id": "432a233f35b3",
+    "title": "The ACCESS Model May Set Off A Health Tech Gold Rush, But New Markets Bring Serious Obstacles - RamaOnHealthcare",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxObllQV1MyUV9RaThlbTd5UElmUjY1cDBhMUpkOC00dmhhS2lqQ0hROElKNkctakF0UEV1VXZsSUp1enNyM1V2a241bnlZUE85QW1CSU9jd2Q2emlabExtbVJfa0VrTGdua2hmWUZOZlIwdjJEbU5nMGtNMWdWTXhWUy1UYVZ6NUNtdUJhQWg2ZU1Gc2k1al9ra3NpenJUSFBFNU5ObjhZUlpjNTBON3NlclBzRVBTTkJyYlp6dHZ2bw?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-05-06T00:09:25+00:00",
-    "summary": "Due diligence for health tech M&A: Identifying organizational, regulatory, and data governance red flags Nixon Peabody",
+    "published": "2026-05-06T00:38:00+00:00",
+    "summary": "The ACCESS Model May Set Off A Health Tech Gold Rush, But New Markets Bring Serious Obstacles RamaOnHealthcare",
     "image_url": null,
     "tags": [],
     "industries": [
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 5
