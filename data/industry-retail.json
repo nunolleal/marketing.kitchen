@@ -14,7 +14,10 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 62
+    "relevance_score": 62,
+    "also_covered_by": [
+      "Retail Dive"
+    ]
   },
   {
     "id": "fa3e8ac7c219",
@@ -34,7 +37,7 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 61
+    "relevance_score": 58
   },
   {
     "id": "52891c11114c",
@@ -56,6 +59,48 @@
     "relevance_score": 36
   },
   {
+    "id": "bb6b8554317d",
+    "title": "Five Perfect 100% Rotten Tomatoes Scored Shows To Watch This Week",
+    "url": "https://www.forbes.com/sites/paultassi/2026/05/13/five-perfect-100-rotten-tomatoes-scored-shows-to-watch-this-week/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-05-13T15:43:34+00:00",
+    "summary": "Here are five fantastic new or returning shows to watch this week that have 100% Rotten Tomatoes scores across Netflix, Hulu, Amazon and more.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69fe0239d14563b9c8c685bf/0x0.jpg?width=960&precrop=1138%2C640%2Cx69%2Cy0",
+    "tags": [
+      "Gaming",
+      "/gaming",
+      "Innovation",
+      "/innovation",
+      "Gaming"
+    ],
+    "industries": [
+      "media",
+      "retail"
+    ],
+    "relevance_score": 20
+  },
+  {
+    "id": "2290027f449a",
+    "title": "Garmin’s mini satellite communicators are on sale for up to 40 percent off",
+    "url": "https://www.theverge.com/gadgets/928854/garmin-inreach-mini-2-3-blink-outdoor-4-floodlight-security-camera-deal-sale",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-05-13T15:00:35+00:00",
+    "summary": "REI’s annual Anniversary Sale doesn’t start until March 15th, but that hasn’t stopped Garmin from rolling out discounts on a range of devices — including its InReach Mini satellite communicators. Right now, for instance, you can grab the Mini 2 at Amazon, REI, and Garmin for...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Garmin-InReach-Mini-3-Deal-Image.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 19
+  },
+  {
     "id": "efb6b1e2ff35",
     "title": "Why Target killed its creator program, launched 2 new ones",
     "url": "https://digiday.com/marketing/why-target-killed-its-creator-program-launched-2-new-ones/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -74,25 +119,70 @@
     "relevance_score": 17
   },
   {
-    "id": "d638c286877d",
-    "title": "Salesforce stock (US78409V1044): Analyst cuts price target to $188 ahead of Q1 earnings - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxObVJyUEJmXzdZcWlpQUJQQUJvamR6RXp5T2Nia2dsTUJFSkFFRnhDWlBGSlgybEduVVJ3STZpcmVKSlRZTWpvYkY1ZXV5UzBQTjBnbEJhanJyQnJLeUdySTVLcnhvajA5TFpFTkZiZTBnRldBQWVyVklXTEY5d2JCU0R2WEhVNm1LSUZCbTZPWXhaM0wwczBwNi02RFdObGh3dkFTSkpHZExXWDl2aV90azI2azJ3elFxcGYyUWJMX3RuUkRwLVE?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-05-13T12:16:58+00:00",
-    "summary": "Salesforce stock (US78409V1044): Analyst cuts price target to $188 ahead of Q1 earnings AD HOC NEWS",
-    "image_url": null,
-    "tags": [],
+    "id": "2591b4c3cb17",
+    "title": "Amazon launches an AI shopping assistant for the search bar, powered by Alexa+",
+    "url": "https://techcrunch.com/2026/05/13/amazon-launches-an-ai-shopping-assistant-for-the-search-bar-powered-by-alexa/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-05-13T14:59:32+00:00",
+    "summary": "Alexa for Shopping offers a voice- and touch-enabled shopping experience across mobile, desktop, and Echo Show smart displays. Alexa for Shopping provides more personalized recommendations and automates the shopping experience across Amazon and other online retailers.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Alexa-for-Shopping-Chat-Window.jpg?w=1200",
+    "tags": [
+      "AI",
+      "Apps",
+      "Commerce",
+      "alexa plus",
+      "Amazon"
+    ],
     "industries": [
+      "retail"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "1955b2504083",
+    "title": "Mark Zuckerberg announces ‘completely private’ encrypted Meta AI chat",
+    "url": "https://www.theverge.com/tech/929791/meta-ai-incognito-chats",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-05-13T16:45:43+00:00",
+    "summary": "Meta CEO Mark Zuckerberg says its new Incognito Chat is \"the first major AI product where there is no log of your conversations stored on servers.\" Messages in Incognito Chat aren't saved or stored in users' chat history, similar to incognito modes on other AI chatbots, but...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/meta-ai-incognito-chats.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "tags": [
+      "AI",
+      "Meta",
+      "News",
+      "Tech"
+    ],
+    "industries": [
+      "tech",
       "retail",
       "industrial"
     ],
-    "relevance_score": 17,
-    "also_covered_by": [
-      "Adobe Marketing Cloud",
-      "Telecom 5G",
-      "Telecom Digital"
-    ]
+    "relevance_score": 17
+  },
+  {
+    "id": "b7ab3f6bcc66",
+    "title": "Ahead of Paramount Mega-Merger, WBD Bets on Agentic Ads",
+    "url": "https://www.adweek.com/convergent-tv/ahead-of-paramount-mega-merger-warner-bros-bets-on-agentic-ads-upfront/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-05-13T11:00:00+00:00",
+    "summary": "At its upfront presentation to advertisers, the entertainment behemoth showcased plans to enhance targeting and interactivity across media environments with AI",
+    "image_url": null,
+    "tags": [
+      "Connected TV News",
+      "General",
+      "Media News",
+      "Platforms",
+      "Streaming &amp; OTT"
+    ],
+    "industries": [
+      "media",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 16
   },
   {
     "id": "440a9dd1d0ae",
@@ -113,83 +203,55 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 17
-  },
-  {
-    "id": "44b709c06afd",
-    "title": "Alexa is moving into Amazon.com",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/929457/amazon-announces-alexa-for-shopping-ai-assistant-rufus",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-05-13T13:00:00+00:00",
-    "summary": "Amazon is bringing Alexa Plus to Amazon.com, integrating its LLM-powered AI assistant directly into the company's shopping experience. Beginning today, when you type a query into Amazon, you'll be talking to Alexa for Shopping, the company's new shopping assistant, powered by...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-13-at-7.44.36AM.png?quality=90&amp;strip=all&amp;crop=0%2C3.5710757680529%2C100%2C92.857848463894&amp;w=1200",
-    "tags": [
-      "AI",
-      "Amazon",
-      "Amazon Alexa",
-      "News",
-      "Online Shopping"
-    ],
-    "industries": [
-      "retail"
-    ],
     "relevance_score": 16
   },
   {
-    "id": "f80a9bdb0a22",
-    "title": "Amazon expanding 30-minute delivery service to more cities",
-    "url": "https://www.retaildive.com/news/amazon-expands-30-minute-delivery-service-to-more-cities/819962/",
+    "id": "67308c966891",
+    "title": "Walmart to lay off or relocate 1,000 tech, product workers",
+    "url": "https://www.retaildive.com/news/walmart-layoffs-relocations-tech-product-workers/820110/",
     "source": "Retail Dive",
     "source_category": "industry_retail",
-    "published": "2026-05-12T15:07:00+00:00",
-    "summary": "The offering, which leverages smaller fulfillment locations near customers, aims to reach tens of millions of people by the end of 2026.",
-    "image_url": "https://imgproxy.divecdn.com/dv9wsl5G7ngLdM3uj0R7WKRUWrPwEtudCDG0v0nkSEI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDUtMTJfMDgwMTI2LnBuZw==.webp",
+    "published": "2026-05-13T15:37:00+00:00",
+    "summary": "The retailer's latest restructure is part of a broader globalization effort, according to an internal memo Tuesday.",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "retail",
-      "industrial"
+      "retail"
+    ],
+    "relevance_score": 16,
+    "also_covered_by": [
+      "Wall Street"
+    ]
+  },
+  {
+    "id": "efbacfc87804",
+    "title": "Rent the Runway co-founder Jennifer Hyman steps down as CEO",
+    "url": "https://www.retaildive.com/news/rent-the-runway-co-founder-jennifer-hyman-steps-down-ceo-nordstrom-interim/820127/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-05-13T16:22:00+00:00",
+    "summary": "Longtime Nordstrom veteran Teri Bariquit, once the department store’s chief merchant, will take over as interim chief executive officer and president.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail"
     ],
     "relevance_score": 15
   },
   {
-    "id": "d9a33d9de650",
-    "title": "AI voice startup Vapi hits $500M valuation after winning Amazon Ring over 40 rivals",
-    "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-05-12T11:30:00+00:00",
-    "summary": "Vapi says its enterprise business has grown tenfold since early 2025 as companies shift customer support and sales calls to AI agents.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/vapi-founders-jordan-dearsley-nikhil-gupta.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Amazon Ring",
-      "Bessemer Venture Partners",
-      "Exclusive",
-      "Kleiner Perkins"
-    ],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "673179af4bc8",
-    "title": "2026 Layoffs Tracker: Walmart, Meta and Morgan Stanley Among Firms Cutting Jobs - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9tRUQ3eGRWZVptRTlGZFB0TlFkS2dtWEZ3Tm4zeDBYeHFOQ1dyUm5nQ2J2TmtNWERob2s5TmlMQVg1aXNFaC1tSk5abVNKOHpsYXQ0bTNRT01ob3Vsb0lqUVNldDJEZWVrMzctdDlhSQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-05-13T06:18:34+00:00",
-    "summary": "2026 Layoffs Tracker: Walmart, Meta and Morgan Stanley Among Firms Cutting Jobs WSJ",
-    "image_url": null,
+    "id": "0dcd0c58aaaf",
+    "title": "Organized retail crime bill passes House in bipartisan vote, heads to Senate",
+    "url": "https://www.retaildive.com/news/organized-retail-crime-bill-passes-house-bipartisan-vote/820105/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-05-13T16:30:00+00:00",
+    "summary": "Industry groups have lobbied Congress to pass this legislation for years. But the impact on retailers’ efforts to prevent inventory loss remains unclear.",
+    "image_url": "https://imgproxy.divecdn.com/6MlCuXK_hPvvhM6RC5aIp3SOu6G6IU_khCq2YSlPEVM/g:nowe:44:0/c:968:546/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GaWdodF9yZXRhaWxfY3JpbWVfZGF5X1NoYXkuanBn.webp",
     "tags": [],
     "industries": [
-      "tech",
       "retail"
     ],
-    "relevance_score": 14
+    "relevance_score": 15
   },
   {
     "id": "b0f869cdecee",
@@ -204,7 +266,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "b1a7381d1b35",
@@ -220,30 +282,7 @@
       "media",
       "retail"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "640d232749ad",
-    "title": "Riding an AI rally, Robinhood preps second retail venture IPO",
-    "url": "https://techcrunch.com/2026/05/11/riding-an-ai-rally-robinhood-preps-second-retail-venture-ipo/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-05-12T00:09:01+00:00",
-    "summary": "Robinhood files confidentially for its second venture fund, this time targeting growth and early-stage startups.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/vlad-tenev-robinhood-GettyImages-2272038864.jpg?w=1024",
-    "tags": [
-      "AI",
-      "Startups",
-      "Venture",
-      "IPO",
-      "retail investors"
-    ],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 12
+    "relevance_score": 13
   },
   {
     "id": "a2d0cd4837fe",
@@ -299,41 +338,6 @@
     "relevance_score": 12
   },
   {
-    "id": "1a9dc51a19ba",
-    "title": "Ex-Google, Amazon Veterans Launch SwishX To Modernise Pharma Commerce With Agentic AI - BW Healthcare World",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSl81dUtXdDl2d2lERnA5ZTQ5dGFqZzM2blJRTjZnLXhtV2o1VkdGdEswWkZaYmxxSnBqcm1OblE5dW5ReEZrNEN6Qk5xYWNKWUpzREQtUnJOVnluMlpkUjJ6QnYzNnpjczZwc1JFVm5xb0QtSklhdGt3eVktc1pyVVp6R0FDM3U1MVhaWmplQ3B1YmUxZ0ZSQTVJbUpjR2luaC1tWVZIQ3ZmOFBMSWNxQXp2cFdjQTFsZTBOdmVKclQ3amoxUmhnYWpOZ3Jwdw?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-05-12T15:58:09+00:00",
-    "summary": "Ex-Google, Amazon Veterans Launch SwishX To Modernise Pharma Commerce With Agentic AI BW Healthcare World",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "d7a1659a8e88",
-    "title": "Incedo targets AI native telecom growth in Canada ... - eeNews Europe",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPZ3lORmMzel80M0pfMUJQOS1heVYxSWI1QTk0UkpXTVpEOGpkODRMc1c5Q05FOWU2SjNsNllOT25ubmo1N1BSdXZmMkdxWkQ3VnZUN1NiWXZfemU3Z1EyUjhsNUdlbUtVWjFhdGVrZnQ0dW9xY21GbEY4N0VjRGc0TU1qcGVBbG1janc?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-05-13T11:50:17+00:00",
-    "summary": "Incedo targets AI native telecom growth in Canada ... eeNews Europe",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
     "id": "4ff6c2970ee3",
     "title": "Sanford targets Minnesota growth again with planned deal",
     "url": "https://www.healthcaredive.com/news/sanford-health-north-memorial-health-merger-minnesota-expansion/819807/",
@@ -369,32 +373,20 @@
     "relevance_score": 10
   },
   {
-    "id": "2ba7c463bae3",
-    "title": "Bob’s Discount Furniture opens first combo store-distribution center",
-    "url": "https://www.retaildive.com/news/bobs-discount-furniture-first-combo-store-distribution-center/819909/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-05-12T14:11:00+00:00",
-    "summary": "The retailer is monitoring the concept and may replicate it in the future, Chief Operating Officer Ramesh Murthy said.",
+    "id": "1a9dc51a19ba",
+    "title": "Ex-Google, Amazon Veterans Launch SwishX To Modernise Pharma Commerce With Agentic AI - BW Healthcare World",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNSl81dUtXdDl2d2lERnA5ZTQ5dGFqZzM2blJRTjZnLXhtV2o1VkdGdEswWkZaYmxxSnBqcm1OblE5dW5ReEZrNEN6Qk5xYWNKWUpzREQtUnJOVnluMlpkUjJ6QnYzNnpjczZwc1JFVm5xb0QtSklhdGt3eVktc1pyVVp6R0FDM3U1MVhaWmplQ3B1YmUxZ0ZSQTVJbUpjR2luaC1tWVZIQ3ZmOFBMSWNxQXp2cFdjQTFsZTBOdmVKclQ3amoxUmhnYWpOZ3Jwdw?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-05-12T15:58:09+00:00",
+    "summary": "Ex-Google, Amazon Veterans Launch SwishX To Modernise Pharma Commerce With Agentic AI BW Healthcare World",
     "image_url": null,
     "tags": [],
     "industries": [
-      "retail"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "8ab1fde25d9f",
-    "title": "Walmart Lays Off or Relocates About 1,000 Corporate Workers - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQNTlhVlA5UldtSGxTem13XzhhcTRRX0Z2SC03LVJjX3VsZXFTSkljMjRxMG1QLVNTeXM1RzkxU3M2eldfRmE3RGtHanVKblluVjRJWlU4N3V2UTJjMVJfMXNEVnpCa210WkNUTk5NV2NaRVc3MmJCVHA5bk1lUWhmOUYwdFR4UThPbFdGMFZZbw?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-05-12T22:00:00+00:00",
-    "summary": "Walmart Lays Off or Relocates About 1,000 Corporate Workers WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail"
+      "tech",
+      "retail",
+      "industrial",
+      "lifesciences"
     ],
     "relevance_score": 10
   },
@@ -412,55 +404,6 @@
       "telecom",
       "retail",
       "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "d1862595366f",
-    "title": "Ulta Beauty to offer products via Uber Eats",
-    "url": "https://www.retaildive.com/news/ulta-beauty-uber-eats-deliveries/819859/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-05-12T13:58:00+00:00",
-    "summary": "The beauty retailer has previously partnered with Instacart and DoorDash as the fast delivery market grows.",
-    "image_url": "https://imgproxy.divecdn.com/g-CQ_Fa0EUnLIhDORXafAedtTVGUqC68hbWWMs6tBLU/g:nowe:0:51/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjE0MS5qcGc=.webp",
-    "tags": [],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "05712e02b56b",
-    "title": "Running Claude Code or Claude in Chrome? Here's the audit matrix for every blind spot your security stack misses",
-    "url": "https://venturebeat.com/security/claude-confused-deputy-audit-matrix-security-blind-spots",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-05-12T15:59:19+00:00",
-    "summary": "Between May 6 and 7, four security research teams published findings about Anthropic’s Claude that most outlets covered as three separate stories. One involved a water utility in Mexico, another targeted a Chrome extension, and a third hijacked OAuth tokens through Claude...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4SkR8jNCpfSRyi8zx9Bpt4/90a858841864009a2a8062003a9baa4e/hero.png?w=300&q=30",
-    "tags": [
-      "Security"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "4e40c78aa4cb",
-    "title": "AI Shopping Makes Context the New Payments Currency - PYMNTS.com",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNjM4d1VwRGNyLUxmaXE4dy1WNlpOcUVkSG5BSXlRbFkzNjRQUlZFeHdwSGpsTVpmc01XQ1ppbDlBQUROVGdPc21UMFhRd1JfTXhLZ0pBenFndnJWTG9DeHozVk80RDJseWo4WnhUSXpYTURXdVU2VXZCcWR1Ukt5MEJaa1VIWTQxdWlreGlKRGFXNkJmeHVrcmZXNUV3dw?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-05-13T08:03:43+00:00",
-    "summary": "AI Shopping Makes Context the New Payments Currency PYMNTS.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "financial"
     ],
     "relevance_score": 9
   },
@@ -482,6 +425,40 @@
     "relevance_score": 8
   },
   {
+    "id": "05712e02b56b",
+    "title": "Running Claude Code or Claude in Chrome? Here's the audit matrix for every blind spot your security stack misses",
+    "url": "https://venturebeat.com/security/claude-confused-deputy-audit-matrix-security-blind-spots",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-05-12T15:59:19+00:00",
+    "summary": "Between May 6 and 7, four security research teams published findings about Anthropic’s Claude that most outlets covered as three separate stories. One involved a water utility in Mexico, another targeted a Chrome extension, and a third hijacked OAuth tokens through Claude...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4SkR8jNCpfSRyi8zx9Bpt4/90a858841864009a2a8062003a9baa4e/hero.png?w=300&q=30",
+    "tags": [
+      "Security"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "4e40c78aa4cb",
+    "title": "AI Shopping Makes Context the New Payments Currency - PYMNTS.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNjM4d1VwRGNyLUxmaXE4dy1WNlpOcUVkSG5BSXlRbFkzNjRQUlZFeHdwSGpsTVpmc01XQ1ppbDlBQUROVGdPc21UMFhRd1JfTXhLZ0pBenFndnJWTG9DeHozVk80RDJseWo4WnhUSXpYTURXdVU2VXZCcWR1Ukt5MEJaa1VIWTQxdWlreGlKRGFXNkJmeHVrcmZXNUV3dw?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-05-13T08:03:43+00:00",
+    "summary": "AI Shopping Makes Context the New Payments Currency PYMNTS.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "financial"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "2a9dff3c3346",
     "title": "Caris Life Sciences Publishes Study Showing Whole Exome Measurement of Tumor Mutational Burden Results in Increased Overall Survival Compared to Estimates from Targeted Gene Panels - PR Newswire",
     "url": "https://news.google.com/rss/articles/CBMi1wJBVV95cUxQbkJnSk02UzdXaGRkRkItVTloT0pxYWdQczJlMGZhaVJzMkdJUU1QSjQzN1E5QlhwY2NCZmxZNmJJM2xxNUVYVVFHNTlwQ3BRNzh4MHBHYWlfXzdFQTd4ODhTZjlzTEloWGQtMUgwbVZuNXdRX0NobXgyaHVoM2JCV2UtSlhjT0dsUmI4NUdweVVQeTRMOGJPbVNYRDRpTGcyZ3dJWmlWYXNkc3R4TGVnVi1ROXNwXzNpUWRMQ0pXcmVFMWFBWDZQOHAzOWtycHp0NE14RTljVlV3a1VrdVptSmF1XzU5cjA2TTBNREt0X25nUjhOMk9hWmFUcURnNUNRUzJUSFltUVZSYS00NXZOT2M4QUVkVGZVQWlab0hSOXJzTlh2WVJhOGtIbEQ1dmVCcXNDOXpBTnZIQ29HNXRncDRUOWhKV2lzRTczRUxsZWdlRkowWFBz?oc=5",
@@ -496,7 +473,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 7
+    "relevance_score": 6
   },
   {
     "id": "b67b8e5c07ff",
