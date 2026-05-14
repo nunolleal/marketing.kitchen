@@ -10,9 +10,25 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 48,
+    "relevance_score": 48
+  },
+  {
+    "id": "9015007ce8ce",
+    "title": "Salesforce (CRM), Moderna Partner to Unify Global Operations via Agentforce Life Sciences - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdGtmMTJNZG4xV05ieGxNamlpakROQ0hWLW0tNlhUaGt1cHBidVJfbHZWRHdZSV9GNGNXQWx1NUFqS3FYTW9NRkhUOW0yeTF2eXdrWmk1N1lTb3YwcC1yOFdsNDVlMkgxSkhuWUFWbmJmeGhzRlQ2Z19DS3dEX0lzT2IwcmhjQThadE5lRTUwN3BLeks4bTVzRGVUSmM0V1o3VDFDeEhrVUg?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-05-14T14:55:50+00:00",
+    "summary": "Salesforce (CRM), Moderna Partner to Unify Global Operations via Agentforce Life Sciences Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 42,
     "also_covered_by": [
-      "Telecom 5G"
+      "Biotech"
     ]
   },
   {
@@ -29,7 +45,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 33
+    "relevance_score": 29
   },
   {
     "id": "fc93a0e461d1",
@@ -47,45 +63,16 @@
     "relevance_score": 23
   },
   {
-    "id": "e2eea9b07851",
-    "title": "CEOs of the classroom: why principals are the key to the AI era",
-    "url": "https://www.salesforce.com/blog/principal-summit/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-13T23:02:57+00:00",
-    "summary": "Learn how Salesforce is providing schools with the funding they need for the present and the AI skills training they need for the future.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Salesforce-Principal-Gathering-Future-Forward-Chloe-Jackman-Photography-2026-2335_websize.jpg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 15
-  },
-  {
     "id": "713b850a8760",
     "title": "Salesforce’s Agentforce 360 moves into service, data and workflow use cases across ASEAN - Tech Edition",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSmJWSzktX1lPMUZVT3puaVBMUEtWNmh6N19mTENmeVRvMTBsTVE3REZ1cXNBU2c5MDJQMWZDMUFFUE9nWXNoV1V0SEplTnZHVk41LXpFTGp3akxqYnQ0LXh5T2U3bFg2dGk4Z2lleWxyOWV0MktXQzhLb29NcW5yd0ZWamhuckw1SU5ZZWFYeDNlVWFvc2RxQ0Jvd2xsejFGN3c1NlRfWGNrdS1lZDQ4?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-05-14T10:20:11+00:00",
+    "published": "2026-05-14T10:20:53+00:00",
     "summary": "Salesforce’s Agentforce 360 moves into service, data and workflow use cases across ASEAN Tech Edition",
     "image_url": null,
     "tags": [],
     "industries": [
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "cee7562529f0",
-    "title": "Salesforce Headless 360: What the Agent Consumer Means for Your Integration Architecture",
-    "url": "https://www.salesforce.com/blog/headless-360-integration-architecture/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-13T16:13:13+00:00",
-    "summary": "Understand where the new platform capabilities fit within established Salesforce integration patterns, and what shifts when agents become consumers of your org.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Untitled-design-4.png?w=1500",
-    "tags": [],
-    "industries": [
-      "tech",
       "industrial"
     ],
     "relevance_score": 14
@@ -107,6 +94,35 @@
     "relevance_score": 13
   },
   {
+    "id": "cee7562529f0",
+    "title": "Salesforce Headless 360: What the Agent Consumer Means for Your Integration Architecture",
+    "url": "https://www.salesforce.com/blog/headless-360-integration-architecture/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-13T16:13:13+00:00",
+    "summary": "Understand where the new platform capabilities fit within established Salesforce integration patterns, and what shifts when agents become consumers of your org.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Untitled-design-4.png?w=1500",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "fd4673f9a0dc",
+    "title": "CEOs of the classroom: Why principals are the key to the AI era",
+    "url": "https://www.salesforce.com/blog/education-and-ai/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-13T23:02:57+00:00",
+    "summary": "Learn how philanthropic funding and AI reskilling can prepare students for jobs of the future.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Salesforce-Principal-Gathering-Future-Forward-Chloe-Jackman-Photography-2026-2335_websize.jpg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 12
+  },
+  {
     "id": "d3e4d767de80",
     "title": "Salesforce taps Ribbon to route calls for its new AI contact center - Stock Titan",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQbEdxN2p0dGYwOUVhLUFfQzhhWjlrN19JQnpfeVRmLW5XSnY2clJXMUNzMnNtdTYtR1FaV2hZQmFqU1UzaHY0dExnbHdnbHlIdEZFSXp4ZXN6c056eHlyZmk0Tkl1SG1vc1NPMjh5ZUtyQmdYeWJGMUxIZXh6VkgtZTF0NHVseGs1ZGN6T3RfaTFqeEExbzU5d00xSllmM0xtVWpmOTZvMkc5X0JERXI4VHBPWXV0c0hBdEpaLQ?oc=5",
@@ -117,7 +133,7 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "cc685f36a1cd",
@@ -132,7 +148,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "5b0aee5de587",
@@ -148,38 +164,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 13
-  },
-  {
-    "id": "277914808889",
-    "title": "Salesforce’s Air Force Deal Tests Agentforce’s Role In Secure Government AI - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcGFKSW5MU216dDlqQ3NWb082NVF5OFlVQ3drX2s3dFZGWnpUdHFIZXRWMzVjdGx4OHE5VUFGdko0b2dkRk9xeTQ1UHVNdmRVQW9SOWJVa2h4U0h1Umd5aUZuWlRTb1Zvck91bUwtMHZ6ckY4d3FRZGlZWnVkdGpVbFk2cHpzUWdOMktiNUp2STZFT0owa1R5YkVjTXk?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-05-14T01:11:00+00:00",
-    "summary": "Salesforce’s Air Force Deal Tests Agentforce’s Role In Secure Government AI Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
     "relevance_score": 12
-  },
-  {
-    "id": "d22afc6e59d5",
-    "title": "Why We Pay Salesforce 83% More Than Last Year. But Stopped Using Notion Entirely. The AI Agent Seat Problem Is Real. - SaaStr",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxNUlA0ZTI0QXRpMXRyTHVVblkxRTlLRjlmTXpyNnlRcmFDU0oxN3hBdk04YzRoV3FhSlpwbnVOeDBKUGRKN2FxT1lpV3hXcTRnQktIT3VDbEtjdFlVQ0NOWVpxMDlkVkRLX1o0NFRURlp1VWxvYjNsNWlFNG5EdVJFV1pKNGhnQnlXQnF5VmFrMmlNVkw1YUVpR0dCRG55c0pvSTVrcXc5d0dFVW5tMlJURF9NRWNOcWhuTnJ6U2VpeHdYbkdxcTRybUFqWm1WZGhzQWc?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-05-13T07:10:58+00:00",
-    "summary": "Why We Pay Salesforce 83% More Than Last Year. But Stopped Using Notion Entirely. The AI Agent Seat Problem Is Real. SaaStr",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 11
   },
   {
     "id": "6256e3ec8ec4",
