@@ -79,7 +79,7 @@
       "media",
       "tech"
     ],
-    "relevance_score": 21
+    "relevance_score": 20
   },
   {
     "id": "65862fc6eeb2",
@@ -98,7 +98,7 @@
       "media",
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
     "id": "f6d2f80158bc",
@@ -144,6 +144,26 @@
     "relevance_score": 16
   },
   {
+    "id": "6003b0e7e988",
+    "title": "Netflix’s ad ambitions just keep growing",
+    "url": "https://www.theverge.com/streaming/929627/netflix-ads-plan-upfront-2026",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-05-13T18:45:32+00:00",
+    "summary": "For the second year in a row, Netflix's ad-supported tier more than doubled its monthly viewerbase. During its 2026 upfront presentation, Netflix revealed that its $8.99-per-month plan reaches more than 250 million people around the globe, a significant leap from 94 million...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951361/STK072_VRG_Illo_N_Barclay_7_netflix.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Entertainment",
+      "Netflix",
+      "News",
+      "Streaming"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 15
+  },
+  {
     "id": "f76b8bdeb22d",
     "title": "‘We should own it’: Hershey’s programmatic chief on AI agents and media mix modeling",
     "url": "https://digiday.com/media-buying/we-should-own-it-hersheys-programmatic-chief-on-ai-agents-and-media-mix-modeling/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -160,7 +180,7 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "468ea9cddf95",
@@ -173,26 +193,6 @@
     "image_url": "https://digiday.com/wp-content/uploads/sites/3/2024/12/shopping-data-digiday.jpg",
     "tags": [
       "Media Buying"
-    ],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "6003b0e7e988",
-    "title": "Netflix’s ad ambitions just keep growing",
-    "url": "https://www.theverge.com/streaming/929627/netflix-ads-plan-upfront-2026",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-05-13T18:45:32+00:00",
-    "summary": "For the second year in a row, Netflix's ad-supported tier more than doubled its monthly viewerbase. During its 2026 upfront presentation, Netflix revealed that its $8.99-per-month plan reaches more than 250 million people around the globe, a significant leap from 94 million...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951361/STK072_VRG_Illo_N_Barclay_7_netflix.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Entertainment",
-      "Netflix",
-      "News",
-      "Streaming"
     ],
     "industries": [
       "media"
@@ -251,46 +251,6 @@
     "relevance_score": 14
   },
   {
-    "id": "ccf7b2c26041",
-    "title": "Netflix’s Nicolle Pangis on Measurement, AI, and the Future of Streaming Advertising",
-    "url": "https://www.adweek.com/brand-marketing/netflixs-nicolle-pangis-on-measurement-ai-and-the-future-of-streaming-advertising/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-05-13T14:08:59+00:00",
-    "summary": "Successful AI-driven advertising depends on more than just automation.",
-    "image_url": null,
-    "tags": [
-      "Ad Tech Industry News",
-      "Adweek Podcasts",
-      "AI News",
-      "C-Suite",
-      "Connected TV News"
-    ],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "e9d9825ace0a",
-    "title": "YouTube Goes All-In on Creator Shows, Pitches Itself as the Future of Media",
-    "url": "https://www.adweek.com/convergent-tv/youtube-brandcast-2026-creators/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-05-13T17:30:00+00:00",
-    "summary": "With a slate of creator shows that look a lot like TV, YouTube is daring advertisers to treat it that way.",
-    "image_url": null,
-    "tags": [
-      "General",
-      "TV Upfronts"
-    ],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 14
-  },
-  {
     "id": "64a4f63d5626",
     "title": "AMD’s best CPU tech for gamers is coming to workstations too",
     "url": "https://www.theverge.com/tech/930132/amd-ryzen-pro-9000-series-3d-v-cache",
@@ -334,6 +294,24 @@
     "relevance_score": 14
   },
   {
+    "id": "e9d9825ace0a",
+    "title": "YouTube Goes All-In on Creator Shows, Pitches Itself as the Future of Media",
+    "url": "https://www.adweek.com/convergent-tv/youtube-brandcast-2026-creators/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-05-13T17:30:00+00:00",
+    "summary": "With a slate of creator shows that look a lot like TV, YouTube is daring advertisers to treat it that way.",
+    "image_url": null,
+    "tags": [
+      "General",
+      "TV Upfronts"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 13
+  },
+  {
     "id": "2698ce7bd111",
     "title": "Adobe's Semrush Partners With AI 'Vibe Code' Platform 05/14/2026 - MediaPost",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPZnM5Y2JWR1ZIOXNUS3ZNVnVPYXY0Q1AtQ1F1bUJ3MGhOSk5iTU5MNjNLYmxLc0hkeFNxXzVMWjl5QjRWQnFNV2xHTUhVYTlxdHpkaTVQYmNHN1VqWEZUd1NReER6azlVVFREWlBSNTdhblRzRmNMUHZIc3NyX1RaRFUxakF2SDNnNGNPak4ybGtkalJxMTAzMkRGT1BTc2IyZ1JYRkZrX21Bdw?oc=5",
@@ -346,27 +324,6 @@
     "industries": [
       "media",
       "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "07dce60de129",
-    "title": "Netflix’s First Live MMA Fight Will Be Ronda Rousey’s Last",
-    "url": "https://www.forbes.com/sites/danafeldman/2026/05/13/netflixs-first-live-mma-fight-will-be-ronda-rouseys-last/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-05-13T21:11:21+00:00",
-    "summary": "Ronda Rousey faces Gina Carano in Netflix’s first live MMA event, a comeback fight Rousey says will be her last.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a04e4db9ec2cc96b07fc5b1/0x0.jpg?width=960&precrop=1280%2C721%2Cx0%2Cy107",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "media"
     ],
     "relevance_score": 13
   },
@@ -406,23 +363,6 @@
     "relevance_score": 12
   },
   {
-    "id": "77ffe12423b2",
-    "title": "#e4mExclusive: FAST services are not telecom services: Sony, JioStar push back against TRAI - Exchange4Media",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQUlfWFV5a1pyUEM0dU9EMVBmaEhvbElmcE1YNnFkOHI1QW92V19DSzFkbDRmWDkxT2IxdXZQdVJzUFF1Q1JSVEp5SEhjaS1teUt6ZV84RkRrRHBja05jc0pNbldTd2txX0VmeVBJejRMQS16Q3EtbFF1R01qMUxaMlcybllieWlyS0VZZk1EQ1hPQ29SMEpuSTEwRklCNVdyY2RxQ0tNMVpsV1FTaU1XeXM1Y3B5SmpucFFHN0dLQVVkQ3FocEpYdVpZVQ?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-05-14T05:14:07+00:00",
-    "summary": "#e4mExclusive: FAST services are not telecom services: Sony, JioStar push back against TRAI Exchange4Media",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "telecom",
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
     "id": "b1a7381d1b35",
     "title": "How Home Depot is crafting content on the road to the World Cup",
     "url": "https://www.retaildive.com/news/how-home-depot-is-crafting-content-on-the-road-to-the-world-cup/819857/",
@@ -439,6 +379,23 @@
     "relevance_score": 11
   },
   {
+    "id": "77ffe12423b2",
+    "title": "#e4mExclusive: FAST services are not telecom services: Sony, JioStar push back against TRAI - Exchange4Media",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQUlfWFV5a1pyUEM0dU9EMVBmaEhvbElmcE1YNnFkOHI1QW92V19DSzFkbDRmWDkxT2IxdXZQdVJzUFF1Q1JSVEp5SEhjaS1teUt6ZV84RkRrRHBja05jc0pNbldTd2txX0VmeVBJejRMQS16Q3EtbFF1R01qMUxaMlcybllieWlyS0VZZk1EQ1hPQ29SMEpuSTEwRklCNVdyY2RxQ0tNMVpsV1FTaU1XeXM1Y3B5SmpucFFHN0dLQVVkQ3FocEpYdVpZVQ?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-05-14T05:14:07+00:00",
+    "summary": "#e4mExclusive: FAST services are not telecom services: Sony, JioStar push back against TRAI Exchange4Media",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "telecom",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "94823f81d58e",
     "title": "Heineken focuses agency roster on fewer future-fit partners",
     "url": "https://www.marketingdive.com/news/heineken-focuses-agency-roster-on-fewer-future-fit-partners/819831/",
@@ -450,23 +407,6 @@
     "tags": [],
     "industries": [
       "media",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "bd138fece38d",
-    "title": "TV upfronts 2026—day 1 takeaways and buyer reactions to NBCUniversal, Fox and Amazon - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWS1xY2R0QkJJbkdPeklGUEpDNWx4bVRwMEpLSzc4NDQxQ3dHOUc5ZUZHUmllVE9pdER3cXJRRUtjSkpKbGdjc3h3NGszNWZyU3FXcXdKeFNmU3d0b3dGNnY1VFJNSUZWdlpLTWZQM0NfS09uaGFBbzVseC1QTmpWaTRUNVF5b2NFSEZLSlY4SFhDVFV3N1BYc01waXZwM00?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-05-12T09:00:00+00:00",
-    "summary": "TV upfronts 2026—day 1 takeaways and buyer reactions to NBCUniversal, Fox and Amazon Ad Age",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "retail",
       "industrial"
     ],
     "relevance_score": 10
@@ -491,24 +431,6 @@
     "relevance_score": 10
   },
   {
-    "id": "9462c053007c",
-    "title": "Top 10 USA-Based Fintech App Development Agencies - vocal.media",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYnlXZ1NPQkJoWmJnd3Z1dlBMcTNSbmhMQldqWlhnQ2xzMjMwR0tlMUM3NGhoMkNQVlRlSTNpNjJGMF9WNHlpRFV0ZWt2UkNHbllfVzk4Nkx2Qjl3c1VWWWhaNXN0S2p0NFFXZG1ocmc3RUJ1a0JtenRqZkVJZFI3N1JOMWl1UQ?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-05-13T15:28:33+00:00",
-    "summary": "Top 10 USA-Based Fintech App Development Agencies vocal.media",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "tech",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "cd9534d33fb1",
     "title": "The broken pipeline of mental healthcare for LGBTQ teenagers",
     "url": "https://www.fiercehealthcare.com/providers/broken-pipeline-mental-healthcare-lgbtq-teenagers",
@@ -526,13 +448,48 @@
     "relevance_score": 9
   },
   {
-    "id": "8ce553ccdaeb",
-    "title": "Asiacell and 1001 accelerate Iraq's digital transformation through telco-powered streaming innovation - ZAWYA",
-    "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQUEp1S1hab1R1TVJyREV0amRaTEtxVkg3TnI3T1dPUmhESEtRWG5OMWJWTkxSTjBxdnhzQy1YYUxZazRDb2VYTzIxdERlUjRteVcxblZmazNPdk5URmpCYmswNkZDanNxZWtCak5OUHNoZ0xMOU9nTEZpbjZZM3pVN19ycnZrX052d1NOb1JYYi1FRm54aHVfWm5ZQ1FGSDc5NFFkcEJnZ3lfeDkyMEVNdGRidmR5T2ZFcDNGRmE0eFZtSnhIZDhzUFVldlF5YzI3QWI1UWF4UFg2ZG9KLVk1ZE96UzhocFV2R2FIU3F2eENITWxkZHc?oc=5",
+    "id": "bd138fece38d",
+    "title": "TV upfronts 2026—day 1 takeaways and buyer reactions to NBCUniversal, Fox and Amazon - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOWS1xY2R0QkJJbkdPeklGUEpDNWx4bVRwMEpLSzc4NDQxQ3dHOUc5ZUZHUmllVE9pdER3cXJRRUtjSkpKbGdjc3h3NGszNWZyU3FXcXdKeFNmU3d0b3dGNnY1VFJNSUZWdlpLTWZQM0NfS09uaGFBbzVseC1QTmpWaTRUNVF5b2NFSEZLSlY4SFhDVFV3N1BYc01waXZwM00?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-05-12T09:00:00+00:00",
+    "summary": "TV upfronts 2026—day 1 takeaways and buyer reactions to NBCUniversal, Fox and Amazon Ad Age",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "9462c053007c",
+    "title": "Top 10 USA-Based Fintech App Development Agencies - vocal.media",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYnlXZ1NPQkJoWmJnd3Z1dlBMcTNSbmhMQldqWlhnQ2xzMjMwR0tlMUM3NGhoMkNQVlRlSTNpNjJGMF9WNHlpRFV0ZWt2UkNHbllfVzk4Nkx2Qjl3c1VWWWhaNXN0S2p0NFFXZG1ocmc3RUJ1a0JtenRqZkVJZFI3N1JOMWl1UQ?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-05-13T15:28:33+00:00",
+    "summary": "Top 10 USA-Based Fintech App Development Agencies vocal.media",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "4b4d76f34d0c",
+    "title": "Asiacell and 1001 Accelerate Iraq's Digital Transformation Through Telco-Powered Streaming Innovation - PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxQUFRpc19Eakd6NXBkcDUzRzV4YnNPZ0Y2WHFvQzd0S2YtN0o0NXlWNXpKQWRTcWxPeDM4dHdBTGlNdGMycExEM0MyYV9aX1Y4OUtYLVBTZXk0bGJtR3A0YzMtOFNuR3hocGlNWXlORlJmckllMVYteEI0U0xrdXFTZlNQbjVzcWRyQVJJc2NPNEt2RjFqeVNqMWNOWXBFNE8xcVh5c2pVcFlFaXZjdmxxZlQ1Njc0cUhLcEN2Y3FUblJDSDNDc2lETEItbTNiVHcxalBEWDh2SG1OM1BUYm5XenlPUHVaMjJNQjBjd1pNVzk?oc=5",
     "source": "Telecom Digital",
     "source_category": "industry_telecom",
-    "published": "2026-05-11T15:09:57+00:00",
-    "summary": "Asiacell and 1001 accelerate Iraq's digital transformation through telco-powered streaming innovation ZAWYA",
+    "published": "2026-05-11T13:56:00+00:00",
+    "summary": "Asiacell and 1001 Accelerate Iraq's Digital Transformation Through Telco-Powered Streaming Innovation PR Newswire",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -556,22 +513,6 @@
       "financial"
     ],
     "relevance_score": 7
-  },
-  {
-    "id": "da253dc716e3",
-    "title": "AI agents are making media buying mistakes—how to catch and prevent them - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxNR1lkc2NpR2FtNXBnd3RRcmwyWEZ3enRvSTRGanJQUm8tc0tsWEtDX25qSFl3T3hDRGdROEVxakhQRDNFSEVaSlExMk1Hby1falBHdFZFLXZwTS1UUUhINEF1WWk1ODl6NUJuWmpOdFpuWVpRVFgxeFJwWGh1VzdpeGdVREwxN3VUWDRGMVlmV0gyT1F0V1NB?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-05-07T09:00:00+00:00",
-    "summary": "AI agents are making media buying mistakes—how to catch and prevent them Ad Age",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 5
   },
   {
     "id": "9301dc9e57b6",
