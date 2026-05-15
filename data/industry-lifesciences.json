@@ -13,7 +13,7 @@
       "consumer",
       "lifesciences"
     ],
-    "relevance_score": 44
+    "relevance_score": 41
   },
   {
     "id": "9015007ce8ce",
@@ -29,26 +29,12 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 33
-  },
-  {
-    "id": "a7773434c8b0",
-    "title": "AI research papers are getting better, and it’s a big problem for scientists",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/930522/ai-research-papers-slop-peer-review-problem",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-05-15T11:00:00+00:00",
-    "summary": "Last summer, Peter Degen's postdoctoral supervisor came to him with an unusual problem: One of his papers was being cited too much. Citations are the currency of academia, but there was something unusual about these. Published in 2017, the paper had assessed the accuracy of a...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268512_PHOTO-_Research_papers_are_overrun_with_AI_slop_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "AI",
-      "Science"
-    ],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 16
+    "relevance_score": 29,
+    "also_covered_by": [
+      "Adobe Inc",
+      "Adobe",
+      "Fintech"
+    ]
   },
   {
     "id": "de2600936da5",
@@ -70,6 +56,70 @@
     ]
   },
   {
+    "id": "d36559a77d53",
+    "title": "Epic grows EHR footprint among small health systems even as overall market sales decline in 2025",
+    "url": "https://www.fiercehealthcare.com/health-tech/epic-continues-grow-ehr-market-share-it-makes-gains-small-health-systems",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-14T17:00:00+00:00",
+    "summary": "The number of hospitals impacted by EHR purchase decisions dropped 40% compared to 2024, KLAS Research reported. Despite the slowdown, Epic's share of the U.S. EHR market continued to inch up, primarily driven by contract decisions at smaller health systems.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1466580660.jpg?VersionId=WMvgHeE8wIuEF9lKsvlcmEIF_U3i.tgR",
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "8d5f41eb8de4",
+    "title": "RxUtility: Interview With Founder & CEO Miriam Paramore About The Healthcare API Company - Pulse 2.0",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFA0andKTEp5UWRxeUxiTG9EMDBaUWFrTWwtZ21hU3RaZ3JzaDVJNzJfRGtkTDVrdXc3RU9kNXg1LXNHWkt0ZlZqekd4cjB5cDN3VlJlVHEtTkxVd2hPbzdsZHFVT2E1M0hmbjdHS3ZxNjTSAXZBVV95cUxNUmloTE85bVV0RnJqTlNuV1RLWU9ZUHdNaS1tem1ub1ZkdWlPYnhuVWZIbDRlV0E1Y1RfTFgta1BONWpJMFR5eGdrRHNqZ19uM3VIT1RHbExZelp6SXh3NllHLWNFUzFvYk9wNUFlVU1RQVkxU013?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-15T16:48:03+00:00",
+    "summary": "RxUtility: Interview With Founder & CEO Miriam Paramore About The Healthcare API Company Pulse 2.0",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "ffd6f3986c08",
+    "title": "SCOTUS temporarily restores telehealth access to abortion pill mifepristone",
+    "url": "https://www.fiercehealthcare.com/pharma/scotus-restores-telehealth-access-abortion-pill-mifepristone",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-15T10:39:00+00:00",
+    "summary": "The U.S. Supreme Court has issued an emergency order, temporarily blocking a federal appeals court ruling in Louisiana which would have prevented the abortion pill mifepristone from being prescribed over the phone and sent through the mail in the United States.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1300444456.jpg?VersionId=A0wCTL9XgFvBpKGnTKsM6A0P9R6PCNgp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "52f2403b3db2",
+    "title": "Supreme Court preserves access to abortion pill by mail",
+    "url": "https://www.healthcaredive.com/news/supreme-court-preserves-access-abortion-pill-mail-mifepristone/820337/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-15T13:02:52+00:00",
+    "summary": "The ruling maintains access to mifepristone while litigation continues. The drug can still be prescribed at pharmacies or by mail without requiring in-person visits.",
+    "image_url": "https://imgproxy.divecdn.com/lJSkt9W5pIILgMVg7j96bidS1q7vwiTyULlsfcKRcvE/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgxOTUyMjI2X3VORzU2T0IuanBn.webp",
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 13
+  },
+  {
     "id": "cfd271078094",
     "title": "Oracle adds Cleveland Clinic CEO to board of directors",
     "url": "https://www.healthcaredive.com/news/oracle-adds-cleveland-clinic-ceo-tomislav-mihaljevic-board/820185/",
@@ -81,54 +131,6 @@
     "tags": [],
     "industries": [
       "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "d053be698e2f",
-    "title": "Physicians skeptical of insurer pledges to reform prior authorization: survey",
-    "url": "https://www.healthcaredive.com/news/physicians-skeptical-insurer-pledges-reform-prior-authorization-ama/820126/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-14T15:23:00+00:00",
-    "summary": "Only 33% of physicians surveyed by the American Medical Association said they believed voluntary pledges made by major insurers last year to reform prior authorization would result in any meaningful difference to the industry.",
-    "image_url": "https://imgproxy.divecdn.com/iwZgePWB3GETI6LvipaEZlw2urrd-tSEnKET472dJyI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzAyODQyMzk0LmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "332821641931",
-    "title": "1 in 5 marketplace enrollees dropped their coverage in 2026: media report",
-    "url": "https://www.fiercehealthcare.com/payers/1-5-marketplace-enrollees-dropped-their-coverage-2026-media-report",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-12T14:50:00+00:00",
-    "summary": "About 21% of people who enrolled in coverage through Healthcare.gov have dropped out this year, according to a new report.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/CMS%20phone.png?VersionId=GDKI5up_xY_ub1A925Vzjwm3Sb2v_jkf",
-    "tags": [],
-    "industries": [
-      "media",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "386ace0d78bb",
-    "title": "Docs more burned out, skeptical of AI than nurses, survey report finds",
-    "url": "https://www.fiercehealthcare.com/providers/elsevier-report-finds-docs-more-burnt-out-skeptical-ai-nurses",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-13T14:52:00+00:00",
-    "summary": "Across many measures, doctors struggle more than nurses, the report found, and have a more negative view of how their organizations use AI.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1399177454%20%281%29.jpg?VersionId=XyqVFkRN51WxFLedihB4azrL9Fo8xh11",
-    "tags": [],
-    "industries": [
       "lifesciences"
     ],
     "relevance_score": 12
@@ -170,65 +172,85 @@
     "relevance_score": 12
   },
   {
-    "id": "ce15225f56b4",
-    "title": "Court approves sale of CVS' Omnicare unit to GenieRx Holdings",
-    "url": "https://www.fiercehealthcare.com/payers/court-approves-sale-cvs-omnicare-unit-genierx-holdings",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-14T13:26:00+00:00",
-    "summary": "CVS' Omnicare unit has secured court approval to sell its business to virtual care company GenieRx Holdings, the healthcare giant announced Thursday.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/gavel-Pixabay__480_1.jpg?VersionId=mgww6fxASTTokbjPmSYh32Lg6phbaYTX",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "cea8f1f361d7",
-    "title": "Labcorp expands Epic pact to make full test menu available",
-    "url": "https://www.healthcaredive.com/news/labcorp-expands-epic-pact-to-make-full-test-menu-available-on-aura/820262/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-14T14:00:00+00:00",
-    "summary": "The Labcorp agreement continues the expansion of Aura, which gives healthcare providers access to tests from companies including Quest Diagnostics.",
-    "image_url": "https://imgproxy.divecdn.com/IiKM5ORO_zS5WgSM-GVsM2ALaqxcSh3TPRJpTiiRkD4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzAxNjQ1MTIwLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "949a8cc5e40b",
-    "title": "Bipartisan lawmakers reintroduce bill barring PBMs from owning pharmacies",
-    "url": "https://www.fiercehealthcare.com/regulatory/bipartisan-lawmakers-reintroduce-bill-barring-pbms-owning-pharmacies",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-14T14:12:00+00:00",
-    "summary": "A bipartisan group of lawmakers in both chambers of Congress has reintroduced a bill aimed at barring companies from owning both a pharmacy benefit manager and retail pharmacies.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202024-09-25T135647.552.jpg?VersionId=lq570SshFNMgqy.J23tNIGUCUD07vAS9",
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "4d55aa5ff6c3",
-    "title": "Caris Life Sciences Publishes Study on the Caris Lookback Program Demonstrating the Ongoing Clinical Value of Comprehensive Testing with Caris MI Cancer Seek - StreetInsider",
-    "url": "https://news.google.com/rss/articles/CBMitwJBVV95cUxQVHlaMlpSeUhjQ2p0TjJhTzVmVjE3anlqbG14cURjUjB2TEs4aXJXY2VleGlaZGVBeDdBLTBEX3lDSi16V0ZpbExqWGNNUUlIWEZRZHliRGRZbVdHMTVPYXozTWIwcGx1MW5IemtWU2dUOXZWUGJCQ1l1RHBuTktHSVVidDJ2NEh0T2dCRkQ3elBLXzRNTXE4Z09HU29Za0tUVFBPRUliNlhLSFpzUjJXTG9kT2F4OEFuM0JDNVpUd1V0a1hTYkVpaVFaYUQtZkJJSDBDU0lSa2FNSnpZQkRkdjdxb1hxUm5kaFhpb3Bvcjk3Rmk0TF9PZ0dUMHNSNzFyNTFjeExrd0lJTjFaREMxZ2xkdU0yNTVrX09lRWFwMFdha2FYZUt4LVRqQUthdjVsekJuelptOA?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-15T12:31:01+00:00",
-    "summary": "Caris Life Sciences Publishes Study on the Caris Lookback Program Demonstrating the Ongoing Clinical Value of Comprehensive Testing with Caris MI Cancer Seek StreetInsider",
+    "id": "c1e6fb625440",
+    "title": "FDA Approves Fasenra for Hypereosinophilic Syndrome - Pharmaceutical Executive",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPTlBFX3haQW42TUxPWFlBZEI1bDlzSlVWZFQwR2JQOU9QLVQ3cnNfcHZLbzNNQW0xM2hKR3RockIyeWZCamZLMmYyVmlRb3hONENxb3Y4Y2VNSHMxTmlxR2hrc1p6QWNydkVWQ3VNZ1dILTNoWjJsYlpHcFNqVGxLeWx2UkM?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-05-15T13:36:48+00:00",
+    "summary": "FDA Approves Fasenra for Hypereosinophilic Syndrome Pharmaceutical Executive",
     "image_url": null,
     "tags": [],
     "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 12,
+    "also_covered_by": [
+      "Biotech"
+    ]
+  },
+  {
+    "id": "c2d4aa5e0047",
+    "title": "Health Tech Weekly Rundown: Headspace launches Apple Watch app - Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPOWh1WUVWc3JQQzVnZWZjdHZnTjdfT0F1c3NvVzlOelJEZ2V2UjdJN2FBalNBemQ5QzVIeUNVQjExZVJCZWhkbU5hMDZGczdBX2hRMURoWmhqcTljY1pQQkZmUjBoWlNsSkYyamdmcHV1alJ3ZlBBbmk2aGpQd0JaWndpenk4eHNDX3gzVTBLV1hsTFY2UG1Mb1ZEV1F5UEowUzlmczJiN0RUdllqbVFraVJFaDhNQWIxcGRVRU9pTlQxOTg?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-15T14:00:00+00:00",
+    "summary": "Health Tech Weekly Rundown: Headspace launches Apple Watch app Fierce Healthcare",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 12,
+    "also_covered_by": [
+      "Fierce Healthcare"
+    ]
+  },
+  {
+    "id": "6b6952225d2b",
+    "title": "Inside Day 5 of Quebec’s digital health record rollout at Jean-Talon Hospital - Epic Systems",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNTHc2YUtiUEhQd3lKU3RUZ2N6SDlDcXRNalBHNmIxblRoNm1nNnNhMGJLLUd2RXBxcHNKeWNqaFlDWUFmb093UUJRdDhxcVFYRFU2MDh1eEw1aGIxTjlXZEItVjNERGJZdmloZ0R1V3VTcG1HejA3YUJlM0VtVlFsQlR6WnpNQ0NDYXlaVHFCWUt0ejJRMHhBWHh6bjItZkpudHpwdHc5SndpbDhE?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-15T15:56:27+00:00",
+    "summary": "Inside Day 5 of Quebec’s digital health record rollout at Jean-Talon Hospital Epic Systems",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "386ace0d78bb",
+    "title": "Docs more burned out, skeptical of AI than nurses, survey report finds",
+    "url": "https://www.fiercehealthcare.com/providers/elsevier-report-finds-docs-more-burnt-out-skeptical-ai-nurses",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-13T14:52:00+00:00",
+    "summary": "Across many measures, doctors struggle more than nurses, the report found, and have a more negative view of how their organizations use AI.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1399177454%20%281%29.jpg?VersionId=XyqVFkRN51WxFLedihB4azrL9Fo8xh11",
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "d053be698e2f",
+    "title": "Physicians skeptical of insurer pledges to reform prior authorization: survey",
+    "url": "https://www.healthcaredive.com/news/physicians-skeptical-insurer-pledges-reform-prior-authorization-ama/820126/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-14T15:23:00+00:00",
+    "summary": "Only 33% of physicians surveyed by the American Medical Association said they believed voluntary pledges made by major insurers last year to reform prior authorization would result in any meaningful difference to the industry.",
+    "image_url": "https://imgproxy.divecdn.com/iwZgePWB3GETI6LvipaEZlw2urrd-tSEnKET472dJyI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzAyODQyMzk0LmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 11
@@ -249,7 +271,6 @@
     ],
     "relevance_score": 10,
     "also_covered_by": [
-      "Fierce Healthcare",
       "Biotech"
     ]
   },
@@ -271,35 +292,83 @@
     "relevance_score": 10
   },
   {
-    "id": "ae1e81600f4f",
-    "title": "Digital Health Has Become Emotionally Embedded In Daily Life As 71% Of Americans Use Health Apps And 64% Use Health Devices, New Reach3 Insights Study Shows - PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMiswJBVV95cUxPSGNTb1NIdlZudm1sSndya3lBNDBEYXB4WjA3RUxPUHR6STJTbXF3QXFrb0dWZFZXSEVPcFprLU9yNzJLWThXMHMtTEVfUk5hdl8xZzdsWjlPWkEwZkJtaTg4UnJaQ3I0a09vYVhzMTVYQ0tyS1h6V0lnWXVwQ3JHZzNDcVcyOUJERC1OTGZhTjdGQ2pCdUQ5NWE3THZ3UWtEc0ppcEJyNG42cEdzaEtKc2Vicm9zOGpfQ2lMdWp0UUZISWVrbWJxZW9WdFM1aEo2c0M0SktIVzk4dUVPMmVEY194LXRyRW15LUhzYVVOMklHTWxINEM3WU5md1E2ZkpDR3c4TjdqZWJ5R0FhazYxLTl6dFZUbFJZSzI3dkhRUDhHTng4d3JMNnlESWRHQ2wtelN3?oc=5",
-    "source": "Health Tech",
+    "id": "596ab11ff541",
+    "title": "Caris Life Sciences Publishes Study on the Caris Lookback Program Demonstrating the Ongoing Clinical Value of Comprehensive Testing with Caris MI Cancer Seek - PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMiuAJBVV95cUxNZWxGZHR2UnhjeFFtdkNfeUNDcmVBZmdJbFBETHkwSUNhN25XakVrdF9VSzRDUnRqOUNJTnNpeXc2aUpvV1owblRDaVFqNllKY0VJLVFWblpEYlh5b005Rk5WNi1pWTdJUkZESVVkRklpdmY3eGZYZllKY2pCZnFVcHdBQkpaeDUzQ0ZNVnp0SkdGckkxcVFTWTRQRnUzVUVycTdLb1BmTXZGdXpSRFZmaWtyaTV2bk9rUmJ0Y0VQXzNwX0NHNklEU3JNdXpuZFJkZ0o2c09iXzJ2a2xzRHBDb0FJQUFYWUtEVHh3UlJPaEF4RXJoUUFGSklRZGVBTS1HbXRJa3NyR3B5clZZVVQxQWlkWmpBN0F0NTNocEJST3ZSM0gwTjF0WEM5aEM4ZFgtOGE5S3FLdmo?oc=5",
+    "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-05-14T12:35:00+00:00",
-    "summary": "Digital Health Has Become Emotionally Embedded In Daily Life As 71% Of Americans Use Health Apps And 64% Use Health Devices, New Reach3 Insights Study Shows PR Newswire",
+    "published": "2026-05-15T12:30:00+00:00",
+    "summary": "Caris Life Sciences Publishes Study on the Caris Lookback Program Demonstrating the Ongoing Clinical Value of Comprehensive Testing with Caris MI Cancer Seek PR Newswire",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
       "lifesciences"
     ],
     "relevance_score": 10
   },
   {
-    "id": "aac4562873f5",
-    "title": "Cambodia launches Digital Health Information System to strengthen decision-making nationwide - Gavi, the Vaccine Alliance",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOemxjZURfSWpmc1NsYkRLSWItbkxiRTJuUGVTbm1EenFoSkF1dFRDZlctblBXNTZJZ0dpNGIxOG1FSkY2YS1MRnhzNkZUa2NQRzRwUTRrcHpjMnZJeE9zdGRhSEZCdksybDhZczIxZ3l2ZkQxODFFSXlTQ0R5R1E0dTI5Wk1lRDJEdHh6MHlISjAyMlFHaUdyY2l1SGdWbTdWMkRudmxQOVp2LWp5QWJKSWk5RmpRQQ?oc=5",
+    "id": "720e351eff9f",
+    "title": "Tech-Ignored: How AI Innovation Is Widening The Digital Health Divide - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXZ3NktGTlNoUmJKVmhGNk5pYVhLTWdpVmpqbXRETF9UWDhVUWlaU2tLcTBIYlltaWxEMUZ0YVBncXBDZ3A2c3pKZEJDVFZsMUNiOVF0YzhMa1ZmVXZOMlNXN1cyQWczTktmZEg5aVd5WHp3X3pncHNHYVBNWmI3TDd4VXE2WlpsV3FDN2dVR0hTR0QyX2ptNjl1clE0V0ZKTHV4cGtUeVRpaGRMaG9TNjB6bTd3cEJfSm5pS0s3UjI5cWM?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-05-15T07:42:40+00:00",
-    "summary": "Cambodia launches Digital Health Information System to strengthen decision-making nationwide Gavi, the Vaccine Alliance",
+    "published": "2026-05-15T17:05:45+00:00",
+    "summary": "Tech-Ignored: How AI Innovation Is Widening The Digital Health Divide Forbes",
     "image_url": null,
     "tags": [],
     "industries": [
       "lifesciences"
     ],
     "relevance_score": 10
+  },
+  {
+    "id": "ce15225f56b4",
+    "title": "Court approves sale of CVS' Omnicare unit to GenieRx Holdings",
+    "url": "https://www.fiercehealthcare.com/payers/court-approves-sale-cvs-omnicare-unit-genierx-holdings",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-14T13:26:00+00:00",
+    "summary": "CVS' Omnicare unit has secured court approval to sell its business to virtual care company GenieRx Holdings, the healthcare giant announced Thursday.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/gavel-Pixabay__480_1.jpg?VersionId=mgww6fxASTTokbjPmSYh32Lg6phbaYTX",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "cea8f1f361d7",
+    "title": "Labcorp expands Epic pact to make full test menu available",
+    "url": "https://www.healthcaredive.com/news/labcorp-expands-epic-pact-to-make-full-test-menu-available-on-aura/820262/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-14T14:00:00+00:00",
+    "summary": "The Labcorp agreement continues the expansion of Aura, which gives healthcare providers access to tests from companies including Quest Diagnostics.",
+    "image_url": "https://imgproxy.divecdn.com/IiKM5ORO_zS5WgSM-GVsM2ALaqxcSh3TPRJpTiiRkD4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzAxNjQ1MTIwLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "949a8cc5e40b",
+    "title": "Bipartisan lawmakers reintroduce bill barring PBMs from owning pharmacies",
+    "url": "https://www.fiercehealthcare.com/regulatory/bipartisan-lawmakers-reintroduce-bill-barring-pbms-owning-pharmacies",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-14T14:12:00+00:00",
+    "summary": "A bipartisan group of lawmakers in both chambers of Congress has reintroduced a bill aimed at barring companies from owning both a pharmacy benefit manager and retail pharmacies.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202024-09-25T135647.552.jpg?VersionId=lq570SshFNMgqy.J23tNIGUCUD07vAS9",
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 9
   },
   {
     "id": "f42c43e66f55",
@@ -314,7 +383,7 @@
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 10
+    "relevance_score": 9
   },
   {
     "id": "d01ea9863f71",
@@ -330,7 +399,7 @@
       "tech",
       "lifesciences"
     ],
-    "relevance_score": 10
+    "relevance_score": 9
   },
   {
     "id": "2444a9764991",
@@ -343,53 +412,6 @@
     "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/fiercebiotech/1610109029/UCSF.jpg/UCSF.jpg?VersionId=OEAL8yQ9qTvTGDDyT4k6sU1JZFk5.pJ1",
     "tags": [],
     "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "1f3761476859",
-    "title": "Digital Health Technophobia Divides Older Patients - EMJ",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUdWM21uMjRFV0FNblRmMzc2czQ0OXluWUF4YXh2cVNKYTc4ajZDMFdHWm45S3hlN1JUektITDBjSFlHZllsWkhldExDOC0yXzYxdThEbGFDVVQwLXFWenAtR3kydFB0SXRNTnZYSmVYMm02ZkIwbmpjSmNlbWsyeUtQekJXQW1Fd3A4S29vdi1HbldXLVhV?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-15T07:50:16+00:00",
-    "summary": "Digital Health Technophobia Divides Older Patients EMJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "0953025e0329",
-    "title": "EPS HEALTH TECH Terminates Acquisition of Stake in China Genetic - AASTOCKS.com",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxOMFlscmZ2RDBZd2lINGpNbWprX3Nwckx4WlJyVTNOeU9vZ0E2NTFpX09QZUJFbTFKZ3hrdjRpc1duYVlHcVVhR1VqcTYwSDZ5dnFzUXJxai03WXhXNGRmLWZ3cTFjbEJ2NGwxbTdVTVZ0VGJPS2FLTm9waFhyMHR1MEc2cEE?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-15T08:34:00+00:00",
-    "summary": "EPS HEALTH TECH Terminates Acquisition of Stake in China Genetic AASTOCKS.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "5357c80b9076",
-    "title": "Bayesian Health gets FDA nod for AI sepsis detection tool",
-    "url": "https://www.healthcaredive.com/news/bayesian-health-gets-fda-nod-for-ai-sepsis-detection-tool/820107/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-12T15:55:59+00:00",
-    "summary": "Created by Johns Hopkins University researchers, the early warning system for sepsis aims to help physicians detect the serious condition earlier.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 8
@@ -442,6 +464,24 @@
     "industries": [
       "lifesciences"
     ],
+    "relevance_score": 8,
+    "also_covered_by": [
+      "Healthcare Digital"
+    ]
+  },
+  {
+    "id": "1f3761476859",
+    "title": "Digital Health Technophobia Divides Older Patients - EMJ",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPWUdWM21uMjRFV0FNblRmMzc2czQ0OXluWUF4YXh2cVNKYTc4ajZDMFdHWm45S3hlN1JUektITDBjSFlHZllsWkhldExDOC0yXzYxdThEbGFDVVQwLXFWenAtR3kydFB0SXRNTnZYSmVYMm02ZkIwbmpjSmNlbWsyeUtQekJXQW1Fd3A4S29vdi1HbldXLVhV?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-15T07:50:16+00:00",
+    "summary": "Digital Health Technophobia Divides Older Patients EMJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
     "relevance_score": 8
   },
   {
@@ -457,55 +497,7 @@
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 7
-  },
-  {
-    "id": "330587ee50e9",
-    "title": "Agentic Hospitality’s Brad Brewer to Speak to HSMAI Hawaii Members on ‘Winning Bookings in the Age of AI’ - Hospitality Net",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeXZmLU54eDNfOHVjTVUyVW5iQllLdi1maTVsS1EzeHJnczB1NE43ZlBzNjNUaDlLd2h6OUFBNkIzQ1ctcGR5d3JWU0xoTlBlTVRKNVc1dDRBOGIyMHU3cVRjUlZrNVZtSko0VWYxaEQ0bkFxak9TbDZYaXRxcndZZkNkWTVNaXlleFh1empmN0tHZU9OaW9Nel9JUXhhV1lJZkVZRElBMFU3Rjl6UWkwb2ZuQWlfZld2aWdXY2JnS283d3o1RFktSnZEeUJ0VUZvbE9ULVRTUjQwOW9HSkJB?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-05-12T14:00:00+00:00",
-    "summary": "Agentic Hospitality’s Brad Brewer to Speak to HSMAI Hawaii Members on ‘Winning Bookings in the Age of AI’ Hospitality Net",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
     "relevance_score": 6
-  },
-  {
-    "id": "ecd8892c313f",
-    "title": "How Bunkerhill Health secured CMS payment for AI cardio analysis - Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRl95akhFcV9VRXNZZl9OdEY0MGQwOEF6V2pJYndRZ091NDUtRUM1emt4TWU0YUpsa3Y2VWExYlhDVldsR2FnQmh5eTF0ZnJzTWxOamRlcld5VDVqMXVQUW5hOFYzNDNSMC1rTGxEa0ZfSGJIZ0FxWjlNRUxoUGNRY25hd1c4SVFRWHVqM1ZPVjg3T3ZWOWJqZnNndFVSX3Vyemx6Yzdtd215b21TUjhSZUxuMDVqZURhTEVBUVZUdnFmQXcwOU0tRGt3?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-13T16:30:00+00:00",
-    "summary": "How Bunkerhill Health secured CMS payment for AI cardio analysis Fierce Healthcare",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "8f6365f0692b",
-    "title": "Gene Therapy Briefs: Regeneron Wins FDA Approval for First Neurosensory Gene Therapy - Genetic Engineering and Biotechnology News",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOSFp1TkRMTDIzSk5PQnlzUWpvdC1DWlc3YUhzUTBJcUpGMDNmLWkxRWprTGhhaEx4RUxWUHdqT1FlNnhyVVVKYi10bm9HNGQ0b1I0LVZnUjE0YlVkYU5RTzN6NG54M1pJclJTZU9nQkF6d0pCYnVTSnZiZ0NULTRuU1pPQ280Z25CWkRzWV8wako2bVpSanhuUTEyUVFLb0hJYkNzbk9HMld6Tzk5Sm5OdVpVTzZiZmxvS2dzdkJGVXlyYVhJN3NFYndsOGRyUQ?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-08T14:04:35+00:00",
-    "summary": "Gene Therapy Briefs: Regeneron Wins FDA Approval for First Neurosensory Gene Therapy Genetic Engineering and Biotechnology News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 5
   },
   {
     "id": "761d11d5532b",
@@ -539,16 +531,17 @@
     "relevance_score": 5
   },
   {
-    "id": "8154878f6469",
-    "title": "Digital Fatigue: Healthcare’s Next Patient Experience Crisis - MedCity News",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMHptS1JMSVNpR3NHd3EwR0VOanVfTUFYQnhJNjItT2MtYUpTMGgtZUpwQjE0cUhlanJtOE9XSVVnNldERTlmNGdFWlJ4LXEtaXkwR29pVHpDSlFsazRxSFJrQUItWnBLQlZCZUN0WVQ4NkVoaXFza1RxQ2o0SWhtak43U2FyQ2VkQXNyRTJmZ2duOWpwUFE?oc=5",
-    "source": "Healthcare Digital",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-12T13:20:40+00:00",
-    "summary": "Digital Fatigue: Healthcare’s Next Patient Experience Crisis MedCity News",
+    "id": "330587ee50e9",
+    "title": "Agentic Hospitality’s Brad Brewer to Speak to HSMAI Hawaii Members on ‘Winning Bookings in the Age of AI’ - Hospitality Net",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNeXZmLU54eDNfOHVjTVUyVW5iQllLdi1maTVsS1EzeHJnczB1NE43ZlBzNjNUaDlLd2h6OUFBNkIzQ1ctcGR5d3JWU0xoTlBlTVRKNVc1dDRBOGIyMHU3cVRjUlZrNVZtSko0VWYxaEQ0bkFxak9TbDZYaXRxcndZZkNkWTVNaXlleFh1empmN0tHZU9OaW9Nel9JUXhhV1lJZkVZRElBMFU3Rjl6UWkwb2ZuQWlfZld2aWdXY2JnS283d3o1RFktSnZEeUJ0VUZvbE9ULVRTUjQwOW9HSkJB?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-05-12T14:00:00+00:00",
+    "summary": "Agentic Hospitality’s Brad Brewer to Speak to HSMAI Hawaii Members on ‘Winning Bookings in the Age of AI’ Hospitality Net",
     "image_url": null,
     "tags": [],
     "industries": [
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 5
@@ -587,28 +580,13 @@
     "relevance_score": 5
   },
   {
-    "id": "4557c5f5471a",
-    "title": "How AHA is helping hospitals turn proven tech into practice - Modern Healthcare News",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPeUR5QUN0S3ZKd0d1SEU4RUlKSXBrc1VvSlNKUmx4OVhFSE8xc0ZZS3I0QjlvdzRmSDRNZGZOaG1FeTFaekhxazhCWW9ZbjhWaW5aN3Q2Ti0wNnNySnpiMDZ3MXVQWkp0bWdZNXA1bmhvRjNmZzh6djI5Rk1aNWkzR0d6RUNkSmk0bUtlSDYzZTRIdGZGXzJyMlJB?oc=5",
+    "id": "ecd8892c313f",
+    "title": "How Bunkerhill Health secured CMS payment for AI cardio analysis - Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQRl95akhFcV9VRXNZZl9OdEY0MGQwOEF6V2pJYndRZ091NDUtRUM1emt4TWU0YUpsa3Y2VWExYlhDVldsR2FnQmh5eTF0ZnJzTWxOamRlcld5VDVqMXVQUW5hOFYzNDNSMC1rTGxEa0ZfSGJIZ0FxWjlNRUxoUGNRY25hd1c4SVFRWHVqM1ZPVjg3T3ZWOWJqZnNndFVSX3Vyemx6Yzdtd215b21TUjhSZUxuMDVqZURhTEVBUVZUdnFmQXcwOU0tRGt3?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-05-12T16:00:00+00:00",
-    "summary": "How AHA is helping hospitals turn proven tech into practice Modern Healthcare News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "82d61f94b763",
-    "title": "Bimini Health Tech Achieves EU MDR Certification - PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPRU50dEZiUEFCdUpycVR4NXVuaXYyeWpHR2IycEhBTDhLWFROalJ1TnFUVXRCdkNWNXRVRHlHYjZrRTFIRGlHT3JwQWNOOVJDU0Y4bEdJYnBlbkRuUTlRUHdkTXluUmc5cFRsekM2Y2FPaGN2WDZZcWJndG1kQmdSN0UydlZtQ1ZlMFBoLVZKMTNub1VGWHV5UHZFanBia3RqeGt2dldPTQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-13T13:00:00+00:00",
-    "summary": "Bimini Health Tech Achieves EU MDR Certification PR Newswire",
+    "published": "2026-05-13T16:30:00+00:00",
+    "summary": "How Bunkerhill Health secured CMS payment for AI cardio analysis Fierce Healthcare",
     "image_url": null,
     "tags": [],
     "industries": [
