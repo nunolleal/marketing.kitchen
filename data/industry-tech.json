@@ -16,7 +16,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 66
+    "relevance_score": 63
   },
   {
     "id": "b12211122833",
@@ -39,43 +39,6 @@
     "relevance_score": 61
   },
   {
-    "id": "d887872bd59a",
-    "title": "The art of doing more with less: The new marketing operations stack",
-    "url": "https://martech.org/the-art-of-doing-more-with-less-the-new-marketing-operations-stack/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-05-15T12:25:01+00:00",
-    "summary": "Stop managing tools and start orchestrating outcomes. At the May MarTech Conference we discussed untangling the ‘AI spaghetti mess’ to move forward. The post The art of doing more with less: The new marketing operations stack appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/05/martech-stack-decisions-800x450.png",
-    "tags": [
-      "MarTech Conference"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 59
-  },
-  {
-    "id": "62e1975d1f88",
-    "title": "Build a martech stack that makes it easy to manage your brand by Canto",
-    "url": "https://martech.org/build-a-martech-stack-that-makes-it-easy-to-manage-your-brand/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-05-15T11:00:00+00:00",
-    "summary": "Struggling with brand consistency? The solution isn't necessarily more tools. It's the right tools, assembled and aligned with intention. The post Build a martech stack that makes it easy to manage your brand appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/05/Canto-Article-20260515-800x450.png",
-    "tags": [
-      "Digital asset management (DAM)",
-      "Sponsored Content"
-    ],
-    "industries": [
-      "tech",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 57
-  },
-  {
     "id": "9374f0db29b6",
     "title": "The AI search shift changing B2B marketing metrics",
     "url": "https://martech.org/the-ai-search-shift-changing-b2b-marketing-metrics/",
@@ -96,6 +59,43 @@
       "industrial"
     ],
     "relevance_score": 56
+  },
+  {
+    "id": "d887872bd59a",
+    "title": "The art of doing more with less: The new marketing operations stack",
+    "url": "https://martech.org/the-art-of-doing-more-with-less-the-new-marketing-operations-stack/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-05-15T12:25:01+00:00",
+    "summary": "Stop managing tools and start orchestrating outcomes. At the May MarTech Conference we discussed untangling the ‘AI spaghetti mess’ to move forward. The post The art of doing more with less: The new marketing operations stack appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/05/martech-stack-decisions-800x450.png",
+    "tags": [
+      "MarTech Conference"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 55
+  },
+  {
+    "id": "62e1975d1f88",
+    "title": "Build a martech stack that makes it easy to manage your brand by Canto",
+    "url": "https://martech.org/build-a-martech-stack-that-makes-it-easy-to-manage-your-brand/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-05-15T11:00:00+00:00",
+    "summary": "Struggling with brand consistency? The solution isn't necessarily more tools. It's the right tools, assembled and aligned with intention. The post Build a martech stack that makes it easy to manage your brand appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/05/Canto-Article-20260515-800x450.png",
+    "tags": [
+      "Digital asset management (DAM)",
+      "Sponsored Content"
+    ],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 53
   },
   {
     "id": "1c3059fb7886",
@@ -156,25 +156,6 @@
     "relevance_score": 46
   },
   {
-    "id": "c0e531149df8",
-    "title": "Why scaling creative is really a leadership challenge",
-    "url": "https://martech.org/why-scaling-creative-is-really-a-leadership-challenge/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-05-15T12:19:00+00:00",
-    "summary": "Automation can increase output, but creative effectiveness depends on operational discipline and strategic clarity. The post Why scaling creative is really a leadership challenge appeared first on MarTech .",
-    "image_url": "https://martech.org/searchengineland.com/wp-content/seloads/2025/11/semrush-one.webp",
-    "tags": [
-      "Marketing management",
-      "Performance marketing"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 46
-  },
-  {
     "id": "764cfa71ba3e",
     "title": "A challenger brand takes on the stacks",
     "url": "https://martech.org/a-challenger-brand-takes-on-the-stacks/",
@@ -211,6 +192,25 @@
     "industries": [
       "tech",
       "consumer",
+      "industrial"
+    ],
+    "relevance_score": 42
+  },
+  {
+    "id": "c0e531149df8",
+    "title": "Why scaling creative is really a leadership challenge",
+    "url": "https://martech.org/why-scaling-creative-is-really-a-leadership-challenge/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-05-15T12:19:00+00:00",
+    "summary": "Automation can increase output, but creative effectiveness depends on operational discipline and strategic clarity. The post Why scaling creative is really a leadership challenge appeared first on MarTech .",
+    "image_url": "https://martech.org/searchengineland.com/wp-content/seloads/2025/11/semrush-one.webp",
+    "tags": [
+      "Marketing management",
+      "Performance marketing"
+    ],
+    "industries": [
+      "tech",
       "industrial"
     ],
     "relevance_score": 42
@@ -308,22 +308,6 @@
     "relevance_score": 39
   },
   {
-    "id": "74bf863299a8",
-    "title": "CeraVe taps into basketball lore for latest social-first campaign",
-    "url": "https://www.marketingdive.com/news/cerave-taps-into-basketball-lore-for-latest-social-first-campaign/819699/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-05-13T12:00:00+00:00",
-    "summary": "The effort uses what Cha Spruce, executive creative director of earned media for North America at Ogilvy, calls a “little fires everywhere” approach.",
-    "image_url": "https://imgproxy.divecdn.com/bc2b2VNYnqdNfKelZpQ72OLqPQqlFeufQvGzq2KZDvk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9KMTI2NzQzX0NFUkVWRV9OQkE1MzcyX0Nhcm1lbG8tU2FsdXRlLWZ1bGwuanBn.webp",
-    "tags": [],
-    "industries": [
-      "media",
-      "tech"
-    ],
-    "relevance_score": 38
-  },
-  {
     "id": "6751c93dca26",
     "title": "TikTok launches MCP server to let AI agents run campaigns",
     "url": "https://digiday.com/marketing/tiktok-launches-mcp-server-to-let-ai-agents-run-campaigns/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -358,6 +342,22 @@
       "industrial"
     ],
     "relevance_score": 36
+  },
+  {
+    "id": "74bf863299a8",
+    "title": "CeraVe taps into basketball lore for latest social-first campaign",
+    "url": "https://www.marketingdive.com/news/cerave-taps-into-basketball-lore-for-latest-social-first-campaign/819699/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-05-13T12:00:00+00:00",
+    "summary": "The effort uses what Cha Spruce, executive creative director of earned media for North America at Ogilvy, calls a “little fires everywhere” approach.",
+    "image_url": "https://imgproxy.divecdn.com/bc2b2VNYnqdNfKelZpQ72OLqPQqlFeufQvGzq2KZDvk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9KMTI2NzQzX0NFUkVWRV9OQkE1MzcyX0Nhcm1lbG8tU2FsdXRlLWZ1bGwuanBn.webp",
+    "tags": [],
+    "industries": [
+      "media",
+      "tech"
+    ],
+    "relevance_score": 35
   },
   {
     "id": "750fc0742b60",
@@ -427,6 +427,28 @@
     "relevance_score": 23
   },
   {
+    "id": "7b794e9bc252",
+    "title": "Cybercriminal Twins Caught After They Forgot to Turn Off Microsoft Teams Recording",
+    "url": "https://www.wired.com/story/security-news-this-week-cybercriminal-twins-caught-after-they-forgot-to-turn-off-microsoft-teams-recording/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-05-16T10:30:00+00:00",
+    "summary": "Plus: Instructure’s Canvas ransomware debacle comes to a close, an alleged dark net market kingpin gets arrested, OpenAI workers fall victim to a supply chain attack, and more.",
+    "image_url": null,
+    "tags": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Security / Privacy",
+      "Security / Security News",
+      "security roundup"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
     "id": "bad647c5b345",
     "title": "Media Briefing: BuzzFeed’s $120M sale marks another step in the repricing of digital media scale",
     "url": "https://digiday.com/media/media-briefing-buzzfeeds-120m-sale-marks-another-step-in-the-repricing-of-digital-media-scale/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -438,28 +460,6 @@
     "tags": [
       "Media",
       "Digiday+"
-    ],
-    "industries": [
-      "media",
-      "tech"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "4afe6847ecc3",
-    "title": "Eric Trump Defends President’s Stock Trades Of Nvidia, Palantir, Meta And More",
-    "url": "https://www.forbes.com/sites/alisondurkee/2026/05/15/eric-trump-defends-presidents-stock-trades-of-nvidia-palantir-meta-and-more/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-05-15T20:07:07+00:00",
-    "summary": "A new financial disclosure shows Trump has traded millions of dollars worth of stocks in companies that include Nvidia, Palantir, Meta, Disney and more.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a077c06661f1502a6ef8279/0x0.jpg?width=960&precrop=2360%2C1327%2Cx0%2Cy0",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Billionaires"
     ],
     "industries": [
       "media",
@@ -527,24 +527,23 @@
     "relevance_score": 15
   },
   {
-    "id": "b047f6d8cf74",
-    "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
-    "url": "https://www.forbes.com/sites/erikkain/2026/05/15/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-05-15T20:01:08+00:00",
-    "summary": "Looking for something new to stream this weekend? Here’s every major new movie and show hitting Netflix, Hulu, Prime Video, Apple TV and more.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a077b6b2508ad94ae6f7f0b/0x0.jpg?width=960",
+    "id": "9f53c30842c2",
+    "title": "The app you need to clean up your computer",
+    "url": "https://www.theverge.com/tech/931586/mole-bartender-mac-utilities-installer",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-05-16T12:00:00+00:00",
+    "summary": "Hi, friends! Welcome to Installer No. 128, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, sorry this one's so Mac-heavy, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about David...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Installer-128.png?quality=90&amp;strip=all&amp;crop=0%2C10.705075966465%2C100%2C78.589848067069&amp;w=1200",
     "tags": [
-      "Gaming",
-      "/gaming",
-      "Innovation",
-      "/innovation",
-      "Gaming"
+      "Apps",
+      "Gadgets",
+      "Installer",
+      "Tech"
     ],
     "industries": [
-      "media",
-      "tech"
+      "tech",
+      "industrial"
     ],
     "relevance_score": 15
   },
@@ -592,47 +591,6 @@
     "relevance_score": 14
   },
   {
-    "id": "8b691e78f2b1",
-    "title": "Google updates its spam rules to include attempts to ‘manipulate’ AI",
-    "url": "https://www.theverge.com/tech/931416/google-ai-search-spam-policy",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-05-15T16:42:59+00:00",
-    "summary": "Google updated its spam policy to mark attempts to \"manipulate\" its AI model in search results as spam, including results in AI Overview or AI Mode in Search, as Search Engine Land reports: \"In the context of Google Search, spam refers to techniques used to deceive users or...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK093_GOOGLE_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "AI",
-      "Google",
-      "News",
-      "Tech"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "b19bdb1dbce6",
-    "title": "Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved",
-    "url": "https://www.wired.com/story/tesla-reveals-new-details-about-robotaxi-crashes-and-the-humans-involved/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-05-15T19:51:16+00:00",
-    "summary": "Remote operators (slowly) drove the automaker’s autonomous vehicles into a metal fence and a construction barricade, Tesla says.",
-    "image_url": "https://media.wired.com/photos/6a0765d467132e88ffa72f17/master/pass/GettyImages-2220743976.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Tesla",
-      "Self-Driving Cars",
-      "Autonomous Vehicles"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
     "id": "13aba8166e12",
     "title": "Apple, Adobe Sued For 'Exploitation' Of Ill. Voices In Tech - Law360",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPcDBXOTIwazA4cFZvSFE1N2lqRjljM3hxeXBPbWZHYlBoWk1HNjRsSFMxdHU0NTYyMUlWQ1JiOFpRUjBiZG9XMy16SEJSVG5BeUZTa0wtamozYmpJN0hDMDlmV0k1V0pkU1Qzd2VZYjFjbWpuQ0FLZ0VaYUFvRzN2QW9NRDZkV3NSbDRGNGVkUmV1M1ZqUURRV2gxMNIBVkFVX3lxTFBYQ3dsRVZiLUZJdF9JMkxpczJEZmVvdHBHSHhYRmZGY0NRZDZfQmxKeHI1MzZzQmh4SVZDYllQWDJ2TTlYdXB0d2l5eUpEVks0YTd0d213?oc=5",
@@ -646,25 +604,6 @@
       "tech"
     ],
     "relevance_score": 14
-  },
-  {
-    "id": "9060bd19b197",
-    "title": "FCC approves Verizon’s $1 billion Spectrum deal - The San Joaquin Valley Sun",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9scjcxcUQ5NGpXRDhidFd4VWxwWVNSTzBiZ1VBWjVmdTV3aG9xdl9kVHc5cWthUW1ib0t3QmtvLVVWd1N1Sjd6NExqZ1JkTTZqWmdCZ1JqMXdyTktjLU1SNDU1MzhOOHpRbl9DZ2x6UE9RZWR6NWNSZg?oc=5",
-    "source": "Telecom",
-    "source_category": "industry_telecom",
-    "published": "2026-05-16T02:29:05+00:00",
-    "summary": "FCC approves Verizon’s $1 billion Spectrum deal The San Joaquin Valley Sun",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "telecom"
-    ],
-    "relevance_score": 14,
-    "also_covered_by": [
-      "Telecom 5G"
-    ]
   },
   {
     "id": "dd85aab1a359",
@@ -743,43 +682,23 @@
     "relevance_score": 13
   },
   {
-    "id": "1bad708b9cd0",
-    "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
-    "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
-    "source": "TechCrunch AI",
+    "id": "b19bdb1dbce6",
+    "title": "Tesla Reveals New Details About Robotaxi Crashes—and the Humans Involved",
+    "url": "https://www.wired.com/story/tesla-reveals-new-details-about-robotaxi-crashes-and-the-humans-involved/",
+    "source": "Wired",
     "source_category": "ai",
-    "published": "2026-05-15T18:14:44+00:00",
-    "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-1370931116.jpeg?resize=1200,801",
+    "published": "2026-05-15T19:51:16+00:00",
+    "summary": "Remote operators (slowly) drove the automaker’s autonomous vehicles into a metal fence and a construction barricade, Tesla says.",
+    "image_url": "https://media.wired.com/photos/6a0765d467132e88ffa72f17/master/pass/GettyImages-2220743976.jpg",
     "tags": [
-      "AI",
-      "Climate",
-      "electrical grid",
-      "Lake Tahoe"
+      "Gear",
+      "Gear / Gear News and Events",
+      "Tesla",
+      "Self-Driving Cars",
+      "Autonomous Vehicles"
     ],
     "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "350030b7020b",
-    "title": "ArXiv will ban researchers who upload papers full of AI slop",
-    "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-05-15T20:38:19+00:00",
-    "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
-    "tags": [
-      "AI",
-      "News",
-      "Science"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
+      "tech"
     ],
     "relevance_score": 13
   },
@@ -863,67 +782,6 @@
     "relevance_score": 12
   },
   {
-    "id": "0b79680b28d7",
-    "title": "A Woman Was in the US Legally. She Was Deported Anyway",
-    "url": "https://www.wired.com/story/a-woman-was-in-the-us-legally-she-was-deported-anyways/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-05-15T10:00:00+00:00",
-    "summary": "María de Jesús Estrada Juárez was applying for her green card and thought she was doing everything right. Instead, she was arrested and deported to Mexico.",
-    "image_url": "https://media.wired.com/photos/6a061a028cd08cd9ab872a8b/master/pass/GettyImages-2242087813.jpg",
-    "tags": [
-      "Politics",
-      "politics",
-      "Immigration and Customs Enforcement",
-      "immigration",
-      "government"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "0a8226663c7e",
-    "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
-    "url": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-05-15T12:10:00+00:00",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Chinese short dramas became AI content machines China’s short drama industry is fueled by bite-sized, melodramatic, and smutty shows...",
-    "image_url": null,
-    "tags": [
-      "The Download"
-    ],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "b1e81d0d37de",
-    "title": "Osaurus brings both local and cloud AI models to your Mac",
-    "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-05-15T12:19:48+00:00",
-    "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/osaurus-techcrunch-2-1.png?resize=1200,675",
-    "tags": [
-      "AI",
-      "Apps",
-      "local AI",
-      "mac apps",
-      "osaurus"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 12
-  },
-  {
     "id": "3ad7d96f0836",
     "title": "Claude’s next enterprise battle is not models: it’s the agent control plane",
     "url": "https://venturebeat.com/orchestration/claudes-next-enterprise-battle-is-not-models-its-the-agent-control-plane",
@@ -963,17 +821,43 @@
     "relevance_score": 12
   },
   {
-    "id": "a7228a8e8294",
-    "title": "Adobe Stock (ADBE) Opinions on Sector Rotation to Software - Quiver Quantitative",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOW5vbUt0T0RycUh5MFRqRDhLV21lUzZkcHdpdS1WNktCUDRLY0tiZG1OVzlUZlFNcmF0d1ZVSHlxQUVacF9MLTVSNU9VaHVzaFM5LUp4R1BDU0J5SlI1d1FDLUp3a2hJdWZiYnRBUlFzblhkY0p0MkNvMF9tclNQMTl0bU13R1B1X0xLWmF0aHhtMG50TDktZHhocw?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-05-15T17:40:00+00:00",
-    "summary": "Adobe Stock (ADBE) Opinions on Sector Rotation to Software Quiver Quantitative",
-    "image_url": null,
-    "tags": [],
+    "id": "1bad708b9cd0",
+    "title": "Silicon Valley’s vacationland needs a new energy provider just as AI is driving prices up",
+    "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-05-15T18:14:44+00:00",
+    "summary": "Lake Tahoe, Silicon Valley's favorite vacation spot, is about to get hit with higher energy prices as AI drives demand for electricity.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-1370931116.jpeg?resize=1200,801",
+    "tags": [
+      "AI",
+      "Climate",
+      "electrical grid",
+      "Lake Tahoe"
+    ],
     "industries": [
-      "tech"
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "350030b7020b",
+    "title": "ArXiv will ban researchers who upload papers full of AI slop",
+    "url": "https://www.theverge.com/science/931766/arxiv-ai-slop-ban-researchers",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-05-15T20:38:19+00:00",
+    "summary": "ArXiv, a popular platform for preprint academic research, is taking a new step to attempt to reduce the volume of papers that include AI slop. If a paper has \"incontrovertible evidence that the authors did not check the results of LLM generation,\" such as hallucinated...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/STKS511_AI_SLOP_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+    "tags": [
+      "AI",
+      "News",
+      "Science"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 12
   },
@@ -993,6 +877,22 @@
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "9060bd19b197",
+    "title": "FCC approves Verizon’s $1 billion Spectrum deal - The San Joaquin Valley Sun",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9scjcxcUQ5NGpXRDhidFd4VWxwWVNSTzBiZ1VBWjVmdTV3aG9xdl9kVHc5cWthUW1ib0t3QmtvLVVWd1N1Sjd6NExqZ1JkTTZqWmdCZ1JqMXdyTktjLU1SNDU1MzhOOHpRbl9DZ2x6UE9RZWR6NWNSZg?oc=5",
+    "source": "Telecom",
+    "source_category": "industry_telecom",
+    "published": "2026-05-16T02:29:05+00:00",
+    "summary": "FCC approves Verizon’s $1 billion Spectrum deal The San Joaquin Valley Sun",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom"
     ],
     "relevance_score": 12
   },
@@ -1053,24 +953,6 @@
     "relevance_score": 11
   },
   {
-    "id": "ffd6f3986c08",
-    "title": "SCOTUS temporarily restores telehealth access to abortion pill mifepristone",
-    "url": "https://www.fiercehealthcare.com/pharma/scotus-restores-telehealth-access-abortion-pill-mifepristone",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-15T10:39:00+00:00",
-    "summary": "The U.S. Supreme Court has issued an emergency order, temporarily blocking a federal appeals court ruling in Louisiana which would have prevented the abortion pill mifepristone from being prescribed over the phone and sent through the mail in the United States.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1300444456.jpg?VersionId=A0wCTL9XgFvBpKGnTKsM6A0P9R6PCNgp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 11
-  },
-  {
     "id": "70e5266e69e2",
     "title": "Department stores losing market share to resale",
     "url": "https://www.retaildive.com/news/department-stores-lose-market-share-resale-secondhand-apparel/820346/",
@@ -1088,35 +970,19 @@
     "relevance_score": 11
   },
   {
-    "id": "8cbb1f4309b5",
-    "title": "Most mental health practitioners satisfied with work, financially stable, SimplePractice finds",
-    "url": "https://www.fiercehealthcare.com/providers/most-mental-health-practitioners-satisfied-work-simplepractice-finds",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-13T11:05:00+00:00",
-    "summary": "The report, which draws on survey insights and aggregated data from the platform, looked at job satisfaction, financial health and AI sentiment among mental health practitioners.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2228817870.jpg?VersionId=afVUstLZ23eerX5TB0mcqxpBGD.mfK0b",
+    "id": "a7228a8e8294",
+    "title": "Adobe Stock (ADBE) Opinions on Sector Rotation to Software - Quiver Quantitative",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPOW5vbUt0T0RycUh5MFRqRDhLV21lUzZkcHdpdS1WNktCUDRLY0tiZG1OVzlUZlFNcmF0d1ZVSHlxQUVacF9MLTVSNU9VaHVzaFM5LUp4R1BDU0J5SlI1d1FDLUp3a2hJdWZiYnRBUlFzblhkY0p0MkNvMF9tclNQMTl0bU13R1B1X0xLWmF0aHhtMG50TDktZHhocw?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-05-15T17:40:00+00:00",
+    "summary": "Adobe Stock (ADBE) Opinions on Sector Rotation to Software Quiver Quantitative",
+    "image_url": null,
     "tags": [],
     "industries": [
       "tech"
     ],
-    "relevance_score": 10
-  },
-  {
-    "id": "87779b4804bc",
-    "title": "Adobe Premiere is coming to Android ‘soon,’ Google says - 9to5Google",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc25mZjlVWk9icGVDS3JZZVZadU9FU0hsRlBYNnk2Y1pTWmZxZFRNSTJIeWh1Z0hzckZOWWZMekFpa3dPNWk3SjBFbTJTNTBqNnlEckpVUmt1c0VjbFpaWHY2NGM1eG9Nb3RJWG5QcFpJRE5OSWFSYVYtaVFsenRWOW9UU0c5TkxZV2NfNGFZLTM?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-05-13T12:15:00+00:00",
-    "summary": "Adobe Premiere is coming to Android ‘soon,’ Google says 9to5Google",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "telecom"
-    ],
-    "relevance_score": 10
+    "relevance_score": 11
   },
   {
     "id": "1061818f07eb",
@@ -1212,6 +1078,82 @@
     "relevance_score": 10
   },
   {
+    "id": "0b79680b28d7",
+    "title": "A Woman Was in the US Legally. She Was Deported Anyway",
+    "url": "https://www.wired.com/story/a-woman-was-in-the-us-legally-she-was-deported-anyways/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-05-15T10:00:00+00:00",
+    "summary": "María de Jesús Estrada Juárez was applying for her green card and thought she was doing everything right. Instead, she was arrested and deported to Mexico.",
+    "image_url": "https://media.wired.com/photos/6a061a028cd08cd9ab872a8b/master/pass/GettyImages-2242087813.jpg",
+    "tags": [
+      "Politics",
+      "politics",
+      "Immigration and Customs Enforcement",
+      "immigration",
+      "government"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "0a8226663c7e",
+    "title": "The Download: China’s AI drama factory and the WHO’s missing health targets",
+    "url": "https://www.technologyreview.com/2026/05/15/1137341/the-download-china-short-drama-ai-who-health-targets/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-05-15T12:10:00+00:00",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How Chinese short dramas became AI content machines China’s short drama industry is fueled by bite-sized, melodramatic, and smutty shows...",
+    "image_url": null,
+    "tags": [
+      "The Download"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "b1e81d0d37de",
+    "title": "Osaurus brings both local and cloud AI models to your Mac",
+    "url": "https://techcrunch.com/2026/05/15/osaurus-brings-both-local-and-cloud-ai-models-to-your-mac/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-05-15T12:19:48+00:00",
+    "summary": "Osaurus￼ combines local and cloud AI models in a Mac app that keeps users’ memory, files, and tools on their own hardware.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/osaurus-techcrunch-2-1.png?resize=1200,675",
+    "tags": [
+      "AI",
+      "Apps",
+      "local AI",
+      "mac apps",
+      "osaurus"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "f4cc912f979f",
+    "title": "The Texas-Size Fight Over Rick Perry’s Nuclear Power Startup - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNck1ZNU1FZjZMT3ZDaVIyS05ubUxnYnpOZ3Y0RHFEbGt4V1lRUDBWUERBbU9EMU9YNGRZYi1rNWNyMmlGR2VkS1ZvN1J6WEpXdGhEZ0h3NkxmQUpZTmgxVjlNWUJpRFZ2bWxpbmw2UWhndEQ3bHh3dTBKMl83LTdpYjVUT05mRFk?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-05-16T09:30:00+00:00",
+    "summary": "The Texas-Size Fight Over Rick Perry’s Nuclear Power Startup WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "106feee442a3",
     "title": "Employers say they prefer rebate-free PBM models",
     "url": "https://www.healthcaredive.com/news/employers-rebate-free-pharmacy-benefits-model-evernorth-penta-group-survey/820035/",
@@ -1225,6 +1167,37 @@
       "tech",
       "industrial",
       "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "8cbb1f4309b5",
+    "title": "Most mental health practitioners satisfied with work, financially stable, SimplePractice finds",
+    "url": "https://www.fiercehealthcare.com/providers/most-mental-health-practitioners-satisfied-work-simplepractice-finds",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-13T11:05:00+00:00",
+    "summary": "The report, which draws on survey insights and aggregated data from the platform, looked at job satisfaction, financial health and AI sentiment among mental health practitioners.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2228817870.jpg?VersionId=afVUstLZ23eerX5TB0mcqxpBGD.mfK0b",
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "87779b4804bc",
+    "title": "Adobe Premiere is coming to Android ‘soon,’ Google says - 9to5Google",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQc25mZjlVWk9icGVDS3JZZVZadU9FU0hsRlBYNnk2Y1pTWmZxZFRNSTJIeWh1Z0hzckZOWWZMekFpa3dPNWk3SjBFbTJTNTBqNnlEckpVUmt1c0VjbFpaWHY2NGM1eG9Nb3RJWG5QcFpJRE5OSWFSYVYtaVFsenRWOW9UU0c5TkxZV2NfNGFZLTM?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-05-13T12:15:00+00:00",
+    "summary": "Adobe Premiere is coming to Android ‘soon,’ Google says 9to5Google",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom"
     ],
     "relevance_score": 9
   },
@@ -1261,38 +1234,6 @@
     "industries": [
       "tech",
       "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "cc685f36a1cd",
-    "title": "AI-First Operations, One Process at a Time",
-    "url": "https://www.salesforce.com/blog/agentforce-operations/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-14T12:08:43+00:00",
-    "summary": "How a step-by-step, process-by-process approach is delivering faster ROI than full-scale transformation.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Salesforce-Launches-Agentforce-Operations-to-End-Back-Office-Bottlenecks.webp",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "39f26947f9e4",
-    "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
-    "url": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-05-14T12:10:00+00:00",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The shock of seeing your body used in deepfake porn When Jennifer got a research job in 2023, she ran her new professional headshot...",
-    "image_url": null,
-    "tags": [
-      "The Download"
-    ],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 9
   },
@@ -1348,18 +1289,20 @@
     "relevance_score": 9
   },
   {
-    "id": "b3b3ddc119c7",
-    "title": "The Current “SaaS Meltdown” Will Fundamentally Change the Tech Stack by 2027 - MedCity News",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPdi1ERUtzTDdlM3pNdzg0akZfdGcxSEVnM1VEdU94eWlFNjg1elZadHpJWGVSV3EtVC1xdEtkUXFQaUF6WHV3cFo4SnA5OHRUR1NlSTFjRnhGbXVWR3d2T1Fjc19wMXl6cl96Zm5PMWtIejk1TEtmc0J0X0xWLWNad0xSRWN6WTIzNXN3RHNkUHpYeVd4eDRhbU01UjBhdUNETDl3cTlncnRndHc?oc=5",
-    "source": "Health Tech",
+    "id": "ffd6f3986c08",
+    "title": "SCOTUS temporarily restores telehealth access to abortion pill mifepristone",
+    "url": "https://www.fiercehealthcare.com/pharma/scotus-restores-telehealth-access-abortion-pill-mifepristone",
+    "source": "Fierce Healthcare",
     "source_category": "industry_lifesciences",
-    "published": "2026-05-15T13:18:59+00:00",
-    "summary": "The Current “SaaS Meltdown” Will Fundamentally Change the Tech Stack by 2027 MedCity News",
-    "image_url": null,
+    "published": "2026-05-15T10:39:00+00:00",
+    "summary": "The U.S. Supreme Court has issued an emergency order, temporarily blocking a federal appeals court ruling in Louisiana which would have prevented the abortion pill mifepristone from being prescribed over the phone and sent through the mail in the United States.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1300444456.jpg?VersionId=A0wCTL9XgFvBpKGnTKsM6A0P9R6PCNgp",
     "tags": [],
     "industries": [
       "tech",
-      "industrial"
+      "retail",
+      "industrial",
+      "lifesciences"
     ],
     "relevance_score": 9
   },
@@ -1382,35 +1325,36 @@
     "relevance_score": 9
   },
   {
-    "id": "f1e379819ced",
-    "title": "Bill Ackman’s Pershing Square Bets on Microsoft’s AI Ambitions With New Stake - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQQnVaakJ1OWFZeFBQa2VfUHR3akowMnB1M2FJaDJNVC1Gc0tOWkgtYkY1cVk0TDZvVGJQVkZqanJKaWpiNVhUT1hmUHRZSHdVakZ5V3lxbnRkeWZ0Z05FYWVQRE1IR05DeWhJQklocGNQaGJuaXVvREVGNno4M2toOXNNb0VJTEI0bHBHaUlyYXVsZHg5TFhwZl9IejdfRGlaR2VzeVo3VjVLVXc?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-05-15T21:30:00+00:00",
-    "summary": "Bill Ackman’s Pershing Square Bets on Microsoft’s AI Ambitions With New Stake WSJ",
-    "image_url": null,
+    "id": "cc685f36a1cd",
+    "title": "AI-First Operations, One Process at a Time",
+    "url": "https://www.salesforce.com/blog/agentforce-operations/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-14T12:08:43+00:00",
+    "summary": "How a step-by-step, process-by-process approach is delivering faster ROI than full-scale transformation.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Salesforce-Launches-Agentforce-Operations-to-End-Back-Office-Bottlenecks.webp",
     "tags": [],
     "industries": [
       "tech"
     ],
-    "relevance_score": 9
+    "relevance_score": 8
   },
   {
-    "id": "a068a859eef5",
-    "title": "NITDA, FMCIDE Deepen Collaboration on Nigeria’s Digital Transformation - Nigeria Communications Week",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEhwT2JQVEFoa0FzYzFXVzdBYV9Uc2hQbFVPX3Q3ZXozUWZPSEhzcHhsM2lHUjJSeXhSZEpacG0xU1dzazBiUkRlV1REcDVCUHpOaG1oNERDZktLTGJlUVNDNEVIZkxUS2NiQ05ONmQ5VjVWbDZ4QlgwVlFUWFFkM3BKNUU1Y3hqMDZwR1UxeXNmSUtuY0NYczV0OUdkaXZyZ282MW5GdVpOZjhzQ24teFQzUHE?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-05-16T04:41:10+00:00",
-    "summary": "NITDA, FMCIDE Deepen Collaboration on Nigeria’s Digital Transformation Nigeria Communications Week",
+    "id": "39f26947f9e4",
+    "title": "The Download: deepfake porn’s stolen bodies and AI sharing private numbers",
+    "url": "https://www.technologyreview.com/2026/05/14/1137257/the-download-deepfake-porn-bodies-ai-exposing-phone-numbers/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-05-14T12:10:00+00:00",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. The shock of seeing your body used in deepfake porn When Jennifer got a research job in 2023, she ran her new professional headshot...",
     "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
+    "tags": [
+      "The Download"
     ],
-    "relevance_score": 9
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 8
   },
   {
     "id": "76bb1da14e1e",
@@ -1444,22 +1388,6 @@
     "relevance_score": 8
   },
   {
-    "id": "10f3ad1cfeb9",
-    "title": "Wells Fargo draws on deep dollar demand for $2.75bn - GlobalCapital",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPQUwtV1VmbnA1QzdaUTdsZmY1MnBaSS05SDRPbUNMU0tDSHNYN3NDdUdWT1laZE9FaTRCWDgtRG5OVDU2QzdqTEdDWnB4RzMzeVRpczgwOXlhMUdOenplcERNd29wcldLRVMxMkgyOGYyRExDclh2NGYxSmRfa01zOU9SLTBNYWVIMTRFTzZiVHF5Z05Vb1cwVklwM3RMeDdJM2x1S2ZB?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-05-15T03:33:45+00:00",
-    "summary": "Wells Fargo draws on deep dollar demand for $2.75bn GlobalCapital",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "55a65c898feb",
     "title": "MaxLinear targets AI driven 5G backhaul with Trinity platform ... - eeNews Europe",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNMldyNUhSZ3lPYlBQME5YU3ZTV0NHSHl5a0xxQzNNNF9FR0hvRWpQZWxtajYxZUhSZUtXWm1LVnpGRlNqRU1TWXpxNGlsZ1kybW9HbElDUlJ5dXJBOUg3VFpQLU1vVUxTQ0Rqd0JsVkEtd3RFMGNYWFZ6Zkl1cDFZM2YzYlk0Zw?oc=5",
@@ -1478,39 +1406,38 @@
     "relevance_score": 8
   },
   {
-    "id": "beee6aca19d3",
-    "title": "FDA Approves AstraZeneca's Fasenra | PharmExec - Pharmaceutical Executive",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TLThIOWdGSUNJZ1ZlN1A3RkZfeWVjN1c2TEdQQkpxZFBrclFaUDdrNVJ2cWFJcHhNb1M5R0Z5U2I5WlVpVmpjNUp4X1B0WVhFb3Jkek1ld2JpZlRlTkctb2ZyWkVlRTRRRDhaVGUtajU3R2VoMnFpbw?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-15T18:31:18+00:00",
-    "summary": "FDA Approves AstraZeneca's Fasenra | PharmExec Pharmaceutical Executive",
+    "id": "a068a859eef5",
+    "title": "NITDA, FMCIDE Deepen Collaboration on Nigeria’s Digital Transformation - Nigeria Communications Week",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPeEhwT2JQVEFoa0FzYzFXVzdBYV9Uc2hQbFVPX3Q3ZXozUWZPSEhzcHhsM2lHUjJSeXhSZEpacG0xU1dzazBiUkRlV1REcDVCUHpOaG1oNERDZktLTGJlUVNDNEVIZkxUS2NiQ05ONmQ5VjVWbDZ4QlgwVlFUWFFkM3BKNUU1Y3hqMDZwR1UxeXNmSUtuY0NYczV0OUdkaXZyZ282MW5GdVpOZjhzQ24teFQzUHE?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-05-16T04:41:10+00:00",
+    "summary": "NITDA, FMCIDE Deepen Collaboration on Nigeria’s Digital Transformation Nigeria Communications Week",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "lifesciences"
+      "industrial"
     ],
     "relevance_score": 8
   },
   {
-    "id": "0ed8e260ec9a",
-    "title": "Telefónica S.A. stock (ES0178430E18): Telecom giant navigates digital transformation - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQMFA3SjltX0FLdzg2bUJMOW9BQ0xkcUlsbFBabkVOVVh0MnpiZUxobkM5czBHUDdoTGlWNDlTTGNUSlF4TWtNU0d2Y0xlZEJOX3dTTk9jVU5EbTlONXZXWHpfdTVodGxZNTRZS2YyQUJiM2RJRkhwMWlMWXVCcTJCUkdZd0ZVb3ZyM0czOGp3cnBhYjhvOFFDNDFEUk9YZlFvaXJZa3k5OFRBLUV5X2cxX0IxYkJaWFlDUWVXeW43RHlvdw?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-05-13T12:02:51+00:00",
-    "summary": "Telefónica S.A. stock (ES0178430E18): Telecom giant navigates digital transformation AD HOC NEWS",
+    "id": "9462c053007c",
+    "title": "Top 10 USA-Based Fintech App Development Agencies - vocal.media",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQYnlXZ1NPQkJoWmJnd3Z1dlBMcTNSbmhMQldqWlhnQ2xzMjMwR0tlMUM3NGhoMkNQVlRlSTNpNjJGMF9WNHlpRFV0ZWt2UkNHbllfVzk4Nkx2Qjl3c1VWWWhaNXN0S2p0NFFXZG1ocmc3RUJ1a0JtenRqZkVJZFI3N1JOMWl1UQ?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-05-13T15:28:33+00:00",
+    "summary": "Top 10 USA-Based Fintech App Development Agencies vocal.media",
     "image_url": null,
     "tags": [],
     "industries": [
+      "media",
       "tech",
-      "telecom"
+      "industrial",
+      "financial"
     ],
-    "relevance_score": 7,
-    "also_covered_by": [
-      "Banking"
-    ]
+    "relevance_score": 7
   },
   {
     "id": "f9d2aee05554",
@@ -1530,20 +1457,35 @@
     "relevance_score": 7
   },
   {
-    "id": "bae151c74fc1",
-    "title": "Asiacell and 1001 Accelerate Iraq's Digital Transformation Through Telco-Powered Streaming Innovation - PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNQU9MQUxVamZ0dnhORE9zOHF3bFhMOUFsUVp2Y2VtcS11dGtHR1dVUm9CbDEwRE1MXzlOeWY1OGZPekpYbUZHOFVuNlRjZWljSmU5eE0wYmZTU1lHemxWR1FScW5jdGN1Z2htclNTY0UtVkQwVUt0ZFBJTHFhOUhxOTVGb0Q3c3F6NzVCQVFNMHpxaVBnZFRKVjFhajRoN2JDZTlyWHAwUk85Q0Vvc0JnVEd6WFVGOWg1TnRSVHVWOS1mTEtPQkxNZUZrcEMzd3JqMjJ1UHV4V2EzTWh3dDJVUHhkR0FPLURuSlVvRQ?oc=5",
-    "source": "Telecom Digital",
+    "id": "b2453fde29f1",
+    "title": "115 MHz off the shelf: What the EchoStar approvals actually mean - Light Reading",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNYkNaOVlVcFVEWERkVHpzSzhvNmR6bUh2NF8yQURkSUtVUG5xLU9pXzh2U3J6bE9zODFzSlZiRUk2M2Y1WlZXQzlVWnd0ckFhczBkVGh6VkdBMm4xaUZoTHAxMTNmbUNXUjl6ZUthR2hkRUxpS2hIaHZ4ekJPb24xQ0JxWU1qQUYyR1VkVXBUVTFJQzRoOGxlR0x2N0tKMDRTS0dlUi1aZFRVV1NJcTZj?oc=5",
+    "source": "Telecom 5G",
     "source_category": "industry_telecom",
-    "published": "2026-05-11T13:52:00+00:00",
-    "summary": "Asiacell and 1001 Accelerate Iraq's Digital Transformation Through Telco-Powered Streaming Innovation PR Newswire",
+    "published": "2026-05-14T10:49:08+00:00",
+    "summary": "115 MHz off the shelf: What the EchoStar approvals actually mean Light Reading",
     "image_url": null,
     "tags": [],
     "industries": [
-      "media",
       "tech"
     ],
-    "relevance_score": 6
+    "relevance_score": 7
+  },
+  {
+    "id": "beee6aca19d3",
+    "title": "FDA Approves AstraZeneca's Fasenra | PharmExec - Pharmaceutical Executive",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TLThIOWdGSUNJZ1ZlN1A3RkZfeWVjN1c2TEdQQkpxZFBrclFaUDdrNVJ2cWFJcHhNb1M5R0Z5U2I5WlVpVmpjNUp4X1B0WVhFb3Jkek1ld2JpZlRlTkctb2ZyWkVlRTRRRDhaVGUtajU3R2VoMnFpbw?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-15T18:31:18+00:00",
+    "summary": "FDA Approves AstraZeneca's Fasenra | PharmExec Pharmaceutical Executive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 7
   },
   {
     "id": "eb9c6f02769f",
@@ -1572,22 +1514,6 @@
     "tags": [],
     "industries": [
       "tech"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "ff357e7d3bc8",
-    "title": "Communication Minister calls for stronger civil service collaboration to drive digital transformation - Modern Ghana",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQaUU2c0tWTzZTOUQ2OWF6Wm0xQnZsZkdHZ2VXNngxd29zZEFBSzktQnhONkxNOVdTc3ItbUhFdW1mNnducWloeWR6angtSTVPaXJ1cTBLQkRreFc1QnNVbVVrR2R0eUpuTGhQTXNkcWhoMEtNdkhHRzhqbTRHQ09EQzFNTnd5NXlfTE5xanBHVnRGaE1ndzhn0gGXAUFVX3lxTFBpRTZzS1ZPNlM5RDY5YXpabTFCdmxmR0dnZVc2eDF3b3NkQUFLOS1CeE42TE05V1Nzci1tSEV1bWY2d25xaWh5ZHpqeC1JNU9pcnVxMEtCRGt4VzVCc1VtVWtHZHR5Sm5MaFBNc2RxaGgwS012SEdHOGptNEdDT0RDMU1Od3k1eV9MTnFqcEdWdEZoTWd3OGc?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-05-14T16:59:24+00:00",
-    "summary": "Communication Minister calls for stronger civil service collaboration to drive digital transformation Modern Ghana",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
     ],
     "relevance_score": 6
   },
