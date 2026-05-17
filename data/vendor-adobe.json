@@ -12,7 +12,10 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 29
+    "relevance_score": 29,
+    "also_covered_by": [
+      "Adobe Products"
+    ]
   },
   {
     "id": "a22da2b60385",
@@ -54,10 +57,41 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 17,
+    "relevance_score": 16,
     "also_covered_by": [
-      "Adobe Marketing Cloud"
+      "Telecom 5G",
+      "Biotech"
     ]
+  },
+  {
+    "id": "5b81363ecb4d",
+    "title": "Claude Code Did The Heavy Lifting To Get Adobe Lightroom CC Running On Linux - Phoronix",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE40RDFlQ3VBZUdGeTBrdVFiME10NkhEVFhGc29WX1FMelVrSXdoanR4SE01SnY1dFg2WEtrNVpaVFBnMmRYYkhxdlhjVDRjOWlSQkduNkdNakc2eXZaaUhjR2NPazc?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-05-17T10:20:00+00:00",
+    "summary": "Claude Code Did The Heavy Lifting To Get Adobe Lightroom CC Running On Linux Phoronix",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "9b174eef6ab5",
+    "title": "DaVinci Resolve is the Adobe Lightroom replacement I didn't know I needed - How-To Geek",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOT2ZkSGVEdUVnbWRXbEZYMGZNc2JWdkI3OEpBTTlZbWxRVktueUZvcE1YaU9wSW9KcWRlb2hEdzVoRVJhYVlqSlY4c0tXWmJyNDI0TmpOY0xOMlRmUUN3ZlNYOVJ1cUd6WWY5VlgxZmlSQXRlcUMyaVFwdGpzbVA0eWU0TlBwYlVYVGtBYllXNlozVF91anp0ZlRIQ1hueHNS?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-05-17T10:30:17+00:00",
+    "summary": "DaVinci Resolve is the Adobe Lightroom replacement I didn't know I needed How-To Geek",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 13
   },
   {
     "id": "6b01f8499aeb",
@@ -174,10 +208,20 @@
       "media",
       "industrial"
     ],
-    "relevance_score": 7,
-    "also_covered_by": [
-      "Salesforce AI"
-    ]
+    "relevance_score": 7
+  },
+  {
+    "id": "b94b07604987",
+    "title": "Enterprise-grade security with Adobe Acrobat AI Assistant - Adobe for Business",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNNkRiSHpZeERaNlc0aWtqaW1GRDVVcGhRUDY4ZGJ1WmtOV2FoRlFLdGZiNHNEM1hDQzA0OXpkbm5mdGVyRUFFZVRDRjJ3dUJNMGpYaFBkOThIZEhwMzJFM2lSeUdGQVpoQmdSREhXdjVqV3hxLXR6VlE0VWtUblpVTmVHY2g0aDJQQmZId040MEdJR2pXLU40NldjRl9GbHZ5NDFfWURKa19wYUg0OEE?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-05-12T07:00:00+00:00",
+    "summary": "Enterprise-grade security with Adobe Acrobat AI Assistant Adobe for Business",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 6
   },
   {
     "id": "dca40503ef21",
@@ -224,7 +268,7 @@
     "id": "24a7f4e4e2fd",
     "title": "Connecting Adobe Creative Cloud and Adobe CX Enterprise. - Adobe for Business",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOUGxzR1hYVlVITUoxajIyX2otYWhkbnpwczVYSUdJa3pjMHBVUnU1VXU3NktGZWNOaEtDS2hOVWtDVlBaVWFvTXlFOVk3dkpmMnl5T2VuOUYtY2FxZWZKUGs1YkhHN0IxYk1DdDF2QkNzWTA2OC1OT0FGRXBoNkRuMGVMbG5GdHYzTDhTbGRTT1NvU0c2clpHdHA5M21sWkY2TFZESGVn?oc=5",
-    "source": "Adobe Marketing Cloud",
+    "source": "Adobe",
     "source_category": "adobe",
     "published": "2026-05-12T23:48:38+00:00",
     "summary": "Connecting Adobe Creative Cloud and Adobe CX Enterprise. Adobe for Business",
@@ -232,21 +276,6 @@
     "tags": [],
     "industries": [
       "tech"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "775890fe0a04",
-    "title": "Accelerate your content supply chain with Adobe GenStudio. - Adobe for Business",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQelBQMS1KV1RvNjBSaUJDNkZLNm52WWRXYk96aVZKRzNnamhyNGtBUFlFZUhBalVrYWlELTJkOFVqWUhFN1JpNS1OcXAwVzF4V1dyUjdMUEFRUkM5bXQtV1RDcjAyMG83MGJVSXJrYVM0NHRfSTRpY3NtdGNWREoyQjU0bXp0UWNHTk81NUFZSGhFYXpkMkJzSzJSODFCRTZFcHhYVnd3MnZkX25SeFhyc3lMMHdZYy1zdW9yRWxmbGRncXM?oc=5",
-    "source": "Adobe Products",
-    "source_category": "adobe",
-    "published": "2026-05-13T00:52:42+00:00",
-    "summary": "Accelerate your content supply chain with Adobe GenStudio. Adobe for Business",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
     ],
     "relevance_score": 6
   },
