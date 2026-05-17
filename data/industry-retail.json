@@ -104,7 +104,7 @@
       "media",
       "retail"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
     "id": "03477fde0dcb",
@@ -125,7 +125,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 17,
+    "relevance_score": 16,
     "also_covered_by": [
       "Wired"
     ]
@@ -172,23 +172,6 @@
     "relevance_score": 12
   },
   {
-    "id": "7b2b0b3c0875",
-    "title": "Streamlining Commerce Media Ad Inventory Management",
-    "url": "https://www.salesforce.com/blog/commerce-media-ad-inventory-management/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-15T21:29:18+00:00",
-    "summary": "Drive operational efficiency and revenue growth using this Commerce Media Playbook.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/AdobeStock_134272137.jpeg?w=5358",
-    "tags": [],
-    "industries": [
-      "media",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
     "id": "f14bf500a091",
     "title": "The world is on track to miss its health targets",
     "url": "https://www.technologyreview.com/2026/05/15/1137270/the-world-is-on-track-to-miss-its-health-targets/",
@@ -203,6 +186,23 @@
       "The Checkup"
     ],
     "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "7b2b0b3c0875",
+    "title": "Streamlining Commerce Media Ad Inventory Management",
+    "url": "https://www.salesforce.com/blog/commerce-media-ad-inventory-management/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-15T21:29:18+00:00",
+    "summary": "Drive operational efficiency and revenue growth using this Commerce Media Playbook.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/AdobeStock_134272137.jpeg?w=5358",
+    "tags": [],
+    "industries": [
+      "media",
       "retail",
       "industrial"
     ],
@@ -419,6 +419,23 @@
     "tags": [],
     "industries": [
       "retail",
+      "financial"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "64f7faa1c72f",
+    "title": "How to avoid falling for scams targeting digital payments - U.S. Bank",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNWkZiVmhZQnpQcjRvVFBLWTFvYkRIaWMyZVM5TFVoLW9tdExfRkZ2SDc1ZDU1S2tydjVMaTg0YVV3RHZvYkI4Yk5lSTl3QUhYRVdEcnVCYlB6d1ZSd1h5OGM0RmhsSm1BOVNBT1ctODQ1SkpraUZZdkpFZk81TGVaTzJn?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-05-13T20:06:16+00:00",
+    "summary": "How to avoid falling for scams targeting digital payments U.S. Bank",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial",
       "financial"
     ],
     "relevance_score": 5
