@@ -18,7 +18,7 @@
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 32
+    "relevance_score": 29
   },
   {
     "id": "9015007ce8ce",
@@ -34,7 +34,12 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 23
+    "relevance_score": 23,
+    "also_covered_by": [
+      "Adobe",
+      "Adobe Inc",
+      "Fintech"
+    ]
   },
   {
     "id": "e917a50fdc8d",
@@ -50,7 +55,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "de2600936da5",
@@ -81,7 +86,7 @@
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "386ace0d78bb",
@@ -131,32 +136,16 @@
     "relevance_score": 10
   },
   {
-    "id": "e928136a5302",
-    "title": "Health tech firm Optura raises $17.5 million for next phase of growth - The Business Journals",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV2g5c1dEYmNEbUJ0aDB0SmJaWjJwRm0wYlFncjJJbHhoMHRJYUJUS1J3UUwtS2Rwei1pTnV4ZDZHS1U2YUxGTnBrWWt2RjJPd2tIMWROUGJmYVBiV1BhRFNGVGxIMUlVZWVadG5HeDhlUnUtZVJGdmpkRUhlQ3F3UE1ZUUJITW1GWGdBSGgzek1HUmVJcGc?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-15T18:54:00+00:00",
-    "summary": "Health tech firm Optura raises $17.5 million for next phase of growth The Business Journals",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "e42f98f38904",
-    "title": "Nurse Practitioner Is Now the Hottest Job in Healthcare - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQQ3VyWXo1TDZ5TWFqTnFVVlJuUU9EREVBVllqM3N2NXd4Tk9taDFQQ3ZBTnRrMngyUHk0dFd0M1V1V3dLRVlyc3hROFVEV09RU3dUVEFYWkt5bGhCa2ZSOWRDTkgyNERtZGhYYWFwRmcwUk93dDZnekprUDlLTGhqZFplMk92S185a2lCZGQxUDZ3VFNTNExFQ09NMTh1UXlkeXM5bQ?oc=5",
+    "id": "2651c91fc2eb",
+    "title": "Is the Weight-Loss Drug Revolution Causing a Frailty Epidemic? - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQaGwzXzJvYUxCbTZtVXp6QzhaU0ZqSDRKdFhpM0JsSGgtM1JMcWFIa3BJVGx0NTVMbDNHUGNVbmRld2NYSmQ4UENmSnNVZ0lRb1FyV2dPbTJaNTNTYXQ1TVhqVm9wT3plbFZYSlhaMFpQZkotdUZJRFVUY0o4MUoycw?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-05-17T13:22:21+00:00",
-    "summary": "Nurse Practitioner Is Now the Hottest Job in Healthcare WSJ",
+    "published": "2026-05-17T16:00:00+00:00",
+    "summary": "Is the Weight-Loss Drug Revolution Causing a Frailty Epidemic? WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
-      "media",
       "lifesciences"
     ],
     "relevance_score": 10
@@ -230,25 +219,6 @@
     "relevance_score": 9
   },
   {
-    "id": "20531956ad3f",
-    "title": "CMS launches initiative to speed electronic prior authorization adoption",
-    "url": "https://www.healthcaredive.com/news/cms-electronic-prior-authorization-pledge-health-tech-ecosystem/820271/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-14T18:11:00+00:00",
-    "summary": "The effort, part of the agency’s ambitious Health Tech Ecosystem, aims to accelerate the industry’s progress before requirements on electronic prior authorization go into effect next year.",
-    "image_url": "https://imgproxy.divecdn.com/5RHqNDZFgUFfignT5rqVP6ETVGApAb__iAS5G4tEp8E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA1OTA4MDM3LmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 9,
-    "also_covered_by": [
-      "Fierce Healthcare"
-    ]
-  },
-  {
     "id": "a89d7b8e3456",
     "title": "Op-ed: Making America healthy again requires more than a committee",
     "url": "https://www.fiercehealthcare.com/providers/op-ed-making-america-healthy-again-requires-more-committee",
@@ -280,6 +250,21 @@
     "relevance_score": 9
   },
   {
+    "id": "e928136a5302",
+    "title": "Health tech firm Optura raises $17.5 million for next phase of growth - The Business Journals",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPV2g5c1dEYmNEbUJ0aDB0SmJaWjJwRm0wYlFncjJJbHhoMHRJYUJUS1J3UUwtS2Rwei1pTnV4ZDZHS1U2YUxGTnBrWWt2RjJPd2tIMWROUGJmYVBiV1BhRFNGVGxIMUlVZWVadG5HeDhlUnUtZVJGdmpkRUhlQ3F3UE1ZUUJITW1GWGdBSGgzek1HUmVJcGc?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-15T18:54:00+00:00",
+    "summary": "Health tech firm Optura raises $17.5 million for next phase of growth The Business Journals",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "2444a9764991",
     "title": "University of California, union reach late-night deal to avert system-wide strike",
     "url": "https://www.fiercehealthcare.com/providers/university-california-union-near-may-14-strike-deadline-no-deal-hand",
@@ -293,6 +278,26 @@
       "lifesciences"
     ],
     "relevance_score": 8
+  },
+  {
+    "id": "20531956ad3f",
+    "title": "CMS launches initiative to speed electronic prior authorization adoption",
+    "url": "https://www.healthcaredive.com/news/cms-electronic-prior-authorization-pledge-health-tech-ecosystem/820271/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-14T18:11:00+00:00",
+    "summary": "The effort, part of the agency’s ambitious Health Tech Ecosystem, aims to accelerate the industry’s progress before requirements on electronic prior authorization go into effect next year.",
+    "image_url": "https://imgproxy.divecdn.com/5RHqNDZFgUFfignT5rqVP6ETVGApAb__iAS5G4tEp8E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA1OTA4MDM3LmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 8,
+    "also_covered_by": [
+      "Fierce Healthcare",
+      "Health Tech"
+    ]
   },
   {
     "id": "ffd6f3986c08",
@@ -354,6 +359,21 @@
     "tags": [],
     "industries": [
       "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "2d4bdbcdcad5",
+    "title": "Advancing equity in digital health: from principles to practice - World Health Organization (WHO)",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxNOVhheEdnazVkUkpmaGJFM1B0N2d6SkxsY1IwYWRBaW9fZEhsLUdLOUNEczA3ZmQ0ZWVQamNwcDFHY2V2Y2Jrc3FQMExGM0VESElvV1VfVm9Db3IzdG4tVXp4QnZSNGFVZ0hvbXctbnhxVmctbWZGSEN4emtnYUpKaG9RSG5TOUZyRm44MVhhWVE4SzF1bkIxTkdtRm01eHgtcTlldkVmWVhibUxxVnlPR2FQX2prbFEyOElUMDN0U3ZTWmJKYmxrSGhUdUN2dFVNNU55bkxpSQ?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-17T11:58:56+00:00",
+    "summary": "Advancing equity in digital health: from principles to practice World Health Organization (WHO)",
+    "image_url": null,
+    "tags": [],
+    "industries": [
       "lifesciences"
     ],
     "relevance_score": 8
@@ -439,21 +459,6 @@
     "relevance_score": 7
   },
   {
-    "id": "a561566a4309",
-    "title": "Digital Health Technologies for Parental Education in Neonatal Intensive Care Units: Current Evidence and Implications for Nursing Practice - Cureus",
-    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxPR1BVRE1pd3U5Rkxua1VONjdKbVZHMUFXRTh2djJtbDd0b1JCMFJnOGJwZ201RDNxczJ1dG9tMExIX1hITHEwR2VhQkl0bGl3X1ZENy1UTFYzWmdtYXd0N1NuOC1rWExCeVlrOW1NWDNFc2RxeVBvYXNfVHpyM3dFbWduRElUa0dOaDhFVHBHZ2J4RUp5a2hld2YwQ3VQcmJqeVBwVWdPR1I2NW54T0JwU09PRHB3akZpSzFheGQ1dU15dVl2Y0xsYWxqZGswM3VvMWZydjJ6NnVZRXkzNVdLajRfaUxKczhqSnhIT1RMTTdNOGRvMUZyR1F1YkxIblU0YUxDeS0wZk4?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-16T20:27:04+00:00",
-    "summary": "Digital Health Technologies for Parental Education in Neonatal Intensive Care Units: Current Evidence and Implications for Nursing Practice Cureus",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 7
-  },
-  {
     "id": "f9d2aee05554",
     "title": "BeOne's Venclexta challenger Beqalzi nets FDA approval as first BCL-2 for mantle cell lymphoma - Fierce Pharma",
     "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOa1lhZHZtTDRvSF9ISGJwdkdCWlZ2cVR6U2N0aEZPVHVZZ2FZNlIyYlRWdTVzUnRfZGQtOWt4bDd1X2hYT2FqWVhfRkZjX21zelMwbHUtWndEZ3hKVlpERHZRRUFJUlBBWjFrMkV0cXNtRlpkdFN0d2VIWlpNV0c2elYwVms2aEtRS2RnUERtRWFOT3hrVGZjRnJzT3loZk9zZUs4dXA2SFpyb091aHRoU3JwaDRvamU4cTMtT1pxbE5tdw?oc=5",
@@ -466,6 +471,21 @@
     "industries": [
       "tech",
       "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "4151f7ab5eb7",
+    "title": "Digital Health Solution For Young People: Launching the PAHO Virtual Course on Youth-Centered Digital Health Interventions - Pan American Health Organization (PAHO)",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNMUsxbmZsRUpnakJXWHdWRWRneGFYb0hkUnJYcG5vUDdNTk1WSXVtbWI2RVpWU2xGV0U5cGRkTUFyRFZWMGhsSE1qeDlSS0g5Rm9XMXdNZ0VHMmI5RDZnblZUVzlQMUVlaGZFMmRYek84UGR1Q29HMW5zTi1KeC15MXFTVXAyUDJIVG0tYU9UTDNXYS1BSzdBOFNNTDNZN0xhNGduNUpoNVdZbVJLQnY3bUg3bVFZcmI0MDU3Sw?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-14T22:18:55+00:00",
+    "summary": "Digital Health Solution For Young People: Launching the PAHO Virtual Course on Youth-Centered Digital Health Interventions Pan American Health Organization (PAHO)",
+    "image_url": null,
+    "tags": [],
+    "industries": [
       "lifesciences"
     ],
     "relevance_score": 6
@@ -497,37 +517,6 @@
     "image_url": null,
     "tags": [],
     "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "720e351eff9f",
-    "title": "How AI Innovation Is Widening The Digital Health Divide - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXZ3NktGTlNoUmJKVmhGNk5pYVhLTWdpVmpqbXRETF9UWDhVUWlaU2tLcTBIYlltaWxEMUZ0YVBncXBDZ3A2c3pKZEJDVFZsMUNiOVF0YzhMa1ZmVXZOMlNXN1cyQWczTktmZEg5aVd5WHp3X3pncHNHYVBNWmI3TDd4VXE2WlpsV3FDN2dVR0hTR0QyX2ptNjl1clE0V0ZKTHV4cGtUeVRpaGRMaG9TNjB6bTd3cEJfSm5pS0s3UjI5cWM?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-15T17:05:45+00:00",
-    "summary": "How AI Innovation Is Widening The Digital Health Divide Forbes",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "beee6aca19d3",
-    "title": "FDA Approves AstraZeneca's Fasenra | PharmExec - Pharmaceutical Executive",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TLThIOWdGSUNJZ1ZlN1A3RkZfeWVjN1c2TEdQQkpxZFBrclFaUDdrNVJ2cWFJcHhNb1M5R0Z5U2I5WlVpVmpjNUp4X1B0WVhFb3Jkek1ld2JpZlRlTkctb2ZyWkVlRTRRRDhaVGUtajU3R2VoMnFpbw?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-15T18:31:18+00:00",
-    "summary": "FDA Approves AstraZeneca's Fasenra | PharmExec Pharmaceutical Executive",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
       "lifesciences"
     ],
     "relevance_score": 6
@@ -596,21 +585,6 @@
     "relevance_score": 5
   },
   {
-    "id": "fb721e3f6b37",
-    "title": "FDA Commissioner Marty Makary to leave post, President Donald Trump says; Pro-life groups were among his critics - The Dialog",
-    "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNU0ZISEVxcnA2cGhSelplNlUxVmRpNXhvTzVCcG9ZRmtXNi1TTXo4a2ZWZmZ0NDc0SVlSSGRkUEx1VmRjaFVlbGQyWmk3M0hDLVZOWDdROG1hYWxpSFhFbVJVSWY4aTNRU1djUXpmaEpMN2JkNkFLOTZiY0QxQWUwbng5bWNUNzJTcmNIYWxVbnEzYW5tcTZYazFTVm9YcVIxWFpzNjdxTzc5RUV0aXYtWVVsTVRSMERkWmh5eU5kLWF2LVhCcFdxRDY5NVJmOWFQeFpkcFdUZEdlTDJPLURjUA?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-13T20:23:52+00:00",
-    "summary": "FDA Commissioner Marty Makary to leave post, President Donald Trump says; Pro-life groups were among his critics The Dialog",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
     "id": "f0aae3f29f00",
     "title": "Why big digital health players are missing from Medicare’s chronic care experiment - statnews.com",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNWEhJUjZKR1NidEJ1b3dtUzhvOHNfUmVGV3Mxc0JKV1UzTlFzclJ4TzVXQjdjM04wcGVfdkFlMFI3ZmlWRktiZXFVd2tGT2tuRXNtR0hMRDRhNFZsV1QzUTdEcVU3TlAyU3NEcElSOWptQmhONzFhdzFMX2J6QlBQMXpIdFdkYWJPNjdkUno3dlFsVXoxdHc?oc=5",
@@ -621,6 +595,52 @@
     "image_url": null,
     "tags": [],
     "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "626e045327b3",
+    "title": "Co-designed robots reveal what health care staff and patients actually need - Tech Xplore",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT3dESjdlaFFNXy1COWs5Sk1vdDdFQmY1QUpBZlFVY292bWM0TUI4TEhiREpZcDVXeXRXeTlZYWxmb2tOejR6cy1fMTFOTS1sMmIzejctUXdldjVCSmdzT1Q3NFlCZk8wTWowSFpZSzJlVDd6eFVremFybXA4WURrTFJB?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-14T15:36:00+00:00",
+    "summary": "Co-designed robots reveal what health care staff and patients actually need Tech Xplore",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "720e351eff9f",
+    "title": "How AI Innovation Is Widening The Digital Health Divide - Forbes",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMXZ3NktGTlNoUmJKVmhGNk5pYVhLTWdpVmpqbXRETF9UWDhVUWlaU2tLcTBIYlltaWxEMUZ0YVBncXBDZ3A2c3pKZEJDVFZsMUNiOVF0YzhMa1ZmVXZOMlNXN1cyQWczTktmZEg5aVd5WHp3X3pncHNHYVBNWmI3TDd4VXE2WlpsV3FDN2dVR0hTR0QyX2ptNjl1clE0V0ZKTHV4cGtUeVRpaGRMaG9TNjB6bTd3cEJfSm5pS0s3UjI5cWM?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-15T17:05:45+00:00",
+    "summary": "How AI Innovation Is Widening The Digital Health Divide Forbes",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "beee6aca19d3",
+    "title": "FDA Approves AstraZeneca's Fasenra | PharmExec - Pharmaceutical Executive",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE1TLThIOWdGSUNJZ1ZlN1A3RkZfeWVjN1c2TEdQQkpxZFBrclFaUDdrNVJ2cWFJcHhNb1M5R0Z5U2I5WlVpVmpjNUp4X1B0WVhFb3Jkek1ld2JpZlRlTkctb2ZyWkVlRTRRRDhaVGUtajU3R2VoMnFpbw?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-15T18:31:18+00:00",
+    "summary": "FDA Approves AstraZeneca's Fasenra | PharmExec Pharmaceutical Executive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
       "lifesciences"
     ],
     "relevance_score": 5
