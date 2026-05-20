@@ -12,7 +12,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 45
+    "relevance_score": 42
   },
   {
     "id": "9ad8884fc5ab",
@@ -27,7 +27,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 45
+    "relevance_score": 42
   },
   {
     "id": "4ae0dd630ec0",
@@ -56,7 +56,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/image_92651a.jpeg",
     "tags": [],
     "industries": [],
-    "relevance_score": 40
+    "relevance_score": 37
   },
   {
     "id": "0c1bf6f0e67d",
@@ -90,6 +90,50 @@
     "relevance_score": 23
   },
   {
+    "id": "106d5fda4355",
+    "title": "Entering a New Era of Salesforce Development with Headless 360",
+    "url": "https://www.salesforce.com/blog/headless-salesforce-development/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-20T15:30:00+00:00",
+    "summary": "Together with Multi-framework and the Headless Experience Layer, developers can deliver the unified, secure, and premium experiences their users demand.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Salesforce-Headless-360-Website-Blog-1.png?w=2400",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "5402953df055",
+    "title": "Introducing the Salesforce Architecture Blog: Community Author Program",
+    "url": "https://www.salesforce.com/blog/salesforce-architecture-blog-community-author-program/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-20T15:31:36+00:00",
+    "summary": "Explore how the new Community Author Program empowers Salesforce Architects to share real-world implementation expertise, architectural insights, and lessons learned. Submissions open June 1, 2026.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Salesforce-Architecture-Blog_-Community-Author-Program-Blog.png",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 15
+  },
+  {
+    "id": "f76c95ee9b0b",
+    "title": "Readiness Starts at the Kitchen Table: Modernizing the Military Family Experience",
+    "url": "https://www.salesforce.com/blog/military-defense-hr-transformation/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-20T17:30:04+00:00",
+    "summary": "In national defense, “readiness” is a term usually reserved for maintenance cycles, ammunition counts, and grueling certification exercises. We measure it in hours to deploy and percentages of mission-capable aircraft. But there is…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/modernizing-military-family-experience-blog-3.jpg",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
     "id": "fd472a311b6c",
     "title": "Salesforce Bets on Agentic AI: Will It Lift Subscription Growth? - TradingView",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbkZZSmlIUmI2TjlqUGFoT2Y2TU84NTJTZEE0blA1QVdGNldrUWo4THlZQldmSVV6N0FZTFlaMFE0emZUOG1LNWZGTzFPNzRsVjFaY2FabzZlZkthTXh0SW5wc0pqM2tDalpYaFJNdlMyZTRDZklQd0RQMDJDY0pxdkRycFpkUlJGcU5rWlZWZWh6Sjl6M3hQcGs5UGEtMzQ1X0tIeEkzenRrNndzYjdRaTBkQmdESURsWEE?oc=5",
@@ -102,7 +146,22 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
+  },
+  {
+    "id": "af0c8e38f106",
+    "title": "Salesforce Expands London AI Campus as Agentforce Adoption Moves “Beyond Pilots” - CX Today",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT2JqVlIyNmNKblRSR1NqMEk2UFg0TkVrQjUzbTM0QVZRbU1jWWJWNWdHUDVYYWhLWXdGRnEtLWthWndLZHM0ekMzMHdEb3FFRGNvdTlobjZzVDhCVVFURWZBaGZJMGJMSzg0S2ZmZ1NVdHVoSlFnUjhiZFB6cTJ4dWFEU21NUWpKZ2pWSWpiQmVtZ0hWMXJGaklHWGc3dndCTFVSejJTX3BBUFU?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-05-20T14:41:42+00:00",
+    "summary": "Salesforce Expands London AI Campus as Agentforce Adoption Moves “Beyond Pilots” CX Today",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 13
   },
   {
     "id": "0abdd3194103",
@@ -121,6 +180,21 @@
     "relevance_score": 12
   },
   {
+    "id": "4480f252d962",
+    "title": "When AI Becomes Invisible: The Rise of Ambient Intelligence",
+    "url": "https://www.salesforce.com/blog/ambient-intelligence/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-19T21:53:40+00:00",
+    "summary": "Travel has always been a story of how much friction we’re willing to tolerate to get somewhere. A century ago, a long-distance journey began at a train station thick with smoke and shouting…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/ambient-intel.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "7e7c37f3f637",
     "title": "Salesforce TTEC Digital Partnership Puts Agentforce Production Use In Focus - Yahoo Finance",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTmpKTXN5OEtVbk45RlJyeDB6YnJQbThWMno1QllhdUY3RXEzRDJaX2ZtbUxmalNpekIwb043dmpIMVZ6ZFRnRGcwUHJrX1ByTnd0ZUk5VER0WmNYekR0LWtLSkhFa0JhNU5GaEhIQzdxeFVFV00xZmJkUDh6aFlxczJCNFJKWE4tcW1BSGdUWGItMVRGWll1REw2aUFtOTRMRDFQZFlnbUo?oc=5",
@@ -133,7 +207,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "a45f31084350",
@@ -149,7 +223,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "d850105305e7",
@@ -160,34 +234,6 @@
     "published": "2026-05-20T10:51:26+00:00",
     "summary": "Salesforce announces Agentforce Voice in Hindi varindia.com",
     "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "4fa7f8c5e4e5",
-    "title": "Forensic Behavioral Analysis: Finding Anomalies in Salesforce Logs",
-    "url": "https://www.salesforce.com/blog/forensic-behavioral-analysis-finding-anomalies-in-salesforce-logs/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-19T16:11:29+00:00",
-    "summary": "Analyzing Salesforce Event Monitoring to detect deviations from usual user and non-human behavior.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/01/busy-business-man-trader.jpg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 11
-  },
-  {
-    "id": "4480f252d962",
-    "title": "When AI Becomes Invisible: The Rise of Ambient Intelligence",
-    "url": "https://www.salesforce.com/blog/ambient-intelligence/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-19T21:53:40+00:00",
-    "summary": "Travel has always been a story of how much friction we’re willing to tolerate to get somewhere. A century ago, a long-distance journey began at a train station thick with smoke and shouting…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/ambient-intel.png",
     "tags": [],
     "industries": [
       "industrial"
@@ -210,64 +256,45 @@
     "relevance_score": 10
   },
   {
-    "id": "8e2e85c613dc",
-    "title": "Florida Prepaid’s Call Center Never Closes Thanks to Agentforce Voice",
-    "url": "https://www.salesforce.com/blog/florida-prepaid-agentforce-voice/",
-    "source": "Salesforce Blog",
+    "id": "8b3c63ee6e67",
+    "title": "The SaaSpocalypse Discount on Salesforce Stock: What $72 Billion in RPO Actually Means for Investors - TIKR.com",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdGNCLUEwMWI0SHZaMi16T3JPQ2VEVTZQVkstMTR0M1FXakZKNTFUd1RyUlh6YUZ5VzdJSFB4bDNpcmV3Qzhfbk5KZ2ltRHlnM21ReE5FUnFSdkQzMnF4MURiYjVVS3llbmJZZk13R18wY0dMOGQ3WVl1RDNEMkxDSW1ocElmZGZHZjRQdk54cHJkUVBRdXpTTmtMamFtbTQyYXd5X3E4UmZtZFdmZUFDQ0F5bHY2MFA0U1FsVjljZFM1QQ?oc=5",
+    "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-05-18T15:37:28+00:00",
-    "summary": "Agentforce Voice is now the first point of contact for 75% of business-hours calls and gives 100% of after-hours callers a path forward.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/AdobeStock_214463840.jpeg",
+    "published": "2026-05-18T14:52:01+00:00",
+    "summary": "The SaaSpocalypse Discount on Salesforce Stock: What $72 Billion in RPO Actually Means for Investors TIKR.com",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "industrial"
+      "tech"
     ],
     "relevance_score": 10
   },
   {
-    "id": "639599c503a9",
-    "title": "How Indeed Builds, Tests, and Deploys Agents Without Ever Opening a Browser",
-    "url": "https://www.salesforce.com/blog/indeed-agentforce/",
+    "id": "4fa7f8c5e4e5",
+    "title": "Forensic Behavioral Analysis: Finding Anomalies in Salesforce Logs",
+    "url": "https://www.salesforce.com/blog/forensic-behavioral-analysis-finding-anomalies-in-salesforce-logs/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-05-19T11:51:22+00:00",
-    "summary": "Inside the developer workflow behind Indeed's production agents, powered by Salesforce Headless 360",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Indeed-Diagram-overarching-Demo-Day.jpeg",
+    "published": "2026-05-19T16:11:29+00:00",
+    "summary": "Analyzing Salesforce Event Monitoring to detect deviations from usual user and non-human behavior.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/01/busy-business-man-trader.jpg",
     "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
+    "industries": [],
     "relevance_score": 10
   },
   {
-    "id": "308716b93aae",
-    "title": "Run Every HCP Event On Time, On Budget, and In Compliance with Agentforce",
-    "url": "https://www.salesforce.com/blog/hcp-event-management/",
-    "source": "Salesforce Blog",
+    "id": "dada3bed44e4",
+    "title": "BofA Slaps Salesforce With Underperform Rating, $160 Price Target: Is the AI Story Falling Flat? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxOdS03Ul9RT3paaW9nV3hqN3dWT1RyaFhzNHpKc1VVNGNNYjZCUnNTU2g3c1I4UFZjVTgxSDhOZGphMHByckNyLWo0bGN5YnNRQ2FrVlpNSk9WYTNMcjJOWjhnRXQ5NUxRcHpYaHJIcHZMaE1OcXZya3ROUWNUdnFoNWpFQmhlMnp0Y2t4MHA3czA1b19SWS1pNmt1SGVuVkhRb2dJM19UNHZfMFBYbGdMN0p3RE8xXzNmMG5xbDFpRE5CaW5rWHJCZ1Q2M2xIUlQtVGc?oc=5",
+    "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-05-19T15:43:52+00:00",
-    "summary": "From field dinners to national speaker programs, here's how a unified platform changes the game in HCP event management.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Events-Management_Blog-Image.png",
+    "published": "2026-05-18T15:32:56+00:00",
+    "summary": "BofA Slaps Salesforce With Underperform Rating, $160 Price Target: Is the AI Story Falling Flat? 24/7 Wall St.",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "da14d5622a08",
-    "title": "How SharkNinja Turned Product Unboxing Into a Guided AI Conversation",
-    "url": "https://www.salesforce.com/blog/sharkninja-agentforce/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-19T11:55:57+00:00",
-    "summary": "The QR code on the box is the new instruction manual. Here's how SharkNinja built an Agentforce agent that walks customers through setup, step by step.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/AFDD-Hero-Image-Experience-Page-1920x1080-1.webp",
-    "tags": [],
-    "industries": [
+      "retail",
       "industrial"
     ],
     "relevance_score": 9
@@ -288,6 +315,23 @@
     "relevance_score": 9
   },
   {
+    "id": "308716b93aae",
+    "title": "Run Every HCP Event On Time, On Budget, and In Compliance with Agentforce",
+    "url": "https://www.salesforce.com/blog/hcp-event-management/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-19T15:43:52+00:00",
+    "summary": "From field dinners to national speaker programs, here's how a unified platform changes the game in HCP event management.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Events-Management_Blog-Image.png",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "7696bc726c1f",
     "title": "BofA Warns AI Could Trigger Structural Reset at Salesforce - TradingView",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOekd5WmdURFc0WlFPOXRzQWtRYTlhcXZQR0Q2VFNHSURaS0dxZXZGYWJ4UFdxYmlLZlMzVTB4T2RQajU2X3BkcDhTR3JsMGRheVFQdzR2bUFsbnhIX3QyZEdFWlRUZDlIa2VjeGlHNTd3MTV1YjNCR0EtSVhyTFNyS3NxS3NZM0tEb1hMTG5GVWhTb2Zydjk5Nm52M01WLXlzSVJVTzY2VHhPM2tHY1J1YXhtZjBpczdnTGc?oc=5",
@@ -303,21 +347,6 @@
     "relevance_score": 8
   },
   {
-    "id": "9aa74be8d08f",
-    "title": "Bandwidth Touts Voice AI and Salesforce Agentforce Upside at Needham Conference - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPLXJ0b1d6T1Y1eHFNS0VBaVpIWFFTNzVvR3F3Z0JsYUxzWDA2cnBGcGRvZ18wbXQzZmo4TVBBclljN0FvU19WX3R6djNpZlJyckVobUFPbXQtcGdpXzNVenhhX2hUZVdWOGZwaEZ6Ui1Eam5HWEM2OVd1ajhneFBpZG8xRk1SUzdXcEplaWJFRTktTUpNYVRJT3NickVzdHU5NEpCQVFsWEY2eWFVSU5DSHptelhHeEJqYTBqVHJZdlh0SkxBNEkyVUlIRWRZZw?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-05-14T20:19:44+00:00",
-    "summary": "Bandwidth Touts Voice AI and Salesforce Agentforce Upside at Needham Conference MarketBeat",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 6
-  },
-  {
     "id": "5f7c35aab499",
     "title": "How Salesforce Transformed Employee Experiences with Agentforce HR Service - HR Executive",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQcE04RXpYbjI5YTNPS1ZJd015SGtRam1WWG9palh0TlljX3VaRkFmT3FUSUJWR0RmQzZjMW5aNkZoV2lBQmRFVE1Xend4c0Y0cFd6WXp2UC1lYVRKUExJTUdNV3MyVEp3VFp3TjRDb3IxdEtoNHFUV3RFYnVCcXJCbkU3Mm80cHZCLXRFcE5lRWtsUEhpbjZpNUxoNWJ1WVRT?oc=5",
@@ -328,22 +357,6 @@
     "image_url": null,
     "tags": [],
     "industries": [
-      "industrial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "ac03b05ca3fd",
-    "title": "Ribbon Provides Cloud-Native SBC Technology for Salesforce Agentforce Contact Center - The Fast Mode",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVmZKdmlCcDZseVQtYmZmSm9tUVVEcnhJRmVkYVY2SzByZ29JV2dVcVdDc1NrNkloX1hSRXVhd0lQYlI1ejBVYlllX2duc1RNR0RLLXdSdjhUbWluZ2tsanU4VFRfeVU5YmFjNWFDWC00X1lmUGI3RXF1N3FWcmxnaWVtQ0dDMHZsY3JsemI2TXVBR1o1ZkMwcURsNVp0QkZHd3B1RkNiN1o0Q2JYM0FsU190a2ZYcld3azhkVHRVSlVjM04ycHZlaEg1Qi04dEo3SVdOYWdB?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-05-15T01:30:36+00:00",
-    "summary": "Ribbon Provides Cloud-Native SBC Technology for Salesforce Agentforce Contact Center The Fast Mode",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
       "industrial"
     ],
     "relevance_score": 6
