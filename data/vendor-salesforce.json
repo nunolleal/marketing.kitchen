@@ -14,7 +14,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 40
+    "relevance_score": 37
   },
   {
     "id": "8b2528265b77",
@@ -30,7 +30,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 36
+    "relevance_score": 33
   },
   {
     "id": "f874a2af57ba",
@@ -90,7 +90,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "106d5fda4355",
@@ -101,22 +101,6 @@
     "published": "2026-05-20T15:30:00+00:00",
     "summary": "Together with Multi-framework and the Headless Experience Layer, developers can deliver the unified, secure, and premium experiences their users demand.",
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Salesforce-Headless-360-Website-Blog-1.png?w=2400",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "2323a89185ae",
-    "title": "How Founders Are Moving Boldly Into The Agentic Enterprise: Startup Summit Insights",
-    "url": "https://www.salesforce.com/blog/small-business/annual-startup-summit-insights/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-21T13:00:00+00:00",
-    "summary": "Salesforce's Startup Summit offers a front-row seat to watch the agentic playbook being written.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-20-at-10.02.29-AM.png?w=1545",
     "tags": [],
     "industries": [
       "tech",
@@ -154,6 +138,22 @@
       "industrial"
     ],
     "relevance_score": 12
+  },
+  {
+    "id": "2323a89185ae",
+    "title": "How Founders Are Moving Boldly Into The Agentic Enterprise: Startup Summit Insights",
+    "url": "https://www.salesforce.com/blog/small-business/annual-startup-summit-insights/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-21T13:00:00+00:00",
+    "summary": "Salesforce's Startup Summit offers a front-row seat to watch the agentic playbook being written.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-20-at-10.02.29-AM.png?w=1545",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 11
   },
   {
     "id": "5402953df055",
@@ -199,32 +199,18 @@
     "relevance_score": 9
   },
   {
-    "id": "8b3c63ee6e67",
-    "title": "The SaaSpocalypse Discount on Salesforce Stock: What $72 Billion in RPO Actually Means for Investors - TIKR.com",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPdGNCLUEwMWI0SHZaMi16T3JPQ2VEVTZQVkstMTR0M1FXakZKNTFUd1RyUlh6YUZ5VzdJSFB4bDNpcmV3Qzhfbk5KZ2ltRHlnM21ReE5FUnFSdkQzMnF4MURiYjVVS3llbmJZZk13R18wY0dMOGQ3WVl1RDNEMkxDSW1ocElmZGZHZjRQdk54cHJkUVBRdXpTTmtMamFtbTQyYXd5X3E4UmZtZFdmZUFDQ0F5bHY2MFA0U1FsVjljZFM1QQ?oc=5",
+    "id": "3c899cd42ba3",
+    "title": "Salesforce Bets on Agentic AI: Will It Lift Subscription Growth? - Zacks Investment Research",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYUlQTE1pTVhOQTJsNHNCb1lPSlRpcEJlRW9udkNHSkJvQThqcTNsbzR1R2hxeW9Eak5rQlFjWF9GUEZBUmpac0NtRXRaWmVhUDhRYjA5QnlYVXU1QmYzZnpFMDl5aUhzSWpWM3l5TGpoQTJ2WlNmcGNZWWxfZ2d0Y2FwWU02aWp5QVNhdHg3SUNsLXZ1TzVYazVyQUtGd2lTVklBMWhn?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-05-18T14:52:01+00:00",
-    "summary": "The SaaSpocalypse Discount on Salesforce Stock: What $72 Billion in RPO Actually Means for Investors TIKR.com",
+    "published": "2026-05-20T12:03:33+00:00",
+    "summary": "Salesforce Bets on Agentic AI: Will It Lift Subscription Growth? Zacks Investment Research",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "fd472a311b6c",
-    "title": "Salesforce Bets on Agentic AI: Will It Lift Subscription Growth? - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPbkZZSmlIUmI2TjlqUGFoT2Y2TU84NTJTZEE0blA1QVdGNldrUWo4THlZQldmSVV6N0FZTFlaMFE0emZUOG1LNWZGTzFPNzRsVjFaY2FabzZlZkthTXh0SW5wc0pqM2tDalpYaFJNdlMyZTRDZklQd0RQMDJDY0pxdkRycFpkUlJGcU5rWlZWZWh6Sjl6M3hQcGs5UGEtMzQ1X0tIeEkzenRrNndzYjdRaTBkQmdESURsWEE?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-05-20T12:33:00+00:00",
-    "summary": "Salesforce Bets on Agentic AI: Will It Lift Subscription Growth? TradingView",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
+      "industrial",
+      "financial"
     ],
     "relevance_score": 9
   },
