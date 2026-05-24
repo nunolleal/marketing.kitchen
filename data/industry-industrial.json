@@ -117,50 +117,6 @@
     "relevance_score": 43
   },
   {
-    "id": "bc2ba870689f",
-    "title": "As the AI Battle Rages, Yusuf Mehdi Becomes the Latest Microsoft Veteran to Walk",
-    "url": "https://www.adweek.com/brand-marketing/ai-battle-microsoft-yusuf-mehdi/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-05-22T22:47:42+00:00",
-    "summary": "After 35 years with the company, the chief consumer marketing officer will leave next year.",
-    "image_url": null,
-    "tags": [
-      "Advertising/Marketing",
-      "AI News",
-      "Artificial Intelligence",
-      "Brands",
-      "C-Suite"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 43
-  },
-  {
-    "id": "7d348541d3a3",
-    "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
-    "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-05-21T00:28:31+00:00",
-    "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "TC",
-      "cpus",
-      "nvidia"
-    ],
-    "industries": [
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 42
-  },
-  {
     "id": "e004f7ecbf73",
     "title": "Penske Media Is in Talks to Acquire Unsold Vox Media Brands",
     "url": "https://www.adweek.com/media/penske-media-acquires-vox-media-brands/",
@@ -232,6 +188,28 @@
     "relevance_score": 40
   },
   {
+    "id": "7d348541d3a3",
+    "title": "Jensen Huang says he’s found a ‘brand new’ $200B market for Nvidia",
+    "url": "https://techcrunch.com/2026/05/20/jensen-huang-says-hes-found-a-brand-new-200b-market-for-nvidia/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-05-21T00:28:31+00:00",
+    "summary": "The next big thing for Nvidia will be CPUs for AI agents, $200 billion worth, CEO Jensen Huang predicts.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2219673294.jpg?resize=1200,750",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "TC",
+      "cpus",
+      "nvidia"
+    ],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 39
+  },
+  {
     "id": "421b44921c3a",
     "title": "Your company may be slow with AI, but you can’t afford to be",
     "url": "https://martech.org/your-company-may-be-slow-with-ai-but-you-cant-afford-to-be/",
@@ -264,6 +242,28 @@
       "Digiday+"
     ],
     "industries": [
+      "industrial"
+    ],
+    "relevance_score": 39
+  },
+  {
+    "id": "bc2ba870689f",
+    "title": "As the AI Battle Rages, Yusuf Mehdi Becomes the Latest Microsoft Veteran to Walk",
+    "url": "https://www.adweek.com/brand-marketing/ai-battle-microsoft-yusuf-mehdi/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-05-22T22:47:42+00:00",
+    "summary": "After 35 years with the company, the chief consumer marketing officer will leave next year.",
+    "image_url": null,
+    "tags": [
+      "Advertising/Marketing",
+      "AI News",
+      "Artificial Intelligence",
+      "Brands",
+      "C-Suite"
+    ],
+    "industries": [
+      "tech",
       "industrial"
     ],
     "relevance_score": 39
@@ -413,18 +413,17 @@
     ]
   },
   {
-    "id": "75d8a8dd7cec",
-    "title": "AI Agents Are Shopping. Is Your Brand Getting Noticed?",
-    "url": "https://www.salesforce.com/blog/tips-to-win-agentic-commerce/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-21T20:53:25+00:00",
-    "summary": "Agents and LLMs are revolutionizing the shopping experience. Try these 3 tips to help your brand stay on AI's radar.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/TSK-54422_Ai_Agents_Are_Shopping2.png",
+    "id": "9786f035d8e9",
+    "title": "Agentic Marketing Platforms - Trend Hunter",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTFBDUjNrQmEyelRUUE5IOGJ3THo0QVFjbldlcDhpR0MweTlfSFQzNF9EdU1RZC1ZbG5mRFhsUzlnWWhHQzMwemxJTGVyeHNGS3FJYlozcExUM2tFUdIBX0FVX3lxTFAxZGh2OGxVcDNiRmV2YWxJZEpDZDlvR043Tzd2b2JOaXozZ1M2N0hWMFJBZDdZU1BjWVB5TnpWMzh0dF9zZ0Z4OFNMaEstVXA5bGVzRlhBOUxvTVhMcmRj?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-05-19T15:07:32+00:00",
+    "summary": "Agentic Marketing Platforms Trend Hunter",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "retail",
-      "consumer",
+      "tech",
       "industrial"
     ],
     "relevance_score": 30
@@ -466,34 +465,21 @@
     ]
   },
   {
-    "id": "4b7ef6837aad",
-    "title": "Is AI promotion just \"pie in the sky\"? Salesforce exposed for deceptive marketing, with many major client AI features being mostly fabricated - Bitget",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE1CdTBzOTg5V2xFMWhOWGlrNTVlXzBfcU9lbHZHdkg3SjRubmpNRkRBLUpsOTBmUm9iOE9va1V3U3lvWnY0M3k3WUtVMlozWDQ5WDBEQXJtTWszd0dNd2QxRm1Yc9IBY0FVX3lxTE1CdTBzOTg5V2xFMWhOWGlrNTVlXzBfcU9lbHZHdkg3SjRubmpNRkRBLUpsOTBmUm9iOE9va1V3U3lvWnY0M3k3WUtVMlozWDQ5WDBEQXJtTWszd0dNd2QxRm1Ycw?oc=5",
-    "source": "Salesforce AI",
+    "id": "75d8a8dd7cec",
+    "title": "AI Agents Are Shopping. Is Your Brand Getting Noticed?",
+    "url": "https://www.salesforce.com/blog/tips-to-win-agentic-commerce/",
+    "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-05-22T12:56:07+00:00",
-    "summary": "Is AI promotion just \"pie in the sky\"? Salesforce exposed for deceptive marketing, with many major client AI features being mostly fabricated Bitget",
-    "image_url": null,
+    "published": "2026-05-21T20:53:25+00:00",
+    "summary": "Agents and LLMs are revolutionizing the shopping experience. Try these 3 tips to help your brand stay on AI's radar.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/TSK-54422_Ai_Agents_Are_Shopping2.png",
     "tags": [],
     "industries": [
+      "retail",
+      "consumer",
       "industrial"
     ],
-    "relevance_score": 29
-  },
-  {
-    "id": "15938330b47a",
-    "title": "How marketers can scale customer experience orchestration in the agentic era - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPZ29hejN6QXJVN29Dbm5CZlE1ZjdKdHBWQXYtVG43OWxnRjdYR2hEbnNpSlJjTDFZVjNjMHBwOEIxY0dsWlMwNlYwVzFxWlczVHJUbmJ4LXN3NGt3TXJWR05faUR4dHoxVjJXU0F0cWRfY3pfbHhPeE9McTZyYlNVeEw0MUttY1BBaXNMdWRtY09HSmx5UXVhbnR3T1Y4cVY1ODRpcjBjWUhkdDluZXo3YTlkU3MxeWt5OC1uZTJiYUM4WGtlTlMw?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-05-19T17:19:00+00:00",
-    "summary": "How marketers can scale customer experience orchestration in the agentic era Ad Age",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 28
+    "relevance_score": 27
   },
   {
     "id": "f874a2af57ba",
@@ -511,13 +497,29 @@
     "relevance_score": 26
   },
   {
-    "id": "33094b3eab76",
-    "title": "The top 5 creative campaigns to know about right now - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQVFliR0o5RmhuMURGTzJQYkhfN2ctZkM2QjRJWjV6STFLWjVXQzQ1aG1HSVNSY2h6bk9SX1pHdERQeUswMnFxSHJSV1ptVzRnUzJDSHFfWlBvQzM2Tmh1ejAwamNkckVEOEgxNFczTTBpYzZza2hPZlRLbkROU1l2N0U4R2l6WXZTVE9FWnpFVDJzdFU3bVBnRU94Wkk3ZXZOR2JmdUFRcFNKcmpHbkV2dG5pU3Y?oc=5",
+    "id": "6c81ca879669",
+    "title": "2026 Healthcare Marketing Impact Awards - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOUkJRdTFseTRZMC1iLTlEczdINkxtSG8xZ0hmeFVVRUlyYXZEZi1KN0NBRXNiNHgzajZvdURIV3BUU3c0SzVQSms5S09iUnBSVk1GaGY1dmJPdGtmQ05DVVhWVkcxcjJrM3RUTGhxZ3FHVE9wanM3elVBam9mbHc1TUwxenRoc2dZclVVSg?oc=5",
     "source": "Ad Age",
     "source_category": "marketing",
-    "published": "2026-05-18T09:00:00+00:00",
-    "summary": "The top 5 creative campaigns to know about right now Ad Age",
+    "published": "2026-05-18T13:19:00+00:00",
+    "summary": "2026 Healthcare Marketing Impact Awards Ad Age",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 24
+  },
+  {
+    "id": "d6933666093d",
+    "title": "12 creative campaigns to know about today - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOZXZrekFDUGpreW50a29CVUd3TUM1U2N0ZVI4TERUYkN3Zk13VUxQN2ZITEMzYl85N3pvemVTMU5oaDVyRk5ual9DYzRoaUFsRy1uZnJ6eUNiNWh1OENockFGTHBzLW04WU9JNDRjSnNfZUxMakZpU3NYakNuOWZUaE0xQWtDaG9UOWZYZ2pwczRVWkFFWHU1QXdBYW14SEJGbUh4bV95WU92bUJzejMweGdhNUZ1bEtoV3o0NGxNQkZCbVR4WGE3WVVn?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-05-19T15:30:00+00:00",
+    "summary": "12 creative campaigns to know about today Ad Age",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -587,13 +589,13 @@
     "relevance_score": 23
   },
   {
-    "id": "3be38cd5a37d",
-    "title": "Jyoti Vaidee is creating automated ad products for brands on Reddit - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1KUXE2NXVTTlN0UUZSVkpERm1LWUNDeUVoZ1R1S09aTTM4TklKcHdBaXY1Mk42WktzM3FDVHFFcERnbmp5LUt1bWNiekx6aGpWVW41dmQ2T2RSN19EdTVkYVZjV1d2U0hPYTN0d0U5dlJzNi1rS2xYTGJENA?oc=5",
+    "id": "83df54816b8b",
+    "title": "Ad Age Tech Power List honors ad tech and brand leaders from Bose to Reddit - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5EUjlab0p3OEplTGlCVW5XazI4b2NLZ1M3NnJFa3BpODZwaThpNmpVVDZOTXpOak1QTkVWekd3QzQ4bDlnSUpMUVQ1NVFrWm9TcHBXSGVCUXZrMVZYaWRkTmpHdERoY3lHYjhzOXVYcTg4ODlFTEVJ?oc=5",
     "source": "Ad Age",
     "source_category": "marketing",
     "published": "2026-05-18T10:00:00+00:00",
-    "summary": "Jyoti Vaidee is creating automated ad products for brands on Reddit Ad Age",
+    "summary": "Ad Age Tech Power List honors ad tech and brand leaders from Bose to Reddit Ad Age",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -601,6 +603,43 @@
       "industrial"
     ],
     "relevance_score": 20
+  },
+  {
+    "id": "0107c7604be7",
+    "title": "How AI innovations in TV are meeting brand needs—and how they’re coming up short - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVWR4WHZaaHBZOU5ZZ201QkhacVdOamp1V1FmWElOdlZKb2c1S09GQnpQTmJ3Z3FSQlBha05GRDk5TC1VMHNndlQ5bU5YODZ4TlA1U3VCV1RtbmI2UjhVbWNOb08wdFV0TExOQVFPWGQ5UGVvUzQxR1ItRGZRNWFRMDRVd3Z2UzhPeTUyNmVsX2RwcDJxbjNkZVhHbGYxdXpQQkRlSFdpdw?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-05-20T09:00:00+00:00",
+    "summary": "How AI innovations in TV are meeting brand needs—and how they’re coming up short Ad Age",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 20
+  },
+  {
+    "id": "de883128402f",
+    "title": "WWE Saturday Night’s Main Event 2026 Results As Jade Cargill Pins Rhea Ripley",
+    "url": "https://www.forbes.com/sites/blakeoestriecher/2026/05/23/wwe-saturday-nights-main-event-2026-results-as-jade-cargill-pins-rhea-ripley/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-05-24T00:32:02+00:00",
+    "summary": "At WWE Saturday Night’s Main Event 2026, Jade Cargill got some WrestleMania revenge by pinning Rhea Ripley in tag team action.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a0b1ba43cd3d01a75bcf0c8/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 17
   },
   {
     "id": "c43e773594d6",
@@ -620,60 +659,17 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 17
-  },
-  {
-    "id": "07c09cd5cda0",
-    "title": "Valvoline Coupons & Promo Codes for May 2026",
-    "url": "https://www.wired.com/story/valvoline-coupons/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-05-23T05:00:00+00:00",
-    "summary": "We've gathered all the top Valvoline coupons and promo codes for May 2026, including deals on full synthetic oil changes and other essential maintenance.",
-    "image_url": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ],
-    "industries": [
-      "industrial"
-    ],
     "relevance_score": 16
   },
   {
-    "id": "0583979ffdc4",
-    "title": "Memorial Day Dyson Vacuum Deals: V15 Detect, Gen5Detect, PencilVac On Sale",
-    "url": "https://www.wired.com/story/dyson-vacuum-deals-memorial-day-2026/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-05-23T13:37:45+00:00",
-    "summary": "Wishing for your very own Dyson vacuum? Don’t miss these vacuum deals happening over the holiday weekend.",
-    "image_url": "https://media.wired.com/photos/6a0f59295911df75ea3deb49/master/pass/Memorial%20Day%20Deals%20Dyson%20Vacuum%20top%20art%20052026%20SOURCE%20Amazon.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "Gear / Products / Home",
-      "Shopping",
-      "household"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "00af7d8bbaf5",
-    "title": "At The Indy 500, The Most Valuable Real Estate Is The Front Row",
-    "url": "https://www.forbes.com/sites/giovannimalloy/2026/05/23/at-the-indy-500-the-most-valuable-real-estate-is-the-front-row/",
+    "id": "7cccc7fcb9f0",
+    "title": "The Reported USMNT World Cup Squad And What It Says About Pochettino",
+    "url": "https://www.forbes.com/sites/ianquillen/2026/05/23/the-reported-usmnt-world-cup-squad-and-what-it-says-about-pochettino/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-05-23T15:53:23+00:00",
-    "summary": "Indy 500 results from 2018 to 2025 show Honda and Chevrolet closely matched, while front-row starters earned a decisive race-day and financial advantage at Indianapolis.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a1115bf6dd7db71c239f1e1/0x0.jpg",
+    "published": "2026-05-24T00:31:56+00:00",
+    "summary": "The Guardian on Saturday published what it said was manager Mauricio Pochettino’s 2026 USMNT World Cup squad in full, according to multiple sources.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a123f5de0d864127b131848/0x0.jpg?width=960&precrop=1819%2C1024%2Cx575%2Cy55",
     "tags": [
       "SportsMoney",
       "/sportsmoney",
@@ -708,20 +704,20 @@
     "relevance_score": 15
   },
   {
-    "id": "d709369a5d8e",
-    "title": "Best Memorial Day Deals: Garmin, Birdfy, Branch (2026)",
-    "url": "https://www.wired.com/story/best-memorial-day-deals-2026-1/",
+    "id": "07c09cd5cda0",
+    "title": "Valvoline Coupons & Promo Codes for May 2026",
+    "url": "https://www.wired.com/story/valvoline-coupons/",
     "source": "Wired",
     "source_category": "ai",
-    "published": "2026-05-23T09:56:00+00:00",
-    "summary": "Memorial Day isn’t until Monday, but sales on our favorite gear are going on all weekend.",
-    "image_url": "https://media.wired.com/photos/6a10a47ac5d38b1aa367362d/master/pass/Memorial%20Day%20Deals%20Early%20top%20art%20updated%20052026%20SOURCE%20Amazon.jpg",
+    "published": "2026-05-23T05:00:00+00:00",
+    "summary": "We've gathered all the top Valvoline coupons and promo codes for May 2026, including deals on full synthetic oil changes and other essential maintenance.",
+    "image_url": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png",
     "tags": [
       "Gear",
       "Gear / Deals",
+      "coupons",
       "Shopping",
-      "Deals",
-      "Memorial Day"
+      "Coupons"
     ],
     "industries": [
       "industrial"
@@ -750,42 +746,63 @@
     "relevance_score": 15
   },
   {
-    "id": "8571e6ce04e3",
-    "title": "‘The Boroughs’ Rotten Tomatoes Review Score Passes ‘Stranger Things’",
-    "url": "https://www.forbes.com/sites/paultassi/2026/05/23/the-boroughs-rotten-tomatoes-review-score-passes-stranger-things/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-05-23T14:17:31+00:00",
-    "summary": "The Boroughs is a Stranger Things-adjacent new series produced by the Duffer Brothers that has now surpassed that show's Rotten Tomatoes score.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a11b62924afeacbc2a03c65/0x0.jpg",
+    "id": "0583979ffdc4",
+    "title": "Memorial Day Dyson Vacuum Deals: V15 Detect, Gen5Detect, PencilVac On Sale",
+    "url": "https://www.wired.com/story/dyson-vacuum-deals-memorial-day-2026/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-05-23T13:37:45+00:00",
+    "summary": "Wishing for your very own Dyson vacuum? Don’t miss these vacuum deals happening over the holiday weekend.",
+    "image_url": "https://media.wired.com/photos/6a0f59295911df75ea3deb49/master/pass/Memorial%20Day%20Deals%20Dyson%20Vacuum%20top%20art%20052026%20SOURCE%20Amazon.jpg",
     "tags": [
-      "Gaming",
-      "/gaming",
-      "Innovation",
-      "/innovation",
-      "Gaming"
+      "Gear",
+      "Gear / Deals",
+      "Gear / Products / Home",
+      "Shopping",
+      "household"
     ],
     "industries": [
-      "media",
+      "tech",
       "industrial"
     ],
     "relevance_score": 15
   },
   {
-    "id": "ccd05b599cbf",
-    "title": "First-Place Milwaukee Brewers Also Have MLB’s Top Prospect, Jesus Made",
-    "url": "https://www.forbes.com/sites/chuckmurr/2026/05/23/first-place-milwaukee-brewers-also-have-mlbs-top-prospect-jesus-made/",
+    "id": "00af7d8bbaf5",
+    "title": "At The Indy 500, The Most Valuable Real Estate Is The Front Row",
+    "url": "https://www.forbes.com/sites/giovannimalloy/2026/05/23/at-the-indy-500-the-most-valuable-real-estate-is-the-front-row/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-05-23T19:10:06+00:00",
-    "summary": "Jesus Made has baseball skills and a name straight from Heaven. The No. 1 prospect by MLB.com may just become the Milwaukee Brewers’ shortstop this year at age 19.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a11bc02c273976f9e85269d/0x0.jpg?width=960&precrop=1466%2C906%2Cx0%2Cy70",
+    "published": "2026-05-23T15:53:23+00:00",
+    "summary": "Indy 500 results from 2018 to 2025 show Honda and Chevrolet closely matched, while front-row starters earned a decisive race-day and financial advantage at Indianapolis.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a1115bf6dd7db71c239f1e1/0x0.jpg",
     "tags": [
       "SportsMoney",
       "/sportsmoney",
       "Business",
       "/business",
       "SportsMoney"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "b1b63279b9ca",
+    "title": "Record Club is trying to be Letterboxd for music nerds",
+    "url": "https://www.theverge.com/entertainment/936829/record-club-letterboxd-for-music-nerds",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-05-23T22:41:11+00:00",
+    "summary": "There isn't really a solid equivalent to Goodreads or Letterboxd for music lovers, but Record Club is aiming to change that. Yes, we have Rate Your Music, but its interface is crowded, and it feels more geared towards longer-form reviews than cataloging your listening habits...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-23-at-6.30.34PM.png?quality=90&amp;strip=all&amp;crop=0%2C9.6034762271773%2C100%2C80.793047545645&amp;w=1200",
+    "tags": [
+      "Culture",
+      "Entertainment",
+      "Internet Culture",
+      "Music",
+      "News"
     ],
     "industries": [
       "industrial"
@@ -834,6 +851,27 @@
     "relevance_score": 14
   },
   {
+    "id": "d709369a5d8e",
+    "title": "Best Memorial Day Deals: Garmin, Birdfy, Branch (2026)",
+    "url": "https://www.wired.com/story/best-memorial-day-deals-2026-1/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-05-23T09:56:00+00:00",
+    "summary": "Memorial Day isn’t until Monday, but sales on our favorite gear are going on all weekend.",
+    "image_url": "https://media.wired.com/photos/6a10a47ac5d38b1aa367362d/master/pass/Memorial%20Day%20Deals%20Early%20top%20art%20updated%20052026%20SOURCE%20Amazon.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "Shopping",
+      "Deals",
+      "Memorial Day"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
     "id": "213bb1648878",
     "title": "Google’s new anything-to-anything AI model is wild",
     "url": "https://www.theverge.com/tech/936507/gemini-omni-hands-on-deepfake-ai-video",
@@ -877,84 +915,47 @@
     "relevance_score": 14
   },
   {
-    "id": "a95947d48c55",
-    "title": "The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab",
-    "url": "https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-05-23T15:00:00+00:00",
-    "summary": "Roger Linn is a legend in the world of musical instruments. He's been at the cutting edge of music technology for decades. He created the LM-1, the first drum machine to use samples, and its successor, the LinnDrum, is one of the most iconic drum machines of all time. They...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Roger-Linn-headshot.jpg?quality=90&amp;strip=all&amp;crop=0%2C27.725467242494%2C100%2C34.909858572115&amp;w=1200",
-    "tags": [
-      "Column",
-      "Entertainment",
-      "Interview",
-      "Music",
-      "Report"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "18a6ce82b094",
-    "title": "A U.S. Navy Supercarrier Is Now Operating In The Indo-Pacific",
-    "url": "https://www.forbes.com/sites/petersuciu/2026/05/23/a-us-navy-supercarrier-is-now-operating-in-the-indo-pacific/",
+    "id": "8571e6ce04e3",
+    "title": "‘The Boroughs’ Rotten Tomatoes Review Score Passes ‘Stranger Things’",
+    "url": "https://www.forbes.com/sites/paultassi/2026/05/23/the-boroughs-rotten-tomatoes-review-score-passes-stranger-things/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-05-23T15:52:47+00:00",
-    "summary": "The forward-deployed USS George Washington departed from United States Navy Base-Fleet Activities Yokosuka on Saturday with little fanfare",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a11cae3487ac08c72cfcc2a/0x0.jpg",
+    "published": "2026-05-23T14:17:31+00:00",
+    "summary": "The Boroughs is a Stranger Things-adjacent new series produced by the Duffer Brothers that has now surpassed that show's Rotten Tomatoes score.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a11b62924afeacbc2a03c65/0x0.jpg",
     "tags": [
-      "Aerospace & Defense",
-      "/aerospace-defense",
-      "Business",
-      "/business",
-      "Aerospace & Defense"
+      "Gaming",
+      "/gaming",
+      "Innovation",
+      "/innovation",
+      "Gaming"
     ],
     "industries": [
-      "telecom",
+      "media",
       "industrial"
     ],
     "relevance_score": 14
   },
   {
-    "id": "d932db6d3482",
-    "title": "Ebola Outbreak: Attackers Burn Down Another Clinic In DRC As Outbreak Rages",
-    "url": "https://www.forbes.com/sites/maryroeloffs/2026/05/23/ebola-outbreak-attackers-burn-down-another-clinic-in-drc-as-outbreak-rages/",
+    "id": "ccd05b599cbf",
+    "title": "First-Place Milwaukee Brewers Also Have MLB’s Top Prospect, Jesus Made",
+    "url": "https://www.forbes.com/sites/chuckmurr/2026/05/23/first-place-milwaukee-brewers-also-have-mlbs-top-prospect-jesus-made/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-05-23T17:16:17+00:00",
-    "summary": "One American who contracted Ebola is receiving treatment in Germany.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a1070d4103a966d84654c53/0x0.jpg?width=960&precrop=3464%2C1948%2Cx0%2Cy0",
+    "published": "2026-05-23T19:10:06+00:00",
+    "summary": "Jesus Made has baseball skills and a name straight from Heaven. The No. 1 prospect by MLB.com may just become the Milwaukee Brewers’ shortstop this year at age 19.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a11bc02c273976f9e85269d/0x0.jpg?width=960&precrop=1466%2C906%2Cx0%2Cy70",
     "tags": [
+      "SportsMoney",
+      "/sportsmoney",
       "Business",
       "/business",
-      "Business",
-      "/business",
-      "Breaking"
+      "SportsMoney"
     ],
     "industries": [
       "industrial"
     ],
     "relevance_score": 14
-  },
-  {
-    "id": "058346ce6755",
-    "title": "How to Scale Salesforce for 1 Million Concurrent Users",
-    "url": "https://www.salesforce.com/blog/scale-salesforce-concurrent-users/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-22T00:40:56+00:00",
-    "summary": "Learn how architects design for massive scale, using a prime-time televised guessing game as the challenge.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Untitled-design-8.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
   },
   {
     "id": "52a644ed98bb",
@@ -987,87 +988,6 @@
     "tags": [
       "CBS",
       "People"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "ac5328fb9f49",
-    "title": "Adobe Inc. (NASDAQ: ADBE) Stock Trades Near $249 as AI Productivity Agent Launches in Acrobat - foreignpolicyjournal.com",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPSG1BUkl2UmRpTXlrMTQzamI4R21lR19pS2ltbzNhZzktWmZTQktZMjVFMmR6RlFBVXlBQnBDUEVWRHR4WGpGaDRtcHktR2cwZm5yaEVZam5zcXRsS29Yc3hOMExnQ190SzIxc3piUEdJaGJPUlJyLWZtdW1CQWY5SFJsaW4xbk1KTWhFa1BMQmxEa01xOGtDdHZvSHhuZG5NSjdUbENEamY0MzJvdjhEc0lQUFdhUWUwQTF2QU1HRDhTT0lQX2htTVNXelpFTWdVbkow?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-05-23T00:59:00+00:00",
-    "summary": "Adobe Inc. (NASDAQ: ADBE) Stock Trades Near $249 as AI Productivity Agent Launches in Acrobat foreignpolicyjournal.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13,
-    "also_covered_by": [
-      "Adobe Inc"
-    ]
-  },
-  {
-    "id": "cabcd9d00364",
-    "title": "Sketchy Imbalances In Data Training Are Distorting AI-Generated Mental Health Guidance",
-    "url": "https://www.forbes.com/sites/lanceeliot/2026/05/23/sketchy-imbalances-in-data-training-are-distorting-ai-generated-mental-health-guidance/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-05-23T07:15:00+00:00",
-    "summary": "Most people do not realize that AI has imbalances due to the initial training of the AI. This is worrisome for AI giving out mental health advice. An AI Insider scoop.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/691d46d65c2881a828dd2759/0x0.jpg?width=960",
-    "tags": [
-      "AI",
-      "/ai",
-      "Innovation",
-      "/innovation",
-      "AI"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "97c6a1405cfd",
-    "title": "Phillies’ Bryce Harper Offers Response On Cutting Ties With Homegrown Slugger",
-    "url": "https://www.forbes.com/sites/peterchawaga/2026/05/23/phillies-bryce-harper-offers-response-on-cutting-ties-with-homegrown-slugger/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-05-23T10:00:00+00:00",
-    "summary": "The Philadelphia Phillies’ franchise slugger sent a “feel bad” message on the team’s decision to move on from an injured fan favorite.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69fca281f65ee4b4f5eb68a4/0x0.jpg?width=960&precrop=4024%2C2264%2Cx0%2Cy0",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "b703ba1bad2f",
-    "title": "Cosmic Voids May Contain the Universe’s Best Secrets",
-    "url": "https://www.wired.com/story/cosmic-voids-might-contain-universes-best-secrets/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-05-23T10:00:00+00:00",
-    "summary": "Once dismissed as empty expanses between galaxies, cosmic voids are becoming one of the most promising tools for probing the universe’s biggest mysteries.",
-    "image_url": "https://media.wired.com/photos/69f8b35fae7585ea23948deb/master/pass/GettyImages-90532973.jpg",
-    "tags": [
-      "Science",
-      "Science / Space",
-      "Astronomy",
-      "physics",
-      "space"
     ],
     "industries": [
       "industrial"
@@ -1118,14 +1038,58 @@
     "relevance_score": 13
   },
   {
-    "id": "f6fdec2bc3b8",
-    "title": "Trump Posts More Bizarre AI Images—Targeting Greenland, Stephen Colbert And Others",
-    "url": "https://www.forbes.com/sites/zacharyfolk/2026/05/23/trump-posts-more-bizarre-ai-images-targeting-greenland-stephen-colbert-and-others/",
+    "id": "a95947d48c55",
+    "title": "The man behind the legendary MPC, Roger Linn, stays focused with a single browser tab",
+    "url": "https://www.theverge.com/entertainment/936426/mpc-linndrum-roger-linn-questionnaire-music-tech",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-05-23T15:00:00+00:00",
+    "summary": "Roger Linn is a legend in the world of musical instruments. He's been at the cutting edge of music technology for decades. He created the LM-1, the first drum machine to use samples, and its successor, the LinnDrum, is one of the most iconic drum machines of all time. They...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Roger-Linn-headshot.jpg?quality=90&amp;strip=all&amp;crop=0%2C27.725467242494%2C100%2C34.909858572115&amp;w=1200",
+    "tags": [
+      "Column",
+      "Entertainment",
+      "Interview",
+      "Music",
+      "Report"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "18a6ce82b094",
+    "title": "A U.S. Navy Supercarrier Is Now Operating In The Indo-Pacific",
+    "url": "https://www.forbes.com/sites/petersuciu/2026/05/23/a-us-navy-supercarrier-is-now-operating-in-the-indo-pacific/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-05-23T16:01:43+00:00",
-    "summary": "The president appears to be fixating once again on Greenland, the Danish territory in the Arctic.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a11ceb9acb441f4f89f57e3/0x0.jpg?width=960&precrop=2626%2C1478%2Cx0%2Cy243",
+    "published": "2026-05-23T15:52:47+00:00",
+    "summary": "The forward-deployed USS George Washington departed from United States Navy Base-Fleet Activities Yokosuka on Saturday with little fanfare",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a11cae3487ac08c72cfcc2a/0x0.jpg",
+    "tags": [
+      "Aerospace & Defense",
+      "/aerospace-defense",
+      "Business",
+      "/business",
+      "Aerospace & Defense"
+    ],
+    "industries": [
+      "telecom",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "43fc35ebba6d",
+    "title": "Trump Says Agreement To End Iran War Is ‘Largely Negotiated’",
+    "url": "https://www.forbes.com/sites/zacharyfolk/2026/05/23/trump-says-agreement-to-end-iran-war-is-largely-negotiated/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-05-23T21:18:35+00:00",
+    "summary": "Officials in Pakistan told Reuters ongoing peace negotiations were “encouraging.”",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a11f793001fc6e1ab9c66a3/0x0.jpg?width=960&precrop=3639%2C2046%2Cx0%2Cy188",
     "tags": [
       "Breaking News",
       "/news",
@@ -1134,8 +1098,6 @@
       "Breaking News"
     ],
     "industries": [
-      "tech",
-      "retail",
       "industrial"
     ],
     "relevance_score": 13
@@ -1173,6 +1135,21 @@
     "industries": [
       "industrial",
       "financial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "058346ce6755",
+    "title": "How to Scale Salesforce for 1 Million Concurrent Users",
+    "url": "https://www.salesforce.com/blog/scale-salesforce-concurrent-users/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-22T00:40:56+00:00",
+    "summary": "Learn how architects design for massive scale, using a prime-time televised guessing game as the challenge.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Untitled-design-8.png",
+    "tags": [],
+    "industries": [
+      "industrial"
     ],
     "relevance_score": 12
   },
@@ -1239,38 +1216,22 @@
     "relevance_score": 12
   },
   {
-    "id": "4287b9dc53b3",
-    "title": "AI is being used to resurrect the voices of dead pilots",
-    "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
-    "source": "TechCrunch AI",
+    "id": "b703ba1bad2f",
+    "title": "Cosmic Voids May Contain the Universe’s Best Secrets",
+    "url": "https://www.wired.com/story/cosmic-voids-might-contain-universes-best-secrets/",
+    "source": "Wired",
     "source_category": "ai",
-    "published": "2026-05-22T23:03:33+00:00",
-    "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/UPS-crash-flight-kentucky-Getty.jpg?resize=1200,800",
+    "published": "2026-05-23T10:00:00+00:00",
+    "summary": "Once dismissed as empty expanses between galaxies, cosmic voids are becoming one of the most promising tools for probing the universe’s biggest mysteries.",
+    "image_url": "https://media.wired.com/photos/69f8b35fae7585ea23948deb/master/pass/GettyImages-90532973.jpg",
     "tags": [
-      "AI",
-      "Transportation",
-      "crash",
-      "flight",
-      "In Brief"
+      "Science",
+      "Science / Space",
+      "Astronomy",
+      "physics",
+      "space"
     ],
     "industries": [
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "ee04b5964f1f",
-    "title": "T-Mobile Enterprise 5G Revenue Surges to KES 2.5 Trillion in Q1 2026 - streamlinefeed.co.ke",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxONWNQWjluSHhndm5tbG91dk9WbXlYampiMC0yMjI4d1g3Q3AyRGF3amM0TkNWcGdZQy1NYUhRbjZLZWlaYUZDVGUtRDlXYUhFelJNRnA3U0NfdW5nRGVobmRtTGRHLXRpUGktSnoxTHdHamY3b25sLXVaWEhmRV9EVzdfMlpGQ3JtMk5sSzJZTmR5UlVnWEltSGNLM011RG5xUk1aRA?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-05-23T06:20:39+00:00",
-    "summary": "T-Mobile Enterprise 5G Revenue Surges to KES 2.5 Trillion in Q1 2026 streamlinefeed.co.ke",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
       "industrial"
     ],
     "relevance_score": 12
@@ -1296,15 +1257,44 @@
     "relevance_score": 12
   },
   {
-    "id": "3d0161885bb6",
-    "title": "Canva and Adobe are coming to Gemini, and they want to make everything chatty - Yahoo Tech",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWJxOUlGdXdDZjYwZVFmbXNNWTF4cTV6T1JGOTJMZWZ5WnI3NXJWcGRDbk5FbjAtX3lscDZteDhTMTVNMUtfQWlQYXNhTkExLXFzNnBnbC1vRkt3S0UwYXJNcTUxSUVORWt3TFpkNjROQzM0WGwtX3M4YklFSS1kUG4yT2lsTXdZVUdCVUdkdW8?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-05-23T13:14:43+00:00",
-    "summary": "Canva and Adobe are coming to Gemini, and they want to make everything chatty Yahoo Tech",
-    "image_url": null,
-    "tags": [],
+    "id": "f6fdec2bc3b8",
+    "title": "Trump Posts More Bizarre AI Images—Targeting Greenland, Stephen Colbert And Others",
+    "url": "https://www.forbes.com/sites/zacharyfolk/2026/05/23/trump-posts-more-bizarre-ai-images-targeting-greenland-stephen-colbert-and-others/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-05-23T16:01:43+00:00",
+    "summary": "The president appears to be fixating once again on Greenland, the Danish territory in the Arctic.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a11ceb9acb441f4f89f57e3/0x0.jpg?width=960&precrop=2626%2C1478%2Cx0%2Cy243",
+    "tags": [
+      "Breaking News",
+      "/news",
+      "Business",
+      "/business",
+      "Breaking News"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "d932db6d3482",
+    "title": "Ebola Outbreak: Attackers Burn Down Another Clinic In DRC As Outbreak Rages",
+    "url": "https://www.forbes.com/sites/maryroeloffs/2026/05/23/ebola-outbreak-attackers-burn-down-another-clinic-in-drc-as-outbreak-rages/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-05-23T17:16:17+00:00",
+    "summary": "One American who contracted Ebola is receiving treatment in Germany.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a1070d4103a966d84654c53/0x0.jpg?width=960&precrop=3464%2C1948%2Cx0%2Cy0",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
     "industries": [
       "industrial"
     ],
@@ -1419,6 +1409,24 @@
     "relevance_score": 11
   },
   {
+    "id": "ae7b4a66e57b",
+    "title": "D&B's database of 642 million businesses was built for humans, not AI agents. So they rebuilt it.",
+    "url": "https://venturebeat.com/data/d-and-bs-database-of-642-million-businesses-was-built-for-humans-not-ai-agents-so-they-rebuilt-it",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-05-22T13:00:00+00:00",
+    "summary": "Dun & Bradstreet has spent over 180 years building a comprehensive commercial database. Its Commercial Graph, covering 642 million businesses and their relationships, corporate hierarchies and risk profiles, was designed for people. Credit analysts, risk managers and sales...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5h07xIBH1aSM1191hKeXCx/17194ab3abc451c88f3c47324e72c0e6/agentic-context-graph-smk1.jpg?w=300&q=30",
+    "tags": [
+      "Data"
+    ],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "1350bc420fab",
     "title": "Hospitals sue CVS for allegedly siphoning $250M in 340B funds",
     "url": "https://www.healthcaredive.com/news/hospitals-file-340b-lawsuit-cvs-health/820959/",
@@ -1456,6 +1464,28 @@
     "relevance_score": 11
   },
   {
+    "id": "60b37b1a529a",
+    "title": "We tried Google’s AI glasses and they’re almost there",
+    "url": "https://techcrunch.com/2026/05/22/we-tried-googles-ai-glasses-and-theyre-almost-there/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-05-22T15:37:15+00:00",
+    "summary": "Google demoed prototype Android XR glasses that overlay Gemini-powered translation, navigation, and other information directly into your field of view.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/1_IO_Glasses_Product_GentleMonst.width-1000.format-webp_NnExl2N.webp?w=1000",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "Hardware",
+      "Android XR",
+      "android xr glasses"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "f9730cd6020b",
     "title": "You can no longer Google the word ‘disregard’",
     "url": "https://techcrunch.com/2026/05/22/you-can-no-longer-google-the-word-disregard/",
@@ -1478,18 +1508,17 @@
     "relevance_score": 11
   },
   {
-    "id": "0b7555e9c9f0",
-    "title": "Paraguay Sees 24% Surge In Digital Payments As Consumer Habits Shift - The Asunción Times",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaUVUWmNvUXQ4WFZNTnIxSjVsaHdVU05kWm1VeWtvVUEwakpxMDVjd3BEbk02THlxRENRWWtlSEE4V1Y5TjVXaVpLU01odnV2UTZxMHpxejQ4dzdadWRCOC1XREVoelVyU1RDbW5KUTV1VFlaTlNnSDNyVlpWaEJGVGdzSllEMnNGQmJBTmFnWkN1N1NGYnRQMlVhcE4zck5IRVg1RW92QVpOWVgxbllGYUp4ckpSNlE?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-05-23T09:50:00+00:00",
-    "summary": "Paraguay Sees 24% Surge In Digital Payments As Consumer Habits Shift The Asunción Times",
+    "id": "3d0161885bb6",
+    "title": "Canva and Adobe are coming to Gemini, and they want to make everything chatty - Yahoo Tech",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOLWJxOUlGdXdDZjYwZVFmbXNNWTF4cTV6T1JGOTJMZWZ5WnI3NXJWcGRDbk5FbjAtX3lscDZteDhTMTVNMUtfQWlQYXNhTkExLXFzNnBnbC1vRkt3S0UwYXJNcTUxSUVORWt3TFpkNjROQzM0WGwtX3M4YklFSS1kUG4yT2lsTXdZVUdCVUdkdW8?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-05-23T13:14:43+00:00",
+    "summary": "Canva and Adobe are coming to Gemini, and they want to make everything chatty Yahoo Tech",
     "image_url": null,
     "tags": [],
     "industries": [
-      "industrial",
-      "financial"
+      "industrial"
     ],
     "relevance_score": 11
   },
@@ -1767,19 +1796,53 @@
     "relevance_score": 10
   },
   {
-    "id": "91e3fdf2e1e0",
-    "title": "Your AI agents need a terminal, not just a vector database",
-    "url": "https://venturebeat.com/orchestration/your-ai-agents-need-a-terminal-not-just-a-vector-database",
-    "source": "VentureBeat",
+    "id": "4287b9dc53b3",
+    "title": "AI is being used to resurrect the voices of dead pilots",
+    "url": "https://techcrunch.com/2026/05/22/ai-is-being-used-to-resurrect-the-voices-of-dead-pilots/",
+    "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-05-22T21:05:07+00:00",
-    "summary": "When agentic workflows fail, developers often assume the problem lies in the underlying model’s reasoning abilities. In reality, the limited information provided by the retrieval interface is often the primary limiting factor. Researchers at multiple universities propose a...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/51KtnPJMnFTcVI5RCYgMb1/60e17e8e05411ce2080a43004719706a/ai_agent_using_the_terminal.png?w=300&q=30",
+    "published": "2026-05-22T23:03:33+00:00",
+    "summary": "People used AI on a spectrogram image of cockpit recordings to reconstruct them, forcing the NTSB to temporarily block access to its docket system.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/UPS-crash-flight-kentucky-Getty.jpg?resize=1200,800",
     "tags": [
-      "Orchestration"
+      "AI",
+      "Transportation",
+      "crash",
+      "flight",
+      "In Brief"
     ],
     "industries": [
-      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "0b7555e9c9f0",
+    "title": "Paraguay Sees 24% Surge In Digital Payments As Consumer Habits Shift - The Asunción Times",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQaUVUWmNvUXQ4WFZNTnIxSjVsaHdVU05kWm1VeWtvVUEwakpxMDVjd3BEbk02THlxRENRWWtlSEE4V1Y5TjVXaVpLU01odnV2UTZxMHpxejQ4dzdadWRCOC1XREVoelVyU1RDbW5KUTV1VFlaTlNnSDNyVlpWaEJGVGdzSllEMnNGQmJBTmFnWkN1N1NGYnRQMlVhcE4zck5IRVg1RW92QVpOWVgxbllGYUp4ckpSNlE?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-05-23T09:50:00+00:00",
+    "summary": "Paraguay Sees 24% Surge In Digital Payments As Consumer Habits Shift The Asunción Times",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "cd6583ea5a93",
+    "title": "These Migrants Want to Self-Deport. Getting Out Is Harder Than They Thought. - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQS2lkMG51SlpMU1JPczVTTGYyM3oydEtIZC13WU5yT1BNNTVWc0Vxamhteng3Q3d1N3VWSGVXNWctNXBxUF9GY1RvQTdwQ09ZbFR4ekh2dDJ1aE5wcmZCU3VfRmJFbkE3MGhqRXNPZ1FQalVnVmtfNWpMTVU0Rm5wMkRkSHNCRDJtRmlhTi04Z0FaR1c4blNxVEkxUnNhcHBaaW53aU1LVVFsZlg0ekdYVA?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-05-23T22:31:25+00:00",
+    "summary": "These Migrants Want to Self-Deport. Getting Out Is Harder Than They Thought. WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
       "industrial"
     ],
     "relevance_score": 10
@@ -1811,60 +1874,6 @@
     "image_url": "https://imgproxy.divecdn.com/vp0v3vi9WN-h_YguPfXh2znzAnvYKMOfliRvaTsP1jc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjk5MTU3NTQ1LmpwZw==.webp",
     "tags": [],
     "industries": [
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "c7b2e181d481",
-    "title": "OpenEvidence launches hands-free voice AI feature, expands hospital footprint with Cedars-Sinai tie-up",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/openevidence-launches-hands-free-voice-ai-feature-expands-hospital",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-21T07:15:00+00:00",
-    "summary": "OpenEvidence built out a voice AI feature as part of its popular medical search engine that gives physicians a hands-free way to ask questions and get evidence-based answers.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2266278482.jpg?VersionId=.i6Wi4Cb4skAy1trrqAdd6_ZQQWei7GM",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "2323a89185ae",
-    "title": "How Founders Are Moving Boldly Into The Agentic Enterprise: Startup Summit Insights",
-    "url": "https://www.salesforce.com/blog/small-business/annual-startup-summit-insights/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-21T13:00:00+00:00",
-    "summary": "Salesforce's Startup Summit offers a front-row seat to watch the agentic playbook being written.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Screenshot-2026-05-20-at-10.02.29-AM.png?w=1545",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "02f7a7c14318",
-    "title": "Spotify adds AI-powered Q&A and briefing generation features to podcasts",
-    "url": "https://techcrunch.com/2026/05/21/spotify-adds-ai-powered-qa-and-briefing-generation-features-to-podcasts/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-05-21T15:27:00+00:00",
-    "summary": "Spotify will let you generate daily or weekly briefs based on your prompts",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Screenshot-2026-05-21-at-5.45.05-PM.jpg?resize=1200,675",
-    "tags": [
-      "AI",
-      "Apps",
-      "AI audio",
-      "ai generated content",
-      "Spotify"
-    ],
-    "industries": [
-      "media",
       "industrial"
     ],
     "relevance_score": 9
