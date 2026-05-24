@@ -111,7 +111,10 @@
     "industries": [
       "media"
     ],
-    "relevance_score": 23
+    "relevance_score": 23,
+    "also_covered_by": [
+      "Social Media"
+    ]
   },
   {
     "id": "9d45c404870d",
@@ -128,27 +131,6 @@
       "Business",
       "/business",
       "SportsMoney"
-    ],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "1fed40812a43",
-    "title": "‘The Mandalorian And Grogu’ Sets A Rotten Tomatoes Audience Score Record",
-    "url": "https://www.forbes.com/sites/paultassi/2026/05/24/the-mandalorian-and-grogu-sets-a-rotten-tomatoes-audience-score-record/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-05-24T14:13:37+00:00",
-    "summary": "The Mandalorian and Grogu did not review amazingly with critics, but audiences are a lot more on board, according to Rotten Tomatoes scores.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/68d1500a4827d760fb83a16b/0x0.jpg",
-    "tags": [
-      "Gaming",
-      "/gaming",
-      "Innovation",
-      "/innovation",
-      "Gaming"
     ],
     "industries": [
       "media"
@@ -175,6 +157,49 @@
     "relevance_score": 14
   },
   {
+    "id": "1fed40812a43",
+    "title": "‘The Mandalorian And Grogu’ Sets A Rotten Tomatoes Audience Score Record",
+    "url": "https://www.forbes.com/sites/paultassi/2026/05/24/the-mandalorian-and-grogu-sets-a-rotten-tomatoes-audience-score-record/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-05-24T14:13:37+00:00",
+    "summary": "The Mandalorian and Grogu did not review amazingly with critics, but audiences are a lot more on board, according to Rotten Tomatoes scores.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/68d1500a4827d760fb83a16b/0x0.jpg",
+    "tags": [
+      "Gaming",
+      "/gaming",
+      "Innovation",
+      "/innovation",
+      "Gaming"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "29342b9515e4",
+    "title": "Yankees Weigh Surprising Aaron Judge Move After Career Low",
+    "url": "https://www.forbes.com/sites/peterchawaga/2026/05/24/yankees-weigh-surprising-aaron-judge-move-after-career-low/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-05-24T17:46:27+00:00",
+    "summary": "New York Yankees’ manager Aaron Boone opened the door to a desperation move as the franchise slugger hits a new bottom.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a1339164ddfdb97b549d38c/0x0.jpg?width=960&precrop=3513%2C1977%2Cx0%2Cy1",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
     "id": "7410da547ac2",
     "title": "Media Briefing: Publishers brace themselves for the zero-click era amid Google’s AI search overhaul",
     "url": "https://digiday.com/media/media-briefing-publishers-brace-themselves-for-the-zero-click-era-amid-googles-ai-search-overhaul/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -190,24 +215,6 @@
     "industries": [
       "media",
       "tech"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "e95560112d32",
-    "title": "How Recurrent Ventures Rebuilt Itself",
-    "url": "https://www.adweek.com/media/recurrent-ventures-rebuild/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-05-22T16:55:39+00:00",
-    "summary": "The media company recently sold off half of its identity, part of a broader strategy to create a tighter, more durable business around military and auto.",
-    "image_url": null,
-    "tags": [
-      "Digital Transformation",
-      "General"
-    ],
-    "industries": [
-      "media"
     ],
     "relevance_score": 12
   },
@@ -248,6 +255,24 @@
     "relevance_score": 11
   },
   {
+    "id": "e95560112d32",
+    "title": "How Recurrent Ventures Rebuilt Itself",
+    "url": "https://www.adweek.com/media/recurrent-ventures-rebuild/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-05-22T16:55:39+00:00",
+    "summary": "The media company recently sold off half of its identity, part of a broader strategy to create a tighter, more durable business around military and auto.",
+    "image_url": null,
+    "tags": [
+      "Digital Transformation",
+      "General"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "76ffe809c4eb",
     "title": "Spotify and Universal Music strike deal allowing fan-made AI covers and remixes",
     "url": "https://techcrunch.com/2026/05/21/spotify-and-universal-music-strike-deal-allowing-fan-made-ai-covers-and-remixes/",
@@ -267,7 +292,7 @@
       "media",
       "industrial"
     ],
-    "relevance_score": 11
+    "relevance_score": 10
   },
   {
     "id": "9fe3e2941f05",
@@ -310,21 +335,6 @@
     "industries": [
       "media",
       "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "d73d3f6a5a4f",
-    "title": "How ‘Love Island’ Became the Streaming Hit Peacock Needed - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRnZ6Y2VMM2VlTFlnb3NveDdGeUtuNHpRVzIwWnNBQUxSTzdSYVRQZjRPTEpmek93SnQzMTllOGU4UE42MU9ET25jNThDbF9CZmQxcWdGYjJVY0tWMVF1VVhSaEtJR2lkS3kxT3Fubm9lak51VzZsblBNUEQxUUt3S1F1WTBZVjRLSHBzbzluSkxXcVNRS2NEWUdyWFRPdmRN?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-05-24T09:30:00+00:00",
-    "summary": "How ‘Love Island’ Became the Streaming Hit Peacock Needed WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media"
     ],
     "relevance_score": 9
   },
@@ -382,37 +392,19 @@
     "relevance_score": 8
   },
   {
-    "id": "d0d8c1119e89",
-    "title": "Iran Mediators Race for Deal to Head Off Looming U.S., Israeli Strikes - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOMFZodWN2TGZheWlPMUlRRjVkcTlBd3h4VTlaNll1YVJNQXM3OHBydDVNLWZHSjN2SEN2b2FicHN4c0taNXIwdHBLcW5QdjZCcGdJeG43RmJ3WGxIRnlDbXV2NFFjYUsyRmhNTEJWMGJpNVZMeXd0RDBjS2FwNTBsdUx4Z19MX0MyNUlUYXo2ZjhhcWRiLUFuZFBheHJvTjl3T3E0U3VLcDBrLWdxT2kzZmV2dExnUQ?oc=5",
+    "id": "d73d3f6a5a4f",
+    "title": "How ‘Love Island’ Became the Streaming Hit Peacock Needed - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNRnZ6Y2VMM2VlTFlnb3NveDdGeUtuNHpRVzIwWnNBQUxSTzdSYVRQZjRPTEpmek93SnQzMTllOGU4UE42MU9ET25jNThDbF9CZmQxcWdGYjJVY0tWMVF1VVhSaEtJR2lkS3kxT3Fubm9lak51VzZsblBNUEQxUUt3S1F1WTBZVjRLSHBzbzluSkxXcVNRS2NEWUdyWFRPdmRN?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-05-22T23:04:00+00:00",
-    "summary": "Iran Mediators Race for Deal to Head Off Looming U.S., Israeli Strikes WSJ",
+    "published": "2026-05-24T09:30:00+00:00",
+    "summary": "How ‘Love Island’ Became the Streaming Hit Peacock Needed WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
       "media"
     ],
-    "relevance_score": 7
-  },
-  {
-    "id": "aabfb93a6c6e",
-    "title": "Americans can’t spot a deepfake, and that’s a business crisis, not just a consumer problem",
-    "url": "https://venturebeat.com/security/americans-cant-spot-a-deepfake-and-thats-a-business-crisis-not-just-a-consumer-problem",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-05-21T16:30:00+00:00",
-    "summary": "Presented by Veriff Americans can’t reliably distinguish real from AI-generated content, and that’s not just a media literacy problem; it’s a direct threat to how businesses verify identity online. New research finds that while many people are aware of deepfakes, their...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5QfNSHTW3hZUTYt18CC5bz/6113756b86709f7698795e12b82945df/red-Americans_canâ__t_spot_a_deepfake__and_thatâ__s_a_business_crisis__not_just_a_consumer_problem.jpg?w=300&q=30",
-    "tags": [
-      "Security"
-    ],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 6
+    "relevance_score": 8
   },
   {
     "id": "2ba6bb70c683",
