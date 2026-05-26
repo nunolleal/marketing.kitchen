@@ -10,10 +10,9 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 57,
+    "relevance_score": 54,
     "also_covered_by": [
-      "Wall Street",
-      "Telecom Digital"
+      "Wall Street"
     ]
   },
   {
@@ -106,6 +105,19 @@
     "relevance_score": 17
   },
   {
+    "id": "1852e7f97b8d",
+    "title": "How Salesforce Built a World-Class Partner Ecosystem: The 6-Step Blueprint",
+    "url": "https://www.salesforce.com/blog/sales/salesforce-partner-ecosystem/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-26T18:38:18+00:00",
+    "summary": "Start by evaluating fit, then build an economic model that is profitable for both you and partners.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2024/05/4-Types-of-Channel-Partnerships-and-How-to-Find-Them.jpeg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 17
+  },
+  {
     "id": "7a6efe3ca0c6",
     "title": "Ending the “easy vs. enterprise” compromise with Storefront Next for B2C Commerce",
     "url": "https://www.salesforce.com/blog/storefront-next/",
@@ -120,22 +132,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 16
-  },
-  {
-    "id": "ec229caa1ac5",
-    "title": "How To Lead a Team (To Greatness)",
-    "url": "https://www.salesforce.com/blog/small-business/how-to-lead-a-team/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-26T13:00:00+00:00",
-    "summary": "You’re ready to lead your team to greatness. Here are a few inspirational ideas to get started.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/image_902420.jpeg",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 12
+    "relevance_score": 15
   },
   {
     "id": "058346ce6755",
@@ -179,6 +176,21 @@
     "relevance_score": 11
   },
   {
+    "id": "ec229caa1ac5",
+    "title": "How To Lead a Team (To Greatness)",
+    "url": "https://www.salesforce.com/blog/small-business/how-to-lead-a-team/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-26T13:00:00+00:00",
+    "summary": "You’re ready to lead your team to greatness. Here are a few inspirational ideas to get started.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/image_902420.jpeg",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "044050e1ce8d",
     "title": "Top 7 Financial Blogs For Small Business Owners",
     "url": "https://www.salesforce.com/blog/small-business/financial-blogs-for-entrepreneurs/",
@@ -216,21 +228,6 @@
     "published": "2026-05-20T01:17:00+00:00",
     "summary": "Salesforce TTEC Digital Partnership Puts Agentforce Production Use In Focus Yahoo Finance",
     "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "139be25501cb",
-    "title": "Unified Service and Field Service: Capturing Intelligence (and Value) From Phone Calls to the Field",
-    "url": "https://www.salesforce.com/blog/unified-service-and-field-service/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-21T16:50:21+00:00",
-    "summary": "You're already running on Agentforce Service. Now it's time to extend that same intelligence, efficiency, and customer context to the field.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/unifying-service-and-field-service-1500x844-1.jpg",
     "tags": [],
     "industries": [
       "industrial"
