@@ -40,6 +40,29 @@
     "relevance_score": 55
   },
   {
+    "id": "4c9a02c96f8e",
+    "title": "Pitch Deck: How Olyzon Sold Sir Martin Sorrell’s S4S Ventures on Its $10M CTV AI Bet",
+    "url": "https://www.adweek.com/media/pitch-deck-how-olyzon-sold-sir-martin-sorrells-s4s-ventures-on-its-10m-ctv-ai-bet/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-05-27T06:00:00+00:00",
+    "summary": "The startup, which helps advertisers use AI to make buying decisions across CTV, is expanding in the U.S. as brands push for more transparency and measurement in streaming.",
+    "image_url": null,
+    "tags": [
+      "Advertising News",
+      "Artificial Intelligence",
+      "Exclusive",
+      "Fundraising Pitch Decks",
+      "Premium"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 54
+  },
+  {
     "id": "9020fa9dc410",
     "title": "Why martech stacks are getting messier",
     "url": "https://martech.org/why-martech-stacks-are-getting-messier/",
@@ -171,6 +194,22 @@
       "retail"
     ],
     "relevance_score": 43
+  },
+  {
+    "id": "57ce77750940",
+    "title": "Following Shein sale, Everlane founder launches new brand, ‘Still Radical’",
+    "url": "https://www.retaildive.com/news/shein-sale-everlane-founder-launches-new-brand-still-radical/821167/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-05-26T21:41:00+00:00",
+    "summary": "\"Same principles, but a new take. And this time: no venture capital, no private equity,\" Michael Preysman writes on the brand’s site, which for now is just collecting emails.",
+    "image_url": "https://imgproxy.divecdn.com/eMAVWNC35mZ8FIs5B40cYNdvPpPaCZyISp_Y7WsvGB0/g:nowe:216:71/c:5793:3273/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hdXN0aW5fcmV0YWlsLTguanBn.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 42
   },
   {
     "id": "f099d740fa06",
@@ -355,7 +394,10 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 23
+    "relevance_score": 23,
+    "also_covered_by": [
+      "Agentic Marketing"
+    ]
   },
   {
     "id": "8a6f890a3c4d",
@@ -377,7 +419,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 19
+    "relevance_score": 18
   },
   {
     "id": "eefdc8683bfb",
@@ -399,7 +441,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
     "id": "d33737cdb87d",
@@ -420,23 +462,6 @@
     "industries": [
       "tech",
       "industrial"
-    ],
-    "relevance_score": 17
-  },
-  {
-    "id": "e923319e92cc",
-    "title": "Why marketers are rethinking identity infrastructure",
-    "url": "https://digiday.com/media-buying/why-marketers-are-rethinking-identity-infrastructure/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-05-27T04:01:00+00:00",
-    "summary": "Publicis’ LiveRamp deal forces marketers to confront who controls their data, reshaping the neutrality debate around ad tech infrastructure.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/11/agentic-ai-pubs-digiday.jpg",
-    "tags": [
-      "Media Buying"
-    ],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 17
   },
@@ -462,62 +487,42 @@
     "relevance_score": 16
   },
   {
-    "id": "34c08cc78029",
-    "title": "A reality check on the AI jobs hysteria",
-    "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-05-26T09:00:00+00:00",
-    "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software...",
-    "image_url": null,
+    "id": "e923319e92cc",
+    "title": "After Publicis’ LiveRamp deal, marketers are still working out what to worry about — and why",
+    "url": "https://digiday.com/media-buying/why-marketers-are-rethinking-identity-infrastructure/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-05-27T04:01:00+00:00",
+    "summary": "Publicis’ LiveRamp deal forces marketers to confront who controls their data, reshaping the neutrality debate around ad tech infrastructure.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/11/agentic-ai-pubs-digiday.jpg",
     "tags": [
-      "Artificial intelligence",
-      "App",
-      "artificial intelligence",
-      "Business Impact"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "4da4751303eb",
-    "title": "Introducing the Data 360 MCP Server — Your Unified Data, Ready for Any Agent",
-    "url": "https://www.salesforce.com/blog/introducing-the-data-360-mcp-server-your-unified-data-ready-for-any-agent/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-26T17:47:38+00:00",
-    "summary": "Turn all your Data into Context Every Agent Can Put to Work. Today, Salesforce is announcing that the Data 360 MCP Server is now available in Developer Preview — a significant step forward…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Image-1B.png?w=3360",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "0c51fc8e019f",
-    "title": "Google Health is here, but a lot of people want their Fitbit app back instead",
-    "url": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-05-26T19:00:15+00:00",
-    "summary": "The Fitbit app is no more. Along with the launch of the new Fitbit Air (which you can expect a full review of once we've spent more time with it), Google has officially replaced it with Google Health, as previously announced, and many of the responses we've seen so far are...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/HealthApp_hero.width-1600.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.5645047073983%2C100%2C92.870990585203&amp;w=1200",
-    "tags": [
-      "Fitness",
-      "Gadgets",
-      "Google",
-      "Health",
-      "News"
+      "Media Buying"
     ],
     "industries": [
       "tech"
     ],
-    "relevance_score": 15
+    "relevance_score": 16
+  },
+  {
+    "id": "78efd2cb87cd",
+    "title": "The Most AI-Fluent People Are Being Filtered Out Before They Even Land a Job",
+    "url": "https://www.adweek.com/media/the-most-ai-fluent-people-are-being-filtered-out-before-they-even-land-a-job/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-05-27T07:00:00+00:00",
+    "summary": "It’s true that AI is automating real work. Some roles will disappear in moments like this. But disappearance was never the dominant story.",
+    "image_url": null,
+    "tags": [
+      "AI News",
+      "Artificial Intelligence",
+      "Emerging Technologies",
+      "Leadership &amp; Talent",
+      "Technology"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 16
   },
   {
     "id": "28159970ed62",
@@ -540,20 +545,99 @@
     "relevance_score": 15
   },
   {
-    "id": "c45b180c0f2d",
-    "title": "This startup is betting India’s gig economy can train the world’s robots",
-    "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-05-26T16:00:00+00:00",
-    "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Main-YC-Headshot-all-4-of-us.jpg?resize=1200,800",
+    "id": "f9d4a783b445",
+    "title": "Phil Foden Must Use His Summer Off To Turn Around His Career",
+    "url": "https://www.forbes.com/sites/grahamruthven/2026/05/27/phil-foden-must-use-his-summer-off-to-turn-around-his-career/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-05-27T09:10:45+00:00",
+    "summary": "Phil Foden was left out of Thomas Tuchel's England squad for this summer's World Cup after a disappointing season.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a16b48bf97b9dc9eb720530/0x0.jpg",
     "tags": [
-      "AI",
-      "robots",
-      "wing vc",
-      "physical ai",
-      "Human Archive"
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "34c08cc78029",
+    "title": "A reality check on the AI jobs hysteria",
+    "url": "https://www.technologyreview.com/2026/05/26/1137855/a-reality-check-on-the-ai-jobs-hysteria/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-05-26T09:00:00+00:00",
+    "summary": "Haven’t you heard? White-collar jobs are going away, decimated by AI. Waves of layoffs in the tech sector (most recently at Coinbase and Meta and Cisco) are said to presage what will soon come for all of us knowledge workers. But before you quit your job as a software...",
+    "image_url": null,
+    "tags": [
+      "Artificial intelligence",
+      "App",
+      "artificial intelligence",
+      "Business Impact"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "4da4751303eb",
+    "title": "Introducing the Data 360 MCP Server — Your Unified Data, Ready for Any Agent",
+    "url": "https://www.salesforce.com/blog/introducing-the-data-360-mcp-server-your-unified-data-ready-for-any-agent/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-26T17:47:38+00:00",
+    "summary": "Turn all your Data into Context Every Agent Can Put to Work. Today, Salesforce is announcing that the Data 360 MCP Server is now available in Developer Preview — a significant step forward…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Image-1B.png?w=3360",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "0c51fc8e019f",
+    "title": "Google Health is here, but a lot of people want their Fitbit app back instead",
+    "url": "https://www.theverge.com/gadgets/937534/google-health-fitbit-app-ai",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-05-26T19:00:15+00:00",
+    "summary": "The Fitbit app is no more. Along with the launch of the new Fitbit Air (which you can expect a full review of once we've spent more time with it), Google has officially replaced it with Google Health, as previously announced, and many of the responses we've seen so far are...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/HealthApp_hero.width-1600.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.5645047073983%2C100%2C92.870990585203&amp;w=1200",
+    "tags": [
+      "Fitness",
+      "Gadgets",
+      "Google",
+      "Health",
+      "News"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "8aaba9e5cf26",
+    "title": "Waymo Takes Its Self-Driving Cars to Virginia",
+    "url": "https://www.wired.com/story/waymo-takes-its-self-driving-cars-to-virginia/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-05-27T11:00:00+00:00",
+    "summary": "The company is mapping Alexandria and, soon, Arlington—right across from the power center of Washington, DC.",
+    "image_url": "https://media.wired.com/photos/6a1612096bb944abda95a98c/master/pass/Virginia-Waymo-Gear-2276958068.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Self-Driving Cars",
+      "Google",
+      "Autonomous Vehicles"
     ],
     "industries": [
       "tech"
@@ -614,6 +698,27 @@
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "c45b180c0f2d",
+    "title": "This startup is betting India’s gig economy can train the world’s robots",
+    "url": "https://techcrunch.com/2026/05/26/human-archive-taps-into-indias-services-startups-to-collect-data-for-physical-ai/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-05-26T16:00:00+00:00",
+    "summary": "Human Archive, a startup founded by UC Berkeley and Stanford researchers, is paying gig workers in India to wear camera-equipped caps and sensor devices to collect the real-world physical training data that AI and robotics labs are racing to acquire.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/Main-YC-Headshot-all-4-of-us.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "robots",
+      "wing vc",
+      "physical ai",
+      "Human Archive"
+    ],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 13
   },
@@ -698,19 +803,28 @@
     "relevance_score": 12
   },
   {
-    "id": "a8fd8a0b1a0c",
-    "title": "DSMB Recommends Continuation of Bria-IMT Investigation in Metastatic Breast Cancer - OncLive",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNy1qaE1jOEtDdlNHTEpQcWhJb09ONk1vclJEd1FfOGRKZzN0V3hPb0dvZHZleWhhQ1pub0VudGcyMHV4TGs5U1QwRXoyeGN1aUlwV3laTWs5eWRSM1djVkM0YVdEWVM4NlRKQ3lnTTRLOC10U09jZHNDaWpSQmFaSmowaU02eFNvNFhzMlNzZjV0dlZ3bVM2MTRDNlktS1AwZVhkSncwLXM4TWxQc2RMSg?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-05-26T23:57:43+00:00",
-    "summary": "DSMB Recommends Continuation of Bria-IMT Investigation in Metastatic Breast Cancer OncLive",
-    "image_url": null,
-    "tags": [],
+    "id": "ba93b9a757b8",
+    "title": "Why the Vatican Invited Anthropic to the Pope’s AI Encyclical Presentation",
+    "url": "https://www.wired.com/story/anthropic-christopher-olah-pope-ai-encyclical/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-05-26T20:46:03+00:00",
+    "summary": "Pope Leo’s first encyclical marks an unprecedented alliance between the Church and Silicon Valley.",
+    "image_url": "https://media.wired.com/photos/6a15cbcd37553f2c38327fce/master/pass/2278118480",
+    "tags": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "Anthropic",
+      "religion",
+      "Silicon Valley"
+    ],
     "industries": [
       "tech"
     ],
-    "relevance_score": 12
+    "relevance_score": 12,
+    "also_covered_by": [
+      "TechCrunch AI"
+    ]
   },
   {
     "id": "84e04d1b8b38",
@@ -755,28 +869,6 @@
     "relevance_score": 11
   },
   {
-    "id": "afd6691f27bb",
-    "title": "AI Agents Plunged the Tech World Into Chaos. Here’s Exactly How That Happened",
-    "url": "https://www.wired.com/story/how-ai-agents-plunged-tech-world-into-chaos/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-05-26T10:00:00+00:00",
-    "summary": "The definitive story of how Claude Code and OpenClaw kicked off computing’s biggest transformation possibly ever.",
-    "image_url": "https://media.wired.com/photos/69fdc08ed818d4f01db33c98/master/pass/wired_agents_web.gif",
-    "tags": [
-      "The Big Story",
-      "Business",
-      "Business / Artificial Intelligence",
-      "longreads",
-      "artificial intelligence"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
     "id": "b9b4335e4764",
     "title": "The Download: puncturing the AI jobs panic",
     "url": "https://www.technologyreview.com/2026/05/26/1138028/the-download-ai-jobs-data/",
@@ -790,6 +882,55 @@
     ],
     "industries": [
       "tech"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "a8fd8a0b1a0c",
+    "title": "DSMB Recommends Continuation of Bria-IMT Investigation in Metastatic Breast Cancer - OncLive",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNy1qaE1jOEtDdlNHTEpQcWhJb09ONk1vclJEd1FfOGRKZzN0V3hPb0dvZHZleWhhQ1pub0VudGcyMHV4TGs5U1QwRXoyeGN1aUlwV3laTWs5eWRSM1djVkM0YVdEWVM4NlRKQ3lnTTRLOC10U09jZHNDaWpSQmFaSmowaU02eFNvNFhzMlNzZjV0dlZ3bVM2MTRDNlktS1AwZVhkSncwLXM4TWxQc2RMSg?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-05-26T23:57:43+00:00",
+    "summary": "DSMB Recommends Continuation of Bria-IMT Investigation in Metastatic Breast Cancer OncLive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "b1bf95b97649",
+    "title": "T-Mobile refuses to sell customer a new iPhone and tells him to buy it at the Apple Store - PhoneArena",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeERHWGZBdEN1a0YwUWJ5UDFuY19nV096XzFuUnRxb2E0d3pETzcwLWV1TlBnckx1YnlDQWJTZjFRMU1ZNHdaWVdxemJiZFh2V0F5NUpJZjlLZHJvX3pOUmhPMnVfS1FHc24xS0hEVTRGamhGcWdaTE9DN2xBSlFERHdKT0FzdmJEVjUtLTMxaXN1RW0yREFJaS1kOXQ?oc=5",
+    "source": "Telecom",
+    "source_category": "industry_telecom",
+    "published": "2026-05-27T07:54:15+00:00",
+    "summary": "T-Mobile refuses to sell customer a new iPhone and tells him to buy it at the Apple Store PhoneArena",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom",
+      "retail"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "427f34623bd9",
+    "title": "Newel Health and Gerresheimer Launch Strategic Collaboration to Support Pharma Companies in the Era of Integrated Digital Therapies | Corporate - EQS News",
+    "url": "https://news.google.com/rss/articles/CBMitgJBVV95cUxNZHhVZk0tNlF1Rkw2SnJ2eWVtZi0xVGY5bVNkV0dqRzJzWDJnMHJPTHZ5dmhRYUp3YXNVTG5UcWxqX1VKVVBsVWJLZXBDSVRaeG1tRVhRUlY3TWVSV0g3b3lSZ2FmYmxSY0NSTHBhZ0FvcW9pV0gxcFFZQ0k3NS00a2kybkRYZTFRSW1vUTVkT3IxMnRYLTg3WFNLeDZJNzBTb1pVY1hzRVM2eVMya2I2RDQ3cDFKMDZZNmxPdUprc1haYV9NV0VJTmFrWURmTVVrRUZRam5PNlNDVUZhSHBMZlpXUEEwSFFyamxWZTFhTk5ZSlZRbnhEb0p3NU8xNkUxRy0wMEZ6cURBaFpkbW5Kc2N2Q01GTHBqR2ljSFdTa0xFUlJUTWFJT1RERl9LckwxN24zTldn?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-27T09:16:39+00:00",
+    "summary": "Newel Health and Gerresheimer Launch Strategic Collaboration to Support Pharma Companies in the Era of Integrated Digital Therapies | Corporate EQS News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
     ],
     "relevance_score": 11
   },
@@ -810,6 +951,39 @@
     ],
     "industries": [
       "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "8ef192d852e7",
+    "title": "PLDT Enterprise Powers SKYGO’s Scalable Digital Transformation - Telecom Review Asia",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxPRjdzajJOYmpEWWZZakY5SXVrNGw2MkFnWEFXalBrdkNocGRnWUswb2Y2d1VEZ2Fxb1V2TFdqN2J2dlRLNm56YUFxRTVxR0xNZmplYUxXelBORTZKWEJIMXh5dFVvQXBXMjNkSzVNUk1pY3MtekpRNHlHeVpVQUwzZVlzWkFSSzVEUjRwSkplZUZIRmliSGR2TlN0WkJyMlBHVVJVdThaV0preGc3aUszT2I3UF9sa0tSU0paTDBn?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-05-27T07:48:11+00:00",
+    "summary": "PLDT Enterprise Powers SKYGO’s Scalable Digital Transformation Telecom Review Asia",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "fe2f424c7397",
+    "title": "Africa Health-Tech Accelerator Opens Applications for Early-Stage Startups Building AI and Digital Health Solutions - iAfrica.com",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQd240aVMxczEtZlBqdzN0dGJGVy1VQVZzT3NHNmR3eFVULW04dC1XbEVRVDdxd0pseVVrWjBpbUlacUw0cFBoOEl2LU00MTc5Q0p0b2FNUms3VUZ6ZDBRem1pajhudGFHWGNtUWtTUng5VDBscUtCU1dnWlN1R1ZzTmlLbzhuUUpBUmUxWmVNVXYtc1ZjUS1GMG9QeUJiT2R6QkhYanRuNFUxZEp2NlpKQk9HUENRNWFQVzZsakhoTExHMWdtRXFYOWhkQ2d5Z3o1QXc?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-27T09:22:34+00:00",
+    "summary": "Africa Health-Tech Accelerator Opens Applications for Early-Stage Startups Building AI and Digital Health Solutions iAfrica.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
     ],
     "relevance_score": 10
   },
@@ -1041,22 +1215,6 @@
     "relevance_score": 9
   },
   {
-    "id": "6738b288730c",
-    "title": "New framework guides Australia's approach to digital health standards - Healthcare IT News",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNjJkTmhIZzZWclJRMkFQd2FDZ3VVUnRrUHhzRW9hM0NydmwzSzhYRGlMWXNQbllFZjlCbl9wZW1ybU9pdENnTkRNN2ZJelNJVEV0Q1dFOTJSakdrcFh2MjF0cjlKYjhtOTU2WkF1amVzU2NqVVRCUFlKVW9wcHhlYk83cVJ0ZDllUUlvTkMxTXNCSktrdGNPRHZtNV9Demx3R3lZbmtkY05vWDA?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-27T00:46:21+00:00",
-    "summary": "New framework guides Australia's approach to digital health standards Healthcare IT News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
     "id": "bc3933afddb1",
     "title": "How specialty practices can get more out of technology investments",
     "url": "https://www.fiercehealthcare.com/sponsored/how-specialty-practices-can-get-more-out-technology-investments",
@@ -1209,20 +1367,20 @@
     "relevance_score": 8
   },
   {
-    "id": "b81363fcbfce",
-    "title": "MetroHealth partners with Artisight on smart hospital platform rollout",
-    "url": "https://www.fiercehealthcare.com/hospitals/metrohealth-partners-artisight-smart-hospital-platform-rollout",
-    "source": "Fierce Healthcare",
+    "id": "6738b288730c",
+    "title": "New framework guides Australia's approach to digital health standards - Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNjJkTmhIZzZWclJRMkFQd2FDZ3VVUnRrUHhzRW9hM0NydmwzSzhYRGlMWXNQbllFZjlCbl9wZW1ybU9pdENnTkRNN2ZJelNJVEV0Q1dFOTJSakdrcFh2MjF0cjlKYjhtOTU2WkF1amVzU2NqVVRCUFlKVW9wcHhlYk83cVJ0ZDllUUlvTkMxTXNCSktrdGNPRHZtNV9Demx3R3lZbmtkY05vWDA?oc=5",
+    "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-05-20T10:57:00+00:00",
-    "summary": "Cleveland-based MetroHealth and Artisight partnered to deploy the health tech company's smart hospital platform across multiple facilities within the safety net health system.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1551308658/GettyImages-1048802976.jpg?VersionId=1A9U4YRiR2tXuuBkD6IOgWw8KatgnBna",
+    "published": "2026-05-27T00:46:21+00:00",
+    "summary": "New framework guides Australia's approach to digital health standards Healthcare IT News",
+    "image_url": null,
     "tags": [],
     "industries": [
       "tech",
       "lifesciences"
     ],
-    "relevance_score": 7
+    "relevance_score": 8
   },
   {
     "id": "c527494cba52",
@@ -1292,33 +1450,18 @@
     "relevance_score": 7
   },
   {
-    "id": "e088bb09b353",
-    "title": "How Digital Payment Methods Are Reshaping International Trade Operations - Global Trade Magazine",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMlNKbC1LYm5OR28wWXo4Q3lXN0xFM0p2N01YakFEUTYyeE5ZcmlLNTBvalU0dW5aZlRMbDl4djFhTUpWa2JGS1BSU0NMM3dZUkJRZDBsckl6RFY3X3hmTnV4aUN6SFFjVHdnYzNzbXozUHFaLUR2V0lWSW9WVV9QMGZBcTV1MG5iaU1INlRWY2JZblNWaUdmNG1JdHJHZ3pRQnhueEpBTQ?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-05-26T08:02:11+00:00",
-    "summary": "How Digital Payment Methods Are Reshaping International Trade Operations Global Trade Magazine",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "8a2061bb87e9",
-    "title": "AI leaders are reshaping the health system C-suite - Modern Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2xya3VBR01mTlo0YUF1X2lYeUxfaDhQRkNKa1U0WDNVeXFSQTcySC1OLUdZWUlHYlZhVEpIVlRwMDdNeUFWUFlwTTktNVRrZkx6c1lvZjF5V1JlWktqbDVKVlUtaVNMdlBNb1l0U0c3TldmdXY0WEkxbHllQTVJS2hjWDBFQQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-26T10:00:00+00:00",
-    "summary": "AI leaders are reshaping the health system C-suite Modern Healthcare",
+    "id": "5399405bc763",
+    "title": "Andhra Pradesh Govt Signs MoU with Vodafone Idea Business for MSME Digital Transformation - TelecomTalk",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxNVUZsbmFxR3dxUTRpMVNoRTN3U2ktcklRRGp4aThKVjdpRGplaDEzVFhCWHpVSWJoMm5oS291ZmFtcEhxRWxNTGZnZm5COEgtMzk0T1oxTUZUYkxLVFBqalhtUzRnMUdqRHBZaWJRN2haYUlyZG1RWDJFZlg0QWxobEU3cWhYalE?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-05-26T12:13:51+00:00",
+    "summary": "Andhra Pradesh Govt Signs MoU with Vodafone Idea Business for MSME Digital Transformation TelecomTalk",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "lifesciences"
+      "telecom"
     ],
     "relevance_score": 7
   },
@@ -1404,13 +1547,13 @@
     "relevance_score": 6
   },
   {
-    "id": "ff2a298c6076",
-    "title": "Meet Mark Zuckerberg’s Right-Hand Man Who’s Unleashing AI at Meta - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE1VbVpiQ3FibWtyRnZYeERGbjVsOEFXRC1sSWdKc1ZMaFFQOEtkOGtFeE02b2Z4MmZpck5CU0R5dkpmN1BaaWZzbnRDWGtrYTRLQWlvaDZzSENGSHlJTU91MlV0SVh0YWhqWjAtNw?oc=5",
-    "source": "Wall Street",
+    "id": "e088bb09b353",
+    "title": "How Digital Payment Methods Are Reshaping International Trade Operations - Global Trade Magazine",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQMlNKbC1LYm5OR28wWXo4Q3lXN0xFM0p2N01YakFEUTYyeE5ZcmlLNTBvalU0dW5aZlRMbDl4djFhTUpWa2JGS1BSU0NMM3dZUkJRZDBsckl6RFY3X3hmTnV4aUN6SFFjVHdnYzNzbXozUHFaLUR2V0lWSW9WVV9QMGZBcTV1MG5iaU1INlRWY2JZblNWaUdmNG1JdHJHZ3pRQnhueEpBTQ?oc=5",
+    "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-05-25T00:00:00+00:00",
-    "summary": "Meet Mark Zuckerberg’s Right-Hand Man Who’s Unleashing AI at Meta WSJ",
+    "published": "2026-05-26T08:02:11+00:00",
+    "summary": "How Digital Payment Methods Are Reshaping International Trade Operations Global Trade Magazine",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1419,19 +1562,18 @@
     "relevance_score": 6
   },
   {
-    "id": "287e6c45a9a1",
-    "title": "Orange Cote d'Ivoire and UNDP partner to promote digital transformation and inclusion - Telecompaper",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNck1NMjJ5czlBRkNxdmktd0pER01DZFlpb1Vib3NwZ2pTWXdlX1o3aUxSczVvb3lwd2lMWjY2REVxVDVoUE5XNnNtdkVIbW9BZFBtWG54TW5NX0xWbG45M0ZoR0Y2LUNiRHpLSm9ZS09HZHp5WmRmbmhQZnZ1OTBKeFNFbzBHLTZjQnhyeFBscjNDSVlpakdsQi1qY0l1RlE5dGdnWk9YaE40c0g3S1g1eWNjODY2WTJFenppbndfY2dUM3BUdHc?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-05-25T09:02:07+00:00",
-    "summary": "Orange Cote d'Ivoire and UNDP partner to promote digital transformation and inclusion Telecompaper",
+    "id": "8a2061bb87e9",
+    "title": "AI leaders are reshaping the health system C-suite - Modern Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2xya3VBR01mTlo0YUF1X2lYeUxfaDhQRkNKa1U0WDNVeXFSQTcySC1OLUdZWUlHYlZhVEpIVlRwMDdNeUFWUFlwTTktNVRrZkx6c1lvZjF5V1JlWktqbDVKVlUtaVNMdlBNb1l0U0c3TldmdXY0WEkxbHllQTVJS2hjWDBFQQ?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-26T10:00:00+00:00",
+    "summary": "AI leaders are reshaping the health system C-suite Modern Healthcare",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "telecom",
-      "industrial"
+      "lifesciences"
     ],
     "relevance_score": 6
   },
@@ -1464,6 +1606,23 @@
     "industries": [
       "tech",
       "telecom"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "287e6c45a9a1",
+    "title": "Orange Cote d'Ivoire and UNDP partner to promote digital transformation and inclusion - Telecompaper",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNck1NMjJ5czlBRkNxdmktd0pER01DZFlpb1Vib3NwZ2pTWXdlX1o3aUxSczVvb3lwd2lMWjY2REVxVDVoUE5XNnNtdkVIbW9BZFBtWG54TW5NX0xWbG45M0ZoR0Y2LUNiRHpLSm9ZS09HZHp5WmRmbmhQZnZ1OTBKeFNFbzBHLTZjQnhyeFBscjNDSVlpakdsQi1qY0l1RlE5dGdnWk9YaE40c0g3S1g1eWNjODY2WTJFenppbndfY2dUM3BUdHc?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-05-25T09:02:07+00:00",
+    "summary": "Orange Cote d'Ivoire and UNDP partner to promote digital transformation and inclusion Telecompaper",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom",
+      "industrial"
     ],
     "relevance_score": 5
   }
