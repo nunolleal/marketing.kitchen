@@ -10,11 +10,7 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 51,
-    "also_covered_by": [
-      "Adobe",
-      "Wall Street"
-    ]
+    "relevance_score": 48
   },
   {
     "id": "3bd58bd50d58",
@@ -27,7 +23,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/CNX25-Chicago-250611-EL1_7078.jpg?w=8192",
     "tags": [],
     "industries": [],
-    "relevance_score": 45
+    "relevance_score": 42
   },
   {
     "id": "e467dc67d0c2",
@@ -42,7 +38,30 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 41
+    "relevance_score": 41,
+    "also_covered_by": [
+      "Telecom 5G",
+      "Fintech"
+    ]
+  },
+  {
+    "id": "4061e1a3271f",
+    "title": "Salesforce Inc. (NYSE: CRM) Stock Price Gains 2.2% as Agentforce Momentum Builds - foreignpolicyjournal.com",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNNDFkNjdNWWJZeWd0Ukhaem11bVNWSzZDcUdVdHhoQ2U1ZlJ6eUhxdXhzczVJajl2NU9qcWVvQWZITHdQLVpTeTZDVFVhYVJNVEhMaHFITVJaOEF3LWpNRnBqWE5TOFh2UDYwdVRpbGd1SFNUODZkRWRTLWpCYWFER0NvdEU1VldCRzZ4eV96SVRSNDZlMnRJejhMeGVRTWtFRUNmQV9fTG5tWVZVUW9uWEpsbWFOaHI4dG9ZWXVJUXY?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-05-24T18:06:00+00:00",
+    "summary": "Salesforce Inc. (NYSE: CRM) Stock Price Gains 2.2% as Agentforce Momentum Builds foreignpolicyjournal.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 35,
+    "also_covered_by": [
+      "Adobe Inc",
+      "Adobe"
+    ]
   },
   {
     "id": "0e7e1076cbbc",
@@ -90,19 +109,6 @@
     "relevance_score": 24
   },
   {
-    "id": "1852e7f97b8d",
-    "title": "How Salesforce Built a World-Class Partner Ecosystem: The 6-Step Blueprint",
-    "url": "https://www.salesforce.com/blog/sales/salesforce-partner-ecosystem/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-26T18:38:18+00:00",
-    "summary": "Start by evaluating fit, then build an economic model that is profitable for both you and partners.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2024/05/4-Types-of-Channel-Partnerships-and-How-to-Find-Them.jpeg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 16
-  },
-  {
     "id": "4da4751303eb",
     "title": "Introducing the Data 360 MCP Server — Your Unified Data, Ready for Any Agent",
     "url": "https://www.salesforce.com/blog/introducing-the-data-360-mcp-server-your-unified-data-ready-for-any-agent/",
@@ -119,6 +125,37 @@
     "relevance_score": 15
   },
   {
+    "id": "1852e7f97b8d",
+    "title": "How Salesforce Built a World-Class Partner Ecosystem: The 6-Step Blueprint",
+    "url": "https://www.salesforce.com/blog/sales/salesforce-partner-ecosystem/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-26T18:38:18+00:00",
+    "summary": "Start by evaluating fit, then build an economic model that is profitable for both you and partners.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2024/05/4-Types-of-Channel-Partnerships-and-How-to-Find-Them.jpeg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 15
+  },
+  {
+    "id": "834215d58e81",
+    "title": "Can Agentforce Save Salesforce? Q1 Earnings Put the AI Bet to the Test - tastylive",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2xhVUpZbHNnbFA2VHVyd0ZMb0E0Q1Zja0s2RlQzX0h1NzhicDZKaWxIMzFuOS1VUEVvWEV0S0ttMTJMYVZCa2RvRUpiVDdNUG9FVVFRcGdLdGZQbEN1aTVVcGw2bHdCYTRIcGo5OS16aVFTY0c2aGRuckhoNHRyODR0N2E0aEJyWDhHY0hWcl9XX1pmLXJRR2hUOXY3OGJjRE9mNDBUdDBUY2d1dHc?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-05-26T20:21:06+00:00",
+    "summary": "Can Agentforce Save Salesforce? Q1 Earnings Put the AI Bet to the Test tastylive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15,
+    "also_covered_by": [
+      "Wall Street"
+    ]
+  },
+  {
     "id": "7a6efe3ca0c6",
     "title": "Ending the “easy vs. enterprise” compromise with Storefront Next for B2C Commerce",
     "url": "https://www.salesforce.com/blog/storefront-next/",
@@ -133,7 +170,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "058346ce6755",
@@ -176,19 +213,6 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 11
-  },
-  {
-    "id": "cc2d6368bb47",
-    "title": "Salesforce and Cornerstone Boost Workplace AI Integration - VoIP Review",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTVlIYXFhTUxESk1mSmJGTkZtRnNWZ3pSM0VDdDhHSWg3X09qNWxkeEtzVVdyWkUtbm9qWDJrbU9zYVFmOHZVSjFLME5qX0ZOVVBhSXFKOTVqeUZ0UUM1N3IxRnptQXdVdXVhNVlnanFnVHRBMUMtT0wxOG5RcU9jZHdaU29KZjlYX0t6NUtR?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-05-26T06:53:00+00:00",
-    "summary": "Salesforce and Cornerstone Boost Workplace AI Integration VoIP Review",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
     "relevance_score": 10
   },
   {
@@ -206,12 +230,12 @@
   },
   {
     "id": "f8838bb2b5be",
-    "title": "5 Key Features To Look for in Audience Intelligence Platforms - G2 Learning Hub",
+    "title": "5 Key Features To Look for in Audience Intelligence Platforms - G2 Learn Hub",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtUlZmdHN2UDJsanJzNGNVcTFGX3llcnIwZDFXZkRGelBOWjBMVDFaWGF1b3IwNFhUamdURGNidG5uWWJiRG42UnU1VmFfeWR0Uy0tVHZCNWNqOVVmQTRKLXBFUTJxaTZaZXFEcm1BdEJKOGc0MHVJcEdpYw?oc=5",
     "source": "Salesforce Marketing",
     "source_category": "salesforce",
     "published": "2026-05-24T14:37:16+00:00",
-    "summary": "5 Key Features To Look for in Audience Intelligence Platforms G2 Learning Hub",
+    "summary": "5 Key Features To Look for in Audience Intelligence Platforms G2 Learn Hub",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -219,6 +243,21 @@
       "industrial"
     ],
     "relevance_score": 8
+  },
+  {
+    "id": "af0c8e38f106",
+    "title": "Salesforce Expands London AI Campus as Agentforce Adoption Moves “Beyond Pilots” - CX Today",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT2JqVlIyNmNKblRSR1NqMEk2UFg0TkVrQjUzbTM0QVZRbU1jWWJWNWdHUDVYYWhLWXdGRnEtLWthWndLZHM0ekMzMHdEb3FFRGNvdTlobjZzVDhCVVFURWZBaGZJMGJMSzg0S2ZmZ1NVdHVoSlFnUjhiZFB6cTJ4dWFEU21NUWpKZ2pWSWpiQmVtZ0hWMXJGaklHWGc3dndCTFVSejJTX3BBUFU?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-05-20T14:43:34+00:00",
+    "summary": "Salesforce Expands London AI Campus as Agentforce Adoption Moves “Beyond Pilots” CX Today",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 6
   },
   {
     "id": "ea2c918cafd9",
