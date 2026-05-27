@@ -10,20 +10,7 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 48
-  },
-  {
-    "id": "3bd58bd50d58",
-    "title": "Salesforce Connections 2026: Your 5-Minute Guide",
-    "url": "https://www.salesforce.com/blog/connections-conference/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-26T14:15:25+00:00",
-    "summary": "The marketing event of the year will take place in Chicago on June 3-4. These resources will help you on the ground or if you’re watching online.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/CNX25-Chicago-250611-EL1_7078.jpg?w=8192",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 42
+    "relevance_score": 44
   },
   {
     "id": "e467dc67d0c2",
@@ -38,7 +25,25 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 41
+    "relevance_score": 41,
+    "also_covered_by": [
+      "Wall Street",
+      "Adobe",
+      "Fintech"
+    ]
+  },
+  {
+    "id": "3bd58bd50d58",
+    "title": "Salesforce Connections 2026: Your 5-Minute Guide",
+    "url": "https://www.salesforce.com/blog/connections-conference/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-26T14:15:25+00:00",
+    "summary": "The marketing event of the year will take place in Chicago on June 3-4. These resources will help you on the ground or if you’re watching online.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/CNX25-Chicago-250611-EL1_7078.jpg?w=8192",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 38
   },
   {
     "id": "4061e1a3271f",
@@ -55,8 +60,7 @@
     ],
     "relevance_score": 35,
     "also_covered_by": [
-      "Adobe Inc",
-      "Adobe"
+      "Adobe Inc"
     ]
   },
   {
@@ -88,53 +92,6 @@
     "relevance_score": 26
   },
   {
-    "id": "75d8a8dd7cec",
-    "title": "AI Agents Are Shopping. Is Your Brand Getting Noticed?",
-    "url": "https://www.salesforce.com/blog/tips-to-win-agentic-commerce/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-21T20:53:25+00:00",
-    "summary": "Agents and LLMs are revolutionizing the shopping experience. Try these 3 tips to help your brand stay on AI's radar.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/TSK-54422_Ai_Agents_Are_Shopping2.png",
-    "tags": [],
-    "industries": [
-      "retail",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 24
-  },
-  {
-    "id": "834215d58e81",
-    "title": "Can Agentforce Save Salesforce? Q1 Earnings Put the AI Bet to the Test - tastylive",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPY2xhVUpZbHNnbFA2VHVyd0ZMb0E0Q1Zja0s2RlQzX0h1NzhicDZKaWxIMzFuOS1VUEVvWEV0S0ttMTJMYVZCa2RvRUpiVDdNUG9FVVFRcGdLdGZQbEN1aTVVcGw2bHdCYTRIcGo5OS16aVFTY0c2aGRuckhoNHRyODR0N2E0aEJyWDhHY0hWcl9XX1pmLXJRR2hUOXY3OGJjRE9mNDBUdDBUY2d1dHc?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-05-26T20:21:06+00:00",
-    "summary": "Can Agentforce Save Salesforce? Q1 Earnings Put the AI Bet to the Test tastylive",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "0328a06167af",
-    "title": "Agentforce to Boost Salesforce's Subscription Revenue Growth in Q1 - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNTEk4VGdhSnprdXdWbVhiNGdGQTVxRl8xZkRkTGhWQ2Y0QVdHTm1LMEpPREpmV3pRY0dvMFA5S1FkZjBJNGFXMl9KVkMyanRaX3RvODJPVU9qcnYxY3lzNEQ4eVFuUTRnSXk2b3NwcnRMWmhwdHhPQnJ1UmoyZGNWYXVZZGowMG8tTnhFR2NrcGdQRTZDT0ZUemtfb190RmU5alFSUGJoRkI4QVhFSk1Pc0ZMRXc?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-05-25T13:33:00+00:00",
-    "summary": "Agentforce to Boost Salesforce's Subscription Revenue Growth in Q1 Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
     "id": "4da4751303eb",
     "title": "Introducing the Data 360 MCP Server — Your Unified Data, Ready for Any Agent",
     "url": "https://www.salesforce.com/blog/introducing-the-data-360-mcp-server-your-unified-data-ready-for-any-agent/",
@@ -164,18 +121,46 @@
     "relevance_score": 14
   },
   {
-    "id": "7a6efe3ca0c6",
-    "title": "Ending the “easy vs. enterprise” compromise with Storefront Next for B2C Commerce",
-    "url": "https://www.salesforce.com/blog/storefront-next/",
+    "id": "c4955fc2366a",
+    "title": "Simple Ways to Optimize Customer Touchpoints for Sales Growth",
+    "url": "https://www.salesforce.com/blog/small-business/customer-touchpoints-tips/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-05-26T14:50:25+00:00",
-    "summary": "As businesses rush to adopt agentic commerce, development teams are typically up against one of two predicaments. Some struggle with commerce platforms they have outgrown. What was once an ‘easy’, lightweight solution has…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/IMG_0029.png",
+    "published": "2026-05-27T13:00:00+00:00",
+    "summary": "Learn how to map every interaction to build stronger relationships and grow your small business faster.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/image_be1289.jpeg",
     "tags": [],
     "industries": [
-      "tech",
-      "retail",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "81c5b6c2931e",
+    "title": "Salesforce earnings preview: Traders expect agent force and acquisition talks to dominate - MSN",
+    "url": "https://news.google.com/rss/articles/CBMiiAJBVV95cUxQejN2NEwyXzBkaFUzT0hvMkwwRkxWS0xoQTk1cHNBR01wVkVGeEZMa1prYjNpUFE1YXNJclUxS3BocjdRZXlBMXNjS1lEVU1pQllYaFFRVV9EZUJaa0IyOHV2bkpRdWZjTkdxZkQxbzM1OThHUkE5YjJPQzFfeWZwcDIxS0ViNHV3MDMwcDhMMEYzMjlobkpqMHVENzBBTE54LWdMaUh1M2R2RUtCU01EYmUtRURrODU1d2ZEcmFUYXRVdUVmOENBYzBoMzlRVXhSZm5rRVBCX3pPdXBDWkVvTFBQd3EwU2UxTlJjRFpIMHlzUGlIbzFUY052Mi1aSHNWdnBpdUJKd0I?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-05-27T14:31:03+00:00",
+    "summary": "Salesforce earnings preview: Traders expect agent force and acquisition talks to dominate MSN",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "6838231c6b70",
+    "title": "Salesforce taps Ribbon for voice infrastructure in agentforce - Outsource Accelerator",
+    "url": "https://news.google.com/rss/articles/CBMiWkFVX3lxTE9kaEdBYWpxUE84X2ZoV2htNnBJbW5xcUhaRERJOHdaQWxVVExPdXBldHExOW1WV0RKdXJpTmRMSXROVEpyNnVFc0x6RTB3Q0M1SzZ1b2E3U25sUQ?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-05-27T13:52:30+00:00",
+    "summary": "Salesforce taps Ribbon for voice infrastructure in agentforce Outsource Accelerator",
+    "image_url": null,
+    "tags": [],
+    "industries": [
       "industrial"
     ],
     "relevance_score": 13
@@ -196,6 +181,23 @@
     "relevance_score": 11
   },
   {
+    "id": "7a6efe3ca0c6",
+    "title": "Ending the “easy vs. enterprise” compromise with Storefront Next for B2C Commerce",
+    "url": "https://www.salesforce.com/blog/storefront-next/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-26T14:50:25+00:00",
+    "summary": "As businesses rush to adopt agentic commerce, development teams are typically up against one of two predicaments. Some struggle with commerce platforms they have outgrown. What was once an ‘easy’, lightweight solution has…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/IMG_0029.png",
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "7d86f0c0d19b",
     "title": "7 BigCommerce Alternatives For Small Business",
     "url": "https://www.salesforce.com/blog/small-business/bigcommerce-alternatives/",
@@ -206,21 +208,6 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/image_9a46d0.jpeg",
     "tags": [],
     "industries": [],
-    "relevance_score": 11
-  },
-  {
-    "id": "ec229caa1ac5",
-    "title": "How To Lead a Team (To Greatness)",
-    "url": "https://www.salesforce.com/blog/small-business/how-to-lead-a-team/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-26T13:00:00+00:00",
-    "summary": "You’re ready to lead your team to greatness. Here are a few inspirational ideas to get started.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/image_902420.jpeg",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
     "relevance_score": 10
   },
   {
@@ -237,6 +224,21 @@
     "relevance_score": 9
   },
   {
+    "id": "ec229caa1ac5",
+    "title": "How To Lead a Team (To Greatness)",
+    "url": "https://www.salesforce.com/blog/small-business/how-to-lead-a-team/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-26T13:00:00+00:00",
+    "summary": "You’re ready to lead your team to greatness. Here are a few inspirational ideas to get started.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/03/image_902420.jpeg",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "f8838bb2b5be",
     "title": "5 Key Features To Look for in Audience Intelligence Platforms - G2 Learn Hub",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBtUlZmdHN2UDJsanJzNGNVcTFGX3llcnIwZDFXZkRGelBOWjBMVDFaWGF1b3IwNFhUamdURGNidG5uWWJiRG42UnU1VmFfeWR0Uy0tVHZCNWNqOVVmQTRKLXBFUTJxaTZaZXFEcm1BdEJKOGc0MHVJcEdpYw?oc=5",
@@ -250,22 +252,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 8
-  },
-  {
-    "id": "af0c8e38f106",
-    "title": "Salesforce Expands London AI Campus as Agentforce Adoption Moves “Beyond Pilots” - CX Today",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT2JqVlIyNmNKblRSR1NqMEk2UFg0TkVrQjUzbTM0QVZRbU1jWWJWNWdHUDVYYWhLWXdGRnEtLWthWndLZHM0ekMzMHdEb3FFRGNvdTlobjZzVDhCVVFURWZBaGZJMGJMSzg0S2ZmZ1NVdHVoSlFnUjhiZFB6cTJ4dWFEU21NUWpKZ2pWSWpiQmVtZ0hWMXJGaklHWGc3dndCTFVSejJTX3BBUFU?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-05-20T14:43:34+00:00",
-    "summary": "Salesforce Expands London AI Campus as Agentforce Adoption Moves “Beyond Pilots” CX Today",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 6
+    "relevance_score": 7
   },
   {
     "id": "ea2c918cafd9",
