@@ -10,8 +10,9 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 54,
+    "relevance_score": 51,
     "also_covered_by": [
+      "Adobe",
       "Wall Street"
     ]
   },
@@ -26,7 +27,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/CNX25-Chicago-250611-EL1_7078.jpg?w=8192",
     "tags": [],
     "industries": [],
-    "relevance_score": 48
+    "relevance_score": 45
   },
   {
     "id": "e467dc67d0c2",
@@ -41,7 +42,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 45
+    "relevance_score": 41
   },
   {
     "id": "0e7e1076cbbc",
@@ -89,6 +90,19 @@
     "relevance_score": 24
   },
   {
+    "id": "1852e7f97b8d",
+    "title": "How Salesforce Built a World-Class Partner Ecosystem: The 6-Step Blueprint",
+    "url": "https://www.salesforce.com/blog/sales/salesforce-partner-ecosystem/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-26T18:38:18+00:00",
+    "summary": "Start by evaluating fit, then build an economic model that is profitable for both you and partners.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2024/05/4-Types-of-Channel-Partnerships-and-How-to-Find-Them.jpeg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 16
+  },
+  {
     "id": "4da4751303eb",
     "title": "Introducing the Data 360 MCP Server — Your Unified Data, Ready for Any Agent",
     "url": "https://www.salesforce.com/blog/introducing-the-data-360-mcp-server-your-unified-data-ready-for-any-agent/",
@@ -102,20 +116,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 17
-  },
-  {
-    "id": "1852e7f97b8d",
-    "title": "How Salesforce Built a World-Class Partner Ecosystem: The 6-Step Blueprint",
-    "url": "https://www.salesforce.com/blog/sales/salesforce-partner-ecosystem/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-26T18:38:18+00:00",
-    "summary": "Start by evaluating fit, then build an economic model that is profitable for both you and partners.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2024/05/4-Types-of-Channel-Partnerships-and-How-to-Find-Them.jpeg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 17
+    "relevance_score": 15
   },
   {
     "id": "7a6efe3ca0c6",
@@ -132,7 +133,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "058346ce6755",
@@ -163,19 +164,6 @@
     "relevance_score": 11
   },
   {
-    "id": "cc2d6368bb47",
-    "title": "Salesforce and Cornerstone Boost Workplace AI Integration - VoIP Review",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTVlIYXFhTUxESk1mSmJGTkZtRnNWZ3pSM0VDdDhHSWg3X09qNWxkeEtzVVdyWkUtbm9qWDJrbU9zYVFmOHZVSjFLME5qX0ZOVVBhSXFKOTVqeUZ0UUM1N3IxRnptQXdVdXVhNVlnanFnVHRBMUMtT0wxOG5RcU9jZHdaU29KZjlYX0t6NUtR?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-05-26T06:53:00+00:00",
-    "summary": "Salesforce and Cornerstone Boost Workplace AI Integration VoIP Review",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 11
-  },
-  {
     "id": "ec229caa1ac5",
     "title": "How To Lead a Team (To Greatness)",
     "url": "https://www.salesforce.com/blog/small-business/how-to-lead-a-team/",
@@ -189,6 +177,19 @@
       "industrial"
     ],
     "relevance_score": 11
+  },
+  {
+    "id": "cc2d6368bb47",
+    "title": "Salesforce and Cornerstone Boost Workplace AI Integration - VoIP Review",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNTVlIYXFhTUxESk1mSmJGTkZtRnNWZ3pSM0VDdDhHSWg3X09qNWxkeEtzVVdyWkUtbm9qWDJrbU9zYVFmOHZVSjFLME5qX0ZOVVBhSXFKOTVqeUZ0UUM1N3IxRnptQXdVdXVhNVlnanFnVHRBMUMtT0wxOG5RcU9jZHdaU29KZjlYX0t6NUtR?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-05-26T06:53:00+00:00",
+    "summary": "Salesforce and Cornerstone Boost Workplace AI Integration VoIP Review",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 10
   },
   {
     "id": "044050e1ce8d",
@@ -218,36 +219,6 @@
       "industrial"
     ],
     "relevance_score": 8
-  },
-  {
-    "id": "7e7c37f3f637",
-    "title": "Salesforce TTEC Digital Partnership Puts Agentforce Production Use In Focus - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQTmpKTXN5OEtVbk45RlJyeDB6YnJQbThWMno1QllhdUY3RXEzRDJaX2ZtbUxmalNpekIwb043dmpIMVZ6ZFRnRGcwUHJrX1ByTnd0ZUk5VER0WmNYekR0LWtLSkhFa0JhNU5GaEhIQzdxeFVFV00xZmJkUDh6aFlxczJCNFJKWE4tcW1BSGdUWGItMVRGWll1REw2aUFtOTRMRDFQZFlnbUo?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-05-20T01:17:00+00:00",
-    "summary": "Salesforce TTEC Digital Partnership Puts Agentforce Production Use In Focus Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "af0c8e38f106",
-    "title": "Salesforce Expands London AI Campus as Agentforce Adoption Moves “Beyond Pilots” - CX Today",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPT2JqVlIyNmNKblRSR1NqMEk2UFg0TkVrQjUzbTM0QVZRbU1jWWJWNWdHUDVYYWhLWXdGRnEtLWthWndLZHM0ekMzMHdEb3FFRGNvdTlobjZzVDhCVVFURWZBaGZJMGJMSzg0S2ZmZ1NVdHVoSlFnUjhiZFB6cTJ4dWFEU21NUWpKZ2pWSWpiQmVtZ0hWMXJGaklHWGc3dndCTFVSejJTX3BBUFU?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-05-20T14:43:34+00:00",
-    "summary": "Salesforce Expands London AI Campus as Agentforce Adoption Moves “Beyond Pilots” CX Today",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 6
   },
   {
     "id": "ea2c918cafd9",
