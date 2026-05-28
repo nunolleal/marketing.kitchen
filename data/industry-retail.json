@@ -51,7 +51,10 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 19
+    "relevance_score": 18,
+    "also_covered_by": [
+      "Wall Street"
+    ]
   },
   {
     "id": "43409aa05151",
@@ -74,7 +77,31 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 19
+    "relevance_score": 18
+  },
+  {
+    "id": "091cead72b40",
+    "title": "Meet The Doctor-Turned-Entrepreneur Using AI To Save Lives",
+    "url": "https://www.forbes.com/sites/zinnialee/2026/05/27/meet-the-doctor-turned-entrepreneur-using-ai-to-save-lives/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-05-27T21:19:05+00:00",
+    "summary": "Aengus Tran traded medical practice to build AI software that delivers quick and accurate diagnoses of X-rays and scans. Now, the 32-year-old CEO of Sydney-based Harrison.ai and a 30 Under 30 Asia alum, is targeting America’s overstretched healthcare system.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a1664bf8aeac576a00f24c2/0x0.jpg?width=960&precrop=2859%2C1608%2Cx0%2Cy0",
+    "tags": [
+      "Asia",
+      "/asia",
+      "Asia",
+      "/asia",
+      "Leadership"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 16
   },
   {
     "id": "8a65e195246f",
@@ -90,7 +117,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "3ef42c2a074c",
@@ -112,7 +139,29 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
+  },
+  {
+    "id": "5b8959ac3b98",
+    "title": "Complex LA Celebrates aespa’s ‘LEMONADE’ With Pop-Up This Weekend!",
+    "url": "https://www.forbes.com/sites/laurasirikul/2026/05/27/complex-la-celebrates-aespas-lemonade-with-pop-up-this-weekend/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-05-27T20:48:48+00:00",
+    "summary": "In honor of aespa’s second full-length album, LEMONADE, Complex is hosting an exclusive pop-up, “Make It LEMONADE,” at its Los Angeles store this weekend.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a17576867b8e807ce04c518/0x0.jpg",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 14
   },
   {
     "id": "d04de9952d89",
@@ -128,7 +177,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "7990b7c09c4a",
@@ -144,7 +193,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "dc632b662afe",
@@ -160,7 +209,7 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "db9862e552d7",
@@ -177,7 +226,7 @@
       "retail",
       "lifesciences"
     ],
-    "relevance_score": 14,
+    "relevance_score": 13,
     "also_covered_by": [
       "Health Tech"
     ]
@@ -236,6 +285,23 @@
     "relevance_score": 11
   },
   {
+    "id": "5ff9dfc84d85",
+    "title": "Salesforce crushes Wall Street's targets in its latest results, but can't boost its struggling stock - SiliconANGLE",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOMlFyTjY5NGlSQXdHVlAzMVFmUHUta1IxeVhmRHhxeTcwSC1jYnhtQXdnV2xDem5hRUpiYkk2TXhBT1Q2TkxSMDJMVk5lbWVtSkV4bENLdWVLZzNHMHZGWmd6NDlYZTdfeUIxX2Z1NGZCWmlXdzc4NWt1OTNocFVHMW1CQUtlUm1KaF84VEswT0hVLVpDOXU5Vzd3em5NOE1qeEplZmczWnVRWDJnMS1vTHREN1FENHMzRTZ3?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-05-28T01:36:17+00:00",
+    "summary": "Salesforce crushes Wall Street's targets in its latest results, but can't boost its struggling stock SiliconANGLE",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "a8b956be0657",
     "title": "Walmart ties expected tariff refunds to price strategy amid cost pressures",
     "url": "https://www.retaildive.com/news/walmart-tariff-refunds-price-cuts-low-prices-strategy/821033/",
@@ -281,7 +347,7 @@
       "telecom",
       "retail"
     ],
-    "relevance_score": 9
+    "relevance_score": 8
   },
   {
     "id": "ca69d73ace4b",
@@ -296,7 +362,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 9
+    "relevance_score": 8
   },
   {
     "id": "72246ea24c87",
@@ -309,23 +375,6 @@
     "image_url": null,
     "tags": [],
     "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "1de446175af6",
-    "title": "CUSTOMER MELTDOWN AT VERIZON STORE ENDS WITH DOOR RIPPED OFF HINGES - Scioto County Daily News",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVU54WGNBQThJdkxnX1RxV0tXVTZvU09ydmlDbWluQzNkbnJFaWlSSHlVZnhKaVY2OWpndkVQT0pIMXBZOGMyX0NuekhJbm9DUGpzWU5lb3lWXzhEaE5ibGFrdWdVa3JmeEw2aEdVQ2lfbUNpWlI2UldrMVJHeFpCQVZJWXktZDRBR1lET3JHRl9DSmVBTlJvOVVSV24ydm5GQ3h1d9IBrAFBVV95cUxOZ0x1d3phV0NCVTg5UXZQR1ZVVTJnUklldEd3aFRRdzdtVGRTYmVBYmVWOFN2c1FnaHRDR0RIS2lMYVJfVU1Xb1hyQmpqU1NfNWxCU2ZVTlFYOFhIbnMwdDgwRTNNeUR0RDJ1U0F3NGdBMHdkLXZFTHMtRVRidzZ3Vndvd2djVmZ6VG95TU1mcS13Qm94N1Zkazd5ODdoOWt5a2l5MzNrT1kzMTFD?oc=5",
-    "source": "Telecom",
-    "source_category": "industry_telecom",
-    "published": "2026-05-26T22:54:05+00:00",
-    "summary": "CUSTOMER MELTDOWN AT VERIZON STORE ENDS WITH DOOR RIPPED OFF HINGES Scioto County Daily News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
       "retail",
       "industrial"
     ],
@@ -345,6 +394,23 @@
       "tech",
       "retail",
       "consumer",
+      "industrial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "1de446175af6",
+    "title": "CUSTOMER MELTDOWN AT VERIZON STORE ENDS WITH DOOR RIPPED OFF HINGES - Scioto County Daily News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVU54WGNBQThJdkxnX1RxV0tXVTZvU09ydmlDbWluQzNkbnJFaWlSSHlVZnhKaVY2OWpndkVQT0pIMXBZOGMyX0NuekhJbm9DUGpzWU5lb3lWXzhEaE5ibGFrdWdVa3JmeEw2aEdVQ2lfbUNpWlI2UldrMVJHeFpCQVZJWXktZDRBR1lET3JHRl9DSmVBTlJvOVVSV24ydm5GQ3h1d9IBrAFBVV95cUxOZ0x1d3phV0NCVTg5UXZQR1ZVVTJnUklldEd3aFRRdzdtVGRTYmVBYmVWOFN2c1FnaHRDR0RIS2lMYVJfVU1Xb1hyQmpqU1NfNWxCU2ZVTlFYOFhIbnMwdDgwRTNNeUR0RDJ1U0F3NGdBMHdkLXZFTHMtRVRidzZ3Vndvd2djVmZ6VG95TU1mcS13Qm94N1Zkazd5ODdoOWt5a2l5MzNrT1kzMTFD?oc=5",
+    "source": "Telecom",
+    "source_category": "industry_telecom",
+    "published": "2026-05-26T22:54:05+00:00",
+    "summary": "CUSTOMER MELTDOWN AT VERIZON STORE ENDS WITH DOOR RIPPED OFF HINGES Scioto County Daily News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "telecom",
+      "retail",
       "industrial"
     ],
     "relevance_score": 6
