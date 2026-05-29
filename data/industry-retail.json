@@ -15,7 +15,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 60
+    "relevance_score": 57
   },
   {
     "id": "d34f56b7cd1c",
@@ -51,7 +51,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
     "id": "0ee48169a64a",
@@ -72,7 +72,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 17,
+    "relevance_score": 16,
     "also_covered_by": [
       "Wired",
       "Health Tech"
@@ -114,7 +114,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "4afbf292d086",
@@ -154,91 +154,6 @@
     "relevance_score": 14
   },
   {
-    "id": "79a3e638b801",
-    "title": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
-    "url": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-05-28T10:30:00+00:00",
-    "summary": "The tech giant says a breakthrough in data center networking has dramatically accelerated the flow of information through its massive cloud infrastructure.",
-    "image_url": "https://media.wired.com/photos/6a173c117ababccb510cce19/master/pass/Amazon-AI-Future-Business-Ratul-Giacomo-Sesh-in-front-of-RNG-racks3.jpg",
-    "tags": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Business / Big Tech",
-      "Amazon",
-      "AWS"
-    ],
-    "industries": [
-      "tech",
-      "retail"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "92649c81dcf4",
-    "title": "Amazon taps Amwell co-founder to lead health business",
-    "url": "https://www.healthcaredive.com/news/amazon-taps-amwell-co-founder-roy-schoenberg-health-leader-neil-lindsay-steps-down/821372/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-28T16:12:51+00:00",
-    "summary": "Dr. Roy Schoenberg, who founded the telehealth company Amwell with his brother two decades ago, will become the new head of Amazon’s healthcare unit on July 1.",
-    "image_url": "https://imgproxy.divecdn.com/Vrksxc4obviDGgWxaKqdRGGFAuRsFSXHU90RWkbuxiM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjMzMDEwMDU1LmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "retail",
-      "lifesciences"
-    ],
-    "relevance_score": 13,
-    "also_covered_by": [
-      "Fierce Healthcare",
-      "Health Tech"
-    ]
-  },
-  {
-    "id": "8f7b3fc6dac7",
-    "title": "Teladoc adds virtual care services to Walmart digital health platform",
-    "url": "https://www.healthcaredive.com/news/teladoc-walmart-better-care-services/821250/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-28T16:56:00+00:00",
-    "summary": "Customers using Walmart’s Better Care Services will be able to access Teladoc’s virtual care products, including urgent care, dermatology and nutrition support.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 13,
-    "also_covered_by": [
-      "Fierce Healthcare"
-    ]
-  },
-  {
-    "id": "2575e7e5ec79",
-    "title": "The Pentagon Knew Enemies Could Track Troops’ Phones for Years. Now They Are",
-    "url": "https://www.wired.com/story/the-pentagon-knew-enemies-could-track-troops-phones-for-years-now-they-are/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-05-28T16:59:33+00:00",
-    "summary": "The US military has long known that cheap fixes could stop location data from exposing its troops. It adopted almost none—and now says adversaries are using the data to target soldiers during a war.",
-    "image_url": "https://media.wired.com/photos/6a18583bcf61ddb72176866e/master/pass/Security_USMilitaryKnewofLocationDataDanger_v1.jpg",
-    "tags": [
-      "Security",
-      "Security / National Security",
-      "Security / Privacy",
-      "Security / Security News",
-      "privacy"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
     "id": "8a65e195246f",
     "title": "Bath & Body Works CEO: ‘We are in the early stages’ of transformation",
     "url": "https://www.retaildive.com/news/bath-body-works-ceo-q1-earnings-early-stages-transformation/821207/",
@@ -272,6 +187,69 @@
     "relevance_score": 12
   },
   {
+    "id": "92649c81dcf4",
+    "title": "Amazon taps Amwell co-founder to lead health business",
+    "url": "https://www.healthcaredive.com/news/amazon-taps-amwell-co-founder-roy-schoenberg-health-leader-neil-lindsay-steps-down/821372/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-28T16:12:51+00:00",
+    "summary": "Dr. Roy Schoenberg, who founded the telehealth company Amwell with his brother two decades ago, will become the new head of Amazon’s healthcare unit on July 1.",
+    "image_url": "https://imgproxy.divecdn.com/Vrksxc4obviDGgWxaKqdRGGFAuRsFSXHU90RWkbuxiM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjMzMDEwMDU1LmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "retail",
+      "lifesciences"
+    ],
+    "relevance_score": 12,
+    "also_covered_by": [
+      "Fierce Healthcare",
+      "Health Tech"
+    ]
+  },
+  {
+    "id": "8f7b3fc6dac7",
+    "title": "Teladoc adds virtual care services to Walmart digital health platform",
+    "url": "https://www.healthcaredive.com/news/teladoc-walmart-better-care-services/821250/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-28T16:56:00+00:00",
+    "summary": "Customers using Walmart’s Better Care Services will be able to access Teladoc’s virtual care products, including urgent care, dermatology and nutrition support.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 12,
+    "also_covered_by": [
+      "Fierce Healthcare"
+    ]
+  },
+  {
+    "id": "2575e7e5ec79",
+    "title": "The Pentagon Knew Enemies Could Track Troops’ Phones for Years. Now They Are",
+    "url": "https://www.wired.com/story/the-pentagon-knew-enemies-could-track-troops-phones-for-years-now-they-are/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-05-28T16:59:33+00:00",
+    "summary": "The US military has long known that cheap fixes could stop location data from exposing its troops. It adopted almost none—and now says adversaries are using the data to target soldiers during a war.",
+    "image_url": "https://media.wired.com/photos/6a18583bcf61ddb72176866e/master/pass/Security_USMilitaryKnewofLocationDataDanger_v1.jpg",
+    "tags": [
+      "Security",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News",
+      "privacy"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
     "id": "5cfce05b3e04",
     "title": "Universal Ads must pass the pizza test if it’s to steal ad dollars from social",
     "url": "https://digiday.com/media-buying/universal-ads-must-pass-the-pizza-test-if-its-to-steal-ad-dollars-from-social/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -290,34 +268,23 @@
     "relevance_score": 11
   },
   {
-    "id": "4c859f7427fa",
-    "title": "CVS restores coverage of Eli Lilly obesity med Zepbound, adds new pill Foundayo",
-    "url": "https://www.fiercehealthcare.com/pharma/cvs-restores-coverage-eli-lilly-obesity-drugs-zepbound-foundayo",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-28T10:54:00+00:00",
-    "summary": "The top pharmacy benefit manager in the U.S., CVS Caremark, will restore coverage to obesity products from Eli Lilly, allowing a significant number of patients to gain access to the drugs through their existing insurance.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202025-03-04T130914.331.jpg?VersionId=PBbQDFjy.qU2KLepNkL40mvQfkF10IEA",
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "lifesciences",
-      "financial"
+    "id": "79a3e638b801",
+    "title": "Amazon Thinks the Future of Data Centers Depends on a Technical Problem It Just Solved",
+    "url": "https://www.wired.com/story/amazon-thinks-the-future-of-data-centers-depends-on-a-technical-problem-it-just-solved/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-05-28T10:30:00+00:00",
+    "summary": "The tech giant says a breakthrough in data center networking has dramatically accelerated the flow of information through its massive cloud infrastructure.",
+    "image_url": "https://media.wired.com/photos/6a173c117ababccb510cce19/master/pass/Amazon-AI-Future-Business-Ratul-Giacomo-Sesh-in-front-of-RNG-racks3.jpg",
+    "tags": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "Business / Big Tech",
+      "Amazon",
+      "AWS"
     ],
-    "relevance_score": 11
-  },
-  {
-    "id": "3d260953c396",
-    "title": "Shopping with AI leads to more sales than by traditional online searches – Adobe - The Independent",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE1DM1JVM3Nsd09URUozQllETE51dzNER1ZQT0J1VVZOQTFOLWZIcUE4N1g5RW1PSVg1bTVSd0I1bUhyeDM4em5tUDZ1UER5SkJ6Z0FzYU9HRldDZklmN3pXX25lZGU?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-05-28T23:01:00+00:00",
-    "summary": "Shopping with AI leads to more sales than by traditional online searches – Adobe The Independent",
-    "image_url": null,
-    "tags": [],
     "industries": [
+      "tech",
       "retail"
     ],
     "relevance_score": 11
@@ -371,20 +338,22 @@
     "relevance_score": 10
   },
   {
-    "id": "062f429f999f",
-    "title": "COST Stock In Focus: Costco’s Record Fuel Sales Have Wall Street Worried About Inflation Again - Stocktwits",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxQQ2EteHVWYVd0Y21xRzBrZEdZQnN6X2xiR255V19xUVdidmlGVDRLUHpjTHZQem5DNDdtRXJLN09jb095cXRlWW4zanV3bEJmZjdISmx3ZHY1Z1ZFejZkOWtwNFI2QkdTbWVLVF80Z3k3YUxNSktOenFpU29MQ0NBQzVUczliMEtTYXJQNkx4MEhiaGdmMTNScy1GSUhnT1pHa2FlazJvSUZJQXo4RDdaa0dRcXB0VnBJd2lIY3gtMVRJT2hLam1GamR2X1dFYWRmRUh5NFV0alg5N0tXMTVNTHYwOVNndS04RElj?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-05-29T06:01:00+00:00",
-    "summary": "COST Stock In Focus: Costco’s Record Fuel Sales Have Wall Street Worried About Inflation Again Stocktwits",
-    "image_url": null,
+    "id": "4c859f7427fa",
+    "title": "CVS restores coverage of Eli Lilly obesity med Zepbound, adds new pill Foundayo",
+    "url": "https://www.fiercehealthcare.com/pharma/cvs-restores-coverage-eli-lilly-obesity-drugs-zepbound-foundayo",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-28T10:54:00+00:00",
+    "summary": "The top pharmacy benefit manager in the U.S., CVS Caremark, will restore coverage to obesity products from Eli Lilly, allowing a significant number of patients to gain access to the drugs through their existing insurance.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202025-03-04T130914.331.jpg?VersionId=PBbQDFjy.qU2KLepNkL40mvQfkF10IEA",
     "tags": [],
     "industries": [
       "retail",
+      "industrial",
+      "lifesciences",
       "financial"
     ],
-    "relevance_score": 10
+    "relevance_score": 9
   },
   {
     "id": "a527424ae34a",
@@ -403,37 +372,20 @@
     "relevance_score": 9
   },
   {
-    "id": "c25d86e9aa0c",
-    "title": "FET to distribute Amazon Leo satellite services in Taiwan - Telecompaper",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPcmtXRDlaMHNja1kwT0lkUG43ZDJlV0RIOHdZRy1MREZOcnh4TnFnQmRLdGJRRlBuamNVdGJLLTVlT0Y2RTQ4dVFYd2xPY1F0WW1sZmFrUlVfVFBUUHgxeWFrU0Itd0Y3MTZ3TjRwVUV3bXAydWtlZW10VWMya182UE1BWmFsZEwtQTJGeDVDbVZNeDdJSFdWQTU1NDB5R3dhZlE?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-05-28T13:06:32+00:00",
-    "summary": "FET to distribute Amazon Leo satellite services in Taiwan Telecompaper",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "retail"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "b1bf95b97649",
-    "title": "T-Mobile refuses to sell customer a new iPhone and tells him to buy it at the Apple Store - PhoneArena",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNeERHWGZBdEN1a0YwUWJ5UDFuY19nV096XzFuUnRxb2E0d3pETzcwLWV1TlBnckx1YnlDQWJTZjFRMU1ZNHdaWVdxemJiZFh2V0F5NUpJZjlLZHJvX3pOUmhPMnVfS1FHc24xS0hEVTRGamhGcWdaTE9DN2xBSlFERHdKT0FzdmJEVjUtLTMxaXN1RW0yREFJaS1kOXQ?oc=5",
+    "id": "a0984467cb08",
+    "title": "Customer Says T-Mobile Wouldn’t Sell a Replacement iPhone in Store - TmoNews",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVlVHVU5NQ2xIZzlac19ReTJ3Z2pReUdTMW1mVnhjVXU1NlhCN2RfMks3X0tZVWxfRTFwZjMyOVJ1N0g4Q01uTlpPZFdQVDdkNVBoRmNJejFNRnlQUDU0cFp5OWVkVmpRZ0RqT29vMDRpaE9sMjNnV1kyWERXTmY2YmVrMkt2YjBqaUI1ajlhQVVkdlBfal8yM3M0bC10bVHSAZ8BQVVfeXFMUFZVR1VOTUNsSGc5WnNfUXkyd2dqUXlHUzFtZlZ4Y1V1NTZYQjdkXzJLN19LWVVsX0UxcGYzMjlSdTdIOENNbk5aT2RXUFQ3ZDVQaEZjSXoxTUZ5UFA1NHBaeTllZFZqUWdEak9vbzA0aWhPbDIzZ1dZMlhEV05mNmJlazJLdmIwamlCNWo5YUFVZHZQX2pfMjNzNGwtdG1R?oc=5",
     "source": "Telecom",
     "source_category": "industry_telecom",
-    "published": "2026-05-27T07:54:15+00:00",
-    "summary": "T-Mobile refuses to sell customer a new iPhone and tells him to buy it at the Apple Store PhoneArena",
+    "published": "2026-05-28T03:29:28+00:00",
+    "summary": "Customer Says T-Mobile Wouldn’t Sell a Replacement iPhone in Store TmoNews",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
       "telecom",
       "retail"
     ],
-    "relevance_score": 7
+    "relevance_score": 6
   },
   {
     "id": "1de446175af6",

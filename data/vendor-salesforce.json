@@ -1,25 +1,5 @@
 [
   {
-    "id": "29fa524b0268",
-    "title": "Salesforce Stock Price Handed Boost as CRM Reports \"Outstanding\" Q1 Results, Agentforce AI Adoption Accelerates - foreignpolicyjournal.com",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWkxXZjVjMk9vemRFR3Zmb0RjN1VQeUg2Y09tRFd6WWF4TldIMXRuYXRSUkE5b2xpb1lHZlJ3VzdvU3ZZVHpSTTJpclIydDJha0RKX3EyLVd2anc5N1dQNFExdDJoaWk5ODZyVlFVSnNyRmd2ejZ2UUotR0MxdThHY1dhNS0zWjhacjZpZi14MjZkQ2VKeVR5ZFNIY2NtbUhMS0NmaXRMcnBrVlJBQl9EV2RMUmpPcmM5TFhmcU9JdXVWdVpZMHoxUVZxTXRQNERXdmdUemZDZG9aRkMwU2t0Wmo5SFFjdw?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-05-28T10:12:00+00:00",
-    "summary": "Salesforce Stock Price Handed Boost as CRM Reports \"Outstanding\" Q1 Results, Agentforce AI Adoption Accelerates foreignpolicyjournal.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 45,
-    "also_covered_by": [
-      "Biotech",
-      "Health Tech",
-      "Fintech"
-    ]
-  },
-  {
     "id": "a36795b4b2ed",
     "title": "10 Small Business Holidays That Make a Big Impact",
     "url": "https://www.salesforce.com/blog/small-business/smb-holidays/",
@@ -33,12 +13,32 @@
     "relevance_score": 43
   },
   {
+    "id": "29fa524b0268",
+    "title": "Salesforce Stock Price Handed Boost as CRM Reports \"Outstanding\" Q1 Results, Agentforce AI Adoption Accelerates - foreignpolicyjournal.com",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPWkxXZjVjMk9vemRFR3Zmb0RjN1VQeUg2Y09tRFd6WWF4TldIMXRuYXRSUkE5b2xpb1lHZlJ3VzdvU3ZZVHpSTTJpclIydDJha0RKX3EyLVd2anc5N1dQNFExdDJoaWk5ODZyVlFVSnNyRmd2ejZ2UUotR0MxdThHY1dhNS0zWjhacjZpZi14MjZkQ2VKeVR5ZFNIY2NtbUhMS0NmaXRMcnBrVlJBQl9EV2RMUmpPcmM5TFhmcU9JdXVWdVpZMHoxUVZxTXRQNERXdmdUemZDZG9aRkMwU2t0Wmo5SFFjdw?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-05-28T10:12:00+00:00",
+    "summary": "Salesforce Stock Price Handed Boost as CRM Reports \"Outstanding\" Q1 Results, Agentforce AI Adoption Accelerates foreignpolicyjournal.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 41,
+    "also_covered_by": [
+      "Biotech",
+      "Health Tech",
+      "Fintech"
+    ]
+  },
+  {
     "id": "a87d92d5bd77",
     "title": "Salesforce Q1 FY2027 earnings beat, guidance disappoints - qz.com",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZjVTeWxLS3FmS0w2LW85QmxyYlhXYjB5NFRhazI1TE1KZkdRZjVDVlE3aV84WXIyRmNrQ3JaTDU5cjFTM0pLdHhlVjBPcHZkMFpraEZsRGdFbXpZMG4zdEo4UDh1a2Q0OXMtcWx4SkV5RzZhX1ZJMklxc3o5NUVsN3d1S3Vsdw?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-05-28T12:42:21+00:00",
+    "published": "2026-05-28T12:10:12+00:00",
     "summary": "Salesforce Q1 FY2027 earnings beat, guidance disappoints qz.com",
     "image_url": null,
     "tags": [],
@@ -105,7 +105,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "e32b47b0d885",
@@ -151,7 +151,12 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 12
+    "relevance_score": 12,
+    "also_covered_by": [
+      "Fierce Healthcare",
+      "Health Tech",
+      "Telecom 5G"
+    ]
   },
   {
     "id": "a55069af8467",
@@ -164,36 +169,6 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/SF-TRLB-26-01_KacieMolina-BlogHero-1_1500x844_v0.1.png",
     "tags": [],
     "industries": [],
-    "relevance_score": 12
-  },
-  {
-    "id": "bee2fcddf630",
-    "title": "Can Language Models Remember What They Learn?",
-    "url": "https://www.salesforce.com/blog/procedural-memory-distillation/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-28T17:21:17+00:00",
-    "summary": "Post-training methods (RLVR, On-policy distillation) are Episode-local Language models are getting better at learning from feedback during post-training. In reinforcement learning with verifiable rewards (RLVR), a model tries a problem, a verifier checks…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Can-Language-Models-Remember-What-They-Learn2.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "b42a530d29ed",
-    "title": "Why High-Tech Leaders are Trading Salesforce CPQ for Agentforce Revenue Management - Atrium AI",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ0pya2RuaGkyYVh0aEpxZmQ0OXBrMVNWbldYQkt1em50QnlONFNZUGxCbGVLcWpBSnd6M010QzhJMHhDV245YUpYbTdZdkJsc3h4R1JIbUsydnZ2UWFESXV1cVpacDVFcmkwLURkMHhSaEE5OTg5S1NNSUhJalJiYW1B?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-05-28T18:26:41+00:00",
-    "summary": "Why High-Tech Leaders are Trading Salesforce CPQ for Agentforce Revenue Management Atrium AI",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
     "relevance_score": 12
   },
   {
@@ -222,19 +197,6 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 11
-  },
-  {
-    "id": "f9938c1e9a8d",
-    "title": "Salesforce Earnings Beat Expectations. The Stock Slides Anyway. - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5XVlc3UkgyM1NNVFlsdW5vNkpsem03WElrUngtaHBSckxUcHVLemxMNzRVU1NMZ2FteTYzMnBnR0tXZmhnNEdxZE5zVm03T3doeFNsTlRDTFd0Rl9XdEJGNm1INi1ySkczOG9Ob1pUVkRrOE52ekhJR24zUVlmQQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-05-28T08:37:00+00:00",
-    "summary": "Salesforce Earnings Beat Expectations. The Stock Slides Anyway. Barron's",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
     "relevance_score": 11
   },
   {
@@ -268,17 +230,32 @@
     "relevance_score": 11
   },
   {
-    "id": "bfaa71a61f6f",
-    "title": "Beyond the Vibe in Financial Services Series",
-    "url": "https://www.salesforce.com/blog/beyond-the-vibe-in-financial-services-series-part-1/",
+    "id": "bee2fcddf630",
+    "title": "Can Language Models Remember What They Learn?",
+    "url": "https://www.salesforce.com/blog/procedural-memory-distillation/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-05-28T17:06:34+00:00",
-    "summary": "Part 1 of 3: The Vibe Coding Trap and the Regulatory Reality",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/AdobeStock_2031815392.jpeg",
+    "published": "2026-05-28T17:21:17+00:00",
+    "summary": "Post-training methods (RLVR, On-policy distillation) are Episode-local Language models are getting better at learning from feedback during post-training. In reinforcement learning with verifiable rewards (RLVR), a model tries a problem, a verifier checks…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Can-Language-Models-Remember-What-They-Learn2.png",
     "tags": [],
     "industries": [
-      "financial"
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "b42a530d29ed",
+    "title": "Why High-Tech Leaders are Trading Salesforce CPQ for Agentforce Revenue Management - Atrium AI",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNQ0pya2RuaGkyYVh0aEpxZmQ0OXBrMVNWbldYQkt1em50QnlONFNZUGxCbGVLcWpBSnd6M010QzhJMHhDV245YUpYbTdZdkJsc3h4R1JIbUsydnZ2UWFESXV1cVpacDVFcmkwLURkMHhSaEE5OTg5S1NNSUhJalJiYW1B?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-05-28T18:26:41+00:00",
+    "summary": "Why High-Tech Leaders are Trading Salesforce CPQ for Agentforce Revenue Management Atrium AI",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
     ],
     "relevance_score": 11
   },
@@ -298,16 +275,18 @@
     "relevance_score": 10
   },
   {
-    "id": "efe85ba4cc64",
-    "title": "Analyst warns Salesforce has an AI problem - thestreet.com",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOZFRPTzBkRHpIamwzZlMzQXpydjhfVHpjTlVrSTBNSTBJdjQ2allLaURpSDE4ek5SUy13bmkzQ2Z2Sm1BWEFxLTN0ckJlSnlhTVBkcHVQb0c0MUF5SnlGTldCTmN2NkVmbHZuTHNhQlJsTVB3LWs0MUtYdmZKT0tqLTRidy1pNzVtOWhGRVZ3?oc=5",
-    "source": "Salesforce AI",
+    "id": "bfaa71a61f6f",
+    "title": "Beyond the Vibe in Financial Services Series",
+    "url": "https://www.salesforce.com/blog/beyond-the-vibe-in-financial-services-series-part-1/",
+    "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-05-28T23:33:00+00:00",
-    "summary": "Analyst warns Salesforce has an AI problem thestreet.com",
-    "image_url": null,
+    "published": "2026-05-28T17:06:34+00:00",
+    "summary": "Part 1 of 3: The Vibe Coding Trap and the Regulatory Reality",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/AdobeStock_2031815392.jpeg",
     "tags": [],
-    "industries": [],
+    "industries": [
+      "financial"
+    ],
     "relevance_score": 10
   },
   {
