@@ -83,7 +83,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "92649c81dcf4",
@@ -99,9 +99,10 @@
       "retail",
       "lifesciences"
     ],
-    "relevance_score": 14,
+    "relevance_score": 13,
     "also_covered_by": [
-      "Fierce Healthcare"
+      "Fierce Healthcare",
+      "Health Tech"
     ]
   },
   {
@@ -120,26 +121,10 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 14,
+    "relevance_score": 13,
     "also_covered_by": [
-      "Fierce Healthcare",
-      "Health Tech"
+      "Fierce Healthcare"
     ]
-  },
-  {
-    "id": "b49a598ba0e3",
-    "title": "Highway to HLTH: Digital Health's Next Wave - The Tech Trends Defining the Sector in 2026 - HLTH",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYUZVTGxleHRKVkZ0VWxFNGQyNENfMkhWX2lvT2x5M2VRMm9VblQ5QUxnVVRfSzRlWXozcUk4azlabUIwb1habTA4THdRR05EMDRhQ1dQUmt6Y3lmUk1NWmw1c3FXV2hGT2RMWFVMX0VzSXNnYmJqRG1za2FzSHdnX29LdVljU3NKbnBLS3RtVHZHNmtvdWlHUmVFcUNUUEJnY2NOTlZpcnRudGNQcGVfTkJZOEVac1E0WXJMbWxB?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-28T20:18:29+00:00",
-    "summary": "Highway to HLTH: Digital Health's Next Wave - The Tech Trends Defining the Sector in 2026 HLTH",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 14
   },
   {
     "id": "92fe4e02018b",
@@ -160,7 +145,7 @@
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "d644dc7ddc36",
@@ -246,6 +231,21 @@
     "relevance_score": 12
   },
   {
+    "id": "b49a598ba0e3",
+    "title": "Highway to HLTH: Digital Health's Next Wave - The Tech Trends Defining the Sector in 2026 - HLTH",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQYUZVTGxleHRKVkZ0VWxFNGQyNENfMkhWX2lvT2x5M2VRMm9VblQ5QUxnVVRfSzRlWXozcUk4azlabUIwb1habTA4THdRR05EMDRhQ1dQUmt6Y3lmUk1NWmw1c3FXV2hGT2RMWFVMX0VzSXNnYmJqRG1za2FzSHdnX29LdVljU3NKbnBLS3RtVHZHNmtvdWlHUmVFcUNUUEJnY2NOTlZpcnRudGNQcGVfTkJZOEVac1E0WXJMbWxB?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-28T20:18:29+00:00",
+    "summary": "Highway to HLTH: Digital Health's Next Wave - The Tech Trends Defining the Sector in 2026 HLTH",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 12
+  },
+  {
     "id": "64cc1125471b",
     "title": "Humana invests $83M in new Florida pharmacy distribution center",
     "url": "https://www.fiercehealthcare.com/payers/humana-invests-83m-new-florida-pharmacy-distribution-center",
@@ -256,38 +256,6 @@
     "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-500481326.jpg?VersionId=QI0AGa5Cx_Q6yC9dPK0gYYVa_Hz174cf",
     "tags": [],
     "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "4fb03514d4b7",
-    "title": "SCRA launches rural health tech startup funding - SCBiz",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12WFF2TUJKSjhSMlhmWjRtdEZyc3NhYWUxZFlMMjZBd3VjcUpwTkpPZDZVOWQ0VzRndjlFSUFMcHQxQUNndnlOOGdKdVlhS3dtazA3S21QMGt3cWttYWxtV25NOEhHbXJo?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-28T14:50:04+00:00",
-    "summary": "SCRA launches rural health tech startup funding SCBiz",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "38fb9aded31b",
-    "title": "Amazon names former Amwell CEO as head of health services - Modern Healthcare News",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPX3Jxb0haWldiVU10aXV1eGlUZkR2QTQyRS03WmRxeENYSTNrMW5YNWh5cVp1TVRCZ0lyMnFxdTFtVS00Vm96bzdhM2dVbm5jZ1AzOGpBSDd6SWlUeDRObTFGYjFNcWgxTW40bVRUT2h5a0lwNW1iY3k1Xy1YR0puUlJXX29fMkZSNjBYbzVVRTRROUFQOGREX1NwWE41MmdKWTMybXlVMWhyemdN?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-28T16:33:00+00:00",
-    "summary": "Amazon names former Amwell CEO as head of health services Modern Healthcare News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
       "lifesciences"
     ],
     "relevance_score": 11
@@ -340,13 +308,13 @@
     "relevance_score": 10
   },
   {
-    "id": "d919ae575e84",
-    "title": "Houston startup raises $6M to scale home-based healthcare platform - InnovationMap",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPNl9tMFBPNmlrYjRWZnF4U1hLck5SU2g2Y2YyLTV6ZTFsaDRTYmd6aHhLRzNXVmgwNzlTWDkyMDFqZGJjODVJcGcwRDFCSWhTQUw5RTV0bjVmdnZBam05ZWJ1OUZyalhlREpURzRnN1l2S1lpMXFqTDVoNVhpMENibVU0YlJkTWM?oc=5",
+    "id": "4fb03514d4b7",
+    "title": "SCRA launches rural health tech startup funding - SCBiz",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE12WFF2TUJKSjhSMlhmWjRtdEZyc3NhYWUxZFlMMjZBd3VjcUpwTkpPZDZVOWQ0VzRndjlFSUFMcHQxQUNndnlOOGdKdVlhS3dtazA3S21QMGt3cWttYWxtV25NOEhHbXJo?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-05-28T13:38:39+00:00",
-    "summary": "Houston startup raises $6M to scale home-based healthcare platform InnovationMap",
+    "published": "2026-05-28T14:50:04+00:00",
+    "summary": "SCRA launches rural health tech startup funding SCBiz",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -403,10 +371,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 9,
-    "also_covered_by": [
-      "Health Tech"
-    ]
+    "relevance_score": 9
   },
   {
     "id": "87a21c0cfc10",
@@ -426,23 +391,21 @@
     "relevance_score": 9
   },
   {
-    "id": "f59a1ca9c452",
-    "title": "OptimizeRx vs. Doximity: Which Digital Health Stock Is the Better Bet? - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOM29IcXJSeF83WUdLUHAySHkwQ1IzTUFtQmpKQ3NKcHJhMUdubHpoSXhTOFh1Z19yUldOcDkwZGdjd3cxQnJva1VSNGZxeWlSMlBqR1VsQTFwaVdwMERCQUw3SlRPcWgtWXdabWFRemtQMnZKUFRwUk1IRkZyMFZqdW95Mms5LWpab3oyRklXTmVOeEoxSExWeFFXTFdMeHlnQW9aLUFBV3I4dk1mZUZkbHpMOTZaejFpWlhLeHlmcXU?oc=5",
-    "source": "Health Tech",
+    "id": "c006bec00058",
+    "title": "FDA Approves Shanghai Henlius Biotech IND For Cetuximab Biosimilar - marketscreener.com",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNN215c0t1MXFHb3BYbTktLVJJY2w5dVZrdE9fZVpUOFhNYWZGd1Q2OHowcFJKVnBKcmthR3lCN1hlbG8xZk9aMjhheWNYdnlOMk5CMWgteTFwOFpLd2dHTnQ4dXJ3QjIxYy0zWktubUxYUGppd1EzRVBlTE5zSlVQNHZvSFRyZDJ4NUJlN2k2RVRET3BRbnRDSUl1VUJhbC1GM1k2NXFWUE1OWlpTUlcydFMzeFFMQzBMNmow?oc=5",
+    "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-05-28T15:02:00+00:00",
-    "summary": "OptimizeRx vs. Doximity: Which Digital Health Stock Is the Better Bet? TradingView",
+    "published": "2026-05-28T20:10:15+00:00",
+    "summary": "FDA Approves Shanghai Henlius Biotech IND For Cetuximab Biosimilar marketscreener.com",
     "image_url": null,
     "tags": [],
     "industries": [
+      "tech",
+      "industrial",
       "lifesciences"
     ],
-    "relevance_score": 9,
-    "also_covered_by": [
-      "Adobe",
-      "Adobe Marketing Cloud"
-    ]
+    "relevance_score": 9
   },
   {
     "id": "68ed8865f49b",
@@ -492,6 +455,22 @@
     "relevance_score": 6
   },
   {
+    "id": "8f572849028d",
+    "title": "FDA delays ruling on AstraZeneca drug after negative adcomm vote - Fierce Biotech",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZmZGbTg0OGFKQTNTc2xfRjRnQnhVQWd4Q1lWblRNUEV3SHk0ME9WajVWVjcteWRUZTZlbC10T1BiR1dKMmpUNGVuZXZHdEgtUkxKeWVRVmV0LUd6b3dTd01jbm1tMmlPVFZNcTdJNnRmdVdjTnhXMDQ3SmdHZW9QWG40Ynl6Z2Nmb2N4VXBlMFEwcDdjRkxhc0hQWExaVE9tS29EbmF2U0hiYzRKY2hMTzFGako?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-27T08:43:33+00:00",
+    "summary": "FDA delays ruling on AstraZeneca drug after negative adcomm vote Fierce Biotech",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 6
+  },
+  {
     "id": "53f769021396",
     "title": "Medication intelligence is the backbone of scalable health tech - Wolters Kluwer",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPNjBEZWpvQkc4a3VEekJ5blMyeTBtd0hrWTMyOGtuOENKZHdZRkExNHphdWx3ZXhxMnBrR3FBbFM4NllJdlg4UklNOFhBcnNSTHdvTy12cmN6MzZqVklhM1VOaXdnZ3lXZW1hSUkyU2lGUndVUHZvbnExblNmNGtzaDBqUmJjT251eW1Ma2RjaUw5bnNPVkpSQjIzUWJLY2FXZkxLTUpYV3BFRzJ6cjc3MTNB?oc=5",
@@ -503,6 +482,22 @@
     "tags": [],
     "industries": [
       "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "8fd55d835ab8",
+    "title": "FDA Approves Datroway | PharmExec - Pharmaceutical Executive",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTFBHXy1CbjhJXzl1RThqbWc1bWxCVGtJcnJYc3cyVzk1QWc2OXBRdUFpUHZUWU5pT1dGX2ZGY2QyaF90WHdWUm83XzBuUENQemxGYmowaDNzWkp4em1vLTNCMGRJdlNjdWVPQXc?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-22T17:59:12+00:00",
+    "summary": "FDA Approves Datroway | PharmExec Pharmaceutical Executive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
       "lifesciences"
     ],
     "relevance_score": 5
@@ -523,6 +518,22 @@
     "relevance_score": 5
   },
   {
+    "id": "29ef46c635ac",
+    "title": "REGENXBIO, Novartis, Dyne near FDA submissions in muscular dystrophies - BioSpace",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOamphSGV1MWJvOE5JWU1SNG5FWjNMbVFMNWhmZnhoOUJabTMzeXZPOW1Bc0JmWnp0VTd4ZGx3OEUxSUs2eGtFUUxzZGNDLWVMN3ZqTGhnc042YjN1MXlXR2hKb3RUX0hpa0ZzMFhZTnJzVzlYTTJmX0xjVXRheDNQZW05TFRUOUJ2WnVDSERxOWZsUGJEbmw1UFktNDdIUTB3UzFHZ2lzOGwyaW1NVk40?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-26T04:08:44+00:00",
+    "summary": "REGENXBIO, Novartis, Dyne near FDA submissions in muscular dystrophies BioSpace",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
     "id": "8a2061bb87e9",
     "title": "AI leaders are reshaping the health system C-suite - Modern Healthcare News",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOb2xya3VBR01mTlo0YUF1X2lYeUxfaDhQRkNKa1U0WDNVeXFSQTcySC1OLUdZWUlHYlZhVEpIVlRwMDdNeUFWUFlwTTktNVRrZkx6c1lvZjF5V1JlWktqbDVKVlUtaVNMdlBNb1l0U0c3TldmdXY0WEkxbHllQTVJS2hjWDBFQQ?oc=5",
@@ -530,6 +541,22 @@
     "source_category": "industry_lifesciences",
     "published": "2026-05-26T10:00:00+00:00",
     "summary": "AI leaders are reshaping the health system C-suite Modern Healthcare News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "2d32489d8dbe",
+    "title": "FDA Approves Hepcludex | PharmExec - Pharmaceutical Executive",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtOENsdGl2WWVMWVAydXNOUW1lcGpjTTJiRWo0U2xzUGZpRm9TTUNwd254QzBKZkxFMlBFbjlneWdPSnN1YTlxWnBYNFZjcVgxVEFqaW1ESVdKQkw4QzEwb2o3T0lFM3c4NG5F?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-26T19:28:19+00:00",
+    "summary": "FDA Approves Hepcludex | PharmExec Pharmaceutical Executive",
     "image_url": null,
     "tags": [],
     "industries": [
