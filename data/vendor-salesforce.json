@@ -30,7 +30,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 37
+    "relevance_score": 34
   },
   {
     "id": "bd85db621ac0",
@@ -48,19 +48,6 @@
     "relevance_score": 13
   },
   {
-    "id": "b227cc4e720f",
-    "title": "How Cross-Functional Experience Makes a Better Account Executive",
-    "url": "https://www.salesforce.com/blog/an-ae-journey-in-anz/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-30T01:37:47+00:00",
-    "summary": "What makes a great Account Executive? Perspective. Before stepping into her AE role, Katherine Nguyen worked across business development and Customer Success — each stop deepening her understanding of what customers actually need. The career pivot she didn't plan turned out...",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/SMB-AE-Team-1.jpg?w=4032",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 13
-  },
-  {
     "id": "c52659973096",
     "title": "Salesforce raises full-year revenue guidance as ‘Agentforce’ ARR hits $1.2 billion - Blockspace Media",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbjRRd3Z3dldiN0VzQ1VMSnlySlBYMk1ZWmlxT3lvRU5ubUFJUTNyZzUybnVOeDNkX29NakJxVjVmd3ZlbVNVX1JuQjQ5Z1gwRWNOUEJ4SklWQ09MYzlSaHpuWmtDVmhFbTEzLVJPcEVOdjlMblp2cURfVUx3TFpGTng2dDNpUmZscjdYaw?oc=5",
@@ -74,6 +61,19 @@
       "media",
       "industrial"
     ],
+    "relevance_score": 12
+  },
+  {
+    "id": "b227cc4e720f",
+    "title": "How Cross-Functional Experience Makes a Better Account Executive",
+    "url": "https://www.salesforce.com/blog/an-ae-journey-in-anz/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-30T01:37:47+00:00",
+    "summary": "What makes a great Account Executive? Perspective. Before stepping into her AE role, Katherine Nguyen worked across business development and Customer Success — each stop deepening her understanding of what customers actually need. The career pivot she didn't plan turned out...",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/SMB-AE-Team-1.jpg?w=4032",
+    "tags": [],
+    "industries": [],
     "relevance_score": 12
   },
   {
@@ -133,7 +133,12 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 10
+    "relevance_score": 10,
+    "also_covered_by": [
+      "Fierce Healthcare",
+      "Health Tech",
+      "Telecom 5G"
+    ]
   },
   {
     "id": "596ceb017377",
@@ -177,19 +182,6 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 10
-  },
-  {
-    "id": "fc1484899134",
-    "title": "“In Sales, We Still Scale” Salesforce Draws the Line on AI Replacing Sellers - CX Today",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RNlIxaFBwanFtNFlTcDdONzhVM1pyWnl5T25kY1FiVXRvcW94NmY5WGRid1BQMVVXNm9EMkNjRlYwa05ZV3lNSEtzX3JEWUhBY0JnM1Q0MGt5bFRwNTVPN0xxVGpfQ1NCellKcDVsVQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-05-29T08:48:24+00:00",
-    "summary": "“In Sales, We Still Scale” Salesforce Draws the Line on AI Replacing Sellers CX Today",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
     "relevance_score": 10
   },
   {
