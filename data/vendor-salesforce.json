@@ -12,9 +12,11 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 41,
+    "relevance_score": 38,
     "also_covered_by": [
-      "Health Tech"
+      "Adobe Inc",
+      "Adobe Products",
+      "Telecom"
     ]
   },
   {
@@ -33,19 +35,20 @@
     "relevance_score": 34
   },
   {
-    "id": "bd85db621ac0",
-    "title": "Design Headless AI Experiences on Salesforce",
-    "url": "https://www.salesforce.com/blog/design-headless-ai-experiences/",
-    "source": "Salesforce Blog",
+    "id": "4412fe4ea1e6",
+    "title": "Salesforce credits agentic AI with driving revenue in Q1 2027 - Digital Commerce 360",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBDbzRVMWhaNVBsREVTdm9Mb0YzSEpMRkJBbVBvZkNoY25tSWk3WTM3UTU0dnRfUGRfd05SMDNDS2RFZWltMFhZZm1HREc3aW1JbENRTjl2Ym04QW5MV19QeHFDdGFXczZ5SUxjVkh3MNIBdEFVX3lxTE5wMld3R2s0eEJjTWhzbERXUEdWYUNvNnZuUEMzX3pVaE9WczJSZ0p4NHA5eHp3S19SSEpMbHRpOG9QRk8tdkx6UHoyUWVnVk40YzkyVFhFZ1ZHakNIejhsa2FCaDlpRmFpTkdHU253REhDQzVC?oc=5",
+    "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-05-29T18:37:09+00:00",
-    "summary": "Learn a composition framework that helps you match the right AI experience to the right user, without leaving your platform's governance umbrella.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Untitled-design-11.png",
+    "published": "2026-05-30T09:21:04+00:00",
+    "summary": "Salesforce credits agentic AI with driving revenue in Q1 2027 Digital Commerce 360",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "tech"
+      "industrial",
+      "financial"
     ],
-    "relevance_score": 13
+    "relevance_score": 17
   },
   {
     "id": "c52659973096",
@@ -60,6 +63,21 @@
     "industries": [
       "media",
       "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "bd85db621ac0",
+    "title": "Design Headless AI Experiences on Salesforce",
+    "url": "https://www.salesforce.com/blog/design-headless-ai-experiences/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-29T18:37:09+00:00",
+    "summary": "Learn a composition framework that helps you match the right AI experience to the right user, without leaving your platform's governance umbrella.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Untitled-design-11.png",
+    "tags": [],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 12
   },
@@ -108,39 +126,6 @@
     "relevance_score": 11
   },
   {
-    "id": "bb520f9a2937",
-    "title": "Connections for Small Business: Hands-on Learning for Marketers",
-    "url": "https://www.salesforce.com/blog/small-business/connections-for-growing-businesses/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-29T13:00:00+00:00",
-    "summary": "Learn how Salesforce Connections sessions will help build AI strategies and skills for every marketer.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/image_edb284.jpeg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 11
-  },
-  {
-    "id": "f0f7b381492f",
-    "title": "Inside PenFed’s Salesforce Agentforce Deployment: $1.6M Saved And Faster Calls - CX Today",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUGNNaUY4RWNRTlIwNGE2UGVhUDZEczB0OWtyQ2JjSTVGTFFxc2ZpZGxiS0FpeEc1bzluUHowVUNUbHhiY3libUgzb0tkLVFhYzlZak1xUjd6cDgwcVJJZzFSaUh6RDZ1eTNhR1QxdHoxOG00VzZfNTNlbU9Kcm9kVGVqQWxoaVNpT2Y1aFBCMHVXZTZ4a0tBNzI5c2lCNW9sYzBDNy1VZTFlM0Rya3lvYnpIdGJWZw?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-05-28T11:26:32+00:00",
-    "summary": "Inside PenFed’s Salesforce Agentforce Deployment: $1.6M Saved And Faster Calls CX Today",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 10,
-    "also_covered_by": [
-      "Fierce Healthcare",
-      "Health Tech",
-      "Telecom 5G"
-    ]
-  },
-  {
     "id": "596ceb017377",
     "title": "Build a Semantic Layer Your AI Agents Can Reason Over",
     "url": "https://www.salesforce.com/blog/semantic-layer-ai-agents-data-360/",
@@ -185,6 +170,19 @@
     "relevance_score": 10
   },
   {
+    "id": "bb520f9a2937",
+    "title": "Connections for Small Business: Hands-on Learning for Marketers",
+    "url": "https://www.salesforce.com/blog/small-business/connections-for-growing-businesses/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-29T13:00:00+00:00",
+    "summary": "Learn how Salesforce Connections sessions will help build AI strategies and skills for every marketer.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/image_edb284.jpeg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 10
+  },
+  {
     "id": "d06aaf281274",
     "title": "Salesforce First-Quarter Sales, Profit Rise Amid Agentforce Efforts - WSJ",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeks0UVVsN1ljWTV0Sm5tcGFzTG9GTElzeUFtNnhCSlVVc1o1QTViVlJ1YWtRQ3dVd0FOUWRjTmdleUtBWm9HR0d1bi1jdHdmZ0VMM25kNGxwMzBvT0V4dWJCSGVNd3FpcS02RnZHOUtzRERPNDhTek5talhBSGZhRHYxZTB6ZFN1RDF5V2NTZVBsVHh0ZzBESDBOcjJHNVlEUkphVnY5NEtGOHNBUDE2ZHpyQQ?oc=5",
@@ -200,13 +198,13 @@
     "relevance_score": 9
   },
   {
-    "id": "ee9be6b2e992",
-    "title": "AI agents join CVS call centers for 185M people, 1.5M providers - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSS1XVm9CVk9EN1VCLVlMczUxb3NlbHNRSDU0MDhQZWo1dWduRkZhRnpJakhYX0EzM3lqUXprMXJCMG9VczBWM3l2TGoySUtWWXdpSk5IMmZBal9WRDI4cjhyZXU2NnpIc29lMkFKUWtWUFpmRm5wS3Q3RFdKQmN6WDFtNXIzLUNXamFGaVZBSmNXOXV2U3ByckYtYTRPbmZQNnpRSTkwT0hFX2NETl9paXRCZVE1R2ptekNQUGVB?oc=5",
+    "id": "f0f7b381492f",
+    "title": "Inside PenFed’s Salesforce Agentforce Deployment: $1.6M Saved And Faster Calls - CX Today",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQUGNNaUY4RWNRTlIwNGE2UGVhUDZEczB0OWtyQ2JjSTVGTFFxc2ZpZGxiS0FpeEc1bzluUHowVUNUbHhiY3libUgzb0tkLVFhYzlZak1xUjd6cDgwcVJJZzFSaUh6RDZ1eTNhR1QxdHoxOG00VzZfNTNlbU9Kcm9kVGVqQWxoaVNpT2Y1aFBCMHVXZTZ4a0tBNzI5c2lCNW9sYzBDNy1VZTFlM0Rya3lvYnpIdGJWZw?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-05-28T11:30:00+00:00",
-    "summary": "AI agents join CVS call centers for 185M people, 1.5M providers Stock Titan",
+    "published": "2026-05-28T11:26:32+00:00",
+    "summary": "Inside PenFed’s Salesforce Agentforce Deployment: $1.6M Saved And Faster Calls CX Today",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -257,6 +255,34 @@
     "industries": [
       "industrial"
     ],
+    "relevance_score": 8
+  },
+  {
+    "id": "ee9be6b2e992",
+    "title": "AI agents join CVS call centers for 185M people, 1.5M providers - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQSS1XVm9CVk9EN1VCLVlMczUxb3NlbHNRSDU0MDhQZWo1dWduRkZhRnpJakhYX0EzM3lqUXprMXJCMG9VczBWM3l2TGoySUtWWXdpSk5IMmZBal9WRDI4cjhyZXU2NnpIc29lMkFKUWtWUFpmRm5wS3Q3RFdKQmN6WDFtNXIzLUNXamFGaVZBSmNXOXV2U3ByckYtYTRPbmZQNnpRSTkwT0hFX2NETl9paXRCZVE1R2ptekNQUGVB?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-05-28T11:30:00+00:00",
+    "summary": "AI agents join CVS call centers for 185M people, 1.5M providers Stock Titan",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "fc1484899134",
+    "title": "“In Sales, We Still Scale” Salesforce Draws the Line on AI Replacing Sellers - CX Today",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5RNlIxaFBwanFtNFlTcDdONzhVM1pyWnl5T25kY1FiVXRvcW94NmY5WGRid1BQMVVXNm9EMkNjRlYwa05ZV3lNSEtzX3JEWUhBY0JnM1Q0MGt5bFRwNTVPN0xxVGpfQ1NCellKcDVsVQ?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-05-29T08:48:24+00:00",
+    "summary": "“In Sales, We Still Scale” Salesforce Draws the Line on AI Replacing Sellers CX Today",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
     "relevance_score": 8
   },
   {
