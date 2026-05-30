@@ -12,7 +12,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 42
+    "relevance_score": 39
   },
   {
     "id": "29fa524b0268",
@@ -30,8 +30,8 @@
     "relevance_score": 38,
     "also_covered_by": [
       "Adobe Inc",
-      "Adobe Products",
-      "Agentic Marketing"
+      "Telecom",
+      "Health Tech"
     ]
   },
   {
@@ -48,34 +48,6 @@
       "industrial"
     ],
     "relevance_score": 30
-  },
-  {
-    "id": "bd85db621ac0",
-    "title": "Design Headless AI Experiences on Salesforce",
-    "url": "https://www.salesforce.com/blog/design-headless-ai-experiences/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-29T18:37:09+00:00",
-    "summary": "Learn a composition framework that helps you match the right AI experience to the right user, without leaving your platform's governance umbrella.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Untitled-design-11.png",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "b227cc4e720f",
-    "title": "How Cross-Functional Experience Makes a Better Account Executive",
-    "url": "https://www.salesforce.com/blog/an-ae-journey-in-anz/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-30T01:37:47+00:00",
-    "summary": "What makes a great Account Executive? Perspective. Before stepping into her AE role, Katherine Nguyen worked across business development and Customer Success — each stop deepening her understanding of what customers actually need. The career pivot she didn't plan turned out...",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/SMB-AE-Team-1.jpg?w=4032",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 12
   },
   {
     "id": "0328a06167af",
@@ -125,17 +97,17 @@
     "relevance_score": 11
   },
   {
-    "id": "7a848d1cbed0",
-    "title": "How We Use Data Detect to Secure the Heart of Salesforce",
-    "url": "https://www.salesforce.com/blog/data-detect-customer-zero/",
+    "id": "b227cc4e720f",
+    "title": "How Cross-Functional Experience Makes a Better Account Executive",
+    "url": "https://www.salesforce.com/blog/an-ae-journey-in-anz/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-05-28T19:39:41+00:00",
-    "summary": "Using our \"Customer Zero\" philosophy, we were able to automate data security and find hidden PII at a massive scale.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Salesforce-on-Salesforce-Blog-Image-Data-Detect.png?w=3000",
+    "published": "2026-05-30T01:37:47+00:00",
+    "summary": "What makes a great Account Executive? Perspective. Before stepping into her AE role, Katherine Nguyen worked across business development and Customer Success — each stop deepening her understanding of what customers actually need. The career pivot she didn't plan turned out...",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/SMB-AE-Team-1.jpg?w=4032",
     "tags": [],
     "industries": [],
-    "relevance_score": 10
+    "relevance_score": 11
   },
   {
     "id": "270cdf4f5648",
@@ -164,6 +136,21 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/image_edb284.jpeg",
     "tags": [],
     "industries": [],
+    "relevance_score": 10
+  },
+  {
+    "id": "bd85db621ac0",
+    "title": "Design Headless AI Experiences on Salesforce",
+    "url": "https://www.salesforce.com/blog/design-headless-ai-experiences/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-29T18:37:09+00:00",
+    "summary": "Learn a composition framework that helps you match the right AI experience to the right user, without leaving your platform's governance umbrella.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Untitled-design-11.png",
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
     "relevance_score": 10
   },
   {
@@ -212,39 +199,22 @@
     "relevance_score": 9
   },
   {
-    "id": "bfaa71a61f6f",
-    "title": "Beyond the Vibe in Financial Services Series",
-    "url": "https://www.salesforce.com/blog/beyond-the-vibe-in-financial-services-series-part-1/",
+    "id": "7a848d1cbed0",
+    "title": "How We Use Data Detect to Secure the Heart of Salesforce",
+    "url": "https://www.salesforce.com/blog/data-detect-customer-zero/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-05-28T17:06:34+00:00",
-    "summary": "Part 1 of 3: The Vibe Coding Trap and the Regulatory Reality",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/AdobeStock_2031815392.jpeg",
+    "published": "2026-05-28T19:39:41+00:00",
+    "summary": "Using our \"Customer Zero\" philosophy, we were able to automate data security and find hidden PII at a massive scale.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Salesforce-on-Salesforce-Blog-Image-Data-Detect.png?w=3000",
     "tags": [],
-    "industries": [
-      "financial"
-    ],
+    "industries": [],
     "relevance_score": 9
   },
   {
-    "id": "bee2fcddf630",
-    "title": "Can Language Models Remember What They Learn?",
-    "url": "https://www.salesforce.com/blog/procedural-memory-distillation/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-05-28T17:21:17+00:00",
-    "summary": "Post-training methods (RLVR, On-policy distillation) are Episode-local Language models are getting better at learning from feedback during post-training. In reinforcement learning with verifiable rewards (RLVR), a model tries a problem, a verifier checks…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Can-Language-Models-Remember-What-They-Learn2.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "ee4d691e5cce",
+    "id": "5016287a3586",
     "title": "How PenFed credits its Salesforce Agentforce partnership with helping it thrive and survive in a turbulent market - diginomica",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNZlRlOGJhb1FacVJlRUprYXdvbWFwZ2Nic3RYOGZEbHdwUFphRHlrY0kwTlhDdzU0b3UzX2U1b0hQRFVsTElGT2QtWWR3N0ptX3o0cWRWMkNxZ05lY1dUT056UlJnZ1g1NWFnQzA5OUpRZk1fai1nN2RrbkEzNWduZzdFVUhXR042Y19EZFU2aUhZSXJOUUNkNEtRb1ZVNUhyTFhueEpkWGo3dENxQ1AyWWxmdlU0QUdpQzhXU2xmOWw?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNRUN2VWhWZDR4X3dma25aSUU4bmFaenF5WTdFUXFsdXN0a1JWdC0zT1VGWGZGR01rck4tSzIzT090S2F0NS1qcEV0aHNjMzVScUtLS0RTbmhCYnlYNWxlbjRmWEdmM1cxOVhZSk1nSkJmb3ZBb3k1OHI5REw3NU1yTmhwWWJqeUxza2RKVlVuOGJWb0luUGVQeHNFY3EyckE5SVJLWnJqUjRPQWJCQlJGdXJkMEkyeHRuNjhR?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
     "published": "2026-05-29T08:00:01+00:00",
@@ -266,6 +236,36 @@
     "published": "2026-05-28T11:30:00+00:00",
     "summary": "AI agents join CVS call centers for 185M people, 1.5M providers Stock Titan",
     "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "bfaa71a61f6f",
+    "title": "Beyond the Vibe in Financial Services Series",
+    "url": "https://www.salesforce.com/blog/beyond-the-vibe-in-financial-services-series-part-1/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-28T17:06:34+00:00",
+    "summary": "Part 1 of 3: The Vibe Coding Trap and the Regulatory Reality",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/AdobeStock_2031815392.jpeg",
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "bee2fcddf630",
+    "title": "Can Language Models Remember What They Learn?",
+    "url": "https://www.salesforce.com/blog/procedural-memory-distillation/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-05-28T17:21:17+00:00",
+    "summary": "Post-training methods (RLVR, On-policy distillation) are Episode-local Language models are getting better at learning from feedback during post-training. In reinforcement learning with verifiable rewards (RLVR), a model tries a problem, a verifier checks…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Can-Language-Models-Remember-What-They-Learn2.png",
     "tags": [],
     "industries": [
       "industrial"
