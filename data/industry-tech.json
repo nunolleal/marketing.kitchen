@@ -13,7 +13,7 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 69
+    "relevance_score": 66
   },
   {
     "id": "a0f45e0df506",
@@ -31,7 +31,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 61
+    "relevance_score": 58
   },
   {
     "id": "de41b5b6188b",
@@ -45,57 +45,6 @@
     "tags": [
       "Marketing management",
       "Sponsored Content"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 59
-  },
-  {
-    "id": "d21e9301c5cc",
-    "title": "Industry Insider: 5 Martech Trends to Watch This Summer",
-    "url": "https://www.salesforce.com/blog/martech-trends/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-01T19:02:19+00:00",
-    "summary": "Shifts in data strategy, AI adoption and platform consolidation are reshaping how brands act on customer data in the moment. Here's what you can do about it.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/AdobeStock_1205788921.jpg",
-    "tags": [],
-    "industries": [
-      "tech",
-      "consumer"
-    ],
-    "relevance_score": 57
-  },
-  {
-    "id": "3d6febe591ec",
-    "title": "Qualified, from Salesforce: Interview With CMO Maura Rivera About The Agentic Marketing And Conversational Platform - Pulse 2.0",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1SUTNUcWxHN0pyMi04aVVTOFRWdXdlOW9sTTJUNFhham5YMF9VWXM3a1FBRjZpSlI4QkljUm11RkFTXzJ6T1lpaWd1aFY1NXZzZ2pkUzZ6aGtaUXp3RXVlbTN0dTQ4OFlvYkk1TUtIZmV6VDgwQmFYTUpPRdIBgAFBVV95cUxQM1BrWXFVRzZISWZRWjh5ajQwTlFxMTBrZUEzM0o0X0hVV0dTZHl5UGVmcUNFaElnM2RhdzkyLV8yc3ZnaV92SXlTMjZvMkY1b3huVnVhUmZfeHhZaWd0TXdnVHA5Zk1vT05ZdXpVNjc0eVJUeHJSODQ5VnpaOXNtWA?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-05-29T16:31:47+00:00",
-    "summary": "Qualified, from Salesforce: Interview With CMO Maura Rivera About The Agentic Marketing And Conversational Platform Pulse 2.0",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 56
-  },
-  {
-    "id": "ffef1399575c",
-    "title": "Why marketing measurement needs triangulation",
-    "url": "https://martech.org/why-marketing-measurement-needs-triangulation/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-06-01T12:58:00+00:00",
-    "summary": "Effective measurement depends on connecting signals across MMM, attribution, and incrementality instead of forcing a single source of truth. The post Why marketing measurement needs triangulation appeared first on MarTech .",
-    "image_url": "https://martech.org/searchengineland.com/wp-content/seloads/2025/11/semrush-one.webp",
-    "tags": [
-      "Marketing analytics",
-      "Marketing attribution",
-      "Marketing management"
     ],
     "industries": [
       "tech"
@@ -149,6 +98,41 @@
     "relevance_score": 54
   },
   {
+    "id": "d21e9301c5cc",
+    "title": "Industry Insider: 5 Martech Trends to Watch This Summer",
+    "url": "https://www.salesforce.com/blog/martech-trends/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-01T19:02:19+00:00",
+    "summary": "Shifts in data strategy, AI adoption and platform consolidation are reshaping how brands act on customer data in the moment. Here's what you can do about it.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/AdobeStock_1205788921.jpg",
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 54
+  },
+  {
+    "id": "ffef1399575c",
+    "title": "Why marketing measurement needs triangulation",
+    "url": "https://martech.org/why-marketing-measurement-needs-triangulation/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-06-01T12:58:00+00:00",
+    "summary": "Effective measurement depends on connecting signals across MMM, attribution, and incrementality instead of forcing a single source of truth. The post Why marketing measurement needs triangulation appeared first on MarTech .",
+    "image_url": "https://martech.org/searchengineland.com/wp-content/seloads/2025/11/semrush-one.webp",
+    "tags": [
+      "Marketing analytics",
+      "Marketing attribution",
+      "Marketing management"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 53
+  },
+  {
     "id": "221ac8e97731",
     "title": "How to balance data control and real-time personalization",
     "url": "https://martech.org/how-to-balance-data-control-and-real-time-personalization/",
@@ -164,7 +148,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 54
+    "relevance_score": 51
   },
   {
     "id": "86fe54408df3",
@@ -184,7 +168,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 52
+    "relevance_score": 49
   },
   {
     "id": "c988336cfd82",
@@ -206,41 +190,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 47
-  },
-  {
-    "id": "57c3f420fff9",
-    "title": "Consumers like AI content until they know it’s AI",
-    "url": "https://martech.org/consumers-like-ai-content-until-they-know-its-ai/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-06-01T13:22:04+00:00",
-    "summary": "Consumers often prefer AI-generated content when it is unlabeled, but trust drops sharply once they learn AI created it. The post Consumers like AI content until they know it’s AI appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/05/image-97.png",
-    "tags": [
-      "Marketing technology"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 46
-  },
-  {
-    "id": "9fc0e4a3109b",
-    "title": "Pink hires chief merchandising officer",
-    "url": "https://www.retaildive.com/news/pink-hires-chief-merchandising-officer/821580/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-01T16:03:00+00:00",
-    "summary": "Victoria’s Secret & Co. tapped a longtime Anthropologie executive for the new role, which comes as CEO Hillary Super has recommitted to the subbrand.",
-    "image_url": "https://imgproxy.divecdn.com/PzSfyuUxeO3ttViWeqVzuGsF2fkds3jvfzxcWvoCPB0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81MDBfQnJvYWR3YXlfUElOS19TdHJlZXRfdmlldy5qcGc=.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "consumer"
-    ],
-    "relevance_score": 45
+    "relevance_score": 44
   },
   {
     "id": "7881b318fa41",
@@ -262,6 +212,57 @@
       "industrial"
     ],
     "relevance_score": 43
+  },
+  {
+    "id": "57c3f420fff9",
+    "title": "Consumers like AI content until they know it’s AI",
+    "url": "https://martech.org/consumers-like-ai-content-until-they-know-its-ai/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-06-01T13:22:04+00:00",
+    "summary": "Consumers often prefer AI-generated content when it is unlabeled, but trust drops sharply once they learn AI created it. The post Consumers like AI content until they know it’s AI appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/05/image-97.png",
+    "tags": [
+      "Marketing technology"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 43
+  },
+  {
+    "id": "f88bb44eeda8",
+    "title": "Agentic AI is changing how brands show up, but marketers can’t lose focus on what happens next - Marketing Week",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE8tMjE0V29lV3hQUFhhUjd5Mkdadnlub2w3bkFuU01OM19OTnFuQlFCbkZXMU1Ha2JSd1d1azZwa2pnZm9SdXdCc0IzTHMxS253ME5FRDVGdDZmNG1HbFZaYjRqNDI2UzFsUzh1QzJkZkhBT0taVFAxNUN0cw?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-06-02T05:15:13+00:00",
+    "summary": "Agentic AI is changing how brands show up, but marketers can’t lose focus on what happens next Marketing Week",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 43
+  },
+  {
+    "id": "9fc0e4a3109b",
+    "title": "Pink hires chief merchandising officer",
+    "url": "https://www.retaildive.com/news/pink-hires-chief-merchandising-officer/821580/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-06-01T16:03:00+00:00",
+    "summary": "Victoria’s Secret & Co. tapped a longtime Anthropologie executive for the new role, which comes as CEO Hillary Super has recommitted to the subbrand.",
+    "image_url": "https://imgproxy.divecdn.com/PzSfyuUxeO3ttViWeqVzuGsF2fkds3jvfzxcWvoCPB0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81MDBfQnJvYWR3YXlfUElOS19TdHJlZXRfdmlldy5qcGc=.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 42
   },
   {
     "id": "1221198ccd0a",
@@ -306,25 +307,6 @@
     "relevance_score": 39
   },
   {
-    "id": "aed8a747685a",
-    "title": "As feeds become entertainment hubs, marketers rethink social’s role",
-    "url": "https://digiday.com/marketing/as-feeds-become-entertainment-hubs-marketers-rethink-socials-role/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-06-01T04:01:00+00:00",
-    "summary": "As social platforms become entertainment hubs, brands are acting more like media companies to capture attention and drive sales.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2024/09/coins-reactions-digiday.jpg",
-    "tags": [
-      "Marketing"
-    ],
-    "industries": [
-      "media",
-      "tech",
-      "consumer"
-    ],
-    "relevance_score": 39
-  },
-  {
     "id": "5400b3ec959a",
     "title": "Une Femme pairs wine with literature for co-branded social promotion",
     "url": "https://www.marketingdive.com/news/une-femme-pairs-wine-with-literature-for-co-branded-social-promotion/821338/",
@@ -342,6 +324,25 @@
     "relevance_score": 38
   },
   {
+    "id": "aed8a747685a",
+    "title": "As feeds become entertainment hubs, marketers rethink social’s role",
+    "url": "https://digiday.com/marketing/as-feeds-become-entertainment-hubs-marketers-rethink-socials-role/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-06-01T04:01:00+00:00",
+    "summary": "As social platforms become entertainment hubs, brands are acting more like media companies to capture attention and drive sales.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2024/09/coins-reactions-digiday.jpg",
+    "tags": [
+      "Marketing"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 35
+  },
+  {
     "id": "b6e0b4cb3013",
     "title": "Kinaxis Appoints Kristin Russel as Chief Marketing Officer - Via TT",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQd0VyN0d5ejNBdVFUTHhpWFE3LXVrVkJJOE5hNUZ1em9iTjNyN01IQ1F3R3NkNGFwRlJLa3JzSzZWYkg2WVBJOG1EellFdkx2M2FWR2lBZHhPMWw0RXN1MUlMN1NCa0tTUE04WE9HVHA2WFR5Y0xCaGpzMmc5dlpRNnQxRzdnamhIQlNRb0prVkJtemVtS2c0ZGl2ZUt5OVdDRU9JTUFGaldweXRpOThsRTFZZUZnTVFVS2tjbUxUcTllRGFWWnc?oc=5",
@@ -354,7 +355,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 36
+    "relevance_score": 33
   },
   {
     "id": "dd35ea7935f6",
@@ -372,31 +373,6 @@
       "industrial"
     ],
     "relevance_score": 20
-  },
-  {
-    "id": "e51e856596ed",
-    "title": "Anthropic Files for IPO as AI Race Hits Public Markets",
-    "url": "https://www.adweek.com/media/anthropic-files-for-ipo-as-ai-race-hits-public-markets/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-06-01T13:06:23+00:00",
-    "summary": "Testing investor appetite after a $965 billion valuation surge, the Claude maker moves to take its AI ambitions from private-market frenzy to a public listing",
-    "image_url": null,
-    "tags": [
-      "Ad Tech Industry News",
-      "Advertising News",
-      "Artificial Intelligence",
-      "Exclusive",
-      "General"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 17,
-    "also_covered_by": [
-      "Wall Street"
-    ]
   },
   {
     "id": "9645576184ba",
@@ -420,6 +396,64 @@
     "relevance_score": 17
   },
   {
+    "id": "d982901e9ce4",
+    "title": "How publishers are modeling – and mitigating – a future with significantly less Google search traffic",
+    "url": "https://digiday.com/media/how-publishers-are-modeling-and-mitigating-a-future-with-significantly-less-google-search-traffic/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-06-02T04:01:00+00:00",
+    "summary": "Publishers are modeling the business impact of a zero-click future and developing growth strategies for the Google AI search era.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/04/traffic-woes-digiday.jpg",
+    "tags": [
+      "Media"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "6420b4506d9a",
+    "title": "Monday.com’s Branding Strategy That Stood Out in a Crowded SaaS Market - KTPL Blog",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbm5GMEcwa21heEdIOE1zQWlSN0g1TEJmbVJFeEVVYUtkOXpNX1JscVRSNFhab3lRN2ctYnh0aGxuR3FtMmg2b2NNVnNuSUtwV2IyZkZmek1PSkROUjlqUVdHSG5wN2RhQWRKTUcxVFBVWGNvSWlvdEp2cDZVdGRsckZGd09FUHdnNnAtd2J3aUlTNjUxV3R2MmFfd05ibUJubU0xZ2Y0bmd2XzA?oc=5",
+    "source": "Tech Marketing",
+    "source_category": "industry_tech",
+    "published": "2026-05-29T07:30:00+00:00",
+    "summary": "Monday.com’s Branding Strategy That Stood Out in a Crowded SaaS Market KTPL Blog",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "e51e856596ed",
+    "title": "Anthropic Files for IPO as AI Race Hits Public Markets",
+    "url": "https://www.adweek.com/media/anthropic-files-for-ipo-as-ai-race-hits-public-markets/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-06-01T13:06:23+00:00",
+    "summary": "Testing investor appetite after a $965 billion valuation surge, the Claude maker moves to take its AI ambitions from private-market frenzy to a public listing",
+    "image_url": null,
+    "tags": [
+      "Ad Tech Industry News",
+      "Advertising News",
+      "Artificial Intelligence",
+      "Exclusive",
+      "General"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 16,
+    "also_covered_by": [
+      "Wall Street"
+    ]
+  },
+  {
     "id": "fb5ac4233034",
     "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
     "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
@@ -439,7 +473,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "9c753e24f6c7",
@@ -462,7 +496,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "df2346786028",
@@ -484,21 +518,24 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
-    "id": "6420b4506d9a",
-    "title": "Monday.com’s Branding Strategy That Stood Out in a Crowded SaaS Market - KTPL Blog",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbm5GMEcwa21heEdIOE1zQWlSN0g1TEJmbVJFeEVVYUtkOXpNX1JscVRSNFhab3lRN2ctYnh0aGxuR3FtMmg2b2NNVnNuSUtwV2IyZkZmek1PSkROUjlqUVdHSG5wN2RhQWRKTUcxVFBVWGNvSWlvdEp2cDZVdGRsckZGd09FUHdnNnAtd2J3aUlTNjUxV3R2MmFfd05ibUJubU0xZ2Y0bmd2XzA?oc=5",
-    "source": "Tech Marketing",
-    "source_category": "industry_tech",
-    "published": "2026-05-29T07:30:00+00:00",
-    "summary": "Monday.com’s Branding Strategy That Stood Out in a Crowded SaaS Market KTPL Blog",
-    "image_url": null,
-    "tags": [],
+    "id": "83e0908d12f3",
+    "title": "Why retailers like Target and Aerie are moving beyond straight affiliate deals with creators",
+    "url": "https://digiday.com/media/why-retailers-like-target-and-aerie-are-moving-beyond-straight-affiliate-deals-with-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-06-02T04:01:00+00:00",
+    "summary": "Creator programs are changing as retailers like Target and Aerie realize they require a multifaceted approach that doesn't just rely on affiliate links.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2024/03/retail-competition-digiday.png",
+    "tags": [
+      "Media"
+    ],
     "industries": [
       "tech",
-      "consumer"
+      "retail",
+      "industrial"
     ],
     "relevance_score": 16
   },
@@ -519,7 +556,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "24835f1eb7df",
@@ -541,7 +578,7 @@
       "media",
       "tech"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "dbbbe72341ae",
@@ -558,95 +595,6 @@
       "Lifestyle",
       "/lifestyle",
       "Arts"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "3ea1442fc491",
-    "title": "Salesforce Returns to Growth Focus as Agentforce Propels Q1 - Cloud Wars",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3pEbk5sdE9KclIxSnQ1TGlyaXBzSTEwUHh3d0V5UXBaVm5sZkQ3MWtlQTlEMmVTUGhGYnRPb2ZZVllhMG1PQTluYXlNbVhoNUZuaG04cWNtTE05VXdWcnZVcUxRSnlySUQwVDBlSXlVM2tER2JvOFpQY0xZb0V1aXlQTnljemZSb2JhMloyWDAtZm5GbXZkSzgzZFRma1hlQUE?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-01T11:30:00+00:00",
-    "summary": "Salesforce Returns to Growth Focus as Agentforce Propels Q1 Cloud Wars",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "6f49889ef39e",
-    "title": "Walmart Connect expands offsite advertising ambitions with Yahoo, Magnite",
-    "url": "https://www.marketingdive.com/news/walmart-connect-expands-offsite-advertising-ambitions-with-yahoo-magnite/821575/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-06-01T15:13:00+00:00",
-    "summary": "The move, which will eventually include additional partners, allows advertisers using Yahoo’s demand-side platform to access Vizio inventory through Magnite.",
-    "image_url": "https://imgproxy.divecdn.com/dpiVgKtlIMKJFC4tCdas8ADiOeoCJE5WEtYsN5tMbSw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU5Nzg0MzIwLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "bc2d9d2cbbd7",
-    "title": "Anthropic’s browser agent got hijacked 31.5% of the time before safeguards engaged",
-    "url": "https://venturebeat.com/security/anthropic-browser-agent-hijacked-31-percent-before-safeguards-engaged",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-06-01T15:50:32+00:00",
-    "summary": "Across the frontier labs, the highest prompt injection figures published this spring are Anthropic’s. Point a red-teamer at its newest model in a browser, and the attacker hijacked it 31.5% of the time before safeguards engaged. OpenAI, Google, and Meta never gave security...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4HRY3GcnERUOX9hYWvCPIE/9f0831912aa5741f124b39d1c6ebb4a9/HERO.png?w=300&q=30",
-    "tags": [
-      "Security"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "11226d25cc74",
-    "title": "MiniMax-M3 debuts, eclipsing GPT-5.5 and Gemini 3.1 Pro on key benchmark performance for just 5-10% of the cost",
-    "url": "https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-06-01T16:10:05+00:00",
-    "summary": "Big news in enterprise AI broke over the weekend as Chinese AI startup MiniMax released its highly anticipated M3 large language model on Sunday evening Eastern time, pairing frontier-tier coding and agentic performance with a 1-million-token context window and native...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2xknlPWQng1dFd9Hs24w6L/f35f7459068592467a35e04819c87a59/ChatGPT_Image_Jun_1__2026__11_28_15_AM.png?w=300&q=30",
-    "tags": [
-      "Technology"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "829675104e5c",
-    "title": "Nvidia Has Best Trading Day In Months After Revealing New Microsoft Chip",
-    "url": "https://www.forbes.com/sites/siladityaray/2026/06/01/nvidia-has-best-trading-day-in-months-after-revealing-new-microsoft-chip/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-01T21:08:50+00:00",
-    "summary": "The new line of Windows laptops and desktops will be the first ever to run solely on an Nvidia-made chip, the RTX Spark, as the AI giant looks to take on rivals Intel and AMD.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a1d1f3520d7206856271a57/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
     ],
     "industries": [
       "tech"
@@ -694,42 +642,51 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 14,
-    "also_covered_by": [
-      "Telecom 5G"
-    ]
+    "relevance_score": 14
   },
   {
-    "id": "8851edba93d2",
-    "title": "Noom launches at-home biomarker test kit for metabolic health monitoring",
-    "url": "https://www.fiercehealthcare.com/health-tech/noom-launches-home-biomarker-test-kit-metabolic-health-monitoring",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-01T07:40:00+00:00",
-    "summary": "Weight loss company Noom is offering an at-home biomarker testing kit for its U.S. members, expanding its platform into diagnostics and metabolic health monitoring.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/talent-with-tasso-device-resized-to-medium.jpeg?VersionId=D3SsA7doGEiR8rMaxnfHaQKQ6qZSC4Wp",
+    "id": "3ea1442fc491",
+    "title": "Salesforce Returns to Growth Focus as Agentforce Propels Q1 - Cloud Wars",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3pEbk5sdE9KclIxSnQ1TGlyaXBzSTEwUHh3d0V5UXBaVm5sZkQ3MWtlQTlEMmVTUGhGYnRPb2ZZVllhMG1PQTluYXlNbVhoNUZuaG04cWNtTE05VXdWcnZVcUxRSnlySUQwVDBlSXlVM2tER2JvOFpQY0xZb0V1aXlQTnljemZSb2JhMloyWDAtZm5GbXZkSzgzZFRma1hlQUE?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-06-01T11:30:00+00:00",
+    "summary": "Salesforce Returns to Growth Focus as Agentforce Propels Q1 Cloud Wars",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "tech"
+      "tech",
+      "industrial"
     ],
-    "relevance_score": 14,
-    "also_covered_by": [
-      "Health Tech"
-    ]
+    "relevance_score": 14
   },
   {
-    "id": "e2d3b37c3e39",
-    "title": "This AI weather startup is out-forecasting government agencies",
-    "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-    "source": "TechCrunch AI",
+    "id": "6f49889ef39e",
+    "title": "Walmart Connect expands offsite advertising ambitions with Yahoo, Magnite",
+    "url": "https://www.marketingdive.com/news/walmart-connect-expands-offsite-advertising-ambitions-with-yahoo-magnite/821575/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-06-01T15:13:00+00:00",
+    "summary": "The move, which will eventually include additional partners, allows advertisers using Yahoo’s demand-side platform to access Vizio inventory through Magnite.",
+    "image_url": "https://imgproxy.divecdn.com/dpiVgKtlIMKJFC4tCdas8ADiOeoCJE5WEtYsN5tMbSw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjU5Nzg0MzIwLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "bc2d9d2cbbd7",
+    "title": "Anthropic’s browser agent got hijacked 31.5% of the time before safeguards engaged",
+    "url": "https://venturebeat.com/security/anthropic-browser-agent-hijacked-31-percent-before-safeguards-engaged",
+    "source": "VentureBeat",
     "source_category": "ai",
-    "published": "2026-06-01T16:00:00+00:00",
-    "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from...",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
+    "published": "2026-06-01T15:50:32+00:00",
+    "summary": "Across the frontier labs, the highest prompt injection figures published this spring are Anthropic’s. Point a red-teamer at its newest model in a browser, and the attacker hijacked it 31.5% of the time before safeguards engaged. OpenAI, Google, and Meta never gave security...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4HRY3GcnERUOX9hYWvCPIE/9f0831912aa5741f124b39d1c6ebb4a9/HERO.png?w=300&q=30",
     "tags": [
-      "AI",
-      "Exclusive",
-      "Windborne Systems"
+      "Security"
     ],
     "industries": [
       "tech",
@@ -738,25 +695,41 @@
     "relevance_score": 14
   },
   {
-    "id": "66d0f0e09493",
-    "title": "How Paul McCartney Promoted A New Album Without Relying On Traditional Media",
-    "url": "https://www.forbes.com/sites/andymeek/2026/06/01/how-paul-mccartney-promoted-a-new-album-without-relying-on-traditional-media/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-01T21:47:37+00:00",
-    "summary": "Paul McCartney’s promotional blitz for \"The Boys of Dungeon Lane\" underscores how creators, platforms, and direct audience access are reshaping the media landscape.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a1df9a50660af085d066f00/0x0.jpg",
+    "id": "11226d25cc74",
+    "title": "MiniMax-M3 debuts, eclipsing GPT-5.5 and Gemini 3.1 Pro on key benchmark performance for just 5-10% of the cost",
+    "url": "https://venturebeat.com/technology/minimax-m3-debuts-eclipsing-gpt-5-5-and-gemini-3-1-pro-on-key-benchmark-performance-for-just-5-10-of-the-cost",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-06-01T16:10:05+00:00",
+    "summary": "Big news in enterprise AI broke over the weekend as Chinese AI startup MiniMax released its highly anticipated M3 large language model on Sunday evening Eastern time, pairing frontier-tier coding and agentic performance with a 1-million-token context window and native...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2xknlPWQng1dFd9Hs24w6L/f35f7459068592467a35e04819c87a59/ChatGPT_Image_Jun_1__2026__11_28_15_AM.png?w=300&q=30",
     "tags": [
-      "Media",
-      "/media",
-      "Business",
-      "/business",
-      "Media"
+      "Technology"
     ],
     "industries": [
-      "media",
       "tech",
       "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "829675104e5c",
+    "title": "Nvidia Has Best Trading Day In Months After Revealing New Microsoft Chip",
+    "url": "https://www.forbes.com/sites/siladityaray/2026/06/01/nvidia-has-best-trading-day-in-months-after-revealing-new-microsoft-chip/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-01T21:08:50+00:00",
+    "summary": "The new line of Windows laptops and desktops will be the first ever to run solely on an Nvidia-made chip, the RTX Spark, as the AI giant looks to take on rivals Intel and AMD.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a1d1f3520d7206856271a57/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 14
   },
@@ -781,83 +754,47 @@
     "relevance_score": 13
   },
   {
-    "id": "e39156b3f3a8",
-    "title": "BTS Holds On To Its Album Record, Despite Competition From A Hip-Hop Star",
-    "url": "https://www.forbes.com/sites/hughmcintyre/2026/06/01/bts-holds-on-to-its-album-record-despite-competition-from-a-hip-hop-star/",
+    "id": "e2d3b37c3e39",
+    "title": "This AI weather startup is out-forecasting government agencies",
+    "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-06-01T16:00:00+00:00",
+    "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from...",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
+    "tags": [
+      "AI",
+      "Exclusive",
+      "Windborne Systems"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "66d0f0e09493",
+    "title": "How Paul McCartney Promoted A New Album Without Relying On Traditional Media",
+    "url": "https://www.forbes.com/sites/andymeek/2026/06/01/how-paul-mccartney-promoted-a-new-album-without-relying-on-traditional-media/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-06-01T18:30:07+00:00",
-    "summary": "Drake's Iceman scores a huge debut on the Billboard 200, but even the biggest rapper in the world couldn't topple BTS's 2026 record with Arirang.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69d6647206eb4f0884b0d436/0x0.jpg?width=960&precrop=3000%2C1687%2Cx0%2Cy150",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "510c340a619e",
-    "title": "Atebimetinib Plus Modified Gemcitabine/Nab-Paclitaxel Shows Encouraging Efficacy, Tolerability in First-Line Metastatic PDAC - OncLive",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNblBkWUROdnY0YU1EWGJCUUtMR3JidzZyS3FadHhsRUxiZUR0T05MOUNSQTJEblVNZ2JqWUx0Vmhpbkd3NDlfSERONmpST1RIVHRqWGdYMjd0cGFUaFBsSk5UMlQxNEpKQjluZFVDX29CU0xZZ2dOakdzRWhzUDk4ZHY4NG5JY1RzWkJxaGQyd0Q0bHViU1RlLVJiWWRTcE9jaFNkQ19RR1lIYl9oYzJVTHVnX3pWNHFrOUk0bEtYVDFrYXFFRkdScjJJWkJGenZYSzc2RjhSNzJvU01NLVlsT3U5QUxNbWM?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-06-01T23:41:44+00:00",
-    "summary": "Atebimetinib Plus Modified Gemcitabine/Nab-Paclitaxel Shows Encouraging Efficacy, Tolerability in First-Line Metastatic PDAC OncLive",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "9ad837257646",
-    "title": "Media Briefing: As Google traffic ebbs, some publishers see social platforms as real revenue lines",
-    "url": "https://digiday.com/media/media-briefing-as-google-traffic-ebbs-some-publishers-see-social-platforms-as-real-revenue-lines/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-05-28T04:01:00+00:00",
-    "summary": "Publishers are once again leaning on social platforms, but with a different playbook to offset declining Google traffic.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/10/creator-city-digiday.jpg",
+    "published": "2026-06-01T21:47:37+00:00",
+    "summary": "Paul McCartney’s promotional blitz for \"The Boys of Dungeon Lane\" underscores how creators, platforms, and direct audience access are reshaping the media landscape.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a1df9a50660af085d066f00/0x0.jpg",
     "tags": [
       "Media",
-      "Digiday+"
+      "/media",
+      "Business",
+      "/business",
+      "Media"
     ],
     "industries": [
       "media",
-      "tech"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "6c098d0df2db",
-    "title": "‘We’re Just Getting the Crumbs Here’: Contractors Protest Layoffs at Meta’s European Headquarters",
-    "url": "https://www.wired.com/story/meta-covalen-protest-strike-dublin/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-05-29T20:18:01+00:00",
-    "summary": "Soon-to-be-laid-off Meta contractors say they’re being treated differently than Mark Zuckerberg’s full-time employees, who stand to receive more generous severance packages.",
-    "image_url": "https://media.wired.com/photos/6a19e1a8738675473398eb9e/master/pass/Protests-Outside-Meta-Business-IMG_0894.jpg",
-    "tags": [
-      "Business",
-      "Business / Big Tech",
-      "Meta",
-      "Labor",
-      "protests"
-    ],
-    "industries": [
       "tech",
       "industrial"
     ],
-    "relevance_score": 12
+    "relevance_score": 13
   },
   {
     "id": "9d046b68f7c5",
@@ -881,8 +818,7 @@
     ],
     "relevance_score": 12,
     "also_covered_by": [
-      "Adobe Products",
-      "Adobe"
+      "Adobe Products"
     ]
   },
   {
@@ -909,21 +845,22 @@
     "relevance_score": 12
   },
   {
-    "id": "1e42cdfdbc0d",
-    "title": "The Download: China’s brain implant ambitions",
-    "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-06-01T12:10:00+00:00",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China has approved the world’s first invasive brain-computer chip—here’s what’s next Sitting in the courtyard of his house in China’s...",
-    "image_url": null,
-    "tags": [
-      "The Download"
-    ],
+    "id": "8851edba93d2",
+    "title": "Noom launches at-home biomarker test kit for metabolic health monitoring",
+    "url": "https://www.fiercehealthcare.com/health-tech/noom-launches-home-biomarker-test-kit-metabolic-health-monitoring",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-01T07:40:00+00:00",
+    "summary": "Weight loss company Noom is offering an at-home biomarker testing kit for its U.S. members, expanding its platform into diagnostics and metabolic health monitoring.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/talent-with-tasso-device-resized-to-medium.jpeg?VersionId=D3SsA7doGEiR8rMaxnfHaQKQ6qZSC4Wp",
+    "tags": [],
     "industries": [
       "tech"
     ],
-    "relevance_score": 12
+    "relevance_score": 12,
+    "also_covered_by": [
+      "Health Tech"
+    ]
   },
   {
     "id": "dead5958ad95",
@@ -938,6 +875,23 @@
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "1e42cdfdbc0d",
+    "title": "The Download: China’s brain implant ambitions",
+    "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-06-01T12:10:00+00:00",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. China has approved the world’s first invasive brain-computer chip—here’s what’s next Sitting in the courtyard of his house in China’s...",
+    "image_url": null,
+    "tags": [
+      "The Download"
+    ],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 11
   },
@@ -1070,52 +1024,6 @@
     "relevance_score": 10
   },
   {
-    "id": "0479b680ee86",
-    "title": "Dr. Ashish Jha Headlines ConV2X Smart Technology Transformation Summit - NYC Oct 2026 - WebWire",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTFB0ZFVnUDMycWM5Ukx6dlRHOVU2Mllnc1FqazRwRzY0YzdFVGhWby15ekxwbUxXaTQ1TE9yd2hLbUZuWXVnV2xGNWZ0Ny1fR0F1Y1ZSQlluVXlJdG1pb0tnQg?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-01T12:10:37+00:00",
-    "summary": "Dr. Ashish Jha Headlines ConV2X Smart Technology Transformation Summit - NYC Oct 2026 WebWire",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "f70b693fd7c4",
-    "title": "#17 Reetika Grewal is reshaping how digital innovation happens at Wells Fargo - American Banker",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOGVyNWg5dVJMWGNBSm83RWh0eVpPYlhNYVdsYUh6NHlOcmI0Y3RCazB1ZlAyUDhOSUZILS1FWmVrenRzV0hINExyMkhId0ZSU1hEOTVfRXF6LXNHQWhlUnA3b0ppaXlnTzY0S1VGRzRERG9jS3JuOURfOXlmcTVvMjdNQ0pPLVA0dUFXYk1TM0dhQWU3cDJrM2dlMFRSaVhWUV8xS2lYTFhMR1pQRnVHb1J2NHhqYXJ4b3c?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-06-01T12:28:00+00:00",
-    "summary": "#17 Reetika Grewal is reshaping how digital innovation happens at Wells Fargo American Banker",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "f09dc789d94c",
-    "title": "Berlin-founded Contentful snapped up by Salesforce - Tech.eu",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWHZqaFkyaS1KeHBNa2RGRy01WFlkRGlyWE5UQXpIT3NRNk9fWllMTEdrUUVPMno1SkViaklEemRUWWZUNjEzZFRRcnJkc0lIRzFIcUJkeklKRU5OcXloV2FsRWZPbXJFRldkUEMySEk3cUFaNXRYMHY5QW9DSm5ydWFB?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-01T16:38:14+00:00",
-    "summary": "Berlin-founded Contentful snapped up by Salesforce Tech.eu",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "c8fe8fc096d9",
     "title": "How a new extraction process could unlock the world’s lithium",
     "url": "https://www.technologyreview.com/2026/05/28/1138096/lithium-extraction-rock-zero/",
@@ -1175,28 +1083,6 @@
     "relevance_score": 9
   },
   {
-    "id": "ead1389fcf30",
-    "title": "Hands-On With Gemini Spark: I Gave It Access to My Life and It Friend-Zoned My Boyfriend",
-    "url": "https://www.wired.com/story/google-gemini-spark-ai-agent-hands-on/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-05-29T19:07:46+00:00",
-    "summary": "Google’s new AI agent combed through my emails, documents, and calendar to plan a birthday party and still didn’t clock the person most important to me.",
-    "image_url": "https://media.wired.com/photos/6a19d3576c603cc05220330d/master/pass/Gear_HandsOnWithGeminiSparkGoogle%E2%80%99sAIAgentThatLivesinYourPhone_v1.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "agentic AI",
-      "Google Gemini",
-      "artificial intelligence"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
     "id": "f754db972e5d",
     "title": "Do You Actually Need to Pay for Transcription Software?",
     "url": "https://www.wired.com/story/do-you-actually-need-to-pay-for-transcription-software/",
@@ -1218,30 +1104,44 @@
     "relevance_score": 9
   },
   {
-    "id": "43f316dd9ad8",
-    "title": "FDA approval puts Wockhardt’s Zaynich in $9 billion antibiotics market - The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORGJzTlEyTGlXYWt5ZGZMU2V5WUJtd3JYVWVDc1lsVG1WS1VFNy1oaVBkTGFUeVVFb1lqVTVlTUJwbEZ1aFczZF85eVluTi1wX1dBQlpZWkZsMHhxZC1uY1V3Y2pFTVVPeXJNYnhtUEpub2JWcVRhNTNOeU1maHlKSi1uOHczVFZnVVd3aGs0bFZHM1BkcGtLeTFqTi1BSXdPQjFSLTBtOWZGdXlaVWFuSXdwVnViOEhYQzBPS1U3MnVxU21jRjBjc0ZCS3BueVVHaW5xcnNCODREZmVfR01Vd1RWRTFMeUJ0SWdaVmJFT05QLUd4YmRVQ09B0gH_AUFVX3lxTE03LWs3THhrS0RVb001NnVOOEJZQWcyTVBRX3JlSjFsdzgyYTRVb2ZjVkp1MEFvQUozWUxEU083N3lYOUpUOWxLSk9ucHN6WXFWOVRVYy0xbHBQOEZ2OXBGRFJnOGNvU1NuQ2liblh1UUlaX0lFczNNODZDZ2RCNEtXUWZhR3h0czF1ZU1YbWQ4YzI4VThHaDBfeU91Qnk0LUk2TU1PaDI0UmZNZFhrYVVPUmt1RHllV1FjOUxibFBpdW9tUS1ZTU5xc1FqcjdyM3kzci1aN3h6N25oSjR4TVZxS1R2Z0FadWlNSjFxT0wyOUNSMVZQTE1iQ1hZTlNzNA?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-31T23:31:00+00:00",
-    "summary": "FDA approval puts Wockhardt’s Zaynich in $9 billion antibiotics market The Economic Times",
+    "id": "990c81f4b528",
+    "title": "Michael Burry Calls Adobe A ‘Fat Pitch’ In Latest Saas Analysis – Backs Firefly And AI Tie-Ups With OpenAI, Google - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPWTVpSEp3NVZRaml5ZldGSnRBaWlIMnJydEw5dFhfVzdlbFJ2MTllV1A3U0c0bHA3NE1VbHFERjlXMTktbkNZbE9NeG1tWkJyZmFlV21uRVUyMWp0R1U2N3hkYVBvWGcyTURpcHpuTnVZdGdwem95alZzQ1dWTW5xbFNnTTZLQVpYQ3ZBblNSV2FmYllJSkFiODZRN1pGN0kxRzZtaUtaNjJRNk5UaUFsal9BRFBxZWtDUnJ3Ukc2M2JkMmxubTJkMmVMRDNLUXViMnYzSU80RmJIZ09UdGxYOUpWamRoT2hXc3p5Vl85RXp4N04yQ2RfUGs5NjJjQTN0Wjkycw?oc=5",
+    "source": "Adobe Products",
+    "source_category": "adobe",
+    "published": "2026-05-31T14:20:44+00:00",
+    "summary": "Michael Burry Calls Adobe A ‘Fat Pitch’ In Latest Saas Analysis – Backs Firefly And AI Tie-Ups With OpenAI, Google Stocktwits",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
+      "tech"
     ],
     "relevance_score": 9
   },
   {
-    "id": "4ae2232b6880",
-    "title": "Are We Measuring Metabolic Health All Wrong? - MedCity News",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeGg0VWtJbDRkRzFKS2JfZk1ZNG9qb0NTSWVLN2hOcXpiU3doSjRLZkp5R1RfM3c5RVFMMzZhV3laWkdyRHJ5Z2s2SWRsUTZvUjlIZmJFQU1WWlRzX2FpVDJ1cFVHUGgtSWN4WDd1d1NNVzRYS3pvOEI3a3BPcW5xeUtB?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-01T14:03:50+00:00",
-    "summary": "Are We Measuring Metabolic Health All Wrong? MedCity News",
+    "id": "f70b693fd7c4",
+    "title": "#17 Reetika Grewal is reshaping how digital innovation happens at Wells Fargo - American Banker",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOOGVyNWg5dVJMWGNBSm83RWh0eVpPYlhNYVdsYUh6NHlOcmI0Y3RCazB1ZlAyUDhOSUZILS1FWmVrenRzV0hINExyMkhId0ZSU1hEOTVfRXF6LXNHQWhlUnA3b0ppaXlnTzY0S1VGRzRERG9jS3JuOURfOXlmcTVvMjdNQ0pPLVA0dUFXYk1TM0dhQWU3cDJrM2dlMFRSaVhWUV8xS2lYTFhMR1pQRnVHb1J2NHhqYXJ4b3c?oc=5",
+    "source": "Banking",
+    "source_category": "industry_financial",
+    "published": "2026-06-01T12:28:00+00:00",
+    "summary": "#17 Reetika Grewal is reshaping how digital innovation happens at Wells Fargo American Banker",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "f09dc789d94c",
+    "title": "Berlin-founded Contentful snapped up by Salesforce - Tech.eu",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWHZqaFkyaS1KeHBNa2RGRy01WFlkRGlyWE5UQXpIT3NRNk9fWllMTEdrUUVPMno1SkViaklEemRUWWZUNjEzZFRRcnJkc0lIRzFIcUJkeklKRU5OcXloV2FsRWZPbXJFRldkUEMySEk3cUFaNXRYMHY5QW9DSm5ydWFB?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-06-01T15:45:43+00:00",
+    "summary": "Berlin-founded Contentful snapped up by Salesforce Tech.eu",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1372,50 +1272,17 @@
     "relevance_score": 8
   },
   {
-    "id": "fa079ce464f1",
-    "title": "Senior Adobe Director Appeals For Job Referrals After Son's Campus Offer Is Revoked: 'I Would Appreciate' - NDTV",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVjZJU2xkX0ZkLXVUNGNUUXVMbWc0YUN0SEtSQkp0azZIdXZza1I3alBkRzhwdkxib0lwSFZnY3htYkdkdkVCZEdCY0FLS0g5SWJwM3Bkc0ZuTmFuM3F3cU1XZFFJa0JoOE1UWW9xamtkczV4cm1VNzAxM1QwODBSTjZueFk4SU1NMGNiTHBFaG5Bc09FdkxOUlNrSTBDdjBUbmZEOFU1cFVsTFpva2lOOWU1cUdnTXlVbFRmdTlVRS1kX0k4OVYwQWlhZ0JxWmVqM1ZCQXpheFI?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-05-30T05:25:30+00:00",
-    "summary": "Senior Adobe Director Appeals For Job Referrals After Son's Campus Offer Is Revoked: 'I Would Appreciate' NDTV",
+    "id": "4ae2232b6880",
+    "title": "Are We Measuring Metabolic Health All Wrong? - MedCity News",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeGg0VWtJbDRkRzFKS2JfZk1ZNG9qb0NTSWVLN2hOcXpiU3doSjRLZkp5R1RfM3c5RVFMMzZhV3laWkdyRHJ5Z2s2SWRsUTZvUjlIZmJFQU1WWlRzX2FpVDJ1cFVHUGgtSWN4WDd1d1NNVzRYS3pvOEI3a3BPcW5xeUtB?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-01T14:03:50+00:00",
+    "summary": "Are We Measuring Metabolic Health All Wrong? MedCity News",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "264c6b1efe70",
-    "title": "Fintech Platform AvidXchange Enables Embedded AP Payments For Acumatica Clients - Crowdfund Insider",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUwyOE5BS3RjN216RjZrODJ2VmNjWXI3UWFFZk9oOXV6dTRUZkhsdnVGVFNZWUxHS291REJmQ25KajAwWGFmQVNMMW5WSWJfam40aTVkNDRJZENGYnptMndnUUtkTlZodjVRemgxTy1PR1RaMHFkRFJIRjllY2plZU5YWVZqb2R0a2Y4RFZvZzM2M3dZM0NrbEtyV1Z6SVhkRlZmREF3TGM0VF8tSVJOME1aRHk3cmwzYmVVWEwtNkl2aWZQTUxV?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-06-01T14:44:54+00:00",
-    "summary": "Fintech Platform AvidXchange Enables Embedded AP Payments For Acumatica Clients Crowdfund Insider",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "c67a21dea503",
-    "title": "South Carolina fund to support rural health tech startups - Health Tech World",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRzAtc1prVzNLT3ItVFZRNk1nb1dUdVhYcEZ0cWo1S3VKeTlXRU5oeUJTZVRvMGN2U2VQNEFuOWFBRkNlN1JyU18yVUk1ZkNCdDZWcUdsYzFRemJLMnhWR3lPaW5xTE5WWmY4VWdvYnI5YWE5bzVxNGZpdVpwZG1TY0JITzUydWJHUDBuSXBLUURWVnFoX1lVY3B5Y2hXUDV1S280aDNsQTA2bDJDTUItQQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-01T16:12:55+00:00",
-    "summary": "South Carolina fund to support rural health tech startups Health Tech World",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
     ],
     "relevance_score": 8
   },
@@ -1470,53 +1337,17 @@
     "relevance_score": 7
   },
   {
-    "id": "5d76103abde0",
-    "title": "Is Adobe’s (ADBE) AI Shopping Edge Quietly Redefining Its Creative Cloud Investment Story? - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXZQU3lfT1JveWJmZFNVUVIxUGhSSnRqOGZsSUR6QnpHbUZEdHc1R0Y1WUlpR29va1Z0UWxWUnNueUx0XzJubVJXbUhKUmhDRjR6VVZIUm9seVp1OUZiZEw2bUFDanhFLTdRUmJLY2owbUF3Y2oxRHR3R1k5RTFwWFZnbkRlY1p1dXRGMmlFTXFaeUstQ0Zz?oc=5",
-    "source": "Adobe Inc",
+    "id": "fa079ce464f1",
+    "title": "Senior Adobe Director Appeals For Job Referrals After Son's Campus Offer Is Revoked: 'I Would Appreciate' - NDTV",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQVjZJU2xkX0ZkLXVUNGNUUXVMbWc0YUN0SEtSQkp0azZIdXZza1I3alBkRzhwdkxib0lwSFZnY3htYkdkdkVCZEdCY0FLS0g5SWJwM3Bkc0ZuTmFuM3F3cU1XZFFJa0JoOE1UWW9xamtkczV4cm1VNzAxM1QwODBSTjZueFk4SU1NMGNiTHBFaG5Bc09FdkxOUlNrSTBDdjBUbmZEOFU1cFVsTFpva2lOOWU1cUdnTXlVbFRmdTlVRS1kX0k4OVYwQWlhZ0JxWmVqM1ZCQXpheFI?oc=5",
+    "source": "Adobe",
     "source_category": "adobe",
-    "published": "2026-05-30T04:18:00+00:00",
-    "summary": "Is Adobe’s (ADBE) AI Shopping Edge Quietly Redefining Its Creative Cloud Investment Story? Yahoo Finance",
+    "published": "2026-05-30T05:25:30+00:00",
+    "summary": "Senior Adobe Director Appeals For Job Referrals After Son's Campus Offer Is Revoked: 'I Would Appreciate' NDTV",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
-      "retail",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "fef754b645e3",
-    "title": "The stablecoin revolution is reshaping business payments - The Digital Banker",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVURLNkUtVTlBMHl6VHB2ZjJSQTdQYmluQjYyWWlTZHZIZnA5NG91Nll2M2x6YVBpeUloSmZDazFuTDNFN1ZPWjBjaFVaRHU2cU9YdUlvQ3NsTW5uQWFhYW1fRWp0dUdQMThXczRJUVp2VnlDcmNDa3hfelpUT0dvNndmMDQtQm9SUmp5Vm5fMA?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-06-01T07:13:21+00:00",
-    "summary": "The stablecoin revolution is reshaping business payments The Digital Banker",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "ee3f1f28365a",
-    "title": "AstraZeneca wins FDA approval for early-stage bladder cancer therapy - medwatch.com",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oRndxMUpmRlJ3MUNpbFJVRE1WY2Y1ZTVuMXAya1pWYnVaZ01nbmF1UVJnRVUtUS1LM20xNGgzUXIzS3ZJakZoOVNjVWVXb1pueFpyZVEzbm4ybk1sYzdLNy0tWXBJejh1YWN3X2Q0MA?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-01T08:02:24+00:00",
-    "summary": "AstraZeneca wins FDA approval for early-stage bladder cancer therapy medwatch.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
+      "tech"
     ],
     "relevance_score": 7
   },
@@ -1538,19 +1369,41 @@
     "relevance_score": 7
   },
   {
-    "id": "2f52b376c85d",
-    "title": "At Zain Interactive Forum: Experts Call for Accelerating Digital Transformation in Sudan - Sudan Horizon",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPQU9JRjFxZkQ0NVRvM19iVTJCM2J4aWJQdDZJWWlLcE9GODZuc0d0aFhkZ2xONGFNWmYzbnowWS01TGJKdExPcFlQTjVtT2pQTHJaRjJScTk1TExEN2JIeUVWVFRfZ1BSbXVDa0VRcjZObGNkcFItNFhZODhmQ0tXSk15Q19IUXJrQVdVZUJFcDV1UEtmUllNV0h4WU55dXB3LUNQR1ZCSzdtaFppb0ZOVEdFaw?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-05-31T14:34:48+00:00",
-    "summary": "At Zain Interactive Forum: Experts Call for Accelerating Digital Transformation in Sudan Sudan Horizon",
+    "id": "c67a21dea503",
+    "title": "South Carolina fund to support rural health tech startups - Health Tech World",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRzAtc1prVzNLT3ItVFZRNk1nb1dUdVhYcEZ0cWo1S3VKeTlXRU5oeUJTZVRvMGN2U2VQNEFuOWFBRkNlN1JyU18yVUk1ZkNCdDZWcUdsYzFRemJLMnhWR3lPaW5xTE5WWmY4VWdvYnI5YWE5bzVxNGZpdVpwZG1TY0JITzUydWJHUDBuSXBLUURWVnFoX1lVY3B5Y2hXUDV1S280aDNsQTA2bDJDTUItQQ?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-01T16:12:55+00:00",
+    "summary": "South Carolina fund to support rural health tech startups Health Tech World",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech"
+      "tech",
+      "lifesciences"
     ],
-    "relevance_score": 6
+    "relevance_score": 7
+  },
+  {
+    "id": "5d76103abde0",
+    "title": "Is Adobe’s (ADBE) AI Shopping Edge Quietly Redefining Its Creative Cloud Investment Story? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMXZQU3lfT1JveWJmZFNVUVIxUGhSSnRqOGZsSUR6QnpHbUZEdHc1R0Y1WUlpR29va1Z0UWxWUnNueUx0XzJubVJXbUhKUmhDRjR6VVZIUm9seVp1OUZiZEw2bUFDanhFLTdRUmJLY2owbUF3Y2oxRHR3R1k5RTFwWFZnbkRlY1p1dXRGMmlFTXFaeUstQ0Zz?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-05-30T04:18:00+00:00",
+    "summary": "Is Adobe’s (ADBE) AI Shopping Edge Quietly Redefining Its Creative Cloud Investment Story? Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 6,
+    "also_covered_by": [
+      "Adobe Inc"
+    ]
   },
   {
     "id": "d54f6c885d73",
@@ -1564,6 +1417,39 @@
     "tags": [],
     "industries": [
       "tech"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "fef754b645e3",
+    "title": "The stablecoin revolution is reshaping business payments - The Digital Banker",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVURLNkUtVTlBMHl6VHB2ZjJSQTdQYmluQjYyWWlTZHZIZnA5NG91Nll2M2x6YVBpeUloSmZDazFuTDNFN1ZPWjBjaFVaRHU2cU9YdUlvQ3NsTW5uQWFhYW1fRWp0dUdQMThXczRJUVp2VnlDcmNDa3hfelpUT0dvNndmMDQtQm9SUmp5Vm5fMA?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-06-01T07:13:21+00:00",
+    "summary": "The stablecoin revolution is reshaping business payments The Digital Banker",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "ee3f1f28365a",
+    "title": "AstraZeneca wins FDA approval for early-stage bladder cancer therapy - medwatch.com",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oRndxMUpmRlJ3MUNpbFJVRE1WY2Y1ZTVuMXAya1pWYnVaZ01nbmF1UVJnRVUtUS1LM20xNGgzUXIzS3ZJakZoOVNjVWVXb1pueFpyZVEzbm4ybk1sYzdLNy0tWXBJejh1YWN3X2Q0MA?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-01T08:02:24+00:00",
+    "summary": "AstraZeneca wins FDA approval for early-stage bladder cancer therapy medwatch.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
     ],
     "relevance_score": 6
   },
@@ -1599,22 +1485,6 @@
       "retail",
       "industrial",
       "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "f8275e901cd9",
-    "title": "Weecover unveils API-first insurance payments tool - FinTech Global",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUmNZanFDSldPT01faldPVXFHVUNlN0x0YU9yX0JCVktVRENMZl83enlUbVU0VU5lbkVqQjAwcEZkb2FtTF9Ya0U2cmJoX08tMi1sUUZmdmp2SjNvdURQZVR4Wlp3Sk5DT3VySjQ3U053SlFjZlFBN0dlMVdwbzdBcUJ3R19URFpIV1RmUHJB?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-05-29T15:35:36+00:00",
-    "summary": "Weecover unveils API-first insurance payments tool FinTech Global",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
     ],
     "relevance_score": 5
   },
