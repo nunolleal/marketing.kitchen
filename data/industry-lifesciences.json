@@ -14,7 +14,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 40
+    "relevance_score": 37
   },
   {
     "id": "70b508794f49",
@@ -52,7 +52,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
     "id": "202ca87d65c0",
@@ -67,7 +67,10 @@
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 16
+    "relevance_score": 15,
+    "also_covered_by": [
+      "Fierce Healthcare"
+    ]
   },
   {
     "id": "67f3180c405d",
@@ -78,6 +81,21 @@
     "published": "2026-06-01T11:29:00+00:00",
     "summary": "For physicians, repeated daily AI use tripled between 2025 and 2026 while use among nurses doubled during the same period.",
     "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1468430468.jpg?VersionId=K.M1ufBvCJyOdh1bznoFGjp2ohWGd8Wl",
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "3c9c9235dd29",
+    "title": "India’s digital health ID system surpasses 900 million accounts - Biometric Update",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQU0duLXNVS3M1bVBkTFktV0Q2M1VqR0loRWVZXzdJWjBzcm1GTVQ5SDRFTzBQQTJxVmxKQjd4RXZhZk80SnhLUDdPMWNoTEo5RWVSUHVGSVlVb2pBUGZoNGotSVlRbVZWZGFVbE5JMnFsQ0VUTVhVOS1WTzd0Tll4NXFteWNHMXMwelZHaDA5eUMtVzE3bVl4ZTBUX213TUVhR1Jr?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-02T14:34:00+00:00",
+    "summary": "India’s digital health ID system surpasses 900 million accounts Biometric Update",
+    "image_url": null,
     "tags": [],
     "industries": [
       "lifesciences"
@@ -96,38 +114,6 @@
     "tags": [],
     "industries": [
       "lifesciences"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "1f319ff04555",
-    "title": "Achieve Life Sciences Appoints Jeffrey Farrow and Reid Waldman, MD to Board of Directors - The Manila Times",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPblJyaE5vQWt1OV9oelcybDF5MDVDWnJIOUsyU291SDl5M3lVMjl1TTVwbnA0d0NfVlRXTGlOcFpIRVg1bmVqMlIydjI3WTd2bDZ6Rk9PTF81QnFnSXFIb1haQXptNk9EYmFBNF9xNW1TYjVpSl9CcFg2NXZ1NEtRTENmRnJOZDRTSnc1aHpZUmpqbl9vTHdBNUFlMVNNaXFRNGxlTjlNdThod2lpX0tzOUczZDBCbWFra0gwYzFIQkNiUE1CTGx4T3RBNm9KNXd5TmZYZF9sWEt1RXV2anVGalVsZVdTbE0tSktJQnAxRkdJeTTSAfgBQVVfeXFMTjhORndRaUlCRWY0VkdINmdqYm1yLVpJMDNHRnpYeTkxNUtCZzlDTXIyVUo5a0FZYTlrTGNSdmpzUnhLZmhLQ0dVZXFUY0xOazJGVy0zS0U5b2xzcEc1Um1yUzdQX0tmajc5c3ZiVEs3MmxNM0FlWGZ5MWNNY2Rrbjc5SjgzT1l2NkNyVjMwTHUyNTk3b3lpZC0zTzFwRlQtVURJem1YajEzbEFKanhsNzd6VWdNc28taWtEX1l5VTVCV3VIZWpYRUxEb0NCZ1dnRkNrVXYtTXc3M2Jpcmw0ODdBcURHTGhlUm1POEg3SUt3QjFlVDVuU0o?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-02T12:47:12+00:00",
-    "summary": "Achieve Life Sciences Appoints Jeffrey Farrow and Reid Waldman, MD to Board of Directors The Manila Times",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "3f857c231184",
-    "title": "New Connecticut private equity law bans hospital sale-leasebacks",
-    "url": "https://www.fiercehealthcare.com/providers/new-connecticut-private-equity-law-bans-hospital-sale-leasebacks",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-01T16:06:00+00:00",
-    "summary": "The state law, replete with restrictions on private equity investors' role in hospital ownership and influence, is the nation's first with an explicit ban on a wealth extraction tactic associated with recent high-profile health system bankruptcies.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1321482915%20%282%29.jpg?VersionId=gdvWIoeH4KGU9YcoVg2NOZqrtchgwNcd",
-    "tags": [],
-    "industries": [
-      "lifesciences",
-      "financial"
     ],
     "relevance_score": 11
   },
@@ -148,38 +134,20 @@
     "relevance_score": 11
   },
   {
-    "id": "13f89840ef59",
-    "title": "Uninsurance rate holds flat in 2025: CDC",
-    "url": "https://www.healthcaredive.com/news/uninsurance-rate-steady-2025-cdc/821488/",
-    "source": "Healthcare Dive",
+    "id": "1f319ff04555",
+    "title": "Achieve Life Sciences Appoints Jeffrey Farrow and Reid Waldman, MD to Board of Directors - The Manila Times",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxPblJyaE5vQWt1OV9oelcybDF5MDVDWnJIOUsyU291SDl5M3lVMjl1TTVwbnA0d0NfVlRXTGlOcFpIRVg1bmVqMlIydjI3WTd2bDZ6Rk9PTF81QnFnSXFIb1haQXptNk9EYmFBNF9xNW1TYjVpSl9CcFg2NXZ1NEtRTENmRnJOZDRTSnc1aHpZUmpqbl9vTHdBNUFlMVNNaXFRNGxlTjlNdThod2lpX0tzOUczZDBCbWFra0gwYzFIQkNiUE1CTGx4T3RBNm9KNXd5TmZYZF9sWEt1RXV2anVGalVsZVdTbE0tSktJQnAxRkdJeTTSAfgBQVVfeXFMTjhORndRaUlCRWY0VkdINmdqYm1yLVpJMDNHRnpYeTkxNUtCZzlDTXIyVUo5a0FZYTlrTGNSdmpzUnhLZmhLQ0dVZXFUY0xOazJGVy0zS0U5b2xzcEc1Um1yUzdQX0tmajc5c3ZiVEs3MmxNM0FlWGZ5MWNNY2Rrbjc5SjgzT1l2NkNyVjMwTHUyNTk3b3lpZC0zTzFwRlQtVURJem1YajEzbEFKanhsNzd6VWdNc28taWtEX1l5VTVCV3VIZWpYRUxEb0NCZ1dnRkNrVXYtTXc3M2Jpcmw0ODdBcURHTGhlUm1POEg3SUt3QjFlVDVuU0o?oc=5",
+    "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-05-29T15:05:27+00:00",
-    "summary": "The percentage of Americans without insurance last year remained relatively stable compared to 2024. However, more people are likely to lose coverage in the years to come due to healthcare spending cuts from the “Big Beautiful Bill.”",
-    "image_url": "https://imgproxy.divecdn.com/VqiWan_mkYrBI4f9V1kVB4YX0eeNBGyYVuPeq5HL0_8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNTMxNjc2MzguanBn.webp",
+    "published": "2026-06-02T12:47:12+00:00",
+    "summary": "Achieve Life Sciences Appoints Jeffrey Farrow and Reid Waldman, MD to Board of Directors The Manila Times",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "industrial",
-      "lifesciences",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "91993cec54c7",
-    "title": "CVS, Walgreens and Walmart defeat opioid lawsuit brought by Florida hospitals",
-    "url": "https://www.fiercehealthcare.com/retail/cvs-walgreens-and-walmart-defeat-opioid-lawsuit-brought-florida-hospitals",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-31T18:52:00+00:00",
-    "summary": "A Florida judge ruled in favor of CVS, Walgreens and Walmart in a lawsuit brought by 16 hospitals accusing the pharmacy retailers of flooding the state with opioids.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2165663502.jpg?VersionId=bRHkAfJ2udDglZzvCMsyawk_HBwEbJyM",
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
+      "tech",
       "lifesciences"
     ],
-    "relevance_score": 10
+    "relevance_score": 11
   },
   {
     "id": "06e51ddff1e7",
@@ -235,27 +203,12 @@
     "relevance_score": 10
   },
   {
-    "id": "309c6574d249",
-    "title": "Aide Health announces US expansion through partnership with Temple Health - Health Tech World",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQnZocV9rUEpvTFBHUEV3bHFiQ1pKcmR4VjVqdUdEdkJaYmR5WkJrX0cycjQ4eXQxNHM0MVFiWmpYM3dJMFNzb2JTclpma2V4LWRGWk1MSDJrNGZEem8zSVhjbDB0UE04aF9lRE1haDVJdVN6WGRrZTZlZnlvSjhJVTBKR1lBSWU2MzdWdmd3SDgzWTA2ZlhrLVlQeEMwRmlWcU9RaVNGX3EyNWlJaGJwOWh3QQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-02T10:20:38+00:00",
-    "summary": "Aide Health announces US expansion through partnership with Temple Health Health Tech World",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "d5ddab4fc81d",
     "title": "Data-Driven Healthcare: How AI is Shaping Remote Patient Monitoring - Healthcare Tech Outlook",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxOaTJCV1RDdG01YzZjUzJ6MERiY1hTd2FmR3RzRU1HWnJRODk4MTE4TC1VRERMWnhMOTNFNDU4emxDbEJhWmtkaHJmd1k2QnYwcl9NOUJXMmpzbUpGMVZUNzRrS3dKd0xURlhrT3UzSVVTZGtNQjhTU1N3ZEtvUUtNTGR3M3RaaVFQVjY3QjcxSWY0OXlieTZLbGJRejdTX1NzaXMwQW1nSUh5aF92aHZrcXZOazl1NkRET213enh1TQ?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-06-02T13:14:02+00:00",
+    "published": "2026-06-02T18:52:19+00:00",
     "summary": "Data-Driven Healthcare: How AI is Shaping Remote Patient Monitoring Healthcare Tech Outlook",
     "image_url": null,
     "tags": [],
@@ -266,61 +219,35 @@
     "relevance_score": 10
   },
   {
-    "id": "f28239e68088",
-    "title": "Health Practitioner Training Ecosystems: Integrating Clinical Insight and Wellness Education - Healthcare Tech Outlook",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVkZNelFHWDNLT3FVdFpldDZ3d2IxaUpWd3N6WkFIUDh2WUJnWGVnajlZWUNfTmFsSzJtcXpEbEpIVENvS250N2Vua2VXT21WTG5zMkZxNlBMQmprYjRJeVJLOTh0c1RBR3VwLS1Qb2xOWW5mRmRaZFY1OWNwSlV5alNaS2dBdHVKQ05CQkNJcUxXMFZ2Si1XaEJpWGszTWhsN0UwTFViSzlFcV9STTBnMDBTblNQdzZjWFZGR3RiYjZMTkY2aDdaUTYyT3lVeXJPc1o3NmRBNVZ3cjdRUGNjWHV3?oc=5",
+    "id": "b78735f4747d",
+    "title": "AHA urges court to dismiss tracking tech lawsuit against Endeavor Health - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNczJzY1NRcU05aE1VZk5mYzF4a05KSkJkQ1lpTUZLOHZndEFjR1JMbWZwQmF3NTFsdERrbVVmRTBtdERJY3pqOWhqZ00welZvSm94OGtzQ2tDQ3BELV9Gb1F0ZWJ3OEcwRW1NUGF1RnNGTzBTVFdkSFItNjdvaW1ZYlhRckllWjBnaThoYUJVQl85SUpqbzZYZUNna0tyVmIzX0l5THlpUVdFN09kNEpRVVBCVDBUNngxUFo1bm5xaU9penljSHptVkxEZkY3Zw?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-06-02T13:18:55+00:00",
-    "summary": "Health Practitioner Training Ecosystems: Integrating Clinical Insight and Wellness Education Healthcare Tech Outlook",
+    "published": "2026-06-02T19:24:19+00:00",
+    "summary": "AHA urges court to dismiss tracking tech lawsuit against Endeavor Health TechTarget",
     "image_url": null,
     "tags": [],
     "industries": [
+      "retail",
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 10
   },
   {
-    "id": "42052da3c65b",
-    "title": "Hims & Hers Completes Eucalyptus Acquisition, Expanding Global Digital Health Footprint - citybiz",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWFYSllnNXh5OTFpdzhPVkVtN1pfZVJmUHZZeEFHWjR6LW05bTcwbWVyaUJaQ0ljMUJNSHNUVHdwRHRrOEpfaVVBX09VVWc0WTktNDZlSXJDZmhYOXExQmZRWUEyc0tKV2RNQUhhTkFXUjU0ZUtXSmZEN1RzMXZheU9mU2VoWFhoVlNaZnNoaFBQOXR2dU9seDM2UGIta2ZVbnpoZjF1VkhmNmVibERlcGZ2dUFkTlFUUUZDZGlYaUE?oc=5",
-    "source": "Health Tech",
+    "id": "91993cec54c7",
+    "title": "CVS, Walgreens and Walmart defeat opioid lawsuit brought by Florida hospitals",
+    "url": "https://www.fiercehealthcare.com/retail/cvs-walgreens-and-walmart-defeat-opioid-lawsuit-brought-florida-hospitals",
+    "source": "Fierce Healthcare",
     "source_category": "industry_lifesciences",
-    "published": "2026-06-02T13:46:54+00:00",
-    "summary": "Hims & Hers Completes Eucalyptus Acquisition, Expanding Global Digital Health Footprint citybiz",
-    "image_url": null,
+    "published": "2026-05-31T18:52:00+00:00",
+    "summary": "A Florida judge ruled in favor of CVS, Walgreens and Walmart in a lawsuit brought by 16 hospitals accusing the pharmacy retailers of flooding the state with opioids.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2165663502.jpg?VersionId=bRHkAfJ2udDglZzvCMsyawk_HBwEbJyM",
     "tags": [],
     "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "e60a0f191fa4",
-    "title": "FlyteHealth Selected for CMS Health Tech Ecosystem Diabetes & Obesity Category - PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaDNLelZQX1p4TlROeW83djFYTHZlOTZQSHd1MW9Tb2tlWlNOLVZ3cXVya0dYZXV1Y3g5MFZ1cE1QeUMxeGNyMzlYRjJpYWM0R3JMUjBON3RKZkItNkpqTDEyS0x4RUJwQlNmRHQ3MkVSTUNXdlZ1cGhVbVVYWDdGRlRwQVV4bWRhNGcwb1J4QzRLb3pNTjVLYWp1UXhCbmFnZGxmczB5S0pwc1Jodk1wSGpVQ0M1UFUxUVYzeFJIVXRRUHVLREVXclBiU2JGdw?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-02T14:00:00+00:00",
-    "summary": "FlyteHealth Selected for CMS Health Tech Ecosystem Diabetes & Obesity Category PR Newswire",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "8742b12517ff",
-    "title": "Pharma TV spend jumps 53% after FDA crackdown on deceptive drug ads - PPC Land",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOalJzQVZMRF9tWTMzNzRCcTFQRFhPYXZGM0ZnVldDS2ZkWG9sZDl5cF85dW8wZUl4YWVZamFEOEczOXdQNV9QYmlVSnN0TGxHak9aRTBOWGV0YWMxUWQyTTdSYUpoUGlBR2xzYUhQNko3UWVIVjZYRndxRDdCb3V3SHBhblJQQ2VrWkw4Mw?oc=5",
-    "source": "Pharma Marketing",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-31T16:37:21+00:00",
-    "summary": "Pharma TV spend jumps 53% after FDA crackdown on deceptive drug ads PPC Land",
-    "image_url": null,
-    "tags": [],
-    "industries": [
+      "retail",
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 9
@@ -357,29 +284,74 @@
     "relevance_score": 9
   },
   {
-    "id": "2ffb06c84bfa",
-    "title": "Asia-Pacific has a healthcare access problem. But tech can get it back on track - The World Economic Forum",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOVBteG5jSkItMkNNYzBjVlRTSWlpQ2lYbGVET1o3dU9KeG54WFdmZUJxMlV1bUREdFBnMkxnRmxNbXF2MFd4czFuTlI0VWJlLUJDX3RHWjUwajJCd0psc3k3YTZRT2FhOE5GM29JSkdsRk9mcHpHM0Q2X0p5UW1XZg?oc=5",
+    "id": "3f857c231184",
+    "title": "New Connecticut private equity law bans hospital sale-leasebacks",
+    "url": "https://www.fiercehealthcare.com/providers/new-connecticut-private-equity-law-bans-hospital-sale-leasebacks",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-01T16:06:00+00:00",
+    "summary": "The state law, replete with restrictions on private equity investors' role in hospital ownership and influence, is the nation's first with an explicit ban on a wealth extraction tactic associated with recent high-profile health system bankruptcies.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1321482915%20%282%29.jpg?VersionId=gdvWIoeH4KGU9YcoVg2NOZqrtchgwNcd",
+    "tags": [],
+    "industries": [
+      "lifesciences",
+      "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "309c6574d249",
+    "title": "Aide Health announces US expansion through partnership with Temple Health - Health Tech World",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNQnZocV9rUEpvTFBHUEV3bHFiQ1pKcmR4VjVqdUdEdkJaYmR5WkJrX0cycjQ4eXQxNHM0MVFiWmpYM3dJMFNzb2JTclpma2V4LWRGWk1MSDJrNGZEem8zSVhjbDB0UE04aF9lRE1haDVJdVN6WGRrZTZlZnlvSjhJVTBKR1lBSWU2MzdWdmd3SDgzWTA2ZlhrLVlQeEMwRmlWcU9RaVNGX3EyNWlJaGJwOWh3QQ?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-06-02T09:25:28+00:00",
-    "summary": "Asia-Pacific has a healthcare access problem. But tech can get it back on track The World Economic Forum",
+    "published": "2026-06-02T10:20:38+00:00",
+    "summary": "Aide Health announces US expansion through partnership with Temple Health Health Tech World",
     "image_url": null,
     "tags": [],
     "industries": [
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 9
   },
   {
-    "id": "d078ce109803",
-    "title": "Digital Health Coffee Time Briefing ☕ - Home | Digital Health",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTXZpWEE4Y1lrN2l6aE1jZXFKNTMyUEJHNm0wS2lBUW95ZzRFV0pRVENIZHpfeGl1YWV3dFYwc0JVYk8zSzdhSE5wYlNUU1p4YmJTdXEtTG1CUmhXLWxLQ0hxWk9NNFdLNlpRemlhR1R5NHFieFA0OVBRWlBVRTQ3d0toNlNxZkxqMTlsY2pjLXlqUQ?oc=5",
+    "id": "f28239e68088",
+    "title": "Health Practitioner Training Ecosystems: Integrating Clinical Insight and Wellness Education - Healthcare Tech Outlook",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQVkZNelFHWDNLT3FVdFpldDZ3d2IxaUpWd3N6WkFIUDh2WUJnWGVnajlZWUNfTmFsSzJtcXpEbEpIVENvS250N2Vua2VXT21WTG5zMkZxNlBMQmprYjRJeVJLOTh0c1RBR3VwLS1Qb2xOWW5mRmRaZFY1OWNwSlV5alNaS2dBdHVKQ05CQkNJcUxXMFZ2Si1XaEJpWGszTWhsN0UwTFViSzlFcV9STTBnMDBTblNQdzZjWFZGR3RiYjZMTkY2aDdaUTYyT3lVeXJPc1o3NmRBNVZ3cjdRUGNjWHV3?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-06-02T10:37:57+00:00",
-    "summary": "Digital Health Coffee Time Briefing ☕ Home | Digital Health",
+    "published": "2026-06-02T13:18:55+00:00",
+    "summary": "Health Practitioner Training Ecosystems: Integrating Clinical Insight and Wellness Education Healthcare Tech Outlook",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "42052da3c65b",
+    "title": "Hims & Hers Completes Eucalyptus Acquisition, Expanding Global Digital Health Footprint - citybiz",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNWWFYSllnNXh5OTFpdzhPVkVtN1pfZVJmUHZZeEFHWjR6LW05bTcwbWVyaUJaQ0ljMUJNSHNUVHdwRHRrOEpfaVVBX09VVWc0WTktNDZlSXJDZmhYOXExQmZRWUEyc0tKV2RNQUhhTkFXUjU0ZUtXSmZEN1RzMXZheU9mU2VoWFhoVlNaZnNoaFBQOXR2dU9seDM2UGIta2ZVbnpoZjF1VkhmNmVibERlcGZ2dUFkTlFUUUZDZGlYaUE?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-02T13:46:54+00:00",
+    "summary": "Hims & Hers Completes Eucalyptus Acquisition, Expanding Global Digital Health Footprint citybiz",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "0c12766bea00",
+    "title": "FlyteHealth Selected for CMS Health Tech Ecosystem Diabetes & Obesity Category - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVzlVUGtUR1pFQXF6Rm1LcDF1UnhOLWxpTFJuWmd1RTRCY2RMUzVIb0xIMlo0ZHhBNllfZzdTVzJ5LVhlc29NYndQbU11Ui1BNjd5b0M2bDh6N1NIZ0dyb3p5N29ua2JaRHB4WXBhTE82bENuaUVZMjhRVTI1cmJGeFJma3ZhNXktU0VTMWdKU2Ntb3JqSDV4Rlc4THdSc0oxUmpvQldQeHM?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-02T14:00:00+00:00",
+    "summary": "FlyteHealth Selected for CMS Health Tech Ecosystem Diabetes & Obesity Category Yahoo Finance",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -437,6 +409,21 @@
     "relevance_score": 8
   },
   {
+    "id": "8742b12517ff",
+    "title": "Pharma TV spend jumps 53% after FDA crackdown on deceptive drug ads - PPC Land",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOalJzQVZMRF9tWTMzNzRCcTFQRFhPYXZGM0ZnVldDS2ZkWG9sZDl5cF85dW8wZUl4YWVZamFEOEczOXdQNV9QYmlVSnN0TGxHak9aRTBOWGV0YWMxUWQyTTdSYUpoUGlBR2xzYUhQNko3UWVIVjZYRndxRDdCb3V3SHBhblJQQ2VrWkw4Mw?oc=5",
+    "source": "Pharma Marketing",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-31T16:37:21+00:00",
+    "summary": "Pharma TV spend jumps 53% after FDA crackdown on deceptive drug ads PPC Land",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "614e521838fe",
     "title": "Budget 2026: New Zealand funds digital health upgrades, cybersec - Healthcare IT News",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQUWRRWUtIM1AwaENmbUZ1OFpFMm54ckFobm51WndoXzlSbGI2cG5CYmNhQWtmekw2Tm1MU2lCMmN0al81U0Y1Z1pUQ0lyMFJSWGtsNERBSlAtbUY1OHVLX1oxd1h2VldNRXZoUV85a1BPN29DcmFVX1kyNDM0Z1lZTTBGMnY1ZWsxVkM4QUhRNTlTT3FDQWlZMThSbV9ZU3NsWS1QV3ItOA?oc=5",
@@ -453,37 +440,35 @@
     "relevance_score": 8
   },
   {
-    "id": "d3000f229459",
-    "title": "Coalition for Health AI unveils governance playbooks for responsible AI adoption",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/coalition-health-ai-unveils-8-governance-playbooks-health-systems",
-    "source": "Fierce Healthcare",
+    "id": "2ffb06c84bfa",
+    "title": "Asia-Pacific has a healthcare access problem. But tech can get it back on track - The World Economic Forum",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQOVBteG5jSkItMkNNYzBjVlRTSWlpQ2lYbGVET1o3dU9KeG54WFdmZUJxMlV1bUREdFBnMkxnRmxNbXF2MFd4czFuTlI0VWJlLUJDX3RHWjUwajJCd0psc3k3YTZRT2FhOE5GM29JSkdsRk9mcHpHM0Q2X0p5UW1XZg?oc=5",
+    "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-05-27T16:12:00+00:00",
-    "summary": "Each playbook includes suggested implementation guidance, tools, resources and examples for healthcare organizations to integrate into existing processes.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1644757131.jpg?VersionId=FqVZ7AQpClNy.2QQ94dRRRAxj6DZz9x2",
+    "published": "2026-06-02T09:25:28+00:00",
+    "summary": "Asia-Pacific has a healthcare access problem. But tech can get it back on track The World Economic Forum",
+    "image_url": null,
     "tags": [],
     "industries": [
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 7
+    "relevance_score": 8
   },
   {
-    "id": "a9581b602c68",
-    "title": "HCA bolsters workforce pipeline with healthcare professional college acquisition",
-    "url": "https://www.fiercehealthcare.com/providers/hca-bolsters-workforce-pipeline-healthcare-professional-college-acquisition",
-    "source": "Fierce Healthcare",
+    "id": "d078ce109803",
+    "title": "Digital Health Coffee Time Briefing ☕ - Home | Digital Health",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQTXZpWEE4Y1lrN2l6aE1jZXFKNTMyUEJHNm0wS2lBUW95ZzRFV0pRVENIZHpfeGl1YWV3dFYwc0JVYk8zSzdhSE5wYlNUU1p4YmJTdXEtTG1CUmhXLWxLQ0hxWk9NNFdLNlpRemlhR1R5NHFieFA0OVBRWlBVRTQ3d0toNlNxZkxqMTlsY2pjLXlqUQ?oc=5",
+    "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-05-28T13:26:00+00:00",
-    "summary": "Under the country's largest hospital chain, The College of Health Care Professions will be able to expand its offering of accredited programs and place its students in new clinical and externship positions across HCA.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1401954728.jpg?VersionId=k9Hsso2m85VdnvIK99BV0o801_udOlVp",
+    "published": "2026-06-02T10:37:57+00:00",
+    "summary": "Digital Health Coffee Time Briefing ☕ Home | Digital Health",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "industrial",
-      "lifesciences",
-      "financial"
+      "lifesciences"
     ],
-    "relevance_score": 7
+    "relevance_score": 8
   },
   {
     "id": "c524bc30828e",
@@ -534,32 +519,17 @@
     "relevance_score": 7
   },
   {
-    "id": "e84f6206025d",
-    "title": "In Trump’s Physical Report, Doctors See Gaps in Details - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNNXlHbS1QUW9jWFZoY3V4bXdPU2ZKaDRaSVZOZnhUQXZzZlVxUmR0ck1UWXo1cFYxQkdKTGpUaWNiSDZfV2thMlhheFF2bnlKQlFrOFo2ekV5VjRnWVBuTVlRZFJlc2dzc3JIcC0zLTZpSVlzQlI1V3M0V1BMM3NMUzUzUlhJdE9abG42a1FpX2R6bjJvcmc?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-05-31T23:20:00+00:00",
-    "summary": "In Trump’s Physical Report, Doctors See Gaps in Details WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "c67a21dea503",
-    "title": "South Carolina fund to support rural health tech startups - Health Tech World",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRzAtc1prVzNLT3ItVFZRNk1nb1dUdVhYcEZ0cWo1S3VKeTlXRU5oeUJTZVRvMGN2U2VQNEFuOWFBRkNlN1JyU18yVUk1ZkNCdDZWcUdsYzFRemJLMnhWR3lPaW5xTE5WWmY4VWdvYnI5YWE5bzVxNGZpdVpwZG1TY0JITzUydWJHUDBuSXBLUURWVnFoX1lVY3B5Y2hXUDV1S280aDNsQTA2bDJDTUItQQ?oc=5",
+    "id": "dff5a0fc5710",
+    "title": "Enzo Health launches agentic EHR for home health agencies - Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNckpqeDM0d3htZkRtZmctRVZoa2xlRHZKWHBjdGVMR1l5NE1CeF9kMmpQWUxYWGltOFVLVFJRbHFkSHFkaFpVdHNITTN0VThfUzk4RFM4R0J2eDkyZzY0X0YtTXlXS0xUTnpVR0h3RlhJRnJER21vdklWb1lOcUlSM1lFWnBWMG85UGd4UlhfWDBjaXJqRzVkUmItTWw4M21kaVZpVHlNVEpLTWRpWUJ6QUhYZnJIMG52MVgwb2JtRGxlSkdmY1dQcg?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-06-01T16:12:55+00:00",
-    "summary": "South Carolina fund to support rural health tech startups Health Tech World",
+    "published": "2026-06-01T12:00:00+00:00",
+    "summary": "Enzo Health launches agentic EHR for home health agencies Fierce Healthcare",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 7
@@ -582,32 +552,33 @@
     "relevance_score": 6
   },
   {
-    "id": "98beaedd5669",
-    "title": "UNITE initiative reveals first digital health winners - Health Tech World",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQcnJLbkVxOGtOQ2JBdUxhY1NfQ05xeGZFWm1FRXpUUmRzWnZtNVo3OW1kVUJHYUlNbWc5amk0X0tnby1LbWhlX2VHMzdhTUxqNTNjMFJYNEdKajRBVUZZb3Y1UWNKcGpIYU53cWZncGNKUGpLei0xWGJzWTRLb3E0aVpLYVNxRzI3VmRyRXBJZ2d2UUo5cTAzVnFHVkFhTXd5T3pwaGZEZV83UQ?oc=5",
+    "id": "c67a21dea503",
+    "title": "South Carolina fund to support rural health tech startups - Health Tech World",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRzAtc1prVzNLT3ItVFZRNk1nb1dUdVhYcEZ0cWo1S3VKeTlXRU5oeUJTZVRvMGN2U2VQNEFuOWFBRkNlN1JyU18yVUk1ZkNCdDZWcUdsYzFRemJLMnhWR3lPaW5xTE5WWmY4VWdvYnI5YWE5bzVxNGZpdVpwZG1TY0JITzUydWJHUDBuSXBLUURWVnFoX1lVY3B5Y2hXUDV1S280aDNsQTA2bDJDTUItQQ?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-06-01T08:03:47+00:00",
-    "summary": "UNITE initiative reveals first digital health winners Health Tech World",
+    "published": "2026-06-01T16:12:55+00:00",
+    "summary": "South Carolina fund to support rural health tech startups Health Tech World",
     "image_url": null,
     "tags": [],
     "industries": [
+      "tech",
       "lifesciences"
     ],
     "relevance_score": 6
   },
   {
-    "id": "2d32489d8dbe",
-    "title": "FDA Approves Hepcludex | PharmExec - Pharmaceutical Executive",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBtOENsdGl2WWVMWVAydXNOUW1lcGpjTTJiRWo0U2xzUGZpRm9TTUNwd254QzBKZkxFMlBFbjlneWdPSnN1YTlxWnBYNFZjcVgxVEFqaW1ESVdKQkw4QzEwb2o3T0lFM3c4NG5F?oc=5",
+    "id": "8f572849028d",
+    "title": "FDA delays ruling on AstraZeneca drug after negative adcomm vote - Fierce Biotech",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOZmZGbTg0OGFKQTNTc2xfRjRnQnhVQWd4Q1lWblRNUEV3SHk0ME9WajVWVjcteWRUZTZlbC10T1BiR1dKMmpUNGVuZXZHdEgtUkxKeWVRVmV0LUd6b3dTd01jbm1tMmlPVFZNcTdJNnRmdVdjTnhXMDQ3SmdHZW9QWG40Ynl6Z2Nmb2N4VXBlMFEwcDdjRkxhc0hQWExaVE9tS29EbmF2U0hiYzRKY2hMTzFGako?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-05-26T19:28:19+00:00",
-    "summary": "FDA Approves Hepcludex | PharmExec Pharmaceutical Executive",
+    "published": "2026-05-27T08:43:33+00:00",
+    "summary": "FDA delays ruling on AstraZeneca drug after negative adcomm vote Fierce Biotech",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 5
@@ -632,12 +603,12 @@
   },
   {
     "id": "0aeae00c3b03",
-    "title": "FDA Approves Xocova | PharmExec - Pharmaceutical Executive",
+    "title": "FDA Approves Xocova | PharmExec - PharmExec.com",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9feTQxcy02Q1hob19rVmh6T0tsUTgyN3YzanBrdGlwYUx5MENOYUx1UXVjLWd4U2h0WTZEVkt2cGVRay1XWWkwTkJ4UERNb0pwcGh2OXk2VG1IaW01UEdiQlp5QUlwVVU?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
     "published": "2026-06-01T07:00:00+00:00",
-    "summary": "FDA Approves Xocova | PharmExec Pharmaceutical Executive",
+    "summary": "FDA Approves Xocova | PharmExec PharmExec.com",
     "image_url": null,
     "tags": [],
     "industries": [
