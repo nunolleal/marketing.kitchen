@@ -34,22 +34,6 @@
     "relevance_score": 61
   },
   {
-    "id": "d21e9301c5cc",
-    "title": "Industry Insider: 5 Martech Trends to Watch This Summer",
-    "url": "https://www.salesforce.com/blog/martech-trends/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-01T19:02:19+00:00",
-    "summary": "Shifts in data strategy, AI adoption and platform consolidation are reshaping how brands act on customer data in the moment. Here's what you can do about it.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/AdobeStock_1205788921.jpg",
-    "tags": [],
-    "industries": [
-      "tech",
-      "consumer"
-    ],
-    "relevance_score": 60
-  },
-  {
     "id": "de41b5b6188b",
     "title": "McKinsey frames AI 2.0; Positionless Marketing delivers it by Optimove",
     "url": "https://martech.org/mckinsey-frames-ai-2-0-positionless-marketing-delivers-it/",
@@ -68,26 +52,18 @@
     "relevance_score": 59
   },
   {
-    "id": "f9a8160d6f49",
-    "title": "This New Tool Cuts Out Identity Providers By Linking Trade Desk Data With Brands’ First-Party IDs",
-    "url": "https://www.adweek.com/media/this-new-tool-cuts-out-identity-providers-by-linking-trade-desk-data-with-brands-first-party-ids/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-06-01T10:14:33+00:00",
-    "summary": "A solution built by agentic marketing startup Hightouch seeks to cut out identity intermediaries, allowing advertisers to directly match The Trade Desk exposure data logs with their own first-party datasets.",
-    "image_url": null,
-    "tags": [
-      "Ad Tech Industry News",
-      "AI News",
-      "Artificial Intelligence",
-      "Data",
-      "Data &amp; Insights"
-    ],
+    "id": "d21e9301c5cc",
+    "title": "Industry Insider: 5 Martech Trends to Watch This Summer",
+    "url": "https://www.salesforce.com/blog/martech-trends/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-01T19:02:19+00:00",
+    "summary": "Shifts in data strategy, AI adoption and platform consolidation are reshaping how brands act on customer data in the moment. Here's what you can do about it.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/AdobeStock_1205788921.jpg",
+    "tags": [],
     "industries": [
-      "media",
       "tech",
-      "consumer",
-      "industrial"
+      "consumer"
     ],
     "relevance_score": 57
   },
@@ -149,24 +125,28 @@
     "relevance_score": 55
   },
   {
-    "id": "86fe54408df3",
-    "title": "Agentforce needed a content layer, so Salesforce is buying Contentful",
-    "url": "https://martech.org/agentforce-needed-a-content-layer-so-salesforce-is-buying-contentful/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-06-01T15:31:12+00:00",
-    "summary": "Salesforce wants enterprises to drop static, channel-specific content in favor of 1:1 experiences at scale. So it went shopping. The post Agentforce needed a content layer, so Salesforce is buying Contentful appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2025/09/cash-hands-800x450.png",
+    "id": "f9a8160d6f49",
+    "title": "This New Tool Cuts Out Identity Providers By Linking Trade Desk Data With Brands’ First-Party IDs",
+    "url": "https://www.adweek.com/media/this-new-tool-cuts-out-identity-providers-by-linking-trade-desk-data-with-brands-first-party-ids/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-06-01T10:14:33+00:00",
+    "summary": "A solution built by agentic marketing startup Hightouch seeks to cut out identity intermediaries, allowing advertisers to directly match The Trade Desk exposure data logs with their own first-party datasets.",
+    "image_url": null,
     "tags": [
-      "Marketing technology",
-      "Salesforce"
+      "Ad Tech Industry News",
+      "AI News",
+      "Artificial Intelligence",
+      "Data",
+      "Data &amp; Insights"
     ],
     "industries": [
+      "media",
       "tech",
-      "retail",
+      "consumer",
       "industrial"
     ],
-    "relevance_score": 55
+    "relevance_score": 54
   },
   {
     "id": "221ac8e97731",
@@ -185,6 +165,26 @@
       "tech"
     ],
     "relevance_score": 54
+  },
+  {
+    "id": "86fe54408df3",
+    "title": "Agentforce needed a content layer, so Salesforce is buying Contentful",
+    "url": "https://martech.org/agentforce-needed-a-content-layer-so-salesforce-is-buying-contentful/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-06-01T15:31:12+00:00",
+    "summary": "Salesforce wants enterprises to drop static, channel-specific content in favor of 1:1 experiences at scale. So it went shopping. The post Agentforce needed a content layer, so Salesforce is buying Contentful appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2025/09/cash-hands-800x450.png",
+    "tags": [
+      "Marketing technology",
+      "Salesforce"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 52
   },
   {
     "id": "c988336cfd82",
@@ -206,23 +206,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 50
-  },
-  {
-    "id": "9fc0e4a3109b",
-    "title": "Pink hires chief merchandising officer",
-    "url": "https://www.retaildive.com/news/pink-hires-chief-merchandising-officer/821580/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-01T16:03:00+00:00",
-    "summary": "Victoria’s Secret & Co. tapped a longtime Anthropologie executive for the new role, which comes as CEO Hillary Super has recommitted to the subbrand.",
-    "image_url": "https://imgproxy.divecdn.com/PzSfyuUxeO3ttViWeqVzuGsF2fkds3jvfzxcWvoCPB0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81MDBfQnJvYWR3YXlfUElOS19TdHJlZXRfdmlldy5qcGc=.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "consumer"
-    ],
-    "relevance_score": 48
+    "relevance_score": 47
   },
   {
     "id": "57c3f420fff9",
@@ -241,6 +225,22 @@
       "industrial"
     ],
     "relevance_score": 46
+  },
+  {
+    "id": "9fc0e4a3109b",
+    "title": "Pink hires chief merchandising officer",
+    "url": "https://www.retaildive.com/news/pink-hires-chief-merchandising-officer/821580/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-06-01T16:03:00+00:00",
+    "summary": "Victoria’s Secret & Co. tapped a longtime Anthropologie executive for the new role, which comes as CEO Hillary Super has recommitted to the subbrand.",
+    "image_url": "https://imgproxy.divecdn.com/PzSfyuUxeO3ttViWeqVzuGsF2fkds3jvfzxcWvoCPB0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81MDBfQnJvYWR3YXlfUElOS19TdHJlZXRfdmlldy5qcGc=.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 45
   },
   {
     "id": "7881b318fa41",
@@ -374,94 +374,6 @@
     "relevance_score": 20
   },
   {
-    "id": "9645576184ba",
-    "title": "The Trade Desk Appoints Nate Olmstead CFO After a Year of Executive Turnover",
-    "url": "https://www.adweek.com/media/the-trade-desk-appoints-nate-olmstead-cfo-after-a-year-of-executive-turnover/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-06-01T17:41:53+00:00",
-    "summary": "Olmstead will join the company on July 9 and report to CEO Jeff Green.",
-    "image_url": null,
-    "tags": [
-      "Ad Tech Industry News",
-      "Advertising News",
-      "AI News",
-      "General",
-      "Leadership &amp; Talent"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 18
-  },
-  {
-    "id": "fb5ac4233034",
-    "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
-    "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-06-01T20:02:31+00:00",
-    "summary": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac. In the Windows world, performance...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&amp;strip=all&amp;crop=0%2C9.3778095086996%2C100%2C81.244380982601&amp;w=1200",
-    "tags": [
-      "AI",
-      "Analysis",
-      "Asus",
-      "Computex",
-      "Dell"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 18
-  },
-  {
-    "id": "9c753e24f6c7",
-    "title": "The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands",
-    "url": "https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-06-01T20:59:14+00:00",
-    "summary": "We may just have gotten an early look at the Google Pixel Watch 5 - and from an unusual source. Randy Pitchford, the creator of the Borderlands game franchise, posted a pair of images of a watch on X, saying that his friend found it underwater while scuba diving near Saint...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/randy-pitchford-google-watch.jpg?quality=90&amp;strip=all&amp;crop=0,16.342557965595,100,67.314884068811",
-    "tags": [
-      "Entertainment",
-      "Gadgets",
-      "Gaming",
-      "Google",
-      "Google Pixel"
-    ],
-    "industries": [
-      "media",
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 18
-  },
-  {
-    "id": "df2346786028",
-    "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
-    "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-06-01T21:35:00+00:00",
-    "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761886.jpg?resize=1200,828",
-    "tags": [
-      "AI",
-      "Hardware",
-      "TC",
-      "AI PC",
-      "cpus"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 18
-  },
-  {
     "id": "e51e856596ed",
     "title": "Anthropic Files for IPO as AI Race Hits Public Markets",
     "url": "https://www.adweek.com/media/anthropic-files-for-ipo-as-ai-race-hits-public-markets/",
@@ -487,6 +399,110 @@
     ]
   },
   {
+    "id": "9645576184ba",
+    "title": "The Trade Desk Appoints Nate Olmstead CFO After a Year of Executive Turnover",
+    "url": "https://www.adweek.com/media/the-trade-desk-appoints-nate-olmstead-cfo-after-a-year-of-executive-turnover/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-06-01T17:41:53+00:00",
+    "summary": "Olmstead will join the company on July 9 and report to CEO Jeff Green.",
+    "image_url": null,
+    "tags": [
+      "Ad Tech Industry News",
+      "Advertising News",
+      "AI News",
+      "General",
+      "Leadership &amp; Talent"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "fb5ac4233034",
+    "title": "This could be Windows’ M1 moment — but expect it to cost a ton",
+    "url": "https://www.theverge.com/tech/941215/windows-laptops-nvidia-rtx-spark-apple-m1-arm-price-ram",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-06-01T20:02:31+00:00",
+    "summary": "Nvidia's announcement that it's getting into the consumer laptop chip space with RTX Spark is huge. Apple has proved for years that Arm-based chips can perform incredibly well while also delivering great battery life - at least on the Mac. In the Windows world, performance...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/Screenshot_20260531_212701.png?quality=90&amp;strip=all&amp;crop=0%2C9.3778095086996%2C100%2C81.244380982601&amp;w=1200",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Asus",
+      "Computex",
+      "Dell"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "9c753e24f6c7",
+    "title": "The Google Pixel Watch 5 may have been spoiled by… the creator of Borderlands",
+    "url": "https://www.theverge.com/tech/941293/google-pixel-watch-5-randy-pitchford-borderlands",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-06-01T20:59:14+00:00",
+    "summary": "We may just have gotten an early look at the Google Pixel Watch 5 - and from an unusual source. Randy Pitchford, the creator of the Borderlands game franchise, posted a pair of images of a watch on X, saying that his friend found it underwater while scuba diving near Saint...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/randy-pitchford-google-watch.jpg?quality=90&amp;strip=all&amp;crop=0,16.342557965595,100,67.314884068811",
+    "tags": [
+      "Entertainment",
+      "Gadgets",
+      "Gaming",
+      "Google",
+      "Google Pixel"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "df2346786028",
+    "title": "Nvidia chases $200B CPU market with AI agent PCs from Microsoft, Dell, and HP",
+    "url": "https://techcrunch.com/2026/06/01/nvidia-chases-200b-cpu-market-with-ai-agent-pcs-from-microsoft-dell-and-hp/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-06-01T21:35:00+00:00",
+    "summary": "If Nvidia has cracked a way to bring AI agents easily, safely, and usefully to the masses, it could — and should — be big.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/GettyImages-2205761886.jpg?resize=1200,828",
+    "tags": [
+      "AI",
+      "Hardware",
+      "TC",
+      "AI PC",
+      "cpus"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "6420b4506d9a",
+    "title": "Monday.com’s Branding Strategy That Stood Out in a Crowded SaaS Market - KTPL Blog",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbm5GMEcwa21heEdIOE1zQWlSN0g1TEJmbVJFeEVVYUtkOXpNX1JscVRSNFhab3lRN2ctYnh0aGxuR3FtMmg2b2NNVnNuSUtwV2IyZkZmek1PSkROUjlqUVdHSG5wN2RhQWRKTUcxVFBVWGNvSWlvdEp2cDZVdGRsckZGd09FUHdnNnAtd2J3aUlTNjUxV3R2MmFfd05ibUJubU0xZ2Y0bmd2XzA?oc=5",
+    "source": "Tech Marketing",
+    "source_category": "industry_tech",
+    "published": "2026-05-29T07:30:00+00:00",
+    "summary": "Monday.com’s Branding Strategy That Stood Out in a Crowded SaaS Market KTPL Blog",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 16
+  },
+  {
     "id": "193465575213",
     "title": "An affordable, long-lasting AirTag alternative is $15 right now",
     "url": "https://www.theverge.com/gadgets/940830/find-my-bluetooth-tracker-bose-qc-ultra-google-pixel-buds-deal-sale",
@@ -503,7 +519,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "24835f1eb7df",
@@ -525,23 +541,44 @@
       "media",
       "tech"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
-    "id": "6420b4506d9a",
-    "title": "Monday.com’s Branding Strategy That Stood Out in a Crowded SaaS Market - KTPL Blog",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPbm5GMEcwa21heEdIOE1zQWlSN0g1TEJmbVJFeEVVYUtkOXpNX1JscVRSNFhab3lRN2ctYnh0aGxuR3FtMmg2b2NNVnNuSUtwV2IyZkZmek1PSkROUjlqUVdHSG5wN2RhQWRKTUcxVFBVWGNvSWlvdEp2cDZVdGRsckZGd09FUHdnNnAtd2J3aUlTNjUxV3R2MmFfd05ibUJubU0xZ2Y0bmd2XzA?oc=5",
-    "source": "Tech Marketing",
-    "source_category": "industry_tech",
-    "published": "2026-05-29T07:30:00+00:00",
-    "summary": "Monday.com’s Branding Strategy That Stood Out in a Crowded SaaS Market KTPL Blog",
+    "id": "dbbbe72341ae",
+    "title": "The Messy Series Finale Of ‘Euphoria,’ Explained",
+    "url": "https://www.forbes.com/sites/danidiplacido/2026/06/01/the-messy-series-finale-of-euphoria-explained/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-02T01:13:46+00:00",
+    "summary": "The ‘Euphoria’ series finale delivers a sad end to the story of Rue’s (Zendaya) addiction—here's why it happened the way it did.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a1e2d5b9f734be4f2e0b1ff/0x0.jpg?width=960",
+    "tags": [
+      "Arts",
+      "/arts",
+      "Lifestyle",
+      "/lifestyle",
+      "Arts"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "3ea1442fc491",
+    "title": "Salesforce Returns to Growth Focus as Agentforce Propels Q1 - Cloud Wars",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3pEbk5sdE9KclIxSnQ1TGlyaXBzSTEwUHh3d0V5UXBaVm5sZkQ3MWtlQTlEMmVTUGhGYnRPb2ZZVllhMG1PQTluYXlNbVhoNUZuaG04cWNtTE05VXdWcnZVcUxRSnlySUQwVDBlSXlVM2tER2JvOFpQY0xZb0V1aXlQTnljemZSb2JhMloyWDAtZm5GbXZkSzgzZFRma1hlQUE?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-06-01T11:30:00+00:00",
+    "summary": "Salesforce Returns to Growth Focus as Agentforce Propels Q1 Cloud Wars",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "consumer"
+      "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "6f49889ef39e",
@@ -557,7 +594,7 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "bc2d9d2cbbd7",
@@ -575,7 +612,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "11226d25cc74",
@@ -593,7 +630,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "829675104e5c",
@@ -613,82 +650,6 @@
     ],
     "industries": [
       "tech"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "8851edba93d2",
-    "title": "Noom launches at-home biomarker test kit for metabolic health monitoring",
-    "url": "https://www.fiercehealthcare.com/health-tech/noom-launches-home-biomarker-test-kit-metabolic-health-monitoring",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-01T07:40:00+00:00",
-    "summary": "Weight loss company Noom is offering an at-home biomarker testing kit for its U.S. members, expanding its platform into diagnostics and metabolic health monitoring.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/talent-with-tasso-device-resized-to-medium.jpeg?VersionId=D3SsA7doGEiR8rMaxnfHaQKQ6qZSC4Wp",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15,
-    "also_covered_by": [
-      "Health Tech"
-    ]
-  },
-  {
-    "id": "f3f608b6ed6e",
-    "title": "Salesforce Q1: 10 Key Numbers Prove Huge Agentforce Momentum - Cloud Wars",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPMTRuN2RBSjFoNGxXTlNPT05CVVpiQkZpV21GZnI1UTBBQmxGbE92NURWYUVmMjd3dkxjYmw4dDJJaWJqN3ZmcjRCRU1lSWxsVEs3aGJYOTYySWRfR1RfWXQ4TWZqeWxXWWhwUUZBdDY4Tm9rZFlRUUpYOWFaaHFuMF9abjlhaHN6NGFKRGhR?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-01T15:00:00+00:00",
-    "summary": "Salesforce Q1: 10 Key Numbers Prove Huge Agentforce Momentum Cloud Wars",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "e2d3b37c3e39",
-    "title": "This AI weather startup is out-forecasting government agencies",
-    "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-06-01T16:00:00+00:00",
-    "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from...",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
-    "tags": [
-      "AI",
-      "Exclusive",
-      "Windborne Systems"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "e39156b3f3a8",
-    "title": "BTS Holds On To Its Album Record, Despite Competition From A Hip-Hop Star",
-    "url": "https://www.forbes.com/sites/hughmcintyre/2026/06/01/bts-holds-on-to-its-album-record-despite-competition-from-a-hip-hop-star/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-01T18:30:07+00:00",
-    "summary": "Drake's Iceman scores a huge debut on the Billboard 200, but even the biggest rapper in the world couldn't topple BTS's 2026 record with Arirang.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69d6647206eb4f0884b0d436/0x0.jpg?width=960&precrop=3000%2C1687%2Cx0%2Cy150",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
     ],
     "relevance_score": 15
   },
@@ -733,27 +694,68 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 14,
+    "also_covered_by": [
+      "Telecom 5G"
+    ]
   },
   {
-    "id": "18c5ad3db2bd",
-    "title": "Everyone Has Their Targets Set on the MacBook Neo",
-    "url": "https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/",
-    "source": "Wired",
+    "id": "8851edba93d2",
+    "title": "Noom launches at-home biomarker test kit for metabolic health monitoring",
+    "url": "https://www.fiercehealthcare.com/health-tech/noom-launches-home-biomarker-test-kit-metabolic-health-monitoring",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-01T07:40:00+00:00",
+    "summary": "Weight loss company Noom is offering an at-home biomarker testing kit for its U.S. members, expanding its platform into diagnostics and metabolic health monitoring.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/talent-with-tasso-device-resized-to-medium.jpeg?VersionId=D3SsA7doGEiR8rMaxnfHaQKQ6qZSC4Wp",
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 14,
+    "also_covered_by": [
+      "Health Tech"
+    ]
+  },
+  {
+    "id": "e2d3b37c3e39",
+    "title": "This AI weather startup is out-forecasting government agencies",
+    "url": "https://techcrunch.com/2026/06/01/this-ai-weather-startup-is-out-forecasting-government-agencies/",
+    "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-05-31T23:00:00+00:00",
-    "summary": "Dell, Microsoft, and others are unveiling new laptops to compete directly with the Neo, but not all are learning the right lessons from Apple.",
-    "image_url": "https://media.wired.com/photos/6a187b03ed6e2578ab7573b3/master/pass/Microsoft%20Is%20Learning%20the%20Wrong%20Lessons%20From%20Apple%20top%20art%20(2)%20052026%20SOURCE%20Microsoft.jpg",
+    "published": "2026-06-01T16:00:00+00:00",
+    "summary": "WindBorne benefits from its unique combination of model-building and data collection. The company now has about 400 balloons in flight gathering sensor readings at any given time, launched from 15 sites around the globe. The advances in its current model come from...",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Pic-8.jpg?resize=1200,675",
     "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Computers",
-      "laptop",
-      "laptops"
+      "AI",
+      "Exclusive",
+      "Windborne Systems"
     ],
     "industries": [
       "tech",
-      "retail",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "66d0f0e09493",
+    "title": "How Paul McCartney Promoted A New Album Without Relying On Traditional Media",
+    "url": "https://www.forbes.com/sites/andymeek/2026/06/01/how-paul-mccartney-promoted-a-new-album-without-relying-on-traditional-media/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-01T21:47:37+00:00",
+    "summary": "Paul McCartney’s promotional blitz for \"The Boys of Dungeon Lane\" underscores how creators, platforms, and direct audience access are reshaping the media landscape.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a1df9a50660af085d066f00/0x0.jpg",
+    "tags": [
+      "Media",
+      "/media",
+      "Business",
+      "/business",
+      "Media"
+    ],
+    "industries": [
+      "media",
+      "tech",
       "industrial"
     ],
     "relevance_score": 14
@@ -776,17 +778,17 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
-    "id": "80194a9c7756",
-    "title": "BTS Is Finally Releasing A Deluxe-Only Song On Streaming",
-    "url": "https://www.forbes.com/sites/hannahabraham/2026/06/01/bts-is-finally-releasing-a-deluxe-only-song-on-streaming/",
+    "id": "e39156b3f3a8",
+    "title": "BTS Holds On To Its Album Record, Despite Competition From A Hip-Hop Star",
+    "url": "https://www.forbes.com/sites/hughmcintyre/2026/06/01/bts-holds-on-to-its-album-record-despite-competition-from-a-hip-hop-star/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-06-01T16:15:22+00:00",
-    "summary": "Two months after BTS left ARMY with no choice but to frantically seek out vinyl turntables, the group has confirmed that a fan favorite is coming to streaming platforms.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69ccd2fde3d714fb34569b0e/0x0.jpg",
+    "published": "2026-06-01T18:30:07+00:00",
+    "summary": "Drake's Iceman scores a huge debut on the Billboard 200, but even the biggest rapper in the world couldn't topple BTS's 2026 record with Arirang.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69d6647206eb4f0884b0d436/0x0.jpg?width=960&precrop=3000%2C1687%2Cx0%2Cy150",
     "tags": [
       "Hollywood & Entertainment",
       "/hollywood-entertainment",
@@ -795,24 +797,24 @@
       "Hollywood & Entertainment"
     ],
     "industries": [
-      "media",
-      "tech"
+      "tech",
+      "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
-    "id": "e639d36ba689",
-    "title": "FDA Approves Xocova as First Oral Post-Exposure Covid-19 Prevention Therapy - Pharmaceutical Executive",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNNzZSXzJkWGF0Vl9RUnpfRWRFM3lUeXlJbUkyeXF5eFU1ZGpqa2VubXQ5b0lDQXZkOWZnQWxFR3F6VVlhM1hBSm5LcGZ4bzlJQU9iOUNnTzdIR0lkNnFvVi01eFEwV2Y4dFdPQkF3Uk5yNlBzOVFpX2cwSFNCaWoyYzdvNE1UbkptNUJiSGhlRm96RnUxeEktZktOTQ?oc=5",
+    "id": "510c340a619e",
+    "title": "Atebimetinib Plus Modified Gemcitabine/Nab-Paclitaxel Shows Encouraging Efficacy, Tolerability in First-Line Metastatic PDAC - OncLive",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNblBkWUROdnY0YU1EWGJCUUtMR3JidzZyS3FadHhsRUxiZUR0T05MOUNSQTJEblVNZ2JqWUx0Vmhpbkd3NDlfSERONmpST1RIVHRqWGdYMjd0cGFUaFBsSk5UMlQxNEpKQjluZFVDX29CU0xZZ2dOakdzRWhzUDk4ZHY4NG5JY1RzWkJxaGQyd0Q0bHViU1RlLVJiWWRTcE9jaFNkQ19RR1lIYl9oYzJVTHVnX3pWNHFrOUk0bEtYVDFrYXFFRkdScjJJWkJGenZYSzc2RjhSNzJvU01NLVlsT3U5QUxNbWM?oc=5",
     "source": "Adobe",
     "source_category": "adobe",
-    "published": "2026-06-01T14:33:46+00:00",
-    "summary": "FDA Approves Xocova as First Oral Post-Exposure Covid-19 Prevention Therapy Pharmaceutical Executive",
+    "published": "2026-06-01T23:41:44+00:00",
+    "summary": "Atebimetinib Plus Modified Gemcitabine/Nab-Paclitaxel Shows Encouraging Efficacy, Tolerability in First-Line Metastatic PDAC OncLive",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "lifesciences"
+      "industrial"
     ],
     "relevance_score": 13
   },
@@ -884,6 +886,29 @@
     ]
   },
   {
+    "id": "18c5ad3db2bd",
+    "title": "Everyone Has Their Targets Set on the MacBook Neo",
+    "url": "https://www.wired.com/story/everyone-has-their-targets-set-on-the-macbook-neo/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-05-31T23:00:00+00:00",
+    "summary": "Dell, Microsoft, and others are unveiling new laptops to compete directly with the Neo, but not all are learning the right lessons from Apple.",
+    "image_url": "https://media.wired.com/photos/6a187b03ed6e2578ab7573b3/master/pass/Microsoft%20Is%20Learning%20the%20Wrong%20Lessons%20From%20Apple%20top%20art%20(2)%20052026%20SOURCE%20Microsoft.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Computers",
+      "laptop",
+      "laptops"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
     "id": "1e42cdfdbc0d",
     "title": "The Download: China’s brain implant ambitions",
     "url": "https://www.technologyreview.com/2026/06/01/1138207/the-download-china-bci-brain-implant-nvidia-ai-chips-laptops/",
@@ -913,37 +938,6 @@
     "industries": [
       "tech",
       "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "0cf84e9aa9d3",
-    "title": "From pilots to platforms: The next chapter of AI in retail operations",
-    "url": "https://www.retaildive.com/spons/from-pilots-to-platforms-the-next-chapter-of-ai-in-retail-operations/820687/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-01T09:00:00+00:00",
-    "summary": "The path toward better serving customers starts with store operations.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "f09dc789d94c",
-    "title": "Berlin-founded Contentful snapped up by Salesforce - Tech.eu",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWHZqaFkyaS1KeHBNa2RGRy01WFlkRGlyWE5UQXpIT3NRNk9fWllMTEdrUUVPMno1SkViaklEemRUWWZUNjEzZFRRcnJkc0lIRzFIcUJkeklKRU5OcXloV2FsRWZPbXJFRldkUEMySEk3cUFaNXRYMHY5QW9DSm5ydWFB?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-01T15:45:43+00:00",
-    "summary": "Berlin-founded Contentful snapped up by Salesforce Tech.eu",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 11
   },
@@ -1019,27 +1013,6 @@
     "relevance_score": 10
   },
   {
-    "id": "808100862796",
-    "title": "Today is the last day to apply to speak at TechCrunch Disrupt 2026",
-    "url": "https://techcrunch.com/2026/05/29/today-is-the-last-day-to-apply-to-speak-at-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-05-29T14:15:00+00:00",
-    "summary": "Submit your session topic before today ends for a chance to speak at TechCrunch Disrupt 2026. Apply now to share your insight and help shape the conversations defining the tech industry.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2024/05/breakout_1200x600_a9107e.png?w=1200",
-    "tags": [
-      "AI",
-      "Apps",
-      "Biotech & Health",
-      "Climate",
-      "Crypto"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "5c6fb3f249ae",
     "title": "Meta is reportedly developing an AI pendant",
     "url": "https://techcrunch.com/2026/05/30/meta-is-reportedly-developing-an-ai-pendant/",
@@ -1081,19 +1054,18 @@
     "relevance_score": 10
   },
   {
-    "id": "43f316dd9ad8",
-    "title": "FDA approval puts Wockhardt’s Zaynich in $9 billion antibiotics market - The Economic Times",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORGJzTlEyTGlXYWt5ZGZMU2V5WUJtd3JYVWVDc1lsVG1WS1VFNy1oaVBkTGFUeVVFb1lqVTVlTUJwbEZ1aFczZF85eVluTi1wX1dBQlpZWkZsMHhxZC1uY1V3Y2pFTVVPeXJNYnhtUEpub2JWcVRhNTNOeU1maHlKSi1uOHczVFZnVVd3aGs0bFZHM1BkcGtLeTFqTi1BSXdPQjFSLTBtOWZGdXlaVWFuSXdwVnViOEhYQzBPS1U3MnVxU21jRjBjc0ZCS3BueVVHaW5xcnNCODREZmVfR01Vd1RWRTFMeUJ0SWdaVmJFT05QLUd4YmRVQ09B0gH_AUFVX3lxTE03LWs3THhrS0RVb001NnVOOEJZQWcyTVBRX3JlSjFsdzgyYTRVb2ZjVkp1MEFvQUozWUxEU083N3lYOUpUOWxLSk9ucHN6WXFWOVRVYy0xbHBQOEZ2OXBGRFJnOGNvU1NuQ2liblh1UUlaX0lFczNNODZDZ2RCNEtXUWZhR3h0czF1ZU1YbWQ4YzI4VThHaDBfeU91Qnk0LUk2TU1PaDI0UmZNZFhrYVVPUmt1RHllV1FjOUxibFBpdW9tUS1ZTU5xc1FqcjdyM3kzci1aN3h6N25oSjR4TVZxS1R2Z0FadWlNSjFxT0wyOUNSMVZQTE1iQ1hZTlNzNA?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-31T23:31:00+00:00",
-    "summary": "FDA approval puts Wockhardt’s Zaynich in $9 billion antibiotics market The Economic Times",
+    "id": "0cf84e9aa9d3",
+    "title": "From pilots to platforms: The next chapter of AI in retail operations",
+    "url": "https://www.retaildive.com/spons/from-pilots-to-platforms-the-next-chapter-of-ai-in-retail-operations/820687/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-06-01T09:00:00+00:00",
+    "summary": "The path toward better serving customers starts with store operations.",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "industrial",
-      "lifesciences"
+      "retail"
     ],
     "relevance_score": 10
   },
@@ -1125,6 +1097,21 @@
     "industries": [
       "tech",
       "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "f09dc789d94c",
+    "title": "Berlin-founded Contentful snapped up by Salesforce - Tech.eu",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQWHZqaFkyaS1KeHBNa2RGRy01WFlkRGlyWE5UQXpIT3NRNk9fWllMTEdrUUVPMno1SkViaklEemRUWWZUNjEzZFRRcnJkc0lIRzFIcUJkeklKRU5OcXloV2FsRWZPbXJFRldkUEMySEk3cUFaNXRYMHY5QW9DSm5ydWFB?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-06-01T16:38:14+00:00",
+    "summary": "Berlin-founded Contentful snapped up by Salesforce Tech.eu",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 10
   },
@@ -1231,6 +1218,23 @@
     "relevance_score": 9
   },
   {
+    "id": "43f316dd9ad8",
+    "title": "FDA approval puts Wockhardt’s Zaynich in $9 billion antibiotics market - The Economic Times",
+    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxORGJzTlEyTGlXYWt5ZGZMU2V5WUJtd3JYVWVDc1lsVG1WS1VFNy1oaVBkTGFUeVVFb1lqVTVlTUJwbEZ1aFczZF85eVluTi1wX1dBQlpZWkZsMHhxZC1uY1V3Y2pFTVVPeXJNYnhtUEpub2JWcVRhNTNOeU1maHlKSi1uOHczVFZnVVd3aGs0bFZHM1BkcGtLeTFqTi1BSXdPQjFSLTBtOWZGdXlaVWFuSXdwVnViOEhYQzBPS1U3MnVxU21jRjBjc0ZCS3BueVVHaW5xcnNCODREZmVfR01Vd1RWRTFMeUJ0SWdaVmJFT05QLUd4YmRVQ09B0gH_AUFVX3lxTE03LWs3THhrS0RVb001NnVOOEJZQWcyTVBRX3JlSjFsdzgyYTRVb2ZjVkp1MEFvQUozWUxEU083N3lYOUpUOWxLSk9ucHN6WXFWOVRVYy0xbHBQOEZ2OXBGRFJnOGNvU1NuQ2liblh1UUlaX0lFczNNODZDZ2RCNEtXUWZhR3h0czF1ZU1YbWQ4YzI4VThHaDBfeU91Qnk0LUk2TU1PaDI0UmZNZFhrYVVPUmt1RHllV1FjOUxibFBpdW9tUS1ZTU5xc1FqcjdyM3kzci1aN3h6N25oSjR4TVZxS1R2Z0FadWlNSjFxT0wyOUNSMVZQTE1iQ1hZTlNzNA?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-05-31T23:31:00+00:00",
+    "summary": "FDA approval puts Wockhardt’s Zaynich in $9 billion antibiotics market The Economic Times",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "4ae2232b6880",
     "title": "Are We Measuring Metabolic Health All Wrong? - MedCity News",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNeGg0VWtJbDRkRzFKS2JfZk1ZNG9qb0NTSWVLN2hOcXpiU3doSjRLZkp5R1RfM3c5RVFMMzZhV3laWkdyRHJ5Z2s2SWRsUTZvUjlIZmJFQU1WWlRzX2FpVDJ1cFVHUGgtSWN4WDd1d1NNVzRYS3pvOEI3a3BPcW5xeUtB?oc=5",
@@ -1242,22 +1246,6 @@
     "tags": [],
     "industries": [
       "tech"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "c67a21dea503",
-    "title": "South Carolina fund to support rural health tech startups - Health Tech World",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRzAtc1prVzNLT3ItVFZRNk1nb1dUdVhYcEZ0cWo1S3VKeTlXRU5oeUJTZVRvMGN2U2VQNEFuOWFBRkNlN1JyU18yVUk1ZkNCdDZWcUdsYzFRemJLMnhWR3lPaW5xTE5WWmY4VWdvYnI5YWE5bzVxNGZpdVpwZG1TY0JITzUydWJHUDBuSXBLUURWVnFoX1lVY3B5Y2hXUDV1S280aDNsQTA2bDJDTUItQQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-01T16:12:55+00:00",
-    "summary": "South Carolina fund to support rural health tech startups Health Tech World",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
     ],
     "relevance_score": 9
   },
@@ -1292,24 +1280,6 @@
     ],
     "industries": [
       "tech"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "8f7b3fc6dac7",
-    "title": "Teladoc adds virtual care services to Walmart digital health platform",
-    "url": "https://www.healthcaredive.com/news/teladoc-walmart-better-care-services/821250/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-05-28T16:56:00+00:00",
-    "summary": "Customers using Walmart’s Better Care Services can now access Teladoc’s virtual care products, including urgent care, dermatology and nutrition support.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial",
-      "lifesciences"
     ],
     "relevance_score": 8
   },
@@ -1417,52 +1387,35 @@
     "relevance_score": 8
   },
   {
-    "id": "fef754b645e3",
-    "title": "The stablecoin revolution is reshaping business payments - The Digital Banker",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVURLNkUtVTlBMHl6VHB2ZjJSQTdQYmluQjYyWWlTZHZIZnA5NG91Nll2M2x6YVBpeUloSmZDazFuTDNFN1ZPWjBjaFVaRHU2cU9YdUlvQ3NsTW5uQWFhYW1fRWp0dUdQMThXczRJUVp2VnlDcmNDa3hfelpUT0dvNndmMDQtQm9SUmp5Vm5fMA?oc=5",
+    "id": "264c6b1efe70",
+    "title": "Fintech Platform AvidXchange Enables Embedded AP Payments For Acumatica Clients - Crowdfund Insider",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNRUwyOE5BS3RjN216RjZrODJ2VmNjWXI3UWFFZk9oOXV6dTRUZkhsdnVGVFNZWUxHS291REJmQ25KajAwWGFmQVNMMW5WSWJfam40aTVkNDRJZENGYnptMndnUUtkTlZodjVRemgxTy1PR1RaMHFkRFJIRjllY2plZU5YWVZqb2R0a2Y4RFZvZzM2M3dZM0NrbEtyV1Z6SVhkRlZmREF3TGM0VF8tSVJOME1aRHk3cmwzYmVVWEwtNkl2aWZQTUxV?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-06-01T07:13:21+00:00",
-    "summary": "The stablecoin revolution is reshaping business payments The Digital Banker",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "ee3f1f28365a",
-    "title": "AstraZeneca wins FDA approval for early-stage bladder cancer therapy - medwatch.com",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oRndxMUpmRlJ3MUNpbFJVRE1WY2Y1ZTVuMXAya1pWYnVaZ01nbmF1UVJnRVUtUS1LM20xNGgzUXIzS3ZJakZoOVNjVWVXb1pueFpyZVEzbm4ybk1sYzdLNy0tWXBJejh1YWN3X2Q0MA?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-01T08:02:24+00:00",
-    "summary": "AstraZeneca wins FDA approval for early-stage bladder cancer therapy medwatch.com",
+    "published": "2026-06-01T14:44:54+00:00",
+    "summary": "Fintech Platform AvidXchange Enables Embedded AP Payments For Acumatica Clients Crowdfund Insider",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
       "industrial",
-      "lifesciences"
+      "financial"
     ],
     "relevance_score": 8
   },
   {
-    "id": "797786307387",
-    "title": "Why pharmacies must evolve into continuous digital health platforms - FinTech Global",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTmplOE5HOFJXZFFJd1BZTHJ6MG5Ua0xiOWpmR1dNTmp6YzVDbFlnS3NNWVNzajhaeE5RRDBrZXk5bHFka2dOSjNGZ2U1MFM1eXJVN29qZTdROTZnRlJCRnFpYmdvbWJ1NmI2S0YtZm1ZREstemg4MEd5dEFzMjh2WWQxbDVBQ2JqdHlRVXhkdzFJaC1MYnQzRElKc2hVTHE3c2NXeA?oc=5",
+    "id": "c67a21dea503",
+    "title": "South Carolina fund to support rural health tech startups - Health Tech World",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPRzAtc1prVzNLT3ItVFZRNk1nb1dUdVhYcEZ0cWo1S3VKeTlXRU5oeUJTZVRvMGN2U2VQNEFuOWFBRkNlN1JyU18yVUk1ZkNCdDZWcUdsYzFRemJLMnhWR3lPaW5xTE5WWmY4VWdvYnI5YWE5bzVxNGZpdVpwZG1TY0JITzUydWJHUDBuSXBLUURWVnFoX1lVY3B5Y2hXUDV1S280aDNsQTA2bDJDTUItQQ?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-06-01T09:23:48+00:00",
-    "summary": "Why pharmacies must evolve into continuous digital health platforms FinTech Global",
+    "published": "2026-06-01T16:12:55+00:00",
+    "summary": "South Carolina fund to support rural health tech startups Health Tech World",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "lifesciences",
-      "financial"
+      "lifesciences"
     ],
     "relevance_score": 8
   },
@@ -1535,35 +1488,54 @@
     "relevance_score": 7
   },
   {
-    "id": "d54f6c885d73",
-    "title": "Former Fed Chair Powell Delivers a Pointed Warning, Wrapped in Abstraction - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcjJTZWVMQmxVcU13aUNwZHJtTHdGUWRmNXNuWklaZkRmYU13TC1zNDJrczdKVW1VVXVlcV9PYWtaR25kVUdiTXZoVkhySmFPMlZnZVZVSFVkZjJfaU80Z3htakNleVZ3bjV5Zi1PbmppU1BQaVF0VTRDTzdfT0s1MC1LLWd6Z2ROTnJpTzBkODc5My1fNWRBOEhKN1c5ejRoeTZWWmU4YjdXeEVtVjg2WndxenVfT2R2aTNsXy1RVG9Qd0ln?oc=5",
-    "source": "Wall Street",
+    "id": "fef754b645e3",
+    "title": "The stablecoin revolution is reshaping business payments - The Digital Banker",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNVURLNkUtVTlBMHl6VHB2ZjJSQTdQYmluQjYyWWlTZHZIZnA5NG91Nll2M2x6YVBpeUloSmZDazFuTDNFN1ZPWjBjaFVaRHU2cU9YdUlvQ3NsTW5uQWFhYW1fRWp0dUdQMThXczRJUVp2VnlDcmNDa3hfelpUT0dvNndmMDQtQm9SUmp5Vm5fMA?oc=5",
+    "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-06-01T00:30:00+00:00",
-    "summary": "Former Fed Chair Powell Delivers a Pointed Warning, Wrapped in Abstraction WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "a65ab7d5ce3d",
-    "title": "SIL and Mauritius Telecom deepen collaboration to accelerate digital transformation - Tech Review Africa",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWZjMjA4SE44RVR2b1RyUUMtWXEzMmNiN1VZeGFxRW12ZzR4cEdlQ3RLM05CeXZ2eFRaaWFiSTlwZVBaVnM1YmxVNkFTNDlNYXRGc1RWNU1qOUFQd244NGFieGFJbjlSX1dxUlJrMHZDNlhBQUVMQzJiV09QZzdjWUdLRTk5MlphcVpnZV9kNFdpZVEyR3g4TVJrQ0VFblVjUjVQbnhpUlJZa09tTEd2dEkxZkZqV3lRWXFNRzZ6OA?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-05-30T22:29:51+00:00",
-    "summary": "SIL and Mauritius Telecom deepen collaboration to accelerate digital transformation Tech Review Africa",
+    "published": "2026-06-01T07:13:21+00:00",
+    "summary": "The stablecoin revolution is reshaping business payments The Digital Banker",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "telecom"
+      "financial"
     ],
-    "relevance_score": 6
+    "relevance_score": 7
+  },
+  {
+    "id": "ee3f1f28365a",
+    "title": "AstraZeneca wins FDA approval for early-stage bladder cancer therapy - medwatch.com",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE9oRndxMUpmRlJ3MUNpbFJVRE1WY2Y1ZTVuMXAya1pWYnVaZ01nbmF1UVJnRVUtUS1LM20xNGgzUXIzS3ZJakZoOVNjVWVXb1pueFpyZVEzbm4ybk1sYzdLNy0tWXBJejh1YWN3X2Q0MA?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-01T08:02:24+00:00",
+    "summary": "AstraZeneca wins FDA approval for early-stage bladder cancer therapy medwatch.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "797786307387",
+    "title": "Why pharmacies must evolve into continuous digital health platforms - FinTech Global",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOTmplOE5HOFJXZFFJd1BZTHJ6MG5Ua0xiOWpmR1dNTmp6YzVDbFlnS3NNWVNzajhaeE5RRDBrZXk5bHFka2dOSjNGZ2U1MFM1eXJVN29qZTdROTZnRlJCRnFpYmdvbWJ1NmI2S0YtZm1ZREstemg4MEd5dEFzMjh2WWQxbDVBQ2JqdHlRVXhkdzFJaC1MYnQzRElKc2hVTHE3c2NXeA?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-01T09:23:48+00:00",
+    "summary": "Why pharmacies must evolve into continuous digital health platforms FinTech Global",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences",
+      "financial"
+    ],
+    "relevance_score": 7
   },
   {
     "id": "2f52b376c85d",
@@ -1573,6 +1545,21 @@
     "source_category": "industry_telecom",
     "published": "2026-05-31T14:34:48+00:00",
     "summary": "At Zain Interactive Forum: Experts Call for Accelerating Digital Transformation in Sudan Sudan Horizon",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "d54f6c885d73",
+    "title": "Former Fed Chair Powell Delivers a Pointed Warning, Wrapped in Abstraction - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOcjJTZWVMQmxVcU13aUNwZHJtTHdGUWRmNXNuWklaZkRmYU13TC1zNDJrczdKVW1VVXVlcV9PYWtaR25kVUdiTXZoVkhySmFPMlZnZVZVSFVkZjJfaU80Z3htakNleVZ3bjV5Zi1PbmppU1BQaVF0VTRDTzdfT0s1MC1LLWd6Z2ROTnJpTzBkODc5My1fNWRBOEhKN1c5ejRoeTZWWmU4YjdXeEVtVjg2WndxenVfT2R2aTNsXy1RVG9Qd0ln?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-06-01T00:30:00+00:00",
+    "summary": "Former Fed Chair Powell Delivers a Pointed Warning, Wrapped in Abstraction WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1663,6 +1650,22 @@
     "industries": [
       "tech",
       "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "a65ab7d5ce3d",
+    "title": "SIL and Mauritius Telecom deepen collaboration to accelerate digital transformation - Tech Review Africa",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPYWZjMjA4SE44RVR2b1RyUUMtWXEzMmNiN1VZeGFxRW12ZzR4cEdlQ3RLM05CeXZ2eFRaaWFiSTlwZVBaVnM1YmxVNkFTNDlNYXRGc1RWNU1qOUFQd244NGFieGFJbjlSX1dxUlJrMHZDNlhBQUVMQzJiV09QZzdjWUdLRTk5MlphcVpnZV9kNFdpZVEyR3g4TVJrQ0VFblVjUjVQbnhpUlJZa09tTEd2dEkxZkZqV3lRWXFNRzZ6OA?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-05-30T22:29:51+00:00",
+    "summary": "SIL and Mauritius Telecom deepen collaboration to accelerate digital transformation Tech Review Africa",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom"
     ],
     "relevance_score": 5
   }
