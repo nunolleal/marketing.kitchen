@@ -12,7 +12,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 46
+    "relevance_score": 43
   },
   {
     "id": "86fe54408df3",
@@ -32,7 +32,10 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 42
+    "relevance_score": 42,
+    "also_covered_by": [
+      "Salesforce AI"
+    ]
   },
   {
     "id": "3be1eaa5d748",
@@ -50,7 +53,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 41
+    "relevance_score": 37
   },
   {
     "id": "c4dfe7804a7a",
@@ -70,43 +73,29 @@
       "retail",
       "financial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
-    "id": "257814d826c9",
-    "title": "‘The Legend Of Vox Machina’ Season 4 Sets A Rotten Tomatoes Record On Amazon",
-    "url": "https://www.forbes.com/sites/paultassi/2026/06/03/the-legend-of-vox-machina-season-4-sets-a-rotten-tomatoes-record-on-amazon/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-03T14:45:43+00:00",
-    "summary": "The Legend of Vox Machina is back for season 4, and it has just set a Rotten Tomatoes record on Amazon Prime Video.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a203d52f5e306a779916004/0x0.jpg",
+    "id": "2b7c0788ab02",
+    "title": "Apple is bringing age verification to Texas this week",
+    "url": "https://www.theverge.com/tech/942761/apple-texas-age-verification-app-store",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-06-03T21:49:51+00:00",
+    "summary": "Apple will introduce age verification in the App Store for users in Texas starting on Thursday, June 4th. The move, as spotted by MacRumors, comes just days after a federal appeals court allowed Texas' App Store Accountability Act to go into effect while a lawsuit against it...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25697384/STK071_APPLE_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
     "tags": [
-      "Gaming",
-      "/gaming",
-      "Innovation",
-      "/innovation",
-      "Gaming"
+      "Apple",
+      "iPhone",
+      "News",
+      "Policy",
+      "Politics"
     ],
     "industries": [
       "media",
+      "tech",
       "retail",
       "industrial"
-    ],
-    "relevance_score": 17
-  },
-  {
-    "id": "b9f7163d3d4f",
-    "title": "Costco’s personalization effort drives $500M in digital sales",
-    "url": "https://www.retaildive.com/news/costco-digital-personalization-500-million/821702/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-03T13:59:00+00:00",
-    "summary": "Personalized product recommendation carousels drive three times higher digital conversion rates than usual, CFO Gary Millerchip said.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail"
     ],
     "relevance_score": 16
   },
@@ -125,7 +114,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "473a316e3fe4",
@@ -134,7 +123,7 @@
     "source": "TechCrunch AI",
     "source_category": "ai",
     "published": "2026-06-03T15:50:26+00:00",
-    "summary": "Amazon will use visual search and AI to show AI generated product images that match your search queries. The retailer says it will help guide users to products.",
+    "summary": "Amazon will use visual search and AI to show AI-generated product images that match your search queries. The retailer says it will help guide users to products.",
     "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-03-at-11.16.52-AM.jpg?resize=1200,695",
     "tags": [
       "AI",
@@ -147,22 +136,29 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 16,
+    "relevance_score": 15,
     "also_covered_by": [
       "The Verge"
     ]
   },
   {
-    "id": "a2e9dbff5ecc",
-    "title": "Inside Belk’s latest collaboration with Sewing Down South",
-    "url": "https://www.retaildive.com/news/belk-crown-ivy-sewing-down-south-collection-pop-up-store/821677/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-03T13:43:00+00:00",
-    "summary": "The third iteration of their partnership includes an expansion into jewelry and the return of a pop-up store in Charleston, South Carolina.",
-    "image_url": "https://imgproxy.divecdn.com/iIRIEayk8AolRzPHT-jMkVZ2dooE4wmb8Vd7rG-Og4k/g:nowe:0:1/c:915:517/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDYtMDFfMjMwMDU4LnBuZw==.webp",
-    "tags": [],
+    "id": "70e7bed9c685",
+    "title": "Amazon Employees Show Up to City Council Meetings to Demand Limits on Data Centers",
+    "url": "https://www.wired.com/story/amazon-employees-publicly-demand-regulations-on-data-centers/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-06-03T18:07:11+00:00",
+    "summary": "Activists say it’s the first time Big Tech employees have publicly called for regulations governing data center projects.",
+    "image_url": "https://media.wired.com/photos/6a2061ca0365e80b88634682/master/pass/Amazon-Employees-Publicly-Demand-Regulations-on-Data-Centers-Business-2258343751.jpg",
+    "tags": [
+      "Business",
+      "Business / Big Tech",
+      "data centers",
+      "Amazon",
+      "activism"
+    ],
     "industries": [
+      "tech",
       "retail"
     ],
     "relevance_score": 15
@@ -191,26 +187,50 @@
     "relevance_score": 14
   },
   {
-    "id": "2a4e368417c1",
-    "title": "Iranian Strike On Kuwait Airport Kills One, Injures Dozens",
-    "url": "https://www.forbes.com/sites/zacharyfolk/2026/06/03/iranian-strike-on-kuwait-airport-kills-one-injures-dozens/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-03T13:07:17+00:00",
-    "summary": "Iran fired drones and ballistic missiles at targets in Kuwait and Bahrain, their governments claimed.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a2025d184ce76ec5b86d2e0/0x0.jpg?width=960&precrop=2009%2C1129%2Cx0%2Cy209",
-    "tags": [
-      "Breaking News",
-      "/news",
-      "Business",
-      "/business",
-      "Breaking News"
+    "id": "b9f7163d3d4f",
+    "title": "Costco’s personalization effort drives $500M in digital sales",
+    "url": "https://www.retaildive.com/news/costco-digital-personalization-500-million/821702/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-06-03T13:59:00+00:00",
+    "summary": "Personalized product recommendation carousels drive three times higher digital conversion rates than usual, CFO Gary Millerchip said.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail"
     ],
+    "relevance_score": 14
+  },
+  {
+    "id": "45dbcfb3ca76",
+    "title": "Downtown Dallas Neiman Marcus to close for good, after all",
+    "url": "https://www.retaildive.com/news/downtown-dallas-neiman-marcus-close-for-good-after-all/821878/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-06-03T19:35:00+00:00",
+    "summary": "Saks Global decided to close the century-old store over a year ago, but city leaders waged a war of words and won a reprieve.",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "retail",
       "industrial"
     ],
     "relevance_score": 14
+  },
+  {
+    "id": "a2e9dbff5ecc",
+    "title": "Inside Belk’s latest collaboration with Sewing Down South",
+    "url": "https://www.retaildive.com/news/belk-crown-ivy-sewing-down-south-collection-pop-up-store/821677/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-06-03T13:43:00+00:00",
+    "summary": "The third iteration of their partnership includes an expansion into jewelry and the return of a pop-up store in Charleston, South Carolina.",
+    "image_url": "https://imgproxy.divecdn.com/iIRIEayk8AolRzPHT-jMkVZ2dooE4wmb8Vd7rG-Og4k/g:nowe:0:1/c:915:517/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDYtMDFfMjMwMDU4LnBuZw==.webp",
+    "tags": [],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 13
   },
   {
     "id": "4a725aeeeccb",
@@ -226,71 +246,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "74a73505abe4",
-    "title": "How to Shop Like a Pro During Amazon Prime Day (2026)",
-    "url": "https://www.wired.com/story/amazon-prime-day-2026-tips-to-find-best-deals/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-06-02T11:02:00+00:00",
-    "summary": "Find the real deals on Amazon Prime Day this June.",
-    "image_url": "https://media.wired.com/photos/6849aaabb59845f1ca425cfc/master/pass/Prime%20Day%20Primer.png",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "Gear / How To and Advice",
-      "Shopping",
-      "Deals"
-    ],
-    "industries": [
-      "retail"
-    ],
     "relevance_score": 13
-  },
-  {
-    "id": "c0a83c14f7e0",
-    "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
-    "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-06-02T17:47:28+00:00",
-    "summary": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-621058316.jpg?resize=1200,930",
-    "tags": [
-      "AI",
-      "Privacy",
-      "Amazon",
-      "facial recognition",
-      "Ring"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "39d828a4b4e1",
-    "title": "Tariffs forced Temu to slash its U.S. ad spend on nearly every platform",
-    "url": "https://digiday.com/marketing/tariffs-forced-temu-to-slash-its-u-s-ad-spend-on-nearly-every-platform/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-06-03T04:01:00+00:00",
-    "summary": "The Chinese e-commerce giant traded upper-funnel reach for high-intent shoppers — and still grew its user base.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/05/social-jumble-digiday.jpg",
-    "tags": [
-      "Marketing"
-    ],
-    "industries": [
-      "tech",
-      "retail"
-    ],
-    "relevance_score": 13,
-    "also_covered_by": [
-      "Wall Street"
-    ]
   },
   {
     "id": "83e0908d12f3",
@@ -328,6 +284,27 @@
       "industrial"
     ],
     "relevance_score": 12
+  },
+  {
+    "id": "39d828a4b4e1",
+    "title": "Tariffs forced Temu to slash its U.S. ad spend on nearly every platform",
+    "url": "https://digiday.com/marketing/tariffs-forced-temu-to-slash-its-u-s-ad-spend-on-nearly-every-platform/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-06-03T04:01:00+00:00",
+    "summary": "The Chinese e-commerce giant traded upper-funnel reach for high-intent shoppers — and still grew its user base.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/05/social-jumble-digiday.jpg",
+    "tags": [
+      "Marketing"
+    ],
+    "industries": [
+      "tech",
+      "retail"
+    ],
+    "relevance_score": 12,
+    "also_covered_by": [
+      "Wall Street"
+    ]
   },
   {
     "id": "6f49889ef39e",
@@ -378,19 +355,26 @@
     "relevance_score": 11
   },
   {
-    "id": "c66847aff29b",
-    "title": "Amazon reveals Prime Day dates",
-    "url": "https://www.retaildive.com/news/amazon-prime-day-dates-june-2026/821713/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-02T15:29:00+00:00",
-    "summary": "The e-commerce company moved the event to June, and is encouraging shoppers to use its Alexa for Shopping AI tech.",
-    "image_url": "https://imgproxy.divecdn.com/qGfn9KSdXisBpqyo7WNJIbIhH1soTFpWI5_3CXxkr6A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDYtMDJfMTAzMjA5LnBuZw==.webp",
-    "tags": [],
-    "industries": [
-      "retail"
+    "id": "c0a83c14f7e0",
+    "title": "Amazon faces class action lawsuit over Ring facial-recognition feature",
+    "url": "https://techcrunch.com/2026/06/02/amazon-faces-class-action-lawsuit-over-ring-facial-recognition-feature/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-06-02T17:47:28+00:00",
+    "summary": "The class action lawsuit, filed in Seattle by Virginia resident Charles Sigwalt, claims that Ring's Familiar Faces feature stores images of passersby without consent.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-621058316.jpg?resize=1200,930",
+    "tags": [
+      "AI",
+      "Privacy",
+      "Amazon",
+      "facial recognition",
+      "Ring"
     ],
-    "relevance_score": 10
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 11
   },
   {
     "id": "ba6619d17dee",
@@ -398,7 +382,7 @@
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPTXhWbkxOTGxfM2l5R3NKTVpGX19xNWNzTUw1bEtxOUIzaE5HbTZzYXV0bVdvRXJoa3BfRWVodVNwUE1uTzl1SHRZVDcwQ1Iwb1RNNHFHcV9OOXM1cTlQRlFkTEQyUU5rUFBOejlvSXJRM3RNRWNNZks2VFA3YzRTQ1JuYUFvQVhaUWdrbUpLZVp3T1NXXzFOdEZjMVE?oc=5",
     "source": "Telecom",
     "source_category": "industry_telecom",
-    "published": "2026-06-03T13:17:00+00:00",
+    "published": "2026-06-03T18:37:03+00:00",
     "summary": "Strict Verizon policy leaves customers waiting longer in stores thestreet.com",
     "image_url": null,
     "tags": [],
@@ -443,26 +427,24 @@
     ],
     "relevance_score": 6,
     "also_covered_by": [
-      "Adobe Inc",
-      "Fintech"
+      "Adobe Inc"
     ]
   },
   {
-    "id": "7272ae29dfc4",
-    "title": "T-Mobile store manager accused of ripping off customers by a rep who works under her - PhoneArena",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaFlMV253ZHNaTnppNTFuOTdYa0V4R3dqZFZlLXJGRjRkdVR4T2JlRFdaM0hQVTQ4VkNWdWZraEZVZDNfVHBWVmVXclhDb3Z2MExlUmx1Z08zekpfSnFSZUh1MVJISzJqYzM3azdST0JpRkpDN01ubTIyR0hTWEhablZ2bkVjUXo2dldHMzZuOGtEUmE2ZDB6NXpzbFlRRWYxSHc?oc=5",
+    "id": "a0984467cb08",
+    "title": "Customer Says T-Mobile Wouldn’t Sell a Replacement iPhone in Store - TmoNews",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQVlVHVU5NQ2xIZzlac19ReTJ3Z2pReUdTMW1mVnhjVXU1NlhCN2RfMks3X0tZVWxfRTFwZjMyOVJ1N0g4Q01uTlpPZFdQVDdkNVBoRmNJejFNRnlQUDU0cFp5OWVkVmpRZ0RqT29vMDRpaE9sMjNnV1kyWERXTmY2YmVrMkt2YjBqaUI1ajlhQVVkdlBfal8yM3M0bC10bVHSAZ8BQVVfeXFMUFZVR1VOTUNsSGc5WnNfUXkyd2dqUXlHUzFtZlZ4Y1V1NTZYQjdkXzJLN19LWVVsX0UxcGYzMjlSdTdIOENNbk5aT2RXUFQ3ZDVQaEZjSXoxTUZ5UFA1NHBaeTllZFZqUWdEak9vbzA0aWhPbDIzZ1dZMlhEV05mNmJlazJLdmIwamlCNWo5YUFVZHZQX2pfMjNzNGwtdG1R?oc=5",
     "source": "Telecom",
     "source_category": "industry_telecom",
-    "published": "2026-06-01T19:11:58+00:00",
-    "summary": "T-Mobile store manager accused of ripping off customers by a rep who works under her PhoneArena",
+    "published": "2026-05-28T03:29:28+00:00",
+    "summary": "Customer Says T-Mobile Wouldn’t Sell a Replacement iPhone in Store TmoNews",
     "image_url": null,
     "tags": [],
     "industries": [
       "telecom",
-      "retail",
-      "industrial"
+      "retail"
     ],
-    "relevance_score": 6
+    "relevance_score": 5
   },
   {
     "id": "2ecea9ca8d69",
@@ -493,6 +475,38 @@
     "industries": [
       "telecom",
       "retail"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "ae27a9e4567d",
+    "title": "Glossy E-Commerce Summit - glossy.co",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFBMUmFWRENTeEw5Z0YyNzZSam5aQkd5UmhkWGp4LWw4b3RvVkRLU2Y4X1NzM1RtbEJ3Z2tmclNhTFA1Yl8wYmE5TEZQTXRmMzZFSUpGa0hfMHE2Vnd2SUlNb2VzOWk5REFWTy1GSFppTm4?oc=5",
+    "source": "Retail Marketing",
+    "source_category": "industry_retail",
+    "published": "2026-06-01T07:00:00+00:00",
+    "summary": "Glossy E-Commerce Summit glossy.co",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "7272ae29dfc4",
+    "title": "T-Mobile store manager accused of ripping off customers by a rep who works under her - PhoneArena",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQaFlMV253ZHNaTnppNTFuOTdYa0V4R3dqZFZlLXJGRjRkdVR4T2JlRFdaM0hQVTQ4VkNWdWZraEZVZDNfVHBWVmVXclhDb3Z2MExlUmx1Z08zekpfSnFSZUh1MVJISzJqYzM3azdST0JpRkpDN01ubTIyR0hTWEhablZ2bkVjUXo2dldHMzZuOGtEUmE2ZDB6NXpzbFlRRWYxSHc?oc=5",
+    "source": "Telecom",
+    "source_category": "industry_telecom",
+    "published": "2026-06-01T19:11:58+00:00",
+    "summary": "T-Mobile store manager accused of ripping off customers by a rep who works under her PhoneArena",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "telecom",
+      "retail",
+      "industrial"
     ],
     "relevance_score": 5
   }
