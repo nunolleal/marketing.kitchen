@@ -16,19 +16,6 @@
     "relevance_score": 43
   },
   {
-    "id": "1ce9dfb32396",
-    "title": "7 Tips to Create a Clickable Newsletter (With or Without AI)",
-    "url": "https://www.salesforce.com/blog/small-business/how-to-create-a-newsletter/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-05T13:00:00+00:00",
-    "summary": "Build an email newsletter campaign that grabs more attention.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/image_f574fc.png",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 43
-  },
-  {
     "id": "539a54097450",
     "title": "CRM - Salesforce Breaks Out Past $180! Agentforce + Data 360 Target $279! Bobby Brown (sYk8Smts97) - Mshale",
     "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EdzN1cDM0M1hlUGhVUGw4ZjNEQjJqZkhFaG52alNrWl8wQkNlOF9PSlMtTXJobXlGa3FEOXpqd2huektwN2JjSGVHOGxCZlRBUlJ5Nmg0dkdGVXM?oc=5",
@@ -59,6 +46,19 @@
       "consumer"
     ],
     "relevance_score": 41
+  },
+  {
+    "id": "1ce9dfb32396",
+    "title": "7 Tips to Create a Clickable Newsletter (With or Without AI)",
+    "url": "https://www.salesforce.com/blog/small-business/how-to-create-a-newsletter/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-05T13:00:00+00:00",
+    "summary": "Build an email newsletter campaign that grabs more attention.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/image_f574fc.png",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 40
   },
   {
     "id": "7b0d21876d58",
@@ -105,8 +105,8 @@
     "relevance_score": 38,
     "also_covered_by": [
       "Adobe",
-      "Wall Street",
-      "Biotech"
+      "Telecom",
+      "Wall Street"
     ]
   },
   {
@@ -199,6 +199,34 @@
     "relevance_score": 21
   },
   {
+    "id": "2332ea6dde42",
+    "title": "Salesforce Leadership: The Power of Mentorship in Tech",
+    "url": "https://www.salesforce.com/blog/salesforce-leadership-power-of-mentorship-in-tech/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-05T18:23:30+00:00",
+    "summary": "At Salesforce, professional growth isn’t just about hitting quotas or mastering new product releases; it’s about the people we bring along with us. Through the Salesforce Future Pathways program, our employees have a…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Screenshot-2026-06-04-at-1.38.03-PM.png?w=2028",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 16
+  },
+  {
+    "id": "c5a3f1398385",
+    "title": "Help Agent: Built Into Your Flow of Work",
+    "url": "https://www.salesforce.com/blog/help-agent-built-into-your-flow-of-work/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-05T20:29:20+00:00",
+    "summary": "There’s a moment every Salesforce user knows. You’re mid-implementation — a configuration question comes up, and suddenly you’re choosing between a support ticket, a search engine, and a teammate who may have the…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/Mindset-shifts-team-collab-1_78b849.webp",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
     "id": "202efe8d585c",
     "title": "Still Running Agentic Pilots? Here’s What 5 Companies Did to Ship AI Agents to Production",
     "url": "https://www.salesforce.com/blog/ai-agent-production-tips/",
@@ -211,7 +239,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "1e848e4f697c",
@@ -226,23 +254,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 13
-  },
-  {
-    "id": "dead5958ad95",
-    "title": "Salesforce Q1 Earnings: 5 Channel Takeaways On Agentforce Growth, Monetization, Weak Cloud Segments - crn.com",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPaE8tS005eWlDWXl3OUdxOW41WmZUbXNCZXpKU2pscHpEMnJ4X29pNS1MU1BDem8wbHBTR3B2V3FRN3pVZW90NE1ZTk1KMmVsSnROMjBjTmFtZ0NNNDZVTVhiUWdBNlBwSklLVTVSREpCXzh0MUMzMTl3VFN0eFdXb0dyR0hWZ1QyWjFUemg4ZzFfRGp0UngyR3UyTEdsakJ5eWowczhzdzFLczd6SllCSnFnSlpOSHZ4NTNJdzZ4RzZITjVNbGtzaw?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-05-29T18:30:00+00:00",
-    "summary": "Salesforce Q1 Earnings: 5 Channel Takeaways On Agentforce Growth, Monetization, Weak Cloud Segments crn.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 11
+    "relevance_score": 12
   },
   {
     "id": "3ea1442fc491",
@@ -256,21 +268,6 @@
     "tags": [],
     "industries": [
       "tech",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "de5795bf15b4",
-    "title": "The New Era of Facilities Management: From Cost Center to Growth Engine",
-    "url": "https://www.salesforce.com/blog/field-service-facilities/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-03T18:25:08+00:00",
-    "summary": "It’s time to move away from fragmented, system-centered tools. When we anchor operations as a unified enterprise, facilities can be transformed into predictable engines for business growth.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/field-service-for-facilities-management-1500x844-1.jpg",
-    "tags": [],
-    "industries": [
       "industrial"
     ],
     "relevance_score": 10
@@ -291,14 +288,14 @@
     "relevance_score": 9
   },
   {
-    "id": "c19e9ba03959",
-    "title": "5 Ways to Minimize Context Rot in Enterprise Agentforce Agents",
-    "url": "https://www.salesforce.com/blog/context-rot/",
+    "id": "de5795bf15b4",
+    "title": "The New Era of Facilities Management: From Cost Center to Growth Engine",
+    "url": "https://www.salesforce.com/blog/field-service-facilities/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-06-01T15:43:57+00:00",
-    "summary": "Long conversations break AI agents. These five Agentforce design patterns keep yours reliable at scale.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Context-Rot-Feat-AdobeStock_1995825036-e1780073825863.jpeg",
+    "published": "2026-06-03T18:25:08+00:00",
+    "summary": "It’s time to move away from fragmented, system-centered tools. When we anchor operations as a unified enterprise, facilities can be transformed into predictable engines for business growth.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/field-service-for-facilities-management-1500x844-1.jpg",
     "tags": [],
     "industries": [
       "industrial"
@@ -349,20 +346,5 @@
       "industrial"
     ],
     "relevance_score": 8
-  },
-  {
-    "id": "8050f92b0295",
-    "title": "AI Agent Culture: What Does it Mean For Your Lean Team?",
-    "url": "https://www.salesforce.com/blog/small-business/ai-agent-culture/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-01T13:00:00+00:00",
-    "summary": "Supercharge your entire workflow by welcoming digital assistants to your team to do the heavy lifting for you.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/image_bd9fc6.jpeg",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 7
   }
 ]
