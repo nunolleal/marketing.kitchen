@@ -16,22 +16,6 @@
     "relevance_score": 43
   },
   {
-    "id": "539a54097450",
-    "title": "CRM - Salesforce Breaks Out Past $180! Agentforce + Data 360 Target $279! Bobby Brown (sYk8Smts97) - Mshale",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EdzN1cDM0M1hlUGhVUGw4ZjNEQjJqZkhFaG52alNrWl8wQkNlOF9PSlMtTXJobXlGa3FEOXpqd2huektwN2JjSGVHOGxCZlRBUlJ5Nmg0dkdGVXM?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-05T05:47:20+00:00",
-    "summary": "CRM - Salesforce Breaks Out Past $180! Agentforce + Data 360 Target $279! Bobby Brown (sYk8Smts97) Mshale",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 42
-  },
-  {
     "id": "d21e9301c5cc",
     "title": "Industry Insider: 5 Martech Trends to Watch This Summer",
     "url": "https://www.salesforce.com/blog/martech-trends/",
@@ -59,6 +43,22 @@
     "tags": [],
     "industries": [],
     "relevance_score": 40
+  },
+  {
+    "id": "539a54097450",
+    "title": "CRM - Salesforce Breaks Out Past $180! Agentforce + Data 360 Target $279! Bobby Brown (sYk8Smts97) - Mshale",
+    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE1EdzN1cDM0M1hlUGhVUGw4ZjNEQjJqZkhFaG52alNrWl8wQkNlOF9PSlMtTXJobXlGa3FEOXpqd2huektwN2JjSGVHOGxCZlRBUlJ5Nmg0dkdGVXM?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-06-05T05:47:20+00:00",
+    "summary": "CRM - Salesforce Breaks Out Past $180! Agentforce + Data 360 Target $279! Bobby Brown (sYk8Smts97) Mshale",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 39
   },
   {
     "id": "7b0d21876d58",
@@ -105,7 +105,7 @@
     "relevance_score": 38,
     "also_covered_by": [
       "Adobe",
-      "Telecom",
+      "Adobe Inc",
       "Wall Street"
     ]
   },
@@ -209,21 +209,6 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Screenshot-2026-06-04-at-1.38.03-PM.png?w=2028",
     "tags": [],
     "industries": [],
-    "relevance_score": 16
-  },
-  {
-    "id": "c5a3f1398385",
-    "title": "Help Agent: Built Into Your Flow of Work",
-    "url": "https://www.salesforce.com/blog/help-agent-built-into-your-flow-of-work/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-05T20:29:20+00:00",
-    "summary": "There’s a moment every Salesforce user knows. You’re mid-implementation — a configuration question comes up, and suddenly you’re choosing between a support ticket, a search engine, and a teammate who may have the…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/Mindset-shifts-team-collab-1_78b849.webp",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
     "relevance_score": 15
   },
   {
@@ -242,19 +227,34 @@
     "relevance_score": 14
   },
   {
-    "id": "1e848e4f697c",
-    "title": "Salesforce's Core Business Holding Steady as Agentforce Adoption Builds, RBC Says - 富途牛牛",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxNZVZxaWVaTk5zYTdlaE9OSFZ2eGp1Tk5qanhiaEdKX1FmM18yUS1vNTdjOHNBMzRlNlFJbXBhLWhfcHlfZUE0QnFiTVRGX1Q3cXRjQjVNa0dtbTJqOFVFcUFObVFETjFiXzlCdXBKTFlpQUQ5QlNOVnJyQWFRUXBQb0dxNnctN2M5QUs5QW9Ea3gwN2RrZm9ESm1aVF9Zdkg3TXd0cnJlRklkbW5RaUJFT01n?oc=5",
+    "id": "c5a3f1398385",
+    "title": "Help Agent: Built Into Your Flow of Work",
+    "url": "https://www.salesforce.com/blog/help-agent-built-into-your-flow-of-work/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-05T20:29:20+00:00",
+    "summary": "There’s a moment every Salesforce user knows. You’re mid-implementation — a configuration question comes up, and suddenly you’re choosing between a support ticket, a search engine, and a teammate who may have the…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/Mindset-shifts-team-collab-1_78b849.webp",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "d029f443f0dd",
+    "title": "Salesforce’s Agentforce Is Catching On Slowly, RBC Says - Finimize",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa3pGSlRlRnNvTjBLY1RQTGN2bGxiWFpUcFI0RjJ3dUFoOGw4S3dZcjQxSm9hem1iX3ZYcE53VG12V01zblBidFJmby13bGhmS0JhdFFXSE1seEFHd1dsZktxeEVXTUxpalBoQ1ZFaUpBekQ5SG5qRy1qMnJpdzVOdUlxYTlaZ0pBTkE?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-06-05T16:12:39+00:00",
-    "summary": "Salesforce's Core Business Holding Steady as Agentforce Adoption Builds, RBC Says 富途牛牛",
+    "published": "2026-06-05T16:45:52+00:00",
+    "summary": "Salesforce’s Agentforce Is Catching On Slowly, RBC Says Finimize",
     "image_url": null,
     "tags": [],
     "industries": [
       "industrial"
     ],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "3ea1442fc491",
@@ -268,6 +268,21 @@
     "tags": [],
     "industries": [
       "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "cbc1ab19adff",
+    "title": "Salesforce results show Agentforce starting to flex, but 2H remains 'show-me story': analysts - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdm4yaGhyU3o3LThZelJOQWNwOTMwOGJvQUJPbjNhNzdISkozd25vSF9kTk5EZFlOYm96Uk92d1FCQ1dnNGp0VHQxc193SUxMSHFPM1RmMzlSeXhINnp2VkE5RnlMTC1ZZDV3cGxQY3lQd0Y0WWJaWS04T05ZUGxGRjBOR1RzNG1GbWZWcXpjWDZKMHlLcVBVc0x1b3k5b0hLUFRPeERVRFYxdzZUSTRUd1ZYYVdmU3dGSE1fa3JUbDgxUE5zVkhwQ0xfLUVVeUdaV2NnZWVFY2lmMlhmSHFaQXE1MjlRdTQ?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-06-04T10:31:33+00:00",
+    "summary": "Salesforce results show Agentforce starting to flex, but 2H remains 'show-me story': analysts MSN",
+    "image_url": null,
+    "tags": [],
+    "industries": [
       "industrial"
     ],
     "relevance_score": 10
@@ -318,21 +333,6 @@
     "relevance_score": 9
   },
   {
-    "id": "07467bb4fa13",
-    "title": "Meet Agentforce Coworker: your AI teammate everywhere. And it actually does the work.",
-    "url": "https://www.salesforce.com/blog/agentforce-coworker-salesforce-ai-teammate/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-03T00:31:05+00:00",
-    "summary": "It’s 8:47 a.m. A top-tier customer wants a custom renewal proposal — based on their case history, account data, and usage metrics — by end of day. You know exactly what to do.…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/agentforce-coworker.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "06d1ec40612e",
     "title": "Agentforce needed a content layer, so Salesforce is buying Contentful - MSN",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPMUJzdlZSRzZRQVJubTVsR0t4NnFiTE9ZZEhLVVdYdWdfVFBXTXdRY0E1NWNHRU9yQlp2QkN1ejk5ZTA1NW5RTFF2T2xYUlNrTTRGQXNJWnVXZkJEenhjUE1iREp3Q3hMQXh5X25teDJLYkkxcGpFN29TUUVlZFRrT2FRUmJldDg5OHZTd3hfY3hYWTF4OHRBWlU1TE9wOXpVdjh5QUJRRnBGUEF5QUFDUEZsd1ZtUFQtcnRXd2RsTQ?oc=5",
@@ -346,5 +346,20 @@
       "industrial"
     ],
     "relevance_score": 8
+  },
+  {
+    "id": "07467bb4fa13",
+    "title": "Meet Agentforce Coworker: your AI teammate everywhere. And it actually does the work.",
+    "url": "https://www.salesforce.com/blog/agentforce-coworker-salesforce-ai-teammate/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-03T00:31:05+00:00",
+    "summary": "It’s 8:47 a.m. A top-tier customer wants a custom renewal proposal — based on their case history, account data, and usage metrics — by end of day. You know exactly what to do.…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/agentforce-coworker.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 7
   }
 ]
