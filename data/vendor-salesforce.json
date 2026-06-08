@@ -1,21 +1,5 @@
 [
   {
-    "id": "d21e9301c5cc",
-    "title": "Industry Insider: 5 Martech Trends to Watch This Summer",
-    "url": "https://www.salesforce.com/blog/martech-trends/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-01T19:02:19+00:00",
-    "summary": "Shifts in data strategy, AI adoption and platform consolidation are reshaping how brands act on customer data in the moment. Here's what you can do about it.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/AdobeStock_1205788921.jpg",
-    "tags": [],
-    "industries": [
-      "tech",
-      "consumer"
-    ],
-    "relevance_score": 41
-  },
-  {
     "id": "4a0e45bd1ba3",
     "title": "Salesforce expands Agentforce with AI tools for marketing teams - Newsbytes.PH",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNTDk5bFpadWRWOGIzTVhGUDg4RnRGcmhYSUx2YWtVMVhaNlNlcEE3WGRyUlp3TGZ2ekd6Sl9WMmV3TzRORWRrSjVwem9VVEdreU5NcjBLcnNTbEpzdndvUXlHNlctWXN6d2lPRmlkRXJJRFNibU5tUkI2ZXZfcU1idDgxNEJPdE5aN0FJQlR0UE5lYzIwcW1fLU9MVUI?oc=5",
@@ -28,7 +12,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 39
+    "relevance_score": 36
   },
   {
     "id": "c1dca1a8c207",
@@ -63,37 +47,9 @@
     "relevance_score": 32,
     "also_covered_by": [
       "Adobe",
-      "Biotech",
-      "Telecom"
+      "Adobe Marketing Cloud",
+      "Adobe Products"
     ]
-  },
-  {
-    "id": "628f7127a69d",
-    "title": "Agentforce needed a content layer, so Salesforce is buying Contentful - MarTech",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMUtLa09qeFRkNjNaSGJLUFppV0g0X0ltWTZzaFRqamtvRnQzSDBBbUFtS0dQdThUanlfMGdfSVpGZ1I1d3VWSGVMdEFWSHFzOE5pX3JCYWxQNTRNbERfTk5OTEVjdXBmUWV4d3pOajZ3Wjl5elNPYmViaVhKaTg0NEdOekJnbVhPVUF3eDRYLXZaNms?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-01T15:33:16+00:00",
-    "summary": "Agentforce needed a content layer, so Salesforce is buying Contentful MarTech",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 31
-  },
-  {
-    "id": "1ce9dfb32396",
-    "title": "7 Tips to Create a Clickable Newsletter (With or Without AI)",
-    "url": "https://www.salesforce.com/blog/small-business/how-to-create-a-newsletter/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-05T13:00:00+00:00",
-    "summary": "Build an email newsletter campaign that grabs more attention.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/image_f574fc.png",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 30
   },
   {
     "id": "539a54097450",
@@ -112,76 +68,61 @@
     "relevance_score": 29
   },
   {
-    "id": "a726dc0073a0",
-    "title": "Customer Trust in An AI World: If You Build It, They Will Come",
-    "url": "https://www.salesforce.com/blog/small-business/customer-trust-with-ai/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-02T13:00:00+00:00",
-    "summary": "Learn how your SMB can win long-term loyalty by being open about your smart tools.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/image_057df1.jpeg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 21
-  },
-  {
-    "id": "2dcd51ab80e4",
-    "title": "Salesforce vs ServiceNow Stock: Agentic-AI Showdown - Gotrade",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xWmN1YUtDdGctNjQ5QzJEMkpmZW5uYzEyZ251d1VnekJsN1RkRndncXM2QklZYzJJb1BLYmdYUDNpRWdqeWxmYUxVZUpyelQzcWpwNHNLZEoxOWI2SjJzYmpBckd3Z3kzOTRNNGRLWjhORWZJ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-08T03:46:35+00:00",
-    "summary": "Salesforce vs ServiceNow Stock: Agentic-AI Showdown Gotrade",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "3ea1442fc491",
-    "title": "Salesforce Returns to Growth Focus as Agentforce Propels Q1 - Cloud Wars",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQU3pEbk5sdE9KclIxSnQ1TGlyaXBzSTEwUHh3d0V5UXBaVm5sZkQ3MWtlQTlEMmVTUGhGYnRPb2ZZVllhMG1PQTluYXlNbVhoNUZuaG04cWNtTE05VXdWcnZVcUxRSnlySUQwVDBlSXlVM2tER2JvOFpQY0xZb0V1aXlQTnljemZSb2JhMloyWDAtZm5GbXZkSzgzZFRma1hlQUE?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-01T11:30:00+00:00",
-    "summary": "Salesforce Returns to Growth Focus as Agentforce Propels Q1 Cloud Wars",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "b47334967cfd",
-    "title": "Slack and Salesforce AI to help run the 5-billion-viewer FIFA World Cup - Stock Titan",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRXBTRUplaUV2aHR2NXFWVmlCbDVJNkhyMXdqUzFZb2gzSzlGZ3RzMElqLWNQSExWVDNacDFXejZtZUlmWjVFOFdZdllCUmdwVWNPQ2Vab1YyWHBFdnlTUFl6a2NPM0xnYW5kNXY1UzJENjY2dVdlaGtCSUVoN2hXdGV0bC0ya0lYSm1GVkNaOGo3QmF3dTNxUmxQZmdoYUJidUxpQXZmTmdraUpJS2lCbnpoQXVjcEpvME9fZnVR?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-05T10:00:00+00:00",
-    "summary": "Slack and Salesforce AI to help run the 5-billion-viewer FIFA World Cup Stock Titan",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 10
-  },
-  {
-    "id": "202efe8d585c",
-    "title": "Still Running Agentic Pilots? Here’s What 5 Companies Did to Ship AI Agents to Production",
-    "url": "https://www.salesforce.com/blog/ai-agent-production-tips/",
+    "id": "1ce9dfb32396",
+    "title": "7 Tips to Create a Clickable Newsletter (With or Without AI)",
+    "url": "https://www.salesforce.com/blog/small-business/how-to-create-a-newsletter/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
     "published": "2026-06-05T13:00:00+00:00",
-    "summary": "Five companies. Five decisions. One pattern separating the teams that shipped AI agents from the ones still refining their demos.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/AdobeStock_1561691087.jpeg?w=5376",
+    "summary": "Build an email newsletter campaign that grabs more attention.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/image_f574fc.png",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 27
+  },
+  {
+    "id": "ac026f22c7d6",
+    "title": "What’s the ‘Try Before You Buy’ Experience? How It Works, Plus Tips (2026)",
+    "url": "https://www.salesforce.com/blog/small-business/try-before-you-buy-experience/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-08T13:00:00+00:00",
+    "summary": "Learn how growing businesses use the ‘try before you buy’ experience to grow sales through personalized shopping journeys.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/image_e491f7.jpeg",
     "tags": [],
     "industries": [
-      "industrial"
+      "retail"
     ],
-    "relevance_score": 10
+    "relevance_score": 16
+  },
+  {
+    "id": "6b9f1a7ebcd7",
+    "title": "Beyond the Vibe in Financial Services Series Part 2",
+    "url": "https://www.salesforce.com/blog/beyond-the-vibe-in-financial-services-series-part-2/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-08T13:56:22+00:00",
+    "summary": "Semantic Data and the Power of Prebuilt Agents",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/AdobeStock_1828900565.jpeg",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "db63b7122b0d",
+    "title": "Why Salesforce Shifted to Headless IT Operations (And Ditched the Browser)",
+    "url": "https://www.salesforce.com/blog/salesforce-headless-it-operations/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-08T12:43:15+00:00",
+    "summary": "Here’s how Salesforce uses headless IT operations to eliminate browser friction and automate engineering workflows.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/Headless_SFonSF.png?w=3016",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 14
   },
   {
     "id": "2332ea6dde42",
@@ -197,6 +138,49 @@
     "relevance_score": 10
   },
   {
+    "id": "2dcd51ab80e4",
+    "title": "Salesforce vs ServiceNow Stock: Agentic-AI Showdown - Gotrade",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE0xWmN1YUtDdGctNjQ5QzJEMkpmZW5uYzEyZ251d1VnekJsN1RkRndncXM2QklZYzJJb1BLYmdYUDNpRWdqeWxmYUxVZUpyelQzcWpwNHNLZEoxOWI2SjJzYmpBckd3Z3kzOTRNNGRLWjhORWZJ?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-06-08T03:46:35+00:00",
+    "summary": "Salesforce vs ServiceNow Stock: Agentic-AI Showdown Gotrade",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "b47334967cfd",
+    "title": "Slack and Salesforce AI to help run the 5-billion-viewer FIFA World Cup - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNRXBTRUplaUV2aHR2NXFWVmlCbDVJNkhyMXdqUzFZb2gzSzlGZ3RzMElqLWNQSExWVDNacDFXejZtZUlmWjVFOFdZdllCUmdwVWNPQ2Vab1YyWHBFdnlTUFl6a2NPM0xnYW5kNXY1UzJENjY2dVdlaGtCSUVoN2hXdGV0bC0ya0lYSm1GVkNaOGo3QmF3dTNxUmxQZmdoYUJidUxpQXZmTmdraUpJS2lCbnpoQXVjcEpvME9fZnVR?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-06-05T10:00:00+00:00",
+    "summary": "Slack and Salesforce AI to help run the 5-billion-viewer FIFA World Cup Stock Titan",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 9
+  },
+  {
+    "id": "202efe8d585c",
+    "title": "Still Running Agentic Pilots? Here’s What 5 Companies Did to Ship AI Agents to Production",
+    "url": "https://www.salesforce.com/blog/ai-agent-production-tips/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-05T13:00:00+00:00",
+    "summary": "Five companies. Five decisions. One pattern separating the teams that shipped AI agents from the ones still refining their demos.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/AdobeStock_1561691087.jpeg?w=5376",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "c5a3f1398385",
     "title": "Help Agent: Built Into Your Flow of Work",
     "url": "https://www.salesforce.com/blog/help-agent-built-into-your-flow-of-work/",
@@ -205,21 +189,6 @@
     "published": "2026-06-05T20:29:20+00:00",
     "summary": "There’s a moment every Salesforce user knows. You’re mid-implementation — a configuration question comes up, and suddenly you’re choosing between a support ticket, a search engine, and a teammate who may have the…",
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/Mindset-shifts-team-collab-1_78b849.webp",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "fbc1f69460b6",
-    "title": "Salesforce FIFA Deal Puts Agentforce AI Workflows To The Test - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRzdMa0Nha2tybTVCaVBhaFJHVnlUOEpvUjhlbzRpcTRWeDVOZlYxenBGYkhyZGFLSmJsbmlHN1RVTDBlRkVrRkp6S2JiTEk5VVFzYUo3OVBEVlhRMTExa084Ynp5NDJ1blJld2x1MEJSN1EzeS0wcFBCTF9WWG01UndGcTZ5RUNTTEdEYWFYY2pjZnotclloSVRCMXN4V2U3eTBz?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-06T16:13:25+00:00",
-    "summary": "Salesforce FIFA Deal Puts Agentforce AI Workflows To The Test Yahoo Finance",
-    "image_url": null,
     "tags": [],
     "industries": [
       "industrial"
@@ -242,6 +211,21 @@
     "relevance_score": 8
   },
   {
+    "id": "4975bcc89b7f",
+    "title": "Dynamic content management comes to Agentforce as Salesforce fleshes out Headless 360 with Contentful acquisition - diginomica",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNTG5jSUJJNzFXNGNMRjNGeTZlMFBtY1RialZTMWNhX1VtM2k3UHNuV0xpU3Bla3drT183WTlLd181amdYejJTMzdDNG55UVhmUFNqSjg3OF9PcVpzaVIydmIyUldFOEF1ZmN0YktYZ0VPTFB3MF9HS2JzNzVNbGhnSzgzN2VOd2F5R1dONWJ2WkJRVE91aVFPdlhJSm9OWDNIU3d3VkV0RDNMMU1xekhHbzJxYw?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-06-02T09:00:01+00:00",
+    "summary": "Dynamic content management comes to Agentforce as Salesforce fleshes out Headless 360 with Contentful acquisition diginomica",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "de5795bf15b4",
     "title": "The New Era of Facilities Management: From Cost Center to Growth Engine",
     "url": "https://www.salesforce.com/blog/field-service-facilities/",
@@ -250,21 +234,6 @@
     "published": "2026-06-03T18:25:08+00:00",
     "summary": "It’s time to move away from fragmented, system-centered tools. When we anchor operations as a unified enterprise, facilities can be transformed into predictable engines for business growth.",
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/field-service-for-facilities-management-1500x844-1.jpg",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "cbc1ab19adff",
-    "title": "Salesforce results show Agentforce starting to flex, but 2H remains 'show-me story': analysts - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQdm4yaGhyU3o3LThZelJOQWNwOTMwOGJvQUJPbjNhNzdISkozd25vSF9kTk5EZFlOYm96Uk92d1FCQ1dnNGp0VHQxc193SUxMSHFPM1RmMzlSeXhINnp2VkE5RnlMTC1ZZDV3cGxQY3lQd0Y0WWJaWS04T05ZUGxGRjBOR1RzNG1GbWZWcXpjWDZKMHlLcVBVc0x1b3k5b0hLUFRPeERVRFYxdzZUSTRUd1ZYYVdmU3dGSE1fa3JUbDgxUE5zVkhwQ0xfLUVVeUdaV2NnZWVFY2lmMlhmSHFaQXE1MjlRdTQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-04T10:31:33+00:00",
-    "summary": "Salesforce results show Agentforce starting to flex, but 2H remains 'show-me story': analysts MSN",
-    "image_url": null,
     "tags": [],
     "industries": [
       "industrial"
@@ -287,21 +256,6 @@
     "relevance_score": 8
   },
   {
-    "id": "07467bb4fa13",
-    "title": "Meet Agentforce Coworker: your AI teammate everywhere. And it actually does the work.",
-    "url": "https://www.salesforce.com/blog/agentforce-coworker-salesforce-ai-teammate/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-03T00:31:05+00:00",
-    "summary": "It’s 8:47 a.m. A top-tier customer wants a custom renewal proposal — based on their case history, account data, and usage metrics — by end of day. You know exactly what to do.…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/agentforce-coworker.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 7
-  },
-  {
     "id": "f5837be38e3d",
     "title": "AI Adoption For Startups: Ready Your Team for the Fast-Track",
     "url": "https://www.salesforce.com/blog/small-business/ai-adoption-for-startups/",
@@ -317,13 +271,13 @@
     "relevance_score": 7
   },
   {
-    "id": "d029f443f0dd",
-    "title": "Salesforce’s Agentforce Is Catching On Slowly, RBC Says - Finimize",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNa3pGSlRlRnNvTjBLY1RQTGN2bGxiWFpUcFI0RjJ3dUFoOGw4S3dZcjQxSm9hem1iX3ZYcE53VG12V01zblBidFJmby13bGhmS0JhdFFXSE1seEFHd1dsZktxeEVXTUxpalBoQ1ZFaUpBekQ5SG5qRy1qMnJpdzVOdUlxYTlaZ0pBTkE?oc=5",
+    "id": "10758d65610d",
+    "title": "Salesforce's Core Business Holding Steady as Agentforce Adoption Builds, RBC Says - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPMlJDS1dwWnlhckUwcE5XeGZYc3NHcFNTZnBVanNBQ2tOenNpa29kN25MOVQxQTQ2RldmM29QVGhNdno4bEV6WVlic0RQb2lDSk1WUDh1Y2hmOXVNQlBCYklzZk0xN05JUUZaQnl6a01WVTJXcUw1UHNvNmJRZk5GNnRXenpBeTZIbDRYbzNEYnlCZTctNFhod1QyWnQ4ZGtUZDhnSzRId2lxTnZsSDBodlNsUQ?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-06-05T13:45:52+00:00",
-    "summary": "Salesforce’s Agentforce Is Catching On Slowly, RBC Says Finimize",
+    "published": "2026-06-05T15:34:37+00:00",
+    "summary": "Salesforce's Core Business Holding Steady as Agentforce Adoption Builds, RBC Says Moomoo",
     "image_url": null,
     "tags": [],
     "industries": [
