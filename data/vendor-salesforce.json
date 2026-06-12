@@ -1,20 +1,5 @@
 [
   {
-    "id": "503044872a43",
-    "title": "Top Takeaways from Connections 2026: Welcome to the Age of Marketing Makers",
-    "url": "https://www.salesforce.com/blog/connections-conference-takeaways/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-12T16:27:54+00:00",
-    "summary": "Get the scoop on what went down at the marketing conference of the year",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/CNX26-260604-2SM02772.jpg?w=7000",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 49
-  },
-  {
     "id": "ff03420c8a51",
     "title": "Salesforce layoffs hit Agentforce, MuleSoft, Marketing Cloud 2026 - qz.com",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdnlDaHdYeWtGY0RCMzU5UWRIQmNpM200MmhPVmZjTktOLTBXZEFUNER4Sm9GREF2ZjhzZ1F6c25wc184Wl81Tks3SVhkVEFPZktXWnRTX1g4NG5fcENpcHE4M0hMai0tVXRuSE5sSFN1VW1aclBZZFJuZy13OXNGRE53?oc=5",
@@ -28,7 +13,25 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 46
+    "relevance_score": 46,
+    "also_covered_by": [
+      "Adobe"
+    ]
+  },
+  {
+    "id": "503044872a43",
+    "title": "Top Takeaways from Connections 2026",
+    "url": "https://www.salesforce.com/blog/connections-conference-takeaways/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-12T16:27:54+00:00",
+    "summary": "Get the scoop on what went down at the marketing conference of the year",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/CNX26-260604-2SM02772.jpg?w=7000",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 43
   },
   {
     "id": "975f3fd7b512",
@@ -44,12 +47,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 45,
-    "also_covered_by": [
-      "Adobe",
-      "Adobe Inc",
-      "Wall Street"
-    ]
+    "relevance_score": 41
   },
   {
     "id": "dc4062775644",
@@ -98,19 +96,6 @@
     "relevance_score": 23
   },
   {
-    "id": "8a2ebad4a6f0",
-    "title": "How To Conduct a Business Survey And Make it Impactful",
-    "url": "https://www.salesforce.com/blog/small-business/conduct-a-business-survey/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-12T13:00:00+00:00",
-    "summary": "Learn how to gather honest feedback from your customers without spending a fortune on research.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Survey-SMB.jpg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 13
-  },
-  {
     "id": "f7bb894056ba",
     "title": "How Salesforce Migrated 30,000+ Sellers to Spiff, a Single Comp Management Tool",
     "url": "https://www.salesforce.com/blog/sales/salesforce-spiff-migration/",
@@ -127,59 +112,45 @@
     "relevance_score": 12
   },
   {
-    "id": "a04556e40fd7",
-    "title": "Last Month, Salesforce Announced It Hit $1.2 Billion in AI Revenue—Now It's Laying Off Staff Tied to the Product - inc.com",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPRmRGU3J0T3FEaTRLLTg2TUEtSFRMSUlxb1dxbzE2bHpsb1NPWjRwUWF0V1k1aGxZRUU1dzJSZ3dOWVU0dC11LWNSeUJwdHZmYTZsTkRLZmxTLU5xSnczdl8wTWhONThxLThjX01YWE56OEJ5STVLYVhHQ0YwNTYwZUdsbmhZdlhjODVZWjhYcks5MzlaSV9tNEp6ZW40MXlTQk5sS01CSGtIaFdUTjIxbEdUNzVkSlExMnJMVG9mSQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-09T19:04:02+00:00",
-    "summary": "Last Month, Salesforce Announced It Hit $1.2 Billion in AI Revenue—Now It's Laying Off Staff Tied to the Product inc.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 11
-  },
-  {
-    "id": "59a2d4f731ce",
-    "title": "Stop Designing AI Features. Start Designing AI Systems",
-    "url": "https://www.salesforce.com/blog/stop-designing-ai-features-start-designing-ai-systems/",
+    "id": "8a2ebad4a6f0",
+    "title": "How To Conduct a Business Survey And Make it Impactful",
+    "url": "https://www.salesforce.com/blog/small-business/conduct-a-business-survey/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-06-11T18:20:58+00:00",
-    "summary": "As orchestrators of AI behavior, we must move beyond static interfaces to build experiences where AI reliably understands user intent across every surface.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/design_ai_systems_CozyVisionary_Adobe.png",
+    "published": "2026-06-12T13:00:00+00:00",
+    "summary": "Learn how to gather honest feedback from your customers without spending a fortune on research.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Survey-SMB.jpg",
     "tags": [],
     "industries": [],
-    "relevance_score": 11
+    "relevance_score": 12
   },
   {
-    "id": "dd55d8052494",
-    "title": "Salesforce Puts Google Gemini 3.5 Flash Inside Agentforce in June 15 Release - Tech Times",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMDZxbDkwbXVldnhPeXNQN1luWUtKRHFaLWJaVGFVTTlhLWRQZ1BZb21lanZLeEdJZjlONDVueXJaLThHMVhMeVE3cUU0NmpmOUd1UFZudDRTQWlqLTJzRlVUYU5raDR3LWFpZ3c3Nm9jSGpBUG9TeDh4dmY3SEFUaU1FakxoNVozRURPY3ZPTV9YdWM2MmgwQTN2OElrZ2xnZDhyeFNEN2kxbjBnZ29fUlBJXzcxWVBRTlFDYnp6bWw5YkRsNkE?oc=5",
+    "id": "d4e10f23cef7",
+    "title": "CVS Health To Deliver Faster, More Personalized Call Center Care for Millions of Members With Salesforce's Agentforce Health - StreetInsider",
+    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPM1AyMWZpajFuUnJjZTZkS3o5X3UwMTBwaHp1UGNkNFg1UnY3eFFYc3FHckxPZjExTzkzaExPOEV2aG9YOEl4Rmsyeno4X05UN3FUQ2xXcEhVaWpQeUZlenBJWDVEb21fVk0zUUVrbzlGTzFUREF1QXVFMmc4TjVEVXpXX3lUOXNMQUNabVFvbTJWN2dmNGVFVDQ4Z3pqYVRSTTJwVG9kV0xHdjZFdUJRZldTakVTZlBxOFl6NUpnbWI3TjRVU1NtZERDZFlWbkQxN0poOGlmMlRUdlVqNG11NFQyVW44Y3Jsb0V4em1MM01NazlsYjhZWklRS19WYmQ5cGJQS0c2c2d0ZHJXNW9VRzhTaw?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-06-09T19:46:51+00:00",
-    "summary": "Salesforce Puts Google Gemini 3.5 Flash Inside Agentforce in June 15 Release Tech Times",
+    "published": "2026-06-12T13:02:58+00:00",
+    "summary": "CVS Health To Deliver Faster, More Personalized Call Center Care for Millions of Members With Salesforce's Agentforce Health StreetInsider",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
       "industrial"
     ],
-    "relevance_score": 10
+    "relevance_score": 12
   },
   {
-    "id": "49b47a69c9de",
-    "title": "Salesforce cuts staff amid acquisition spree and $50 billion share buyback - The Register",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNRWo3c2ZSX2lQTVNrakxaNEJudG4tdUlQWWZmNGRBQkduc3BEQ1ZNV3hEZDNGMnI0Y2hNMjNLNDVHdUpHY2lQRU9EREtueGl6MUVCeVZuMjBreUxHczNHQ2lDVE4ycVJYU0FGcW5OUXoyUFJudXhsYTh6Qnh5RlN6NktJd1NaWWI1V2NwYlIwTXNkNDQyLUdZdHU2MVpLd3VNdlQwTVhWYUZnOVFEN200YnI1bi1zdw?oc=5",
+    "id": "d40b0d425278",
+    "title": "Salesforce acquires M3ter; signals AI pricing model shift as stock falls - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNVDd6VUVseGlxUDhzSlQ3SXN5UTMtWUY3dVNnTWVyN2R4OVZmcUVQRF9reUR4VkgwRDNVOUE2RXpvM2J0MGd1Y3hZWmg5UVFjeVE1VFI1UGdvc2xFRjJVallaZGN5RzdHd2xvZExHSy02LVFTemNPWkhqMVhKYWlaMC1iM3BpeFc5WktSS1ZiT0N2dUtPcVY4R2I5ZG43ZDBreEk5d0FHOUtWT1ZPY1E?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-06-09T22:01:07+00:00",
-    "summary": "Salesforce cuts staff amid acquisition spree and $50 billion share buyback The Register",
+    "published": "2026-06-08T21:10:58+00:00",
+    "summary": "Salesforce acquires M3ter; signals AI pricing model shift as stock falls Seeking Alpha",
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 10
+    "relevance_score": 9
   },
   {
     "id": "0bb011f176ce",
@@ -222,6 +193,19 @@
       "retail",
       "industrial"
     ],
+    "relevance_score": 9
+  },
+  {
+    "id": "59a2d4f731ce",
+    "title": "Stop Designing AI Features. Start Designing AI Systems",
+    "url": "https://www.salesforce.com/blog/stop-designing-ai-features-start-designing-ai-systems/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-11T18:20:58+00:00",
+    "summary": "As orchestrators of AI behavior, we must move beyond static interfaces to build experiences where AI reliably understands user intent across every surface.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/design_ai_systems_CozyVisionary_Adobe.png",
+    "tags": [],
+    "industries": [],
     "relevance_score": 9
   },
   {
@@ -270,47 +254,19 @@
     "relevance_score": 7
   },
   {
-    "id": "4b9b4ca0294a",
-    "title": "Agentforce needed a content layer, so Salesforce is buying Contentful - MSN",
-    "url": "https://news.google.com/rss/articles/CBMi1gJBVV95cUxQd0pFZ0FLU3VobjVaR1llT0NkcmRGbWl3end4UmxmNGhyelduUTJSZEVYT29QSjVEQ0pacE1rdVEtZUtDV0VsZTdHbFlRY2poWlc1UDNTY3RJX0RILXZqNjl1VTZQTEtEYkRCVjBndEJZckZmR1BSNlVxcGRGM1A0Rm9qZVR0NXlVQzBqWHQzNVNVMHkzaGF5dmtNdjFXcWVHN2NPeHZDYVMzN2NpaVpiWEhMYUJKcmp6M0dQS2p4U3pjcDVUSVQ4dzFQbVVHTUxDZG1KcGcyUlJldldTamQyakRRZ0Z1WFVfT2lNb0h3XzJKdkZONnI2WFZEc2t5bU9vTEk0VTBERS0xQnR0a3ZkQ1JqZ3phRU5XVmdLeHdnb0pBZ1FaT3hHZmlvOWRZOVF4T19hVDlVX1Y3Mms5TkdDYklGU2lhZUZmYWpodnhZeHBwUmdUZEE?oc=5",
+    "id": "f8a16e32462f",
+    "title": "Flosum Outlines Agentic DevOps Approach as Enterprises Scale Salesforce Agentforce - markets.businessinsider.com",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQUHdOM0l6ZHFLWmV4b29wbUVlMV9USkxJMWpNZklvbzB6S3lrTlp3dGpmYU1LNEJHR3BpOEdfWkNlZVZJdUltcTVDWXJXajhlTnhDZjRVTjktZFBpZnJTcjFtQkV2T1QxcVo4eHVPcFVUVFpxb3d5OWtWT2RJM212VUFIVnE3czhNSEFxY0Q0elQ1OEg1NkdHanBTMHpoNllFejNKeU5RVWtQNXRXMWdwaWw0eVNQQU9PM3ExX1U4dzdBOXlKaWJ3djcteU9pZUVyOEYzN29veFM?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-06-08T14:58:54+00:00",
-    "summary": "Agentforce needed a content layer, so Salesforce is buying Contentful MSN",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "09ae5c55dca7",
-    "title": "Flosum Outlines Agentic DevOps Approach as Enterprises Scale Salesforce Agentforce - GlobeNewswire",
-    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT2RGLWg2dTBJczNYeFduZEZQNDRTV1BUeE9DeGc5MXFzQ1d4MVVncU85M3lwS28yY0Z1Y0xrVjZ1b2NHQ1RWU3FtcHR5U193RkpHdnNYSUdXcUh3Yy1qSmFTMm56UEFudzhtbUJIVnJ1LUNnVVhEM0dnWEl2UlBwdURFaS1WSzhMeFJZQTItclh4Wkh4MnRYYkY5UjNUOXF0UVI2U0dNME1xUW5nd2Z5NHlVdWMzVUVFZW9QVkwzX1JmTE9icHBpQUcyODJ4VHMyV2hNVngwVWVBWDR1eWpGcER5WG9OUEhWNnc?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-09T12:00:00+00:00",
-    "summary": "Flosum Outlines Agentic DevOps Approach as Enterprises Scale Salesforce Agentforce GlobeNewswire",
+    "published": "2026-06-09T12:12:16+00:00",
+    "summary": "Flosum Outlines Agentic DevOps Approach as Enterprises Scale Salesforce Agentforce markets.businessinsider.com",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
       "industrial"
     ],
-    "relevance_score": 6
-  },
-  {
-    "id": "8b93e76c4d02",
-    "title": "Salesforce lays off employees in a new round of cuts - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFBoc1NWX2dGZmVtcnYtS2tFcFlUQXlNSTY2ZmxXMFpvR0VuMGwwUy1yUFl2T2RQLWstVlY5dU5FUjJUZjM4VjNzbm54MlJ3c0FsbmJjb21wVmlLVnQtWEk0V1pTdlZyc0lRRkNBckUya0EyTkJmWnItbkxn?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-09T15:51:00+00:00",
-    "summary": "Salesforce lays off employees in a new round of cuts Business Insider",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
     "relevance_score": 6
   }
 ]
