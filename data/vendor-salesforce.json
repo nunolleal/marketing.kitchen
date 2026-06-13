@@ -16,8 +16,7 @@
     "relevance_score": 43,
     "also_covered_by": [
       "Adobe",
-      "Adobe Inc",
-      "Fintech"
+      "Health Tech"
     ]
   },
   {
@@ -34,7 +33,12 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 41
+    "relevance_score": 38,
+    "also_covered_by": [
+      "Adobe Inc",
+      "Adobe",
+      "Biotech"
+    ]
   },
   {
     "id": "a9930cbdc18d",
@@ -137,20 +141,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/Untitled-design-13.png",
     "tags": [],
     "industries": [],
-    "relevance_score": 9
-  },
-  {
-    "id": "59a2d4f731ce",
-    "title": "Stop Designing AI Features. Start Designing AI Systems",
-    "url": "https://www.salesforce.com/blog/stop-designing-ai-features-start-designing-ai-systems/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-11T18:20:58+00:00",
-    "summary": "As orchestrators of AI behavior, we must move beyond static interfaces to build experiences where AI reliably understands user intent across every surface.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/design_ai_systems_CozyVisionary_Adobe.png",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 9
+    "relevance_score": 8
   },
   {
     "id": "bd4844dd9cd5",
@@ -183,6 +174,19 @@
     "relevance_score": 8
   },
   {
+    "id": "59a2d4f731ce",
+    "title": "Stop Designing AI Features. Start Designing AI Systems",
+    "url": "https://www.salesforce.com/blog/stop-designing-ai-features-start-designing-ai-systems/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-11T18:20:58+00:00",
+    "summary": "As orchestrators of AI behavior, we must move beyond static interfaces to build experiences where AI reliably understands user intent across every surface.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/design_ai_systems_CozyVisionary_Adobe.png",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 8
+  },
+  {
     "id": "04fe624b64ce",
     "title": "From Reactive to Proactive: How Agentforce is Redefining Autonomous Lead Qualification At Siemens",
     "url": "https://www.salesforce.com/blog/autonomous-lead-qualification-agentforce/",
@@ -191,21 +195,6 @@
     "published": "2026-06-10T09:44:36+00:00",
     "summary": "Agentforce enables proactive AI agents to qualify leads autonomously, driving the sales pipeline while maintaining customer trust and scaling sales operations",
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/image_35874a.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "2b99737f9050",
-    "title": "Salesforce Deepens CVS Health Ties As Agentforce AI Enters Regulated Call Centers - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNc1RvVHNvUVdfQm9UVHozdGc5eTVvcXBpTmhFSl8yV2hmMHNSOUVBN3VQYXRVTHBibmlsR2c2SUJEaWJMbEZSeWtWbm1NY3F1UzlwY0Y2cWdfUl9xM2RDUFI1cHpiTzZPalVXVXVRNFdtOTF4X2hjenNOWUY2WHhUQVpoVlE4emV0b1p6ZnRQWU5IY1Nla3FFMEdsN29rcldWSC0tU2dFOTFHZ3Z4X0ZhdHphc1ExRVB4VWplN21wUGM2TS1j0gHKAUFVX3lxTFBwNVJZVl8zYWNoY1F1aGRqaXo5cTg1RnRlU0YyZF9oMWFIZC1ZUG9TOFBCajE0S2JlZkZQYWNjWExseHlyaUJSR2xaZ1U4QUJhXy1WbEo0UXRjckJfMHA3a1BtenNEUEtUSjZldmxKZnVkdTAxOEZtbG1vUEFvb3FJTExvWXdyaFFZaHVFbjhxVmJjX01BbEl3aWdGSTNoT1dSREZqT1ZacmNtclpIc3EwMFFKSjlJeFJiLVQ5YU5lT0hWYWRRYWxPNVE?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-11T08:49:14+00:00",
-    "summary": "Salesforce Deepens CVS Health Ties As Agentforce AI Enters Regulated Call Centers simplywall.st",
-    "image_url": null,
     "tags": [],
     "industries": [
       "industrial"
