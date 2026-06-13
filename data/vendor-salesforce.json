@@ -13,7 +13,12 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 43
+    "relevance_score": 43,
+    "also_covered_by": [
+      "Adobe",
+      "Adobe Inc",
+      "Fintech"
+    ]
   },
   {
     "id": "975f3fd7b512",
@@ -32,21 +37,6 @@
     "relevance_score": 41
   },
   {
-    "id": "503044872a43",
-    "title": "Top Takeaways from Connections 2026",
-    "url": "https://www.salesforce.com/blog/connections-conference-takeaways/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-12T16:27:54+00:00",
-    "summary": "Get the scoop on what went down at the marketing conference of the year",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/CNX26-260604-2SM02772.jpg?w=7000",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 37
-  },
-  {
     "id": "a9930cbdc18d",
     "title": "Salesforce Holds 'Agentforce World Tour Korea 2026' in Seoul - thelec.net",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sZmphN0hQcFE1ZmpDa2MwWEFfQktmV3hZWkd2ZzhkWWNFYm5kd0s1WEdRYXlQZng3QUQ5cmpWZFFxdENmX2dKUmliN3BnUndHcm82aXJYZ0xxY3V3SWJIQWVhaEpHQ1U?oc=5",
@@ -62,6 +52,21 @@
     "relevance_score": 35
   },
   {
+    "id": "503044872a43",
+    "title": "Top Takeaways from Connections 2026",
+    "url": "https://www.salesforce.com/blog/connections-conference-takeaways/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-12T16:27:54+00:00",
+    "summary": "Get the scoop on what went down at the marketing conference of the year",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/CNX26-260604-2SM02772.jpg?w=7000",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 33
+  },
+  {
     "id": "dc4062775644",
     "title": "Just Text Me. SMS Marketing For Growing Businesses That Want to Scale Fast",
     "url": "https://www.salesforce.com/blog/small-business/sms-marketing-to-grow-business/",
@@ -75,21 +80,6 @@
       "industrial"
     ],
     "relevance_score": 27
-  },
-  {
-    "id": "28e5dd4eddb6",
-    "title": "Salesforce reduced headcount in marketing, product, and Agentforce divisions as it realigns around AI-driven offerings - eciks.org",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5SS1BrNGhyMXdPVkZwY2k1bm1NZ3hWZHRJNXFrUzZBLWltZ1RBdWROMmIxdVI1VXJTYnBoUUU4ZGZpdkZQMFIxV01CSC1TQ0ttWXhkMmJJZjE1V05PZmkyeFcxTzBMY00wRzMyZFQ1YWpKdV9J?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-09T17:46:54+00:00",
-    "summary": "Salesforce reduced headcount in marketing, product, and Agentforce divisions as it realigns around AI-driven offerings eciks.org",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 23
   },
   {
     "id": "6938c1a3af0e",
@@ -108,21 +98,6 @@
     "relevance_score": 21
   },
   {
-    "id": "240a84165921",
-    "title": "Better Buy After the Cloud Stock Sell-Off: Oracle or Salesforce? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxONm1vVjdRSDBfd21hZzRpVWQwYXBsS05Sb2I2VWdlcmNCRTZUNUZKa1Y4MnBabVJMelBOcWsyRTdwS3VxWkR5N1ZmeDBNZFRpTm5NYS1STzZ0ZzdGVDhZeklUUEVUS0xWQUcwd0tkYkFJc2FjRGYzWnRySTdqd2J5SnJjdl96cjd1Yi1RSGtVWkFvZ2NSQzZkVQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-13T10:11:50+00:00",
-    "summary": "Better Buy After the Cloud Stock Sell-Off: Oracle or Salesforce? The Motley Fool",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 13
-  },
-  {
     "id": "f7bb894056ba",
     "title": "How Salesforce Migrated 30,000+ Sellers to Spiff, a Single Comp Management Tool",
     "url": "https://www.salesforce.com/blog/sales/salesforce-spiff-migration/",
@@ -136,7 +111,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "8a2ebad4a6f0",
@@ -162,23 +137,6 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/Untitled-design-13.png",
     "tags": [],
     "industries": [],
-    "relevance_score": 9
-  },
-  {
-    "id": "82096921c22d",
-    "title": "Meet a Commerce Crew Trailblazer for Startups: Building Agentic Ecommerce",
-    "url": "https://www.salesforce.com/blog/small-business/commerce-crew-trailblazer-for-startups/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-11T17:00:00+00:00",
-    "summary": "Find out how this Trailblazer shares the biggest opportunity startups can't afford to ignore.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_97cb39.png?w=1672",
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
     "relevance_score": 9
   },
   {
@@ -208,19 +166,21 @@
     "relevance_score": 8
   },
   {
-    "id": "fbc1f69460b6",
-    "title": "Salesforce FIFA Deal Puts Agentforce AI Workflows To The Test - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQRzdMa0Nha2tybTVCaVBhaFJHVnlUOEpvUjhlbzRpcTRWeDVOZlYxenBGYkhyZGFLSmJsbmlHN1RVTDBlRkVrRkp6S2JiTEk5VVFzYUo3OVBEVlhRMTExa084Ynp5NDJ1blJld2x1MEJSN1EzeS0wcFBCTF9WWG01UndGcTZ5RUNTTEdEYWFYY2pjZnotclloSVRCMXN4V2U3eTBz?oc=5",
-    "source": "Salesforce AI",
+    "id": "82096921c22d",
+    "title": "Meet a Commerce Crew Trailblazer for Startups: Building Agentic Ecommerce",
+    "url": "https://www.salesforce.com/blog/small-business/commerce-crew-trailblazer-for-startups/",
+    "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-06-06T16:13:25+00:00",
-    "summary": "Salesforce FIFA Deal Puts Agentforce AI Workflows To The Test Yahoo Finance",
-    "image_url": null,
+    "published": "2026-06-11T17:00:00+00:00",
+    "summary": "Find out how this Trailblazer shares the biggest opportunity startups can't afford to ignore.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_97cb39.png?w=1672",
     "tags": [],
     "industries": [
+      "tech",
+      "retail",
       "industrial"
     ],
-    "relevance_score": 7
+    "relevance_score": 8
   },
   {
     "id": "04fe624b64ce",
@@ -268,13 +228,13 @@
     "relevance_score": 7
   },
   {
-    "id": "87f92b33a776",
-    "title": "Flosum Outlines Agentic DevOps Approach as Enterprises Scale Salesforce Agentforce - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxObnNaZTR3RzRSRkVjUGZOdlRTNDRvUXBXNzlXc2IydnpMOUJRV1pWaW9HbFRlRzFzMDNYRkloWW55NzE1S0I5eWZEN096NXMtSWtKcWV5ZkdNTXBZYy1HNXVCRXFnNzlsOFI2YXhfekswd29FdFhhTnlmRndqUFpEdUNHbHhxQktkc19iTUQ4NUFLeHB6Y0lQLWhUQTZFajhtYzJVVDlya19ReVJR?oc=5",
+    "id": "09ae5c55dca7",
+    "title": "Flosum Outlines Agentic DevOps Approach as Enterprises Scale Salesforce Agentforce - GlobeNewswire",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQT2RGLWg2dTBJczNYeFduZEZQNDRTV1BUeE9DeGc5MXFzQ1d4MVVncU85M3lwS28yY0Z1Y0xrVjZ1b2NHQ1RWU3FtcHR5U193RkpHdnNYSUdXcUh3Yy1qSmFTMm56UEFudzhtbUJIVnJ1LUNnVVhEM0dnWEl2UlBwdURFaS1WSzhMeFJZQTItclh4Wkh4MnRYYkY5UjNUOXF0UVI2U0dNME1xUW5nd2Z5NHlVdWMzVUVFZW9QVkwzX1JmTE9icHBpQUcyODJ4VHMyV2hNVngwVWVBWDR1eWpGcER5WG9OUEhWNnc?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
     "published": "2026-06-09T12:00:00+00:00",
-    "summary": "Flosum Outlines Agentic DevOps Approach as Enterprises Scale Salesforce Agentforce Yahoo Finance",
+    "summary": "Flosum Outlines Agentic DevOps Approach as Enterprises Scale Salesforce Agentforce GlobeNewswire",
     "image_url": null,
     "tags": [],
     "industries": [
