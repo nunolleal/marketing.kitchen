@@ -39,21 +39,6 @@
     ]
   },
   {
-    "id": "503044872a43",
-    "title": "Top Takeaways from Connections 2026",
-    "url": "https://www.salesforce.com/blog/connections-conference-takeaways/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-12T16:27:54+00:00",
-    "summary": "Get the scoop on what went down at the marketing conference of the year",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/CNX26-260604-2SM02772.jpg?w=7000",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 33
-  },
-  {
     "id": "a9930cbdc18d",
     "title": "Salesforce Holds 'Agentforce World Tour Korea 2026' in Seoul - thelec.net",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sZmphN0hQcFE1ZmpDa2MwWEFfQktmV3hZWkd2ZzhkWWNFYm5kd0s1WEdRYXlQZng3QUQ5cmpWZFFxdENmX2dKUmliN3BnUndHcm82aXJYZ0xxY3V3SWJIQWVhaEpHQ1U?oc=5",
@@ -67,6 +52,21 @@
       "industrial"
     ],
     "relevance_score": 32
+  },
+  {
+    "id": "503044872a43",
+    "title": "Top Takeaways from Connections 2026",
+    "url": "https://www.salesforce.com/blog/connections-conference-takeaways/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-12T16:27:54+00:00",
+    "summary": "Get the scoop on what went down at the marketing conference of the year",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/CNX26-260604-2SM02772.jpg?w=7000",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 30
   },
   {
     "id": "dc4062775644",
@@ -113,7 +113,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 11
+    "relevance_score": 10
   },
   {
     "id": "affadcd2b281",
@@ -154,23 +154,6 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/Untitled-design-13.png",
     "tags": [],
     "industries": [],
-    "relevance_score": 8
-  },
-  {
-    "id": "82096921c22d",
-    "title": "Meet a Commerce Crew Trailblazer for Startups: Building Agentic Ecommerce",
-    "url": "https://www.salesforce.com/blog/small-business/commerce-crew-trailblazer-for-startups/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-11T17:00:00+00:00",
-    "summary": "Find out how this Trailblazer shares the biggest opportunity startups can't afford to ignore.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_97cb39.png?w=1672",
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
     "relevance_score": 8
   },
   {
@@ -215,17 +198,19 @@
     "relevance_score": 7
   },
   {
-    "id": "c2b75dd7865c",
-    "title": "Nasscom's new UK Technology Advisory Council to focus on AI, tech security and digital growth - The Times of India",
-    "url": "https://news.google.com/rss/articles/CBMixwJBVV95cUxNeUlKc2xEVFNEX2hCNzBCaDFDbnRBeGdpRFpKMVA3NExwY2g1Q0lsSlNNYzJ6bEtCczY3OEh5bmNmLWQ1ZTFaak82eFlkSEZtNDJPcmlNdS15bW4yZ1ZhbGwxNFpLZVg5bFBoR2ZrbFFRbW5UTWZuRjJ6MzZCU1h5U0l0M1lLeGoxaldycUp0VUMyV2xxU2p0MWU3MHFnQ3V3UUd5QjJ6SXdmSGdwVjA1NUN5MzhGc3JiTndhWVdHRHduOVpxdjU2dmJCSGZCcWVkWkVCRE9WWTlsbC1Mc0xiRFZkN203cXd1MFZHYTFiN2VKVG1EQ01VVk5pSUhLNFMxdjRiZHNkY3MtVFZHeXR3TEstQVhwWjZMMHdudTBWYkw0UzRjTmF5dmlvUUpUc0FETmZRbWNmdnhIdV9wYXNnSlROeWxvSTTSAYoCQVVfeXFMUGE3NGd3Z0Y3dXpqWTNnMzFrTk1RVkVOY1lWMThyZWE2d0lJUkZ5blVKUS1fRUhLa3h4S0xoYVNRRUFCTkFjMDJLWVctS1lXcnZOclJrU1dLdk5XNnZnZ3pNMXNwb0p5R0xYamhkWkpuSWhfX1F3Sk9jRXlobF9NT0VxTDBkaVdfenpaWGNjTmtManQ2VlAzbzhrc25jUUNoakd0ZWFZbGhHeHBBbW1mcThhNzZsYUtzNVMwRk9uaW9oR0ZqYTVZTVBCZkVFY3VaejkwNFc2bEhaRC00eG1wUlFqMlNhczZiem1fNXhZcVhBQUIweG9hMFFxX08xanlpeDFvc0FNeTVod1E?oc=5",
-    "source": "Salesforce AI",
+    "id": "82096921c22d",
+    "title": "Meet a Commerce Crew Trailblazer for Startups: Building Agentic Ecommerce",
+    "url": "https://www.salesforce.com/blog/small-business/commerce-crew-trailblazer-for-startups/",
+    "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-06-12T10:45:00+00:00",
-    "summary": "Nasscom's new UK Technology Advisory Council to focus on AI, tech security and digital growth The Times of India",
-    "image_url": null,
+    "published": "2026-06-11T17:00:00+00:00",
+    "summary": "Find out how this Trailblazer shares the biggest opportunity startups can't afford to ignore.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_97cb39.png?w=1672",
     "tags": [],
     "industries": [
-      "tech"
+      "tech",
+      "retail",
+      "industrial"
     ],
     "relevance_score": 7
   },

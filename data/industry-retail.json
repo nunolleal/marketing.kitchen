@@ -1,22 +1,5 @@
 [
   {
-    "id": "0af3d8e3689b",
-    "title": "Sociable: Google enlists Walmart Connect to enhance YouTube ad insights",
-    "url": "https://www.marketingdive.com/news/sociable-google-enlists-walmart-connect-to-enhance-youtube-ad-insights/822769/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-06-12T13:41:00+00:00",
-    "summary": "Brands can reach Walmart’s U.S. customers through YouTube campaigns and see how those ads impact sales.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "consumer"
-    ],
-    "relevance_score": 39
-  },
-  {
     "id": "054ee6e0d87d",
     "title": "The World Cup is a big chance for retail media to prove itself to advertisers",
     "url": "https://digiday.com/media/the-world-cup-is-a-big-chance-for-retail-media-to-prove-itself-to-advertisers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -57,6 +40,23 @@
     "relevance_score": 36
   },
   {
+    "id": "0af3d8e3689b",
+    "title": "Sociable: Google enlists Walmart Connect to enhance YouTube ad insights",
+    "url": "https://www.marketingdive.com/news/sociable-google-enlists-walmart-connect-to-enhance-youtube-ad-insights/822769/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-06-12T13:41:00+00:00",
+    "summary": "Brands can reach Walmart’s U.S. customers through YouTube campaigns and see how those ads impact sales.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "consumer"
+    ],
+    "relevance_score": 36
+  },
+  {
     "id": "556bbb85bad2",
     "title": "The Weekly Closeout: Trump loves inflation and Abercrombie opens a ‘pinnacle’ store in SoHo",
     "url": "https://www.retaildive.com/news/the-weekly-closeout-trump-loves-inflation-and-abercrombie-opens-a-pinnacl/822705/",
@@ -71,7 +71,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 36
+    "relevance_score": 33
   },
   {
     "id": "a3cf736e604a",
@@ -122,7 +122,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 29
+    "relevance_score": 26
   },
   {
     "id": "2795de68c54d",
@@ -158,29 +158,6 @@
     "relevance_score": 20
   },
   {
-    "id": "c8120a3f312c",
-    "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-06-13T21:39:26+00:00",
-    "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "AI",
-      "Amazon",
-      "Anthropic",
-      "News",
-      "Policy"
-    ],
-    "industries": [
-      "retail",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 16
-  },
-  {
     "id": "fdd8b9377618",
     "title": "Amazon CEO reportedly raised Anthropic model concerns before government crackdown",
     "url": "https://techcrunch.com/2026/06/13/amazon-ceo-reportedly-raised-anthropic-model-concerns-before-government-crackdown/",
@@ -205,24 +182,42 @@
     ]
   },
   {
-    "id": "4654ec284b9a",
-    "title": "PGA Tour Superstore Now Has Golf Simulator Showrooms In All Stores",
-    "url": "https://www.forbes.com/sites/erikmatuszewski/2026/06/13/pga-tour-superstore-now-has-golf-simulator-showrooms-in-all-stores/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-13T22:10:07+00:00",
-    "summary": "PGA Tour Superstore has simulator showrooms, in all 82 of its stores, for customers to assess needs and test equipment technology.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a2dd2c974b5c502aa8ed249/0x0.jpg?width=960",
+    "id": "c8120a3f312c",
+    "title": "Amazon security research reportedly led to the White House’s Anthropic Fable ban",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/949601/amazon-anthropic-fablemythos-government-ban",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-06-13T21:39:26+00:00",
+    "summary": "According to the Wall Street Journal, the export control directive that led to Anthropic cutting off access to Fable 5 and Mythos 5 was triggered in part by cybersecurity research from Amazon and conversations between CEO Andy Jassy and the White House. According to the...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/STK269_ANTHROPIC_2_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
     "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
+      "AI",
+      "Amazon",
+      "Anthropic",
+      "News",
+      "Policy"
     ],
     "industries": [
-      "tech",
-      "retail"
+      "retail",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "8536495ce3eb",
+    "title": "Top investment bank resets Adobe target as AI strategy backfires - thestreet.com",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOR2FoNlpTcmdzMlNTV3dOTVNOZVBzaXVIeEVDVHJOWE1IT2E2dWU1Ums2OFlfZ0NCYlJCXzNkc3hYc1BmUlc5YXFMUW5tdTRXQ18tV3A4NlZPLUctYzRzVmN6dTlXa09uM1dCQjE4Y3RRNmNDdlVHZnMwdlNCYjlWUHozY3BXd1JrNzFXdXdHVGZ5WGI1aTgyTjl0YmQtbWFZUWl6UU5RUi1aWFU?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-06-14T14:47:00+00:00",
+    "summary": "Top investment bank resets Adobe target as AI strategy backfires thestreet.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial",
+      "financial"
     ],
     "relevance_score": 13
   },
@@ -259,21 +254,6 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 11
-  },
-  {
-    "id": "c689cd80c207",
-    "title": "Kohl’s prices ‘hundreds of items’ below $20 for summer sale",
-    "url": "https://www.retaildive.com/news/kohls-summer-sale-june-prime-day/822634/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-11T16:04:00+00:00",
-    "summary": "The event, which runs June 23 through June 28, will also offer free shipping on online orders, as the department store spotlights value.",
-    "image_url": "https://imgproxy.divecdn.com/yQhfkv8lJDusbu7C7Xt0ZtXLjEwmkEZFKP-mZHbUNiE/g:nowe:1:21/c:1277:721/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9rb2hsc19zZXBob3JhXzEuanBlZw==.webp",
-    "tags": [],
-    "industries": [
-      "retail"
-    ],
     "relevance_score": 10
   },
   {
@@ -289,23 +269,6 @@
     "industries": [
       "retail",
       "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "6162b6bfc3cf",
-    "title": "Sleep Number files for bankruptcy, inks merger deal",
-    "url": "https://www.retaildive.com/news/sleep-number-files-bankruptcy-inks-merger-deal/822775/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-12T16:22:00+00:00",
-    "summary": "Sleep Country Canada is the stalking horse bidder for the struggling 40-year-old retailer, which is known for its adjustable mattresses.",
-    "image_url": "https://imgproxy.divecdn.com/dwz1FcY0EBrvvgC1kI08RwAny-Hbv0JKkdkDc-3Ens4/g:nowe:16:0/c:2525:1426/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DTl9IZXJvX1dhbG51dDAyX1BMQUlOLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "financial"
     ],
     "relevance_score": 10
   },
@@ -332,17 +295,34 @@
     "relevance_score": 10
   },
   {
-    "id": "6c29fb4bf785",
-    "title": "Nordstrom, Adidas team up for World Cup style",
-    "url": "https://www.retaildive.com/news/nordstrom-adidas-team-world-cup-style-corner-pop-up/822496/",
+    "id": "c689cd80c207",
+    "title": "Kohl’s prices ‘hundreds of items’ below $20 for summer sale",
+    "url": "https://www.retaildive.com/news/kohls-summer-sale-june-prime-day/822634/",
     "source": "Retail Dive",
     "source_category": "industry_retail",
-    "published": "2026-06-11T14:32:00+00:00",
-    "summary": "The partnership will be featured in 35 of the department store’s locations, including at The Corner at its NYC flagship.",
-    "image_url": "https://imgproxy.divecdn.com/RMuqgbUw9ZmzUw6EK7jlCXOePBuYeIbQRVc4c6DZ5mk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hZGlkYXNfbm9yZHN0cm9tX291dHNpZGUuanBlZw==.webp",
+    "published": "2026-06-11T16:04:00+00:00",
+    "summary": "The event, which runs June 23 through June 28, will also offer free shipping on online orders, as the department store spotlights value.",
+    "image_url": "https://imgproxy.divecdn.com/yQhfkv8lJDusbu7C7Xt0ZtXLjEwmkEZFKP-mZHbUNiE/g:nowe:1:21/c:1277:721/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9rb2hsc19zZXBob3JhXzEuanBlZw==.webp",
     "tags": [],
     "industries": [
       "retail"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "6162b6bfc3cf",
+    "title": "Sleep Number files for bankruptcy, inks merger deal",
+    "url": "https://www.retaildive.com/news/sleep-number-files-bankruptcy-inks-merger-deal/822775/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-06-12T16:22:00+00:00",
+    "summary": "Sleep Country Canada is the stalking horse bidder for the struggling 40-year-old retailer, which is known for its adjustable mattresses.",
+    "image_url": "https://imgproxy.divecdn.com/dwz1FcY0EBrvvgC1kI08RwAny-Hbv0JKkdkDc-3Ens4/g:nowe:16:0/c:2525:1426/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DTl9IZXJvX1dhbG51dDAyX1BMQUlOLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial",
+      "financial"
     ],
     "relevance_score": 9
   },
@@ -385,6 +365,21 @@
     "relevance_score": 8
   },
   {
+    "id": "6c29fb4bf785",
+    "title": "Nordstrom, Adidas team up for World Cup style",
+    "url": "https://www.retaildive.com/news/nordstrom-adidas-team-world-cup-style-corner-pop-up/822496/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-06-11T14:32:00+00:00",
+    "summary": "The partnership will be featured in 35 of the department store’s locations, including at The Corner at its NYC flagship.",
+    "image_url": "https://imgproxy.divecdn.com/RMuqgbUw9ZmzUw6EK7jlCXOePBuYeIbQRVc4c6DZ5mk/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9hZGlkYXNfbm9yZHN0cm9tX291dHNpZGUuanBlZw==.webp",
+    "tags": [],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "c983ecd32ca7",
     "title": "Shoe Carnival changes corporate name to Shoe Station Group",
     "url": "https://www.retaildive.com/news/shoe-carnival-name-change-shoe-station-group-ticker-nasdaq/822618/",
@@ -398,7 +393,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 8
+    "relevance_score": 7
   },
   {
     "id": "82096921c22d",
@@ -415,7 +410,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 8
+    "relevance_score": 7
   },
   {
     "id": "9972a9ccbd11",
