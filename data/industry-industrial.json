@@ -12,7 +12,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 72
+    "relevance_score": 69
   },
   {
     "id": "5e1005f089af",
@@ -70,9 +70,11 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 58,
+    "relevance_score": 55,
     "also_covered_by": [
-      "Salesforce AI"
+      "Salesforce AI",
+      "Wall Street",
+      "Telecom"
     ]
   },
   {
@@ -89,7 +91,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 57
+    "relevance_score": 54
   },
   {
     "id": "2c18c0757666",
@@ -106,7 +108,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 54
+    "relevance_score": 51
   },
   {
     "id": "786c28da927a",
@@ -130,49 +132,6 @@
     "relevance_score": 48
   },
   {
-    "id": "c634992e5e14",
-    "title": "The UK Places a Sweeping Ban on Social Media for Kids Under 16",
-    "url": "https://www.wired.com/story/uk-social-media-under-16-ban/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-06-15T09:01:53+00:00",
-    "summary": "The UK government is introducing a ban on social media for children and a minimum age for some chatbots in an attempt to shield young people from dangerous corners of the web.",
-    "image_url": "https://media.wired.com/photos/6a2eafa954889dc704dfed38/master/pass/2280926802",
-    "tags": [
-      "Business",
-      "Business / Regulation",
-      "UK",
-      "Meta",
-      "kids"
-    ],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 48
-  },
-  {
-    "id": "a30ace20f2b5",
-    "title": "Hashtag Orange partners Autviz AI Agents to launch AI Lab for agentic marketing operations - bestmediainfo.com",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNd1phLTBJWk1memhqY0FQRzhwV2lrVjNyZml4LTJJU2ZfODloN0NjcFR6enN6TzdWTE9RSDZEeXVyN1U2bTg0UGV4WWctaU5SMnkxNGVDT0VkYjVXZXpNTUE4ak1CcVlMTHRKZTdkbnR5dWgzU3ZxN3VURnctcDFwVG5PdVVMYWR2Qk9weFVxY082MldFTThwUXNuNUZ6ZGNIZGhia3gtTENCYVZLMEM5LVNwc0xaM1lvTUc4YjFCemNLdjNjZEZGZklLbkdXcFlGNXdrbXhmaWE3clJoREYwcmtjS3RQY0VOVzM40gHrAUFVX3lxTE13WmEtMElaTWZ6aGpjQVBHOHBXaWtWM3JmaXgtMklTZl84OWg3Q2NwVHp6c3pPN1ZMT1FINkR5dXI3VTZtODRQZXhZZy1pTlIyeTE0ZUNPRWRiNVdlek1NQThqTUJxWUxMdEplN2RudHl1aDNTdnE3dVRGdy1wMXBUbk91VUxhZHZCT3B4VXFjTzYyV0VNOHBRc241RnpkY0hkaGJreC1MQ0JhVkswQzktU3BzTFozWW9NRzhiMUJ6Y0t2M2NkRkZmSUtuR1dwWUY1d2tteGZpYTdyUmhERjBya2NLdFBjRU5XMzg?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-06-12T08:22:16+00:00",
-    "summary": "Hashtag Orange partners Autviz AI Agents to launch AI Lab for agentic marketing operations bestmediainfo.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 47,
-    "also_covered_by": [
-      "Adobe",
-      "Adobe Marketing Cloud",
-      "Fierce Healthcare"
-    ]
-  },
-  {
     "id": "1c3059fb7886",
     "title": "The latest AI-powered martech news and releases",
     "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
@@ -193,6 +152,28 @@
     "relevance_score": 46
   },
   {
+    "id": "c634992e5e14",
+    "title": "The UK Places a Sweeping Ban on Social Media for Kids Under 16",
+    "url": "https://www.wired.com/story/uk-social-media-under-16-ban/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-06-15T09:01:53+00:00",
+    "summary": "The UK government is introducing a ban on social media for children and a minimum age for some chatbots in an attempt to shield young people from dangerous corners of the web.",
+    "image_url": "https://media.wired.com/photos/6a2eafa954889dc704dfed38/master/pass/2280926802",
+    "tags": [
+      "Business",
+      "Business / Regulation",
+      "UK",
+      "Meta",
+      "kids"
+    ],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 45
+  },
+  {
     "id": "03dd6b7bca3a",
     "title": "Why do South Koreans love AI so much?",
     "url": "https://www.technologyreview.com/2026/06/15/1138983/why-do-south-koreans-love-ai-so-much/",
@@ -211,7 +192,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 45
+    "relevance_score": 42
   },
   {
     "id": "b958c350d921",
@@ -246,47 +227,18 @@
     "relevance_score": 40
   },
   {
-    "id": "e0190236c929",
-    "title": "15 creative campaigns to know about today - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY1RfWEhJZFAxOTVEZmEtTHFkV0EyblJvUnlxbVZJbzlZb2drNkl1Y1hPNzROYjdZS2lHSDZ5cmYtdjY1QXlvLUlycmx0UmdPc2NSSFpYSl84TzRNV2FyOHhhdDJLSk45d1o0YkJTZ0lVeVNEWE5IbFhWLXExeWI4aDNzMDdyMmJqaDQtTFBQUGQxektzUXd6Zi1mYlM4TXM5UHRKOFctZDg3NTlOZFYxV0xsdXdCOHJ1Qm1MZTRjS1pCZW8tal9VdWN2VHk0THBvVUszYg?oc=5",
+    "id": "bcf4e723492f",
+    "title": "What brands and media buyers want from a combined Fox and Roku - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOT2JVbUZ3YWtLRTdsdlUwVmJxRzZpMGZEMlI3Yy1jekZhaGlOUVVNSnZMdnlzcl9jN1lPUVNmU0JQU1RJd094SnpVZVk5OU83WFJ5eU1sS2FwRWpES1FlUHVxbjBYdUJEc2Q2cFZfLWRLS3d3dXlhRVZ2OXpmOFgxalVjSWVFb0JpSmlWRllsSHg?oc=5",
     "source": "Ad Age",
     "source_category": "marketing",
-    "published": "2026-06-15T16:00:00+00:00",
-    "summary": "15 creative campaigns to know about today Ad Age",
+    "published": "2026-06-15T23:39:00+00:00",
+    "summary": "What brands and media buyers want from a combined Fox and Roku Ad Age",
     "image_url": null,
     "tags": [],
     "industries": [
-      "industrial"
-    ],
-    "relevance_score": 40
-  },
-  {
-    "id": "7a4f35cf8732",
-    "title": "Absa Bank: A Blueprint for the Agentic Enterprise",
-    "url": "https://www.salesforce.com/blog/absa-bank-agentforce/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-15T20:42:35+00:00",
-    "summary": "How the 2026 Celent Model Bank Winner Transformed SME Engagement through Agentforce.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/fy27_q2_fins_celent_absa_customer_video_promos_form_conf_image_2160x1215_1x.webp",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 40
-  },
-  {
-    "id": "fb3fcddf00bc",
-    "title": "10 key agency and marketing job moves—and why they matter - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb09QYTlvbVFodGpYT0tsUjd4MHUtVm1iTFhIWVBmVGJObEJWbzRvdUstbGp0dDlYTTkwcElING5ETTFZdlNzeUc0Wl9aaF9wWWF2ZjlkdmplRk93Y2dqSkZoc3JmSGkwMkNhOEVNUnpqREFOaUpNQzQxUHIzSEhSVGJjOUNtQi1naHdTU3hHdV9tOGhoSmZTYWQweXlVdw?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-06-15T09:00:00+00:00",
-    "summary": "10 key agency and marketing job moves—and why they matter Ad Age",
-    "image_url": null,
-    "tags": [],
-    "industries": [
+      "media",
+      "consumer",
       "industrial"
     ],
     "relevance_score": 39
@@ -305,7 +257,11 @@
       "media",
       "industrial"
     ],
-    "relevance_score": 37
+    "relevance_score": 37,
+    "also_covered_by": [
+      "Adobe Inc",
+      "Agentic Marketing"
+    ]
   },
   {
     "id": "c0e825947f68",
@@ -323,6 +279,37 @@
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 37
+  },
+  {
+    "id": "e0190236c929",
+    "title": "15 creative campaigns to know about today - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQY1RfWEhJZFAxOTVEZmEtTHFkV0EyblJvUnlxbVZJbzlZb2drNkl1Y1hPNzROYjdZS2lHSDZ5cmYtdjY1QXlvLUlycmx0UmdPc2NSSFpYSl84TzRNV2FyOHhhdDJLSk45d1o0YkJTZ0lVeVNEWE5IbFhWLXExeWI4aDNzMDdyMmJqaDQtTFBQUGQxektzUXd6Zi1mYlM4TXM5UHRKOFctZDg3NTlOZFYxV0xsdXdCOHJ1Qm1MZTRjS1pCZW8tal9VdWN2VHk0THBvVUszYg?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-06-15T16:00:00+00:00",
+    "summary": "15 creative campaigns to know about today Ad Age",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 37
+  },
+  {
+    "id": "7a4f35cf8732",
+    "title": "Absa Bank: A Blueprint for the Agentic Enterprise",
+    "url": "https://www.salesforce.com/blog/absa-bank-agentforce/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-15T20:42:35+00:00",
+    "summary": "How the 2026 Celent Model Bank Winner Transformed SME Engagement through Agentforce.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/fy27_q2_fins_celent_absa_customer_video_promos_form_conf_image_2160x1215_1x.webp",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "financial"
     ],
     "relevance_score": 37
   },
@@ -345,67 +332,19 @@
     "relevance_score": 36
   },
   {
-    "id": "e05c901d468c",
-    "title": "AI coworker push, Adobe CX Enterprise Coworker targets marketing teams - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOF9DVEtXWFNIbmtrN0hxZHp0LU91VmczSjJTWnk4MTR0NXVaTmJLRU1wRTlhaGpzaWtQWnQ1LUw1NDY1LWpmV3hNTXRoS0tJQlBITTdEc3B1SXlKZndyczNGeENmNjRpS2p6OUJVUUhudFltX1hCeF9ISnphWW4zWFR4OE50aGtLUmNjNE1vMFVxZ01JQXRJTjJMOTFKcVBBb09ueVREbnFKZXZCcDE5WENjNURRemY1X2lNWEI4VTRGZllKeDJJ?oc=5",
-    "source": "Adobe Marketing Cloud",
-    "source_category": "adobe",
-    "published": "2026-06-15T10:17:57+00:00",
-    "summary": "AI coworker push, Adobe CX Enterprise Coworker targets marketing teams AD HOC NEWS",
+    "id": "fb3fcddf00bc",
+    "title": "10 key agency and marketing job moves—and why they matter - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNb09QYTlvbVFodGpYT0tsUjd4MHUtVm1iTFhIWVBmVGJObEJWbzRvdUstbGp0dDlYTTkwcElING5ETTFZdlNzeUc0Wl9aaF9wWWF2ZjlkdmplRk93Y2dqSkZoc3JmSGkwMkNhOEVNUnpqREFOaUpNQzQxUHIzSEhSVGJjOUNtQi1naHdTU3hHdV9tOGhoSmZTYWQweXlVdw?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-06-15T09:00:00+00:00",
+    "summary": "10 key agency and marketing job moves—and why they matter Ad Age",
     "image_url": null,
     "tags": [],
     "industries": [
-      "retail",
       "industrial"
     ],
     "relevance_score": 36
-  },
-  {
-    "id": "e19db706992f",
-    "title": "PAN’s Zareen Fidlon on AI Credibility Fatigue, Trust Signals and Brand Visibility: The Demand Gen Report Q&A - Demand Gen Report",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNZW5ZcG1CRlB0eWRrRzRIZFVka2E2ZWk2aE05RENhTWgyamluMzhZQzQ5bXRTTHNrQ28tMlM0eDJyZ1ZPMkFxRFdHYlM4ZHNVc3NiT0lYZFdFSGVxaExYOHhiS3NmQndxb0Z3UlpURDhWckwzdnBkSlJMYkpYRF9SanNHZ2dDbEQ0WUVPSnJpeTU4d29MVDhCMVhoaTFvb0REb19XSkxaamd2eDFKWHRqQnZfYTRLeFBsbHdpMk5hMTJyaU9YWW9MMTdHd2l5X1p3V3c3aWR5dDlWcGUtVnRQRDVSRkZnalhqQ2FPVko3VHV4Um5GYVlDYg?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-06-15T11:04:23+00:00",
-    "summary": "PAN’s Zareen Fidlon on AI Credibility Fatigue, Trust Signals and Brand Visibility: The Demand Gen Report Q&A Demand Gen Report",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 36
-  },
-  {
-    "id": "36ad829e7eb9",
-    "title": "Unifonic acquires Segmentify to pioneer agentic marketing across MENA - intlbm",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQeXE0clR0Uzg5U1J2dmhXS0gzcG8yUy1udGtMLUFva3BkLUJDZVdUUWc0WU91YTFWS1kxelpBVGFZbFdXQUxBWWI2SkhXQU1VbmVnRjgtdVRYWVVJMXN0UmVaVEF6WHE4U0xUQkNtbnBNWDljeDZwU2l3S1RVSG1Ga1A1bXlKeDVBSWNoNFBQS09kUnhidkdwSVNHdlFxcGEtNlE?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-06-11T06:29:02+00:00",
-    "summary": "Unifonic acquires Segmentify to pioneer agentic marketing across MENA intlbm",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 35
-  },
-  {
-    "id": "975f3fd7b512",
-    "title": "Salesforce (CRM) to Acquire Metering Platform M3ter to Enhance Agentforce Revenue Management - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVHFwYW5CTXVZMFNBRDk2NlQ2MzNBM0lXN2xlZ1BmWEZadTVPVkhmbWFjVmtrSFZYaG5pMlJCb01wVXdWV1RPRWs0b013NkxIVW52Q0YyUXc0cTktZUFIakZmR3hZMkhiR0luZ1ZiY2g3SDJ5eVl4blpQY2d5UWI0Qmg5c3NaTWVDX09YNkczcndEYm0yUWhXWVFqekF6Y28ydWRKWkx0NkE?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-11T19:54:51+00:00",
-    "summary": "Salesforce (CRM) to Acquire Metering Platform M3ter to Enhance Agentforce Revenue Management Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 35
   },
   {
     "id": "054ee6e0d87d",
@@ -426,6 +365,22 @@
       "industrial"
     ],
     "relevance_score": 35
+  },
+  {
+    "id": "e05c901d468c",
+    "title": "AI coworker push, Adobe CX Enterprise Coworker targets marketing teams - AD HOC NEWS",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQOF9DVEtXWFNIbmtrN0hxZHp0LU91VmczSjJTWnk4MTR0NXVaTmJLRU1wRTlhaGpzaWtQWnQ1LUw1NDY1LWpmV3hNTXRoS0tJQlBITTdEc3B1SXlKZndyczNGeENmNjRpS2p6OUJVUUhudFltX1hCeF9ISnphWW4zWFR4OE50aGtLUmNjNE1vMFVxZ01JQXRJTjJMOTFKcVBBb09ueVREbnFKZXZCcDE5WENjNURRemY1X2lNWEI4VTRGZllKeDJJ?oc=5",
+    "source": "Adobe Marketing Cloud",
+    "source_category": "adobe",
+    "published": "2026-06-15T10:17:57+00:00",
+    "summary": "AI coworker push, Adobe CX Enterprise Coworker targets marketing teams AD HOC NEWS",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 33
   },
   {
     "id": "f809eceeb818",
@@ -589,21 +544,6 @@
     "relevance_score": 24
   },
   {
-    "id": "dc4062775644",
-    "title": "Just Text Me. SMS Marketing For Growing Businesses That Want to Scale Fast",
-    "url": "https://www.salesforce.com/blog/small-business/sms-marketing-to-grow-business/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-11T13:00:00+00:00",
-    "summary": "Send messages that matter with a strategy built for speed and personal connection.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/image_c7abb8.jpeg",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 24
-  },
-  {
     "id": "ee431afc7911",
     "title": "13 creative campaigns to know about today - Ad Age",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOTm5JRUFmcW5sanBwV2RRRE02UDBTcTNBWGZfVjV6T3ZoYi1Lb3luRFFRUnd2SkxHeXEyVFFrOWtnZnR5MWxnVnFyS05PYmp3NWdZV1RhbktkQWVhNlpSM25YcXNtQ2hTM05MTjV2aUp2SElRSkktNEI4UklhZmtOcnk4Q0FSU0hVOUJaZ09JM3lOT2xVOVZHck9SU0lmVlRkdXVRb1JQN2NoTVBndUhZdGdTX2pWelV0Rm03QzRTdHg?oc=5",
@@ -646,29 +586,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 17
-  },
-  {
-    "id": "9e1b9d0f3cb5",
-    "title": "SpaceX is public: Everything you need to know post-IPO",
-    "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-06-15T18:30:34+00:00",
-    "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1...",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
-    "tags": [
-      "AI",
-      "Space",
-      "Transportation",
-      "Elon Musk",
-      "IPO"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "4fed661940bf",
@@ -683,7 +601,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "c63ed2a186ec",
@@ -704,7 +622,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "630e60e2f258",
@@ -724,179 +642,15 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 17
-  },
-  {
-    "id": "ebad43a4dd0a",
-    "title": "1 in 4 World Cup Matches Could Be Played in Dangerous Temperatures",
-    "url": "https://www.wired.com/story/2026-fifa-world-cup-dangerous-temperatures-heat/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-06-15T10:00:00+00:00",
-    "summary": "A new report warns that Miami, Kansas City, Philadelphia, Dallas, and Houston could be particularly hot places to play during the 2026 World Cup.",
-    "image_url": "https://media.wired.com/photos/6a1078ed02c28758df602b9a/master/pass/ronaldo.jpg",
-    "tags": [
-      "Science",
-      "Science / Environment",
-      "World Cup 2026",
-      "Sports",
-      "health"
-    ],
-    "industries": [
-      "industrial"
-    ],
     "relevance_score": 16
   },
   {
-    "id": "9f33ffa8fe33",
-    "title": "85% of IT teams claim every AI agent is under control. Only 42% actually know who owns them.",
-    "url": "https://venturebeat.com/security/85-of-it-teams-claim-every-ai-agent-is-under-control-only-42-actually-know-who-owns-them",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-06-15T17:19:28+00:00",
-    "summary": "Organizational leaders are nearly twice as likely to hide their AI use compared to all other employees, at 42% versus 23%, according to new Ivanti research surveying 3,900 employees across six countries. Among leaders who conceal that usage, 52% say they do it for a \"secret...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/VVD0axSaQb70MPEzSbZms/5dfd23c2b3da09d025fbc393412549c9/hero.png?w=300&q=30",
-    "tags": [
-      "Security"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "0485dea9d005",
-    "title": "Why Advertisers Have The Upper Hand At The 2026 World Cup—Whether The U.S. Wins Or Not",
-    "url": "https://www.forbes.com/sites/johncassillo/2026/06/15/world-cup-ads-face-unique-challenges-opportunities-this-summer/",
+    "id": "cf99edeb1bca",
+    "title": "8 Believed Dead After B-52 Crashes After Takeoff At Edwards Air Force Base",
+    "url": "https://www.forbes.com/sites/zacharyfolk/2026/06/15/8-believed-dead-after-b-52-crashes-after-takeoff-at-edwards-air-force-base/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-06-15T17:41:09+00:00",
-    "summary": "The biggest World Cup ever is off and running and advertisers are ready to take advantage both in the U.S. and around the world.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a2c29f970991d66125b0236/0x0.jpg?width=960",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "23c198522da8",
-    "title": "Ilia Topuria Breaks Silence After Savage TKO Loss To Justin Gaethje",
-    "url": "https://www.forbes.com/sites/brianmazique/2026/06/15/ilia-topuria-breaks-silence-after-savage-tko-loss-to-justin-gaethje/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-15T18:20:05+00:00",
-    "summary": "Ilia Topuria responded to the first loss of his career, a fourth-round TKO against Justin Gaethje at UFC Freedom 250, with a classy message and a promise of a rematch.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a30410195f24cc555cbd1e1/0x0.jpg?width=960&precrop=1406%2C792%2Cx0%2Cy32",
-    "tags": [
-      "Gaming",
-      "/gaming",
-      "Innovation",
-      "/innovation",
-      "Gaming"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "5cef4596cb84",
-    "title": "Meta’s new ‘AI Mode’ on Facebook pulls from public info across its platforms",
-    "url": "https://techcrunch.com/2026/06/15/metas-new-ai-mode-on-facebook-pulls-from-public-info-across-its-platforms/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-06-15T18:30:58+00:00",
-    "summary": "Meta announced Monday that it's rolling out a wave of new AI features on Facebook, the latest sign of the company's effort to catch up in the AI race and keep users more engaged on the platform.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/meta-apps-GettyImages-2152655816.jpg?w=1024",
-    "tags": [
-      "AI",
-      "Apps",
-      "Social",
-      "Facebook",
-      "Generative AI"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16,
-    "also_covered_by": [
-      "The Verge"
-    ]
-  },
-  {
-    "id": "a8bac585e16c",
-    "title": "When deep research isn't enough for your business: Sakana AI launches 'ultra deep research' agent for 100+ page reports in 8 hours",
-    "url": "https://venturebeat.com/technology/when-deep-research-isnt-enough-for-your-business-sakana-ai-launches-ultra-deep-research-agent-for-100-page-reports-in-8-hours",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-06-15T19:30:07+00:00",
-    "summary": "Tokyo-based AI startup Sakana AI has officially launched its first commercial product, Sakana Marlin . Billed as a \" Virtual CSO \" (Chief Strategy Officer), Marlin is an autonomous, B2B research agent that deliberately abandons the instantaneous text generation of modern...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5StCW6O4h5oCFhnr4NlI2v/1738378131f3115fdb0ecfa61fbfebe2/ChatGPT_Image_Jun_15__2026__03_10_43_PM.png?w=300&q=30",
-    "tags": [
-      "Technology"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "bdd6d669bd74",
-    "title": "What The U.S.-Iran Ceasefire Really Means For Washington, Tehran, Israel, China And The Gulf",
-    "url": "https://www.forbes.com/sites/guneyyildiz/2026/06/15/what-the-us-iran-ceasefire-really-means-for-washington-tehran-israel-china-and-the-gulf/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-15T19:45:46+00:00",
-    "summary": "The Hormuz ceasefire calmed markets fast, but Iran gained leverage, Israel lost tempo, and the Gulf faces a bigger resilience bill. What each actor actually won.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3050c135b67906574e5586/0x0.jpg",
-    "tags": [
-      "Energy",
-      "/energy",
-      "Business",
-      "/business",
-      "Energy"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "ba515fab6a65",
-    "title": "Satya Nadella warns that AI could hollow out entire industries, echoing the damage done by globalization",
-    "url": "https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-06-15T19:49:14+00:00",
-    "summary": "Microsoft CEO Satya Nadella published a sweeping essay on Sunday laying out what he describes as the defining economic challenge of the AI era: the risk that a handful of frontier models will absorb the expertise of entire industries and commoditize it, leaving businesses...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/331duWoehbByzdXcqAME9g/c14f677c751a2ff2c9ddcbae149bc8e1/Nuneybits_Vector_art_of_golden_tokens_flooding_funnel_d3ce7ef3-0d50-4835-b3dd-de3ccfa6900e.webp?w=300&q=30",
-    "tags": [
-      "Technology",
-      "Data",
-      "Business"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "8567a9d855a7",
-    "title": "B-52 Crashes After Takeoff At Edwards Air Force Base",
-    "url": "https://www.forbes.com/sites/zacharyfolk/2026/06/15/b-52-crashes-after-takeoff-at-edwards-air-force-base/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-15T19:54:06+00:00",
+    "published": "2026-06-15T22:52:56+00:00",
     "summary": "Edwards Air Force Base said emergency responders were on the scene.",
     "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3057465b6f96afc99b0ec7/0x0.jpg?width=960",
     "tags": [
@@ -915,20 +669,42 @@
     ]
   },
   {
-    "id": "253ac9d46e4a",
-    "title": "The 15 Best Fans to Buy Before It Gets Hot Again (2026)",
-    "url": "https://www.wired.com/story/the-best-fans-2026/",
-    "source": "Wired",
+    "id": "7211c57adc8c",
+    "title": "Sundar Pichai faces boos, walkout at Stanford graduation ceremony over Google’s Israel, ICE ties",
+    "url": "https://techcrunch.com/2026/06/15/sundar-pichai-faces-boos-walkout-at-stanford-graduation-ceremony-over-googles-israel-ice-ties/",
+    "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-06-15T20:46:39+00:00",
-    "summary": "Swap out your creaky old box fan for a new model that lights up, mists, or even follows you around the room.",
-    "image_url": "https://media.wired.com/photos/6a0dd6dc9ba3e3dc9d0ced2f/master/pass/Update%20The%20Best%20Fans%20to%20Buy%20Before%20It%20Gets%20Hot%20Again%20top%20art%20052026%20SOURCE%20Amazon-Sylvane.jpg",
+    "published": "2026-06-15T23:51:44+00:00",
+    "summary": "AI is once again at the heart of a college graduation protest — this time for the technology's use in Google's defense contracts.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/sundar-io2026-intro-close.png?w=1191",
     "tags": [
-      "Gear",
-      "Gear / Buying Guides",
-      "Gear / Products / Home",
-      "Gear / Products / Smart Home",
-      "buying guides"
+      "AI",
+      "Google",
+      "ICE",
+      "Israel",
+      "Sundar Pichai"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "76f766b5a12e",
+    "title": "Menudo Reunites For Tour Celebrating Its 50th Anniversary",
+    "url": "https://www.forbes.com/sites/veronicavillafane/2026/06/15/menudo-reunites-for-tour-celebrating-its-50th-anniversary/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-16T00:59:18+00:00",
+    "summary": "Seven former members from multiple eras come together to honor the musical legacy of the iconic Latin boy band.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3090cd828ec5bf3282ccc3/0x0.jpg",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
     ],
     "industries": [
       "industrial"
@@ -936,17 +712,22 @@
     "relevance_score": 16
   },
   {
-    "id": "bc6af5c8068a",
-    "title": "90% of retailers are using AI. Far fewer are ready to run it at scale",
-    "url": "https://www.retaildive.com/spons/90-of-retailers-are-using-ai-far-fewer-are-ready-to-run-it-at-scale/822118/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-15T09:00:00+00:00",
-    "summary": "Most retailers invest in AI, but few see results. This piece shows why success depends on store-level execution—and what’s needed at the edge to drive impact.",
-    "image_url": null,
-    "tags": [],
+    "id": "ebad43a4dd0a",
+    "title": "1 in 4 World Cup Matches Could Be Played in Dangerous Temperatures",
+    "url": "https://www.wired.com/story/2026-fifa-world-cup-dangerous-temperatures-heat/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-06-15T10:00:00+00:00",
+    "summary": "A new report warns that Miami, Kansas City, Philadelphia, Dallas, and Houston could be particularly hot places to play during the 2026 World Cup.",
+    "image_url": "https://media.wired.com/photos/6a1078ed02c28758df602b9a/master/pass/ronaldo.jpg",
+    "tags": [
+      "Science",
+      "Science / Environment",
+      "World Cup 2026",
+      "Sports",
+      "health"
+    ],
     "industries": [
-      "retail",
       "industrial"
     ],
     "relevance_score": 15
@@ -987,37 +768,164 @@
     ]
   },
   {
-    "id": "61ae5e163d20",
-    "title": "Target’s Brian Cornell to remain executive chairman after proposal rejected",
-    "url": "https://www.retaildive.com/news/target-brian-cornell-executive-chairman-proposal-rejected/822907/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-15T15:54:00+00:00",
-    "summary": "Shareholders did not approve a policy suggestion making the board chair an independent director, despite pushback on Cornell's appointment.",
-    "image_url": "https://imgproxy.divecdn.com/BUyPFsIDrBkRc1vlD0C9YjNn0ykMzssOToNk8wxrtWU/g:nowe:121:214/c:3078:1739/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjEyNC5qcGc=.webp",
-    "tags": [],
+    "id": "9f33ffa8fe33",
+    "title": "85% of IT teams claim every AI agent is under control. Only 42% actually know who owns them.",
+    "url": "https://venturebeat.com/security/85-of-it-teams-claim-every-ai-agent-is-under-control-only-42-actually-know-who-owns-them",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-06-15T17:19:28+00:00",
+    "summary": "Organizational leaders are nearly twice as likely to hide their AI use compared to all other employees, at 42% versus 23%, according to new Ivanti research surveying 3,900 employees across six countries. Among leaders who conceal that usage, 52% say they do it for a \"secret...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/VVD0axSaQb70MPEzSbZms/5dfd23c2b3da09d025fbc393412549c9/hero.png?w=300&q=30",
+    "tags": [
+      "Security"
+    ],
     "industries": [
-      "tech",
-      "retail",
       "industrial"
     ],
     "relevance_score": 15
   },
   {
-    "id": "a0206da599aa",
-    "title": "‘To Kill A Nazi’ Honors Unsung Hero Of Israel’s Famous Entebbe Rescue",
-    "url": "https://www.forbes.com/sites/joshweiss/2026/06/15/to-kill-a-nazi-honors-unsung-hero-of-israels-famous-entebbe-rescue/",
+    "id": "9e1b9d0f3cb5",
+    "title": "SpaceX is public: Everything you need to know post-IPO",
+    "url": "https://techcrunch.com/2026/06/15/spacex-is-public-everything-you-need-to-know-post-ipo/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-06-15T18:30:34+00:00",
+    "summary": "TechCrunch has followed SpaceX's start, struggles, and successes from the early days. And we're here for what happens next too. This package of SpaceX IPO coverage includes who stands to win (and maybe some who won't), pre-IPO deals, and what's tucked inside its S-1...",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/elon-nasdaq-spacex-ipo.jpg?resize=1200,801",
+    "tags": [
+      "AI",
+      "Space",
+      "Transportation",
+      "Elon Musk",
+      "IPO"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "a8bac585e16c",
+    "title": "When deep research isn't enough for your business: Sakana AI launches 'ultra deep research' agent for 100+ page reports in 8 hours",
+    "url": "https://venturebeat.com/technology/when-deep-research-isnt-enough-for-your-business-sakana-ai-launches-ultra-deep-research-agent-for-100-page-reports-in-8-hours",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-06-15T19:30:07+00:00",
+    "summary": "Tokyo-based AI startup Sakana AI has officially launched its first commercial product, Sakana Marlin . Billed as a \" Virtual CSO \" (Chief Strategy Officer), Marlin is an autonomous, B2B research agent that deliberately abandons the instantaneous text generation of modern...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5StCW6O4h5oCFhnr4NlI2v/1738378131f3115fdb0ecfa61fbfebe2/ChatGPT_Image_Jun_15__2026__03_10_43_PM.png?w=300&q=30",
+    "tags": [
+      "Technology"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "bdd6d669bd74",
+    "title": "What The U.S.-Iran Ceasefire Really Means For Washington, Tehran, Israel, China And The Gulf",
+    "url": "https://www.forbes.com/sites/guneyyildiz/2026/06/15/what-the-us-iran-ceasefire-really-means-for-washington-tehran-israel-china-and-the-gulf/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-06-15T20:59:14+00:00",
-    "summary": "Michel Cujot, the unsung hero of the Entebbe hostage crisis, finally gets the recognition he deserves in Boaz Dvir's new documentary, 'To Kill a Nazi.'",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a2f19f497943ac00a5b6712/0x0.jpg?width=960&precrop=2347%2C1319%2Cx319%2Cy567",
+    "published": "2026-06-15T19:45:46+00:00",
+    "summary": "The Hormuz ceasefire calmed markets fast, but Iran gained leverage, Israel lost tempo, and the Gulf faces a bigger resilience bill. What each actor actually won.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3050c135b67906574e5586/0x0.jpg",
     "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
+      "Energy",
+      "/energy",
       "Business",
       "/business",
-      "Hollywood & Entertainment"
+      "Energy"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "ba515fab6a65",
+    "title": "Satya Nadella warns that AI could hollow out entire industries, echoing the damage done by globalization",
+    "url": "https://venturebeat.com/technology/satya-nadella-warns-that-ai-could-hollow-out-entire-industries-echoing-the-damage-done-by-globalization",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-06-15T19:49:14+00:00",
+    "summary": "Microsoft CEO Satya Nadella published a sweeping essay on Sunday laying out what he describes as the defining economic challenge of the AI era: the risk that a handful of frontier models will absorb the expertise of entire industries and commoditize it, leaving businesses...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/331duWoehbByzdXcqAME9g/c14f677c751a2ff2c9ddcbae149bc8e1/Nuneybits_Vector_art_of_golden_tokens_flooding_funnel_d3ce7ef3-0d50-4835-b3dd-de3ccfa6900e.webp?w=300&q=30",
+    "tags": [
+      "Technology",
+      "Data",
+      "Business"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "253ac9d46e4a",
+    "title": "The 15 Best Fans to Buy Before It Gets Hot Again (2026)",
+    "url": "https://www.wired.com/story/the-best-fans-2026/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-06-15T20:46:39+00:00",
+    "summary": "Swap out your creaky old box fan for a new model that lights up, mists, or even follows you around the room.",
+    "image_url": "https://media.wired.com/photos/6a0dd6dc9ba3e3dc9d0ced2f/master/pass/Update%20The%20Best%20Fans%20to%20Buy%20Before%20It%20Gets%20Hot%20Again%20top%20art%20052026%20SOURCE%20Amazon-Sylvane.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Buying Guides",
+      "Gear / Products / Home",
+      "Gear / Products / Smart Home",
+      "buying guides"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "fb4772aafa13",
+    "title": "Facebook’s new AI Mode search gets its info from public posts",
+    "url": "https://www.theverge.com/tech/950264/meta-ai-mode-search-facebook",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-06-15T21:15:08+00:00",
+    "summary": "Your public Facebook posts could help inform AI-generated results in Meta's new AI Mode. When you search on Facebook, the \"AI Mode\" option will appear alongside the usual search modes like \"People\" and \"Marketplace.\" It's one of several new AI features Meta is rolling out...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_7395.jpg?quality=90&amp;strip=all&amp;crop=0%2C11.992407477375%2C100%2C76.015185045249&amp;w=1200",
+    "tags": [
+      "AI",
+      "Facebook",
+      "Meta",
+      "News",
+      "Social Media"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15,
+    "also_covered_by": [
+      "TechCrunch AI"
+    ]
+  },
+  {
+    "id": "55c1cc83941b",
+    "title": "The Mysterious Ending Of ‘Disclosure Day,’ Explained",
+    "url": "https://www.forbes.com/sites/danidiplacido/2026/06/15/the-mysterious-ending-of-disclosure-day-explained/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-16T01:06:43+00:00",
+    "summary": "Aliens have a message for humanity in Steven Spielberg’s ‘Disclosure Day,’ but what does Margaret (Emily Blunt) say at the end of the film? Here’s the ending, explained.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a309e0985db609984c488c4/0x0.jpg?width=960",
+    "tags": [
+      "Arts",
+      "/arts",
+      "Lifestyle",
+      "/lifestyle",
+      "Arts"
     ],
     "industries": [
       "industrial"
@@ -1043,19 +951,17 @@
     "relevance_score": 14
   },
   {
-    "id": "e88d72b37d2d",
-    "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
-    "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
+    "id": "bc6af5c8068a",
+    "title": "90% of retailers are using AI. Far fewer are ready to run it at scale",
+    "url": "https://www.retaildive.com/spons/90-of-retailers-are-using-ai-far-fewer-are-ready-to-run-it-at-scale/822118/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
     "published": "2026-06-15T09:00:00+00:00",
-    "summary": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC...",
+    "summary": "Most retailers invest in AI, but few see results. This piece shows why success depends on store-level execution—and what’s needed at the edge to drive impact.",
     "image_url": null,
-    "tags": [
-      "Climate change and energy",
-      "App"
-    ],
+    "tags": [],
     "industries": [
+      "retail",
       "industrial"
     ],
     "relevance_score": 14
@@ -1098,57 +1004,31 @@
     "relevance_score": 14
   },
   {
-    "id": "365cbd6cf971",
-    "title": "Cybersecurity vets protest ‘dangerous’ US government ban on Anthropic’s most powerful models",
-    "url": "https://techcrunch.com/2026/06/15/cybersecurity-vets-protest-dangerous-us-government-ban-on-anthropics-most-powerful-models/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-06-15T15:29:51+00:00",
-    "summary": "A group made up of dozens of cybersecurity experts urged the White House to remove export-control restrictions on Anthropic’s Fable and Mythos models, arguing that the order is going to limit the ability of cybersecurity defenders to secure their software and products.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/claude-mythos-logo.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Security",
-      "Anthropic",
-      "Claude",
-      "Claude Fable 5"
-    ],
+    "id": "61ae5e163d20",
+    "title": "Target’s Brian Cornell to remain executive chairman after proposal rejected",
+    "url": "https://www.retaildive.com/news/target-brian-cornell-executive-chairman-proposal-rejected/822907/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-06-15T15:54:00+00:00",
+    "summary": "Shareholders did not approve a policy suggestion making the board chair an independent director, despite pushback on Cornell's appointment.",
+    "image_url": "https://imgproxy.divecdn.com/BUyPFsIDrBkRc1vlD0C9YjNn0ykMzssOToNk8wxrtWU/g:nowe:121:214/c:3078:1739/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjEyNC5qcGc=.webp",
+    "tags": [],
     "industries": [
       "tech",
+      "retail",
       "industrial"
     ],
     "relevance_score": 14
   },
   {
-    "id": "b121bbc74e59",
-    "title": "Your Importer Of Record Is About To Become Your Biggest Liability",
-    "url": "https://www.forbes.com/sites/izzyrosenzweig/2026/06/15/your-importer-of-record-is-about-to-become-your-biggest-liability/",
+    "id": "a0206da599aa",
+    "title": "‘To Kill A Nazi’ Honors Unsung Hero Of Israel’s Famous Entebbe Rescue",
+    "url": "https://www.forbes.com/sites/joshweiss/2026/06/15/to-kill-a-nazi-honors-unsung-hero-of-israels-famous-entebbe-rescue/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-06-15T17:43:05+00:00",
-    "summary": "Most founders can't name their importer of record. A new executive order is about to make that the question that decides whether you're exposed.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3035b558049e5dd9c6c02c/0x0.jpg",
-    "tags": [
-      "Retail",
-      "/retail",
-      "Business",
-      "/business",
-      "Retail"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "47a1d919eeec",
-    "title": "Multiple BTS Songs Return To The Same Chart Together",
-    "url": "https://www.forbes.com/sites/hughmcintyre/2026/06/15/multiple-bts-songs-return-to-the-same-chart-together/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-15T18:00:46+00:00",
-    "summary": "Three BTS songs — \"Into the Sun,\" \"Merry Go Round\" and \"Please,\" all taken from Arirang — return to the Billboard Global 200 together.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a2f7bbf8a2b12e214b7ef48/0x0.jpg?width=960&precrop=1952%2C1096%2Cx267%2Cy486",
+    "published": "2026-06-15T20:59:14+00:00",
+    "summary": "Michel Cojot, the unsung hero of the Entebbe hostage crisis, finally gets the recognition he deserves in Boaz Dvir's new documentary, 'To Kill a Nazi.'",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a2f19f497943ac00a5b6712/0x0.jpg?width=960&precrop=2347%2C1319%2Cx319%2Cy567",
     "tags": [
       "Hollywood & Entertainment",
       "/hollywood-entertainment",
@@ -1162,46 +1042,40 @@
     "relevance_score": 14
   },
   {
-    "id": "9b62bcfdf86c",
-    "title": "A Crypto Scam Targeted a Gay OnlyFans Star. Then His X Feed Was Flooded With ‘MAGA Propaganda’",
-    "url": "https://www.wired.com/story/a-gay-onlyfans-star-got-hacked-then-his-x-account-started-spewing-maga-propaganda/",
-    "source": "Wired",
+    "id": "c01857f6a351",
+    "title": "The US government’s Anthropic models ban was never about an AI jailbreak",
+    "url": "https://techcrunch.com/2026/06/15/the-us-governments-anthropic-models-ban-was-never-about-an-ai-jailbreak/",
+    "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-06-15T10:00:00+00:00",
-    "summary": "In recent months hackers have attempted to extort money from porn stars with big followings, in some cases filling their feeds with pro-MAGA and crypto content.",
-    "image_url": "https://media.wired.com/photos/6a29a7a02480ab4d39175a64/master/pass/Culture_GayOnlyFansCreatorsAreGettingTargetedByPro-MAGAScammers_v1.jpg",
+    "published": "2026-06-15T21:50:21+00:00",
+    "summary": "The Trump administration's decision that forced Anthropic to pull its latest cybersecurity models could be reactionary, retaliatory, or both, but the message is clear: The AI industry isn't immune from U.S. government interference.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/trump-2267050833.jpg?resize=1200,800",
     "tags": [
-      "Culture",
-      "Culture / Digital Culture",
-      "cryptocurrency",
-      "security",
-      "hacks"
+      "AI",
+      "Government & Policy",
+      "Security",
+      "Anthropic",
+      "cybersecurity"
     ],
     "industries": [
-      "retail",
-      "industrial",
-      "financial"
+      "industrial"
     ],
-    "relevance_score": 13
+    "relevance_score": 14
   },
   {
-    "id": "a64b1d17a014",
-    "title": "How Apple Is Making Your Older iPhone Run Faster and Stay Alive Longer",
-    "url": "https://www.wired.com/story/how-apple-is-making-your-older-iphone-run-faster-and-stay-alive-longer/",
-    "source": "Wired",
+    "id": "e88d72b37d2d",
+    "title": "These new solid-state ACs promise a cool future. Scientists aren’t so sure.",
+    "url": "https://www.technologyreview.com/2026/06/15/1138552/solid-state-acs-promise-cool-future/",
+    "source": "MIT Technology Review",
     "source_category": "ai",
-    "published": "2026-06-15T10:30:00+00:00",
-    "summary": "Even the aging iPhone 11 will feel a little more responsive soon, thanks to improvements in an unsung iOS feature.",
-    "image_url": "https://media.wired.com/photos/6a2aabf0a0ec339aba978ccf/master/pass/GettyImages-1209226885.jpg",
+    "published": "2026-06-15T09:00:00+00:00",
+    "summary": "After three years of record-­breaking heat, this one is set to be yet another scorcher. Air-conditioning? Not going anywhere. The International Energy Agency projects that the number of AC units will triple by 2050. That’s good for health—one Lancet study estimated that AC...",
+    "image_url": null,
     "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Phones",
-      "apple",
-      "ios"
+      "Climate change and energy",
+      "App"
     ],
     "industries": [
-      "tech",
       "industrial"
     ],
     "relevance_score": 13
@@ -1245,36 +1119,20 @@
     "relevance_score": 13
   },
   {
-    "id": "339323bee398",
-    "title": "‘Chic. Affordable. Divine.’ Isaac Mizrahi returns to Target",
-    "url": "https://www.retaildive.com/news/chic-affordable-divine-issac-mizrahi-target-tarzhay-creative-director/822887/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-15T16:02:00+00:00",
-    "summary": "At the turn of the century, the fashion designer worked with the discounter to bring stylish clothing to the masses. Can he pick up where he left off?",
-    "image_url": "https://imgproxy.divecdn.com/Vauog_ZlCyAe74Wo1RbijYl0YDdEJvN7LfEJzjVbnks/g:nowe:0:492/c:2025:1144/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTS1UYXJnZXQtRGF2aWRfR3VyemhpZXYtMDMxMC5qcGc=.webp",
+    "id": "92889056d28f",
+    "title": "Cedar’s voice AI agent has handled nearly 400K patient calls since April 2025 launch",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/cedars-voice-ai-agent-has-handled-nearly-400k-patient-calls-april-2025",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-12T10:55:00+00:00",
+    "summary": "At Gastro Health, executives report a 24% reduction in live agent handle time since implementing the solution.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1345658982.jpg?VersionId=LDLwwj3811AKR3fkjnC1DMkp2qavlUJP",
     "tags": [],
     "industries": [
-      "retail",
-      "industrial"
+      "industrial",
+      "lifesciences"
     ],
-    "relevance_score": 13
-  },
-  {
-    "id": "f9ae222d618a",
-    "title": "Salesforce buys more to get its Agentforce platform right - Axios",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQlNLQVVIX3J0QXZrUEo2RHVuY1BReGdyQTJFczlKdnhpZkhLRDdZVjFuOGRCWjEyd1JsNElRbkVYS2kxazJlWlFlZzFGVEg3NDBKYTZrN1NGQml0X3d2NzF6RHR6TVFfLVVLeUZ5QmkxRWVoeV9ISVVhNmRidmxBblJGR3c2VzBDaG1qLVc4czRUUjBFVnFvekU0SS0?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-15T21:19:34+00:00",
-    "summary": "Salesforce buys more to get its Agentforce platform right Axios",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "6ca60931f4bd",
@@ -1341,21 +1199,6 @@
     "relevance_score": 12
   },
   {
-    "id": "40434a5baf17",
-    "title": "Adobe Inc. ADBE Stock Price Analysis Today Olen Zellweger (R7RmZvjEG2) - Mshale",
-    "url": "https://news.google.com/rss/articles/CBMiW0FVX3lxTE9LXzJZaW94V0IzbFoyeGpsVXRJM3p1VVdrSWZ3X2loajI4S01rSUJVaVZ4RS1PTjZWaXJXeGVUdHA4dWo4VWlfUkZvVlFhZDRsbnpVc3JKM2hraDg?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-06-15T02:35:49+00:00",
-    "summary": "Adobe Inc. ADBE Stock Price Analysis Today Olen Zellweger (R7RmZvjEG2) Mshale",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
     "id": "d84b8173f247",
     "title": "2027 Cadillac Vistiq Gets New Adobe Frost Paint Color: First Look - GM Authority",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOR1ltOEVxZk1mUkxHREt4RlMwQTdPdXJLTlRKQlJUaW4ySjh6bzdYVGpGdHdaSUZpOHdPdTgzVEJ0MmZnRlFZOG9xQXpZTUhPNDY5akpZS2hUWlB3aF9vZVRFV3QxOXBQTmJDUVBpTnhXYmVkVjRrWjl6OEFwVDZrUnRRaksyRWg0XzFxY1UtLW1zdTRTWVkyN2Rmb0d0RWtLRkxkZw?oc=5",
@@ -1366,6 +1209,51 @@
     "image_url": null,
     "tags": [],
     "industries": [
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "9b62bcfdf86c",
+    "title": "A Crypto Scam Targeted a Gay OnlyFans Star. Then His X Feed Was Flooded With ‘MAGA Propaganda’",
+    "url": "https://www.wired.com/story/a-gay-onlyfans-star-got-hacked-then-his-x-account-started-spewing-maga-propaganda/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-06-15T10:00:00+00:00",
+    "summary": "In recent months hackers have attempted to extort money from porn stars with big followings, in some cases filling their feeds with pro-MAGA and crypto content.",
+    "image_url": "https://media.wired.com/photos/6a29a7a02480ab4d39175a64/master/pass/Culture_GayOnlyFansCreatorsAreGettingTargetedByPro-MAGAScammers_v1.jpg",
+    "tags": [
+      "Culture",
+      "Culture / Digital Culture",
+      "cryptocurrency",
+      "security",
+      "hacks"
+    ],
+    "industries": [
+      "retail",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "a64b1d17a014",
+    "title": "How Apple Is Making Your Older iPhone Run Faster and Stay Alive Longer",
+    "url": "https://www.wired.com/story/how-apple-is-making-your-older-iphone-run-faster-and-stay-alive-longer/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-06-15T10:30:00+00:00",
+    "summary": "Even the aging iPhone 11 will feel a little more responsive soon, thanks to improvements in an unsung iOS feature.",
+    "image_url": "https://media.wired.com/photos/6a2aabf0a0ec339aba978ccf/master/pass/GettyImages-1209226885.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Phones",
+      "apple",
+      "ios"
+    ],
+    "industries": [
+      "tech",
       "industrial"
     ],
     "relevance_score": 12
@@ -1440,29 +1328,29 @@
     "relevance_score": 12
   },
   {
-    "id": "0ba9f4df64af",
-    "title": "Adobe just updated Creative Cloud with genuinely useful features - Creative Bloq",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNnI2U0R0REd1N3U4UFcyUUk2VGVjd3czMkdzcWV0MlRrMGRIZlBTQTBxam1RVGxfdHFLYVUyMU5Hb0owXzVjZV9NZVBScDBzTWxWSUdEdklBT0JpajNkalk1LTNPZjZBUEF6S3RaZ0g3d1FtMEl1R2FfZTRiaFdpUlJqLXRzUk5yX0xnZjNQOVhDekF4b05FbUlqR1U2dGo0SjBtanNOa1ZBc3hDWmxPNTdQeHAwbGxjX3NxdTE0TzRFQXc?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-06-15T15:00:00+00:00",
-    "summary": "Adobe just updated Creative Cloud with genuinely useful features Creative Bloq",
-    "image_url": null,
+    "id": "339323bee398",
+    "title": "‘Chic. Affordable. Divine.’ Isaac Mizrahi returns to Target",
+    "url": "https://www.retaildive.com/news/chic-affordable-divine-issac-mizrahi-target-tarzhay-creative-director/822887/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-06-15T16:02:00+00:00",
+    "summary": "At the turn of the century, the fashion designer worked with the discounter to bring stylish clothing to the masses. Can he pick up where he left off?",
+    "image_url": "https://imgproxy.divecdn.com/Vauog_ZlCyAe74Wo1RbijYl0YDdEJvN7LfEJzjVbnks/g:nowe:0:492/c:2025:1144/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTS1UYXJnZXQtRGF2aWRfR3VyemhpZXYtMDMxMC5qcGc=.webp",
     "tags": [],
     "industries": [
-      "tech",
+      "retail",
       "industrial"
     ],
     "relevance_score": 12
   },
   {
-    "id": "9b23071a88dd",
-    "title": "ServiceNow vs. Salesforce: Which Cloud Software Stock Has an Edge Now? - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQN1dNbGNpTV9zUVhKd1dtT1dQbTN3OFVhaUp2S2pLOVlYRTB1cDk5UkNVd21SRUZmcVVCeWtHOHdKenFkWnFmWTgyQjhEWi1zQzNULTdyb0JVVHp0aDFVLW15RlVWVVpUQ25EZjBBZmNPVXE3R3A2ZDQzSENfX051Wkp2bzdlQ21qU0NSNHR4OVdKUVFJUHYyOGpPZ25DcWdmc21RNzlsYUZ0RkRjQ0Npck02OEYzbVRpVFlOZU14V20?oc=5",
+    "id": "f9ae222d618a",
+    "title": "Salesforce buys more to get its Agentforce platform right - Axios",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQlNLQVVIX3J0QXZrUEo2RHVuY1BReGdyQTJFczlKdnhpZkhLRDdZVjFuOGRCWjEyd1JsNElRbkVYS2kxazJlWlFlZzFGVEg3NDBKYTZrN1NGQml0X3d2NzF6RHR6TVFfLVVLeUZ5QmkxRWVoeV9ISVVhNmRidmxBblJGR3c2VzBDaG1qLVc4czRUUjBFVnFvekU0SS0?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-06-15T15:00:00+00:00",
-    "summary": "ServiceNow vs. Salesforce: Which Cloud Software Stock Has an Edge Now? TradingView",
+    "published": "2026-06-15T21:30:20+00:00",
+    "summary": "Salesforce buys more to get its Agentforce platform right Axios",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1472,69 +1360,17 @@
     "relevance_score": 12
   },
   {
-    "id": "cc5e9c9e87ae",
-    "title": "Vibe coding can build your pipeline. It can't explain it six months later",
-    "url": "https://venturebeat.com/orchestration/vibe-coding-can-build-your-pipeline-it-cant-explain-it-six-months-later",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-06-15T15:14:57+00:00",
-    "summary": "AI coding agents are rapidly accelerating data engineering by generating transformations, pipelines, orchestration workflows, validation tests, and infrastructure configurations from prompts. However, enterprise data platforms have long operated across fragmented systems...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3w8NFsY3AuOh3mKS6s64l1/8990e9c4c720c94fb1c9e8a532af43aa/Engineering.png?w=300&q=30",
-    "tags": [
-      "Orchestration",
-      "DataDecisionMakers"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "b533bc7b718e",
-    "title": "Adobe Days took people back in time, but also to multiple adobes all at once - Los Angeles Daily News",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT3R4cGVkdEp3RzlWQU0wVFQyNFRLeGpyN2NvZjdDRkFlZGg5WXJGZUNkb1hVWDRpaFdjSUcyNkwzY3R3bkh6aWtKcEsyYnlaaFl5WXRYQmw5ODN0V015T1luVk42R2YtVE5ydGQzdkdISjQ5TTVXNlpDZE0tMWVLeF9fZklpNTNVT0wyMHdmZXRpalR2bEZEd1VrQU5qSzJ3Tk41VGFoRlFKUV84dVQybGlNWQ?oc=5",
-    "source": "Adobe",
+    "id": "a1f3812e489f",
+    "title": "Fish salvage begins at two Colorado reservoirs ahead of public closure - CBS News",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPR1VLNHNwMGtwQTlZSDJGem1TR2l2SGstUEVjRktiY18tdHZSUWpnYjRteFllS0pzYVE0RzBiNnNCOU1lU19INmxMV1hIc1d3U21CUTkwYWhlZEhsTEZpaVVVQVk1UmRFd0NzVDhzX1Rzd21aNGFJUzJraDRncElVZy1qbTM4SC1BUnc0dEc3MDcyV3k2?oc=5",
+    "source": "Adobe Inc",
     "source_category": "adobe",
-    "published": "2026-06-15T16:08:42+00:00",
-    "summary": "Adobe Days took people back in time, but also to multiple adobes all at once Los Angeles Daily News",
+    "published": "2026-06-15T22:45:26+00:00",
+    "summary": "Fish salvage begins at two Colorado reservoirs ahead of public closure CBS News",
     "image_url": null,
     "tags": [],
     "industries": [
       "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "e70309abe371",
-    "title": "DeepIntent's Helix AI brings agentic planning to healthcare marketers - PPC Land",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQd2xRclN1b05iQjFPaDZOTFpnWHdwUFhXRk90M1E1XzJzVDFsRzZkS3lvVlh3aGdsRHNzZF9MR3B4QWlSOUhtV3dsYzBIakVxTFRMdGRpcnlTYkV4YlJRTmtmWU9qdk5vRFNtTTBEZWZEdzA1OGpSMW9tQVY0X040d25pU1lHSmtiWWtHbEo5UQ?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-06-15T20:48:28+00:00",
-    "summary": "DeepIntent's Helix AI brings agentic planning to healthcare marketers PPC Land",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "110e063a17d1",
-    "title": "Simpson Thacher, Davis Polk and Stikeman Elliott Advise On $2.75B Canada-U.S. Digital Payments Acquisition - Law.com",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTU8zV0ZLeTNQaEVpaTdXTlVBUkdwLU5QS1hOOXRmWEh6TDF4eV9xN2Jmci0xRFRDT2dyemlFVkdVbjBqTHdpWEpObDFOTlB3QlN5RFg0T0xHZHdqN3BVLVdiWnpaSWxIalNLUXNnT2p5ZVpvdFdralpfbkdMbzQ5cDF2NWZCR3RDeW45Q1lCWkRJSWk0TGszdmV1VUx2Qk16Z1EteHR5VnRDal9TNFFSRnJ2Wl9LVEcxNEl5anBlY1JZVWdsdWctRHlfRTN5UXY2N1Azb3hBdEFhVkRISjZIVUItcUxudVhMR3R3?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-06-15T20:58:00+00:00",
-    "summary": "Simpson Thacher, Davis Polk and Stikeman Elliott Advise On $2.75B Canada-U.S. Digital Payments Acquisition Law.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "industrial",
-      "financial"
     ],
     "relevance_score": 12
   },
@@ -1575,58 +1411,47 @@
     "relevance_score": 11
   },
   {
-    "id": "414b4304ec62",
-    "title": "SpaceX, Anthropic, and OpenAI’s hot IPO summer",
-    "url": "https://techcrunch.com/video/spacex-anthropic-and-openais-hot-ipo-summer/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-06-12T16:23:25+00:00",
-    "summary": "The IPO market is back, and it’s not the same companies leading the charge. FAANG had a good run, but a new acronym is taking over: MANGOS — Meta (or Microsoft, depending on who you ask), Anthropic, Nvidia, Google, OpenAI, and SpaceX. Half of that bunch is heading to public...",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/GettyImages-2275575484.jpg?resize=1200,815",
-    "tags": [
-      "AI",
-      "Fundraising",
-      "ai infrastructure",
-      "Anthropic",
-      "Apple WWDC"
-    ],
+    "id": "b79d30ac8806",
+    "title": "DeepIntent Launches Helix AI, Bringing Agentic AI and Cross-Platform Activation to Healthcare Marketers - PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxOT3FxV3NWRUxfcnBsX005aUUxYm1rbmVEWmh1VWdsVUdCNk94cWhjbTU3ZnZyUE1LQ0hyMjFzSkttYTFNc0NTVHB3aU1YSDlEdGF3SjdGTmQ4d2lMMmJzeS1YXy1WTmY3dWZ6SVNoRU44M2hJc2lLcUpweDFnNWg5dnlxQUxONmZxMDRwMnJ2TVFRX3piVkU2bXVGcEtEcW5uSnNrSWlHQ3VJdlh3cEd2R0dDc2lSNFNFVlo3aGJla1c5UktNZEkwdGFENHYxbm9rM2szSVlqcnU1NVJSRmo4MWM0eVVRYjNLc1ZGcm1vNA?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-06-15T12:00:00+00:00",
+    "summary": "DeepIntent Launches Helix AI, Bringing Agentic AI and Cross-Platform Activation to Healthcare Marketers PR Newswire",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "tech",
-      "industrial"
+      "industrial",
+      "lifesciences"
     ],
     "relevance_score": 11
   },
   {
-    "id": "c351aa7df44b",
-    "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
-    "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-06-12T23:00:54+00:00",
-    "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
-    "tags": [
-      "AI",
-      "Social",
-      "Meta"
-    ],
+    "id": "f4da6b04b0f7",
+    "title": "ServiceNow vs. Salesforce: Which Cloud Software Stock Has an Edge Now? - Zacks Investment Research",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxOU0xVT08zR1JqQmRWcjZVTFdNcXRGTzZMR2ljN3U1Qm92eTluOW01RmZXQjJxYkxBVGdaZlR4ZzVGU2tBa3BsVS01WFM2WE80bGFHZVhZMl9xSkJXVEJZNmVPcWRaZ0lVWlBEZ0NaZGRkcE5ZYi1RWFhMWW1PT1lIQlg2WXRibU9fUENtbHdNWmRIWHpPOFo4eVE4TWdVckhsMnZhSkFGTC1YR0dj?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-06-15T14:21:43+00:00",
+    "summary": "ServiceNow vs. Salesforce: Which Cloud Software Stock Has an Edge Now? Zacks Investment Research",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "tech",
-      "industrial"
+      "industrial",
+      "financial"
     ],
-    "relevance_score": 11,
-    "also_covered_by": [
-      "Wired"
-    ]
+    "relevance_score": 11
   },
   {
-    "id": "d7827102462f",
-    "title": "From culling to compositing: New Creative Cloud innovations across every stage of your workflow - Adobe",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVnhjN0d6M0oyNGJnU0pXRkE2QmhTZUEwQ01BMUVsUzVTclVIX0tXRG1TS25ZX0xJazhxSHU4WnA4YVBVeXZaU3pfN1hwcmtoeUFiT0ZGVms4dlhVLVY1SnY3aUJlcjhRM0l6aXV2NjIyZHQtMUU0Y01ab0QxU0lKd0s4My1Nb2VaQWFrN2pfUzZad3k1V1FSZ25yek1ybTZ3WVdMRmh1b1VWTVQ0aGlqeEhGeW12RWxiaE5kS3d6dmo1WF9BOXZubG1ZbEk1X01NcHQ3ZDZR?oc=5",
-    "source": "Adobe",
+    "id": "0ba9f4df64af",
+    "title": "Adobe just updated Creative Cloud with genuinely useful features - Creative Bloq",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPNnI2U0R0REd1N3U4UFcyUUk2VGVjd3czMkdzcWV0MlRrMGRIZlBTQTBxam1RVGxfdHFLYVUyMU5Hb0owXzVjZV9NZVBScDBzTWxWSUdEdklBT0JpajNkalk1LTNPZjZBUEF6S3RaZ0g3d1FtMEl1R2FfZTRiaFdpUlJqLXRzUk5yX0xnZjNQOVhDekF4b05FbUlqR1U2dGo0SjBtanNOa1ZBc3hDWmxPNTdQeHAwbGxjX3NxdTE0TzRFQXc?oc=5",
+    "source": "Adobe Products",
     "source_category": "adobe",
-    "published": "2026-06-15T09:01:31+00:00",
-    "summary": "From culling to compositing: New Creative Cloud innovations across every stage of your workflow Adobe",
+    "published": "2026-06-15T15:00:00+00:00",
+    "summary": "Adobe just updated Creative Cloud with genuinely useful features Creative Bloq",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1636,49 +1461,69 @@
     "relevance_score": 11
   },
   {
-    "id": "ddb9afc60dea",
-    "title": "Watch the newest commercials from American Express, Total Wireless, Marriott and more - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZzAweVpfUm82OUhIQ0U0aXF4MGZSZEpBWThCMnRZRUU0VDg4LW9Pd3lGa2dDamoyckQ5Tmdab21OSTFGWGM5OHZRRGI5M0ttYzgzMTlNclRrT1VfX19kMzBvQ2p1ZWhuU2M5M3Zhb3lmZTVPNDR3MjI5YWVpbVdKa3dTZ243dW9wcnBBSUFfN1lJOE5TQmcxeUJGMmhRaFRGdjc1NmIzZlVaeFpkck9zYlRsUkFsVFJmOGNYWTczdkhpeWtwWWR1dFVSSTVqcXRCUWJnU1pqNlo?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-06-15T15:00:00+00:00",
-    "summary": "Watch the newest commercials from American Express, Total Wireless, Marriott and more Ad Age",
+    "id": "cc5e9c9e87ae",
+    "title": "Vibe coding can build your pipeline. It can't explain it six months later",
+    "url": "https://venturebeat.com/orchestration/vibe-coding-can-build-your-pipeline-it-cant-explain-it-six-months-later",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-06-15T15:14:57+00:00",
+    "summary": "AI coding agents are rapidly accelerating data engineering by generating transformations, pipelines, orchestration workflows, validation tests, and infrastructure configurations from prompts. However, enterprise data platforms have long operated across fragmented systems...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3w8NFsY3AuOh3mKS6s64l1/8990e9c4c720c94fb1c9e8a532af43aa/Engineering.png?w=300&q=30",
+    "tags": [
+      "Orchestration",
+      "DataDecisionMakers"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "b533bc7b718e",
+    "title": "Adobe Days took people back in time, but also to multiple adobes all at once - Los Angeles Daily News",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOT3R4cGVkdEp3RzlWQU0wVFQyNFRLeGpyN2NvZjdDRkFlZGg5WXJGZUNkb1hVWDRpaFdjSUcyNkwzY3R3bkh6aWtKcEsyYnlaaFl5WXRYQmw5ODN0V015T1luVk42R2YtVE5ydGQzdkdISjQ5TTVXNlpDZE0tMWVLeF9fZklpNTNVT0wyMHdmZXRpalR2bEZEd1VrQU5qSzJ3Tk41VGFoRlFKUV84dVQybGlNWQ?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-06-15T16:08:42+00:00",
+    "summary": "Adobe Days took people back in time, but also to multiple adobes all at once Los Angeles Daily News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "110e063a17d1",
+    "title": "Simpson Thacher, Davis Polk and Stikeman Elliott Advise On $2.75B Canada-U.S. Digital Payments Acquisition - Law.com",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOTU8zV0ZLeTNQaEVpaTdXTlVBUkdwLU5QS1hOOXRmWEh6TDF4eV9xN2Jmci0xRFRDT2dyemlFVkdVbjBqTHdpWEpObDFOTlB3QlN5RFg0T0xHZHdqN3BVLVdiWnpaSWxIalNLUXNnT2p5ZVpvdFdralpfbkdMbzQ5cDF2NWZCR3RDeW45Q1lCWkRJSWk0TGszdmV1VUx2Qk16Z1EteHR5VnRDal9TNFFSRnJ2Wl9LVEcxNEl5anBlY1JZVWdsdWctRHlfRTN5UXY2N1Azb3hBdEFhVkRISjZIVUItcUxudVhMR3R3?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-06-15T20:58:00+00:00",
+    "summary": "Simpson Thacher, Davis Polk and Stikeman Elliott Advise On $2.75B Canada-U.S. Digital Payments Acquisition Law.com",
     "image_url": null,
     "tags": [],
     "industries": [
       "media",
-      "telecom",
-      "industrial"
+      "industrial",
+      "financial"
     ],
     "relevance_score": 11
   },
   {
-    "id": "fcfac42107cf",
-    "title": "Lightroom can now turn photos into videos – but the GenAI tool could increase the cost - Digital Camera World",
-    "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPZ2NzOGN1Tk03WHhJZTMzRVFnT29JUVV4Z1BJVmI3ajF5dDBJYW50OVFlcW8zUlZxNWFCc0FQM3lXU0R2X2hYdm80MDR3NEUyMzdQM1Jva2tGaEEtaWRJbmZrbG00OEk3UmdyT1RNRk1reGNmdF9DcXU5YmF6V282MUoxLTlKMlNhakY0RXp0MUhRblNjRS1xM09MMndqbHlOZjRzQkpDR0w4Ymh1bGEwU21BNTY0eWtDR2RrTVlzWGdmLWxsbldfcjNqUHJvN05ZSlR4WG8zZm1VQkpCOUFId1loVFFIaURiWTVlNGVpalZOY3pjYm1qdFA3US04OVBwZEVVV0dvSHU2UTlPUFhHUGU4Tk4zdDAwcS1nVmREd3hFSGR1aElFZ0x3?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-06-15T15:07:59+00:00",
-    "summary": "Lightroom can now turn photos into videos – but the GenAI tool could increase the cost Digital Camera World",
+    "id": "b1db50add04d",
+    "title": "China-led digital payments system mBridge set for commercial launch - Finextra Research",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOTDhYM3ZrSlVqeVFqSk9iMWFXMWl0UTE4dHM1SXl0UWlKTFg4LXB5cTVNS3lybmVRNmYzc0tyZmxmemF5dGlfcWVzM1BGTXBfZjdlZTJ2d1NBU01LM0FUaDYyM0dMOXpRdnd1TzRXSlpfSzlHWkVKa0J3SjlicG1VcWpvOUZXckdKUld6djF1emprZ2dSdnBZSnBWUlRSY1JJN3BpbV9lR0RoNmtBZXBB?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-06-15T23:02:43+00:00",
+    "summary": "China-led digital payments system mBridge set for commercial launch Finextra Research",
     "image_url": null,
     "tags": [],
     "industries": [
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "6b6c2f940579",
-    "title": "Cyber leaders urge US to lift curbs on Anthropic's security models - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdFc1a1RQMWpoMUlWQm9YXzdtdmpNbDhld0tici1yNFJLNXNJb2g4TmtqczNBSGlVanlVTDFDU0k4SlVhcGhiWGhUQ3JBZXlRLTdxQzBKUXpXMUVGYnVzdUFQQmRrWWxTcXZxV01QUUdrZ2dValQwZjRLVE8xR0RQbXBCUlZxdFltZVJOYlI2SUhIMXVjMFoteDhaZ29wbTN6Rk92eFRwdHp6MWVuVnlKc2JR?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-06-15T16:30:54+00:00",
-    "summary": "Cyber leaders urge US to lift curbs on Anthropic's security models Reuters",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
+      "industrial",
+      "financial"
     ],
     "relevance_score": 11
   },
@@ -1719,6 +1564,29 @@
       "industrial"
     ],
     "relevance_score": 10
+  },
+  {
+    "id": "c351aa7df44b",
+    "title": "Meta’s months-old AI unit is a soul-crushing gulag, say the engineers stuck inside it",
+    "url": "https://techcrunch.com/2026/06/12/metas-months-old-ai-unit-is-a-soul-crushing-gulag-say-the-engineers-stuck-inside-it/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-06-12T23:00:54+00:00",
+    "summary": "A new report suggests the unit, which employs 6,500 people, is on the verge of revolt.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2194278734.jpg?w=1024",
+    "tags": [
+      "AI",
+      "Social",
+      "Meta"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10,
+    "also_covered_by": [
+      "Wired"
+    ]
   },
   {
     "id": "ec99355c3a72",
@@ -1806,19 +1674,155 @@
     "relevance_score": 10
   },
   {
-    "id": "460f23ab235f",
-    "title": "Omantel Launches Private 5G Network with Port of Salalah to Transform Logistics & Port Automation - The Fast Mode",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQVExiWjk2Nkx3ZnNvQkVWUWFQRWFjMTdBdWNsUjFwQlJvS2tZTUlwbml6MnNtb3lzNkpsNlJDYmNWRHNqU0VXbENwNEs1M2R3QWlKNmRUelllbmpYelh0TTFqbkRaZFcyMGxMLU5CenVPUXdhMHQ2aEhKNzVWdm9DUkdaT0VTR3F0UkxyUEl4VngyU1hTOEtQcEhqVnRSdkhVczNnZkEwUG1EVzNPcVdsUFhPWGZraFNqMGVfM25ST0NxTDlBcHR1d1VwQ0UzZS0waXRPY1JlSzRfaDhDamI0UWpzcmI?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-06-15T02:16:50+00:00",
-    "summary": "Omantel Launches Private 5G Network with Port of Salalah to Transform Logistics & Port Automation The Fast Mode",
+    "id": "d7827102462f",
+    "title": "From culling to compositing: New Creative Cloud innovations across every stage of your workflow - Adobe",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQVnhjN0d6M0oyNGJnU0pXRkE2QmhTZUEwQ01BMUVsUzVTclVIX0tXRG1TS25ZX0xJazhxSHU4WnA4YVBVeXZaU3pfN1hwcmtoeUFiT0ZGVms4dlhVLVY1SnY3aUJlcjhRM0l6aXV2NjIyZHQtMUU0Y01ab0QxU0lKd0s4My1Nb2VaQWFrN2pfUzZad3k1V1FSZ25yek1ybTZ3WVdMRmh1b1VWTVQ0aGlqeEhGeW12RWxiaE5kS3d6dmo1WF9BOXZubG1ZbEk1X01NcHQ3ZDZR?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-06-15T09:01:31+00:00",
+    "summary": "From culling to compositing: New Creative Cloud innovations across every stage of your workflow Adobe",
     "image_url": null,
     "tags": [],
     "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "ddb9afc60dea",
+    "title": "Watch the newest commercials from American Express, Total Wireless, Marriott and more - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQZzAweVpfUm82OUhIQ0U0aXF4MGZSZEpBWThCMnRZRUU0VDg4LW9Pd3lGa2dDamoyckQ5Tmdab21OSTFGWGM5OHZRRGI5M0ttYzgzMTlNclRrT1VfX19kMzBvQ2p1ZWhuU2M5M3Zhb3lmZTVPNDR3MjI5YWVpbVdKa3dTZ243dW9wcnBBSUFfN1lJOE5TQmcxeUJGMmhRaFRGdjc1NmIzZlVaeFpkck9zYlRsUkFsVFJmOGNYWTczdkhpeWtwWWR1dFVSSTVqcXRCUWJnU1pqNlo?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-06-15T15:00:00+00:00",
+    "summary": "Watch the newest commercials from American Express, Total Wireless, Marriott and more Ad Age",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
       "telecom",
       "industrial"
     ],
     "relevance_score": 10
+  },
+  {
+    "id": "fcfac42107cf",
+    "title": "Lightroom can now turn photos into videos – but the GenAI tool could increase the cost - Digital Camera World",
+    "url": "https://news.google.com/rss/articles/CBMiqgJBVV95cUxPZ2NzOGN1Tk03WHhJZTMzRVFnT29JUVV4Z1BJVmI3ajF5dDBJYW50OVFlcW8zUlZxNWFCc0FQM3lXU0R2X2hYdm80MDR3NEUyMzdQM1Jva2tGaEEtaWRJbmZrbG00OEk3UmdyT1RNRk1reGNmdF9DcXU5YmF6V282MUoxLTlKMlNhakY0RXp0MUhRblNjRS1xM09MMndqbHlOZjRzQkpDR0w4Ymh1bGEwU21BNTY0eWtDR2RrTVlzWGdmLWxsbldfcjNqUHJvN05ZSlR4WG8zZm1VQkpCOUFId1loVFFIaURiWTVlNGVpalZOY3pjYm1qdFA3US04OVBwZEVVV0dvSHU2UTlPUFhHUGU4Tk4zdDAwcS1nVmREd3hFSGR1aElFZ0x3?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-06-15T15:07:59+00:00",
+    "summary": "Lightroom can now turn photos into videos – but the GenAI tool could increase the cost Digital Camera World",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "6b6c2f940579",
+    "title": "Cyber leaders urge US to lift curbs on Anthropic's security models - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOdFc1a1RQMWpoMUlWQm9YXzdtdmpNbDhld0tici1yNFJLNXNJb2g4TmtqczNBSGlVanlVTDFDU0k4SlVhcGhiWGhUQ3JBZXlRLTdxQzBKUXpXMUVGYnVzdUFQQmRrWWxTcXZxV01QUUdrZ2dValQwZjRLVE8xR0RQbXBCUlZxdFltZVJOYlI2SUhIMXVjMFoteDhaZ29wbTN6Rk92eFRwdHp6MWVuVnlKc2JR?oc=5",
+    "source": "Adobe Inc",
+    "source_category": "adobe",
+    "published": "2026-06-15T16:30:54+00:00",
+    "summary": "Cyber leaders urge US to lift curbs on Anthropic's security models Reuters",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "10aa1be3565a",
+    "title": "Judge Dismisses Elon Musk’s xAI Trade-Secret Lawsuit Against OpenAI - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPa1lYTENrN0UtaklQMDRqWXp5cTBmTUYxOW1kbzNPaEd4M3h1OXZvN09nb2VvZnJZYVRzY2MxRTJoNDNZS285ZmFXVHVHdmNWaGZ6ell3bGk3bVlBWVJDam11U1J1NEZRemY2ZkVCZ0ZRU3hTVTh0SkFHMy1JZUVZbzRiZzNzdXZ0blRWWkVHZ3ByeGsyVGUzYnFYQzJzendTUHc?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-06-15T20:47:00+00:00",
+    "summary": "Judge Dismisses Elon Musk’s xAI Trade-Secret Lawsuit Against OpenAI WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "eb4c453998da",
+    "title": "Why one health system invested in its PBM as GLP-1 costs surged",
+    "url": "https://www.fiercehealthcare.com/sponsored/why-one-health-system-invested-its-pbm-glp-1-costs-surged",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-10T12:00:00+00:00",
+    "summary": "How RxSense helped a health system invest in its own PBM and take control of rising GLP-1 costs.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Healthcare-dive-header-image.jpg?VersionId=F1Zov3kpBe3.elLTv2Y4hbSxwyfjlZ0f",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "1a71acdd99d3",
+    "title": "Geico Gecko steps into new role as AI-generated podcast guest",
+    "url": "https://www.marketingdive.com/news/geico-gecko-steps-into-new-role-as-ai-generated-podcast-guest/822767/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-06-12T14:32:00+00:00",
+    "summary": "The mascot’s appearance on “Fudd Around and Find Out” is part of a larger push from the insurer to move past “one-way advertising.”",
+    "image_url": "https://imgproxy.divecdn.com/o2pgpndkCuMl0Lj8TCoKFwn-SrdEiLz3CNMVo06ZUQ0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HRUlDT19QaG90by5qcGc=.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "fb894bd83437",
+    "title": "Here’s How AI Agents Can Protect EV Chargers",
+    "url": "https://www.wired.com/story/researchers-in-spain-show-how-ai-agents-can-protect-ev-chargers/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-06-13T06:30:00+00:00",
+    "summary": "An AI agent system proposed by researchers in Spain promises to prevent energy theft and damage to EV chargers, as well as the critical energy infrastructure that powers them.",
+    "image_url": "https://media.wired.com/photos/6a2aad442915c6817b50fff5/master/pass/GettyImages-2199577958.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Batteries",
+      "agentic AI",
+      "ev charging"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "4414eee80332",
+    "title": "EcoFlow PowerOcean Battery Review: Cutting My Bill in Half",
+    "url": "https://www.wired.com/review/ecoflow-powerocean-home-battery/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-06-13T10:30:00+00:00",
+    "summary": "Whether you want to buy cheaper electricity, store solar energy, or guard against outages, EcoFlow’s home battery might be just what you need.",
+    "image_url": "https://media.wired.com/photos/6a2cbb45c4e89ad1b960af33/master/pass/Review--EcoFlow-PowerOcean-Home-Battery.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Reviews",
+      "Gear / Products / Home",
+      "Gear / Products / Smart Home",
+      "battery"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 9
   }
 ]
