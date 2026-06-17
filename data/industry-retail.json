@@ -15,7 +15,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 66
+    "relevance_score": 63
   },
   {
     "id": "09c9ab8ea1a1",
@@ -35,7 +35,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 65,
+    "relevance_score": 62,
     "also_covered_by": [
       "Agentic Marketing"
     ]
@@ -58,7 +58,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 55
+    "relevance_score": 52
   },
   {
     "id": "7b4d6b891b0b",
@@ -81,7 +81,7 @@
     "relevance_score": 48,
     "also_covered_by": [
       "Salesforce AI",
-      "Wall Street",
+      "Telecom",
       "Adobe Inc"
     ]
   },
@@ -100,22 +100,6 @@
       "consumer"
     ],
     "relevance_score": 30
-  },
-  {
-    "id": "f526814ead10",
-    "title": "Adobe releases Coworker marketing orchestration 'super agent' - TechTarget",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPOXd3NlJYYURQbTF5d3JuYUNTTTQ1R0JKaGI1VmxHM05TTFRrakNZUmd6aEdIM0dPVFhCUkFsOENVbG1lVnVzYWtCZlhaRlM2QjU5OHBpLUZROTRuSVF2a09wX09BSkNQRGRTVWFrT2ZnUnJGdi1HUEFwTlNYS0d6cTJGNlJKMFRuMEtyZVRYMGNZUDlOd1RMMDRyQzVjRXQ3OC1FVnhIRnEwOUNtUWZwUG9TRzNjUzJwb2VGWUhKS3owQ0VN?oc=5",
-    "source": "Adobe Marketing Cloud",
-    "source_category": "adobe",
-    "published": "2026-06-12T21:17:12+00:00",
-    "summary": "Adobe releases Coworker marketing orchestration 'super agent' TechTarget",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 23
   },
   {
     "id": "f52e1fcd1864",
@@ -154,7 +138,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 19
+    "relevance_score": 18
   },
   {
     "id": "49ae39162175",
@@ -175,32 +159,11 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 18,
+    "relevance_score": 17,
     "also_covered_by": [
       "TechCrunch AI",
       "Telecom"
     ]
-  },
-  {
-    "id": "aa6c9ee97349",
-    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-    "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-06-16T20:11:00+00:00",
-    "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1244294229.jpg?resize=1200,675",
-    "tags": [
-      "AI",
-      "Space",
-      "In Brief",
-      "IPO",
-      "SpaceX"
-    ],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 17
   },
   {
     "id": "0261b13d5a77",
@@ -227,6 +190,27 @@
     "relevance_score": 16
   },
   {
+    "id": "aa6c9ee97349",
+    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
+    "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-06-16T20:11:00+00:00",
+    "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1244294229.jpg?resize=1200,675",
+    "tags": [
+      "AI",
+      "Space",
+      "In Brief",
+      "IPO",
+      "SpaceX"
+    ],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 16
+  },
+  {
     "id": "74535ea2b576",
     "title": "Victoria’s Secret investors back full board after proxy battle",
     "url": "https://www.retaildive.com/news/victorias-secret-investors-back-board-proxy-fight-bbrc/823012/",
@@ -239,7 +223,25 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
+  },
+  {
+    "id": "3444f2ceb725",
+    "title": "WTF is vector-based ad targeting?",
+    "url": "https://digiday.com/media-buying/wtf-is-vector-based-ad-targeting/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-06-15T04:01:00+00:00",
+    "summary": "Traditional text-based ad targeting will always have its place. But in an ad marketplace run by AI agents, it may need to be replaced as the primary method of aiming ads.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/06/ai-marketing-digiday.webp",
+    "tags": [
+      "Media Buying"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 12
   },
   {
     "id": "4c2ced0c75c6",
@@ -262,7 +264,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "22c771994632",
@@ -279,7 +281,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "bccb8da02cc5",
@@ -296,62 +298,10 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 13,
+    "relevance_score": 12,
     "also_covered_by": [
       "Adobe Inc"
     ]
-  },
-  {
-    "id": "3444f2ceb725",
-    "title": "WTF is vector-based ad targeting?",
-    "url": "https://digiday.com/media-buying/wtf-is-vector-based-ad-targeting/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-06-15T04:01:00+00:00",
-    "summary": "Traditional text-based ad targeting will always have its place. But in an ad marketplace run by AI agents, it may need to be replaced as the primary method of aiming ads.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/06/ai-marketing-digiday.webp",
-    "tags": [
-      "Media Buying"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "e3735c1efaf9",
-    "title": "Microsoft vs. Adobe: Which High ROIC Software Stock is the Best Buy-the-Dip Target? - Zacks Investment Research",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbWt1T2J4SXl6U2FIazl5dkZhUkUxMnRTcVZLVnlaV0N6NGNCZ3E0OWVYTzM4eFVfOFdkREFFZ3p5WEM5ckZxMzV3ZXJLb2FUTkx1ZmJMLV96MUZZVy1xQ3pQenQ3azMzYktkekdNWlV2SzhMYk9lQk1EbVp2MmxWQ3daQkFnOWtOa1JxMWRvVXlWc0VkcE1oZmwxTTBLcVZXWDNQOXNJZDItRFJIUTJ3ZzJkM1RTc1ltb3Y4Z1Jn?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-06-16T18:00:49+00:00",
-    "summary": "Microsoft vs. Adobe: Which High ROIC Software Stock is the Best Buy-the-Dip Target? Zacks Investment Research",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "ac3829af38c4",
-    "title": "Salesforce buys Fin, targets mid-market - No Jitter",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ2FuZHZHOVJkeF9oY0x4UE42akNEQl93Wm9MWUxqWUtKNVJiVUhFVjAzdXk2emhKMmxKdGFJdnhfdGRHZUlJYmhmcjI5VU5hcENWMUxwUjlINGM1dUlWdzBpNjNxQmYtdnJUT1dLV2plc3NrbUFhYkdrWlpwWUJ5bDJQTENfUQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-16T18:35:30+00:00",
-    "summary": "Salesforce buys Fin, targets mid-market No Jitter",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 12
   },
   {
     "id": "45eea99bb023",
@@ -389,6 +339,24 @@
     "relevance_score": 11
   },
   {
+    "id": "e3735c1efaf9",
+    "title": "Microsoft vs. Adobe: Which High ROIC Software Stock is the Best Buy-the-Dip Target? - Zacks Investment Research",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxQbWt1T2J4SXl6U2FIazl5dkZhUkUxMnRTcVZLVnlaV0N6NGNCZ3E0OWVYTzM4eFVfOFdkREFFZ3p5WEM5ckZxMzV3ZXJLb2FUTkx1ZmJMLV96MUZZVy1xQ3pQenQ3azMzYktkekdNWlV2SzhMYk9lQk1EbVp2MmxWQ3daQkFnOWtOa1JxMWRvVXlWc0VkcE1oZmwxTTBLcVZXWDNQOXNJZDItRFJIUTJ3ZzJkM1RTc1ltb3Y4Z1Jn?oc=5",
+    "source": "Adobe Inc",
+    "source_category": "adobe",
+    "published": "2026-06-16T18:00:49+00:00",
+    "summary": "Microsoft vs. Adobe: Which High ROIC Software Stock is the Best Buy-the-Dip Target? Zacks Investment Research",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "46879c3bdac2",
     "title": "Tractor Supply taps AI to help scale last-mile delivery network",
     "url": "https://www.retaildive.com/news/tractor-supply-taps-ai-to-help-scale-last-mile-delivery-network/822654/",
@@ -400,6 +368,22 @@
     "tags": [],
     "industries": [
       "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "ac3829af38c4",
+    "title": "Salesforce buys Fin, targets mid-market - No Jitter",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ2FuZHZHOVJkeF9oY0x4UE42akNEQl93Wm9MWUxqWUtKNVJiVUhFVjAzdXk2emhKMmxKdGFJdnhfdGRHZUlJYmhmcjI5VU5hcENWMUxwUjlINGM1dUlWdzBpNjNxQmYtdnJUT1dLV2plc3NrbUFhYkdrWlpwWUJ5bDJQTENfUQ?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-06-16T18:35:30+00:00",
+    "summary": "Salesforce buys Fin, targets mid-market No Jitter",
+    "image_url": null,
+    "tags": [],
+    "industries": [
       "retail",
       "industrial"
     ],
@@ -455,6 +439,40 @@
       "industrial"
     ],
     "relevance_score": 8
+  },
+  {
+    "id": "5e9dc5fc7d09",
+    "title": "Is Adobe Inc. (ADBE) A Good Stock To Buy Now? - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQNjExanVBMFh1ZjJOVklONXZBLXEyeEJEU3Z5R3lzdTFMVU9aZEZBMENKejlka2Z1ZTVwNlRRV283b25sWmFvSWlGdFkyblI3Zkg3MFNDNXd2M1Zoc0NDR29iZFd1SEJHZ1ZDZ3ZnbXo2bEhEXzdQYlZQQU42UzlEQThzNGVOSzdlTGdTa0JmNzhjbUtm?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-06-13T20:55:43+00:00",
+    "summary": "Is Adobe Inc. (ADBE) A Good Stock To Buy Now? Yahoo Finance Microsoft vs. Adobe: Which High ROIC Software Stock is the Best Buy-the-Dip Target? Zacks Investment Research Should You Buy The Dip In Adobe Stock? Trefis",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "87ed80771a41",
+    "title": "Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOb0NVaXFnLWlNX1lTRGJEMTBCcnVhbFJrOUVYN29GNzhQaXU1RS1FY0tsZWUyOXFlaGFxdWQyVFU3ZHlSLXVpakVmMERUQmZwVHdGRXdSdXRZemFIYzFFQ1hQdTZyTk9VSjQtNVlnNHE0TDNaRG1FanB1b3VtLWt3TGpWZTRPbU9zUVFQYlBOWGNJU2Q5YUp0MThkMXZqR1FUSVB6TUg4M0cyVTd5QjJkbzdQTQ?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-06-13T23:46:00+00:00",
+    "summary": "Amazon CEO’s Talks With U.S. Officials Triggered Crackdown on Anthropic Models WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 6
   },
   {
     "id": "d87cd00d98bf",
