@@ -13,7 +13,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 56
+    "relevance_score": 53
   },
   {
     "id": "09c9ab8ea1a1",
@@ -33,11 +33,11 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 55,
+    "relevance_score": 52,
     "also_covered_by": [
       "Agentic Marketing",
-      "Adobe Products",
-      "Adobe"
+      "Salesforce AI",
+      "Telecom"
     ]
   },
   {
@@ -61,7 +61,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 48
+    "relevance_score": 45
   },
   {
     "id": "7b4d6b891b0b",
@@ -81,7 +81,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 45
+    "relevance_score": 42
   },
   {
     "id": "7ad78f4eaee6",
@@ -104,22 +104,6 @@
     "relevance_score": 42
   },
   {
-    "id": "c5877a447afe",
-    "title": "Vince CEO: A healthy Saks Global is ‘good for the industry’",
-    "url": "https://www.retaildive.com/news/vince-sales-growth-q1-earnings/823124/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-17T15:41:00+00:00",
-    "summary": "Brendan Hoffman said orders from the department store are increasing, as the brand recorded 10.5% net sales growth for Q1.",
-    "image_url": "https://imgproxy.divecdn.com/FHw_DM8Ho_Mv8j1_fxBT_9RFSqVeDldHC_18Hta0Lio/g:nowe:141:161/c:1138:643/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDk3Nl9jUWVMZzFvLmpwZWc=.webp",
-    "tags": [],
-    "industries": [
-      "retail",
-      "consumer"
-    ],
-    "relevance_score": 42
-  },
-  {
     "id": "c1885eb97669",
     "title": "P&G’s latest branded microdrama is built on Albertsons retail media data",
     "url": "https://www.marketingdive.com/news/pgs-latest-branded-microdrama-is-built-on-albertsons-retail-media-data/823121/",
@@ -131,6 +115,22 @@
     "tags": [],
     "industries": [
       "media",
+      "retail",
+      "consumer"
+    ],
+    "relevance_score": 38
+  },
+  {
+    "id": "c5877a447afe",
+    "title": "Vince CEO: A healthy Saks Global is ‘good for the industry’",
+    "url": "https://www.retaildive.com/news/vince-sales-growth-q1-earnings/823124/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-06-17T15:41:00+00:00",
+    "summary": "Brendan Hoffman said orders from the department store are increasing, as the brand recorded 10.5% net sales growth for Q1.",
+    "image_url": "https://imgproxy.divecdn.com/FHw_DM8Ho_Mv8j1_fxBT_9RFSqVeDldHC_18Hta0Lio/g:nowe:141:161/c:1138:643/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDk3Nl9jUWVMZzFvLmpwZWc=.webp",
+    "tags": [],
+    "industries": [
       "retail",
       "consumer"
     ],
@@ -150,23 +150,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 36
-  },
-  {
-    "id": "aa824e428664",
-    "title": "Exclusive | State Unemployment Programs Targeted in Federal Antifraud Campaign - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOOWZGQ242dXlaTkNqQXZ5bVlsRlFsdDhZWEdSaWJmdUtMZk1LbWVJZTdSekJOVVhFSzJLRDhTd3c0MTd0Zlo3SVJpQ3Rwbm1RZlFYSWVJN2tYdFplZWRwSkstZUllUGhkWGlTQncyb01zTHdOdHhZTng4d21USjJZSEROc2pCYjI5cW40R3dGRGpjUGYyT2hENE5RRUZHTHJVY3VGUnFiemwtcC11Z05teA?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-06-17T18:15:17+00:00",
-    "summary": "Exclusive | State Unemployment Programs Targeted in Federal Antifraud Campaign WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 26
+    "relevance_score": 32
   },
   {
     "id": "f526814ead10",
@@ -205,7 +189,32 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 19
+    "relevance_score": 18
+  },
+  {
+    "id": "d5cb33a5bbf5",
+    "title": "3 Amazon Workers Say They’re Under Investigation for Speaking Out About Data Centers",
+    "url": "https://www.wired.com/story/amazon-workers-under-internal-investigation-after-speaking-out-about-data-centers/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-06-18T16:03:27+00:00",
+    "summary": "The software engineers filed a complaint with Seattle’s civil rights office accusing Amazon of illegally retaliating against them for expressing their personal political beliefs.",
+    "image_url": "https://media.wired.com/photos/6a33fb3a3fe23d3ce2a1cf59/master/pass/Business_AmazonWorkersUnder_v2.jpg",
+    "tags": [
+      "Business",
+      "Business / Big Tech",
+      "data centers",
+      "Amazon",
+      "artificial intelligence"
+    ],
+    "industries": [
+      "tech",
+      "retail"
+    ],
+    "relevance_score": 18,
+    "also_covered_by": [
+      "The Verge"
+    ]
   },
   {
     "id": "52f84bf8bfcc",
@@ -226,7 +235,44 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
+  },
+  {
+    "id": "9b09f24b9c49",
+    "title": "Bed Bath & Beyond to acquire real estate platform for $53M",
+    "url": "https://www.retaildive.com/news/bed-bath-beyond-acquires-real-estate-platform-fathom/823264/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-06-18T15:21:00+00:00",
+    "summary": "The all-stock deal to buy Fathom Holdings adds a home financing and brokerage element to the retailer's business.",
+    "image_url": "https://imgproxy.divecdn.com/iE7u3uR_idOKNdUo0PGEb7cFYlLEBHqJoTeXMNOXq9I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wNV9NQVlfTUIzX1RDU19GVF9XT1JUSDc2MDIuanBn.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "ee982c10fa06",
+    "title": "A year of Walmart Plus is half off ahead of Prime Day",
+    "url": "https://www.theverge.com/gadgets/952283/walmart-plus-half-off-deal-sale",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-06-18T17:33:00+00:00",
+    "summary": "Do you often find yourself shopping at the big blue, or perhaps you’re just looking for an alternative to Amazon? Either way, Walmart is currently offering a year of its Walmart Plus subscription for $49, which typically costs $98. The membership includes perks like free...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB378_WALMART_PLUS_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Prime Day",
+      "Verge Shopping"
+    ],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 17
   },
   {
     "id": "ef2bc0c7a7e4",
@@ -249,7 +295,46 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
+  },
+  {
+    "id": "ec9db9ffabaa",
+    "title": "Shopify Wants To Be Merchants’ Built-in AI Agency",
+    "url": "https://www.adweek.com/commerce/shopify-wants-to-be-merchants-built-in-ai-agency/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-06-18T12:20:39+00:00",
+    "summary": "The ecommerce giant is also bringing ads to ChatGPT and Microsoft.",
+    "image_url": null,
+    "tags": [
+      "AI News",
+      "Ecommerce News",
+      "Premium",
+      "Retail Media Networks",
+      "Retail News"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "26331680d830",
+    "title": "Stitch Fix taps Walmart vet as chief product and technology officer",
+    "url": "https://www.retaildive.com/news/stitch-fix-sree-sreedhararaj-product-technology-chief/823102/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-06-18T15:06:00+00:00",
+    "summary": "Sree Sreedhararaj, who also held the CTO role at Sephora, will oversee Stitch Fix’s technology, product, data science, security and IT teams.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail"
+    ],
+    "relevance_score": 16
   },
   {
     "id": "afe9ae0a14a7",
@@ -270,27 +355,21 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
-    "id": "ee5dc78bd3fd",
-    "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
-    "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-06-17T17:43:07+00:00",
-    "summary": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/ODYSSEY-INTHEWILD-974_Retouched_V1.00.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Fundraising",
-      "Startups",
-      "TC",
-      "In Brief"
-    ],
+    "id": "79daa8527a5c",
+    "title": "Abercrombie & Fitch Co. brings Hollister to Target, expanding US wholesale operation",
+    "url": "https://www.retaildive.com/news/abercrombie-fitch-co-hollister-target-expanding-us-wholesale/823270/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-06-18T15:42:00+00:00",
+    "summary": "The tie-up follows last year’s deals with Dick’s Sporting Goods and several department stores to sell Abercrombie Kids merchandise.",
+    "image_url": "https://imgproxy.divecdn.com/lNlzkogwE-KYXjWHUh3BeD_5f4JTujJSqXSdsix_XdM/g:nowe:0:0/c:3199:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Ib2xsaXN0ZXJfcHJpZGUuanBn.webp",
+    "tags": [],
     "industries": [
-      "tech",
-      "retail"
+      "retail",
+      "industrial"
     ],
     "relevance_score": 15
   },
@@ -317,6 +396,28 @@
     "relevance_score": 14
   },
   {
+    "id": "ee5dc78bd3fd",
+    "title": "World model maker Odyssey nabs $1.45B valuation backed by Amazon and other big names",
+    "url": "https://techcrunch.com/2026/06/17/world-model-maker-odyssey-nabs-1-45b-valuation-backed-by-amazon-and-other-big-names/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-06-17T17:43:07+00:00",
+    "summary": "World models are the next big thing in AI beyond LLMs and, with this round, Odyssey has cemented itself as one of the startups to watch.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/11/ODYSSEY-INTHEWILD-974_Retouched_V1.00.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Fundraising",
+      "Startups",
+      "TC",
+      "In Brief"
+    ],
+    "industries": [
+      "tech",
+      "retail"
+    ],
+    "relevance_score": 14
+  },
+  {
     "id": "c4279627be01",
     "title": "No, I Don’t Want to Watch Your Straight Hockey Show",
     "url": "https://www.wired.com/story/story/no-i-dont-want-to-watch-your-straight-hockey-show-heated-rivalry/",
@@ -336,31 +437,7 @@
       "media",
       "retail"
     ],
-    "relevance_score": 14,
-    "also_covered_by": [
-      "Adobe Inc"
-    ]
-  },
-  {
-    "id": "aa6c9ee97349",
-    "title": "SpaceX valuation balloons to $2.6T, briefly passes Amazon",
-    "url": "https://techcrunch.com/2026/06/16/spacex-valuation-balloons-to-2-6t-briefly-passes-amazon/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-06-16T20:11:00+00:00",
-    "summary": "SpaceX's valuation has increased by $1 trillion since its shares started trading on Friday.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2023/01/GettyImages-1244294229.jpg?resize=1200,675",
-    "tags": [
-      "AI",
-      "Space",
-      "In Brief",
-      "IPO",
-      "SpaceX"
-    ],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 13
+    "relevance_score": 14
   },
   {
     "id": "4eafadb307e8",
@@ -379,43 +456,20 @@
     "relevance_score": 13
   },
   {
-    "id": "cb0050ce80fc",
-    "title": "Pinterest launches an experimental AI shopping app called ‘Ask Pinterest’",
-    "url": "https://techcrunch.com/2026/06/17/pinterest-launches-an-experimental-ai-shopping-app-called-ask-pinterest/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-06-17T11:00:00+00:00",
-    "summary": "Pinterest has launched 'Ask Pinterest,' an experimental AI-powered shopping app that lets users seek recommendations and inspiration through a conversational interface.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/ask-pinterest.jpg?resize=1200,922",
-    "tags": [
-      "AI",
-      "Apps",
-      "Commerce",
-      "AI chatbot",
-      "Pinterest"
-    ],
+    "id": "29fa2047dc17",
+    "title": "StockX to debut live shopping",
+    "url": "https://www.retaildive.com/news/stockx-debuts-live-shopping-auctions/823066/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-06-18T16:04:00+00:00",
+    "summary": "The real-time shopping platform will include live auction formats such as standard timed bidding and sudden death.",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "tech",
       "retail"
     ],
-    "relevance_score": 11
-  },
-  {
-    "id": "05b073864190",
-    "title": "Fintech Trace Finance Raises $32 Million Series A, Targets Stablecoin Payments - Crowdfund Insider",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxQNnljTXA5eTNJNG5wRlNwU2Z6eEhXMDZjX3FpelRLM2poNHZpeUh3OEd2dWNnUDh2UG1iRkJEdE9xSFpVR2xmdElScXA2aTNWOGZRMkJpUWtFRDdPbDI2UGxxdzVIZTY5LURXai1Udm5CeDN4R0Zvc3ZqOXdkOEU1azlVdm40VFBzVTVHQU5jZWRXcURxd1ZoeDMwQTF4eVNJUmZhQTVzaWxZeDRPQVdnWllWLThYN0JUcnF3NU0xQUhiQzA?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-06-17T21:32:32+00:00",
-    "summary": "Fintech Trace Finance Raises $32 Million Series A, Targets Stablecoin Payments Crowdfund Insider",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 11
+    "relevance_score": 12
   },
   {
     "id": "0fc43875e7c8",
@@ -449,38 +503,6 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 11
-  },
-  {
-    "id": "61ae5e163d20",
-    "title": "Target’s Brian Cornell to remain executive chairman after proposal rejected",
-    "url": "https://www.retaildive.com/news/target-brian-cornell-executive-chairman-proposal-rejected/822907/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-15T15:54:00+00:00",
-    "summary": "Shareholders did not approve a policy suggestion making the board chair an independent director, despite pushback on Cornell's appointment.",
-    "image_url": "https://imgproxy.divecdn.com/BUyPFsIDrBkRc1vlD0C9YjNn0ykMzssOToNk8wxrtWU/g:nowe:121:214/c:3078:1739/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjEyNC5qcGc=.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "74535ea2b576",
-    "title": "Victoria’s Secret investors back full board after proxy battle",
-    "url": "https://www.retaildive.com/news/victorias-secret-investors-back-board-proxy-fight-bbrc/823012/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-16T15:34:00+00:00",
-    "summary": "The retailer's shareholders reelected all nine of the remaining nominees put forward by the company, despite pushback from activist group BBRC.",
-    "image_url": "https://imgproxy.divecdn.com/n8jMxhAkje_q8v5nSKTVGu9UMB_YIXvL6YzZxEke36U/g:nowe:0:534/c:3200:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMDg5NC5qcGc=.webp",
-    "tags": [],
-    "industries": [
-      "retail"
-    ],
     "relevance_score": 10
   },
   {
@@ -495,23 +517,6 @@
     "tags": [],
     "industries": [
       "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "22c771994632",
-    "title": "Foot Locker vet to lead operations at Kohl’s",
-    "url": "https://www.retaildive.com/news/foot-locker-veteran-lead-operations-kohls-elliott-rodgers/823000/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-16T15:20:00+00:00",
-    "summary": "Elliott Rodgers, who also spent more than eight years in leadership roles at Ulta, joins the struggling department store in September.",
-    "image_url": "https://imgproxy.divecdn.com/yQhfkv8lJDusbu7C7Xt0ZtXLjEwmkEZFKP-mZHbUNiE/g:nowe:1:21/c:1277:721/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9rb2hsc19zZXBob3JhXzEuanBlZw==.webp",
-    "tags": [],
-    "industries": [
-      "media",
       "retail",
       "industrial"
     ],
@@ -533,40 +538,23 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 9
-  },
-  {
-    "id": "339323bee398",
-    "title": "‘Chic. Affordable. Divine.’ Isaac Mizrahi returns to Target",
-    "url": "https://www.retaildive.com/news/chic-affordable-divine-issac-mizrahi-target-tarzhay-creative-director/822887/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-15T16:02:00+00:00",
-    "summary": "At the turn of the century, the fashion designer worked with the discounter to bring stylish clothing to the masses. Can he pick up where he left off?",
-    "image_url": "https://imgproxy.divecdn.com/Vauog_ZlCyAe74Wo1RbijYl0YDdEJvN7LfEJzjVbnks/g:nowe:0:492/c:2025:1144/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTS1UYXJnZXQtRGF2aWRfR3VyemhpZXYtMDMxMC5qcGc=.webp",
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
     "relevance_score": 8
   },
   {
-    "id": "c838c8eec72b",
-    "title": "Medicare drug price rule may target under-the-skin cancer immunotherapies",
-    "url": "https://www.healthcaredive.com/news/medicare-drug-price-negotiation-IV-subcutaneous-opdivo-keytruda/822922/",
-    "source": "Healthcare Dive",
+    "id": "d87cd00d98bf",
+    "title": "Data standardization key to Health Tech Ecosystem, TEFCA's interoperability goals - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPcDZVS0RYMENFWmtCTkVsT3RhQjB5RGtjek5fTzBVSHZ6SVhDQlBXeDZwbEptOTJPV0szMlQ2YVRwdVU4YmZhcWdwRy1zSllyQ3B1YWN5VGoweWo1Mm55NlBEcEl6OWRFWU8wSnBPRjdkeWVmVEFWUTFlOS0wNHRHOGhaOHVzRXdUZ1pxcmhhckMzNUJXN1RjTjk3RVMwVnp5QVdWQVMtalVkWndvT0wtZ1FtcFY3TUlMUFoyTW85SGlIRllBVzR0OA?oc=5",
+    "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-06-15T14:07:22+00:00",
-    "summary": "For 2029, a federal rule proposes closing a \"loophole\" that protects medicines transitioning from intravenous administration from price protection.",
-    "image_url": "https://imgproxy.divecdn.com/yNFj1iOXXiGXHrvNzMITrI7Zf52PfwK1rovRc0StZW8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDQ3NTA1MDAwLmpwZw==.webp",
+    "published": "2026-06-15T12:22:42+00:00",
+    "summary": "Data standardization key to Health Tech Ecosystem, TEFCA's interoperability goals TechTarget",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
       "retail",
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 7
+    "relevance_score": 5
   }
 ]
