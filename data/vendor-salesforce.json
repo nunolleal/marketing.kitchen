@@ -14,9 +14,7 @@
     ],
     "relevance_score": 38,
     "also_covered_by": [
-      "Adobe",
-      "Adobe Products",
-      "Fierce Healthcare"
+      "Adobe"
     ]
   },
   {
@@ -78,7 +76,7 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "1b042d840654",
@@ -94,35 +92,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 15
-  },
-  {
-    "id": "65aa03d70278",
-    "title": "Securing the Agentic Enterprise: Why Trust is the Engine of Headless 360",
-    "url": "https://www.salesforce.com/blog/headless-360-security/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-17T18:57:55+00:00",
-    "summary": "Ditching the browser shouldn't mean ditching security. Here's how Headless 360 builds in governance no matter where you bring Salesforce.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/AdobeStock_2038231105.jpg",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "38862cdb1b43",
-    "title": "Oracle vs. Salesforce: Which Tech Giant Is The Better Buy? - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ003SWRlbjdKRTNtbWFBWG1QN29GZWVhR3kzdnEtTXlXQWVFRWd6ajFMc2NVMzVQbFY3SUo2Nnk5NlZMTWlPRVgtd18zWDVfT2RtS0RtQThqQi1JcEppZlNuVm0waTVuUlFnMkdsdk5VcGZSMGVHZlJXVTJnd0xMYjdoVzdVdTFXU3AxUk1jeWQ3SWFvNXNrVDFBT1ZzNUVH?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-18T19:39:12+00:00",
-    "summary": "Oracle vs. Salesforce: Which Tech Giant Is The Better Buy? 24/7 Wall St.",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 12
+    "relevance_score": 14
   },
   {
     "id": "e49827ae592d",
@@ -140,6 +110,21 @@
     "relevance_score": 12
   },
   {
+    "id": "65aa03d70278",
+    "title": "Securing the Agentic Enterprise: Why Trust is the Engine of Headless 360",
+    "url": "https://www.salesforce.com/blog/headless-360-security/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-17T18:57:55+00:00",
+    "summary": "Ditching the browser shouldn't mean ditching security. Here's how Headless 360 builds in governance no matter where you bring Salesforce.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/AdobeStock_2038231105.jpg",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "b3e413af9d1e",
     "title": "Small Business Stories to Activate Your Inner Entrepreneur",
     "url": "https://www.salesforce.com/blog/small-business/small-business-stories/",
@@ -150,7 +135,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image.png?w=1778",
     "tags": [],
     "industries": [],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "07f2f4a742ff",
@@ -160,6 +145,19 @@
     "source_category": "salesforce",
     "published": "2026-06-15T13:40:58+00:00",
     "summary": "Salesforce acquires Fin, formerly Intercom, for $3.6 billion qz.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 10
+  },
+  {
+    "id": "38862cdb1b43",
+    "title": "Oracle vs. Salesforce: Which Tech Giant Is The Better Buy? - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZ003SWRlbjdKRTNtbWFBWG1QN29GZWVhR3kzdnEtTXlXQWVFRWd6ajFMc2NVMzVQbFY3SUo2Nnk5NlZMTWlPRVgtd18zWDVfT2RtS0RtQThqQi1JcEppZlNuVm0waTVuUlFnMkdsdk5VcGZSMGVHZlJXVTJnd0xMYjdoVzdVdTFXU3AxUk1jeWQ3SWFvNXNrVDFBT1ZzNUVH?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-06-18T19:39:12+00:00",
+    "summary": "Oracle vs. Salesforce: Which Tech Giant Is The Better Buy? 24/7 Wall St.",
     "image_url": null,
     "tags": [],
     "industries": [],
@@ -266,22 +264,6 @@
     "relevance_score": 7
   },
   {
-    "id": "ac3829af38c4",
-    "title": "Salesforce buys Fin, targets mid-market - No Jitter",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ2FuZHZHOVJkeF9oY0x4UE42akNEQl93Wm9MWUxqWUtKNVJiVUhFVjAzdXk2emhKMmxKdGFJdnhfdGRHZUlJYmhmcjI5VU5hcENWMUxwUjlINGM1dUlWdzBpNjNxQmYtdnJUT1dLV2plc3NrbUFhYkdrWlpwWUJ5bDJQTENfUQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-16T18:35:30+00:00",
-    "summary": "Salesforce buys Fin, targets mid-market No Jitter",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 7
-  },
-  {
     "id": "0f691d10d7ef",
     "title": "Salesforce Expands Agentforce As Stock Trades Below Analyst Value Estimates - Yahoo Finance",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQTnVGUXdiVVkyeXdXdGxoYXVpNnlXQ2R4Z3ZmdHZjVEpIOVZ5LVBSVFlMNkFxVm03bzd6WUdJRE9ZQzlkNUhKWUY3R0c2T19SN3FmU296cGtwOVhaZ0JNRTNnVUlqSXd2ai1qZ25HckU0ODEyM1VCMmxjM2JSLWwwckFSZmpyaWU3ZW5oc0hYSF9JUEM2bV9HUDlkTTkzLURWbVA2dndVcDZqdWc?oc=5",
@@ -311,5 +293,21 @@
       "industrial"
     ],
     "relevance_score": 6
+  },
+  {
+    "id": "ac3829af38c4",
+    "title": "Salesforce buys Fin, targets mid-market - No Jitter",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ2FuZHZHOVJkeF9oY0x4UE42akNEQl93Wm9MWUxqWUtKNVJiVUhFVjAzdXk2emhKMmxKdGFJdnhfdGRHZUlJYmhmcjI5VU5hcENWMUxwUjlINGM1dUlWdzBpNjNxQmYtdnJUT1dLV2plc3NrbUFhYkdrWlpwWUJ5bDJQTENfUQ?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-06-16T18:35:30+00:00",
+    "summary": "Salesforce buys Fin, targets mid-market No Jitter",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 5
   }
 ]
