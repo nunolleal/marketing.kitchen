@@ -43,7 +43,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 45
+    "relevance_score": 42
   },
   {
     "id": "74adeeb368db",
@@ -192,31 +192,6 @@
     "relevance_score": 16
   },
   {
-    "id": "8859f4a246e7",
-    "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
-    "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-06-19T16:01:03+00:00",
-    "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed...",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Dario-2280291125.jpg?w=1024",
-    "tags": [
-      "AI",
-      "Startups",
-      "acquisition",
-      "Anthropic",
-      "cursor"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 16,
-    "also_covered_by": [
-      "Telecom 5G"
-    ]
-  },
-  {
     "id": "37a083415226",
     "title": "Best Mesh Wi-Fi Systems (2026): Netgear, Asus, Amazon, and More",
     "url": "https://www.wired.com/story/best-mesh-wifi-routers/",
@@ -239,27 +214,29 @@
     "relevance_score": 15
   },
   {
-    "id": "ef2bc0c7a7e4",
-    "title": "Instacart Teases the 3 Ad Formats Coming to Its AI Shopping Assistant",
-    "url": "https://www.adweek.com/commerce/instacart-teases-the-3-ad-formats-coming-to-its-ai-shopping-assistant/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-06-18T09:00:00+00:00",
-    "summary": "Early tests show larger chatbot orders as the grocery-delivery app prepares ad pilots.",
-    "image_url": null,
+    "id": "8859f4a246e7",
+    "title": "The US banned Anthropic’s Fable 5 release, but the numbers don’t seem to care",
+    "url": "https://techcrunch.com/podcast/the-us-banned-anthropics-fable-5-release-but-the-numbers-dont-seem-to-care/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-06-19T16:01:03+00:00",
+    "summary": "Just as last week was ending, the US government forced Anthropic to pull its two newest models, Fable 5 and Mythos 5, citing national security concerns after Amazon researchers allegedly found a way to bypass Fable 5’s guardrails. Cybersecurity researchers have since signed...",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Dario-2280291125.jpg?w=1024",
     "tags": [
-      "Advertising News",
-      "Advertising/Marketing",
-      "Ecommerce News",
-      "Food Industry News",
-      "Premium"
+      "AI",
+      "Startups",
+      "acquisition",
+      "Anthropic",
+      "cursor"
     ],
     "industries": [
-      "tech",
       "retail",
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 15,
+    "also_covered_by": [
+      "Telecom 5G"
+    ]
   },
   {
     "id": "be26d7f567ae",
@@ -327,6 +304,29 @@
       "industrial"
     ],
     "relevance_score": 14
+  },
+  {
+    "id": "ef2bc0c7a7e4",
+    "title": "Instacart Teases the 3 Ad Formats Coming to Its AI Shopping Assistant",
+    "url": "https://www.adweek.com/commerce/instacart-teases-the-3-ad-formats-coming-to-its-ai-shopping-assistant/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-06-18T09:00:00+00:00",
+    "summary": "Early tests show larger chatbot orders as the grocery-delivery app prepares ad pilots.",
+    "image_url": null,
+    "tags": [
+      "Advertising News",
+      "Advertising/Marketing",
+      "Ecommerce News",
+      "Food Industry News",
+      "Premium"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 13
   },
   {
     "id": "ec9db9ffabaa",
@@ -417,25 +417,6 @@
     "relevance_score": 10
   },
   {
-    "id": "6fd294ea8c88",
-    "title": "Citi resets Adobe stock price target - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOWE1Yd1d4VWQzZmtmdkdkbjdhNlJOcHFwSDYxZWJCZmZhX3phUnJFd2JQNHp3eldlcktyd3RMWHFGVVNQdEJYRjVGVUlKWWF2M2FrajNqcTU2TC15S1pkVkY4aUNLQzNVd055eW1aSTVTSkxDTHBsVFI4ckctX1NJM0k2dzQ4eXA3Nzdyc1dpUTNtT05UVUdLQ0dn?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-06-19T18:03:00+00:00",
-    "summary": "Citi resets Adobe stock price target Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 10,
-    "also_covered_by": [
-      "Adobe"
-    ]
-  },
-  {
     "id": "0fc43875e7c8",
     "title": "AWS enters the context layer race with a graph that learns from agents, not manual curation",
     "url": "https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation",
@@ -454,6 +435,25 @@
     "relevance_score": 9
   },
   {
+    "id": "f239920cf8cb",
+    "title": "Citi resets Adobe stock price target - thestreet.com",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUVzaTRwTlRwMXdxTmpudzA4c2c4aWdrdUpnWnNlU3Y1UEdkOGYxenM5M09iOUU0a2I2N2wtZWJjTFFnMUZtVEtsZ2xQa2JmQmxPR1FuMEFsbk5VQkVmeFBuRXV2Y2ZubHEwRUctM1hyRndpSzBaRXFNeXZaZHdVLUlKRl9CTnBvNjRzRQ?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-06-19T15:03:00+00:00",
+    "summary": "Citi resets Adobe stock price target thestreet.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 9,
+    "also_covered_by": [
+      "Adobe Inc"
+    ]
+  },
+  {
     "id": "29fa2047dc17",
     "title": "StockX to debut live shopping",
     "url": "https://www.retaildive.com/news/stockx-debuts-live-shopping-auctions/823066/",
@@ -466,23 +466,6 @@
     "industries": [
       "tech",
       "retail"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "98c08403582f",
-    "title": "Microsoft picks Checkout.com as EMEA payments partner for key products - Electronic Payments International",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPRG8zcXVoOFJYYTdtMU5oYW5wX0JVMUpkZXZfMVZ6cU0zR0prMjBoMVVNRkxMSVRHUEhxLWJVUnUyMDRMeEJMdVJCdFZrbmV2NF81a0hLVGNKMnA2WFFUN2swZXFoYXIweXBxdFhBdTktTDk4TjBlR3JqQ1QycTVBRm1RLTJONWJBdE1mc2Y3ZDk3SVNkSC03dVpxN1BDSGF1clZEcVlkR3BaZ2J2QmVlRHZDcnl6UTZiT29LT3VlSFh0UQ?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-06-19T10:51:46+00:00",
-    "summary": "Microsoft picks Checkout.com as EMEA payments partner for key products Electronic Payments International",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "financial"
     ],
     "relevance_score": 8
   },
@@ -516,7 +499,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 7
+    "relevance_score": 6
   },
   {
     "id": "d87cd00d98bf",
