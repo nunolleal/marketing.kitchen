@@ -351,22 +351,6 @@
     "relevance_score": 12
   },
   {
-    "id": "4eafadb307e8",
-    "title": "One Medical Seniors reports data breach of third-party vendor impacting 'limited' number of patients",
-    "url": "https://www.fiercehealthcare.com/health-tech/one-medical-seniors-reports-data-breach-third-party-file-storage-system",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-17T21:32:00+00:00",
-    "summary": "Amazon One Medical reported a security event impacting a \"limited number\" of patients of its senior care clinics business.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1628269040/Screen%20Shot%202020-01-05%20at%207.08.27%20AM.png/Screen%20Shot%202020-01-05%20at%207.08.27%20AM.png?VersionId=bKG1Fo3H5ta3CSAIfxilkOZLKnGzpvQ0",
-    "tags": [],
-    "industries": [
-      "retail",
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "26331680d830",
     "title": "Stitch Fix taps Walmart vet as chief product and technology officer",
     "url": "https://www.retaildive.com/news/stitch-fix-sree-sreedhararaj-product-technology-chief/823102/",
@@ -383,20 +367,33 @@
     "relevance_score": 10
   },
   {
-    "id": "0fc43875e7c8",
-    "title": "AWS enters the context layer race with a graph that learns from agents, not manual curation",
-    "url": "https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-06-17T22:10:38+00:00",
-    "summary": "Building a context layer between enterprise data stores and AI agents is bespoke work, with no standard service to automate or maintain the graphs over time. Amazon is making a direct play to change that. Amazon on Wednesday entered the space, announcing a series of three...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3io1fRBUqBtb0b4g3PWP1u/23d64118a63ed9f4388e51d688f32ab8/context-smk1.jpg?w=300&q=30",
-    "tags": [
-      "Data"
+    "id": "2386798525a3",
+    "title": "Back-to-School Shopping Starts…Now! - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPLVViY1IxZkpYaW03NEdfRWJtWW1uaHU3LUc1UnFtM01uZEhyNjVHdnZMUVBscTlpRjNNWlV3RnF5S3dUSEY2cFpKdUNIRzJFQTlyekxaT1VxVHJ1T1lvTDBqMlRLUmhkN2poQTBWdXlKSW0wcnZfYkVUTFVQT0J4LUo4aGo?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-06-21T00:00:00+00:00",
+    "summary": "Back-to-School Shopping Starts…Now! WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail"
     ],
+    "relevance_score": 10
+  },
+  {
+    "id": "4eafadb307e8",
+    "title": "One Medical Seniors reports data breach of third-party vendor impacting 'limited' number of patients",
+    "url": "https://www.fiercehealthcare.com/health-tech/one-medical-seniors-reports-data-breach-third-party-file-storage-system",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-17T21:32:00+00:00",
+    "summary": "Amazon One Medical reported a security event impacting a \"limited number\" of patients of its senior care clinics business.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1628269040/Screen%20Shot%202020-01-05%20at%207.08.27%20AM.png/Screen%20Shot%202020-01-05%20at%207.08.27%20AM.png?VersionId=bKG1Fo3H5ta3CSAIfxilkOZLKnGzpvQ0",
+    "tags": [],
     "industries": [
       "retail",
-      "industrial"
+      "lifesciences"
     ],
     "relevance_score": 9
   },
@@ -434,6 +431,24 @@
     "relevance_score": 9
   },
   {
+    "id": "0fc43875e7c8",
+    "title": "AWS enters the context layer race with a graph that learns from agents, not manual curation",
+    "url": "https://venturebeat.com/data/aws-enters-the-context-layer-race-with-a-graph-that-learns-from-agents-not-manual-curation",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-06-17T22:10:38+00:00",
+    "summary": "Building a context layer between enterprise data stores and AI agents is bespoke work, with no standard service to automate or maintain the graphs over time. Amazon is making a direct play to change that. Amazon on Wednesday entered the space, announcing a series of three...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3io1fRBUqBtb0b4g3PWP1u/23d64118a63ed9f4388e51d688f32ab8/context-smk1.jpg?w=300&q=30",
+    "tags": [
+      "Data"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "f239920cf8cb",
     "title": "Citi resets Adobe stock price target - thestreet.com",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPVUVzaTRwTlRwMXdxTmpudzA4c2c4aWdrdUpnWnNlU3Y1UEdkOGYxenM5M09iOUU0a2I2N2wtZWJjTFFnMUZtVEtsZ2xQa2JmQmxPR1FuMEFsbk5VQkVmeFBuRXV2Y2ZubHEwRUctM1hyRndpSzBaRXFNeXZaZHdVLUlKRl9CTnBvNjRzRQ?oc=5",
@@ -462,22 +477,6 @@
     "industries": [
       "tech",
       "retail"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "899a42d70ae7",
-    "title": "Global payments and fintech hiring is picking up – what does it mean for our sector? - Retail Banker International",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOV1ZVOU0yYk90eF9laGMwMlJLRkV5bVBhWElSWWJXdzhXRlNCMXcyaWtZSFIxQ0NRVkt2R1c0QWVwZmFXYU05Sy0tZzJLQnh6OW1keUwzenFDMG9FMzYtZW5oaVU1bTNudnpLbzhPNWg1eWFRLUpabFNISzhBTFF4SEdBN004SEYxZWRBWFFvY2tzZXh1dWtzLWlyUnlrMkFxUk5ydmFjeWNPejlpcGpsNU0zS3NPWGxZZ3BlMWxDaHpTT1lVUDdPVm0xUzlOU2s?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-06-19T14:17:55+00:00",
-    "summary": "Global payments and fintech hiring is picking up – what does it mean for our sector? Retail Banker International",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "financial"
     ],
     "relevance_score": 7
   },
