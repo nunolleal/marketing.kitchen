@@ -10,7 +10,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/AdobeStock_2038231105.jpeg",
     "tags": [],
     "industries": [],
-    "relevance_score": 46
+    "relevance_score": 43
   },
   {
     "id": "96332f636aad",
@@ -89,7 +89,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "d485439db362",
@@ -135,7 +135,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "8b095c175a6c",
@@ -148,7 +148,7 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "82f47d76f9ba",
@@ -158,52 +158,6 @@
     "source_category": "salesforce",
     "published": "2026-06-25T14:10:48+00:00",
     "summary": "Salesforce Launches Agentforce Help Agent for Service CMSWire",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "cbec173eadbb",
-    "title": "Salesforce productizes its own customer service AI agent for users - TechTarget",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQUFEeEFWX2lHemJoRkVVVVBkYXEwN1JBV0JJNlE3NHBzOURrczRfam12TS1xX0Q3NnduLVpueHRHTnI3dW5mWFB4WVQ2aWtxYm03UHYtdWdpQTVJcEZENUhLWGdtQ3luVE10TklGZUk0WXFjZ3ZnZkRzZzNRZ1RNV2JsaEtpWUZXSXRodlhsX01JT3lUNkNnWDhUNllCV083UXd2MFc4RHNFSHhCSmJ3S3M2MmdLZ3JweXZud2czUC1paVhld2hLVFYxeUxMZw?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-25T14:45:29+00:00",
-    "summary": "Salesforce productizes its own customer service AI agent for users TechTarget",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "2252ed834975",
-    "title": "Agentforce Help Agent: Strong on Setup, Better on Pricing, Still Vague on Fin - salesforcedevops.net",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVUkzMkFJcUpmdGFITDVRV05kTGktMjJDaWRlNUVBQndQYm5WaHpuUTNxSlFkS0ZPdVdUMUx1d2ZaOTNsdmlpbWNtSFlLbUo3bTdwTGlvcFRBT2JoT0w1NHJ0S1l2LUxxNlJlU3VoSDQwcmU5d1lJRzFkNGZpOUc0YWpxMlU0U21qYmVFNlNSUWRPYWFkRnc?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-25T16:20:26+00:00",
-    "summary": "Agentforce Help Agent: Strong on Setup, Better on Pricing, Still Vague on Fin salesforcedevops.net",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "0bb62ba1c5ef",
-    "title": "Salesforce Introduces Prebuilt Service Agent With Outcome-Based Pricing Model - CX Today",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLWlUa0lGVWlZTDhIMzN6UTh2Q3ZHYU84LVB5N3NJLXZYLWJ1S3E1Rm5IbUhZaXJwTWUyMEdlbWR2eVFweVF0dnhkR0ZsdERSYjEtLW1lVlpyc1NaR0tySHRzY3FGNUFxXzZPZC1ISlFRNk9pY09GbF9EZ1VDbm1IWXRHTG1Hc0hDdjVvOFVUZWFVeDRDbFRGZzZaU0d4UktHcDZzeWxsY2RmWVNNVzFVbElPWXBBT2MzWnJTVjViRQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-25T16:56:58+00:00",
-    "summary": "Salesforce Introduces Prebuilt Service Agent With Outcome-Based Pricing Model CX Today",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -243,6 +197,21 @@
     "relevance_score": 12
   },
   {
+    "id": "2252ed834975",
+    "title": "Agentforce Help Agent: Strong on Setup, Better on Pricing, Still Vague on Fin - salesforcedevops.net",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVUkzMkFJcUpmdGFITDVRV05kTGktMjJDaWRlNUVBQndQYm5WaHpuUTNxSlFkS0ZPdVdUMUx1d2ZaOTNsdmlpbWNtSFlLbUo3bTdwTGlvcFRBT2JoT0w1NHJ0S1l2LUxxNlJlU3VoSDQwcmU5d1lJRzFkNGZpOUc0YWpxMlU0U21qYmVFNlNSUWRPYWFkRnc?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-06-25T16:20:26+00:00",
+    "summary": "Agentforce Help Agent: Strong on Setup, Better on Pricing, Still Vague on Fin salesforcedevops.net",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
     "id": "74af2fd6f494",
     "title": "The Designer’s AI Glossary: Familiar Words, New Meanings",
     "url": "https://www.salesforce.com/blog/the-designers-ai-glossary/",
@@ -255,7 +224,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 11
+    "relevance_score": 10
   },
   {
     "id": "b2fa00900125",
@@ -270,7 +239,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 11
+    "relevance_score": 10
   },
   {
     "id": "b3822e21a396",

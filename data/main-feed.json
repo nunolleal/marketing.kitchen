@@ -20,7 +20,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 67
+    "relevance_score": 64
   },
   {
     "id": "422c95ffafc9",
@@ -35,7 +35,10 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 64
+    "relevance_score": 61,
+    "also_covered_by": [
+      "Adobe"
+    ]
   },
   {
     "id": "0098c3e54827",
@@ -55,7 +58,20 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 64
+    "relevance_score": 61
+  },
+  {
+    "id": "53118f452b5e",
+    "title": "Adobe CMO on the Shift to AI-Driven Search - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPVE9XakI5TFNKa0U3OWp5bVozbTdQX1poaGdWeFc3dnVMc2VnZTcyVzM3YXNncEVRMlkyaGREM05MOUwyRTVGZW4wak80NGFSZU5xQk81N1FjVG9KT0owRWtLWWMtUklHQ2RzaVZjWTFzTzQza2NadThSMVdwOUZ6UFhXMjBaUkJhWGlubDJyc0U5TTQyaV9aNDRCOGlyVlN2anJZNHZaUEc?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-06-25T17:43:46+00:00",
+    "summary": "Adobe CMO on the Shift to AI-Driven Search WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 51
   },
   {
     "id": "1c3059fb7886",
@@ -74,20 +90,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 60
-  },
-  {
-    "id": "12205cbe3f90",
-    "title": "Adobe CMO on the Shift to AI-Driven Search - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9EZlZKczZ6ZnVuMGZ3RWFhMlAxRXZBYVp4cWlKREszSE1rMHlKZ0lOcThQZ0l6SUJDN1YybjNSNUFYbTNfQnVxVzVRUXZ1cy1yUEp4aDZ0RXNYZVJzZy1aWW9ZOXJfV3JnU1BrSjM4NEU5WEZzX0M2cHk0Q2U?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-06-25T17:24:00+00:00",
-    "summary": "Adobe CMO on the Shift to AI-Driven Search Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 51
+    "relevance_score": 57
   },
   {
     "id": "ae6d97d54536",
@@ -109,22 +112,7 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 60
-  },
-  {
-    "id": "5d43a861d3ce",
-    "title": "MoEngage Acquires Aampe to Bring 1:1 Agentic Decisioning to B2C Marketing Teams - Directors Club News -",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnJKM2VSeXFrdlJpam8tQ1QwTldjUHdkNHd4TFZRaWxyQmdpSzFILWxEWWduOE5HbTNaNklxVFJxODZvcVY1UE9uVnJHalFmdXdyRGp0MlVnNlVkYm5Zb3NYV2pZMlZyQVZLQjZxd2lsa3l1Sk5WczhQeUxDVWJHSkRHYlh3SHpXd2RTNFFadnNmaWNvMkljRDh3NElRVzA0bVdWSV9qZ1RxZ3NITldZVS1fcG9xa1dw?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-06-25T15:54:04+00:00",
-    "summary": "MoEngage Acquires Aampe to Bring 1:1 Agentic Decisioning to B2C Marketing Teams Directors Club News -",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 51
+    "relevance_score": 57
   },
   {
     "id": "ecb53665f3df",
@@ -141,81 +129,25 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 58,
+    "relevance_score": 55,
     "also_covered_by": [
       "Telecom 5G"
     ]
   },
   {
-    "id": "879240da6c87",
-    "title": "How retailers are thinking about omnichannel in the age of AI",
-    "url": "https://www.retaildive.com/news/ulta-stitch-fix-tapestry-retail-omnichannel-ai-age/823707/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-25T16:17:00+00:00",
-    "summary": "AI has offered new ways to drive traffic and manage loyalty programs, but retail is still about emotional connection, executives at Ulta, Stitch Fix and Tapestry said.",
-    "image_url": "https://imgproxy.divecdn.com/jw_8Tu5WHGLeMKgQ4-gLsYD7ZVvee8eRe6QV5lfUaSI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wMTVBMDExMC5qcGc=.webp",
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 50
-  },
-  {
-    "id": "7f9cc977d7e7",
-    "title": "Taco Bell gives away emotional-support tacos as World Cup nerves run high",
-    "url": "https://www.marketingdive.com/news/taco-bell-gives-away-emotional-support-tacos-as-world-cup-nerves-run-high/823674/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-06-25T14:43:00+00:00",
-    "summary": "“Loss Or Celebration Outcome Support,” or “L.O.C.O.S.,” will activate globally and comes as the brand looks to expand its loyalty program.",
-    "image_url": "https://imgproxy.divecdn.com/pO2LbxkbGOywNXxpHp0h3U1QwRztbpQjkQHtHKvdkk0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FN18yNl9XQ19Mb2Nvc19QUl9OZXdzcm9vbV9HYW1lcGxheV9JblRoZVpvbmUuanBlZw==.webp",
-    "tags": [],
-    "industries": [
-      "consumer"
-    ],
-    "relevance_score": 52
-  },
-  {
-    "id": "ee32c5686ad3",
-    "title": "How to Make AI Work for Your Marketing Team",
-    "url": "https://www.adweek.com/creativity/how-to-make-ai-work-for-your-marketing-team/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-06-25T10:32:01+00:00",
-    "summary": "This post was created in partnership with Adobe In an AI-saturated world, brand teams are beginning to ask next-level questions around how to scale creativity responsibly. During an ADWEEK House […]",
+    "id": "5d43a861d3ce",
+    "title": "MoEngage Acquires Aampe to Bring 1:1 Agentic Decisioning to B2C Marketing Teams - Directors Club News -",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOQnJKM2VSeXFrdlJpam8tQ1QwTldjUHdkNHd4TFZRaWxyQmdpSzFILWxEWWduOE5HbTNaNklxVFJxODZvcVY1UE9uVnJHalFmdXdyRGp0MlVnNlVkYm5Zb3NYV2pZMlZyQVZLQjZxd2lsa3l1Sk5WczhQeUxDVWJHSkRHYlh3SHpXd2RTNFFadnNmaWNvMkljRDh3NElRVzA0bVdWSV9qZ1RxZ3NITldZVS1fcG9xa1dw?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-06-25T15:54:04+00:00",
+    "summary": "MoEngage Acquires Aampe to Bring 1:1 Agentic Decisioning to B2C Marketing Teams Directors Club News -",
     "image_url": null,
-    "tags": [
-      "adops - branded content",
-      "ADWEEK House",
-      "AI News",
-      "Artificial Intelligence",
-      "Cannes Lions"
-    ],
+    "tags": [],
     "industries": [
-      "consumer"
-    ],
-    "relevance_score": 58
-  },
-  {
-    "id": "f4d60e212bdb",
-    "title": "The email newsletter is back and winning the inbox",
-    "url": "https://martech.org/the-email-newsletter-is-back-and-winning-the-inbox/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-06-25T12:36:00+00:00",
-    "summary": "The newsletter resurgence reflects a broader shift in consumer behavior toward curated content, trusted voices, and meaningful engagement. The post The email newsletter is back and winning the inbox appeared first on MarTech .",
-    "image_url": "https://martech.org/searchengineland.com/wp-content/seloads/2025/11/semrush-one.webp",
-    "tags": [
-      "Email marketing",
-      "Marketing automation"
-    ],
-    "industries": [
-      "tech",
       "industrial"
     ],
-    "relevance_score": 53
+    "relevance_score": 48
   },
   {
     "id": "78bf836b418a",
@@ -239,8 +171,98 @@
     "relevance_score": 51,
     "also_covered_by": [
       "The Verge",
+      "Forbes Business",
       "Adobe"
     ]
+  },
+  {
+    "id": "879240da6c87",
+    "title": "How retailers are thinking about omnichannel in the age of AI",
+    "url": "https://www.retaildive.com/news/ulta-stitch-fix-tapestry-retail-omnichannel-ai-age/823707/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-06-25T16:17:00+00:00",
+    "summary": "AI has offered new ways to drive traffic and manage loyalty programs, but retail is still about emotional connection, executives at Ulta, Stitch Fix and Tapestry said.",
+    "image_url": "https://imgproxy.divecdn.com/jw_8Tu5WHGLeMKgQ4-gLsYD7ZVvee8eRe6QV5lfUaSI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wMTVBMDExMC5qcGc=.webp",
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 47
+  },
+  {
+    "id": "7f9cc977d7e7",
+    "title": "Taco Bell gives away emotional-support tacos as World Cup nerves run high",
+    "url": "https://www.marketingdive.com/news/taco-bell-gives-away-emotional-support-tacos-as-world-cup-nerves-run-high/823674/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-06-25T14:43:00+00:00",
+    "summary": "“Loss Or Celebration Outcome Support,” or “L.O.C.O.S.,” will activate globally and comes as the brand looks to expand its loyalty program.",
+    "image_url": "https://imgproxy.divecdn.com/pO2LbxkbGOywNXxpHp0h3U1QwRztbpQjkQHtHKvdkk0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9FN18yNl9XQ19Mb2Nvc19QUl9OZXdzcm9vbV9HYW1lcGxheV9JblRoZVpvbmUuanBlZw==.webp",
+    "tags": [],
+    "industries": [
+      "consumer"
+    ],
+    "relevance_score": 49
+  },
+  {
+    "id": "ee32c5686ad3",
+    "title": "How to Make AI Work for Your Marketing Team",
+    "url": "https://www.adweek.com/creativity/how-to-make-ai-work-for-your-marketing-team/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-06-25T10:32:01+00:00",
+    "summary": "This post was created in partnership with Adobe In an AI-saturated world, brand teams are beginning to ask next-level questions around how to scale creativity responsibly. During an ADWEEK House […]",
+    "image_url": null,
+    "tags": [
+      "adops - branded content",
+      "ADWEEK House",
+      "AI News",
+      "Artificial Intelligence",
+      "Cannes Lions"
+    ],
+    "industries": [
+      "consumer"
+    ],
+    "relevance_score": 55
+  },
+  {
+    "id": "f4d60e212bdb",
+    "title": "The email newsletter is back and winning the inbox",
+    "url": "https://martech.org/the-email-newsletter-is-back-and-winning-the-inbox/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-06-25T12:36:00+00:00",
+    "summary": "The newsletter resurgence reflects a broader shift in consumer behavior toward curated content, trusted voices, and meaningful engagement. The post The email newsletter is back and winning the inbox appeared first on MarTech .",
+    "image_url": "https://martech.org/searchengineland.com/wp-content/seloads/2025/11/semrush-one.webp",
+    "tags": [
+      "Email marketing",
+      "Marketing automation"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 50
+  },
+  {
+    "id": "56436b22b6e7",
+    "title": "As agentic advertising floods Cannes, Amazon touts its Alexa advantage",
+    "url": "https://www.marketingdive.com/news/as-agentic-advertising-floods-cannes-amazon-touts-its-alexa-advantage/823730/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-06-25T13:30:00+00:00",
+    "summary": "Charlotte Maines, vice president of devices content and advertising, detailed a new Alexa+ Agentic Ads format being tested by Papa Johns and other brands.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "retail",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 48
   },
   {
     "id": "46ba263f01ca",
@@ -263,7 +285,7 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 54
+    "relevance_score": 51
   },
   {
     "id": "35eaa0d52020",
@@ -285,7 +307,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 54
+    "relevance_score": 51
   },
   {
     "id": "bfd0cd190907",
@@ -306,50 +328,24 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 54
+    "relevance_score": 51
   },
   {
-    "id": "6608ff4f3931",
-    "title": "Building Brands in Today’s Social-First Landscape",
-    "url": "https://www.adweek.com/social-marketing/building-brands-in-todays-social-first-landscape/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-06-25T10:19:58+00:00",
-    "summary": "This post was created in partnership with Creatively Squared Key takeaways Brand building has never been easy, but it’s become increasingly challenging on social platforms. Its foundational elements include consistency, […]",
+    "id": "8c456e2cf7a2",
+    "title": "The Backroom: The weight-loss era is not just about selling clothes",
+    "url": "https://www.retaildive.com/news/podcast-the-backroom-glp1-weight-loss-era-not-just-selling-clothes/823700/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-06-25T13:58:00+00:00",
+    "summary": "Liza Amlani, principal at Retail Strategy Group, joins us to discuss how retailers and brands can successfully grapple with what she calls “fit volatility.”",
     "image_url": null,
-    "tags": [
-      "adops - branded content",
-      "ADWEEK House",
-      "Branding",
-      "Cannes Lions",
-      "Social Media"
-    ],
+    "tags": [],
     "industries": [
       "tech",
+      "retail",
       "consumer"
     ],
-    "relevance_score": 54
-  },
-  {
-    "id": "3e4231faba2b",
-    "title": "The Human Advantage in an AI-Powered Marketing World",
-    "url": "https://www.adweek.com/brand-marketing/the-human-advantage-in-an-ai-powered-marketing-world/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-06-25T10:19:06+00:00",
-    "summary": "This post was created in partnership with Treasure AI AI has made it easier to create content, analyze data, and automate work. As those capabilities become more widely available, many […]",
-    "image_url": null,
-    "tags": [
-      "adops - branded content",
-      "ADWEEK House",
-      "AI News",
-      "Artificial Intelligence",
-      "Cannes Lions"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 54
+    "relevance_score": 45
   },
   {
     "id": "e41197a4c590",
@@ -371,42 +367,7 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 45
-  },
-  {
-    "id": "56436b22b6e7",
-    "title": "As agentic advertising floods Cannes, Amazon touts its Alexa advantage",
-    "url": "https://www.marketingdive.com/news/as-agentic-advertising-floods-cannes-amazon-touts-its-alexa-advantage/823730/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-06-25T13:30:00+00:00",
-    "summary": "Charlotte Maines, vice president of devices content and advertising, detailed a new Alexa+ Agentic Ads format being tested by Papa Johns and other brands.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "retail",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 48
-  },
-  {
-    "id": "8c456e2cf7a2",
-    "title": "The Backroom: The weight-loss era is not just about selling clothes",
-    "url": "https://www.retaildive.com/news/podcast-the-backroom-glp1-weight-loss-era-not-just-selling-clothes/823700/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-25T13:58:00+00:00",
-    "summary": "Liza Amlani, principal at Retail Strategy Group, joins us to discuss how retailers and brands can successfully grapple with what she calls “fit volatility.”",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "consumer"
-    ],
-    "relevance_score": 45
+    "relevance_score": 42
   },
   {
     "id": "ca2fd9ddd2ac",
@@ -422,7 +383,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 48
+    "relevance_score": 45
   },
   {
     "id": "4615dd56d0a6",
@@ -436,21 +397,6 @@
     "tags": [],
     "industries": [
       "industrial"
-    ],
-    "relevance_score": 45
-  },
-  {
-    "id": "71a2fae87b64",
-    "title": "Adobe Introduces Firefly Foundry to Support Custom AI Models for Enterprise Brand Consistency - Moomoo",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkowOW12cFBTemx2QXlrLTlBLXVmVURRNG9leEpIM18xaFlndmE0Mmoza3ZoWkZkNmNwSHNPLTVDOGZIS3NOLUtBS0xrQkJxaDdweFZpaUtuZm5qcWFtM3BvOTVzdjlPV3JsOUdYRmtoR1hLbXF0Wi1QNmNOVUxvXy1MRjhwU3hSeUVxYjhvbHh3M2ZqbV81Rm9tSnBWY2Z2REdtUnZLaEpqeXJPSXdDMkhyZ0V5QjBTSVE?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-06-25T14:29:27+00:00",
-    "summary": "Adobe Introduces Firefly Foundry to Support Custom AI Models for Enterprise Brand Consistency Moomoo",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "consumer"
     ],
     "relevance_score": 42
   },
@@ -468,12 +414,38 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 57,
+    "relevance_score": 54
+  },
+  {
+    "id": "71a2fae87b64",
+    "title": "Adobe Introduces Firefly Foundry to Support Custom AI Models for Enterprise Brand Consistency - Moomoo",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNdkowOW12cFBTemx2QXlrLTlBLXVmVURRNG9leEpIM18xaFlndmE0Mmoza3ZoWkZkNmNwSHNPLTVDOGZIS3NOLUtBS0xrQkJxaDdweFZpaUtuZm5qcWFtM3BvOTVzdjlPV3JsOUdYRmtoR1hLbXF0Wi1QNmNOVUxvXy1MRjhwU3hSeUVxYjhvbHh3M2ZqbV81Rm9tSnBWY2Z2REdtUnZLaEpqeXJPSXdDMkhyZ0V5QjBTSVE?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-06-25T14:29:27+00:00",
+    "summary": "Adobe Introduces Firefly Foundry to Support Custom AI Models for Enterprise Brand Consistency Moomoo",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "consumer"
+    ],
+    "relevance_score": 39,
     "also_covered_by": [
-      "MarTech",
-      "Fierce Healthcare",
-      "Health Tech"
+      "Adobe Products"
     ]
+  },
+  {
+    "id": "f34e01c03fba",
+    "title": "FCC’s Carr Says ABC Is Running a ‘Campaign of Misinformation’ on Probe - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQdXFHMU05b1dwQ1NNUDl0eDVKT2U4a25XWm1VUXFHRXZMTjVMcUNzeXFKQ1ZLM1Rkd0JqRDZhSkt1dml2ZjA1ZWFwck1hbHlfeldVRHp3ajMwYl81a19COEpncEVSNlhNMWNvdWJBb0twQjhLbm82U0xXd3dEV0FHUHVWbWtNaVhvTGxGWXZLRkF2TjlLQm9KbG43aVhzdG5lbzdJd011ZHFoSkRmalRqUg?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-06-25T18:10:00+00:00",
+    "summary": "FCC’s Carr Says ABC Is Running a ‘Campaign of Misinformation’ on Probe WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 35
   },
   {
     "id": "700ba794b1df",
@@ -510,7 +482,22 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 48
+    "relevance_score": 45
+  },
+  {
+    "id": "7df18731dd5a",
+    "title": "How agentic AI is saving more than time in buying ad campaigns - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOak9jUFBaekY2cTlteUs5YUw1LTMzSUZBZkRkQ3g2UUJBeGR2dmk2TkFWdG1xajFMdXhzd19hdFFhOHJMZ0hrV19ETjU2dldLcnREVWVsbDkzZU9qZnYzNE8tcWpyU3MxXzB3VzdNbHl6MTByMlBMdjZZazdWYTJvM0dUczU1TDlFR0NZNjBtV2ptVW9HVVFqNEROaw?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-06-25T13:00:00+00:00",
+    "summary": "How agentic AI is saving more than time in buying ad campaigns Ad Age",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 33
   },
   {
     "id": "509f347368e3",
@@ -530,22 +517,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 45
-  },
-  {
-    "id": "8509b5d13d80",
-    "title": "The top 5 food and beverage marketing ideas to know about right now - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQSlcxWkhvM2dTNkQtNjI3V2U3YjRJamJaQ1JSQjQwUU5EUXF4dzRpRmt5bkxxcWQ4ZnB6N29VUzF5bzF2Ml9DZ0pCVzRXd083WmdpZUhFLWVOUWljWnQzSUNsekxFd1d3S3duekIzUWc1RF9CWDgzakY0X2RKcXRJZDFxcGUwOFVDNnIxelZFRXpiMmtadm5ibGZZSHZ1TUlrMEFST1RTSHhadmdXLTJCTzR5ajRNUQ?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-06-25T08:55:00+00:00",
-    "summary": "The top 5 food and beverage marketing ideas to know about right now Ad Age",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 39
+    "relevance_score": 42
   },
   {
     "id": "a0c0167b47de",
@@ -561,22 +533,25 @@
     "relevance_score": 29
   },
   {
-    "id": "0bce6909dd61",
-    "title": "Is Adobe’s Agentic AI Push the New Standard for Enterprise Customer Experience? - The Futurum Group",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSjNRUndGZVV4MnhIT1lZYnZRcmZsc2NFd1hlTzJZS2hqTy1obWIxVmN6RDlSRmpWYWQ0ck1YU1ZfOVZZRzlDWmV5NWozbDJmVWFtSlBJc0tUWjFiLVR3cUZjeXJKUHNqVUNOZEF3anV2N1ZBbk4xQXp5Q1BZRGYtV0w0OEsya2Q3MmoxdWZqYkxfRHV6MGo4TE9RenRXb0d2Q2sydDVjdWJRUkVYUnoxNVpB?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-06-24T19:11:03+00:00",
-    "summary": "Is Adobe’s Agentic AI Push the New Standard for Enterprise Customer Experience? The Futurum Group",
-    "image_url": null,
-    "tags": [],
+    "id": "0e9c7b9a63df",
+    "title": "Forget Peloton. Race to This 25% Off Deal on Hydrow’s Rowing Machine (2026)",
+    "url": "https://www.wired.com/story/hydrow-rowing-machine-deal-amazon-prime-day-2026/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-06-25T19:58:52+00:00",
+    "summary": "This Peloton-adjacent rowing machine gamifies your workout to a satisfying effect, and it’s up to 25 percent off right now for Prime Day.",
+    "image_url": "https://media.wired.com/photos/6a3c6b85f829e485b65527f0/master/pass/hydrow-arc-rower.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "Shopping",
+      "Deals",
+      "Amazon Prime Day"
+    ],
     "industries": [
       "industrial"
     ],
-    "relevance_score": 41,
-    "also_covered_by": [
-      "Salesforce AI"
-    ]
+    "relevance_score": 20
   },
   {
     "id": "e5d6c5fc22e3",
@@ -612,48 +587,65 @@
     "relevance_score": 45
   },
   {
-    "id": "56c86a142320",
-    "title": "Over 100 fresh tech deals from Prime Day day 3",
-    "url": "https://www.theverge.com/gadgets/956199/best-prime-day-2026-deals-tech-electronics-sale-day-three",
-    "source": "The Verge",
+    "id": "9fde553deecd",
+    "title": "Patronus AI lands $50M to build ‘digital worlds’ that stress-test AI agents",
+    "url": "https://techcrunch.com/2026/06/25/patronus-ai-lands-50m-to-build-digital-worlds-that-stress-test-ai-agents/",
+    "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-06-25T16:56:07+00:00",
-    "summary": "It’s day three of Prime Day, folks. We’re nearly 75 percent of the way through Amazon’s four-day sales event, and unsurprisingly, many deals are still sticking around. There have been all kinds of discounts on things like TVs, smart home gadgets, chargers, headphones, and...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268513_Amazon_Prime_Day_artwork_3.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "published": "2026-06-25T20:19:25+00:00",
+    "summary": "Agent-testing startup Patronus AI, founded by former Meta AI researchers, is experiencing nearly insatiable demand, its investor says.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Patronus-team.jpg?resize=1200,800",
     "tags": [
-      "Amazon",
-      "Amazon Alexa",
-      "Apple",
-      "Deals",
-      "Gadgets"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 20
-  },
-  {
-    "id": "61ba04c5ea5f",
-    "title": "The Apple Watch Series 11 is $120 off for Prime Day, its all-time low price",
-    "url": "https://www.theverge.com/gadgets/956635/apple-watch-series-11-amazon-prime-day-2026-deal-sale",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-06-25T16:38:39+00:00",
-    "summary": "We’ve seen a lot of great Prime Day deals on wearables this year, from the Fitbit Charge 6 to the latest Apple Watch SE. But if you’re looking for advanced health features, the Apple Watch Series 11 is the one to check out, and it’s now down to its best price ever: $279 ($120...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257945_Applewatch_Series_11_AKrales_0008.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Apple",
-      "Deals",
-      "Gadgets",
-      "Prime Day",
-      "Tech"
+      "AI",
+      "Venture",
+      "ai benchmarks",
+      "evaluation",
+      "Greenfield Partners"
     ],
     "industries": [
       "tech",
       "industrial"
     ],
-    "relevance_score": 20
+    "relevance_score": 18
+  },
+  {
+    "id": "0bce6909dd61",
+    "title": "Is Adobe’s Agentic AI Push the New Standard for Enterprise Customer Experience? - The Futurum Group",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPSjNRUndGZVV4MnhIT1lZYnZRcmZsc2NFd1hlTzJZS2hqTy1obWIxVmN6RDlSRmpWYWQ0ck1YU1ZfOVZZRzlDWmV5NWozbDJmVWFtSlBJc0tUWjFiLVR3cUZjeXJKUHNqVUNOZEF3anV2N1ZBbk4xQXp5Q1BZRGYtV0w0OEsya2Q3MmoxdWZqYkxfRHV6MGo4TE9RenRXb0d2Q2sydDVjdWJRUkVYUnoxNVpB?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-06-24T19:11:03+00:00",
+    "summary": "Is Adobe’s Agentic AI Push the New Standard for Enterprise Customer Experience? The Futurum Group",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 37,
+    "also_covered_by": [
+      "Adobe",
+      "Adobe Inc",
+      "Salesforce AI"
+    ]
+  },
+  {
+    "id": "a26f1c2308fc",
+    "title": "Wimbledon Prize Money Hits Record $85.8 Million: Full 2026 Payout Breakdown",
+    "url": "https://www.forbes.com/sites/adamzagoria/2026/06/25/how-the-wimbledon-prize-money-breaks-down/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-25T17:50:25+00:00",
+    "summary": "Amid pressure from players, Wimbledon recently announced 20% increases in total prize money and for the singles champions, who will earn $4.8 million each at the grass-court Grand Slam.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d644ee4d439d6631b0e83/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [],
+    "relevance_score": 19
   },
   {
     "id": "dd6cd4a2f4b6",
@@ -673,24 +665,45 @@
     "relevance_score": 43
   },
   {
-    "id": "f6317a696dd6",
-    "title": "Xbox prices spike another $100 or more",
-    "url": "https://www.theverge.com/games/957042/xbox-price-increase-memory-shortage",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-06-25T16:49:17+00:00",
-    "summary": "Microsoft is increasing the prices of Xbox consoles again. Starting August 1st, 512GB models will be $100 more expensive, while 1TB models will be $150 more expensive. This means that the Xbox Series S will start at $499.99, the Xbox Series X without a disc drive will start...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012260/vpavic_4275_20201030_0036.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "id": "9ebb79323845",
+    "title": "Apple’s 5% Stock Plunge Erases $275 Billion After MacBook And iPad Price Hikes",
+    "url": "https://www.forbes.com/sites/maryroeloffs/2026/06/25/apples-5-stock-plunge-erases-275-billion-after-macbook-and-ipad-price-hikes/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-25T17:29:14+00:00",
+    "summary": "The cheapest MacBook Pro now starts at $2,000.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d2cd32d5f9526a7439211/0x0.jpg?width=960",
     "tags": [
-      "Entertainment",
-      "Gaming",
-      "News",
-      "Xbox"
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
     ],
     "industries": [
-      "tech"
+      "tech",
+      "industrial"
     ],
     "relevance_score": 19
+  },
+  {
+    "id": "41e5e5af3bf0",
+    "title": "BTS Scores Yet Another No. 1 Bestseller",
+    "url": "https://www.forbes.com/sites/hughmcintyre/2026/06/25/bts-scores-yet-another-no-1-bestseller/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-25T19:00:04+00:00",
+    "summary": "BTS launches \"Come Over\" at No. 1 on the downloads chart in the U.K., earning a seventh career champion on the tally with the Arirang bonus cut.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69d6647206eb4f0884b0d436/0x0.jpg?width=960",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [],
+    "relevance_score": 18
   },
   {
     "id": "ae1eda4f0bcf",
@@ -712,6 +725,26 @@
     "relevance_score": 42
   },
   {
+    "id": "720c8e22feed",
+    "title": "Score a discounted Xbox console before the prices jump",
+    "url": "https://www.theverge.com/gadgets/957170/xbox-series-s-x-prime-day-deal-sale",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-06-25T20:18:47+00:00",
+    "summary": "Microsoft announced today that the price of all Xbox models will rise in August, the second time in less than a year as memory prices continue to wreak havoc on every industry from cars to computing. Thankfully, we’re already out looking for Prime Day deals, and we were able...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/22012262/vpavic_4275_20201030_0050.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Prime Day",
+      "Verge Shopping"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 17
+  },
+  {
     "id": "c09335b48fe6",
     "title": "Target launches back-to-school season — and the first test of its turnaround",
     "url": "https://www.retaildive.com/news/target-launches-back-to-school-season-first-test-turnaround/823628/",
@@ -728,101 +761,232 @@
     "relevance_score": 38
   },
   {
-    "id": "51485f95684e",
-    "title": "54 Prime Day steals under $25 you won’t want to miss",
-    "url": "https://www.theverge.com/gadgets/951852/prime-day-deals-cheap-stuff-under-25-sale",
+    "id": "cd5cb2239121",
+    "title": "Instagram wants to monopolize your attention",
+    "url": "https://www.theverge.com/tech/956456/instagram-for-tv-youtube-microdramas-longform-video",
     "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-06-25T17:09:43+00:00",
-    "summary": "We at The Verge love a good gadget or tchotchke, especially when it’s not too expensive. But with the rising cost of just about everything these days, many once-cheap gadgets aren’t so affordable anymore. Amazon and other retailers sell all sorts of products from word salad...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/Screenshot-2025-04-29-at-2.11.21%E2%80%AFPM.png?quality=90&amp;strip=all&amp;crop=0%2C11.023851076207%2C100%2C77.952297847586&amp;w=1200",
+    "published": "2026-06-25T20:10:24+00:00",
+    "summary": "This week, Instagram launched a series of new features for its smart TV app that are all designed to get people to spend more time on the platform through the biggest screens in their homes. In addition to vertical Reels, Instagram for TV - which is currently available for...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/Screenshot-2026-06-24-at-4.43.00-PM.png?quality=90&amp;strip=all&amp;crop=0%2C1.8565324667509%2C100%2C96.286935066498&amp;w=1200",
     "tags": [
-      "Deals",
-      "Gadgets",
-      "Prime Day",
-      "Verge Shopping"
+      "Creators",
+      "Entertainment",
+      "Instagram",
+      "Meta",
+      "Tech"
     ],
     "industries": [
-      "retail",
+      "tech",
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
-    "id": "d8d06740c33a",
-    "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
-    "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-06-25T16:55:00+00:00",
-    "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800",
+    "id": "15f9561374fd",
+    "title": "Trump Media Stock Hits All-Time Low—Down Almost 50% In 2026",
+    "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/25/trump-media-stock-hits-all-time-low-down-almost-50-in-2026/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-25T19:54:43+00:00",
+    "summary": "The president’s media company has fallen nearly 50% since the start of 2026.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d86955a0eddb6ea1401bd/0x0.jpg?width=960",
     "tags": [
-      "AI",
-      "Fundraising",
-      "Robotics",
-      "Startups",
-      "AI training data"
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
     ],
     "industries": [
-      "industrial"
+      "media"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
-    "id": "0e5f3fc6a03c",
-    "title": "The Aerogarden I Recommend to Everyone Is Just $83 Right Now, a 63 Percent Discount",
-    "url": "https://www.wired.com/story/amazon-prime-day-aerogarden-deal-2026/",
+    "id": "3ab726b9fcd0",
+    "title": "We're Live-Blogging For The Real Heads Still Shopping Amazon Prime Day",
+    "url": "https://www.wired.com/live/amazon-prime-day-live-tracker-july-25-2026/",
     "source": "Wired",
     "source_category": "ai",
-    "published": "2026-06-25T16:54:55+00:00",
-    "summary": "This flash deal is a rare chance to buy one of our favorite hydroponic gardens for less than $100.",
-    "image_url": "https://media.wired.com/photos/6a3d558e5cdc2b309c97a33d/master/pass/Flash-Deal--This-Fancy-Aerogarden-Model-Is-Now-63-Percent-Off.jpg",
+    "published": "2026-06-25T19:13:33+00:00",
+    "summary": "The third day of Amazon Prime Day is for the real heads, and so is our live blog. We'll bring you deals, trends, and commentary until Amazon's annual summer sale finally hangs up its cleats.",
+    "image_url": "https://media.wired.com/photos/6a39c73ad8ef6fd843d20906/master/pass/Launorma_Liveblog.png",
     "tags": [
       "Gear",
       "Gear / Deals",
-      "Gear / Products / Home",
+      "Amazon Prime Day",
       "Shopping",
       "Deals"
-    ],
-    "industries": [],
-    "relevance_score": 18
-  },
-  {
-    "id": "fd4468afd789",
-    "title": "The Samsung S26 Ultra is already marked down to $920 for Prime Day",
-    "url": "https://www.theverge.com/gadgets/956600/samsung-galaxy-s26-ultra-prime-day-deal-sale",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-06-25T16:38:02+00:00",
-    "summary": "Amazon has the 256GB Samsung Galaxy S26 Ultra on sale for $919.99 (usually $1,099.99) for Prime Day, a significant discount for a phone that released just a few months ago in March. The S26 Ultra has a set of four rear cameras for excellent photos, a refined design that’s...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268399_Samsung_Galaxy_S26_Ultra_review_AJohnson_0011.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Prime Day",
-      "Verge Shopping"
     ],
     "industries": [
       "retail"
     ],
+    "relevance_score": 17
+  },
+  {
+    "id": "e55abcb4f8c9",
+    "title": "JAŸ-Z And Rick Rubin Bring HBO Docuseries To TV This Fall",
+    "url": "https://www.forbes.com/sites/imeekpo/2026/06/25/ja-z-and-rick-rubin-bring-hbo-docuseries-to-tv-this-fall/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-25T18:44:25+00:00",
+    "summary": "The eight-part series, executive-produced by JAŸ-Z himself, is a study in how the Brooklyn rap icon has long used selective access as a form of power.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d706a8aa66099828327c0/0x0.jpg?width=960&precrop=2427%2C1366%2Cx173%2Cy213",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "cdd114cc43cd",
+    "title": "Oldest U.S. Navy Supercarrier Heading To NYC For 250 Celebrations",
+    "url": "https://www.forbes.com/sites/petersuciu/2026/06/25/oldest-us-navy-supercarrier-heading-to-nyc-for-250-celebrations/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-25T18:41:51+00:00",
+    "summary": "The USS Nimitz will take part in the International Naval Review 250 and will join a line-up of U.S. Navy and Coast Guard vessels",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d750b09aab054d92d748b/0x0.jpg",
+    "tags": [
+      "Aerospace & Defense",
+      "/aerospace-defense",
+      "Business",
+      "/business",
+      "Aerospace & Defense"
+    ],
+    "industries": [
+      "telecom"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "eb4e2cee7b36",
+    "title": "How HubSpot Built a 50-Million-Person Media Engine Inside a Software Company with Jonathan Hunt",
+    "url": "https://www.adweek.com/media/how-hubspot-built-a-50-million-person-media-engine-inside-a-software-company-with-jonathan-hunt/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-06-25T16:36:06+00:00",
+    "summary": "Transforming content into a customer acquisition channel and more insights.",
+    "image_url": null,
+    "tags": [
+      "Adspeak",
+      "Adweek Podcasts",
+      "Media News"
+    ],
+    "industries": [
+      "media",
+      "tech"
+    ],
     "relevance_score": 18
   },
   {
-    "id": "db440c6bb12d",
-    "title": "Patient messages to providers skyrocket since 2020: study",
-    "url": "https://www.healthcaredive.com/news/patient-portal-messages-clinicians-skyrockets-jama/823785/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-25T15:40:03+00:00",
-    "summary": "Between 2020 and 2025, patient-written messages increased 153%, according to the study in JAMA. But office visits also rose, suggesting messaging doesn’t replace in-person care.",
-    "image_url": "https://imgproxy.divecdn.com/rnZNGbn13XtWEI9eiootqrhWQ3lRXXxAaSzsQPrb_1s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYyODk1NjEyLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
+    "id": "ce6e6ed784c1",
+    "title": "‘Jackass: Best And Last’ Rotten Tomatoes Reviews Cheer Stunt Crew’s Final Movie",
+    "url": "https://www.forbes.com/sites/timlammers/2026/06/25/jackass-best-and-last-rotten-tomatoes-reviews-cheer-stunt-crews-final-movie/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-25T20:07:32+00:00",
+    "summary": "“Jackass: Best and Last,” the fifth and final stunt movie based on Johnny Knoxville’s hit MTV series “Jackass,” is going out with a bang with Rotten Tomatoes critics.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d862d4bafa35b1316ef33/0x0.jpg?width=960&precrop=1529%2C859%2Cx171%2Cy471",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
     ],
-    "relevance_score": 18
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "57deb62899f3",
+    "title": "Lawsuit Against Trump’s $1.8 Billion Fund Will Keep Moving Forward, Judge Rules",
+    "url": "https://www.forbes.com/sites/alisondurkee/2026/06/25/lawsuit-against-trumps-18-billion-fund-will-keep-moving-forward-judge-rules/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-25T17:54:58+00:00",
+    "summary": "The DOJ declined to issue a written statement confirming the “anti-weaponization” fund was dead.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d6a3668064db05eb1b3bc/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "ec13e6ae99d0",
+    "title": "RAMageddon just got extremely real",
+    "url": "https://www.theverge.com/tech/956950/ram-crisis-apple-price-increase",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-06-25T20:00:00+00:00",
+    "summary": "As far as prices go, Apple is kind of a reverse canary in the coal mine. With its famously generous margins and immense purchasing volume, it can afford to ride out price fluctuations in its supply chain in a way no other consumer tech company can. So when Apple raises prices...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/DSC03702_processed.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
+    "tags": [
+      "Apple",
+      "Gadgets",
+      "Tech"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "bcfd263b0555",
+    "title": "Garrett Leight Launches Archives For Rare Vintage Eyewear",
+    "url": "https://www.forbes.com/sites/sharonedelson/2026/06/25/garrett-leight-launches-archives-for-rare-vintage-eyewear/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-25T17:48:32+00:00",
+    "summary": "Garrett Leight California Optical is launching today, a new destination for rare vintage, collector and deadstock eyewear.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d55c168064db05eb1b3ae/0x0.jpg?width=960",
+    "tags": [
+      "Retail",
+      "/retail",
+      "Business",
+      "/business",
+      "Retail"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "f5f99049afa6",
+    "title": "Jon Spencer On Latest Album ‘Songs Of Personal Loss And Protest’",
+    "url": "https://www.forbes.com/sites/jimryan1/2026/06/25/jon-spencer-on-latest-album-songs-of-personal-loss-and-protest/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-25T19:46:07+00:00",
+    "summary": "Jon Spencer on the meaning of rock and roll during tumultuous times and working with Kendall and Spider of The Bobby Lees on new album Songs of Personal Loss And Protest.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d7b9de4d439d6631b0e8d/0x0.jpg?width=960&precrop=2048%2C1152%2Cx0%2Cy87",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [],
+    "relevance_score": 16
   },
   {
     "id": "63e7cd52baa6",
@@ -843,43 +1007,218 @@
     "relevance_score": 39
   },
   {
-    "id": "edf2a473ca48",
-    "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
-    "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+    "id": "d8d06740c33a",
+    "title": "General Intuition’s $2.3B bet that video games can train AI agents for the real world",
+    "url": "https://techcrunch.com/2026/06/25/general-intuitions-2-3b-bet-that-video-games-can-train-ai-agents-for-the-real-world/",
     "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-06-25T14:55:38+00:00",
-    "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2263017594.jpg?resize=1200,800",
+    "published": "2026-06-25T16:55:00+00:00",
+    "summary": "General Intuition has raised $320 million to scale AI trained on millions of hours of gameplay, betting action data can help AI develop something closer to human intuition.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/pic_Pim_CEO.jpg?resize=1200,800",
     "tags": [
       "AI",
-      "a16z",
-      "neocloud",
-      "Netris"
+      "Fundraising",
+      "Robotics",
+      "Startups",
+      "AI training data"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "0e5f3fc6a03c",
+    "title": "The Aerogarden I Recommend to Everyone Is Just $83 Right Now, a 63 Percent Discount",
+    "url": "https://www.wired.com/story/amazon-prime-day-aerogarden-deal-2026/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-06-25T16:54:55+00:00",
+    "summary": "This flash deal is a rare chance to buy one of our favorite hydroponic gardens for less than $100.",
+    "image_url": "https://media.wired.com/photos/6a3d558e5cdc2b309c97a33d/master/pass/Flash-Deal--This-Fancy-Aerogarden-Model-Is-Now-63-Percent-Off.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "Gear / Products / Home",
+      "Shopping",
+      "Deals"
+    ],
+    "industries": [],
+    "relevance_score": 17
+  },
+  {
+    "id": "7c0a1f0c5526",
+    "title": "Albertsons integrates branded product placement into AI-search tool",
+    "url": "https://www.marketingdive.com/news/albertsons-media-collective-criteo-ai-search-brand-ads-ecommerce-omnichannel/823636/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-06-24T14:34:00+00:00",
+    "summary": "The grocery company’s retail media arm now lets ads appear in conversational search product carousels.",
+    "image_url": "https://imgproxy.divecdn.com/6uNl06EkZ6nCGi1JQh291ck2GrmHUhhINPNEL52htzY/g:nowe:0:0/c:1877:1060/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BSV9TZWFyY2hfQ3JlYXRpdmUuanBn.webp",
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "retail",
+      "consumer"
+    ],
+    "relevance_score": 36
+  },
+  {
+    "id": "d4371fe152a8",
+    "title": "Seventh Person Arrested For Reflecting Pool Vandalism",
+    "url": "https://www.forbes.com/sites/zacharyfolk/2026/06/25/seventh-person-arrested-for-reflecting-pool-vandalism/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-25T20:42:29+00:00",
+    "summary": "The Trump administration pointed to grainy photos and videos of an individual appearing to remove something from the pool that were released on Wednesday.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d9210aa837124edcc9dcf/0x0.jpg?width=960",
+    "tags": [
+      "Breaking News",
+      "/news",
+      "Business",
+      "/business",
+      "Breaking News"
     ],
     "industries": [
       "tech"
     ],
-    "relevance_score": 18
+    "relevance_score": 15
   },
   {
-    "id": "9e84b7f9d0f9",
-    "title": "IROC Joins IndyCar At Freedom 250 Grand Prix Of Washington D.C.",
-    "url": "https://www.forbes.com/sites/brucemartin/2026/06/25/iroc-joins-indycar-at-freedom-250-grand-prix-of-washington-dc/",
+    "id": "1e09dbadb2c0",
+    "title": "Xbox Raises Console Prices Up To $150 As AI Depletes Memory And Storage Supply",
+    "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/25/xbox-raises-console-prices-up-to-150-as-ai-depletes-memory-and-storage-supply/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-06-25T16:52:04+00:00",
-    "summary": "IROC returns with some of the greatest names in recent racing history from NASCAR and IndyCar competing on the streets of Washington DC in the Freedom 250 Grand Prix.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d58f0d9c2f2b125d0b005/0x0.jpg",
+    "published": "2026-06-25T18:05:16+00:00",
+    "summary": "The increase is the latest price hike after Xbox consoles prices rose $20 to $70 last year.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d6db3c7a9ec1fa0f46873/0x0.jpg?width=960",
     "tags": [
-      "SportsMoney",
-      "/sportsmoney",
       "Business",
       "/business",
-      "SportsMoney"
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "0cd3bfd64f1a",
+    "title": "Will AI Take Your Job? Economist Says This Is What's Missing From The Great AI Debate",
+    "url": "https://www.forbes.com/sites/forbestv/2026/06/25/will-ai-take-your-job-economist-says-this-is-whats-missing-from-the-great-ai-debate/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-25T20:04:09+00:00",
+    "summary": "Clifford Winston, a nonresident senior fellow at the Brookings Institution, joined \"Forbes Newsroom\" to discuss the economic impacts of AI.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d89a91ebe616328c00da7/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "standard"
     ],
     "industries": [],
+    "relevance_score": 15
+  },
+  {
+    "id": "db440c6bb12d",
+    "title": "Patient messages to providers skyrocket since 2020: study",
+    "url": "https://www.healthcaredive.com/news/patient-portal-messages-clinicians-skyrockets-jama/823785/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-25T15:40:03+00:00",
+    "summary": "Between 2020 and 2025, patient-written messages increased 153%, according to the study in JAMA. But office visits also rose, suggesting messaging doesn’t replace in-person care.",
+    "image_url": "https://imgproxy.divecdn.com/rnZNGbn13XtWEI9eiootqrhWQ3lRXXxAaSzsQPrb_1s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYyODk1NjEyLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
     "relevance_score": 17
+  },
+  {
+    "id": "8eb70c346419",
+    "title": "SpaceX Could Acquire T-Mobile As It Expands Into Wireless, Analyst Says",
+    "url": "https://www.forbes.com/sites/tylerroush/2026/06/25/spacex-could-acquire-t-mobile-as-it-expands-into-wireless-analyst-says/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-25T19:57:53+00:00",
+    "summary": "T-Mobile would be the “clear choice” for Elon Musk’s rocket maker’s expansion into wireless, one analyst said.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d881410b653f351c847ae/0x0.jpg?width=960&precrop=3319%2C1868%2Cx0%2Cy0",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [
+      "telecom"
+    ],
+    "relevance_score": 15,
+    "also_covered_by": [
+      "Telecom 5G"
+    ]
+  },
+  {
+    "id": "de34fe979745",
+    "title": "Democrats Demand Answers After White House Denies Trump Received Experimental Weight Loss Drug",
+    "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/25/democrats-demand-answers-after-white-house-denies-trump-received-experimental-weight-loss-drug/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-25T17:42:52+00:00",
+    "summary": "The White House denied earlier this week that the president received priority access to an experimental weight loss drug.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d6848a66af808c3494ecd/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "5b4ddaac4867",
+    "title": "Adobe Hires PayPal Atty As VP Of Corp. Legal - Law360",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUt4UWdtWkVhOUp3N1pXUGVXZmRNRFoyOWFwZWZzZ1Znc3p3STZjaTZNcldHeGRJcFZMRDFQRm9kUVFUeEljdG5nSzZYTExycjBoeHEzb1dhdUl1cWxXUGFfLTFTWklDRnMyTVU4SUNxR1lleGx6WC0tNFlNekdLbmlyb0hHNGcyUDR30gFeQVVfeXFMTWE4TjlVUG5RMDRUaFpNV3I3NFRkUU52SjJvNWI1aERmUEVlNXdrMkJuQU9Fd2I3eC1JNV9RbjB4NTYtY09oVVdnYXhsZnBhUjhYbHBXemdPN1JtUWxsZw?oc=5",
+    "source": "Adobe Inc",
+    "source_category": "adobe",
+    "published": "2026-06-25T17:39:00+00:00",
+    "summary": "Adobe Hires PayPal Atty As VP Of Corp. Legal Law360",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "e24e12ef9468",
+    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
+    "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-06-25T17:38:27+00:00",
+    "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "ChatGPT",
+      "Claude",
+      "OpenAI"
+    ],
+    "industries": [],
+    "relevance_score": 16
   },
   {
     "id": "e49fc12b361e",
@@ -902,7 +1241,68 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 19
+    "relevance_score": 18
+  },
+  {
+    "id": "edf2a473ca48",
+    "title": "Netris raises $15M Series A from a16z to help AI neoclouds go live faster",
+    "url": "https://techcrunch.com/2026/06/25/netris-raises-15m-series-a-from-a16z-to-help-ai-neoclouds-go-live-faster/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-06-25T14:55:38+00:00",
+    "summary": "Netris provides software that runs on network switches, and offers a platform that helps neocloud operators reduce the time it takes to go live.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2263017594.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "a16z",
+      "neocloud",
+      "Netris"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "46c2a90c3457",
+    "title": "How T3 Micro Co-Founder Dr. Julie Chung Wins As A Multi-Hyphenate Businesswoman",
+    "url": "https://www.forbes.com/sites/lydiatblanco/2026/06/25/how-t3-micro-co-founder-dr-julie-chung-wins-as-a-multi-hyphenate-businesswoman/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-25T16:59:59+00:00",
+    "summary": "T3 Micro Remains A Category Leader Within The Haircare Industry Using Science and Cutting-Edge Technology. At The Helm of The Company's Innovation Is Dr. Julie Chung.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d531de4d439d6631b0e67/0x0.jpg?width=960&precrop=1024%2C1007%2Cx0%2Cy58",
+    "tags": [
+      "ForbesWomen",
+      "/forbeswomen",
+      "Leadership",
+      "/leadership",
+      "ForbesWomen"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "9e84b7f9d0f9",
+    "title": "IROC Joins IndyCar At Freedom 250 Grand Prix Of Washington D.C.",
+    "url": "https://www.forbes.com/sites/brucemartin/2026/06/25/iroc-joins-indycar-at-freedom-250-grand-prix-of-washington-dc/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-25T16:52:04+00:00",
+    "summary": "IROC returns with some of the greatest names in recent racing history from NASCAR and IndyCar competing on the streets of Washington DC in the Freedom 250 Grand Prix.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d58f0d9c2f2b125d0b005/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [],
+    "relevance_score": 16
   },
   {
     "id": "79e477154ce1",
@@ -923,7 +1323,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "d766fd05a0f4",
@@ -934,39 +1334,6 @@
     "published": "2026-06-25T14:40:00+00:00",
     "summary": "The Facebook-only update integrates third-party platforms including Calendly and is designed to streamline the signup process.",
     "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 18
-  },
-  {
-    "id": "7c0a1f0c5526",
-    "title": "Albertsons integrates branded product placement into AI-search tool",
-    "url": "https://www.marketingdive.com/news/albertsons-media-collective-criteo-ai-search-brand-ads-ecommerce-omnichannel/823636/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-06-24T14:34:00+00:00",
-    "summary": "The grocery company’s retail media arm now lets ads appear in conversational search product carousels.",
-    "image_url": "https://imgproxy.divecdn.com/6uNl06EkZ6nCGi1JQh291ck2GrmHUhhINPNEL52htzY/g:nowe:0:0/c:1877:1060/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BSV9TZWFyY2hfQ3JlYXRpdmUuanBn.webp",
-    "tags": [],
-    "industries": [
-      "media",
-      "tech",
-      "retail",
-      "consumer"
-    ],
-    "relevance_score": 36
-  },
-  {
-    "id": "fb73496ce146",
-    "title": "Celebrating Innovation: The 2027 Salesforce Partner Awards",
-    "url": "https://www.salesforce.com/blog/salesforce-partner-awards-2027/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-25T16:25:00+00:00",
-    "summary": "Partners are at the heart of everything we do at Salesforce. The pace of innovation has never been faster, and global enterprises are turning to our ecosystem to turn technology into real measurable…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/unnamed-1-1.png?w=2048",
     "tags": [],
     "industries": [
       "tech"
@@ -992,7 +1359,22 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
+  },
+  {
+    "id": "fb73496ce146",
+    "title": "Celebrating Innovation: The 2027 Salesforce Partner Awards",
+    "url": "https://www.salesforce.com/blog/salesforce-partner-awards-2027/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-25T16:25:00+00:00",
+    "summary": "Partners are at the heart of everything we do at Salesforce. The pace of innovation has never been faster, and global enterprises are turning to our ecosystem to turn technology into real measurable…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/unnamed-1-1.png?w=2048",
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 16
   },
   {
     "id": "c9fca2307661",
@@ -1014,6 +1396,25 @@
       "tech",
       "industrial"
     ],
+    "relevance_score": 16
+  },
+  {
+    "id": "588793bc0420",
+    "title": "Week of June 15 Morning News Ratings: CBS Mornings Grows Across the Board",
+    "url": "https://www.adweek.com/tvnewser/week-of-june-15-2026-morning-news-ratings/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-06-25T14:03:04+00:00",
+    "summary": "Today extends its total viewership dominance to 21 weeks.",
+    "image_url": null,
+    "tags": [
+      "ABC",
+      "CBS",
+      "Morning Shows",
+      "Mornings",
+      "NBC"
+    ],
+    "industries": [],
     "relevance_score": 17
   },
   {
@@ -1029,12 +1430,33 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
-    "id": "5d0e01272680",
-    "title": "Amazon Music Pays Creators Twice What Spotify Pays: Top Law Firm Finds",
-    "url": "https://www.forbes.com/sites/williamhochberg/2026/06/25/amazon-music-pays-creators-twice-what-spotify-pays-top-law-firm-finds/",
+    "id": "382ecb01245e",
+    "title": "It’s a bad time to want a new computer",
+    "url": "https://www.theverge.com/tech/957151/ram-crisis-component-shortage-prices-computer-apple-microsoft-valve",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-06-25T18:20:17+00:00",
+    "summary": "It's not exactly surprising that RAMaggeddon is making new tech hardware really expensive. But if you've been in the market for things like a new computer or tablet, this week has been filled with sticker shock. Given how many companies announced price hikes related to...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268408_Apple_MacBook_Air_15_M5_laptop_ADiBenedetto_0020.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Gadgets",
+      "Gaming",
+      "News",
+      "PC Gaming",
+      "Tech"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "f0596d5af58f",
+    "title": "Amazon Music Pays Creators Twice What Spotify Pays, Top Law Firm Suggests",
+    "url": "https://www.forbes.com/sites/williamhochberg/2026/06/25/amazon-music-pays-creators-twice-what-spotify-pays-top-law-firm-suggests/",
     "source": "Forbes Business",
     "source_category": "marketing",
     "published": "2026-06-25T16:00:54+00:00",
@@ -1052,180 +1474,21 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 17
-  },
-  {
-    "id": "011336ba3fc7",
-    "title": "Def Leppard Debuts Inside The Top 10 — On Multiple Charts",
-    "url": "https://www.forbes.com/sites/hughmcintyre/2026/06/25/def-leppard-debuts-inside-the-top-10---on-multiple-charts/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-25T15:37:43+00:00",
-    "summary": "Def Leppard's Greatest Hits — which previously charted under the name Vault: Def Leppard Greatest Hits (1980–1995) — debuts on multiple charts in the U.K. this week.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/66cca0c5c120df90ffcaaef6/0x0.jpg?width=960&precrop=2436%2C1371%2Cx0%2Cy8",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [],
-    "relevance_score": 17
-  },
-  {
-    "id": "5b4ddaac4867",
-    "title": "Adobe Hires PayPal Atty As VP Of Corp. Legal - Law360",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPdUt4UWdtWkVhOUp3N1pXUGVXZmRNRFoyOWFwZWZzZ1Znc3p3STZjaTZNcldHeGRJcFZMRDFQRm9kUVFUeEljdG5nSzZYTExycjBoeHEzb1dhdUl1cWxXUGFfLTFTWklDRnMyTVU4SUNxR1lleGx6WC0tNFlNekdLbmlyb0hHNGcyUDR30gFeQVVfeXFMTWE4TjlVUG5RMDRUaFpNV3I3NFRkUU52SjJvNWI1aERmUEVlNXdrMkJuQU9Fd2I3eC1JNV9RbjB4NTYtY09oVVdnYXhsZnBhUjhYbHBXemdPN1JtUWxsZw?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-06-25T17:39:00+00:00",
-    "summary": "Adobe Hires PayPal Atty As VP Of Corp. Legal Law360",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 16,
-    "also_covered_by": [
-      "Adobe Inc"
-    ]
-  },
-  {
-    "id": "e24e12ef9468",
-    "title": "Anthropic’s Claude is winning over paid consumers, a market owned by ChatGPT",
-    "url": "https://techcrunch.com/2026/06/25/anthropics-claude-is-winning-over-paid-consumers-a-market-owned-by-chatgpt/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-06-25T17:38:27+00:00",
-    "summary": "Despite ChatGPT's commanding market lead, consumers who pay for AI have been increasingly choosing Anthropic's Claude, data shows.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/03/Dario-Amodei-Anthropic-viva-tech.jpg?w=1024",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "ChatGPT",
-      "Claude",
-      "OpenAI"
-    ],
-    "industries": [],
     "relevance_score": 16
   },
   {
-    "id": "f748599fc72d",
-    "title": "What's Next For The UK After Keir Starmer Resigns As Prime Minister?",
-    "url": "https://www.forbes.com/sites/forbestv/2026/06/25/whats-next-for-the-uk-after-keir-starmer-resigns-as-prime-minister/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-25T16:37:12+00:00",
-    "summary": "Dr. Martin Farr, a senior lecturer in contemporary British history at Newcastle University, joined \"Forbes Newsroom\" to discuss Prime Minister Keir Starmer’s resignation.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d592834d03d18577a0808/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "standard"
-    ],
-    "industries": [],
-    "relevance_score": 16
-  },
-  {
-    "id": "5bb2f939ca45",
-    "title": "Here are all of the Apple price hikes",
-    "url": "https://www.theverge.com/tech/956903/apple-price-increase-2026-macbook-ipad-mac-home-vision-pro",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-06-25T16:31:12+00:00",
-    "summary": "Following an interview with The Wall Street Journal earlier this month where Tim Cook hinted at upcoming price changes, Apple officially raised the prices on many of its hardware offerings today. They include iPads, Macs, smart speakers, and even the affordable MacBook Neo....",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/268386_iPad_Air_M4_AKrales_0129.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Apple",
-      "Gadgets",
-      "iPad",
-      "News",
-      "Speakers"
-    ],
-    "industries": [
-      "tech",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "b2443a0cdb1e",
-    "title": "Allbirds officially changes name, appoints new CEO",
-    "url": "https://www.retaildive.com/news/allbirds-changes-name-smartbird-ai-appoints-new-ceo/823624/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-25T16:27:00+00:00",
-    "summary": "Smartbird is now an artificial intelligence infrastructure provider and Nadia Carlsten will replace Joe Vernachio as its chief executive.",
-    "image_url": "https://imgproxy.divecdn.com/mOgLBBDuBI8dhkNS4A5n4iN0_URf8euHNwPQwP3YL8Q/g:nowe:0:0/c:3613:2041/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81MTgyNTkwODEwMF81MTMzNTNiZGZlX28uanBn.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "34ef41fc8f2d",
-    "title": "Week of June 15 Evening News Ratings: World News Tonight No. 1 in Viewers and Demo",
-    "url": "https://www.adweek.com/tvnewser/week-of-june-15-2026-evening-news-ratings/",
+    "id": "3ed1cf4314cd",
+    "title": "Heineken Wins Big Again Among 7 Grand Prix Winners at Cannes Lions 2026 Day 4",
+    "url": "https://www.adweek.com/creativity/heineken-wins-big-again-among-7-grand-prix-winners-at-cannes-lions-2026-day-4/",
     "source": "Adweek",
     "source_category": "marketing",
-    "published": "2026-06-25T13:57:02+00:00",
-    "summary": "ABC World News Tonight remained America's most-watched newscast.",
+    "published": "2026-06-25T16:00:00+00:00",
+    "summary": "The Grand Prix winners from Cannes Lions' penultimate day.",
     "image_url": null,
     "tags": [
-      "ABC",
-      "CBS",
-      "Evening News",
-      "NBC",
-      "Ratings"
+      "Cannes Lions"
     ],
     "industries": [],
-    "relevance_score": 17
-  },
-  {
-    "id": "76346cfd87fe",
-    "title": "Updated AEW-NJPW Forbidden Door 2026 Match Card After Go-Home Dynamite",
-    "url": "https://www.forbes.com/sites/robwolkenbrod/2026/06/25/updated-aew-njpw-forbidden-door-2026-match-card-after-go-home-dynamite/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-25T15:55:01+00:00",
-    "summary": "A three-way tag team match involving the Young Bucks joined the match card for the AEW-NJPW Forbidden Door pay-per-view.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a369d6a6accee07dd54d7f6/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [],
-    "relevance_score": 16
-  },
-  {
-    "id": "934ac49425be",
-    "title": "Pink Floyd’s Legendary Album Hits A Longevity Milestone",
-    "url": "https://www.forbes.com/sites/hughmcintyre/2026/06/25/pink-floyds-legendary-album-hits-a-longevity-milestone/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-25T15:50:50+00:00",
-    "summary": "Pink Floyd's Wish You Were Here becomes the band's third set to reach 600 weeks on the U.K.'s Official Rock & Metal Albums chart — and second with one iteration.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/65ec9b5df99452e0033dcf42/0x0.jpg?width=960",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
     "relevance_score": 16
   },
   {
@@ -1264,6 +1527,46 @@
     "relevance_score": 15
   },
   {
+    "id": "d1382d2fa13a",
+    "title": "The San Francisco Giants Are Suffering From A Failure To Communicate",
+    "url": "https://www.forbes.com/sites/danfreedman/2026/06/25/the-san-francisco-giants-are-suffering-from-a-failure-to-communicate/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-25T17:54:57+00:00",
+    "summary": "The San Francisco Giants keep failing to properly communicate to the media, their fans, and their players, which makes matters worse for an underperforming club.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d68aafd22c3f94e241a50/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "8a974e65f666",
+    "title": "Chicago Cubs Trade For Crafty Left-Handed Starter From New York Mets",
+    "url": "https://www.forbes.com/sites/berniepleskoff/2026/06/25/chicago-cubs-trade-for-crafty-left-handed-starter-from-new-york-mets/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-25T17:48:16+00:00",
+    "summary": "Lefty David Peterson will join the Chicago Cubs rotation after being traded from the Mets for prospect first baseman, Cole Mathis.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d62e4161a4f7df3f82f86/0x0.jpg?width=960",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [],
+    "relevance_score": 15
+  },
+  {
     "id": "d485439db362",
     "title": "BACA Systems Runs Its Entire Business on Headless 360",
     "url": "https://www.salesforce.com/blog/baca-systems-customer-story/",
@@ -1279,65 +1582,60 @@
     "relevance_score": 15
   },
   {
-    "id": "cf639907bee1",
-    "title": "Bitcoin Hits 21-Month Low As Expiring Crypto Bets Threaten More Selling",
-    "url": "https://www.forbes.com/sites/tylerroush/2026/06/25/bitcoin-hits-21-month-low-as-expiring-crypto-bets-threaten-more-selling/",
+    "id": "936034477d5f",
+    "title": "SpaceX Starship Could Spark Explosion In Space Tourism, Scholar Says",
+    "url": "https://www.forbes.com/sites/kevinholdenplatt/2026/06/25/spacex-starship-could-spark-explosion-in-space-tourism-scholar-says/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-06-25T15:29:15+00:00",
-    "summary": "The world’s leading cryptocurrency has lost more than half its value since peaking last fall.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/690a1476a5f3a011ce728951/0x0.jpg?width=960&precrop=2568%2C1444%2Cx0%2Cy0",
+    "published": "2026-06-25T17:23:27+00:00",
+    "summary": "The SpaceX Starship, the most powerful and advanced super-capsule ever designed on this planet, could spark an explosion in space tourism and supercharge Space Race II.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d500f4f2b0e52c0c3a600/0x0.jpg",
     "tags": [
+      "Aerospace & Defense",
+      "/aerospace-defense",
       "Business",
       "/business",
-      "Business",
-      "/business",
-      "Breaking"
+      "Aerospace & Defense"
     ],
     "industries": [
-      "financial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "1de7d898bd19",
-    "title": "OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent — and it's already in the API",
-    "url": "https://venturebeat.com/technology/openais-updated-gpt-5-5-instant-is-better-at-shopping-complex-constraints-and-understanding-user-intent-and-its-already-in-the-api",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-06-25T17:02:00+00:00",
-    "summary": "OpenAI has made a significant update to its most widely used language model, GPT-5.5 Instant, which is the default in the free version of ChatGPT. The company announced the upgraded version of GPT-5.5 Instant yesterday on X, calling it \"much more fun to talk to\" and saying it...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/NtxBk8J2vDH5xwG9pFvSK/e3916a101b626751a365a8b3a8633c56/ChatGPT_Image_Jun_25__2026__11_42_09_AM.png?w=300&q=30",
-    "tags": [
-      "Technology"
-    ],
-    "industries": [
-      "tech",
-      "retail",
       "industrial"
     ],
     "relevance_score": 15
   },
   {
-    "id": "48de6f7e22de",
-    "title": "Forbes Hosts Self-Made 250 Celebration In Philadelphia, Recognizing Extraordinary Americans Who Built Their Own Success Including Oprah Winfrey And Harold Hamm",
-    "url": "https://www.forbes.com/sites/pr/2026/06/25/forbes-hosts-self-made-250-celebration-in-philadelphia-recognizing-extraordinary-americans-who-built-their-own-success-including-oprah-winfrey-and-harold-hamm/",
+    "id": "f748599fc72d",
+    "title": "What's Next For The UK After Keir Starmer Resigns As Prime Minister?",
+    "url": "https://www.forbes.com/sites/forbestv/2026/06/25/whats-next-for-the-uk-after-keir-starmer-resigns-as-prime-minister/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-06-25T14:13:21+00:00",
-    "summary": "Forbes hosted the Self-Made 250 Celebration in Philadelphia on June 17, 2026 at the Museum of the American Revolution and First Bank of the United States.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d36852d5f9526a7439215/0x0.jpg?width=960",
+    "published": "2026-06-25T16:37:12+00:00",
+    "summary": "Dr. Martin Farr, a senior lecturer in contemporary British history at Newcastle University, joined \"Forbes Newsroom\" to discuss Prime Minister Keir Starmer’s resignation.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d592834d03d18577a0808/0x0.jpg?width=960",
     "tags": [
       "Business",
       "/business",
       "Business",
       "/business",
-      "premium"
+      "standard"
     ],
+    "industries": [],
+    "relevance_score": 15
+  },
+  {
+    "id": "b2443a0cdb1e",
+    "title": "Allbirds officially changes name, appoints new CEO",
+    "url": "https://www.retaildive.com/news/allbirds-changes-name-smartbird-ai-appoints-new-ceo/823624/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-06-25T16:27:00+00:00",
+    "summary": "Smartbird is now an artificial intelligence infrastructure provider and Nadia Carlsten will replace Joe Vernachio as its chief executive.",
+    "image_url": "https://imgproxy.divecdn.com/mOgLBBDuBI8dhkNS4A5n4iN0_URf8euHNwPQwP3YL8Q/g:nowe:0:0/c:3613:2041/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS81MTgyNTkwODEwMF81MTMzNTNiZGZlX28uanBn.webp",
+    "tags": [],
     "industries": [
-      "financial"
+      "tech",
+      "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "21f448065e3f",
@@ -1358,23 +1656,17 @@
     "relevance_score": 16
   },
   {
-    "id": "912c6c9724d4",
-    "title": "Sade Soars To A Career Milestone For Only The Second Time",
-    "url": "https://www.forbes.com/sites/hughmcintyre/2026/06/25/sade-soars-to-a-career-milestone-for-only-the-second-time/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-25T15:43:34+00:00",
-    "summary": "Sade's Best Of compilation becomes the group's second project to spend a full year — 52 weeks — on the U.K.'s Official Albums chart.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/68c20f3b457cd6edec775787/0x0.jpg?width=960",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
+    "id": "66252b527545",
+    "title": "Is Adobe Stock A Powerhouse Or A Pass? Why It Depends On Your Investing Style. - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT0ZtcXFKOWtyM3g2aDNNRVZXTkpVN21WWTNNYVNnUVZNVXdIdWZ4UFBRb2ZiRWZIdVh5bkFsN2pEZmlZb21ySmt0a3BaeHI5clc5Vk05NTEyY3hLOGM4cV93NXFXZUtra2h0UEVXRHZ3bWk2RktKaDE2OUVaMzRSSkl2T2xQdVlZUTM3RnhiSzdPUjIyVXF2Tg?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-06-25T20:49:00+00:00",
+    "summary": "Is Adobe Stock A Powerhouse Or A Pass? Why It Depends On Your Investing Style. Investor's Business Daily",
+    "image_url": null,
+    "tags": [],
     "industries": [],
-    "relevance_score": 15
+    "relevance_score": 13
   },
   {
     "id": "ff2bb2d2b0d5",
@@ -1396,262 +1688,53 @@
     "relevance_score": 14
   },
   {
-    "id": "6292371d6ee8",
-    "title": "Timberwolves' LaMelo Ball Trade Is A High-Risk, High-Reward Gamble",
-    "url": "https://www.forbes.com/sites/bryantoporek/2026/06/25/timberwolves-lamelo-ball-trade-is-a-high-risk-high-reward-gamble/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-25T15:10:17+00:00",
-    "summary": "The LaMelo Ball trade could either vault the Timberwolves back into title contention or lay the seeds for Anthony Edwards' eventual departure from Minnesota.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d43df710e6258d7a2a397/0x0.jpg",
+    "id": "1de7d898bd19",
+    "title": "OpenAI's updated GPT-5.5 Instant is better at shopping, complex constraints, and understanding user intent — and it's already in the API",
+    "url": "https://venturebeat.com/technology/openais-updated-gpt-5-5-instant-is-better-at-shopping-complex-constraints-and-understanding-user-intent-and-its-already-in-the-api",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-06-25T17:02:00+00:00",
+    "summary": "OpenAI has made a significant update to its most widely used language model, GPT-5.5 Instant, which is the default in the free version of ChatGPT. The company announced the upgraded version of GPT-5.5 Instant yesterday on X, calling it \"much more fun to talk to\" and saying it...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/NtxBk8J2vDH5xwG9pFvSK/e3916a101b626751a365a8b3a8633c56/ChatGPT_Image_Jun_25__2026__11_42_09_AM.png?w=300&q=30",
     "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [],
-    "relevance_score": 15
-  },
-  {
-    "id": "d86a1bddb69d",
-    "title": "No, Big Oil Is Not Price Gouging On Gasoline",
-    "url": "https://www.forbes.com/sites/davidblackmon/2026/06/25/no-big-oil-is-not-price-gouging-on-gasoline/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-25T14:53:00+00:00",
-    "summary": "President Trump accused big oil companies this week of price gouging on gas prices at the pump. But little real evidence exists to indicate that is happening.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d36de319522946f3a283e/0x0.jpg?width=960",
-    "tags": [
-      "Energy",
-      "/energy",
-      "Business",
-      "/business",
-      "Energy"
+      "Technology"
     ],
     "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "869731bddbe5",
-    "title": "How MSPs Can Close The Great Chasm Between Delivery And Real Client Value",
-    "url": "https://www.forbes.com/sites/forbesbooksauthors/2026/06/25/how-msps-can-close-the-great-chasm-between-delivery-and-real-client-value/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-25T14:49:53+00:00",
-    "summary": "Focusing on technical delivery rather than demonstrating tangible client value has created a “great chasm” where MSPs are seen as vendors, not strategic partners.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d3ca028f6499a77f200b0/0x0.jpg",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "business"
-    ],
-    "industries": [],
-    "relevance_score": 15
-  },
-  {
-    "id": "b46794498219",
-    "title": "How Mauricio Pochettino Changed The USMNT's Culture Ahead Of The World Cup",
-    "url": "https://www.forbes.com/sites/clementelisi/2026/06/25/us-coach-mauricio-pochettinos-biggest-achievement-has-been-cultural/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-25T14:48:58+00:00",
-    "summary": "His argument was that talent was never the primary issue. The missing ingredient for the USMNT was competitive intensity.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d3be429fd10f1460de737/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
+      "tech",
+      "retail",
       "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "a03639bbea81",
-    "title": "SK Telecom to Commit $483 Million to SK hynix’s U.S. AI Hub - Tech Times",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQR0tDYnc2RktpOGtzb2toQUUwaGZ5Vml3TnNCeGdGbE9oU0h3Yl9pT1JRNjZ4aXh1REtUU3ZYZ0RQNWdZVlVucmxIUnBpalNfeG5DeTIxdFE1X2EwRVdFcU1TNHFPWWdaWTN6eWpjT0hVM2t6OWRfUkJjTUJUV293dVZJSm5wTFpFUjM5NEM4OENxRHJoNEJMSXNIMlhQMHFieGF1ZzMtdw?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-06-25T17:10:25+00:00",
-    "summary": "SK Telecom to Commit $483 Million to SK hynix’s U.S. AI Hub Tech Times",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom"
     ],
     "relevance_score": 14
   },
   {
-    "id": "66bf0bc52cd4",
-    "title": "Retail Media’s Next Evolution Starts With Smarter Questions",
-    "url": "https://www.adweek.com/commerce/retail-medias-next-evolution-starts-with-smarter-questions/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-06-25T10:20:27+00:00",
-    "summary": "This post was created in partnership with CVS Media Exchange (CMX) Marketers have more retail data than ever. But what do they do with it? During an ADWEEK House Cannes […]",
+    "id": "a60c03c49b87",
+    "title": "CMOs Take Charge of AI Strategy and Budgets - Let's Data Science",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPYUZrMzlUT0wyTW1ZS3BfN1RYTU85UXIybmhlbDlXTTNVZ2R5LUFsNFJVRW5DWlI1S2V1aC1CeEtEWVFob3NEREFnbjl6bW8yckVEczFmNnF4R0E1Zks4Z2ZLR1FRc1AycW5HbHFmOGZScWg5NE9raGRKZnlrU1BxclU0MGxLZXNsRFpHWWRn?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-06-24T07:00:41+00:00",
+    "summary": "CMOs Take Charge of AI Strategy and Budgets Let's Data Science",
     "image_url": null,
-    "tags": [
-      "adops - branded content",
-      "ADWEEK House",
-      "Cannes Lions",
-      "Customer Experience",
-      "Data &amp; Insights"
-    ],
-    "industries": [
-      "media",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 17
-  },
-  {
-    "id": "eb29e60d28c3",
-    "title": "African Officials Say Cost To Fight Ebola Outbreak Has Tripled",
-    "url": "https://www.forbes.com/sites/maryroeloffs/2026/06/25/african-officials-say-cost-to-fight-ebola-outbreak-has-tripled/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-25T14:32:35+00:00",
-    "summary": "The White House this week requested Congress approve $1.4 billion to fight the Ebola outbreak.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d3bed9440bc3c4de8bd45/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "65e1819db165",
-    "title": "Upside secures $20M series A to expand healthcare-focused housing platform",
-    "url": "https://www.fiercehealthcare.com/finance/upside-secures-20m-series-expand-healthcare-focused-housing-platform",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-25T12:18:00+00:00",
-    "summary": "The company plans to use the funding simultaneously across Medicaid, Medicare Advantage and employer-sponsored markets.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Jake%20Rothstein%20and%20Peter%20Badgley2.jpeg?VersionId=b8eCZfPp0IuFo5M9NQ5P1hhVb56LBD0l",
     "tags": [],
     "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "1ebb304792c7",
-    "title": "Repositioning retail for the AI era",
-    "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-06-25T14:22:59+00:00",
-    "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in...",
-    "image_url": null,
-    "tags": [
-      "Artificial intelligence",
-      "sponsored"
-    ],
-    "industries": [
-      "media",
-      "tech",
-      "retail",
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 37
   },
   {
-    "id": "4e2ef248849a",
-    "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
-    "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-06-25T12:00:38+00:00",
-    "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-844105434.jpg?w=1024",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "Amazon",
-      "Andy Jassy",
-      "AWS"
-    ],
-    "industries": [
-      "retail",
-      "financial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "9d2aaccd1c8f",
-    "title": "Reflecting Pool Won't Be Drained Until After July 4, New Filing Shows",
-    "url": "https://www.forbes.com/sites/zacharyfolk/2026/06/25/reflecting-pool-wont-be-drained-until-after-july-4-new-filing-shows/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-25T13:45:09+00:00",
-    "summary": "The Trump administration initially renovated the pool in time to mark the Independence Day holiday.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d308c11b8ed64794f877b/0x0.jpg?width=960",
-    "tags": [
-      "Breaking News",
-      "/news",
-      "Business",
-      "/business",
-      "Breaking News"
-    ],
-    "industries": [],
-    "relevance_score": 15
-  },
-  {
-    "id": "2356ae7e0a27",
-    "title": "Exclusive | Pentagon Tells Lawmakers It Needs $80 Billion for Iran War and Other Bills - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNdUVUQktINEY1aGRFanFLRVFhSHdERkdpTnNnazVacEpIcGNRcTNhbHQ3X0RwZFFKaU9XdnpwWFYxN2IwX0RJNHF2alA5ZlZoaDMxYWhxVUMxMmc0NGlYN2pGb3VHWnlPbm55ejRtUUhfSzJBMTFNRXV2cHQ1SEhGd0RSXzZfLVFEamo2YklGV3VNQmVjRGtjZVlTbnM0Z3lza0xQcFdVNnNmbGNIVHBkeTZSOUVmb0RVSlRmMG94cUtDTEtjTGloWQ?oc=5",
+    "id": "d0dd89cae55d",
+    "title": "Wall Street analyst predicts massive IPOs like SpaceX could trigger 40% market dip and send stocks crashing to Earth - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNLTBCWDN0bDNzMVdkXzZ5UWhfQnZsdWxyMThiMk1mM0JPUGxGSUUyak1RZURLM3VSemVzUEFObTlGcWZ0MlhvVXJJQlFRcV9pdVY1ek5UVG9fUERrY1RBdzB2dnllU0dQWWk2djA3U282T2dtVzMtN1lkMExFNjd2WVduTWpjc2VEYVl5WmNpcVBoaDFSRG5oaHRINmFHNURyYjNv?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-06-25T16:03:13+00:00",
-    "summary": "Exclusive | Pentagon Tells Lawmakers It Needs $80 Billion for Iran War and Other Bills WSJ",
+    "published": "2026-06-25T16:00:00+00:00",
+    "summary": "Wall Street analyst predicts massive IPOs like SpaceX could trigger 40% market dip and send stocks crashing to Earth Yahoo Finance",
     "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 14
-  },
-  {
-    "id": "c0b86f58f7f6",
-    "title": "Sephora introduces store quiet hours",
-    "url": "https://www.retaildive.com/news/sephora-introduces-store-quiet-hours/823757/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-25T16:03:00+00:00",
-    "summary": "The beauty retailer will lower music and screen displays during specific hours following a successful store pilot across eight markets.",
-    "image_url": "https://imgproxy.divecdn.com/YEFUaKQ0QNxBahSTee_eqERoLKRDYhEGa9Dn9dDt_Xk/g:nowe:0:107/c:640:361/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iZW5kX3JldGFpbF8tXzYuanBlZw==.webp",
     "tags": [],
     "industries": [
-      "retail"
+      "industrial",
+      "financial"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "56894c5658f9",
-    "title": "Adobe's deal for Topaz Labs is a positive for its tech stack: RBC (ADBE:NASDAQ) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQzVETlZwazc4Y0RmSjhXQ1RCNjI1UmZBa181WUFtTWFPOVZCenVqRzUtdDlxc2pQUUhFSV90WVNnQkZsU3hzb2dDMmdONjlFbWNqbXFYSFEyZnBRSDE4Z2FxbUhHbGdFNW80SUZJNDJaMm53LXE4VGxQQ3VGdTBkUm5nV3lQS0RqbjkwMTgwVllBTHB5TmN5QzRZMU05Nkx2b0g4?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-06-25T15:59:36+00:00",
-    "summary": "Adobe's deal for Topaz Labs is a positive for its tech stack: RBC (ADBE:NASDAQ) Seeking Alpha",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
     "relevance_score": 14
   },
   {
@@ -1674,57 +1757,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 15,
-    "also_covered_by": [
-      "Adobe",
-      "Adobe Inc",
-      "Adobe Products"
-    ]
-  },
-  {
-    "id": "76fdfdec092b",
-    "title": "Betting Markets Think These Guests Will Attend Taylor Swift's Wedding—And These Could Be Her Bridesmaids",
-    "url": "https://www.forbes.com/sites/maryroeloffs/2026/06/25/betting-markets-think-these-guests-will-attend-taylor-swifts-wedding-and-these-could-be-her-bridesmaids/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-25T15:50:26+00:00",
-    "summary": "Prediction markets think the audience—and bridal party—will be packed with celebrity guests.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d498b319522946f3a2844/0x0.jpg?width=960&precrop=1607%2C904%2Cx0%2Cy240",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [],
-    "relevance_score": 14
-  },
-  {
-    "id": "6700e2f6bdef",
-    "title": "Mickey Drexler: ‘If I make a mistake, I make a mistake’",
-    "url": "https://www.retaildive.com/news/mickey-drexler-alex-mill-gap-mistakes/823740/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-25T15:45:00+00:00",
-    "summary": "The Alex Mill chairman told CommerceNext attendees that being fired from Gap was a “nightmare” but said he now has the best job he’s ever had.",
-    "image_url": "https://imgproxy.divecdn.com/ceK4uqTOmRXlwfz0WQvysfGrVkUfb2NYuBcDouA5eQU/g:nowe:0:0/c:3199:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Vbmtub3duLTFfaGtjczRsei5qcGc=.webp",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 14
-  },
-  {
-    "id": "ad51600d5140",
-    "title": "Why Adobe Is Buying Topaz Labs - Pulse 2.0",
-    "url": "https://news.google.com/rss/articles/CBMiX0FVX3lxTE1vZUtZS3p4Y1YyOFNOUFRZYnVOY3R0anRRUVcwNmFrTVVYQ2VrbmhxR1VnZ1c4QlN1OFZIR1NDMUs1SzVlM3BoR0RMYTZyLTJTUFVncVVKRnVCQVlFMmc40gFkQVVfeXFMTnpETGNtc0xkaVJ2SHQ5bVJlSzlMR3p4eVBKd21LU3N1S1dxeE81YTJYU0tYMnRsaHJSbk95VXY2SDNlbXRUUHJtMDY5WkFsYWlXM1lmNjBlVnZuR2ZKUzFNa19keA?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-06-25T15:31:49+00:00",
-    "summary": "Why Adobe Is Buying Topaz Labs Pulse 2.0",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 14
+    "relevance_score": 15
   },
   {
     "id": "5ccb10e5bdb9",
@@ -1746,106 +1779,21 @@
     "relevance_score": 39
   },
   {
-    "id": "b36c64ef8c20",
-    "title": "Colossal and the US Government Are Creating an Endangered Species ‘BioVault’",
-    "url": "https://www.wired.com/story/colossal-interior-department-team-up-endangered-species-dna/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-06-25T13:00:00+00:00",
-    "summary": "The move comes as the Trump administration is trying to weaken the act that’s meant to protect endangered species from going extinct in the first place.",
-    "image_url": "https://media.wired.com/photos/6a3c506b0e1573fd224c1987/master/pass/USFW_BioVault.png",
-    "tags": [
-      "Science",
-      "Science / Environment",
-      "Biology",
-      "Ecology",
-      "nature"
-    ],
+    "id": "65e1819db165",
+    "title": "Upside secures $20M series A to expand healthcare-focused housing platform",
+    "url": "https://www.fiercehealthcare.com/finance/upside-secures-20m-series-expand-healthcare-focused-housing-platform",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-25T12:18:00+00:00",
+    "summary": "The company plans to use the funding simultaneously across Medicaid, Medicare Advantage and employer-sponsored markets.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Jake%20Rothstein%20and%20Peter%20Badgley2.jpeg?VersionId=b8eCZfPp0IuFo5M9NQ5P1hhVb56LBD0l",
+    "tags": [],
     "industries": [
-      "industrial"
+      "tech",
+      "industrial",
+      "lifesciences"
     ],
     "relevance_score": 15
-  },
-  {
-    "id": "dabe45d01a27",
-    "title": "Stop Mowing Your Grass Forever With One of These Highly Rated Robot Mowers On Sale",
-    "url": "https://www.wired.com/story/amazon-prime-day-robot-mower-deals-june-2026/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-06-25T15:22:36+00:00",
-    "summary": "You don’t need to cut your own grass anymore. Most of the best robot mowers I’ve tested are on sale for Prime Day.",
-    "image_url": "https://media.wired.com/photos/6a3abcb3c0469468b2df5dcd/master/pass/Segway-robot-mower-deal.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "Deals",
-      "Amazon Prime Day",
-      "Shopping"
-    ],
-    "industries": [],
-    "relevance_score": 14
-  },
-  {
-    "id": "f22cee959537",
-    "title": "YouTube Content Creators Are Winning the AI Search Game, Jellyfish Data Finds",
-    "url": "https://www.adweek.com/media/youtube-content-creators-are-winning-the-ai-search-game-jellyfish-data-finds/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-06-25T10:23:49+00:00",
-    "summary": "YouTube creator content appears in more than one in four answers generated by AI assistants, favoring niche creators with videos longer than 10 minutes",
-    "image_url": null,
-    "tags": [
-      "Advertising News",
-      "Artificial Intelligence",
-      "Exclusive",
-      "Premium"
-    ],
-    "industries": [
-      "media",
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "4f1dc1f2fb86",
-    "title": "Golf’s Youth Movement Gets Boost As Topgolf, Youth On Course Partner",
-    "url": "https://www.forbes.com/sites/erikmatuszewski/2026/06/25/golfs-youth-movement-gets-boost-as-topgolf-youth-on-course-partner/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-25T15:00:23+00:00",
-    "summary": "Youth on Course partners with Topgolf to offer juniors $5 bay time during the summer months.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3c93c1987714298a8b8f68/0x0.jpg?width=960",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "15b12c3c4992",
-    "title": "Bayer Not Liable After Man Claimed Weedkiller Caused His Cancer, Supreme Court Rules",
-    "url": "https://www.forbes.com/sites/alisondurkee/2026/06/25/monsanto-not-liable-after-man-claimed-weedkiller-caused-his-cancer-supreme-court-rules/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-25T14:39:01+00:00",
-    "summary": "The court ruled against a man who sued Monsanto, alleging its weed killer Roundup caused his cancer.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3d3c575784b8a29d24fc30/0x0.jpg?width=960&precrop=6000%2C3375%2Cx0%2Cy0",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Innovation"
-    ],
-    "industries": [],
-    "relevance_score": 14
   },
   {
     "id": "d874283ed1a5",
@@ -1867,18 +1815,82 @@
     "relevance_score": 38
   },
   {
-    "id": "0bb62ba1c5ef",
-    "title": "Salesforce Introduces Prebuilt Service Agent With Outcome-Based Pricing Model - CX Today",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLWlUa0lGVWlZTDhIMzN6UTh2Q3ZHYU84LVB5N3NJLXZYLWJ1S3E1Rm5IbUhZaXJwTWUyMEdlbWR2eVFweVF0dnhkR0ZsdERSYjEtLW1lVlpyc1NaR0tySHRzY3FGNUFxXzZPZC1ISlFRNk9pY09GbF9EZ1VDbm1IWXRHTG1Hc0hDdjVvOFVUZWFVeDRDbFRGZzZaU0d4UktHcDZzeWxsY2RmWVNNVzFVbElPWXBBT2MzWnJTVjViRQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-25T16:56:58+00:00",
-    "summary": "Salesforce Introduces Prebuilt Service Agent With Outcome-Based Pricing Model CX Today",
+    "id": "4e2ef248849a",
+    "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
+    "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-06-25T12:00:38+00:00",
+    "summary": "Amazon’s latest India investment comes as global tech companies race to expand AI infrastructure in the country.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/06/GettyImages-844105434.jpg?w=1024",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Amazon",
+      "Andy Jassy",
+      "AWS"
+    ],
+    "industries": [
+      "retail",
+      "financial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "1ebb304792c7",
+    "title": "Repositioning retail for the AI era",
+    "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-06-25T14:22:59+00:00",
+    "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in...",
+    "image_url": null,
+    "tags": [
+      "Artificial intelligence",
+      "sponsored"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "88534cda70fa",
+    "title": "How Investors May Respond To Stagwell (STGW) Deepening Its Microsoft-Linked Agentic AI Marketing Platforms - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQdGZMS0xPamdmRW1VWW9TeUd6ZVRpVTFTNHY0aWFkb0JhckV4ZGZ6RlhmcVNkc3dXR2VMRnNZZFRhbndfVG0tMEp4SjY3RnpISUt1TkhMSU1QWGstWEpjbU5jN2VQSHFTaWFTUUlnVVE5dVBxaFFOMlF0bGF4Q1JfU193OGNnQkZtdF9iUllmOEQzSERtUlV5Y3dsX18zQS1MVmJvazdB?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-06-24T02:09:00+00:00",
+    "summary": "How Investors May Respond To Stagwell (STGW) Deepening Its Microsoft-Linked Agentic AI Marketing Platforms Yahoo Finance",
     "image_url": null,
     "tags": [],
     "industries": [
+      "tech",
       "industrial"
     ],
-    "relevance_score": 13
+    "relevance_score": 39,
+    "also_covered_by": [
+      "Adobe Inc",
+      "Fintech"
+    ]
+  },
+  {
+    "id": "3b1d40affd7d",
+    "title": "Adobe to Acquire Topaz Labs - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNT3VNaFBtamNQb0c0VEV0XzNQel9VWmZXclFBT01sYjRCc1VBVjh2ekJkSVc1SnBtMmZyS2FlQmJ4V1UteTVrN3R5MzItMXFKcDVudXBUUUZFT3RJcTZUemNyUDg0ckEzR2Q0SzdUNGlHNEl5VEFnVHdBdUNaam9uWEFpSXBVTzdYZGpucQ?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-06-25T13:30:00+00:00",
+    "summary": "Adobe to Acquire Topaz Labs Business Wire Adobe acquires image and video enhancement tool maker Topaz Labs TechCrunch Adobe Acquires AI Upscaling Specialists Topaz Labs PetaPixel",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
   }
 ]
