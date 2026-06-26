@@ -89,38 +89,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 15
-  },
-  {
-    "id": "d485439db362",
-    "title": "BACA Systems Runs Its Entire Business on Headless 360",
-    "url": "https://www.salesforce.com/blog/baca-systems-customer-story/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-25T17:45:08+00:00",
-    "summary": "How a 50-person robotics manufacturer replaced its ERP, saved $200k in fees, and unified every team on one platform.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/Platform-Customer-Story-BACA-Systems-1060x608-2.png",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "b75f1effcddb",
-    "title": "Trusted Agents at Scale: How Open Discovery Is Unifying the Agentic Enterprise",
-    "url": "https://www.salesforce.com/blog/open-discovery-agentic-enterprise/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-25T17:59:36+00:00",
-    "summary": "As a founding partner to the new Agentic Resource Discovery specification, Salesforce is helping shape the open standard that gives AI agents a universal way to find, trust, and invoke capabilities across any platform.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_6b379c2.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 13
+    "relevance_score": 14
   },
   {
     "id": "94b310506eca",
@@ -169,6 +138,37 @@
     "relevance_score": 12
   },
   {
+    "id": "d485439db362",
+    "title": "BACA Systems Runs Its Entire Business on Headless 360",
+    "url": "https://www.salesforce.com/blog/baca-systems-customer-story/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-25T17:45:08+00:00",
+    "summary": "How a 50-person robotics manufacturer replaced its ERP, saved $200k in fees, and unified every team on one platform.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/Platform-Customer-Story-BACA-Systems-1060x608-2.png",
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "b75f1effcddb",
+    "title": "Trusted Agents at Scale: How Open Discovery Is Unifying the Agentic Enterprise",
+    "url": "https://www.salesforce.com/blog/open-discovery-agentic-enterprise/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-25T17:59:36+00:00",
+    "summary": "As a founding partner to the new Agentic Resource Discovery specification, Salesforce is helping shape the open standard that gives AI agents a universal way to find, trust, and invoke capabilities across any platform.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_6b379c2.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
     "id": "90fb8de58a08",
     "title": "Salesforce Launches Agentforce Help Agent That Deploys in Minutes and Only Charges for Resolutions - Salesforce",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZVRVaWpYRzZzWGVzZlJXOS1TYWcyUTU4QkZFNHQ2ZTRVd2hpcGd2VGhIUVZvdXJTTTVxS1JvOFNsTDI4eC1md1hUUklVMjRFcGRBbkUyN0tMcGJjMEZDYTdQdkpESGlfc18ySjV1TGhUVXV4NmFVcmRxa1ZyZnF0Nw?oc=5",
@@ -176,36 +176,6 @@
     "source_category": "salesforce",
     "published": "2026-06-25T14:41:52+00:00",
     "summary": "Salesforce Launches Agentforce Help Agent That Deploys in Minutes and Only Charges for Resolutions Salesforce",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "2252ed834975",
-    "title": "Agentforce Help Agent: Strong on Setup, Better on Pricing, Still Vague on Fin - salesforcedevops.net",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPVUkzMkFJcUpmdGFITDVRV05kTGktMjJDaWRlNUVBQndQYm5WaHpuUTNxSlFkS0ZPdVdUMUx1d2ZaOTNsdmlpbWNtSFlLbUo3bTdwTGlvcFRBT2JoT0w1NHJ0S1l2LUxxNlJlU3VoSDQwcmU5d1lJRzFkNGZpOUc0YWpxMlU0U21qYmVFNlNSUWRPYWFkRnc?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-25T16:20:26+00:00",
-    "summary": "Agentforce Help Agent: Strong on Setup, Better on Pricing, Still Vague on Fin salesforcedevops.net",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "0bb62ba1c5ef",
-    "title": "Salesforce Introduces Prebuilt Service Agent With Outcome-Based Pricing Model - CX Today",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPLWlUa0lGVWlZTDhIMzN6UTh2Q3ZHYU84LVB5N3NJLXZYLWJ1S3E1Rm5IbUhZaXJwTWUyMEdlbWR2eVFweVF0dnhkR0ZsdERSYjEtLW1lVlpyc1NaR0tySHRzY3FGNUFxXzZPZC1ISlFRNk9pY09GbF9EZ1VDbm1IWXRHTG1Hc0hDdjVvOFVUZWFVeDRDbFRGZzZaU0d4UktHcDZzeWxsY2RmWVNNVzFVbElPWXBBT2MzWnJTVjViRQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-25T16:56:58+00:00",
-    "summary": "Salesforce Introduces Prebuilt Service Agent With Outcome-Based Pricing Model CX Today",
     "image_url": null,
     "tags": [],
     "industries": [
