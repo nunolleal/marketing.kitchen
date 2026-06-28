@@ -20,7 +20,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 57
+    "relevance_score": 54
   },
   {
     "id": "b774add5c3ac",
@@ -178,25 +178,30 @@
     "relevance_score": 16
   },
   {
-    "id": "d4e760dbaed7",
-    "title": "The 28 Best Deals Under $100 Before Prime Day Ends",
-    "url": "https://www.wired.com/story/best-prime-day-deals-under-100-06-26-2026/",
-    "source": "Wired",
+    "id": "261dae7d661d",
+    "title": "Prime Day is almost over, but these are still the best Apple deals I’ve seen",
+    "url": "https://www.theverge.com/gadgets/949350/amazon-prime-day-sale-best-apple-deals-2026",
+    "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-06-27T00:59:29+00:00",
-    "summary": "Times are hard in 2026. These Amazon Prime Day deals under $100 on earbuds, Kindles, and other tested products should help make life just a little bit easier.",
-    "image_url": "https://media.wired.com/photos/6a3a2d6fb32bb5aac135070f/master/pass/The-Best-Amazon-Prime-Day-Deals-Under-$100.jpg",
+    "published": "2026-06-27T02:56:52+00:00",
+    "summary": "Amazon’s Prime Day is now in its final hours, but whether you’re looking for a new pair of wireless earbuds or a smartwatch, there’s a good chance you’ll still find a discount. The Apple Watch Series 11 remains at its best price to date, while the AirPods Pro 3 are still on...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0003.webp?quality=90&amp;strip=all&amp;crop=0,10.732984293194,100,78.534031413613",
     "tags": [
-      "Gear",
-      "Gear / Deals",
+      "Apple",
       "Deals",
-      "Shopping",
-      "Amazon Prime Day"
+      "Gadgets",
+      "Prime Day",
+      "Tech"
     ],
     "industries": [
+      "tech",
+      "telecom",
       "retail"
     ],
-    "relevance_score": 16
+    "relevance_score": 16,
+    "also_covered_by": [
+      "Wired"
+    ]
   },
   {
     "id": "d648da20fa58",
@@ -219,26 +224,7 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 16
-  },
-  {
-    "id": "813cd4ed631d",
-    "title": "Amazon’s $8.3 billion Prime Day sends Wall Street a warning - thestreet.com",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS09XNFFlYkZ6YXlQN2JodTBCWnFWbmk2VFZBQmtnWGJBbUt2X0k5YmZPS08wZ3ZUb0FfN1dCeUljM0xZWnlJTFJ2OGtrVmtVU3hVZzI1VnI3QUZhTE50LVlYbWo5UW5EUVFNSTVfaWtXbFpRWl84dGlaZUg1TFNpSFVyVUJqZDlRbTZiT2t2bXFtZw?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-06-27T19:06:39+00:00",
-    "summary": "Amazon’s $8.3 billion Prime Day sends Wall Street a warning thestreet.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "financial"
-    ],
-    "relevance_score": 15,
-    "also_covered_by": [
-      "Adobe"
-    ]
+    "relevance_score": 15
   },
   {
     "id": "9a4e19f664b4",
@@ -260,6 +246,25 @@
     "relevance_score": 14
   },
   {
+    "id": "813cd4ed631d",
+    "title": "Amazon’s $8.3 billion Prime Day sends Wall Street a warning - thestreet.com",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPS09XNFFlYkZ6YXlQN2JodTBCWnFWbmk2VFZBQmtnWGJBbUt2X0k5YmZPS08wZ3ZUb0FfN1dCeUljM0xZWnlJTFJ2OGtrVmtVU3hVZzI1VnI3QUZhTE50LVlYbWo5UW5EUVFNSTVfaWtXbFpRWl84dGlaZUg1TFNpSFVyVUJqZDlRbTZiT2t2bXFtZw?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-06-27T19:06:39+00:00",
+    "summary": "Amazon’s $8.3 billion Prime Day sends Wall Street a warning thestreet.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "financial"
+    ],
+    "relevance_score": 14,
+    "also_covered_by": [
+      "Adobe"
+    ]
+  },
+  {
     "id": "4e2ef248849a",
     "title": "Amazon ups India bet with fresh $13B AI infrastructure investment",
     "url": "https://techcrunch.com/2026/06/25/amazon-ups-india-bet-with-fresh-13b-ai-infrastructure-investment/",
@@ -278,6 +283,21 @@
     "industries": [
       "retail",
       "financial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "c2c7e2982aa0",
+    "title": "Amazon Prime Day total online spending surpasses Adobe estimate - Fortune",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEFKemItYV9POWVEY24yU0tZMWFLeHBodHl5OXNUWTdCMXVXcGFxMUVhbDNNVHdCZWYtejZ1UkJEWE9LNnlSUW9sbmtyTzVBUmFpVFh6YnZCemZ4Nll3alJnYl9hS1d5b1FkSTVUQzZqVjFrV1kwdldvYThvMXM0RFQ3cGxCSHB3RWZOdk1R?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-06-27T19:40:00+00:00",
+    "summary": "Amazon Prime Day total online spending surpasses Adobe estimate Fortune",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail"
     ],
     "relevance_score": 12
   },
