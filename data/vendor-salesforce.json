@@ -15,7 +15,9 @@
     ],
     "relevance_score": 35,
     "also_covered_by": [
-      "Adobe"
+      "Adobe",
+      "Wall Street",
+      "Health Tech"
     ]
   },
   {
@@ -63,6 +65,21 @@
     "relevance_score": 23
   },
   {
+    "id": "517c7243b102",
+    "title": "B2B Commerce innovations: Headless flexibility and new agentic capabilities",
+    "url": "https://www.salesforce.com/blog/b2b-commerce-innovations-june-26/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-29T15:26:16+00:00",
+    "summary": "B2B buyers now use an average of ten channels throughout their purchasing journey, according to McKinsey & Company, and they expect to switch between them seamlessly. Disconnected channels lead to messy handoffs between…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/innovations-request-for-quote-620x613-1.webp",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
     "id": "d5ccb094ecee",
     "title": "Salesforce Stock Is Down 45% From Its Peak. Here’s What the $3.6 Billion Fin Acquisition Changes - TIKR.com",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYjJQblo5aGhRNjZwcUFDOFd0UmJnZ0tCc0JlOC1ndEs5VDhkeF9MeEVZTFpJWWtubjlUOGt1MlZGcTNua1QyZUxvQUlDaENVRkktd0Vodl95bG5qWGpmV0FMSUtRTG8wd3ZUVzVBRnpvNXF0RVdnQ3Rjc1FxNTZubThfYy1iZktmbEotNTJRUTlGQlpYVGhHMmpaanMxejdOZ2dBNU9CbE5IUFN3SzRmZm1EM3ZzZ2VkTWc?oc=5",
@@ -75,22 +92,22 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 15
   },
   {
-    "id": "fb73496ce146",
-    "title": "Celebrating Innovation: The 2027 Salesforce Partner Awards",
-    "url": "https://www.salesforce.com/blog/salesforce-partner-awards-2027/",
+    "id": "663875e9eaf7",
+    "title": "Free Slack Communities For Small Business: Get Connected",
+    "url": "https://www.salesforce.com/blog/small-business/slack-communities/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-06-25T16:25:00+00:00",
-    "summary": "Partners are at the heart of everything we do at Salesforce. The pace of innovation has never been faster, and global enterprises are turning to our ecosystem to turn technology into real measurable…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/unnamed-1-1.png?w=2048",
+    "published": "2026-06-29T13:00:00+00:00",
+    "summary": "Slack is a great place to get work done, meet new people, and grow your business.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_dced64.png",
     "tags": [],
     "industries": [
-      "tech"
+      "industrial"
     ],
-    "relevance_score": 10
+    "relevance_score": 13
   },
   {
     "id": "f4b8898d36b2",
@@ -139,36 +156,6 @@
     "relevance_score": 10
   },
   {
-    "id": "d485439db362",
-    "title": "BACA Systems Runs Its Entire Business on Headless 360",
-    "url": "https://www.salesforce.com/blog/baca-systems-customer-story/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-25T17:45:08+00:00",
-    "summary": "How a 50-person robotics manufacturer replaced its ERP, saved $200k in fees, and unified every team on one platform.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/Platform-Customer-Story-BACA-Systems-1060x608-2.png",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "e2188f041bec",
-    "title": "The API Security Myth That’s Putting Your Data at Risk",
-    "url": "https://www.salesforce.com/blog/api-security-myth/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-27T09:46:39+00:00",
-    "summary": "Why source validation gives a false sense of security, and what actually protects your APIs.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/08/AdobeStock_621261617.jpg?w=7934",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 9
-  },
-  {
     "id": "b75f1effcddb",
     "title": "Trusted Agents at Scale: How Open Discovery Is Unifying the Agentic Enterprise",
     "url": "https://www.salesforce.com/blog/open-discovery-agentic-enterprise/",
@@ -185,30 +172,17 @@
     "relevance_score": 8
   },
   {
-    "id": "f990eb7eb642",
-    "title": "Financial Tools for SMBs: What to Use, What to Skip, and How to Connect It All",
-    "url": "https://www.salesforce.com/blog/small-business/financial-tools-for-smbs/",
+    "id": "e2188f041bec",
+    "title": "The API Security Myth That’s Putting Your Data at Risk",
+    "url": "https://www.salesforce.com/blog/api-security-myth/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-06-26T13:00:00+00:00",
-    "summary": "Stay on top of your money, instead of constantly playing catch-up, with this list of financial tools.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_108cf7.jpeg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 8
-  },
-  {
-    "id": "27c1d57a3263",
-    "title": "We Gamified AI Adoption for Our Team. Here’s What We Learned.",
-    "url": "https://www.salesforce.com/blog/gamified-ai-adoption/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-26T16:29:31+00:00",
-    "summary": "Was it kind of cringe? Absolutely. But it also worked. Try these 5 things for your own program.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/AdobeStock_1882774281.jpg",
+    "published": "2026-06-27T09:46:39+00:00",
+    "summary": "Why source validation gives a false sense of security, and what actually protects your APIs.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/08/AdobeStock_621261617.jpg?w=7934",
     "tags": [],
     "industries": [
-      "industrial"
+      "tech"
     ],
     "relevance_score": 8
   },
@@ -228,18 +202,16 @@
     "relevance_score": 7
   },
   {
-    "id": "f8378982f351",
-    "title": "Salesforce delivers WEM for Agentforce Contact Center - No Jitter",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQb0wwb0E3YTVHZVVOTWpDeVI0T0J4SXFESkRtak1fMXR2aTF0MG1yVmI3ck91V2l1aWVxZjd4emVnUVk0bGl1RldSTV9XOEpJMTF1Z2p3LWIxVGVqbEhaQS0tOVJZODhOSkNIOV9jbWhRa0s4ZnNWVlp0cjlDN2U2aUIzWmV1NW1uM0FtYXZRTDRiYzR2a3ZGZ19n?oc=5",
-    "source": "Salesforce AI",
+    "id": "f990eb7eb642",
+    "title": "Financial Tools for SMBs: What to Use, What to Skip, and How to Connect It All",
+    "url": "https://www.salesforce.com/blog/small-business/financial-tools-for-smbs/",
+    "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-06-22T12:38:59+00:00",
-    "summary": "Salesforce delivers WEM for Agentforce Contact Center No Jitter",
-    "image_url": null,
+    "published": "2026-06-26T13:00:00+00:00",
+    "summary": "Stay on top of your money, instead of constantly playing catch-up, with this list of financial tools.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_108cf7.jpeg",
     "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 6
+    "industries": [],
+    "relevance_score": 7
   }
 ]
