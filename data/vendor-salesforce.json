@@ -16,7 +16,6 @@
     "relevance_score": 32,
     "also_covered_by": [
       "Adobe",
-      "Wall Street",
       "Adobe Inc"
     ]
   },
@@ -65,21 +64,6 @@
     "relevance_score": 23
   },
   {
-    "id": "517c7243b102",
-    "title": "B2B Commerce innovations: Headless flexibility and new agentic capabilities",
-    "url": "https://www.salesforce.com/blog/b2b-commerce-innovations-june-26/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-29T15:26:16+00:00",
-    "summary": "B2B buyers now use an average of ten channels throughout their purchasing journey, according to McKinsey & Company, and they expect to switch between them seamlessly. Disconnected channels lead to messy handoffs between…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/innovations-request-for-quote-620x613-1.webp",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
     "id": "d5ccb094ecee",
     "title": "Salesforce Stock Is Down 45% From Its Peak. Here’s What the $3.6 Billion Fin Acquisition Changes - TIKR.com",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOYjJQblo5aGhRNjZwcUFDOFd0UmJnZ0tCc0JlOC1ndEs5VDhkeF9MeEVZTFpJWWtubjlUOGt1MlZGcTNua1QyZUxvQUlDaENVRkktd0Vodl95bG5qWGpmV0FMSUtRTG8wd3ZUVzVBRnpvNXF0RVdnQ3Rjc1FxNTZubThfYy1iZktmbEotNTJRUTlGQlpYVGhHMmpaanMxejdOZ2dBNU9CbE5IUFN3SzRmZm1EM3ZzZ2VkTWc?oc=5",
@@ -92,26 +76,35 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 14,
-    "also_covered_by": [
-      "Adobe Inc",
-      "Adobe Products"
-    ]
+    "relevance_score": 14
   },
   {
-    "id": "b8f6c0cf843b",
-    "title": "Salesforce Makes Agentforce Commerce Generally Available Ahead of Peak Season - CX Today",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaUw5dGVNMXBZYndYdjZ5a3JNMlBJMkJzOXNnd3VmY3MxOUMwbkV1Mkp4RjNXc1RGSk02RFBocXpWLW5pVTFicHVWT3AyUjdIM0s1T1RxWEJNNENEc0RiVkVEcHFaanUzRktpM3VxZ3p4bkd1aVdTa1NlVTRMV0VKUEFra1V6QQ?oc=5",
-    "source": "Salesforce AI",
+    "id": "517c7243b102",
+    "title": "B2B Commerce innovations: Headless flexibility and new agentic capabilities",
+    "url": "https://www.salesforce.com/blog/b2b-commerce-innovations-june-26/",
+    "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-06-29T15:53:07+00:00",
-    "summary": "Salesforce Makes Agentforce Commerce Generally Available Ahead of Peak Season CX Today",
-    "image_url": null,
+    "published": "2026-06-29T15:26:16+00:00",
+    "summary": "B2B buyers now use an average of ten channels throughout their purchasing journey, according to McKinsey & Company, and they expect to switch between them seamlessly. Disconnected channels lead to messy handoffs between…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/innovations-request-for-quote-620x613-1.webp",
     "tags": [],
     "industries": [
       "industrial"
     ],
-    "relevance_score": 12
+    "relevance_score": 14
+  },
+  {
+    "id": "b227cc4e720f",
+    "title": "How Cross-Functional Experience Makes a Better Account Executive",
+    "url": "https://www.salesforce.com/blog/an-ae-journey-in-anz/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-30T02:06:44+00:00",
+    "summary": "What makes a great Account Executive? Perspective. Before stepping into her AE role, Katherine Nguyen worked across business development and Customer Success — each stop deepening her understanding of what customers actually need. The career pivot she didn't plan turned out...",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/SMB-AE-Team-1.jpg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 14
   },
   {
     "id": "663875e9eaf7",
@@ -129,19 +122,19 @@
     "relevance_score": 11
   },
   {
-    "id": "31d9f80cdbbb",
-    "title": "5 Reasons a One-Day Agentforce Operations POC Is Worth Your Time",
-    "url": "https://www.salesforce.com/blog/agentforce-operations-poc/",
-    "source": "Salesforce Blog",
+    "id": "b8f6c0cf843b",
+    "title": "Salesforce Makes Agentforce Commerce Generally Available Ahead of Peak Season - CX Today",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNaUw5dGVNMXBZYndYdjZ5a3JNMlBJMkJzOXNnd3VmY3MxOUMwbkV1Mkp4RjNXc1RGSk02RFBocXpWLW5pVTFicHVWT3AyUjdIM0s1T1RxWEJNNENEc0RiVkVEcHFaanUzRktpM3VxZ3p4bkd1aVdTa1NlVTRMV0VKUEFra1V6QQ?oc=5",
+    "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-06-26T22:55:08+00:00",
-    "summary": "Most proofs of concept burn months and end in slideware. Agentforce Operations runs the POC in a single day, on us, and ends with two of your real processes already built.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/Get-Started-Today-s23-in-Supply-Chain-Deck.jpeg",
+    "published": "2026-06-29T15:53:07+00:00",
+    "summary": "Salesforce Makes Agentforce Commerce Generally Available Ahead of Peak Season CX Today",
+    "image_url": null,
     "tags": [],
     "industries": [
       "industrial"
     ],
-    "relevance_score": 10
+    "relevance_score": 11
   },
   {
     "id": "f4b8898d36b2",
@@ -152,6 +145,21 @@
     "published": "2026-06-26T17:56:33+00:00",
     "summary": "The June 2026 release is the largest, most impactful update yet for Agentforce Commerce. As agentic AI transforms business operations and consumer behaviors, we’re rolling out major innovations to help digital teams meet…",
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/agentforce-commerce-innovations-b2c-asset-1-1920-1080_146aee.webp",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "31d9f80cdbbb",
+    "title": "5 Reasons a One-Day Agentforce Operations POC Is Worth Your Time",
+    "url": "https://www.salesforce.com/blog/agentforce-operations-poc/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-06-26T22:55:08+00:00",
+    "summary": "Most proofs of concept burn months and end in slideware. Agentforce Operations runs the POC in a single day, on us, and ends with two of your real processes already built.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/Get-Started-Today-s23-in-Supply-Chain-Deck.jpeg",
     "tags": [],
     "industries": [
       "industrial"
@@ -173,22 +181,6 @@
       "industrial"
     ],
     "relevance_score": 9
-  },
-  {
-    "id": "b75f1effcddb",
-    "title": "Trusted Agents at Scale: How Open Discovery Is Unifying the Agentic Enterprise",
-    "url": "https://www.salesforce.com/blog/open-discovery-agentic-enterprise/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-25T17:59:36+00:00",
-    "summary": "As a founding partner to the new Agentic Resource Discovery specification, Salesforce is helping shape the open standard that gives AI agents a universal way to find, trust, and invoke capabilities across any platform.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_6b379c2.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 8
   },
   {
     "id": "e2188f041bec",
