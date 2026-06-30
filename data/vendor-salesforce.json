@@ -30,7 +30,8 @@
     ],
     "relevance_score": 29,
     "also_covered_by": [
-      "Adobe Inc"
+      "Adobe Inc",
+      "Adobe"
     ]
   },
   {
@@ -62,7 +63,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
     "id": "7a4eeb1a3661",
@@ -76,21 +77,6 @@
     "tags": [],
     "industries": [
       "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "6b189f4bcd4e",
-    "title": "Data Foundations For Startups: Quick Guide",
-    "url": "https://www.salesforce.com/blog/small-business/data-foundations-for-startups/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-30T13:00:00+00:00",
-    "summary": "Organize your data into a solid growth structure that supports your team.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_e74930.jpeg",
-    "tags": [],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 13
   },
@@ -114,16 +100,33 @@
     ]
   },
   {
-    "id": "b227cc4e720f",
-    "title": "How Cross-Functional Experience Makes a Better Account Executive",
-    "url": "https://www.salesforce.com/blog/an-ae-journey-in-anz/",
+    "id": "6b189f4bcd4e",
+    "title": "Data Foundations For Startups: Quick Guide",
+    "url": "https://www.salesforce.com/blog/small-business/data-foundations-for-startups/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-06-30T02:06:44+00:00",
-    "summary": "Before stepping into her AE role, Katherine Nguyen worked across business development and customer success — each stop deepening her understanding of what customers actually need.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/SMB-AE-Team-1.jpg",
+    "published": "2026-06-30T13:00:00+00:00",
+    "summary": "Organize your data into a solid growth structure that supports your team.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_e74930.jpeg",
     "tags": [],
-    "industries": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "051c5ddf234b",
+    "title": "Optimizing seller workflow with Agentforce Revenue Management - RSM",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMnFDbjgyS0Z0NDZVZkdhTXNKQlQ2VVhwbDROWnd6T2Y5M3JiajVsVVNmSVc4UDBDUkJGZ1NZV1VXdU80RlNlTjRZSk8yWF9XMzhVQ19KU1gwN2p0WG5zV1EzYW92NkxGYWhfRk8zem9LVGZxNG9UX3lRMkg3bVdraXdOZzBwT09SUEZZT3lPOGRkUmgzbmxrcWhlMjJZXzRGcUNjcno2Y21Ma3dDempR?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-06-30T16:03:47+00:00",
+    "summary": "Optimizing seller workflow with Agentforce Revenue Management RSM",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
     "relevance_score": 12
   },
   {
@@ -142,19 +145,16 @@
     "relevance_score": 11
   },
   {
-    "id": "5ceefaea5364",
-    "title": "Salesforce Brings Agentforce To AWS Marketplace In India - APAC Media",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQWXlRWTd5Zl9DUGVaSzF0R3NWQUp4Q3Y0VFBnUDJqWkNzaElFTlJNc2VjeWxLeF9KLVI3N19XREplNDhjcURud3kzOE9zdmctNWpQZS1vR1ozUEtRM1dJRmk3bnpCZFc5eGtfRV9OTl9xWHE5LXozOExwTEU5V1MxSW42VVNUZThocTR1Z1hSbzdBQ2FjS1ZkeA?oc=5",
-    "source": "Salesforce AI",
+    "id": "b227cc4e720f",
+    "title": "How Cross-Functional Experience Makes a Better Account Executive",
+    "url": "https://www.salesforce.com/blog/an-ae-journey-in-anz/",
+    "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-06-30T05:24:52+00:00",
-    "summary": "Salesforce Brings Agentforce To AWS Marketplace In India APAC Media",
-    "image_url": null,
+    "published": "2026-06-30T02:06:44+00:00",
+    "summary": "Before stepping into her AE role, Katherine Nguyen worked across business development and customer success — each stop deepening her understanding of what customers actually need.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/SMB-AE-Team-1.jpg",
     "tags": [],
-    "industries": [
-      "media",
-      "industrial"
-    ],
+    "industries": [],
     "relevance_score": 11
   },
   {
@@ -203,22 +203,6 @@
     "relevance_score": 8
   },
   {
-    "id": "e01cdcdba5bc",
-    "title": "Salesforce’s Agentforce Commerce Pushes Agentic AI From Hype to Retail Revenue Reality - The Futurum Group",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQZFZwNmJ0THhfM0ZZVTNiWmQteVhzYWFobUxoX08wZ29PQS05bFpuU2FuNG4xRnhoX09GMXdSNmpmVjgwRDZFWjl4YnRONE96SEkxdGFMcVVINUExUXAyMExmSFZqejFCR1BreDhUQm1ST2tEVDZFRHJMcWs1dVotUG1tRDZjeEFVdXVZQmFlRWJyNjRHczdUcW5xSFAwbzdSZ1czRWZiVmx6Q0RqMktOMk1odmtYY25BNjVPdQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-24T16:33:22+00:00",
-    "summary": "Salesforce’s Agentforce Commerce Pushes Agentic AI From Hype to Retail Revenue Reality The Futurum Group",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 7
-  },
-  {
     "id": "90fb8de58a08",
     "title": "Salesforce Launches Agentforce Help Agent That Deploys in Minutes and Only Charges for Resolutions - Salesforce",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPZVRVaWpYRzZzWGVzZlJXOS1TYWcyUTU4QkZFNHQ2ZTRVd2hpcGd2VGhIUVZvdXJTTTVxS1JvOFNsTDI4eC1md1hUUklVMjRFcGRBbkUyN0tMcGJjMEZDYTdQdkpESGlfc18ySjV1TGhUVXV4NmFVcmRxa1ZyZnF0Nw?oc=5",
@@ -262,22 +246,6 @@
       "industrial"
     ],
     "relevance_score": 7
-  },
-  {
-    "id": "cbec173eadbb",
-    "title": "Salesforce productizes its own customer service AI agent for users - TechTarget",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxOQUFEeEFWX2lHemJoRkVVVVBkYXEwN1JBV0JJNlE3NHBzOURrczRfam12TS1xX0Q3NnduLVpueHRHTnI3dW5mWFB4WVQ2aWtxYm03UHYtdWdpQTVJcEZENUhLWGdtQ3luVE10TklGZUk0WXFjZ3ZnZkRzZzNRZ1RNV2JsaEtpWUZXSXRodlhsX01JT3lUNkNnWDhUNllCV083UXd2MFc4RHNFSHhCSmJ3S3M2MmdLZ3JweXZud2czUC1paVhld2hLVFYxeUxMZw?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-06-25T14:45:29+00:00",
-    "summary": "Salesforce productizes its own customer service AI agent for users TechTarget",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 6
   },
   {
     "id": "2252ed834975",
