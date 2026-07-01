@@ -30,29 +30,7 @@
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 29
-  },
-  {
-    "id": "e30219c6f0e5",
-    "title": "Doctor Pay Is Up Because They’re Busy, Not Because Of Reimbursement",
-    "url": "https://www.forbes.com/sites/brucejapsen/2026/06/30/doctor-pay-is-up-because-theyre-busy-not-because-of-reimbursement/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-06-30T18:17:53+00:00",
-    "summary": "Physicians are working harder for more pay amid an ongoing doctor shortage while reimbursement rates are stagnant and expected to worsen, a new AMGA report shows.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a3f2b56fa0c4482866ef289/0x0.jpg",
-    "tags": [
-      "Healthcare",
-      "/healthcare",
-      "Innovation",
-      "/innovation",
-      "Healthcare"
-    ],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 17
+    "relevance_score": 26
   },
   {
     "id": "b650f2695040",
@@ -69,43 +47,43 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
-    "id": "572ffbbbc02c",
-    "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
-    "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
-    "source": "Wired",
+    "id": "319975cb5f1b",
+    "title": "Claude Science is Anthropic’s newest flagship product",
+    "url": "https://www.technologyreview.com/2026/06/30/1139987/claude-science-is-anthropics-newest-flagship-product/",
+    "source": "MIT Technology Review",
     "source_category": "ai",
-    "published": "2026-06-29T21:49:26+00:00",
-    "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
-    "image_url": "https://media.wired.com/photos/6a429931b8212c2a1f822da2/master/pass/Meta-Paid-Contractors-to-Pose-as-Children-Security-2268011998.jpg",
+    "published": "2026-06-30T21:50:04+00:00",
+    "summary": "At an event for pharmaceutical executives, biotech founders, and researchers on Tuesday, Anthropic announced Claude Science, a major new product intended to support scientific research in the same way that Claude Code supports software engineering. Like Claude Code, Claude...",
+    "image_url": null,
     "tags": [
-      "Security",
-      "Security / Security News",
-      "Meta",
-      "chatbots",
-      "Safety"
+      "Artificial intelligence",
+      "App",
+      "artificial intelligence"
     ],
     "industries": [
       "tech",
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 14
+    "relevance_score": 14,
+    "also_covered_by": [
+      "TechCrunch AI"
+    ]
   },
   {
-    "id": "95e9973b9318",
-    "title": "Carbon Health agrees to revise contracts with its California clinics, pay penalties",
-    "url": "https://www.fiercehealthcare.com/providers/carbon-health-agrees-corporate-reorg-california-clinics-pay-penalties",
-    "source": "Fierce Healthcare",
+    "id": "1a496ca882d6",
+    "title": "El Paso nonprofit receives $200K grant for digital health literacy - KVIA",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE5XVVlXdkdkNUlDdV82elIzRUhkLUM3cjdtQ2hFUUJfSGdONmUtczRlYmd2bEZLQWVZc3Roa2dGT0l1bGNTX082cWdNamd4LV9YS1lNcGpLQVFNaDBRLUNVdkI2ZjRIZGZUVFpELVUtNWZqUXdaMU1qdg?oc=5",
+    "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-06-30T15:00:00+00:00",
-    "summary": "The primary care chain's settlement agreement follows a California DOJ investigation of its advertising and billing practices, as well as contracts that allegedly gave the company de facto control over its physician-owned clinics.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/CarbonHealth_Exterior_2.jpg?VersionId=1u0FvNTpiIGHL5Vd0lxRl8nw9eJtiwCv",
+    "published": "2026-06-30T23:26:34+00:00",
+    "summary": "El Paso nonprofit receives $200K grant for digital health literacy KVIA",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 14
@@ -119,6 +97,22 @@
     "published": "2026-06-30T12:05:00+00:00",
     "summary": "Walsh is currently the head of the Massachusetts Hospital Association and will be taking the national stage at a moment of substantial policy and political challenges for the hospital industry.",
     "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/PollackWalsh.jpg?VersionId=LL3dLxaOyUlZSpaBFzEr9cmipwKd0Zzd",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "95e9973b9318",
+    "title": "Carbon Health agrees to revise contracts with its California clinics, pay penalties",
+    "url": "https://www.fiercehealthcare.com/providers/carbon-health-agrees-corporate-reorg-california-clinics-pay-penalties",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-30T15:00:00+00:00",
+    "summary": "The primary care chain's settlement agreement follows a California DOJ investigation of its advertising and billing practices, as well as contracts that allegedly gave the company de facto control over its physician-owned clinics.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/CarbonHealth_Exterior_2.jpg?VersionId=1u0FvNTpiIGHL5Vd0lxRl8nw9eJtiwCv",
     "tags": [],
     "industries": [
       "industrial",
@@ -162,6 +156,29 @@
     "relevance_score": 12
   },
   {
+    "id": "572ffbbbc02c",
+    "title": "Meta Contractors Posed as Teens to Prompt Rival Chatbots About Suicide, Sex, and Drugs",
+    "url": "https://www.wired.com/story/meta-contractors-pretending-to-be-teens-chatbot-testing/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-06-29T21:49:26+00:00",
+    "summary": "Hundreds of contractors working on a project for Meta pretended to be kids in order to see how other chatbots like Gemini and ChatGPT would respond to high-risk subjects, WIRED found.",
+    "image_url": "https://media.wired.com/photos/6a429931b8212c2a1f822da2/master/pass/Meta-Paid-Contractors-to-Pose-as-Children-Security-2268011998.jpg",
+    "tags": [
+      "Security",
+      "Security / Security News",
+      "Meta",
+      "chatbots",
+      "Safety"
+    ],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 12
+  },
+  {
     "id": "640c9c5e4ddf",
     "title": "Hyro rolls out analytics platform to glean insights from AI agent interactions",
     "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/hyro-rolls-out-agentic-ai-intelligence-layer-give-orgs-strategic-access",
@@ -179,81 +196,17 @@
     "relevance_score": 12
   },
   {
-    "id": "d9df81736577",
-    "title": "4 Notable Health Tech Funding Announcements in June - MedCity News",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS3NmZDJrSFBid3pYVEFZaFZRQnZXWGVjY0NhenB2b0tJUlVpX2l0LU81NVVQUFBPNHo3VW94aWI2OEJIOVpMNm1aelRHUE1MUTludzFVQmh5YkJjMlE0RzZteXJlLU4zMzZrZ09uWlZoc29GVzczaEtXMUxFWTFSbk95STMxNTA0a1FvVw?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-29T21:58:09+00:00",
-    "summary": "4 Notable Health Tech Funding Announcements in June MedCity News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "39f90310070c",
-    "title": "Nigeria Targets ₦500bn Investment to Drive Digital Health Transformation - TechAfrica News",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbGZKdWd1bXpsVkZHNXZzYmpJR1hGYXB5T2xnRFhxY1I2UjJnT2o0SWFKeFNHWEk2R210VDlOQ2tfVlZzQlkyWl9yYi1vTGlqeWJfaTVTeVpBVmIxYVpyVFc3eGZmZ2JIWGdNWUhhM2JYMFJnR05INTZOYks5MUdyX0pzX1NhSjFiZnBqNW8tSWdiUEVVc1oyMnZra1VYb2ZLc1NIOHYxNFl6TV9weWd1YS1FVDJZWTJvdDlr?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-30T07:10:48+00:00",
-    "summary": "Nigeria Targets ₦500bn Investment to Drive Digital Health Transformation TechAfrica News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "lifesciences",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "af70a076df6f",
-    "title": "Distribution agreement call options may provide life sciences acquirers with an asset preview - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc2F1LVU2MjNGOEd5NVRZQXdSX2RvM1hGOG5YcGdranNFSGRoNDJGMXY2S0R6dzBZbnl4Zndhd3lxeUYxQlJCY1NfV2lndjZqYmx5bzNPX1ZqVUZrZTRFb3JWU1BHSDFyMFlnalN0d3FtbE52Rzl0SVU2ZjFRR1NLWVk0ZFp2Mmk4RHd4SUw3NGV6ckZZZzZHbDhMb2RTSlpjejd2SnVJWnk4VHBYYWQ5S0oya01XX25hb3plZ1FXcjV6Wl9zWlJ3TktPUUtiWC0zZ0RrYVUxa0pjb3c?oc=5",
+    "id": "31ff35be08e8",
+    "title": "Viridian Therapeutics (VRDN) Wins FDA Approval For Lumvoa, Is The Upside Already Priced In? - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxNSmZjMGtZYU5rWEk2MW5zOTZvU2xsUHRsVExOOTE4R09sUVlndUFSVzh2cWp6RlBKRWpPMnJVMmhDbDJXclpOd1drTEJ4X3l2UFVHNmhBTDBrRHpycjFCNWJuVFZybUFHOHJ0NkJsdFpIREhqbXBjemRlUFJqT08wUXN4VHpiYkp2ZXpRY2xXbXIwT0hzWTRQdHVnek9UMW03X3RMMi1ZYmdWOUNwMzJRMy1iRXVJelR4TGNxRWlJbVEzc3E0OUhwVUJPbjNpZVNqQllBN21WRkRHd1FoNHhFMmF5LVBCSm9FbDNz0gHwAUFVX3lxTE5OSGlIeFJGNnMtQ0ptR0FYSzhkZGdSVnJYc3V3cmU3c0tHd2ZiZWpfMm9GRUZFWnppcUVsVVBkQldpS3cxdzJVV3l3UExEV3QtMGpUUWE5cG52T0tTQkJwWnpSUHZvVTRlQ3VhWV81eXNNNVY1VWRoc1JEYnNFb3JBWUdSYVlKT09icW1PT0FpZGU0M3k4bmxxN3IwMlg3UnEwZVZjRjBzblNDNEh3RENKX1FpUk4ydk1ockM3ejRpSTJhM1ZWZ0lVU2hRQXRHSGJLZFNJT3hEY2tpRkZ3TFJSeDBaWTFraTduUXdObHNpQQ?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-06-30T14:37:20+00:00",
-    "summary": "Distribution agreement call options may provide life sciences acquirers with an asset preview Reuters",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "871c0b4bbd05",
-    "title": "Beyond Access: A Multi-domain Framework for Assessing Digital Health Underutilisation in Non-communicable Disease Care in Low- and Middle-Income Countries - Cureus",
-    "url": "https://news.google.com/rss/articles/CBMinAJBVV95cUxOMmZiYXBqUWNxOXVKS1d0blB6aHg0R1RtTTE1bnZBSHYyeDZDUUs4V2xESmJKUlV6c21CMUNtWjMxYTBsRTUxWkdmZnlyd0N2akwxaDJFVTFvNXBWXzRkVFIzV2xUTXM3Q3hXWHoyX2tBeXcwZ2tNVUlaNXRMS1JYa3d0VTlnZFdhaDh5aWl2U3lsMEhnWkIxU2pLVTFTSkN4LVJ1VTBEVkRfOEVUSUEydDQ0aEIxVWlDOVhzeDNEME1yZERDRVdMdmVNdXFJNWxHLXFmSUFQVnphWTlrY1BVMENwaGZpdVBzWlY5WG8wRGlBQlJtWnZwblZCSl9lWGhzQURNcWZXYUVES0NPYUhUbGZWQTVPSmhiUklwWQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-30T18:50:47+00:00",
-    "summary": "Beyond Access: A Multi-domain Framework for Assessing Digital Health Underutilisation in Non-communicable Disease Care in Low- and Middle-Income Countries Cureus",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "c0ad20057c54",
-    "title": "Biocurious: Why FDA-approved biotechs trade at head-scratchingly low valuations - Stockhead",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2tZenA2N2ZmbkZteTlDRDJ6RnRnTXJjUUUzLVZqMUhSYnptV1dJSk52X0hKVEtUX1B2NW9hb3BGbE9zWmxHcDVzZlJuamNjWWFjbkZTQlJLM3dKVGtUalV1RENPLWpuZ1NmX3RnSUhhVGJxQ2dQdHBfRlI5aHBQbDYwQWs0MmI5WW9xRUVqVDdDSkxUMmpVdUNqaWE0WGFBamRpYkxnOTEtVkM0WExCeQ?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-30T20:00:47+00:00",
-    "summary": "Biocurious: Why FDA-approved biotechs trade at head-scratchingly low valuations Stockhead",
+    "published": "2026-06-30T22:23:29+00:00",
+    "summary": "Viridian Therapeutics (VRDN) Wins FDA Approval For Lumvoa, Is The Upside Already Priced In? simplywall.st",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 10
@@ -403,13 +356,13 @@
     "relevance_score": 9
   },
   {
-    "id": "f5805ca55249",
-    "title": "FDA digital leader hints at coming AI policy updates - statnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPODNaTUtTT2JFVHItTmkzYmVOVkVNd1RWQlJKMWl1VVZyWHdaT1Z2aWxaR1J4aDJNMWsxVm82d2laOS1oSUp4dmoyQzhudHJrSlNjaUZSQVJwamNEQUladFl0bW9teElpZWU2NW9nLUhteXFSQTlJZzZlc2lzU0J4TVhCRDdGVExndE85aHVUNTJ1RmRycjhSbFo1MWc3ZlQ1OVNR?oc=5",
+    "id": "d9df81736577",
+    "title": "4 Notable Health Tech Funding Announcements in June - MedCity News",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQS3NmZDJrSFBid3pYVEFZaFZRQnZXWGVjY0NhenB2b0tJUlVpX2l0LU81NVVQUFBPNHo3VW94aWI2OEJIOVpMNm1aelRHUE1MUTludzFVQmh5YkJjMlE0RzZteXJlLU4zMzZrZ09uWlZoc29GVzczaEtXMUxFWTFSbk95STMxNTA0a1FvVw?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-06-30T13:34:41+00:00",
-    "summary": "FDA digital leader hints at coming AI policy updates statnews.com",
+    "published": "2026-06-29T21:58:09+00:00",
+    "summary": "4 Notable Health Tech Funding Announcements in June MedCity News",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -418,48 +371,54 @@
     "relevance_score": 9
   },
   {
-    "id": "b6b53190d2b6",
-    "title": "Welldoc Recognized by Modern Healthcare as One of the Best Places to Work in Healthcare for Second Consecutive Year - Business Wire",
-    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPS2IySUtnRmozRWY4amZIbUxaLVotbGRVVXRKLWNjcXZEOWtJOVZGOHdkd1RYb1dDOVBmdjVpcWNtbkg4MGJwa3AwLUt2Z0RDcXpGQ1p2R0k0S0RrWnpUblVKSEphUlZ0R29DRVQ3RmcyUElPekpjWmVZV212QVZtSlk2WGxraVVBdlgydW9mdURrS1VTVmtSQVNZbFRwN2NWTXROcWMyd3hTVGJ6b3RxN2J4dWpkM3pqSFotS2ZUOTRLTUFEZkJNcGZMa0JCWWhDcnkxTnlDYmtzRUI1endIVGJxdEhuYmJrVTJyODRLc1JLRk5Fbld3TVk2d0lyQ01uU0E?oc=5",
+    "id": "39f90310070c",
+    "title": "Nigeria Targets ₦500bn Investment to Drive Digital Health Transformation - TechAfrica News",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbGZKdWd1bXpsVkZHNXZzYmpJR1hGYXB5T2xnRFhxY1I2UjJnT2o0SWFKeFNHWEk2R210VDlOQ2tfVlZzQlkyWl9yYi1vTGlqeWJfaTVTeVpBVmIxYVpyVFc3eGZmZ2JIWGdNWUhhM2JYMFJnR05INTZOYks5MUdyX0pzX1NhSjFiZnBqNW8tSWdiUEVVc1oyMnZra1VYb2ZLc1NIOHYxNFl6TV9weWd1YS1FVDJZWTJvdDlr?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-06-30T14:00:00+00:00",
-    "summary": "Welldoc Recognized by Modern Healthcare as One of the Best Places to Work in Healthcare for Second Consecutive Year Business Wire",
+    "published": "2026-06-30T07:10:48+00:00",
+    "summary": "Nigeria Targets ₦500bn Investment to Drive Digital Health Transformation TechAfrica News",
     "image_url": null,
     "tags": [],
     "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "4ec5689ae813",
-    "title": "Opinion | Too Much Health Tech, Not Enough Health Tech - MedPage Today",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JMlpPbXJoUlVkVGkyWGtBMEwzT2VibXJfcmtoT1FRZTZ2ODdzVHBNYjBnN2xVdThOMTRPcnJ4SURCSENaVDZqZ0FsUVZfTVgtR0NXOVNnNGR6Z0hUeWN6WU03Z0NmRjJwVUcyY1RZMGE1N2xaamlTNjhB?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-30T15:06:22+00:00",
-    "summary": "Opinion | Too Much Health Tech, Not Enough Health Tech MedPage Today",
-    "image_url": null,
-    "tags": [],
-    "industries": [
+      "retail",
       "industrial",
-      "lifesciences"
+      "lifesciences",
+      "financial"
     ],
-    "relevance_score": 9
+    "relevance_score": 9,
+    "also_covered_by": [
+      "Healthcare Digital"
+    ]
   },
   {
-    "id": "53caba601e37",
-    "title": "Anthropic Livestreams AI for Science Pitch as No AI Drug Has Won FDA Approval - Tech Times",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXJSN2lMWE81TmZsdnRPcUdZOHk2UDRVTUcyNkF0c1VzMVFrUVQ1V2UwbTNZODFwQU1iRjd1YnZ0Q2pZNENGSTFlN0tvLVlrcTdNNXdGdEFOcmM0T1pKZ2c1YlZZM0pFRFNHVFRvaEZKMDNlamMzMHlDOVo5NGhYcUw4UzUtWi1NN09RRXBuNDNjVHY0aEVVUkJfUUJIQ1h2bm9kNzFsOUdPQ2VoZi11VGwyU19TR012TTJ0djRIcjRxZXM?oc=5",
+    "id": "af70a076df6f",
+    "title": "Distribution agreement call options may provide life sciences acquirers with an asset preview - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOc2F1LVU2MjNGOEd5NVRZQXdSX2RvM1hGOG5YcGdranNFSGRoNDJGMXY2S0R6dzBZbnl4Zndhd3lxeUYxQlJCY1NfV2lndjZqYmx5bzNPX1ZqVUZrZTRFb3JWU1BHSDFyMFlnalN0d3FtbE52Rzl0SVU2ZjFRR1NLWVk0ZFp2Mmk4RHd4SUw3NGV6ckZZZzZHbDhMb2RTSlpjejd2SnVJWnk4VHBYYWQ5S0oya01XX25hb3plZ1FXcjV6Wl9zWlJ3TktPUUtiWC0zZ0RrYVUxa0pjb3c?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-06-30T16:20:58+00:00",
-    "summary": "Anthropic Livestreams AI for Science Pitch as No AI Drug Has Won FDA Approval Tech Times",
+    "published": "2026-06-30T14:37:20+00:00",
+    "summary": "Distribution agreement call options may provide life sciences acquirers with an asset preview Reuters",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "c0ad20057c54",
+    "title": "Biocurious: Why FDA-approved biotechs trade at head-scratchingly low valuations - Stockhead",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOc2tZenA2N2ZmbkZteTlDRDJ6RnRnTXJjUUUzLVZqMUhSYnptV1dJSk52X0hKVEtUX1B2NW9hb3BGbE9zWmxHcDVzZlJuamNjWWFjbkZTQlJLM3dKVGtUalV1RENPLWpuZ1NmX3RnSUhhVGJxQ2dQdHBfRlI5aHBQbDYwQWs0MmI5WW9xRUVqVDdDSkxUMmpVdUNqaWE0WGFBamRpYkxnOTEtVkM0WExCeQ?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-30T20:00:47+00:00",
+    "summary": "Biocurious: Why FDA-approved biotechs trade at head-scratchingly low valuations Stockhead",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 9
@@ -506,6 +465,100 @@
     "image_url": null,
     "tags": [],
     "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "af19c7179136",
+    "title": "Cumulus Neuroscience Announces Publication in Frontiers in Digital Health Demonstrating the NeuLogiq® Platform Is Feasible and Usable for At-Home Cognitive and EEG Assessment in People Living with Mild Alzheimer's Disease Dementia - PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMilwNBVV95cUxNMHdNUWFNLWhfTkZsVng4ZkRiU2twZjV4ZFNRUUR4ZFdYeTRtUWFzVEdLcm56T09haUhyaWs1UFZ0SWExTXI4YVBLU1FtZDctaEJaaWlib05HUUxVdkJCNTUzenlJVGp0bVYxalNJN01ZYnhRSGREb3RBZjhNaS1wc05xOVF0dF9hYUl6OEktdjlidHF6eHZmSEFnRmNCanJHSDVYbUY2Q2lQTWZtcjJuS0FtVS1fNVEtTGxLeXpwa0hvUk9Qb3ZTY3Q0Vnd4eW9ZeV9PN3RTbHNoNWpWWUNWczkyemw2MTZsNndrVE1tOWs2bEo2aERuci1LaGJIZDh3U0tyQmEyQjgtYzZJalFlTXlZMklqYmlIamdNYk5KSlpjTUwtYjdZZHlkTWVneWFZTkhDZDEzcmlDU2dhcS1mWHJHMkwxcGlfMWxKVE1Mdk5rLXNKMWgxc0hVOXNENTBoa2xZeVpPWnFDYUZEeHdhVDR6eko3VFliY3kwZkxoYUxFUmU5RjU4eEZQTEtWeVdzNFNnYlBuUQ?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-30T13:00:00+00:00",
+    "summary": "Cumulus Neuroscience Announces Publication in Frontiers in Digital Health Demonstrating the NeuLogiq® Platform Is Feasible and Usable for At-Home Cognitive and EEG Assessment in People Living with Mild Alzheimer's Disease Dementia PR Newswire",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "f5805ca55249",
+    "title": "FDA digital leader hints at coming AI policy updates - statnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPODNaTUtTT2JFVHItTmkzYmVOVkVNd1RWQlJKMWl1VVZyWHdaT1Z2aWxaR1J4aDJNMWsxVm82d2laOS1oSUp4dmoyQzhudHJrSlNjaUZSQVJwamNEQUladFl0bW9teElpZWU2NW9nLUhteXFSQTlJZzZlc2lzU0J4TVhCRDdGVExndE85aHVUNTJ1RmRycjhSbFo1MWc3ZlQ1OVNR?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-30T13:34:41+00:00",
+    "summary": "FDA digital leader hints at coming AI policy updates statnews.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "b6b53190d2b6",
+    "title": "Welldoc Recognized by Modern Healthcare as One of the Best Places to Work in Healthcare for Second Consecutive Year - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxPS2IySUtnRmozRWY4amZIbUxaLVotbGRVVXRKLWNjcXZEOWtJOVZGOHdkd1RYb1dDOVBmdjVpcWNtbkg4MGJwa3AwLUt2Z0RDcXpGQ1p2R0k0S0RrWnpUblVKSEphUlZ0R29DRVQ3RmcyUElPekpjWmVZV212QVZtSlk2WGxraVVBdlgydW9mdURrS1VTVmtSQVNZbFRwN2NWTXROcWMyd3hTVGJ6b3RxN2J4dWpkM3pqSFotS2ZUOTRLTUFEZkJNcGZMa0JCWWhDcnkxTnlDYmtzRUI1endIVGJxdEhuYmJrVTJyODRLc1JLRk5Fbld3TVk2d0lyQ01uU0E?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-30T14:00:00+00:00",
+    "summary": "Welldoc Recognized by Modern Healthcare as One of the Best Places to Work in Healthcare for Second Consecutive Year Business Wire",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "4ec5689ae813",
+    "title": "Opinion | Too Much Health Tech, Not Enough Health Tech - MedPage Today",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9JMlpPbXJoUlVkVGkyWGtBMEwzT2VibXJfcmtoT1FRZTZ2ODdzVHBNYjBnN2xVdThOMTRPcnJ4SURCSENaVDZqZ0FsUVZfTVgtR0NXOVNnNGR6Z0hUeWN6WU03Z0NmRjJwVUcyY1RZMGE1N2xaamlTNjhB?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-30T15:06:22+00:00",
+    "summary": "Opinion | Too Much Health Tech, Not Enough Health Tech MedPage Today",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "53caba601e37",
+    "title": "Anthropic Livestreams AI for Science Pitch as No AI Drug Has Won FDA Approval - Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNRXJSN2lMWE81TmZsdnRPcUdZOHk2UDRVTUcyNkF0c1VzMVFrUVQ1V2UwbTNZODFwQU1iRjd1YnZ0Q2pZNENGSTFlN0tvLVlrcTdNNXdGdEFOcmM0T1pKZ2c1YlZZM0pFRFNHVFRvaEZKMDNlamMzMHlDOVo5NGhYcUw4UzUtWi1NN09RRXBuNDNjVHY0aEVVUkJfUUJIQ1h2bm9kNzFsOUdPQ2VoZi11VGwyU19TR012TTJ0djRIcjRxZXM?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-30T16:20:58+00:00",
+    "summary": "Anthropic Livestreams AI for Science Pitch as No AI Drug Has Won FDA Approval Tech Times",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "820539238517",
+    "title": "Will Mounjaro and Zepbound get their first US generic rival? - Life Sciences Intellectual Property Review",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNMWFTSlBMczJlS1p2Zk9XaHpOM2tJZzJaODB0dmY4VU1meTJLaHNnUHgzM1FHNExLWm5vNG04MXFDVTE1NHA5Tk1vSm1mTXdQWFlEQzZ6NHU5S0Z6aHk1UHVoekdxODBrVlh5dlpyRmQxRkhVVkVDQ2FmWWVKX1NlVGt6VGdCcWk5MU9BM2tmcWJ4TGE1VVAtd1NPeEdSeE5qWV9yWlIydi0?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-30T17:24:38+00:00",
+    "summary": "Will Mounjaro and Zepbound get their first US generic rival? Life Sciences Intellectual Property Review",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 8

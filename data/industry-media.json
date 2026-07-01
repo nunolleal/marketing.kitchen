@@ -15,7 +15,7 @@
       "consumer",
       "financial"
     ],
-    "relevance_score": 81
+    "relevance_score": 78
   },
   {
     "id": "16481a2534bf",
@@ -36,7 +36,25 @@
       "telecom",
       "consumer"
     ],
-    "relevance_score": 69
+    "relevance_score": 66
+  },
+  {
+    "id": "5067858e9b2d",
+    "title": "Future of Marketing Briefing: CMOs are still haunted by hard questions about value of ad creative",
+    "url": "https://digiday.com/marketing/future-of-marketing-briefing-cmos-are-still-haunted-by-hard-questions-about-value-of-ad-creative/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-06-26T04:01:00+00:00",
+    "summary": "While interest in AI-enabled media and creative effectiveness measurement is rising, 49% of senior marketers say they can’t back up their ad creative with hard data.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/08/creator-scrutiny-digiday.jpg",
+    "tags": [
+      "Marketing",
+      "Digiday+"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 53
   },
   {
     "id": "1866a5bc256c",
@@ -58,24 +76,6 @@
       "media",
       "tech",
       "industrial"
-    ],
-    "relevance_score": 56
-  },
-  {
-    "id": "5067858e9b2d",
-    "title": "Future of Marketing Briefing: CMOs are still haunted by hard questions about value of ad creative",
-    "url": "https://digiday.com/marketing/future-of-marketing-briefing-cmos-are-still-haunted-by-hard-questions-about-value-of-ad-creative/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-06-26T04:01:00+00:00",
-    "summary": "While interest in AI-enabled media and creative effectiveness measurement is rising, 49% of senior marketers say they can’t back up their ad creative with hard data.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/08/creator-scrutiny-digiday.jpg",
-    "tags": [
-      "Marketing",
-      "Digiday+"
-    ],
-    "industries": [
-      "media"
     ],
     "relevance_score": 53
   },
@@ -100,7 +100,7 @@
       "consumer",
       "financial"
     ],
-    "relevance_score": 51
+    "relevance_score": 48
   },
   {
     "id": "ee4a97da410e",
@@ -140,19 +140,37 @@
     "relevance_score": 41
   },
   {
-    "id": "aa7867a8d1cc",
-    "title": "Adult women are driving toy industry growth",
-    "url": "https://www.retaildive.com/news/adult-women-driving-toy-industry-sales-growth/824039/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-06-30T15:05:00+00:00",
-    "summary": "Meanwhile, social media is influencing the segment, fueled by ASMR content and unboxing videos.",
-    "image_url": "https://imgproxy.divecdn.com/BBm7xyxhNpvHmfMuXaxO-KknvDPArrGZnd98c9iCFQc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yXzI4MjkxNzVfUWlRck9OSC5qcGc=.webp",
+    "id": "6ebc07031a8a",
+    "title": "TikTok launches Agentic Hub - Social Media Today",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE80ak41MTR2OW91YWdQS0R2Y3BVYVJmc2ZvaS1fS2Y2Wnp0MDRJOHg0SVNSOWNRNXZYM0dzWHlLNURIZXdQRlZsQ3BtbHlWb3VONmhlNFpHYUZLdXdJZ1FZRHB1Yl9OQWhjakh4TzhIMTJsX0RzMEpkLUV0Mk1kUQ?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-06-30T22:55:46+00:00",
+    "summary": "TikTok launches Agentic Hub Social Media Today",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "media"
+      "media",
+      "industrial"
     ],
     "relevance_score": 40
+  },
+  {
+    "id": "da07466ede7e",
+    "title": "Third quarter 2026 media buying trends—where brands plan to spend more and less - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9MeVZDazc5TEVnTnN4TEd0VmFoY1VCeWZSd1lfbGdfZ0FFa3pTSTZNdTFaMU9lbHE2WldtSnd4NjBTYndFLVA4LVNpcUFrWVZ2azl1eVFvQzdZd3VvTF93VUNCRHJTOE5HZ05ySmhfMHZkYV9zVUZxX3pweGc?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-06-30T09:10:00+00:00",
+    "summary": "Third quarter 2026 media buying trends—where brands plan to spend more and less Ad Age",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 39
   },
   {
     "id": "5096dd385ba5",
@@ -168,6 +186,21 @@
       "media"
     ],
     "relevance_score": 38
+  },
+  {
+    "id": "aa7867a8d1cc",
+    "title": "Adult women are driving toy industry growth",
+    "url": "https://www.retaildive.com/news/adult-women-driving-toy-industry-sales-growth/824039/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-06-30T15:05:00+00:00",
+    "summary": "Meanwhile, social media is influencing the segment, fueled by ASMR content and unboxing videos.",
+    "image_url": "https://imgproxy.divecdn.com/BBm7xyxhNpvHmfMuXaxO-KknvDPArrGZnd98c9iCFQc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yXzI4MjkxNzVfUWlRck9OSC5qcGc=.webp",
+    "tags": [],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 37
   },
   {
     "id": "ed8830e49d76",
@@ -207,6 +240,27 @@
     "relevance_score": 29
   },
   {
+    "id": "cddfcb33775e",
+    "title": "EXCLUSIVE: Omnicom to Win Adidas’ $512M Global Media Account",
+    "url": "https://www.adweek.com/agencies/exclusive-omnicom-to-win-adidas-512m-global-media-account/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-06-30T17:43:39+00:00",
+    "summary": "Omnicom Media Group is set to secure Adidas’ $512 million global media account.",
+    "image_url": null,
+    "tags": [
+      "Accounts",
+      "Agencies",
+      "Brands",
+      "Exclusive",
+      "Media News"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 17
+  },
+  {
     "id": "6a3674f7f643",
     "title": "What Walmart’s Vibe.co deal means for CTV, retail media convergence",
     "url": "https://www.marketingdive.com/news/what-walmarts-vibeco-deal-means-for-ctv-retail-media-convergence/823941/",
@@ -228,40 +282,20 @@
     ]
   },
   {
-    "id": "5f815612b400",
-    "title": "Inside Ad Results Media’s Next Chapter: CEO Jordan Fox on Filling the Gaps Major Holdcos Leave Behind",
-    "url": "https://www.adweek.com/dealroom/inside-ad-results-medias-next-chapter-ceo-jordan-fox-on-filling-the-gaps-major-holdcos-leave-behind/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-06-30T08:00:00+00:00",
-    "summary": "ARM CEO breaks down the Miroma Group acquisition, audio's maturation as an ad channel, and why Miroma Group isn't building a generalist holding company",
-    "image_url": null,
-    "tags": [
-      "Agencies",
-      "Dealroom",
-      "Premium"
-    ],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "e73357e44750",
-    "title": "Could This Nearby 'Super-Earth' Support Life? Scientists Just Found A Reason To Think So",
-    "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/30/could-this-nearby-super-earth-support-life-scientists-just-found-a-reason-to-think-so/",
+    "id": "006745e1034a",
+    "title": "Hasbro’s First ‘KPop Demon Hunters’ Toys Are Released",
+    "url": "https://www.forbes.com/sites/timlammers/2026/06/30/hasbros-first-kpop-demon-hunters-toys-are-released/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-06-30T20:33:41+00:00",
-    "summary": "Astronomers behind the study have said the planet “brings us one step closer to knowing all of our neighbors and, ultimately” which other planets may be hospitable for life.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a4426ffa183aad9b891152a/0x0.jpg?width=960",
+    "published": "2026-07-01T00:00:12+00:00",
+    "summary": "The first products in Hasbro’s \"KPop Demon Hunters\" line are here to entertain fans of Netflix’s animated movie musical phenomenon.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a44556b4080f27800950b05/0x0.jpg?width=960",
     "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
       "Business",
       "/business",
-      "Business",
-      "/business",
-      "Breaking"
+      "Hollywood & Entertainment"
     ],
     "industries": [
       "media"
@@ -288,46 +322,23 @@
     "relevance_score": 15
   },
   {
-    "id": "b9b64ef9482c",
-    "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
-    "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-06-30T17:19:15+00:00",
-    "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
-    "tags": [
-      "AI",
-      "Entertainment",
-      "Netflix",
-      "News",
-      "Streaming"
-    ],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "28cde45ecf60",
-    "title": "‘Gilmore Girls’ Has Left Netflix. Here’s Where To Still Watch It",
-    "url": "https://www.forbes.com/sites/hannahabraham/2026/06/30/gilmore-girls-has-left-netflix-heres-where-to-still-watch-it/",
+    "id": "e73357e44750",
+    "title": "Could This Nearby 'Super-Earth' Support Life? Scientists Just Found A Reason To Think So",
+    "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/06/30/could-this-nearby-super-earth-support-life-scientists-just-found-a-reason-to-think-so/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-06-30T20:24:27+00:00",
-    "summary": "After a 12 year run on the platform, the Gilmore Girls have left Netflix US behind.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a339ae99d38b3ec6e7f9b8e/0x0.jpg",
+    "published": "2026-06-30T20:33:41+00:00",
+    "summary": "Astronomers behind the study have said the planet “brings us one step closer to knowing all of our neighbors and, ultimately” which other planets may be hospitable for life.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a4426ffa183aad9b891152a/0x0.jpg?width=960",
     "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
       "Business",
       "/business",
-      "Hollywood & Entertainment"
+      "Business",
+      "/business",
+      "Breaking"
     ],
     "industries": [
-      "media",
-      "tech"
+      "media"
     ],
     "relevance_score": 15
   },
@@ -352,6 +363,92 @@
     "relevance_score": 14
   },
   {
+    "id": "b9b64ef9482c",
+    "title": "Netflix is using an AI-generated Gene Wilder voice in its Willy Wonka reality show",
+    "url": "https://www.theverge.com/streaming/959684/netflix-wonka-golden-ticket-gene-wilder",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-06-30T17:19:15+00:00",
+    "summary": "A new teaser trailer confirmed that Wonka's The Golden Ticket will premiere on Netflix on September 23rd, following its Squid Game reality show in the trend of creating real competitions based on fictional torture scenarios. While the sets seen in the trailer are real and not...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/videoframe_9748.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Netflix",
+      "News",
+      "Streaming"
+    ],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "954d1961c469",
+    "title": "MLB Hopes to Walk Off With More Fans Using Content Creators",
+    "url": "https://www.adweek.com/creativity/mlb-hopes-to-walk-off-with-more-fans-using-content-creators/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-06-30T17:49:28+00:00",
+    "summary": "The ADWEEK House discussion looks at how baseball is evolving for a new generation of fans.",
+    "image_url": null,
+    "tags": [
+      "ADWEEK House",
+      "Content Strategy",
+      "Creator Economy",
+      "Sports"
+    ],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "28cde45ecf60",
+    "title": "‘Gilmore Girls’ Has Left Netflix. Here’s Where To Still Watch It",
+    "url": "https://www.forbes.com/sites/hannahabraham/2026/06/30/gilmore-girls-has-left-netflix-heres-where-to-still-watch-it/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-06-30T20:24:27+00:00",
+    "summary": "After a 12 year run on the platform, the Gilmore Girls have left Netflix US behind.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a339ae99d38b3ec6e7f9b8e/0x0.jpg",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
+      "media",
+      "tech"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "a2d58d714daa",
+    "title": "Media Buying Briefing: The holdco tech heads expound on the ups and downs of building AI",
+    "url": "https://digiday.com/media-buying/media-buying-briefing-the-holdco-tech-heads-expound-on-the-ups-and-downs-of-building-ai/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-06-29T04:01:00+00:00",
+    "summary": "As AI becomes a bigger and broader part of the holding company model, their tech heads seek opportunity while grappling with challenges.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/06/Digiday-In-Cannes_2026_06_1c3fe7.jpg",
+    "tags": [
+      "Media Buying",
+      "Digiday+",
+      "mediabuyingbriefing"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
     "id": "14d1660d58ec",
     "title": "How Hunter Biden Won the Internet",
     "url": "https://www.wired.com/story/how-hunter-biden-won-the-internet/",
@@ -370,7 +467,7 @@
     "industries": [
       "media"
     ],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "fd93a14ef0ea",
@@ -392,7 +489,7 @@
       "media",
       "tech"
     ],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "40e22fb79de3",
@@ -413,27 +510,6 @@
     "industries": [
       "media",
       "tech"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "a2d58d714daa",
-    "title": "Media Buying Briefing: The holdco tech heads expound on the ups and downs of building AI",
-    "url": "https://digiday.com/media-buying/media-buying-briefing-the-holdco-tech-heads-expound-on-the-ups-and-downs-of-building-ai/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-06-29T04:01:00+00:00",
-    "summary": "As AI becomes a bigger and broader part of the holding company model, their tech heads seek opportunity while grappling with challenges.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/06/Digiday-In-Cannes_2026_06_1c3fe7.jpg",
-    "tags": [
-      "Media Buying",
-      "Digiday+",
-      "mediabuyingbriefing"
-    ],
-    "industries": [
-      "media",
-      "tech",
-      "industrial"
     ],
     "relevance_score": 12
   },
@@ -486,28 +562,7 @@
       "media",
       "industrial"
     ],
-    "relevance_score": 10
-  },
-  {
-    "id": "1ebb304792c7",
-    "title": "Repositioning retail for the AI era",
-    "url": "https://www.technologyreview.com/2026/06/25/1137848/repositioning-retail-for-the-ai-era/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-06-25T14:22:59+00:00",
-    "summary": "Artificial intelligence is rapidly reshaping retail, but not in the ways consumers might immediately notice. The biggest transformation may not be flashy virtual try-ons or chatbot shopping assistants, but in how decisions are made behind the scenes: how products surface in...",
-    "image_url": null,
-    "tags": [
-      "Artificial intelligence",
-      "sponsored"
-    ],
-    "industries": [
-      "media",
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 8
+    "relevance_score": 9
   },
   {
     "id": "8ede759bd189",
@@ -528,13 +583,13 @@
     "relevance_score": 7
   },
   {
-    "id": "43026b91c8f3",
-    "title": "Comcast to Spin Off NBCUniversal, Ending a Long Union of Cable and Media - The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPVzhGSTFURWtJUGpPYTZLQ19zUl9XMXBnb3lKMU8ySndlQTRaWXZweVNCaXhWNlBxdmZqSWlxNy1sLTF3dWFJUkw2bGtGTzE0SFN4SktELW8tNXVFd0ZGUjJ4RHJtZlQ0Y0pzNlo3c1pRX040MG16aV92blhYcjl3QWFVVQ?oc=5",
+    "id": "8bd5249ed70a",
+    "title": "Comcast to spin off NBCUniversal and Sky into separate company - NBC News",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOUUZpdFFZNG1NbjNmLW5xY2hKVFQtNXFuYm9pbEl5SVJTdS1tS1pRV1lTOXE5WW41blVCVUtBSmdwUloyaThkVXI3N21zTWs3WFpfMkMwYkdPY3E4UHVYa1JTdzhVSURZSnYtOHN1Z2JlTmp3ekd2Q3FnMWJiNDVNaWtmVG5IYmJYS0R1NHZBVHczYVFuWjh2b2twcnJsQnVTaFpodHVXYkZOSHhSaHd3?oc=5",
     "source": "Telecom 5G",
     "source_category": "industry_telecom",
-    "published": "2026-06-29T10:30:53+00:00",
-    "summary": "Comcast to Spin Off NBCUniversal, Ending a Long Union of Cable and Media The New York Times",
+    "published": "2026-06-29T15:25:51+00:00",
+    "summary": "Comcast to spin off NBCUniversal and Sky into separate company NBC News",
     "image_url": null,
     "tags": [],
     "industries": [
