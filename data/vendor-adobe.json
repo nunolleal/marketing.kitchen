@@ -5,12 +5,12 @@
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5MQmZsYWFKZWhXemp3Nk5OWS1McjBIbmhxSVZBcGpDMUFJT1Bla1JZQlNPaGx5THB4aUxRakJaaldiSWd4alM5aVZGRmhYcXZKcThzM0RqVHJnblBmN0p2N2g3a1F2VjRoWTdhWnh1SkRxRGxJNVVGNi14Z1k?oc=5",
     "source": "Adobe",
     "source_category": "adobe",
-    "published": "2026-07-01T19:58:03+00:00",
+    "published": "2026-07-01T19:53:18+00:00",
     "summary": "Adobe's CMO says the best marketers never stop reinventing themselves Business Insider",
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 44
+    "relevance_score": 40
   },
   {
     "id": "753043445327",
@@ -23,7 +23,10 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 39
+    "relevance_score": 36,
+    "also_covered_by": [
+      "Adobe Inc"
+    ]
   },
   {
     "id": "47d1deed5636",
@@ -31,29 +34,13 @@
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNelRnV2tENl8ta3EyTndqQkdCYy1sQ0R1T1dVR3UzLTBlOUZEbEhKd2NOR0hpNE5IdlRJczg1T1NSNGU0N01lTkc3a3kwS0ZRb2lQN0JRVjJOWnVfNkZOeHh0UXk1Ump2WFdGOGh3VlBqcTU5NHplekZqQUFnSFVJaEdPeUlQUFFESGRSRjRqd3MxLUpzc1NJczVERzhFQVN6aFdxd3hNM0ZtNElyRFhBNUpfTHpoRXBwbDBoc3Y5UFBfUDBac2NtWHB3?oc=5",
     "source": "Adobe",
     "source_category": "adobe",
-    "published": "2026-07-02T13:53:12+00:00",
+    "published": "2026-07-02T13:54:45+00:00",
     "summary": "Figma stock surges over 4% as Adobe upgrade eases AI disruption fears Investing.com",
     "image_url": null,
     "tags": [],
     "industries": [
       "industrial"
     ],
-    "relevance_score": 16,
-    "also_covered_by": [
-      "Adobe Products"
-    ]
-  },
-  {
-    "id": "8a6d36226f15",
-    "title": "It’s 37oC, And All We Can Think About Is ColdFusion (Adobe ColdFusion Security Bulletin APSB26-68 CVE Bonanza) - watchTowr Labs",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdTktTFc0WE9xZlNtRU9VX0Y0TWNrTHZtSmRSNzV5XzQ2cHVpVkRqbFQwUnc2RkdBMERkMWVRVVhIekctNWM5SDN5X1VWSzA2eFJfajV0eXNrU2MtYVlqYU1HMUt3aGtVeWFQUXlVenhmVUQ3MFBqTmhYd0Z4TTBUaG1ZMF9RZ1NHQjA3SUZURXNPRjVFakFuZ1JmUUFZWnUtVGZEMUtia2tWQTFzSGhiak42NjFDZlB2N0htS2pnMWxFYVk0NWQ5TGZKdGFLRkk?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-07-02T16:41:57+00:00",
-    "summary": "It’s 37oC, And All We Can Think About Is ColdFusion (Adobe ColdFusion Security Bulletin APSB26-68 CVE Bonanza) watchTowr Labs",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
     "relevance_score": 15
   },
   {
@@ -69,38 +56,107 @@
     "industries": [],
     "relevance_score": 15,
     "also_covered_by": [
+      "Adobe Products",
       "Wall Street",
-      "Fintech",
       "Adobe Inc"
     ]
   },
   {
-    "id": "ccc87030e5fd",
-    "title": "Analyst Sees Slower Growth Tempering Outlook for Adobe (ADBE) - Insider Monkey",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPYzNyd1hwaVk0akNicTM2UFJ4THA0Q01ZYV9tWUI4VFlfU2ZHT3ZuZTM3Z2xnMFhlMUsydW8wOXdpaGJ2ck91ZnQtU2E3SnA0T2dfb1NmSVdlYUx2Wl9aa2xJSWpZNk80Mk5OLWZJTXFPVWlQaGszMjdsazBGZmZDOW85QWduWkNQTzVBWGdhNnplX0MtWXpHQlJSUkFIZlJuczR3cFB30gGuAUFVX3lxTFBSTWRLb0dVTUp4T0hUTnFMcWc3cWdPLUZTVHdwZ2h2QU1PTjItaXVlSU9ySjZiaXNxM3htZWpKWEQxOEQ4X1haTU5ZaWpaaDNXeUFCa0lEQV9nYUpQMVAxOFRadERTUkR4WUZUR0k3TUlWN0hmdkhNbno3U3R0TFFmQzhWeGlobmpqUDhkV3FPT3BadFlnd2NqOEZLMTlKUDc5SzBfR1lLdlJVS1hHZw?oc=5",
+    "id": "8a6d36226f15",
+    "title": "It’s 37oC, And All We Can Think About Is ColdFusion (Adobe ColdFusion Security Bulletin APSB26-68 CVE Bonanza) - watchTowr Labs",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxPdTktTFc0WE9xZlNtRU9VX0Y0TWNrTHZtSmRSNzV5XzQ2cHVpVkRqbFQwUnc2RkdBMERkMWVRVVhIekctNWM5SDN5X1VWSzA2eFJfajV0eXNrU2MtYVlqYU1HMUt3aGtVeWFQUXlVenhmVUQ3MFBqTmhYd0Z4TTBUaG1ZMF9RZ1NHQjA3SUZURXNPRjVFakFuZ1JmUUFZWnUtVGZEMUtia2tWQTFzSGhiak42NjFDZlB2N0htS2pnMWxFYVk0NWQ5TGZKdGFLRkk?oc=5",
     "source": "Adobe",
     "source_category": "adobe",
-    "published": "2026-07-02T17:16:02+00:00",
-    "summary": "Analyst Sees Slower Growth Tempering Outlook for Adobe (ADBE) Insider Monkey",
+    "published": "2026-07-02T16:41:57+00:00",
+    "summary": "It’s 37oC, And All We Can Think About Is ColdFusion (Adobe ColdFusion Security Bulletin APSB26-68 CVE Bonanza) watchTowr Labs",
     "image_url": null,
     "tags": [],
     "industries": [],
     "relevance_score": 14
   },
   {
-    "id": "fe11a3f8890b",
-    "title": "Hasselblad cameras get long-awaited update — Capture One support, with tethered shooting also on the way - TechRadar",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPN1VxQ1gyUzY5UFpYLTA0QXloMG1wRXV4cmdNdWxKYWxTR3hBUXE0UmxPYXl0Nkw5LUlvVWhsN0MxaHd2YWwyS3lwVHBkUXVDMlFPQ0VNVmtzNWZTS2pHMDJUZjdKV2tnUHBZYW5XVGFpY0JZVWhDdTBxQTBvYTd3T2QxTlBNZkVDUTZ1RF9pMnZObXBfbVJrRTl2ckZKTVA4VkZnQThBdG8zMFJvSVpGUWNkLXdtTlc3VkhGQWZJc2xyVWY1UjN2cFYtU3Z2bW00TG9UckZJSlZycHlTTENrOTQxMDA2R1NiNC1TZUVmbDBNdw?oc=5",
+    "id": "98fde9b5922a",
+    "title": "Analyst Sees Slower Growth Tempering Outlook for Adobe (ADBE) - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMTBMSVdTYlktaXFyVTY1amxueWc1amZoWTBmMVdTRzljNGtnY1U4VVNCbk1jTUs1NUZkaHBTVXZsN0xQSUNzby11LW54VVgtSXN3eDlHUGdYMEV3OEdkV2ZqeUQ2VkRmcTRLTEdlbWhtTzZPMGpmWDFsTURPbExqZ0I3TUUtVFQ0Rm5zbXE0ei1nQ0hzZGZUT2ZSeUE2MTQyeWEw?oc=5",
     "source": "Adobe",
     "source_category": "adobe",
-    "published": "2026-07-02T12:00:00+00:00",
-    "summary": "Hasselblad cameras get long-awaited update — Capture One support, with tethered shooting also on the way TechRadar",
+    "published": "2026-07-02T17:12:11+00:00",
+    "summary": "Analyst Sees Slower Growth Tempering Outlook for Adobe (ADBE) Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 14
+  },
+  {
+    "id": "06068befa3d7",
+    "title": "This Adobe analyst is going against the grain by telling investors to buy the stock - MarketWatch",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQTjFSVVV2TzJkZF9QVUI3TnhDU3lLZDEyQ3A1OUpFV1VCMUF1aHlzOVNOcUhBUnhNNWkzdFB6RHB3REpSNVdiOWJVRWs5OU51T2FEbVRnYUdsNjZuMHZwb09zbjdBOE9SWVlvWnZMaW5LaE96cmhXcDA1UVlRNS12YWRCODFObkx2QTVGVDhXcG9GZUszMk9EVEpoTExqZER4UE1iX0RRMUF5ZXZfdHd0dFowM01SLTdNM1huRWxHRTlsdlZY?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-07-02T19:07:00+00:00",
+    "summary": "This Adobe analyst is going against the grain by telling investors to buy the stock MarketWatch",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "713e1fd61d0e",
+    "title": "Adobe: I Can Stay Rational Longer Than The Markets Can Stay Irrational (NASDAQ:ADBE) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQUGhSdUdUbEFiVGtpQzlqZG5MUk5tbnI5elhPd0ZnTmhDcnJBdkJGX1g5WmIzaTVka3dvUzllMWhMd2tfMjlmd2N1emhPdVBubkJybkx4YlhibW5MbGZ0NHU2VEZaNXBmazZQS3hhOHd0SjVZLVdXci1vdG1EZjVmMU9EUFdwZzZrYjdHWUU5YkhEdng0cFY5MDFGR0xYeWY3SVV1Ri1WcFF1Qk9ESHNn?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-07-02T19:15:46+00:00",
+    "summary": "Adobe: I Can Stay Rational Longer Than The Markets Can Stay Irrational (NASDAQ:ADBE) Seeking Alpha",
     "image_url": null,
     "tags": [],
     "industries": [
       "industrial"
     ],
-    "relevance_score": 11
+    "relevance_score": 13
+  },
+  {
+    "id": "e10154087d59",
+    "title": "Disney partners with Adobe for AI; Brightline faces ongoing hurdles - The Business Journals",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOX051NHZGdHFDUkJuYmFrWTV4TmtTU1YzTzZzWmhfTEN4bm1Ja3RwdUhXUnBVbEdxbkFSeV9OMUdFOUR3bXBDRjJkcG81WGNLVWI1Y2tiRzkwSUVBdkktbkNYbGVnS3Nrci1OUy1kX0hmeTNvczJnNXRIZS1fbHFQZGhmeUNVU2J0S2FkUVZYNThLU3dDelE4YXA1d0MzWnRwMUVv?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-07-02T13:00:00+00:00",
+    "summary": "Disney partners with Adobe for AI; Brightline faces ongoing hurdles The Business Journals",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "c3c11b709301",
+    "title": "Why Adobe Stock Is Rising on Thursday - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNbTVwME1OSjFtTVRhcWdoVlIzX2FnekYxQ0JGaTNzTUl2c3VHUUFhVVRxYkZKcy1PMHJNaWFfQkk2c2Y1eVZ4NThFNml2RjllRFJNVjAzVjJMck5VcGVXRXlWSXpHRlQxMTl3bWZFYnRqSWNRSHhWblZxNFlNZEdZYXZxVlFsNUl6VEtWR0lzeUtoXzhwaW9Jc0RaWmUtX1E?oc=5",
+    "source": "Adobe Inc",
+    "source_category": "adobe",
+    "published": "2026-07-02T17:51:19+00:00",
+    "summary": "Why Adobe Stock Is Rising on Thursday Benzinga",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 12
+  },
+  {
+    "id": "dbfc09fcb42b",
+    "title": "HSBC Says Adobe's AI Discount Is a Mistake - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOMExScnhRMzRkOGRvQlhMOU5rTFRpSkhjSmkzcFZ5YlVFVUJVQXZmbnl6RHpVbEVkZFNodzZhRGp0S3RYc1lyMG1nVmx3ZEQtWlYtWUNpb2RYSEFxb2pKU1FkcUtiaHRpRF9rcS1HYTNBUjgxT1NoTGlVVWg5dXBGajVDZWQ0MjJvTjh4Tm11UlUxMndFeDJnejF5TmVxZElfQVFoVA?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-07-02T18:00:56+00:00",
+    "summary": "HSBC Says Adobe's AI Discount Is a Mistake TradingView",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 12
   },
   {
     "id": "34add7a3aaad",
@@ -116,16 +172,18 @@
     "relevance_score": 10
   },
   {
-    "id": "bb6d2f59a929",
-    "title": "Adobe Inc. stock outperforms competitors on strong trading day - MarketWatch",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWjdXNTBUTUQ2dUZFV3M1NTI0R2lYVGVMcThRN0dtLUlJY2dDM0pycm5nV0ZSakw1N3A2MVdwVFRsUnh1dFVIZWV5ZHRTdk1sNnF2a29XcU5sVGtmcV9BWkZOZ3g3d3pFOWJHc3R4YkZadXhidnRRSzYxaTI0dzlJcnY3Z3hxeC1QOWFOM0lSOGw1NC1BUzFMdTUySXMxakhRWldjYTBYMlR4RDNlazFFM1Fyc3BGSDY5Mks4LUpR?oc=5",
-    "source": "Adobe Inc",
+    "id": "fe11a3f8890b",
+    "title": "Hasselblad cameras get long-awaited update — Capture One support, with tethered shooting also on the way - TechRadar",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPN1VxQ1gyUzY5UFpYLTA0QXloMG1wRXV4cmdNdWxKYWxTR3hBUXE0UmxPYXl0Nkw5LUlvVWhsN0MxaHd2YWwyS3lwVHBkUXVDMlFPQ0VNVmtzNWZTS2pHMDJUZjdKV2tnUHBZYW5XVGFpY0JZVWhDdTBxQTBvYTd3T2QxTlBNZkVDUTZ1RF9pMnZObXBfbVJrRTl2ckZKTVA4VkZnQThBdG8zMFJvSVpGUWNkLXdtTlc3VkhGQWZJc2xyVWY1UjN2cFYtU3Z2bW00TG9UckZJSlZycHlTTENrOTQxMDA2R1NiNC1TZUVmbDBNdw?oc=5",
+    "source": "Adobe",
     "source_category": "adobe",
-    "published": "2026-07-01T20:41:00+00:00",
-    "summary": "Adobe Inc. stock outperforms competitors on strong trading day MarketWatch",
+    "published": "2026-07-02T12:00:00+00:00",
+    "summary": "Hasselblad cameras get long-awaited update — Capture One support, with tethered shooting also on the way TechRadar",
     "image_url": null,
     "tags": [],
-    "industries": [],
+    "industries": [
+      "industrial"
+    ],
     "relevance_score": 10
   },
   {
@@ -143,6 +201,7 @@
     ],
     "relevance_score": 9,
     "also_covered_by": [
+      "Adobe Inc",
       "Adobe Marketing Cloud"
     ]
   },
@@ -158,6 +217,19 @@
     "tags": [],
     "industries": [],
     "relevance_score": 9
+  },
+  {
+    "id": "5cbd0d752f25",
+    "title": "The history of adobe in southern Colorado stretches back well beyond 150 years - The Colorado Sun",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOeFN2ajBCVUVhYjNuN01DUGh4RlZmdGx3cXlPVXhQclh5T19Hb0RjNWJyX3JNMWZoazU5VFdxV2oxbENUc3FYQzJIbUdGMnNtR2dmbkFOQ1U5VVpoN3Mzd3l0YXlYODZpSzNZRG5FdUZFOUN5UjJ2ampneFFsR2lsNHdYZW9uTjg3TUZfUlZ2MVc?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-06-28T13:17:00+00:00",
+    "summary": "The history of adobe in southern Colorado stretches back well beyond 150 years The Colorado Sun",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 8
   },
   {
     "id": "3c847684e761",
@@ -176,10 +248,23 @@
     "id": "37fd76e2f569",
     "title": "Adobe (ADBE) Launches Firefly Foundry to Enable Enterprise Custom AI Model Development - Yahoo Finance",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWWVjU0hMc3FTZTJ0OWd3UFZPekxpV29odHdKWmN5eTU5cWo3YVZRczVQTk8zYk5meEZIXzhwN3pJaFhTRXV6MEJDa25qY1kxdWJCNExNbEpmSVB0SURMZHFpeUZ4UXlNZmpBQVJiWUNHVjNwc3VDdFRYSW0wcnNVVjdlV2s1bVBOaU5TUXE1c2lXakxGdmNiekI1eklVVzZx?oc=5",
-    "source": "Adobe Inc",
+    "source": "Adobe Products",
     "source_category": "adobe",
     "published": "2026-06-30T13:36:36+00:00",
     "summary": "Adobe (ADBE) Launches Firefly Foundry to Enable Enterprise Custom AI Model Development Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 8
+  },
+  {
+    "id": "e1ada4820be8",
+    "title": "Figma: The Workflow That Adobe Couldn't Buy (NYSE:FIG) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNVnFQN0tHdVNwQm5LVVZCZ0lJd3JSeGxOMFgwUF9RQ2JoN0xKRHhXclBJLVg3V1JPUFBiMExKSm1ORWtZS3RSclN1bkZMSHBPUjJYd1pzMTU2X2k4MDdWNWltSGh3Rnc3VTg0LUktZVhoVm9LelAyVGxPOE4ycFVHbmNPRFFRS2I1Tmc?oc=5",
+    "source": "Adobe Inc",
+    "source_category": "adobe",
+    "published": "2026-07-01T06:45:52+00:00",
+    "summary": "Figma: The Workflow That Adobe Couldn't Buy (NYSE:FIG) Seeking Alpha",
     "image_url": null,
     "tags": [],
     "industries": [],
@@ -201,6 +286,19 @@
     "relevance_score": 8
   },
   {
+    "id": "bb6d2f59a929",
+    "title": "Adobe Inc. stock outperforms competitors on strong trading day - MarketWatch",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxOWjdXNTBUTUQ2dUZFV3M1NTI0R2lYVGVMcThRN0dtLUlJY2dDM0pycm5nV0ZSakw1N3A2MVdwVFRsUnh1dFVIZWV5ZHRTdk1sNnF2a29XcU5sVGtmcV9BWkZOZ3g3d3pFOWJHc3R4YkZadXhidnRRSzYxaTI0dzlJcnY3Z3hxeC1QOWFOM0lSOGw1NC1BUzFMdTUySXMxakhRWldjYTBYMlR4RDNlazFFM1Fyc3BGSDY5Mks4LUpR?oc=5",
+    "source": "Adobe Inc",
+    "source_category": "adobe",
+    "published": "2026-07-01T20:41:00+00:00",
+    "summary": "Adobe Inc. stock outperforms competitors on strong trading day MarketWatch",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 8
+  },
+  {
     "id": "c2c7e2982aa0",
     "title": "Amazon Prime Day total online spending surpasses Adobe estimate - Fortune",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPcEFKemItYV9POWVEY24yU0tZMWFLeHBodHl5OXNUWTdCMXVXcGFxMUVhbDNNVHdCZWYtejZ1UkJEWE9LNnlSUW9sbmtyTzVBUmFpVFh6YnZCemZ4Nll3alJnYl9hS1d5b1FkSTVUQzZqVjFrV1kwdldvYThvMXM0RFQ3cGxCSHB3RWZOdk1R?oc=5",
@@ -216,36 +314,46 @@
     "relevance_score": 7
   },
   {
-    "id": "9b9acc5f2917",
-    "title": "Adobe: The Four Horsemen Of SaaSpocalypse; Too Much Fear Is An Opportunity (NASDAQ:ADBE) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOc3ZUa2N4VXo3X05NLTlDbFpZdkg0djNaLTk0OVVvTFdTTDhRbFRIZ0lvVDFLaldPNjlXa0dMQ2x4TzhZUEp3RE1CM2VReWdSSktBSzJMZHZMOERFcmgtSDdDSml1REo4UFFka1JLNGhhVTJJcFpvMVlvRzhIQ0ZaVjdSRUtUVHVKSlNWQWJWaGdPY3FuVjZJTHAybW1Eck1SeUo5b0JKazdnYXc1Yk1Eb3VKMA?oc=5",
-    "source": "Adobe Inc",
+    "id": "2e14cbb91cc9",
+    "title": "I used Adobe Firefly for birthday invites and the result was amazing - The Herald-Mail",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOY3Fmck9tNFkzUkNRNUU4c2Zya2tOMGp5RFhEcFBLSGNKWXVLSUZndFBGTE9qSnRWNEhiNmd3WmhIVnZQUWg2WEJBem1LZk56aVVXbXpqQ2p1QU5FdWtFYUNEdURadmV4UHFWcmlXcVJGZWdmemNTOGVPVE41eGtjb2tKOGhCVklMSVc3X3hqcWw5OThUc2xVUEQyREk0UlhTMUc2ZWw5NjRJZw?oc=5",
+    "source": "Adobe Products",
     "source_category": "adobe",
-    "published": "2026-06-30T13:50:48+00:00",
-    "summary": "Adobe: The Four Horsemen Of SaaSpocalypse; Too Much Fear Is An Opportunity (NASDAQ:ADBE) Seeking Alpha",
+    "published": "2026-06-30T16:40:00+00:00",
+    "summary": "I used Adobe Firefly for birthday invites and the result was amazing The Herald-Mail",
     "image_url": null,
     "tags": [],
-    "industries": [
-      "tech"
-    ],
+    "industries": [],
     "relevance_score": 7
   },
   {
-    "id": "dd2f66a1311b",
-    "title": "Adobe Brings Topaz Labs to Firefly and Creative Cloud - CMSWire",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNa25OYW5yX0REWThGbG5zMXVsVmhSVGxLdDAzUkRQSWkxRFpRN3NNTkdKVUxiWkp0ZWk5N21fcWh2a0loU2RlN1djT3dsbU9SVU1FclAtSVotZGVBeUlfMWxXamN1RWVveWRRUFpfNDVLOGNaNEctdXBob0txUlk0cE0wQWd0QldVZm9lQXhDVXNqVnhJZTlDYXp0OWtZY0xLWE5V?oc=5",
-    "source": "Adobe Marketing Cloud",
+    "id": "9441d898ecc1",
+    "title": "Adobe Creative Cloud tools for success: Leveling up with Firefly - July session. | Adobe Events - Adobe for Business",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaUJVY3d5eXBfbFMtOXdYU242YXlxTVNTLXFCWHdGem05Nm1WSVNkd1lXUG5KSXRvUWJhSFlXamNFTGptVkthaUpNTXAwRV9qNlJYNm9fazNlc21Lcm1xMUdYM2VfRFo0X3puOGhJQnlCdWRnWDVNek1vZnJpakoyY045ZnR5NGVudHNlYkYxRndYcE93dFJtMlh4MFB2RzRFNlhBdEdWOC1PTVpjOFFaUFh1WVFMU3N1Tmtj?oc=5",
+    "source": "Adobe Products",
     "source_category": "adobe",
-    "published": "2026-06-25T18:50:51+00:00",
-    "summary": "Adobe Brings Topaz Labs to Firefly and Creative Cloud CMSWire",
+    "published": "2026-06-26T22:56:36+00:00",
+    "summary": "Adobe Creative Cloud tools for success: Leveling up with Firefly - July session. | Adobe Events Adobe for Business",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech"
     ],
-    "relevance_score": 6,
-    "also_covered_by": [
-      "Adobe Products"
-    ]
+    "relevance_score": 6
+  },
+  {
+    "id": "48e287050882",
+    "title": "Adobe's Topaz acquisition could bring huge changes to Photoshop and Firefly - Creative Bloq",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPVXJLZlRydmVKZURzbnZtN2l1cWJSZVNQX3RwWHFpUEZ5QXdSNkVpb0p4RFBGOUptblJzUDg2SVNZTmprc3ZFRG9WRGZxZUl4V2NIQUVTV3RFdlI0S0dkZFFnMzRnNUxzbnFfcElhLVF0NTBoNDRSdWJTdUNvb2xZV3ZESGgyVjlBb0hmSk83Rll2RG5vV2ZkMnRtQU1BenZxRVRwRUtfTTJaNS1udDNB?oc=5",
+    "source": "Adobe Products",
+    "source_category": "adobe",
+    "published": "2026-06-27T07:00:00+00:00",
+    "summary": "Adobe's Topaz acquisition could bring huge changes to Photoshop and Firefly Creative Bloq",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 6
   }
 ]
