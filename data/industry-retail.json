@@ -35,7 +35,7 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 54
+    "relevance_score": 50
   },
   {
     "id": "b6745945b61e",
@@ -55,7 +55,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 53
+    "relevance_score": 50
   },
   {
     "id": "45246981d1b9",
@@ -93,28 +93,27 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 33
+    "relevance_score": 30
   },
   {
-    "id": "d6adaabeb707",
-    "title": "Amazon launches new $1 billion FDE org, following OpenAI and Anthropic",
-    "url": "https://techcrunch.com/2026/06/30/amazon-launches-new-1-billion-fde-org-following-openai-and-anthropic/",
-    "source": "TechCrunch AI",
+    "id": "3d7512e82c8b",
+    "title": "Walmart Promo Codes: Up to 65% Off for July 2026",
+    "url": "https://www.wired.com/story/top-walmart-promo-codes/",
+    "source": "Wired",
     "source_category": "ai",
-    "published": "2026-06-30T15:00:00+00:00",
-    "summary": "Engineers on the new team will embed within companies to deploy purpose-built agents, focusing on fast deployments and customer self-sufficiency.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/AWS-VP-Francessca-Vasquez.jpg?w=1200",
+    "published": "2026-07-02T05:00:00+00:00",
+    "summary": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
+    "image_url": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
     "tags": [
-      "AI",
-      "TC",
-      "Amazon",
-      "Amazon Web Services"
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
     ],
     "industries": [
-      "retail",
-      "industrial"
+      "retail"
     ],
-    "relevance_score": 16
+    "relevance_score": 19
   },
   {
     "id": "9a6de5f608cc",
@@ -153,29 +152,6 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 15,
-    "also_covered_by": [
-      "Digiday"
-    ]
-  },
-  {
-    "id": "6fcb01f9e95e",
-    "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
-    "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-01T13:43:07+00:00",
-    "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=1024",
-    "tags": [
-      "AI",
-      "Meta",
-      "SpaceX"
-    ],
-    "industries": [
-      "tech",
-      "retail"
-    ],
     "relevance_score": 15
   },
   {
@@ -194,20 +170,22 @@
     "relevance_score": 14
   },
   {
-    "id": "aebeabbb3184",
-    "title": "The Economist launches new audio and video tier targeting younger subscribers",
-    "url": "https://digiday.com/media/the-economists-new-audio-and-video-tier-targets-younger-subscribers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-07-01T04:01:00+00:00",
-    "summary": "The Economist has launched a lower-priced audio and video subscription to attract younger readers, called Economist Play.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/07/global-video-digiday.jpg",
+    "id": "6fcb01f9e95e",
+    "title": "Meta, like SpaceX, looks to turn excess AI compute into cash",
+    "url": "https://techcrunch.com/2026/07/01/meta-like-spacex-looks-to-turn-excess-ai-compute-into-cash/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-01T13:43:07+00:00",
+    "summary": "Meta is developing plans for a cloud infrastructure business, selling access to AI compute power and models. The move would pit it against the big cloud providers like Amazon Web Services, Google Cloud, and Microsoft Azure.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-2225880947.jpg?w=1024",
     "tags": [
-      "Media"
+      "AI",
+      "Meta",
+      "SpaceX"
     ],
     "industries": [
-      "retail",
-      "industrial"
+      "tech",
+      "retail"
     ],
     "relevance_score": 14
   },
@@ -229,7 +207,25 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
+  },
+  {
+    "id": "aebeabbb3184",
+    "title": "The Economist launches new audio and video tier targeting younger subscribers",
+    "url": "https://digiday.com/media/the-economists-new-audio-and-video-tier-targets-younger-subscribers/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-07-01T04:01:00+00:00",
+    "summary": "The Economist has launched a lower-priced audio and video subscription to attract younger readers, called Economist Play.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/07/global-video-digiday.jpg",
+    "tags": [
+      "Media"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 12
   },
   {
     "id": "c1d20fc80c8c",
@@ -263,6 +259,23 @@
       "retail"
     ],
     "relevance_score": 11
+  },
+  {
+    "id": "e9b3ff49e873",
+    "title": "FinTech giant Adyen powers online and offline payments for electronics retailer CeX Malaysia - Retail Technology Innovation Hub",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPenNXWVNRWG40T2w1cWFLLTBDUnQ3ZW54bkNqWkNDcUI2SGcwdmdtMnhYbGE5U19VNTI4UnJXZjNGS1JpeEhZYXF4ZUp1dENKS1l5bndjVFJrM25sTEk4cEp2LXJNMFBTREVMSFFTTWZvU2NtRU5jYWxlbms4a29YRkRBRkRzeGt0SWZaNFV1REhoSnpnZGFIREJCdVZOMS1iQ1ZqcDM2SWlfbnFHeW5xc1pYR0dndXducFFkZmZLVUFtTmJMUmJiRWVfSzhtTGVOeHZSVlhoNG1wdw?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-07-02T05:11:28+00:00",
+    "summary": "FinTech giant Adyen powers online and offline payments for electronics retailer CeX Malaysia Retail Technology Innovation Hub",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "financial"
+    ],
+    "relevance_score": 10
   },
   {
     "id": "2976cc9207a9",
@@ -300,6 +313,22 @@
     "relevance_score": 8
   },
   {
+    "id": "df48e79fbaa6",
+    "title": "MENA Banking Excellence Awards reveals retail, digital and SME winners - Electronic Payments International",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQNnNGdUJheTRHZk9fMXRxZWpfN2pYZzM1eGlTdjdITDJidXpWOTNLTnMxV0JVUlU1QnFoNWlXNW1wQ1hUMUFqWFJaS2JQaVlVTEJzTF9KWThQN0xSTnQ5OXcxODB1bXFGdGcwSGlnemhITXBwMmtrZkZicHUwamdvMUluU0tBNjZlWmhrYVVhRmZLREdZTFgzRnNYS1l4SnhpVTYw?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-06-30T12:02:30+00:00",
+    "summary": "MENA Banking Excellence Awards reveals retail, digital and SME winners Electronic Payments International",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "financial"
+    ],
+    "relevance_score": 6
+  },
+  {
     "id": "197d16fc7500",
     "title": "Sherwin-Williams integrates digital payment tool into pro services - Chain Store Age",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPRnNXbDZVQXJDTzNIWlQ2RGtYVnVXSDlNdFNyUDlmb1h3NlNtUS1sdVMyMFZ6S3pnY3Q3UUtsZHZsd2NUajZ6VWxkMXhEYVNsUno2dVRDWWJRWF9GVWpJRW1YT1pjNVJ4bTRabTN4ZC1nakdiSkliZ2JoNndEZUlFYWVwSTZHamtXTmdXSEpmcDQ?oc=5",
@@ -312,6 +341,22 @@
     "industries": [
       "retail",
       "industrial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "47da7c52938a",
+    "title": "Checkout.com Partners with Agoda to Power Global Digital Travel Payments - TechAfrica News",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOd0VueXU1WGY3T1FNaUtCbW8yWHFUOHJuNHJjcnhUYkJPYTV6bHVuVzZ2WXV5NUQ3RzFuQnRodGN5WEkwSFlDcmNfeXlEbXRpWDZ3YUdxTWN2WmRpQjVDVWpMMVk1REQ1WDZRbVBHd3VqUFdaNlVkX1BUN1lCeXNPNGpzaEdNV0lxRmhXSEJoaWpZVmZ6am9NT0dmVm1VWnpFX3lhN0pCdVYzZV9nRkhxTw?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-06-30T13:15:11+00:00",
+    "summary": "Checkout.com Partners with Agoda to Power Global Digital Travel Payments TechAfrica News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "financial"
     ],
     "relevance_score": 6
   }
