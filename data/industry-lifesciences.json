@@ -13,7 +13,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 36
+    "relevance_score": 32
   },
   {
     "id": "ed8830e49d76",
@@ -46,7 +46,29 @@
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 22
+    "relevance_score": 19
+  },
+  {
+    "id": "d126ba912ada",
+    "title": "Inside Formula 1’s £100 Million Silverstone Weekend",
+    "url": "https://www.forbes.com/sites/katehardcastle/2026/07/02/inside-formula-1s-100-million-silverstone-weekend/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-02T09:21:06+00:00",
+    "summary": "Silverstone’s record-breaking F1 weekend shows how Formula 1 has evolved into a £100 million commercial powerhouse spanning retail, hospitality and culture.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a462c6c0c706936a20f4dd8/0x0.jpg?width=960",
+    "tags": [
+      "Retail",
+      "/retail",
+      "Business",
+      "/business",
+      "Retail"
+    ],
+    "industries": [
+      "retail",
+      "lifesciences"
+    ],
+    "relevance_score": 18
   },
   {
     "id": "c700a5d96e22",
@@ -70,22 +92,19 @@
     "relevance_score": 15
   },
   {
-    "id": "85dba52e3434",
-    "title": "The rise of pharma ad tech",
-    "url": "https://digiday.com/marketing/the-rise-of-pharma-ad-tech/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-07-02T04:01:00+00:00",
-    "summary": "Insiders say it comes at the cost of legacy platforms such as DSPs and SSPs.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2023/07/digiday_pharma_illustration.jpg",
-    "tags": [
-      "Marketing"
-    ],
+    "id": "8a76d8e84b7c",
+    "title": "Takeda, Insilico Strike AI Drug-Discovery Deal Worth Up to $600 Million - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQaE56N29tdHItZUxLWmM0M0ROYTZFOEl5cUY2bnA5QjNRbVVuSE5DTDhmUkhaSVhYcEpxdDYtZnJuQ2hKbXFIQ0FhVVF4WGliNVVkZlNFX0ItaERqZU1ROGdwRzBsVXNtQmdfNTN0cFhIdDhhN012bXh1N3pBUlBsNnZ2RFlBSzJONGU2NXpwcDBJU0Y5U1V3aHF4WE9CZURwNHVGdU5WU0dpODJtVExlaA?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-02T09:22:00+00:00",
+    "summary": "Takeda, Insilico Strike AI Drug-Discovery Deal Worth Up to $600 Million WSJ",
+    "image_url": null,
+    "tags": [],
     "industries": [
-      "tech",
       "lifesciences"
     ],
-    "relevance_score": 14
+    "relevance_score": 15
   },
   {
     "id": "a1bcfa199218",
@@ -109,6 +128,24 @@
     "relevance_score": 13
   },
   {
+    "id": "85dba52e3434",
+    "title": "The rise of pharma ad tech",
+    "url": "https://digiday.com/marketing/the-rise-of-pharma-ad-tech/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-07-02T04:01:00+00:00",
+    "summary": "Insiders say it comes at the cost of legacy platforms such as DSPs and SSPs.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2023/07/digiday_pharma_illustration.jpg",
+    "tags": [
+      "Marketing"
+    ],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 13
+  },
+  {
     "id": "b650f2695040",
     "title": "Startup Queue lands $12.6M to launch autonomous robotic pharmacy kiosks",
     "url": "https://www.fiercehealthcare.com/health-tech/startup-queue-lands-126m-launch-autonomous-robotic-pharmacy-kiosks",
@@ -126,45 +163,6 @@
     "relevance_score": 12
   },
   {
-    "id": "8cb3d64cc665",
-    "title": "Binging With Babish Expands Into Meal Kits, Podcasting, and Hospitality",
-    "url": "https://www.adweek.com/media/binging-with-babish-andrew-rea-meal-kits-podcast/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-07-01T08:30:00+00:00",
-    "summary": "Andrew Rea is the latest YouTube creator to convert his audience into a diversified consumer business.",
-    "image_url": null,
-    "tags": [
-      "Influencers &amp; Creators"
-    ],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "998310298efe",
-    "title": "The Download: Anthropic launches Claude Science, and California’s carbon manure math",
-    "url": "https://www.technologyreview.com/2026/07/01/1139996/the-download-anthropic-claude-science-california-carbon-manure/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-07-01T12:10:00+00:00",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Claude Science is Anthropic’s newest flagship product At an event for pharmaceutical executives, biotech founders, and researchers...",
-    "image_url": null,
-    "tags": [
-      "The Download"
-    ],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 12,
-    "also_covered_by": [
-      "TechCrunch AI"
-    ]
-  },
-  {
     "id": "583b34e6bb05",
     "title": "AHA taps state advocate as new CEO",
     "url": "https://www.healthcaredive.com/news/american-hospital-association-new-ceo-steve-walsh/824120/",
@@ -180,22 +178,19 @@
     "relevance_score": 12
   },
   {
-    "id": "43dddcb22ec5",
-    "title": "Evernorth Invests $100M for AI Specialty Pharmacy Program - MedCity News",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPOURPTk9pRjZ4UGc2T1Z6RUFyZ19YVmtzNVNhVF9NNFZwVWd4bFhRQXd3V0dsZjM5YmlwemFJUDVDWlNTb2w3bV9DU3ZfSERDWjB2REt2OFBmVjNSUWlaS2VBdXZSUVJ2QXdvR2NLanZXZFJIa2NEUEJ4NTJlQnBmdms3Y3BjWWFuNWV5SnV0Y0Jidmc?oc=5",
+    "id": "8ffaa680e548",
+    "title": "Five Reputable Home Medical Health Device Manufacturers in China 2026:Driving Innovation in Digital Healthcare Solutions - EIN Presswire",
+    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxQMkdPZzh0MkhCd1FvVlZCRWJUSTlvbUV0bjNVNEhPbHhoVzVQeHY0UTlyNHFLbXNSOGVkUzNBSkMxOTRFMEdtTEhnVzZtRW9GRjM4azFBVTFGZ1k5LTI1b0lBa2g3VldWckFsZlVkcS1NZWJLNGx2M29Gc2NHWFVaVmw2QmNGeFZ2dnh6OFZpc1daS1pOTm51LUM5dDBtVGwzaEV5VjFBZF9EaEhhNnZJRVp4ZDFYOW1Kc2dzem42V2FRUlBuMi0xQnJLNEpZc3dXbWxKQWZKU0NnZWFxd05meDNFOE14VnllRGhLbk83UkRGeWNFN2ExeHBMQQ?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-07-02T03:45:00+00:00",
-    "summary": "Evernorth Invests $100M for AI Specialty Pharmacy Program MedCity News",
+    "published": "2026-07-02T08:44:00+00:00",
+    "summary": "Five Reputable Home Medical Health Device Manufacturers in China 2026:Driving Innovation in Digital Healthcare Solutions EIN Presswire",
     "image_url": null,
     "tags": [],
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 12,
-    "also_covered_by": [
-      "Fierce Healthcare"
-    ]
+    "relevance_score": 12
   },
   {
     "id": "091d8e724dff",
@@ -233,23 +228,21 @@
     "relevance_score": 11
   },
   {
-    "id": "f311309e8207",
-    "title": "ACCESS Model: behavioral health edition",
-    "url": "https://www.fiercehealthcare.com/providers/access-model-behavioral-health-edition",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-01T09:34:00+00:00",
-    "summary": "A new payment model is designed to pay digital health companies based on outcomes in chronic condition management. But where does behavioral health fit? This episode explores that question with SonderMind and Headspace, two companies participating in the model's behavioral...",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Podnosis%20-%20Clean%20-%20Circles.png?VersionId=P6WR.swbxV29RDQqmw7ZPTKJ1UB.JxPq",
-    "tags": [],
+    "id": "8cb3d64cc665",
+    "title": "Binging With Babish Expands Into Meal Kits, Podcasting, and Hospitality",
+    "url": "https://www.adweek.com/media/binging-with-babish-andrew-rea-meal-kits-podcast/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-07-01T08:30:00+00:00",
+    "summary": "Andrew Rea is the latest YouTube creator to convert his audience into a diversified consumer business.",
+    "image_url": null,
+    "tags": [
+      "Influencers &amp; Creators"
+    ],
     "industries": [
-      "industrial",
       "lifesciences"
     ],
-    "relevance_score": 11,
-    "also_covered_by": [
-      "Health Tech"
-    ]
+    "relevance_score": 11
   },
   {
     "id": "09624458839a",
@@ -336,19 +329,33 @@
     "relevance_score": 10
   },
   {
-    "id": "8c10743b104c",
-    "title": "Bellevue Asset Management announces succession plan for the Bellevue Medtech & Services and Bellevue Digital Health strategies - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNV0pvN3pZc2taVmEyOUlmUENPRXNhLWVNenU1Nm8za2RvQnFaMFJhNDhIaHc4dGVoTnAxRkJiZDlheWVhQWNMcjZEN3BVRGgyTUdLOW56eEQtZURZNzYzRkd6SjN5OElNZFBPN3g4UGI3b0FRd2ZrRndGaU5HWHMwSXhvbHR0dmM3QlpJazBCcWJGR0dLRm9GUUNLQUQtQ3R4VjlqZW9MX2J0N1ZpUkZpaFBvRzIyaEV0WUdheFdzY2FvWDEtRUVndlYtWEh2b2dBcDJuSk5URkRxV0FnQ01QSlhJdmtRd0gwQ1BEVUpfbGRHUXYzZVlXRk1BSF9mQW5yazR5Q2toME9iZw?oc=5",
+    "id": "855044abb0c8",
+    "title": "SMART Zambia and Global Fund Explore Strategic Investment in Digital Health - TechAfrica News",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNdko4Rm85WHJyMEtpU0FrRk5KZEVBMEtBLXZuZUJfQVVFejJpMUVfYVBiUWl1czc2NzJQTmxNNmZPWkxiVDkzR2g2Wk9aQ0R4YlRIT3R1Z05CSGhQTk9veEY2NzA2WXdOeFpmMXdfbFphdW42R04xVE04bUV3aUtyUFVUVHQ2WEgwdUFweHBvMnlpdUhfOFA5N2UwbmFoaHdFQ1NFQmpzMGx6cG1RMlhVamItZzk?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-07-02T05:30:00+00:00",
-    "summary": "Bellevue Asset Management announces succession plan for the Bellevue Medtech & Services and Bellevue Digital Health strategies TradingView",
+    "published": "2026-07-02T07:21:31+00:00",
+    "summary": "SMART Zambia and Global Fund Explore Strategic Investment in Digital Health TechAfrica News",
     "image_url": null,
     "tags": [],
     "industries": [
-      "industrial",
       "lifesciences",
       "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "7224c7cca9f9",
+    "title": "Medicare's health tech spending test - Axios",
+    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE5XUXVPSTI5dXVwTFdnaDhfcU5CbUJqU2lYZ2VJd0hmR0IycWh6SWpqbDNBZzE4UFY3UURIdDdqOUtQS0pIQlY0bkU5bDE5eFF4enk1R09OVThvX0R5ejE3LU1LTzVXWF9LOTdHdUV2WTRHZk40Ry1j?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-02T09:40:11+00:00",
+    "summary": "Medicare's health tech spending test Axios",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
     ],
     "relevance_score": 10
   },
@@ -370,21 +377,38 @@
     "relevance_score": 9
   },
   {
-    "id": "7f5770bf8405",
-    "title": "Why Healthcare Organizations Need Business Analysts to Improve Care Delivery and Digital Transformation - The Guardian Nigeria News",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzJLSWZNdjl4RzdPSlltTlZsZHdSNGpzTGhRdDZ0MS1saEI4b21zVEM4RmlvYnhDdUJNOHE3M21BQUY2ZFB0NGkwTEIzQlJBSC14bGc1SUNURHlMZS0zb1NnUmdvNnVOdEdCVmZOS2M1Z1I5a18tYmp4YUFva2hrUUdnZnNrZUhlTlA1cmplRWJDa21IcVlDTVpNY1pRMmhrOVlkbWpDTUxxcTJmRXB4UnlhSE15OU5rZDlnM3FvNy1yaVlLeTB4cGJiSWw?oc=5",
-    "source": "Healthcare Digital",
+    "id": "31e5962bffa2",
+    "title": "Evernorth unveils new AI-powered specialty pharmacy program, Pharmacy Forward",
+    "url": "https://www.fiercehealthcare.com/payers/evernorth-unveils-new-ai-powered-specialty-pharmacy-program-pharmacy-forward",
+    "source": "Fierce Healthcare",
     "source_category": "industry_lifesciences",
-    "published": "2026-07-01T23:05:48+00:00",
-    "summary": "Why Healthcare Organizations Need Business Analysts to Improve Care Delivery and Digital Transformation The Guardian Nigeria News",
-    "image_url": null,
+    "published": "2026-06-30T17:18:00+00:00",
+    "summary": "Evernorth has unveiled a new specialty pharmacy program that leans on AI to support a better experience for patients with complex conditions.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2253861722.jpg?VersionId=rLQaOW33WtkNj59wky659InEQbiupf5z",
     "tags": [],
     "industries": [
-      "tech",
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 9
+  },
+  {
+    "id": "f311309e8207",
+    "title": "ACCESS Model: behavioral health edition",
+    "url": "https://www.fiercehealthcare.com/providers/access-model-behavioral-health-edition",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-01T09:34:00+00:00",
+    "summary": "A new payment model is designed to pay digital health companies based on outcomes in chronic condition management. But where does behavioral health fit? This episode explores that question with SonderMind and Headspace, two companies participating in the model's behavioral...",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Podnosis%20-%20Clean%20-%20Circles.png?VersionId=P6WR.swbxV29RDQqmw7ZPTKJ1UB.JxPq",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 9,
+    "also_covered_by": [
+      "Health Tech"
+    ]
   },
   {
     "id": "66770f5fd9a5",
@@ -403,17 +427,34 @@
   },
   {
     "id": "63e6a7f72662",
-    "title": "Health Check: It’s kid’s play as Imricor shares surge on follow-up FDA clearance - Stockhead",
+    "title": "Health Check: It’s child’s play as Imricor shares surge on follow-up FDA clearance - Stockhead",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdkNCNkU5RTVxalJDaXExSG9td3NVcHBENXllWUwxelNzeC1TTXdnd0ZkTFFqUmtjbnZuY0FyeTgwN0U0TkhwWFZXcENRbkxDNU5nUlBSVTZ3V3N4ZDVqSm5DeUltOFlfd3dhWVRsMGNMekxmTEcxMy1yNTVWR1RoeGdxR2d0UV9iZFR1eEJfc1B1VXc2UjBDakJsR2VZNmRqeVR2SjByQU41cHpLRVNF?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
     "published": "2026-07-02T02:59:10+00:00",
-    "summary": "Health Check: It’s kid’s play as Imricor shares surge on follow-up FDA clearance Stockhead",
+    "summary": "Health Check: It’s child’s play as Imricor shares surge on follow-up FDA clearance Stockhead",
     "image_url": null,
     "tags": [],
     "industries": [
       "industrial",
       "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "8c10743b104c",
+    "title": "Bellevue Asset Management announces succession plan for the Bellevue Medtech & Services and Bellevue Digital Health strategies - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiigJBVV95cUxNV0pvN3pZc2taVmEyOUlmUENPRXNhLWVNenU1Nm8za2RvQnFaMFJhNDhIaHc4dGVoTnAxRkJiZDlheWVhQWNMcjZEN3BVRGgyTUdLOW56eEQtZURZNzYzRkd6SjN5OElNZFBPN3g4UGI3b0FRd2ZrRndGaU5HWHMwSXhvbHR0dmM3QlpJazBCcWJGR0dLRm9GUUNLQUQtQ3R4VjlqZW9MX2J0N1ZpUkZpaFBvRzIyaEV0WUdheFdzY2FvWDEtRUVndlYtWEh2b2dBcDJuSk5URkRxV0FnQ01QSlhJdmtRd0gwQ1BEVUpfbGRHUXYzZVlXRk1BSF9mQW5yazR5Q2toME9iZw?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-02T05:30:00+00:00",
+    "summary": "Bellevue Asset Management announces succession plan for the Bellevue Medtech & Services and Bellevue Digital Health strategies TradingView",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences",
+      "financial"
     ],
     "relevance_score": 9
   },
@@ -452,37 +493,6 @@
     "relevance_score": 8
   },
   {
-    "id": "00c8e8578085",
-    "title": "A more connected approach for AI in healthcare",
-    "url": "https://www.healthcaredive.com/spons/a-more-connected-approach-for-ai-in-healthcare/822760/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-29T09:00:00+00:00",
-    "summary": "AI in healthcare is here. Learn how Dragon Copilot equips 100,000+ clinicians with tools that improve outcomes and streamline workflows.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "30da4de54151",
-    "title": "Quality should guide care, not just grade it",
-    "url": "https://www.healthcaredive.com/spons/quality-should-guide-care-not-just-grade-it/823356/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-29T09:00:00+00:00",
-    "summary": "How aligning on provider-level quality measurement becomes healthcare's best cost lever.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "42ae4a562224",
     "title": "How payers, drugmakers can collaborate to drive more outcomes-based contracts",
     "url": "https://www.fiercehealthcare.com/payers/how-payers-drugmakers-can-collaborate-drive-more-outcomes-based-contracts",
@@ -513,22 +523,6 @@
     "relevance_score": 8
   },
   {
-    "id": "c3098252c030",
-    "title": "Klick bags Oxford PharmaGenesis in 3rd takeover in 18 months - Fierce Pharma",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0tEODBFZ1RSRDZRUHpER1VVb2NMcXE1S0NsYTBkMzB2dWNMVXc4dVhyTHVKc1ZfdWNaNWg0clM1WjVzdDVhYm1Db3dYUnN0eHlCa21PNC1pWV85MHh2eE01RUZYaVhTZG1HLUhzQmpGMFQ0Skw0OFNnQ1VjVmZiZFBSSkxWTUlVd201ZHNITUZfWFYyc1Nkdw?oc=5",
-    "source": "Pharma Marketing",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-30T10:00:00+00:00",
-    "summary": "Klick bags Oxford PharmaGenesis in 3rd takeover in 18 months Fierce Pharma",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "61e349d0ff58",
     "title": "Can Digital Health Platforms Strengthen Not Replace The Doctor–patient Relationship? - BW Healthcare",
     "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMjlTUUppUzlSd2Z4Mk9jM3pBakoxWkRxS0M0dFFyUzB3YXlxNEk1Wm45ZEJHMWo2NVIxVEVwTUQ2U0sxaG13aDJOYlpxLTlmbXZkdmZSQ0I1Z1VmZXJkb2NtRXBiMTBRZG9yWTFnQW5yYkR4T0pkNU5ycDlwV1lWSFJHRHAwQ2ZSd2NsdlJocUlMczhzQ2t0T0ozakRidnhQYzBqWVFkS2l2VFFWcDVhTkxUdUJMWmhXLXoyU1FobmRYcE56M3FsZnllVFA?oc=5",
@@ -545,22 +539,6 @@
     "relevance_score": 8
   },
   {
-    "id": "49f6baa63467",
-    "title": "The experience gap in healthcare starts with an identity gap - Managed Healthcare Executive",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMzRlS1Y5ZjhQQlZrb05yaTNCQWFNdUozUHJfX2U0VTA4TXlzT3NlUzh2cmI1Ml9qcEJFMHlaMnc5cEgxYTl0YmMtVEZXQlRrOXBFQ2dpczJyTDQ1LWRRb3lJMVd6eGZLQU9NVjVYOXZrbFN3ZFNmeWE1elVDYm0yd2F4Y1NlaE51UUlONG5tM3F1YTBhbGozcUx0NzdOeVBHN3R5TlZROHBJWGZs?oc=5",
-    "source": "Healthcare Digital",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-01T15:10:25+00:00",
-    "summary": "The experience gap in healthcare starts with an identity gap Managed Healthcare Executive",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "01092d04df8b",
     "title": "Co-Designing Inclusive Digital Health Services for Chinese International Students in Australia: A Participatory Card-Deck Method - Springer Nature Link",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFB1OGs5V3FoLVFhUFJicVRaZm13a1lQaVVfQmtfSGl6X0ZqZE1wS2NZRWtBeVVCLXUwWG8xWC1WY3RaeEE0dzJ1eU8zS3Z0alJEODRzU3kyZWJVTmZXUkZZcUljb3pWV3ROVkY3VW1Vdw?oc=5",
@@ -571,6 +549,23 @@
     "image_url": null,
     "tags": [],
     "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "7f5770bf8405",
+    "title": "Why Healthcare Organizations Need Business Analysts to Improve Care Delivery and Digital Transformation - The Guardian Nigeria News",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPQzJLSWZNdjl4RzdPSlltTlZsZHdSNGpzTGhRdDZ0MS1saEI4b21zVEM4RmlvYnhDdUJNOHE3M21BQUY2ZFB0NGkwTEIzQlJBSC14bGc1SUNURHlMZS0zb1NnUmdvNnVOdEdCVmZOS2M1Z1I5a18tYmp4YUFva2hrUUdnZnNrZUhlTlA1cmplRWJDa21IcVlDTVpNY1pRMmhrOVlkbWpDTUxxcTJmRXB4UnlhSE15OU5rZDlnM3FvNy1yaVlLeTB4cGJiSWw?oc=5",
+    "source": "Healthcare Digital",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-01T23:05:48+00:00",
+    "summary": "Why Healthcare Organizations Need Business Analysts to Improve Care Delivery and Digital Transformation The Guardian Nigeria News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
       "industrial",
       "lifesciences"
     ],
@@ -609,6 +604,53 @@
     "relevance_score": 7
   },
   {
+    "id": "00c8e8578085",
+    "title": "A more connected approach for AI in healthcare",
+    "url": "https://www.healthcaredive.com/spons/a-more-connected-approach-for-ai-in-healthcare/822760/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-29T09:00:00+00:00",
+    "summary": "AI in healthcare is here. Learn how Dragon Copilot equips 100,000+ clinicians with tools that improve outcomes and streamline workflows.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "30da4de54151",
+    "title": "Quality should guide care, not just grade it",
+    "url": "https://www.healthcaredive.com/spons/quality-should-guide-care-not-just-grade-it/823356/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-29T09:00:00+00:00",
+    "summary": "How aligning on provider-level quality measurement becomes healthcare's best cost lever.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "c3098252c030",
+    "title": "Klick bags Oxford PharmaGenesis in 3rd takeover in 18 months - Fierce Pharma",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0tEODBFZ1RSRDZRUHpER1VVb2NMcXE1S0NsYTBkMzB2dWNMVXc4dVhyTHVKc1ZfdWNaNWg0clM1WjVzdDVhYm1Db3dYUnN0eHlCa21PNC1pWV85MHh2eE01RUZYaVhTZG1HLUhzQmpGMFQ0Skw0OFNnQ1VjVmZiZFBSSkxWTUlVd201ZHNITUZfWFYyc1Nkdw?oc=5",
+    "source": "Pharma Marketing",
+    "source_category": "industry_lifesciences",
+    "published": "2026-06-30T10:00:00+00:00",
+    "summary": "Klick bags Oxford PharmaGenesis in 3rd takeover in 18 months Fierce Pharma",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
     "id": "d266cb58bc38",
     "title": "JMIR News: AI Innovations, Digital Health Transformations, and New Medicare Models | Newswise - Newswise",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOZnlBLUt4VUVJeU5UZ01ZRG9VdFg3VnZGbVZQSDRMelFIM2IzcnVCSUNXQUN6R19nU3l3M2x2Qmw1Vk5CX3cxVUF0ZUl5VUFiZ2pwaVF4cW5WNTRQMnlfV09wZE5TQTVwQU5rQzNVWng1RGZKdmpwUy1jeE1TeHlDLWphRk9IX0tvdnJuQXkwaDBXQ1A0OHlabWxJalNqcTBzdXppSG5WNC1fQWs0RG1weTM0d9IBswFBVV95cUxOZnlBLUt4VUVJeU5UZ01ZRG9VdFg3VnZGbVZQSDRMelFIM2IzcnVCSUNXQUN6R19nU3l3M2x2Qmw1Vk5CX3cxVUF0ZUl5VUFiZ2pwaVF4cW5WNTRQMnlfV09wZE5TQTVwQU5rQzNVWng1RGZKdmpwUy1jeE1TeHlDLWphRk9IX0tvdnJuQXkwaDBXQ1A0OHlabWxJalNqcTBzdXppSG5WNC1fQWs0RG1weTM0dw?oc=5",
@@ -634,6 +676,22 @@
     "image_url": null,
     "tags": [],
     "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "49f6baa63467",
+    "title": "The experience gap in healthcare starts with an identity gap - Managed Healthcare Executive",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNMzRlS1Y5ZjhQQlZrb05yaTNCQWFNdUozUHJfX2U0VTA4TXlzT3NlUzh2cmI1Ml9qcEJFMHlaMnc5cEgxYTl0YmMtVEZXQlRrOXBFQ2dpczJyTDQ1LWRRb3lJMVd6eGZLQU9NVjVYOXZrbFN3ZFNmeWE1elVDYm0yd2F4Y1NlaE51UUlONG5tM3F1YTBhbGozcUx0NzdOeVBHN3R5TlZROHBJWGZs?oc=5",
+    "source": "Healthcare Digital",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-01T15:10:25+00:00",
+    "summary": "The experience gap in healthcare starts with an identity gap Managed Healthcare Executive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 7
@@ -746,21 +804,6 @@
     "tags": [],
     "industries": [
       "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "0d09b849ff1b",
-    "title": "Viridian debuts on market with FDA greenlight for thyroid eye disease drug - BioSpace",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNMWRvY2lCeXU2ZjFwazNvZkJwMjlRdlc3NUxXZmtCVUZtbXZGeWlPbHplb3NacmtkUlczeklDMTFDUGpxekRNTmxtQ29OWkFaRE5BV0pUajlOTkwzYTJITlZ2T3k5VTZLcGR4aWlBM3FFbGdmb1hSZjhGbFRkeXhGQnlkLXJqajh0TGRHODMtQzZzZUZXMHhRR09EOTNkNTRYd2d5V3p3?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-29T12:01:09+00:00",
-    "summary": "Viridian debuts on market with FDA greenlight for thyroid eye disease drug BioSpace",
-    "image_url": null,
-    "tags": [],
-    "industries": [
       "lifesciences"
     ],
     "relevance_score": 5
