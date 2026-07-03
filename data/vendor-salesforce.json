@@ -28,21 +28,6 @@
     "relevance_score": 40
   },
   {
-    "id": "ae10f1dc43bb",
-    "title": "What Does It Actually Look Like When AI Handles Order Servicing?",
-    "url": "https://www.salesforce.com/blog/agentic-order-servicing/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-30T17:24:25+00:00",
-    "summary": "There’s a lot of talk about how AI agents will transform order support, making the customer journey more enjoyable and reducing call center costs for businesses. But for many operations and customer service…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/inventory-mgmt-marquee-1.webp",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 28
-  },
-  {
     "id": "5f2e63c18674",
     "title": "Have You Tried Immersive Marketing? Your Prospects Are Waiting",
     "url": "https://www.salesforce.com/blog/small-business/immersive-marketing/",
@@ -58,17 +43,19 @@
     "relevance_score": 28
   },
   {
-    "id": "f4dfa14bce1d",
-    "title": "The 4 Essentials to Bring Vibe Coding to Your Enterprise",
-    "url": "https://www.salesforce.com/blog/enterprise-vibe-coding/",
+    "id": "ae10f1dc43bb",
+    "title": "What Does It Actually Look Like When AI Handles Order Servicing?",
+    "url": "https://www.salesforce.com/blog/agentic-order-servicing/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-07-02T19:35:26+00:00",
-    "summary": "While intent-based development dramatically accelerates workflows, not all vibe coding tools are built with the same enterprise-grade security and guardrails.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_856201614.webp",
+    "published": "2026-06-30T17:24:25+00:00",
+    "summary": "There’s a lot of talk about how AI agents will transform order support, making the customer journey more enjoyable and reducing call center costs for businesses. But for many operations and customer service…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/inventory-mgmt-marquee-1.webp",
     "tags": [],
-    "industries": [],
-    "relevance_score": 13
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 25
   },
   {
     "id": "01963e6b9635",
@@ -79,6 +66,19 @@
     "published": "2026-07-01T15:00:00+00:00",
     "summary": "Representing 19 countries across six continents, the 2026 Architect Ambassador cohort will help architects around the world learn, connect, and grow by bringing Salesforce architecture best practices into local and virtual communities.",
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/ambassador-option-2.png",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 11
+  },
+  {
+    "id": "f4dfa14bce1d",
+    "title": "The 4 Essentials to Bring Vibe Coding to Your Enterprise",
+    "url": "https://www.salesforce.com/blog/enterprise-vibe-coding/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-02T19:35:26+00:00",
+    "summary": "While intent-based development dramatically accelerates workflows, not all vibe coding tools are built with the same enterprise-grade security and guardrails.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_856201614.webp",
     "tags": [],
     "industries": [],
     "relevance_score": 11
@@ -113,21 +113,6 @@
     "relevance_score": 10
   },
   {
-    "id": "70d6bbf1ad8e",
-    "title": "Asking for a Friend: What’s the Difference Between Email Delivery and Email Deliverability?",
-    "url": "https://www.salesforce.com/blog/email-delivery-versus-deliverability/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-01T20:25:16+00:00",
-    "summary": "We cut through the noise to explain these terms and the latest changes in the email space",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_355794354.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
     "id": "19d29bfa0128",
     "title": "Is Your Business Caught in the App Trap?",
     "url": "https://www.salesforce.com/blog/small-business/the-app-trap/",
@@ -153,6 +138,21 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/AdobeStock_1923652523.png",
     "tags": [],
     "industries": [],
+    "relevance_score": 8
+  },
+  {
+    "id": "70d6bbf1ad8e",
+    "title": "Asking for a Friend: What’s the Difference Between Email Delivery and Email Deliverability?",
+    "url": "https://www.salesforce.com/blog/email-delivery-versus-deliverability/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-01T20:25:16+00:00",
+    "summary": "We cut through the noise to explain these terms and the latest changes in the email space",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_355794354.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
     "relevance_score": 8
   },
   {
