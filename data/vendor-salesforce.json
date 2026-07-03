@@ -1,18 +1,5 @@
 [
   {
-    "id": "3d7b6706bda6",
-    "title": "What Does CRM Do That AI Can’t?",
-    "url": "https://www.salesforce.com/blog/small-business/crm-and-ai/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-03T13:00:00+00:00",
-    "summary": "Why can’t AI just do what CRM does? Good question. Here are some answers for you.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_12e731.png",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 43
-  },
-  {
     "id": "548b90a6296b",
     "title": "Extend Data 360 with the Power of Code: Introducing Code Extension",
     "url": "https://www.salesforce.com/blog/extend-data-360-with-the-power-of-code-introducing-code-extension/",
@@ -26,6 +13,19 @@
       "industrial"
     ],
     "relevance_score": 42
+  },
+  {
+    "id": "3d7b6706bda6",
+    "title": "What Does CRM Do That AI Can’t?",
+    "url": "https://www.salesforce.com/blog/small-business/crm-and-ai/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-03T13:00:00+00:00",
+    "summary": "Why can’t AI just do what CRM does? Good question. Here are some answers for you.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_12e731.png",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 40
   },
   {
     "id": "ae10f1dc43bb",
@@ -81,7 +81,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/ambassador-option-2.png",
     "tags": [],
     "industries": [],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "4681b437385d",
@@ -89,7 +89,7 @@
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWmxaUE5LMWRBUVlzUGE5aEUwcS1tTG5EaE9FMnRLdElGUzNpcEpjWDBXajdBTXhJZ1NTMmE2N2JlREZEbjhqenB2SzhRYjA3MnJMQ2VmT2pJbjd3Y1BqbWF5cTVsWUNJNEpnREYtZHlxVFJFa0FtV0tqLU1BOVFMOW5XTHpMZEpBR19lbTVsYzQ4WXNqS01rVQ?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-07-03T08:19:43+00:00",
+    "published": "2026-07-03T08:25:40+00:00",
     "summary": "Big CX News from Salesforce, HubSpot, Genesys & Microsoft CX Today",
     "image_url": null,
     "tags": [],
@@ -97,7 +97,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "560d7265fa12",
@@ -111,19 +111,6 @@
     "tags": [],
     "industries": [],
     "relevance_score": 10
-  },
-  {
-    "id": "6d5977f0762c",
-    "title": "Navigating Risk: How Trusted Services Power a Modern GRC Strategy",
-    "url": "https://www.salesforce.com/blog/grc-strategy/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-01T15:01:50+00:00",
-    "summary": "Balance innovation with regulatory compliance by building a proactive Governance, Risk, and Compliance (GRC) framework.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/AdobeStock_1923652523.png",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 9
   },
   {
     "id": "70d6bbf1ad8e",
@@ -156,19 +143,17 @@
     "relevance_score": 9
   },
   {
-    "id": "051c5ddf234b",
-    "title": "Optimizing seller workflow with Agentforce Revenue Management - RSM",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMnFDbjgyS0Z0NDZVZkdhTXNKQlQ2VVhwbDROWnd6T2Y5M3JiajVsVVNmSVc4UDBDUkJGZ1NZV1VXdU80RlNlTjRZSk8yWF9XMzhVQ19KU1gwN2p0WG5zV1EzYW92NkxGYWhfRk8zem9LVGZxNG9UX3lRMkg3bVdraXdOZzBwT09SUEZZT3lPOGRkUmgzbmxrcWhlMjJZXzRGcUNjcno2Y21Ma3dDempR?oc=5",
-    "source": "Salesforce AI",
+    "id": "6d5977f0762c",
+    "title": "Navigating Risk: How Trusted Services Power a Modern GRC Strategy",
+    "url": "https://www.salesforce.com/blog/grc-strategy/",
+    "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-06-30T16:03:47+00:00",
-    "summary": "Optimizing seller workflow with Agentforce Revenue Management RSM",
-    "image_url": null,
+    "published": "2026-07-01T15:01:50+00:00",
+    "summary": "Balance innovation with regulatory compliance by building a proactive Governance, Risk, and Compliance (GRC) framework.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/AdobeStock_1923652523.png",
     "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 7
+    "industries": [],
+    "relevance_score": 8
   },
   {
     "id": "b8f6c0cf843b",
@@ -178,6 +163,21 @@
     "source_category": "salesforce",
     "published": "2026-06-29T15:53:07+00:00",
     "summary": "Salesforce Makes Agentforce Commerce Generally Available Ahead of Peak Season CX Today",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "051c5ddf234b",
+    "title": "Optimizing seller workflow with Agentforce Revenue Management - RSM",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQMnFDbjgyS0Z0NDZVZkdhTXNKQlQ2VVhwbDROWnd6T2Y5M3JiajVsVVNmSVc4UDBDUkJGZ1NZV1VXdU80RlNlTjRZSk8yWF9XMzhVQ19KU1gwN2p0WG5zV1EzYW92NkxGYWhfRk8zem9LVGZxNG9UX3lRMkg3bVdraXdOZzBwT09SUEZZT3lPOGRkUmgzbmxrcWhlMjJZXzRGcUNjcno2Y21Ma3dDempR?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-06-30T16:03:47+00:00",
+    "summary": "Optimizing seller workflow with Agentforce Revenue Management RSM",
     "image_url": null,
     "tags": [],
     "industries": [
