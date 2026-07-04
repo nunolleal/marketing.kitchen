@@ -37,63 +37,6 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 12
-  },
-  {
-    "id": "88ecdef43c05",
-    "title": "Anthropic wants to develop its own drugs",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/961311/anthropic-claude-science-ai-drug-development",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-03T13:56:52+00:00",
-    "summary": "At the event \"The Briefing: AI for Science\" earlier this week, Anthropic announced Claude Science, a new \"AI workbench for scientists\" that pulls fragmented tools and datasets into one environment, and generates figures and visuals. Anthropic, already dominating the industry...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STKB364_CLAUDE_2_A_3800fc-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "Health",
-      "Report",
-      "Science"
-    ],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "70c69682ae4e",
-    "title": "Medicare slashes 340B payments, broadens site-neutral policies in proposed 2027 payment rule",
-    "url": "https://www.healthcaredive.com/news/regulators-propose-slashing-340b-payments-broadening-site-neutral-policies-2027/824312/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-02T13:14:31+00:00",
-    "summary": "The rule, released Thursday, builds on Trump administration’s priorities, including cutting Medicare reimbursement for drugs in the controversial 340B program and equalizing payment between sites of care.",
-    "image_url": "https://imgproxy.divecdn.com/5RHqNDZFgUFfignT5rqVP6ETVGApAb__iAS5G4tEp8E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA1OTA4MDM3LmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "lifesciences",
-      "financial"
-    ],
-    "relevance_score": 11,
-    "also_covered_by": [
-      "Fierce Healthcare"
-    ]
-  },
-  {
-    "id": "2cf43fc249a2",
-    "title": "Allegheny Health Network, Heritage Valley finalize combination in Pennsylvania",
-    "url": "https://www.healthcaredive.com/news/allegheny-health-network-heritage-valley-health-system-merger-pennsylvania/824343/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-02T14:47:30+00:00",
-    "summary": "The deal brings Highmark Health-owned AHN’s hospital count to 16. The combined system will invest about $285 million over the next decade to bolster Heritage Valley’s facilities.",
-    "image_url": "https://imgproxy.divecdn.com/G-HFhslalkjWYWycFooIYIIfzIOjF3GUJ-crRHOqBHQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbGxlZ2hlbnktSGVhbHRoLU5ldHdvcmstSW1hZ2UuanBn.webp",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
     "relevance_score": 11
   },
   {
@@ -149,6 +92,41 @@
     "relevance_score": 10
   },
   {
+    "id": "70c69682ae4e",
+    "title": "Medicare slashes 340B payments, broadens site-neutral policies in proposed 2027 payment rule",
+    "url": "https://www.healthcaredive.com/news/regulators-propose-slashing-340b-payments-broadening-site-neutral-policies-2027/824312/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-02T13:14:31+00:00",
+    "summary": "The rule, released Thursday, builds on Trump administration’s priorities, including cutting Medicare reimbursement for drugs in the controversial 340B program and equalizing payment between sites of care.",
+    "image_url": "https://imgproxy.divecdn.com/5RHqNDZFgUFfignT5rqVP6ETVGApAb__iAS5G4tEp8E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjA1OTA4MDM3LmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "lifesciences",
+      "financial"
+    ],
+    "relevance_score": 10,
+    "also_covered_by": [
+      "Fierce Healthcare"
+    ]
+  },
+  {
+    "id": "2cf43fc249a2",
+    "title": "Allegheny Health Network, Heritage Valley finalize combination in Pennsylvania",
+    "url": "https://www.healthcaredive.com/news/allegheny-health-network-heritage-valley-health-system-merger-pennsylvania/824343/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-02T14:47:30+00:00",
+    "summary": "The deal brings Highmark Health-owned AHN’s hospital count to 16. The combined system will invest about $285 million over the next decade to bolster Heritage Valley’s facilities.",
+    "image_url": "https://imgproxy.divecdn.com/G-HFhslalkjWYWycFooIYIIfzIOjF3GUJ-crRHOqBHQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbGxlZ2hlbnktSGVhbHRoLU5ldHdvcmstSW1hZ2UuanBn.webp",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "5046e892a44e",
     "title": "The FDA Ruled That ZYN Pouches Are Safer Than Cigarettes. That Doesn’t Mean They’re Safe",
     "url": "https://www.wired.com/story/the-fda-ruled-that-zyn-pouches-are-safer-than-cigarettes-that-doesnt-mean-theyre-safe/",
@@ -170,19 +148,20 @@
     "relevance_score": 10
   },
   {
-    "id": "583b34e6bb05",
-    "title": "AHA taps state advocate as new CEO",
-    "url": "https://www.healthcaredive.com/news/american-hospital-association-new-ceo-steve-walsh/824120/",
-    "source": "Healthcare Dive",
+    "id": "5cc314b48cbf",
+    "title": "Researcher urges inclusive digital health design for older adults - Vanguard News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPTWRsbFl2b1BPQ2hET2MyRVdadTNDaC1ON3VJdFVJWWh5ekFYWTlkNmpSLTZweVR3Qnp6RU1MemxmbVAwcFFfOWZTUTRtSndYOWhacEV2T0dINlBmX1lRekczSlFBM001aDh6NG9hbWR6RzRiN3JLRE1aUmtFcmpYNUtDTGFFckxrNEpPZnpoa19zRzRPT1A4aE9Vbk9Bbmx6UW1rX9IBqgFBVV95cUxPRnVqYzNvUFB5MnhsZVNscmpLN2N5ODlPM3dEZVF0WG9zcDhRbnBOaHliaW5JemJBODh3ajlWYm1HM3M2anllR09HZzExNlhHcV9HYjZ4V3YxUUhkNks5SHZvSzFiWVQyaXBSZjFmNExkVDB4ZnltVDlFVl9QbWgtX1VPRzNJTkEtU1VodUs2VmUxZ1NWUDlwalJKWE5JYWI5bWl5b3pQUjduQQ?oc=5",
+    "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-07-01T13:54:32+00:00",
-    "summary": "Steve Walsh, the CEO of a Massachusetts hospital group, will assume the top role in the early fall, after the AHA’s longtime leader Rick Pollack retires.",
-    "image_url": "https://imgproxy.divecdn.com/yDmJl12CyUIaXBvzoob-qFe7EUdW-T6whB83iDy0HpA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDg5MDI1OTI0LmpwZw==.webp",
+    "published": "2026-07-04T14:24:02+00:00",
+    "summary": "Researcher urges inclusive digital health design for older adults Vanguard News",
+    "image_url": null,
     "tags": [],
     "industries": [
+      "industrial",
       "lifesciences"
     ],
-    "relevance_score": 9
+    "relevance_score": 10
   },
   {
     "id": "85dba52e3434",
@@ -203,35 +182,17 @@
     "relevance_score": 9
   },
   {
-    "id": "002c1696b659",
-    "title": "Fewer health information exchanges say they experience info blocking",
-    "url": "https://www.healthcaredive.com/news/fewer-health-information-exchanges-information-blocking-onc/824257/",
-    "source": "Healthcare Dive",
+    "id": "602b6d12979f",
+    "title": "Vertex (VRTX) Just Won FDA Approval To Treat 5,500 More Young Children - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxORTB2VF85UFpMRkJDR2xXb09LSGI1SlRKVDdhT0YwYnhfWG1lNjBCd0ZoaEsxZTRCRUhwMXZOYm5ydlFrQlFrLXlqTG9yMDVWTmJqM2dST2tYdEE1TFJSNVdXNEdPRTB6UHF0aVp5aFAwajdRTGs5TXlOTTFOMzFMVkVvQnJxQWZuWl9KRzNhM2FTUGtCeHNwVWpnNWRGTzMyeG8ycVZEV2cxcmJOZGRGZGxiaU9FSEhFeG1PNEJMeU5Cc05ZSEVBeGg5ZjVXNVZ2a3NVYzlEVktuSU03d1dKYklueGhZOF9nOHkxd9IB8gFBVV95cUxQQVpjOGxMWTFfa1VtUC1UbllVTkl6WGZNRGRYUmhZS2xsQTZTMy1aODJTMld0cnhpUk9EcUgwekIzcFpzcGJqcC1mUVlvWmY0aDJpeWlRdDZKa0dmTFhqYzl1SklMVC1BQVIwbUphMi01OUY2dkxHdFFrWDFtdlVzbElEb3NMRldNLVVqaF93d19UOVJrQ2ZUNHpiVU4wcTM0WlpuRTFQejJkdHlfUmtDZmpyckVVRGlXd2FObUlzNkE4YTZKTEdBcjNocmt4Z3Y5OGFfaXBoSjdQYzRacVNQU284N0tiOUhiLUdrV0otdW9Idw?oc=5",
+    "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-07-02T16:32:00+00:00",
-    "summary": "Fewer companies may be impeding the flow of digital health information, but some could be doing so frequently, the ONC said.",
-    "image_url": "https://imgproxy.divecdn.com/Klfd4D-nqEeWa0BAiSKhE8njNpO8J40BdG3IfmElf5k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzUzMzU3NDEwLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 9,
-    "also_covered_by": [
-      "Health Tech"
-    ]
-  },
-  {
-    "id": "5e7f64ea279f",
-    "title": "Borderplex Connect receives $200,000 to expand digital health training - El Paso Inc.",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd3AxMmZDSjhlcXdoNXVMSktCOHlqaHdIX25Gc2ZldnFyYjNYQ3ltX1JDeVpiUUF5Y0tqOHlHQVJZeHZGS0daeW1aUXY3QUdFb1hIVkRHcE03aFRCZUgxSEdFNjU0d1lyTWIxajFSc3JCNTRpcHo2MHhGMGtBUGpvTmI1RkFBdmxCejRrSERFM0Z5SWFTRGlxd0hBVVF2Wk9RM0kyOUxKOUJuQWptZkRIbkJHY3MwSkpZNDRjZEpQa0ZWNHM0cElzU3lCbXdWMnRKVXZ3Qk9jN1RTVzF6UGEybjVHdw?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-03T14:00:00+00:00",
-    "summary": "Borderplex Connect receives $200,000 to expand digital health training El Paso Inc.",
+    "published": "2026-07-03T18:52:37+00:00",
+    "summary": "Vertex (VRTX) Just Won FDA Approval To Treat 5,500 More Young Children simplywall.st",
     "image_url": null,
     "tags": [],
     "industries": [
+      "tech",
       "lifesciences"
     ],
     "relevance_score": 9
@@ -322,6 +283,40 @@
     "relevance_score": 8
   },
   {
+    "id": "583b34e6bb05",
+    "title": "AHA taps state advocate as new CEO",
+    "url": "https://www.healthcaredive.com/news/american-hospital-association-new-ceo-steve-walsh/824120/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-01T13:54:32+00:00",
+    "summary": "Steve Walsh, the CEO of a Massachusetts hospital group, will assume the top role in the early fall, after the AHA’s longtime leader Rick Pollack retires.",
+    "image_url": "https://imgproxy.divecdn.com/yDmJl12CyUIaXBvzoob-qFe7EUdW-T6whB83iDy0HpA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDg5MDI1OTI0LmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "002c1696b659",
+    "title": "Fewer health information exchanges say they experience info blocking",
+    "url": "https://www.healthcaredive.com/news/fewer-health-information-exchanges-information-blocking-onc/824257/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-02T16:32:00+00:00",
+    "summary": "Fewer companies may be impeding the flow of digital health information, but some could be doing so frequently, the ONC said.",
+    "image_url": "https://imgproxy.divecdn.com/Klfd4D-nqEeWa0BAiSKhE8njNpO8J40BdG3IfmElf5k/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzUzMzU3NDEwLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 8,
+    "also_covered_by": [
+      "Health Tech"
+    ]
+  },
+  {
     "id": "7f830de3aa9b",
     "title": "Haleon and Microsoft Expand AI Partnership for Health Tech - Healthcare Digital",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQNEo5Y2o0M1Q0VXd6VUdmQW43UVQxNnh6MVBlUUhjNHJvbEh6MnZuRVRLLXVpb2UyLUVMYjQ5UGpRaktJSnhESnQ5cnZNcUZyOGRHdXhRT1ZLNGZIVXMyNTREaVJWNDBDa2NIYkh0a2VGaWV0UHoxTThpNHpWd1ZkLW53cmdMcUlmVXlHcHZ6c2lWbk9lOWNRbm1B?oc=5",
@@ -333,6 +328,21 @@
     "tags": [],
     "industries": [
       "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "5e7f64ea279f",
+    "title": "Borderplex Connect receives $200,000 to expand digital health training - El Paso Inc.",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNd3AxMmZDSjhlcXdoNXVMSktCOHlqaHdIX25Gc2ZldnFyYjNYQ3ltX1JDeVpiUUF5Y0tqOHlHQVJZeHZGS0daeW1aUXY3QUdFb1hIVkRHcE03aFRCZUgxSEdFNjU0d1lyTWIxajFSc3JCNTRpcHo2MHhGMGtBUGpvTmI1RkFBdmxCejRrSERFM0Z5SWFTRGlxd0hBVVF2Wk9RM0kyOUxKOUJuQWptZkRIbkJHY3MwSkpZNDRjZEpQa0ZWNHM0cElzU3lCbXdWMnRKVXZ3Qk9jN1RTVzF6UGEybjVHdw?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-03T14:00:00+00:00",
+    "summary": "Borderplex Connect receives $200,000 to expand digital health training El Paso Inc.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
       "lifesciences"
     ],
     "relevance_score": 8
@@ -485,21 +495,6 @@
     "relevance_score": 7
   },
   {
-    "id": "40b919a05b8f",
-    "title": "Digital diabetes tool shown to improve patient care and cut health care costs - Medical Xpress",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdVhLTmlORVBTOWp0V0xpR2ZSOWtocUUzb2NZcThKYkR0Y0xUZllJT2F1Y1JyVGFLUkdIX1BSY19ZaDlrcHduYWN2bjFrOVJJbW5SeXk4eld3QU5QZkg1V0tqbkgwem03Vkdwd1NnUWl6ZkJrdDJDT0F5Y052Z2xVZGoxUGh2QQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-03T13:20:05+00:00",
-    "summary": "Digital diabetes tool shown to improve patient care and cut health care costs Medical Xpress",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 7
-  },
-  {
     "id": "c3098252c030",
     "title": "Klick bags Oxford PharmaGenesis in 3rd takeover in 18 months - Fierce Pharma",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOM0tEODBFZ1RSRDZRUHpER1VVb2NMcXE1S0NsYTBkMzB2dWNMVXc4dVhyTHVKc1ZfdWNaNWg0clM1WjVzdDVhYm1Db3dYUnN0eHlCa21PNC1pWV85MHh2eE01RUZYaVhTZG1HLUhzQmpGMFQ0Skw0OFNnQ1VjVmZiZFBSSkxWTUlVd201ZHNITUZfWFYyc1Nkdw?oc=5",
@@ -507,22 +502,6 @@
     "source_category": "industry_lifesciences",
     "published": "2026-06-30T10:00:00+00:00",
     "summary": "Klick bags Oxford PharmaGenesis in 3rd takeover in 18 months Fierce Pharma",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "3a0c79b723a2",
-    "title": "FDA clearance triggers $1.15M payment for Conavi Medical - Cardiovascular Business",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxQOTZCMnFwRjZ0RS1UQ2Z5aXVicGFvODEzVUgtdnB6RXBjU1p3Z2JQak40M3dORlVKbWh4MFlUZm94aGd2aXdpUEl1N1hhSGJzY3V4UE9XZjNMekdiODd1M29fZklhSnkweFp1R2FTcFp1MkEzMmVuTmt6RlNxV0ZVY0xmdkd0YXE0clppOWoxVklMbnhvVUJ3Q2xSbnB4S0dDUE93RzlWNkRFdmsyQUhHbVhDeWJaOEpWd0N0T2tPbGFoYjhIVGc?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-30T16:48:59+00:00",
-    "summary": "FDA clearance triggers $1.15M payment for Conavi Medical Cardiovascular Business",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -549,13 +528,13 @@
     "relevance_score": 6
   },
   {
-    "id": "0b589ef34e48",
-    "title": "FDA news in pediatrics: June 2026 - Contemporary Pediatrics",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNT1pqUi1IVVdub296VWtFZGNydndZQkJSc19qSzVqR2U5aDNzcm11TGo3MDgwSUxXb010VGtuODJNd1ZHQlZkVnUxNG0yaTNYUzhzeWtqNGZSLW1ZeVNPdjJKcnFadnFVbmdMQjNpZ2pOdi1PZERIXzIxVEtaZi16OEVn?oc=5",
+    "id": "9ea77b59076c",
+    "title": "ZYUS Life Sciences Corporation Announces Closing of Fifth Tranche of Secured Loan Financing - Newswire Canada",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPakhGaTNzcHpoZjFGcWpJMGlJbjdERElFeUw1SFdmWlNjM3F4TjBkLTE0LVhUZGhhdHhlZU1HTkRvclhQQUFfaVdoN2hBbWNFTklJZmp5SG1aVkZTSDNvRXZIVG1wLVJHMFZJQVA3Q05SLW9abTN5aTV0NTJnWUF4akdKbWpwdDhRdjgydVRSUEdsOWQ5Z2JWSXZaZzFvZTV4cnVXVTU3NjhERW5qbGJSVmo4VjhpRFNmQ3Bmb1VRaEFVc0otOF9wSUpBV2FfQjdLOGcxRjVMRlV3SWVV?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-07-02T11:15:32+00:00",
-    "summary": "FDA news in pediatrics: June 2026 Contemporary Pediatrics",
+    "published": "2026-07-03T03:10:00+00:00",
+    "summary": "ZYUS Life Sciences Corporation Announces Closing of Fifth Tranche of Secured Loan Financing Newswire Canada",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -564,18 +543,16 @@
     "relevance_score": 6
   },
   {
-    "id": "d844fcc75278",
-    "title": "FDA expands Casgevy approval to children as young as two - The Pharma Letter",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPOEYtMm1jN0NPc2k1MWVkNkFUZWk3Nm8tTEdxczhEYlpkdGo4NzR4SHY5OVI2dkM1V1lRbk1CS1ZYNjBQeDRoTkZMbGRYRjh6MXU2aVBtbTJGRDZqajhCNlc2eGJXTGFXRnV5Y2tsT2Y1b3NaUURVZGw2bXZFNGxkeWhsOE0wT0RndFVmR0huOXB4TW5KLWhqb3VrN19QV3RERWZR?oc=5",
-    "source": "Biotech",
+    "id": "40b919a05b8f",
+    "title": "Digital diabetes tool shown to improve patient care and cut health care costs - Medical Xpress",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPdVhLTmlORVBTOWp0V0xpR2ZSOWtocUUzb2NZcThKYkR0Y0xUZllJT2F1Y1JyVGFLUkdIX1BSY19ZaDlrcHduYWN2bjFrOVJJbW5SeXk4eld3QU5QZkg1V0tqbkgwem03Vkdwd1NnUWl6ZkJrdDJDT0F5Y052Z2xVZGoxUGh2QQ?oc=5",
+    "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-07-02T13:37:11+00:00",
-    "summary": "FDA expands Casgevy approval to children as young as two The Pharma Letter",
+    "published": "2026-07-03T13:20:05+00:00",
+    "summary": "Digital diabetes tool shown to improve patient care and cut health care costs Medical Xpress",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 6
@@ -608,39 +585,6 @@
     "image_url": null,
     "tags": [],
     "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "0c04bf0984e4",
-    "title": "China approved the first solid tumor CAR-T. Will the US follow? - Fierce Biotech",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxPTHFHZVV2SGp2V2ktQWxpSmd4T0dYZ3ZtTllaRUVEb1RPNE03OEI5N2lmZGk5WC1NNk5wVjU0QnR0UWhsN3BZd21zbXBlZUkzTmFWeVMtTWswNW1VRGVocFhkazJ0NThtZFRSaDFPajh1V0hKbk1ZNkhoUm9aUzNZbVJBckYxaTg3VlY1UFlUa0ROMHNzZ19vUnNJbm5PM21GZVNhR3ZCdXU4UGNXMTVXLXZB?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-30T14:00:00+00:00",
-    "summary": "China approved the first solid tumor CAR-T. Will the US follow? Fierce Biotech",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "9a87db0c4470",
-    "title": "Sarepta’s FDA decision date; Flare gets Anna Protopapas as CEO - Endpoints News",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOZUZiUDNzNHMtVVUxVnJkWHV3SzlYeUdXRmExNUZjUDRaTWlMczdrT1dnVWViU3NWb2VQYXNaaG5zUHh3dEtmTGdYSTlxRGJBYm16TUo4NDlHb2dyNXl4eXFwTlRNNUtMS2FQN1dYcDBYeUU1SVlVTy1oMzJqS3dFanJYTnRCZzNXc2U5Mg?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-06-30T14:43:00+00:00",
-    "summary": "Sarepta’s FDA decision date; Flare gets Anna Protopapas as CEO Endpoints News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 5
@@ -737,21 +681,6 @@
     "industries": [
       "tech",
       "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "41fcb37a058e",
-    "title": "Peak Rock scoops up health tech firm Asembia - pehub.com",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE02bEFkMEtkTVR5ekNkWHZEaXh3ZHpmRi1Xd1hCZGM2V0Q3LXc4ckFuNFJNdTVWWndma1VvM09UdXR4TlF3aFBWZ25kUTZXTk9yMFlSTHE0MC03SnVRUVQ5N0syaDBPQ2ZDdEpBWV9xMTRqS3A1YXc?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-02T07:37:34+00:00",
-    "summary": "Peak Rock scoops up health tech firm Asembia pehub.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
       "lifesciences"
     ],
     "relevance_score": 5
