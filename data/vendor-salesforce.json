@@ -46,34 +46,6 @@
     "relevance_score": 35
   },
   {
-    "id": "3d7b6706bda6",
-    "title": "What Does CRM Do That AI Can’t?",
-    "url": "https://www.salesforce.com/blog/small-business/crm-and-ai/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-03T13:00:00+00:00",
-    "summary": "Why can’t AI just do what CRM does? Good question. Here are some answers for you.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_12e731.png",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 27
-  },
-  {
-    "id": "ae10f1dc43bb",
-    "title": "What Does It Actually Look Like When AI Handles Order Servicing?",
-    "url": "https://www.salesforce.com/blog/agentic-order-servicing/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-06-30T17:24:25+00:00",
-    "summary": "There’s a lot of talk about how AI agents will transform order support, making the customer journey more enjoyable and reducing call center costs for businesses. But for many operations and customer service…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/inventory-mgmt-marquee-1.webp",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 25
-  },
-  {
     "id": "5f2e63c18674",
     "title": "Have You Tried Immersive Marketing? Your Prospects Are Waiting",
     "url": "https://www.salesforce.com/blog/small-business/immersive-marketing/",
@@ -89,13 +61,41 @@
     "relevance_score": 25
   },
   {
-    "id": "cabc2632d75f",
-    "title": "Salesforce broadens Agentforce AI rollout - Tech in Asia",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9USS1yMlVqZ21UUXloWGFUck1lMGtMb2s2U19qX2dGWmtDcmRDQzctMEI2RkRFOWtUQXdXOG1XdWJZTXFCa3VtWjg0VkdMMk5yVlp5eDlxSUVtOU56S2JMUmI5LUFmdTRJQ045cjdLV1M2R05pc00tNVhBU1R6Zw?oc=5",
+    "id": "3d7b6706bda6",
+    "title": "What Does CRM Do That AI Can’t?",
+    "url": "https://www.salesforce.com/blog/small-business/crm-and-ai/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-03T13:00:00+00:00",
+    "summary": "Why can’t AI just do what CRM does? Good question. Here are some answers for you.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_12e731.png",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 24
+  },
+  {
+    "id": "b9f309882902",
+    "title": "Launching a SaaS Product: Everything You Need to Know",
+    "url": "https://www.salesforce.com/blog/small-business/how-to-launch-a-saas-product/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-06T13:00:00+00:00",
+    "summary": "Whether you're building in stealth or sprinting toward beta, here's a practical guide to launching SaaS.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_228a66.jpeg",
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "afc0d87e660e",
+    "title": "As AI Agents Transform Commerce, Salesforce Unleashes Its Biggest Agentforce Commerce Release Yet - Salesforce",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxQQ21CcHN1YzktVXE1a1RGTWFIY2hzTXVLZzh3amszYmFTYnlzQ2dLcGVHTnpwd2dVVXN2dlozbndPRW5SM0dYeUJCNHgyNWoyYWlDTXltQTFhSi1uMExscVVQaUpsb1NiN1p6dDAyLVBrUGo0d3VZSUt3Y2ptWnNmMGRwX2t1UHhpMVlxOGw4c3VMal9xemFfa3pWeUhjbkVBNGViRXI3OGZCZkxHclY5VjVpdDk2d2ZzeFIwcW0wOXYyejBNQUZsWWdqaFRRYU9NU0F0RUowV3diUU9kTFFycjROc2tEczR4Y1JGQlhWdw?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-07-06T06:59:00+00:00",
-    "summary": "Salesforce broadens Agentforce AI rollout Tech in Asia",
+    "published": "2026-07-06T08:20:17+00:00",
+    "summary": "As AI Agents Transform Commerce, Salesforce Unleashes Its Biggest Agentforce Commerce Release Yet Salesforce",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -111,6 +111,21 @@
     "source_category": "salesforce",
     "published": "2026-07-05T23:36:37+00:00",
     "summary": "Salesforce Charges Only for AI Agents That Successfully Resolve Customer Issues thelec.net",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "cabc2632d75f",
+    "title": "Salesforce broadens Agentforce AI rollout - Tech in Asia",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9USS1yMlVqZ21UUXloWGFUck1lMGtMb2s2U19qX2dGWmtDcmRDQzctMEI2RkRFOWtUQXdXOG1XdWJZTXFCa3VtWjg0VkdMMk5yVlp5eDlxSUVtOU56S2JMUmI5LUFmdTRJQ045cjdLV1M2R05pc00tNVhBU1R6Zw?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-07-06T06:59:00+00:00",
+    "summary": "Salesforce broadens Agentforce AI rollout Tech in Asia",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -158,22 +173,6 @@
     "relevance_score": 8
   },
   {
-    "id": "4681b437385d",
-    "title": "Big CX News from Salesforce, HubSpot, Genesys & Microsoft - CX Today",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWmxaUE5LMWRBUVlzUGE5aEUwcS1tTG5EaE9FMnRLdElGUzNpcEpjWDBXajdBTXhJZ1NTMmE2N2JlREZEbjhqenB2SzhRYjA3MnJMQ2VmT2pJbjd3Y1BqbWF5cTVsWUNJNEpnREYtZHlxVFJFa0FtV0tqLU1BOVFMOW5XTHpMZEpBR19lbTVsYzQ4WXNqS01rVQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-07-03T08:25:40+00:00",
-    "summary": "Big CX News from Salesforce, HubSpot, Genesys & Microsoft CX Today",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "6d5977f0762c",
     "title": "Navigating Risk: How Trusted Services Power a Modern GRC Strategy",
     "url": "https://www.salesforce.com/blog/grc-strategy/",
@@ -213,6 +212,22 @@
     "tags": [],
     "industries": [
       "tech"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "4681b437385d",
+    "title": "Big CX News from Salesforce, HubSpot, Genesys & Microsoft - CX Today",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPWmxaUE5LMWRBUVlzUGE5aEUwcS1tTG5EaE9FMnRLdElGUzNpcEpjWDBXajdBTXhJZ1NTMmE2N2JlREZEbjhqenB2SzhRYjA3MnJMQ2VmT2pJbjd3Y1BqbWF5cTVsWUNJNEpnREYtZHlxVFJFa0FtV0tqLU1BOVFMOW5XTHpMZEpBR19lbTVsYzQ4WXNqS01rVQ?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-07-03T08:25:40+00:00",
+    "summary": "Big CX News from Salesforce, HubSpot, Genesys & Microsoft CX Today",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 7
   }
