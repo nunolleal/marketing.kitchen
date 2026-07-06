@@ -131,26 +131,6 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 16
-  },
-  {
-    "id": "d1a423c64910",
-    "title": "Amazon will stop accepting new customers for Mechanical Turk",
-    "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-05T17:43:36+00:00",
-    "summary": "These may be the last days of Amazon’s Mechanical Turk.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2280727243.jpg?resize=1200,840",
-    "tags": [
-      "AI",
-      "Amazon",
-      "Amazon Web Services",
-      "mechanical turk"
-    ],
-    "industries": [
-      "retail"
-    ],
     "relevance_score": 15
   },
   {
@@ -173,6 +153,26 @@
       "retail"
     ],
     "relevance_score": 14
+  },
+  {
+    "id": "d1a423c64910",
+    "title": "Amazon will stop accepting new customers for Mechanical Turk",
+    "url": "https://techcrunch.com/2026/07/05/amazon-will-stop-accepting-new-customers-for-mechanical-turk/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-05T17:43:36+00:00",
+    "summary": "These may be the last days of Amazon’s Mechanical Turk.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-2280727243.jpg?resize=1200,840",
+    "tags": [
+      "AI",
+      "Amazon",
+      "Amazon Web Services",
+      "mechanical turk"
+    ],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 12
   },
   {
     "id": "c1d20fc80c8c",
@@ -227,23 +227,6 @@
     "relevance_score": 8
   },
   {
-    "id": "93286f532cef",
-    "title": "PayMongo's digital payments surge 89% as in-store QR use triples - Asian Banking & Finance",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS2NTaDNGWkJMLVp1VnBvanBoV1RxaExncW11VjR6TzRIeDMxbVhoNUR2a0twVUw1TlE5alIyT2ZHeTZSck9Ham40UUVNVlJteGNuSTlnMWtRbzNuUmNuczVHN29CcXF4TDZYa3FnaGk4Ny1Xd1VQMW1WcDlCZkMyUGhQX1B0TTVTdjBGWmM5X3NIT1pSVURYMjUwY2NoeUwzSG1tTnZOTlF0UVhkUGtwWV81OEs?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-07-02T21:30:00+00:00",
-    "summary": "PayMongo's digital payments surge 89% as in-store QR use triples Asian Banking & Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "ed605d7430d3",
     "title": "Motley Fool: MercadoLibre is an e-commerce and digital payment giant - The Spokesman-Review",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNU2NtVzNGM05sRWtEbmtrN1ZQREhnazU3cWFyX2JoX2d4aW1ia19oT05WRHB3dTlvSTA5ZGE4bWRxbG1iaTVaaGZJQTNGR0ZaampWU2VpVzNMNDFpclVyZGt6VGxBRUE5ak9nclc1UmJsMl9oOV9Wbk1HaFRURHZ6b2t4RHlXN284OElSZUxFWTIxUlBnT2Y2T1RCQUJPZw?oc=5",
@@ -273,6 +256,56 @@
       "industrial"
     ],
     "relevance_score": 7
+  },
+  {
+    "id": "93286f532cef",
+    "title": "PayMongo's digital payments surge 89% as in-store QR use triples - Asian Banking & Finance",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS2NTaDNGWkJMLVp1VnBvanBoV1RxaExncW11VjR6TzRIeDMxbVhoNUR2a0twVUw1TlE5alIyT2ZHeTZSck9Ham40UUVNVlJteGNuSTlnMWtRbzNuUmNuczVHN29CcXF4TDZYa3FnaGk4Ny1Xd1VQMW1WcDlCZkMyUGhQX1B0TTVTdjBGWmM5X3NIT1pSVURYMjUwY2NoeUwzSG1tTnZOTlF0UVhkUGtwWV81OEs?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-07-02T21:30:00+00:00",
+    "summary": "PayMongo's digital payments surge 89% as in-store QR use triples Asian Banking & Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "49347b2bcad6",
+    "title": "Amazon drops Prime deliveries into ‘The Boys’ and ‘Reacher’ worlds in new ads - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9CTUdJdTM4NjZmSFF2S3pmN2Q5WVlTNGZQRTdBbEpsVjh0RWZnOWNfY2pXQXVWSjdYc09LN0xkc19ZcWNQZ3pCWW81Q3NtQTBwOVdWX1ZvbHZCWXQ5MVNNWjg1S3d4b29uUDA5M1ZYS202NkgwYldiWEJhUQ?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-06-30T12:15:00+00:00",
+    "summary": "Amazon drops Prime deliveries into ‘The Boys’ and ‘Reacher’ worlds in new ads Ad Age",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "d7c8fa3eb319",
+    "title": "Study: Hospitals' telehealth scale indicates digital readiness for AI - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPU0pqeWJ6SlBkR3htbFQxQWdia1ZhT2Nmc1VUbE1vMjdqeVNQX3ZwLUE4XzN1ZkxYeGxQcjBVVkQ0VmgzUlkwQm1nUXBVVXozRUk3R05xSUdTN2c5a2VNY0lNMFFLQkItRXlrMDNtY0JJOEtrdEExLUZMUGE0WmNWLU5hQy1LMURYSkpmX0ZBTmRqZng4UUlZb2UxdjRLRXFKMjVIbmFpOVhiMVluZzR4aVJJWG1DSkdEQVZucXMzcmpndnpzV2c?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-02T18:15:27+00:00",
+    "summary": "Study: Hospitals' telehealth scale indicates digital readiness for AI TechTarget",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 5
   },
   {
     "id": "576dede3ac59",
