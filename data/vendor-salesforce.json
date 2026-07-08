@@ -1,5 +1,20 @@
 [
   {
+    "id": "9e02246ff277",
+    "title": "What You Can Learn From Two Marketing Cloud Next Onboarding Journeys",
+    "url": "https://www.salesforce.com/blog/marketing-cloud-next-onboarding/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-08T18:34:17+00:00",
+    "summary": "Rawlings Sporting Goods and Indiana Wesleyan University took different approaches to adoption. Here’s their stories and how they can help you.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_568712078_4603c6.jpg",
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 53
+  },
+  {
     "id": "ff03420c8a51",
     "title": "Salesforce layoffs hit Agentforce, MuleSoft, Marketing Cloud 2026 - qz.com",
     "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOdnlDaHdYeWtGY0RCMzU5UWRIQmNpM200MmhPVmZjTktOLTBXZEFUNER4Sm9GREF2ZjhzZ1F6c25wc184Wl81Tks3SVhkVEFPZktXWnRTX1g4NG5fcENpcHE4M0hMai0tVXRuSE5sSFN1VW1aclBZZFJuZy13OXNGRE53?oc=5",
@@ -31,30 +46,20 @@
     "relevance_score": 32
   },
   {
-    "id": "b206cf664882",
-    "title": "Salesforce Bets Big on Informatica: Can It Be CRM's Next Growth Leg? - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQTloxVjkteUgzREJaN2MxdDZ1ZWJtM0ZiV2lwREd2MFJMMFZ3blJyRlo2OG5WY1Vab1lBMGFyTnNQOURmQlROQ0JKVkJ5REJpVmJXekJXaVQ1bUpCZTdXdkxtYU9FTGtHY3F1eG5iSWNxWkJkdFBldkZsazZWQnJ4aDJkLWFxV180RmJyUzZsYzRHLXpmMkhvREJ1VjVXbFJXTXpLYmlvTWN5S2N0dDBHSFJtMW9YZGJHa0xiZG4ybw?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-07-07T14:31:00+00:00",
-    "summary": "Salesforce Bets Big on Informatica: Can It Be CRM's Next Growth Leg? TradingView",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 32
-  },
-  {
-    "id": "3d7b6706bda6",
-    "title": "What Does CRM Do That AI Can’t?",
-    "url": "https://www.salesforce.com/blog/small-business/crm-and-ai/",
+    "id": "1b74fa752ec4",
+    "title": "How Batteries Plus Reengaged Customers to Generate $15M in Pipeline with a Lean Team",
+    "url": "https://www.salesforce.com/blog/batteries-plus-agentforce-builds-sales-pipeline-with-agentforce/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-07-03T13:00:00+00:00",
-    "summary": "Why can’t AI just do what CRM does? Good question. Here are some answers for you.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_12e731.png",
+    "published": "2026-07-08T17:34:57+00:00",
+    "summary": "Facing continued double-digit commercial growth, the enterprise bypassed traditional scale models by partnering with Rosetree Solutions to deploy Agentforce and unlock rapid outreach velocity in record time. After four years of exponential growth,…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/batteries_plus_blog_image_v3-1.png",
     "tags": [],
-    "industries": [],
-    "relevance_score": 24
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
   },
   {
     "id": "5ca1bc339ca5",
@@ -70,7 +75,7 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "1bdac0370848",
@@ -83,27 +88,12 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 15,
+    "relevance_score": 14,
     "also_covered_by": [
       "Adobe",
-      "Adobe Inc",
-      "Wall Street"
+      "Wall Street",
+      "Adobe Inc"
     ]
-  },
-  {
-    "id": "4cd2b189af40",
-    "title": "How to Set Up Intelligence Briefs with Tableau Next and Slackbot Skills",
-    "url": "https://www.salesforce.com/blog/how-to-set-up-intelligence-briefs-with-tableau-next-and-slackbot-skills/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-08T14:25:08+00:00",
-    "summary": "Learn how to transform AI-ready semantic models into automated and actionable briefings with conversational analytics in Slackbot.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/Slackbot-skill_NextMCP_blog-list.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 14
   },
   {
     "id": "ab138e6a0413",
@@ -122,20 +112,34 @@
     "relevance_score": 13
   },
   {
-    "id": "44fe84e35698",
-    "title": "How Batteries Plus Built 10 Agents to Activate 100,000 Sales Prospects",
-    "url": "https://www.salesforce.com/blog/batteries-plus-agentforce/",
+    "id": "4cd2b189af40",
+    "title": "How to Set Up Intelligence Briefs with Tableau Next and Slackbot Skills",
+    "url": "https://www.salesforce.com/blog/how-to-set-up-intelligence-briefs-with-tableau-next-and-slackbot-skills/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-07-06T19:15:42+00:00",
-    "summary": "A 700-store franchisor shows how multi-agent architecture and data discipline can unlock B2B pipeline at scale.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_1881707869-Batteries.jpeg",
+    "published": "2026-07-08T14:25:08+00:00",
+    "summary": "Learn how to transform AI-ready semantic models into automated and actionable briefings with conversational analytics in Slackbot.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/Slackbot-skill_NextMCP_blog-list.png",
     "tags": [],
     "industries": [
-      "retail",
       "industrial"
     ],
-    "relevance_score": 11
+    "relevance_score": 13
+  },
+  {
+    "id": "28e2a95882d8",
+    "title": "Redefining customer success and renewal motion with Salesforce Agentforce - RSM",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNelNWbGZnS1YyZE9LQk9EdmRyNU9tcE1EeXc4a3NtNjNKVUtVSEtXWjM1WnF2VTFpS2VRNGMxSExtSDQycG52azUwYW8xSHJQSGZkbzhDZDhVNTduQlBVQUxpNEpXek5QRURzNm1ISWZHX3c2SGRCT0ZnZHRJTVNPMWpFV3gzMlNWaUpXTFZlV3VEQWN3UmVXUkhWWUV2MjJTWkczWG95cFM?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-07-08T17:51:46+00:00",
+    "summary": "Redefining customer success and renewal motion with Salesforce Agentforce RSM",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 13
   },
   {
     "id": "13293efa1bb8",
@@ -169,18 +173,17 @@
     "relevance_score": 11
   },
   {
-    "id": "6771885dc3e2",
-    "title": "7 Small Business Growth Strategies for 2027",
-    "url": "https://www.salesforce.com/blog/small-business/smb-growth-strategies/",
+    "id": "44fe84e35698",
+    "title": "How Batteries Plus Built 10 Agents to Activate 100,000 Sales Prospects",
+    "url": "https://www.salesforce.com/blog/batteries-plus-agentforce/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-07-04T22:33:54+00:00",
-    "summary": "Here's how your small business can keep up with any large enterprise — and spoiler alert, you only need one tool.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2023/11/TSK-38211_REPUB_Your_Small_Business_Can_Compete_With_Large_Rivals.png",
-    "tags": [
-      "Uncategorized"
-    ],
+    "published": "2026-07-06T19:15:42+00:00",
+    "summary": "A 700-store franchisor shows how multi-agent architecture and data discipline can unlock B2B pipeline at scale.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_1881707869-Batteries.jpeg",
+    "tags": [],
     "industries": [
+      "retail",
       "industrial"
     ],
     "relevance_score": 10
