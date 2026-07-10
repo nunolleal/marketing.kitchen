@@ -18,7 +18,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 61
+    "relevance_score": 58
   },
   {
     "id": "690700efc13f",
@@ -37,7 +37,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 59
+    "relevance_score": 56
   },
   {
     "id": "6a3656e196c7",
@@ -57,7 +57,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 53
+    "relevance_score": 50
   },
   {
     "id": "1c3059fb7886",
@@ -77,7 +77,10 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 49
+    "relevance_score": 49,
+    "also_covered_by": [
+      "Health Tech"
+    ]
   },
   {
     "id": "a6d226df1a79",
@@ -226,47 +229,6 @@
     ]
   },
   {
-    "id": "57cbbd92da94",
-    "title": "Marketing Vanguard at Cannes: Why the Experience Is the Brand ft. Virgin Voyages’ Nathan Rosenberg",
-    "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-why-the-experience-is-the-brand-ft-virgin-voyages-nathan-rosenberg/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-07-09T13:41:01+00:00",
-    "summary": "Plus, why the real marketing happens after the experience.",
-    "image_url": null,
-    "tags": [
-      "Advertising/Marketing",
-      "Adweek Podcasts",
-      "C-Suite",
-      "Marketing and Sales",
-      "Travel Advertising News"
-    ],
-    "industries": [
-      "tech",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 41
-  },
-  {
-    "id": "b8d67d38c919",
-    "title": "Google's TabFM skips per-dataset training and still predicts on tables it's never seen",
-    "url": "https://venturebeat.com/technology/googles-tabfm-skips-per-dataset-training-and-still-predicts-on-tables-its-never-seen",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-07-10T16:14:24+00:00",
-    "summary": "The vast majority of business data is tabular — living in data warehouses, CRMs, and financial ledgers — yet building a reliable model from it still means training a new one from scratch for every dataset, then maintaining hyperparameter tuning loops, feature engineering, and...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4VjIL7MxqMo55zqaoGOo2T/231e1e8c686502c3ac895c72b70a8cfe/Tabular_data.jpg?w=300&q=30",
-    "tags": [
-      "Technology"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 41
-  },
-  {
     "id": "d7d246c57d6f",
     "title": "Getting started with Hermes Agent Desktop",
     "url": "https://martech.org/getting-started-with-hermes-agent-desktop/",
@@ -287,21 +249,6 @@
     "relevance_score": 40
   },
   {
-    "id": "9e02246ff277",
-    "title": "What You Can Learn From Two Marketing Cloud Next Onboarding Journeys",
-    "url": "https://www.salesforce.com/blog/marketing-cloud-next-onboarding/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-08T18:34:17+00:00",
-    "summary": "Rawlings Sporting Goods and Indiana Wesleyan University took different approaches to adoption. Here’s their stories and how they can help you.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_568712078_4603c6.jpg",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 40
-  },
-  {
     "id": "b1e81f721f44",
     "title": "Marketing For Startups: 5 Steps to Campaign Success",
     "url": "https://www.salesforce.com/blog/small-business/five-steps-to-marketing-a-startup/",
@@ -313,22 +260,6 @@
     "tags": [],
     "industries": [
       "tech"
-    ],
-    "relevance_score": 40
-  },
-  {
-    "id": "18fcb118d883",
-    "title": "J. Crew names brand president",
-    "url": "https://www.retaildive.com/news/j-crew-names-brand-president/824947/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-07-10T15:34:00+00:00",
-    "summary": "The apparel company tapped beauty industry veteran Kathleen Van Nest Pierce, effective in August.",
-    "image_url": "https://imgproxy.divecdn.com/5MTj_4YbR8Nn7yv2_5UtlP4yaDsEIYRWK4nMXbSVrA4/g:nowe:0:678/c:3013:1702/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMTg1OC5qcGc=.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "consumer"
     ],
     "relevance_score": 40
   },
@@ -354,22 +285,53 @@
     "relevance_score": 39
   },
   {
-    "id": "7a9d3c5cf43d",
-    "title": "Weekly Rundown: Surgical Safety Technologies rebrands to Aimbient; UC San Diego launches applied health intelligence institute - Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQUklnbVBjZS1Pb25WNUpGSDV4b1A1ZW1ZV2RqSk0teXNvYWpMcmZUckNYSXVYOVNka1hmRS1hUHFIRWgta0hpX0w2eUY5SVpMQW9Sc3Brcl84NU9WMDk1RGowTGhYczczQm9zZmNIOUF0b1B2dEQ2TkRIaW40N2VZdWRpeWR5V05vQ1Zjd2VDTklvMU00c0lQZlhPMTFobGF0c1Z4eTBaVGZWc1hsMll3YVQ1V1R4MVlFbHlWVXdIbVNNR2lXb0Nz?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-10T14:00:00+00:00",
-    "summary": "Weekly Rundown: Surgical Safety Technologies rebrands to Aimbient; UC San Diego launches applied health intelligence institute Fierce Healthcare",
-    "image_url": null,
+    "id": "b8d67d38c919",
+    "title": "Google's TabFM skips per-dataset training and still predicts on tables it's never seen",
+    "url": "https://venturebeat.com/technology/googles-tabfm-skips-per-dataset-training-and-still-predicts-on-tables-its-never-seen",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-07-10T16:14:24+00:00",
+    "summary": "The vast majority of business data is tabular — living in data warehouses, CRMs, and financial ledgers — yet building a reliable model from it still means training a new one from scratch for every dataset, then maintaining hyperparameter tuning loops, feature engineering, and...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4VjIL7MxqMo55zqaoGOo2T/231e1e8c686502c3ac895c72b70a8cfe/Tabular_data.jpg?w=300&q=30",
+    "tags": [
+      "Technology"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 38
+  },
+  {
+    "id": "9e02246ff277",
+    "title": "What You Can Learn From Two Marketing Cloud Next Onboarding Journeys",
+    "url": "https://www.salesforce.com/blog/marketing-cloud-next-onboarding/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-08T18:34:17+00:00",
+    "summary": "Rawlings Sporting Goods and Indiana Wesleyan University took different approaches to adoption. Here’s their stories and how they can help you.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_568712078_4603c6.jpg",
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 37
+  },
+  {
+    "id": "18fcb118d883",
+    "title": "J. Crew names brand president",
+    "url": "https://www.retaildive.com/news/j-crew-names-brand-president/824947/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-07-10T15:34:00+00:00",
+    "summary": "The apparel company tapped beauty industry veteran Kathleen Van Nest Pierce, effective in August.",
+    "image_url": "https://imgproxy.divecdn.com/5MTj_4YbR8Nn7yv2_5UtlP4yaDsEIYRWK4nMXbSVrA4/g:nowe:0:678/c:3013:1702/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMTg1OC5qcGc=.webp",
     "tags": [],
     "industries": [
       "tech",
-      "consumer",
-      "industrial",
-      "lifesciences"
+      "consumer"
     ],
-    "relevance_score": 38
+    "relevance_score": 37
   },
   {
     "id": "1552456375e5",
@@ -427,6 +389,24 @@
     "relevance_score": 32
   },
   {
+    "id": "3c6eb0cf0890",
+    "title": "Weekly Rundown: Surgical Safety Technologies rebrands to Aimbient; UC San Diego launches applied health intelligence institute",
+    "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-surgical-safety-technologies-rebrands-aimbient-uc-san-diego-launches",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-09T11:56:00+00:00",
+    "summary": "Stay up to date on the latest in health tech, digital health and health AI news with this weekly brief.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2217168478.jpg?VersionId=0phAnpOmLcGCkwxate79_jHGSX6nTo0S",
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 31
+  },
+  {
     "id": "a48875f448ca",
     "title": "Motorsports Sponsorship for Tech and SaaS Brands: The 2026 Guide - RTR Sports Marketing",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxPYk5vVXQ2UEQ4UVRSMjIyU1pRcnh0Wlp2WW53R0lMWWl1aUR6bkhzelVkY0t6LU9HV2dISnZGenNHUzFYenhvUkNzUE96MmJvZi1lQTN1eGpXamFTZTB0dmhncldlT1ZCODVrcXZBUmJ4elV2X3dzLVhhSmRoZm93MlRTSGRNejV1Q1pWdTFZbVNIU1NCaTJLQ1JR?oc=5",
@@ -460,6 +440,27 @@
     "relevance_score": 26
   },
   {
+    "id": "0dc7ed15a61a",
+    "title": "Zuckerberg’s Net Worth Swells $12 Billion As Meta Ends Best Week Since 2024",
+    "url": "https://www.forbes.com/sites/tylerroush/2026/07/10/zuckerbergs-net-worth-swells-12-billion-as-meta-ends-best-week-since-2024/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-10T19:48:17+00:00",
+    "summary": "The Facebook parent’s stock saw a positive investor reaction to its new AI model and reported plans for in-house AI chips.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a514c465020e25242103dc5/0x0.jpg?width=960&precrop=2988%2C1681%2Cx317%2Cy63",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 20
+  },
+  {
     "id": "732f15a1ec9e",
     "title": "I’m filling in at The Verge for 6 weeks. Ask me anything!",
     "url": "https://www.theverge.com/column/963495/im-filling-in-at-the-verge-for-6-weeks-ask-me-anything",
@@ -477,7 +478,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
     "id": "abc1d0454c69",
@@ -499,7 +500,29 @@
       "telecom",
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
+  },
+  {
+    "id": "297b5e8a868d",
+    "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+    "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-10T20:44:05+00:00",
+    "summary": "The iPhone-maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+    "image_url": "https://media.wired.com/photos/6a51395dba309b253cb3d458/master/pass/GettyImages-2233062347.jpg",
+    "tags": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "apple",
+      "OpenAI",
+      "Hardware"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
   },
   {
     "id": "8aa63f293fe7",
@@ -517,7 +540,7 @@
       "lifesciences",
       "financial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "c4168a7a3c2c",
@@ -539,7 +562,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "9524a2de1b57",
@@ -560,7 +583,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "2c2cd51a6c5c",
@@ -580,51 +603,49 @@
       "media",
       "tech"
     ],
-    "relevance_score": 17
-  },
-  {
-    "id": "579cb2516ed4",
-    "title": "Netflix is turning into YouTube",
-    "url": "https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-10T16:29:50+00:00",
-    "summary": "Netflix has shows and movies. And video games. And live sports. And podcasts. And also, apparently, YouTube videos? For a company that used to seem like the next big thing in TV, it all feels a little frenetic, and maybe a tad desperate. For a company that sees sleep as its...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260710.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
-    "tags": [
-      "Gadgets",
-      "Meta",
-      "Netflix",
-      "Podcasts",
-      "Streaming"
-    ],
-    "industries": [
-      "media",
-      "tech"
-    ],
     "relevance_score": 16
   },
   {
-    "id": "9683c84e437b",
-    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
-    "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
-    "source": "TechCrunch AI",
+    "id": "b47d984e1b1c",
+    "title": "OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars",
+    "url": "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars",
+    "source": "VentureBeat",
     "source_category": "ai",
-    "published": "2026-07-09T19:40:45+00:00",
-    "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+    "published": "2026-07-10T20:20:00+00:00",
+    "summary": "OpenAI on Thursday launched ChatGPT Work , a new AI agent embedded inside its flagship chatbot that aims to transform ChatGPT from a question-and-answer tool into an autonomous work platform capable of executing complex, multi-step tasks across users' email, calendars, code...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/XaJBJbkMIolDxyrlIw5Qd/b9e360da7531ae921f32528977713b61/Nuneybits_Magazine-style_digital_illustration_of_oversized_clou_64512c24-eef8-4ed0-9aae-efcb0615033a.webp?w=300&q=30",
     "tags": [
-      "AI",
-      "Anthropic",
-      "Mark Zuckerberg",
-      "Meta",
-      "muse spark"
+      "Technology",
+      "Orchestration",
+      "Business"
     ],
     "industries": [
       "tech",
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 16
+  },
+  {
+    "id": "3daaf068f42c",
+    "title": "Apple sues OpenAI over alleged trade secret theft",
+    "url": "https://techcrunch.com/2026/07/10/apple-sues-openai-over-alleged-trade-secret-theft/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-10T20:32:00+00:00",
+    "summary": "Apple alleges the misconduct was directed by OpenAi's senior leadership, including a long-time former employee.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/tim-cook-sam-altman-GettyImages-2233062347.jpg?w=1024",
+    "tags": [
+      "AI",
+      "Apps",
+      "TC",
+      "Apple",
+      "OpenAI"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 16
   },
   {
     "id": "8f28981d61e4",
@@ -670,79 +691,63 @@
     "relevance_score": 15
   },
   {
-    "id": "9725a711cea5",
-    "title": "Nike versus Adidas: Who’s spending more in race to claim the World Cup crown?",
-    "url": "https://digiday.com/marketing/nike-versus-adidas-whos-spending-more-in-race-to-claim-the-world-cup-crown/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-07-10T04:01:00+00:00",
-    "summary": "With the World Cup at the midway point, ad spend estimates show the apparel rivals taking opposite tacks in their media approaches.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/06/sponsored-soccer-digiday.001_c170ca.jpeg",
-    "tags": [
-      "Marketing"
-    ],
-    "industries": [
-      "media",
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "0a21257ff721",
-    "title": "The Home Depot sees Hispanic market as a ‘huge growth opportunity’",
-    "url": "https://digiday.com/marketing/the-home-depot-sees-hispanic-market-as-a-huge-growth-opportunity/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-07-10T04:01:00+00:00",
-    "summary": "While The Home Depot is not a sports equipment or sports apparel retailer, its consumer base has given it ample reason to develop a comprehensive retail media strategy around the World Cup.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/07/sponsored-cart-viewing.001.jpeg",
-    "tags": [
-      "Marketing"
-    ],
-    "industries": [
-      "media",
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "e52e7a22c645",
-    "title": "Instagram’s Adam Mosseri: If you don’t like AI, ‘then you shouldn’t have it in your feed’",
-    "url": "https://www.theverge.com/tech/963961/instagram-adam-mosseri-ai-feed-filters",
+    "id": "579cb2516ed4",
+    "title": "Netflix is turning into YouTube",
+    "url": "https://www.theverge.com/podcast/964082/netflix-youtube-smart-glasses-vergecast",
     "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-07-10T13:45:02+00:00",
-    "summary": "Though Instagram head Adam Mosseri doesn't want to filter out AI content on the platform, he argues that you \"shouldn't have it in your feed\" if you don't like it. \"I don't think we should filter out AI content,\" Mosseri said during an interview on Lenny Rachitsky's podcast....",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2239561028.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.634570719994%2C100%2C78.730858560013&amp;w=1200",
+    "published": "2026-07-10T16:29:50+00:00",
+    "summary": "Netflix has shows and movies. And video games. And live sports. And podcasts. And also, apparently, YouTube videos? For a company that used to seem like the next big thing in TV, it all feels a little frenetic, and maybe a tad desperate. For a company that sees sleep as its...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VRG_VST_20260710.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
     "tags": [
-      "AI",
-      "Instagram",
+      "Gadgets",
       "Meta",
-      "News",
-      "Tech"
+      "Netflix",
+      "Podcasts",
+      "Streaming"
     ],
     "industries": [
+      "media",
       "tech"
     ],
     "relevance_score": 15
   },
   {
-    "id": "adac17ffa9cb",
-    "title": "Seahawks Sale Could Be Biggest Obstacle For SuperSonics’ Return",
-    "url": "https://www.forbes.com/sites/johncassillo/2026/07/10/seahawks-sale-could-be-biggest-obstacle-for-supersonics-return/",
+    "id": "5091e8eb1275",
+    "title": "Jannik Sinner Dominates Novak Djokovic To Reach Wimbledon Final",
+    "url": "https://www.forbes.com/sites/adamzagoria/2026/07/10/jannik-sinner-dominates-novak-djokovic-to-reach-wimbledon-final/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-07-10T16:20:45+00:00",
-    "summary": "With the NBA Board of Governors meeting looming, the Seattle Seahawks' impending sale could create another hurdle for expansion approvals.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a511a48775724ac7aae0bef/0x0.jpg",
+    "published": "2026-07-10T17:41:46+00:00",
+    "summary": "Sinner has now won 22 of his last 23 semifinal appearances and appears to have put his troublesome second-round exit in Paris behind him.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a51261e5020e25242103d99/0x0.jpg",
     "tags": [
       "SportsMoney",
       "/sportsmoney",
       "Business",
       "/business",
       "SportsMoney"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "64f5da7c93d1",
+    "title": "Meet the Battery Startup Taking on China’s Giants",
+    "url": "https://www.wired.com/story/prologium-battery-startup-betting-against-china/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-10T18:00:00+00:00",
+    "summary": "Solid-state batteries are safer and more capable—but harder to mass-produce. They also represent an opportunity for non-Chinese companies to get back in the game.",
+    "image_url": "https://media.wired.com/photos/6a4d5408dd7cbb1c03039d25/master/pass/Made-In-China-One-Battery-Company-is-Booming-Business.jpg",
+    "tags": [
+      "Business",
+      "Business / Energy",
+      "Made in China",
+      "China",
+      "Taiwan"
     ],
     "industries": [
       "tech",
@@ -767,18 +772,20 @@
     "relevance_score": 14
   },
   {
-    "id": "7bef597cf4bc",
-    "title": "SpaceX's Grok 4.5 launches at half the price of rivals — here's why that could rattle Anthropic and OpenAI",
-    "url": "https://venturebeat.com/technology/spacexs-grok-4-5-launches-at-half-the-price-of-rivals-heres-why-that-could-rattle-anthropic-and-openai",
-    "source": "VentureBeat",
+    "id": "9683c84e437b",
+    "title": "Meta enters the crowded AI coding battle with Muse Spark 1.1",
+    "url": "https://techcrunch.com/2026/07/09/meta-enters-the-crowded-ai-coding-battle-with-muse-spark-1-1/",
+    "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-07-08T22:00:00+00:00",
-    "summary": "Elon Musk's SpaceX released Grok 4.5 on Wednesday, the first artificial intelligence model the company has trained specifically for coding and autonomous agents — and the first tangible product of its $60 billion acquisition of the AI coding startup Cursor, completed just...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2mrt92ZzosniNYpcSdNEyl/bc556427d375d26cce0a2fab2fbf6d92/Nuneybits_Vector_art_of_launch_rocket_wrapped_in_code_strings_b_81b7a693-bf24-412d-a48b-444b1a91b128.webp?w=300&q=30",
+    "published": "2026-07-09T19:40:45+00:00",
+    "summary": "Meta's pitch to users is Spark's ability to handle large agentic workloads, fix bugs, and help with large code migrations — the kind of automation that enterprises are increasingly turning to AI companies to provide.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
     "tags": [
-      "Technology",
-      "Business",
-      "Data"
+      "AI",
+      "Anthropic",
+      "Mark Zuckerberg",
+      "Meta",
+      "muse spark"
     ],
     "industries": [
       "tech",
@@ -787,103 +794,85 @@
     "relevance_score": 14
   },
   {
-    "id": "1c41e753863c",
-    "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-    "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-09T18:34:35+00:00",
-    "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Venture",
-      "nvidia",
-      "Kyutai",
-      "In Brief"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "713b8078a171",
-    "title": "Platforms’ AI dilemma: scale without sameness",
-    "url": "https://digiday.com/marketing/platforms-ai-dilemma-scale-without-sameness/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "id": "9725a711cea5",
+    "title": "Nike versus Adidas: Who’s spending more in race to claim the World Cup crown?",
+    "url": "https://digiday.com/marketing/nike-versus-adidas-whos-spending-more-in-race-to-claim-the-world-cup-crown/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
     "source": "Digiday",
     "source_category": "marketing",
     "published": "2026-07-10T04:01:00+00:00",
-    "summary": "Using AI to create content risks a lot of it looking the same. But the platforms agree creativity will always come from humans.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/08/ai-impact-creative.jpg",
+    "summary": "With the World Cup at the midway point, ad spend estimates show the apparel rivals taking opposite tacks in their media approaches.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/06/sponsored-soccer-digiday.001_c170ca.jpeg",
     "tags": [
       "Marketing"
     ],
     "industries": [
+      "media",
       "tech"
     ],
     "relevance_score": 14
   },
   {
-    "id": "7c72cfe98840",
-    "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
-    "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-07-10T12:10:00+00:00",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really...",
-    "image_url": null,
+    "id": "0a21257ff721",
+    "title": "The Home Depot sees Hispanic market as a ‘huge growth opportunity’",
+    "url": "https://digiday.com/marketing/the-home-depot-sees-hispanic-market-as-a-huge-growth-opportunity/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-07-10T04:01:00+00:00",
+    "summary": "While The Home Depot is not a sports equipment or sports apparel retailer, its consumer base has given it ample reason to develop a comprehensive retail media strategy around the World Cup.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/07/sponsored-cart-viewing.001.jpeg",
     "tags": [
-      "The Download"
+      "Marketing"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "adac17ffa9cb",
+    "title": "Why Seahawks Sale Could Be Biggest Obstacle For SuperSonics’ Return",
+    "url": "https://www.forbes.com/sites/johncassillo/2026/07/10/seahawks-sale-could-be-biggest-obstacle-for-supersonics-return/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-10T16:20:45+00:00",
+    "summary": "With the NBA Board of Governors meeting looming, the Seattle Seahawks' impending sale could create another hurdle for expansion approvals.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a511a48775724ac7aae0bef/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "ac69c1ce2bf3",
+    "title": "This Startup Aims To Catapult Satellites Into Space",
+    "url": "https://www.forbes.com/sites/the-prototype/2026/07/10/this-startup-aims-to-catapult-satellites-into-space/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-10T19:22:45+00:00",
+    "summary": "Catapulting satellites into space. Making all the data center heat useful. Why memory technology needs disrupting.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a469a2425c2c18aef11b6b5/0x0.jpg?width=960&precrop=1994%2C1122%2Cx0%2Cy195",
+    "tags": [
+      "Newsletters",
+      "/newsletters-old",
+      "Newsletters",
+      "/newsletters-old",
+      "Innovation"
     ],
     "industries": [
       "tech"
     ],
     "relevance_score": 14
-  },
-  {
-    "id": "73e5ca389ac8",
-    "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
-    "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-09T17:56:47+00:00",
-    "summary": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
-    "tags": [
-      "AI",
-      "Apps",
-      "Social",
-      "Generative AI",
-      "image generator"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "45abde51242c",
-    "title": "Google will now disclose which ads are made with AI",
-    "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-09T18:40:51+00:00",
-    "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
-    "tags": [
-      "AI",
-      "Commerce",
-      "Adtech",
-      "advertising",
-      "Generative AI"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 13
   },
   {
     "id": "12becd26729c",
@@ -904,6 +893,23 @@
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "713b8078a171",
+    "title": "Platforms’ AI dilemma: scale without sameness",
+    "url": "https://digiday.com/marketing/platforms-ai-dilemma-scale-without-sameness/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-07-10T04:01:00+00:00",
+    "summary": "Using AI to create content risks a lot of it looking the same. But the platforms agree creativity will always come from humans.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/08/ai-impact-creative.jpg",
+    "tags": [
+      "Marketing"
+    ],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 13
   },
@@ -930,6 +936,23 @@
     "relevance_score": 13
   },
   {
+    "id": "7c72cfe98840",
+    "title": "The Download: Claude’s inner workings and OpenAI’s “super app”",
+    "url": "https://www.technologyreview.com/2026/07/10/1140316/the-download-anthropic-claude-hidden-space-openai-super-app/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-07-10T12:10:00+00:00",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Anthropic found a hidden space where Claude puzzles over concepts The AI firm Anthropic has got the clearest glimpse yet at what’s really...",
+    "image_url": null,
+    "tags": [
+      "The Download"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 13
+  },
+  {
     "id": "40d274dba760",
     "title": "Media Briefing: Declared ‘good bots,’ mixed-use crawlers, gray scrapers – how AI accesses publisher content",
     "url": "https://digiday.com/media/media-briefing-declared-good-bots-mixed-use-crawlers-gray-scrapers-how-ai-accesses-publisher-content/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -950,27 +973,6 @@
     "relevance_score": 12
   },
   {
-    "id": "5d77deb79996",
-    "title": "Popular open source AI developer tool Ollama raises $65M, grows to nearly 9M users",
-    "url": "https://techcrunch.com/2026/07/09/popular-open-source-ai-developer-tool-ollama-raises-65m-grows-to-nearly-9m-users/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-09T13:00:00+00:00",
-    "summary": "Benchmark-backed Ollama has amassed 176,000 stars, and nearly 17,000 forks on GitHub by helping developers easily run AI on their PCs.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Ollama-founders-Jeff-Morgan-left-and-Michael-Chiang-right.jpg?resize=1200,825",
-    "tags": [
-      "AI",
-      "Startups",
-      "TC",
-      "Benchmark Partners",
-      "Exclusive"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 12
-  },
-  {
     "id": "d17172d122d2",
     "title": "Sociable: Meta adds updated disclosure tags for AI-generated ads",
     "url": "https://www.marketingdive.com/news/sociable-meta-adds-updated-disclosure-tags-for-ai-generated-ads/824833/",
@@ -987,21 +989,23 @@
     "relevance_score": 12
   },
   {
-    "id": "405989bf18cb",
-    "title": "Shared API keys expose AI agents at 69% of enterprises, new VentureBeat research finds",
-    "url": "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research",
-    "source": "VentureBeat",
+    "id": "1c41e753863c",
+    "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
+    "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
+    "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-07-09T20:45:43+00:00",
-    "summary": "Share one API key across five AI agents, and a single compromised agent inherits the reach of all five. The attacker immediately benefits from the accumulated permissions of every workflow that the key touches. The forensic trail goes cold at the credential level because five...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/66fVTkq6EXowtfjlEBMGjB/d642a9b78a4976d2a4767a552a229708/Shared_API_keys_expose_AI_agent_fleets_at_69-_of_enterprises__new_VentureBeat_research_finds.png?w=300&q=30",
+    "published": "2026-07-09T18:34:35+00:00",
+    "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
     "tags": [
-      "Security"
+      "AI",
+      "Venture",
+      "nvidia",
+      "Kyutai",
+      "In Brief"
     ],
     "industries": [
-      "media",
-      "tech",
-      "industrial"
+      "tech"
     ],
     "relevance_score": 12
   },
@@ -1018,19 +1022,16 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 12,
-    "also_covered_by": [
-      "Telecom 5G"
-    ]
+    "relevance_score": 12
   },
   {
     "id": "f5abed863ccf",
-    "title": "Korea’s HLB fails to win FDA approval on liver cancer drug for third time; stocks hit 9-month low - The Korea Economic Daily Global Edition",
+    "title": "Korea’s HLB fails to win FDA approval on liver cancer drug for 3rd time; stocks hit 9-month low - The Korea Economic Daily Global Edition",
     "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1FWXRTYUxIcm0zNmZzdzdSOENMSFFUTWJGQk1vNFRjb01STmVoVE42a3FhRzJQUXhGdWxvWDNtS1Z4RjdmZmp4N1ZBQzEwMUxLZExjY1pFZUZqNVphdURjNzNOLXliTHhKNExRSEZB?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-07-10T15:05:55+00:00",
-    "summary": "Korea’s HLB fails to win FDA approval on liver cancer drug for third time; stocks hit 9-month low The Korea Economic Daily Global Edition",
+    "published": "2026-07-10T19:05:06+00:00",
+    "summary": "Korea’s HLB fails to win FDA approval on liver cancer drug for 3rd time; stocks hit 9-month low The Korea Economic Daily Global Edition",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1110,21 +1111,84 @@
     "relevance_score": 11
   },
   {
-    "id": "6b9944e01c0f",
-    "title": "Health tech startup Forus inks partnership with GI medical society to improve medication access",
-    "url": "https://www.fiercehealthcare.com/health-tech/health-tech-startup-forus-inks-partnership-gi-medical-society-improve-medication-access",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-08T18:10:00+00:00",
-    "summary": "Health tech startup Forus, a company that automates prescription workflows with artificial intelligence, is partnering with the American Gastroenterological Association to improve medication access for patients living with digestive diseases.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2177205229_1.jpg?VersionId=whdHWUd5WYa5iCWhOdR3vr6J2S.nWODN",
+    "id": "73e5ca389ac8",
+    "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
+    "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-09T17:56:47+00:00",
+    "summary": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
+    "tags": [
+      "AI",
+      "Apps",
+      "Social",
+      "Generative AI",
+      "image generator"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "45abde51242c",
+    "title": "Google will now disclose which ads are made with AI",
+    "url": "https://techcrunch.com/2026/07/09/google-will-now-disclose-which-ads-are-made-with-ai/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-09T18:40:51+00:00",
+    "summary": "While Google prohibits misleading and deceptive ads, an ad can still leverage AI to create some type of synthetic or digitally altered content. Until now, that's something Google only required election ads to disclose.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2019/10/google-search-app-ios.jpg?resize=1200,644",
+    "tags": [
+      "AI",
+      "Commerce",
+      "Adtech",
+      "advertising",
+      "Generative AI"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "405989bf18cb",
+    "title": "Shared API keys expose AI agents at 69% of enterprises, new VentureBeat research finds",
+    "url": "https://venturebeat.com/security/shared-api-keys-expose-ai-agent-fleets-venturebeat-research",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-07-09T20:45:43+00:00",
+    "summary": "Share one API key across five AI agents, and a single compromised agent inherits the reach of all five. The attacker immediately benefits from the accumulated permissions of every workflow that the key touches. The forensic trail goes cold at the credential level because five...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/66fVTkq6EXowtfjlEBMGjB/d642a9b78a4976d2a4767a552a229708/Shared_API_keys_expose_AI_agent_fleets_at_69-_of_enterprises__new_VentureBeat_research_finds.png?w=300&q=30",
+    "tags": [
+      "Security"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "ba46901ff2d5",
+    "title": "Online Sales Platform Digistore24 Adds Instant Bank Payments - Digital Transactions",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOVkdqOXdpdFhiWi1LT1pxcHktdVZxY01kUUZ1dHJBTnZINnNLWEt3UTNtb2QzRzF0cmt3eF9aNm1YSVlGdHN1emV0QzNhUVM3VFFWeDU2RlRfZ3RQQ0Z0Z2wwMkJ4YU1ocVp6UWxMVFltMTdNTmg1NTZST2FfYzgwTE1IMTF5eGJqYWRPMk1KZEZqay03?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-07-10T14:52:08+00:00",
+    "summary": "Online Sales Platform Digistore24 Adds Instant Bank Payments Digital Transactions",
+    "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "industrial",
-      "lifesciences"
+      "retail",
+      "financial"
     ],
-    "relevance_score": 10
+    "relevance_score": 11
   },
   {
     "id": "33605f989a5b",
@@ -1193,37 +1257,6 @@
     ]
   },
   {
-    "id": "4807ed4889c3",
-    "title": "Meta Failed to Protect Users From Addictive Apps, EU Says - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPT1lWcDVFdHo0TXNHZllYRmlmNHMzOUluVXlmc1BLZHN4cjlzM2VnSGhwekdpOVJuLWFETXJfT0FIV21aZHNjSWswUkJ5QWl3N0dBR0ZGUUZOUE1nb2NWdnl6Y0hCd2oxNlBwd3ZkcXVTSXlZa2xwTGd3T3oxelZUa3MydmpycGpZR3JWMElzRHB5aTdr?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-10T11:08:00+00:00",
-    "summary": "Meta Failed to Protect Users From Addictive Apps, EU Says WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "103db91c2f18",
-    "title": "Circle Receives Approval to Launch Crypto-Focused Bank - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNWEhSU3BMTG5lM2Uxck5pVFpHY0o1MkpUd1VIUUF1akU0Y3JYT0lDeW5NaEhoRHYxSnliNmxkOUh4dm9uT3Z2WmRpTVM4R0FLRDVmVk9jNzYxTkt0ODlNWmlnY2ZGQ19HS2JxTG5SbEozXzZrX0VhOXpvbmhCc2tnbDJoS2ZQY1psZzRic0R3ZGNrTmtRVnN5NnhQTG52Z2ZXNzd3Yw?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-10T13:03:00+00:00",
-    "summary": "Circle Receives Approval to Launch Crypto-Focused Bank WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "ab138e6a0413",
     "title": "Google Analytics Training For Small Businesses and Startups",
     "url": "https://www.salesforce.com/blog/small-business/google-analytics-training-for-business-owners/",
@@ -1255,33 +1288,18 @@
     "relevance_score": 9
   },
   {
-    "id": "5431a6b89740",
-    "title": "Exclusive | Record Companies Push to Label AI Songs on Streaming Platforms - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdGJKR3ZGdVl6bFZodUZrYlFqdFhZdzVmRXBQQ0xuLUVPcnpPb3RSWUtEcHRZd1FDejFrUTZ5YmNyNEpuOGJQWmtzb3c3Rm44T1YxaHY5V08wYXB6SklkS0N3ZGYtWWZRSG9xaXZqblYteFd0VzJLYWdzUVhoajdIeGx5aXRhMEE3Nk16TzBoSkdjRmFvWHZXU2JzM01DazZm?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-10T11:00:00+00:00",
-    "summary": "Exclusive | Record Companies Push to Label AI Songs on Streaming Platforms WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "tech"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "fbfc17261e99",
-    "title": "Bausch + Lomb Introduces Orphia, an AI-Powered Digital Health Platform Built to Return Physicians to Patient Care - marketscreener.com",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxNbWFlUDFrTzlRMkduTXVGR2paUlpJcXZmS1RWdkhWM2VRMEMySkFtQXRpdDlVVXJpRVQ2Q2ZhcGdHTk9qeWpMRmRIclVEckJ5dWdyblhfU25vblN3OFE3YnBnd3JDRGloWEtxUXRRTjRiMFRIMEd6SDE0cHRsYUtOMTdPdUx2clN2Sk1RMC1qRG9lSV9nODZOdm5MRzdXVnN3akFLRVFhdUNVZzhOQkdBOFI0aWc2bkxsZVBHSlN1OHNNMzBQRHdlYlpac3JqSnlnazF2U3N5aXVLZWV0dk1CWC1wNzQ?oc=5",
-    "source": "Health Tech",
+    "id": "6b9944e01c0f",
+    "title": "Health tech startup Forus inks partnership with GI medical society to improve medication access",
+    "url": "https://www.fiercehealthcare.com/health-tech/health-tech-startup-forus-inks-partnership-gi-medical-society-improve-medication-access",
+    "source": "Fierce Healthcare",
     "source_category": "industry_lifesciences",
-    "published": "2026-07-10T12:32:14+00:00",
-    "summary": "Bausch + Lomb Introduces Orphia, an AI-Powered Digital Health Platform Built to Return Physicians to Patient Care marketscreener.com",
-    "image_url": null,
+    "published": "2026-07-08T18:10:00+00:00",
+    "summary": "Health tech startup Forus, a company that automates prescription workflows with artificial intelligence, is partnering with the American Gastroenterological Association to improve medication access for patients living with digestive diseases.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2177205229_1.jpg?VersionId=whdHWUd5WYa5iCWhOdR3vr6J2S.nWODN",
     "tags": [],
     "industries": [
       "tech",
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 9
@@ -1357,23 +1375,6 @@
     "relevance_score": 8
   },
   {
-    "id": "f65ceb70ade7",
-    "title": "One interface isn't enough for enterprise AI",
-    "url": "https://venturebeat.com/orchestration/one-interface-isnt-enough-for-enterprise-ai",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-07-09T07:00:00+00:00",
-    "summary": "Presented by Oracle NetSuite Every major technology transition produces a set of assumptions about where the market is headed. The assumptions are often directionally correct, but they tend to underestimate the degree to which organizations adapt new technologies to their own...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4x9dSPxassUF3IWNIitCAe/45be20ce213185ce3def62a788fc6286/VBImage.jpg?w=300&q=30",
-    "tags": [
-      "Orchestration"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "047bf8677ee1",
     "title": "Block settles Cash App case with 46 US states for $45m - Electronic Payments International",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY3d5NUt6NTBLbmJmcUNpMzdHZjRTQ3VrV2t0WUlEb3RtbjJVYXdDb2stb3F2aDV5dVVQeG43bFBUc2phWUxHdXJocnFURUNWRlNYanhySW8xc3BxcjNFa29RZ0dZUTZyMW5ha1FzcVJZQ2V0NGJoeGRmTHhxVUF4YS1xMEJxTUF1RUdSaA?oc=5",
@@ -1405,6 +1406,38 @@
     "relevance_score": 8
   },
   {
+    "id": "5431a6b89740",
+    "title": "Exclusive | Record Companies Push to Label AI Songs on Streaming Platforms - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPdGJKR3ZGdVl6bFZodUZrYlFqdFhZdzVmRXBQQ0xuLUVPcnpPb3RSWUtEcHRZd1FDejFrUTZ5YmNyNEpuOGJQWmtzb3c3Rm44T1YxaHY5V08wYXB6SklkS0N3ZGYtWWZRSG9xaXZqblYteFd0VzJLYWdzUVhoajdIeGx5aXRhMEE3Nk16TzBoSkdjRmFvWHZXU2JzM01DazZm?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-10T11:00:00+00:00",
+    "summary": "Exclusive | Record Companies Push to Label AI Songs on Streaming Platforms WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "tech"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "7af0f2810a7d",
+    "title": "Big tech versus telecom, Europe in network fees dispute - SDxCentral",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQd3pIUDdiOFZFb0xJblA2R2JXV0lVcWdVVW9WRVh0cDZuZ09JWG1zTG5paEhMRDZsUXBXR2ZHMEhUdHVTWlhMN2xvMk16RG02ZnF2aXZKM0VFOXlvQU1ObF9TUnZ4Y0FpS05pM1Q2VUIzVkpzVnFXSUViVG5LN2FyUFdCejRST1o4TGUtdW5HcmY?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-07-10T12:03:41+00:00",
+    "summary": "Big tech versus telecom, Europe in network fees dispute SDxCentral",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "be35ca62da41",
     "title": "Microsoft Is Cutting More Than 3,000 Jobs in Xbox Division - WSJ",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB2NDcwOEg3clBYaURTcjF1M1V2bXhMd1JaSW9Od2tnVC1fdXNrRU56SGt0SE43QXNUTXN1RlB3cmlkQThCdkxxTzdNclREZ1FERzRseW9kR3FDNTd3QWtDQkJuTW1tSGc?oc=5",
@@ -1420,40 +1453,6 @@
     "relevance_score": 7
   },
   {
-    "id": "16a8044da68c",
-    "title": "American Heart Association joins social network Roon for medical research collaboration",
-    "url": "https://www.fiercehealthcare.com/health-tech/american-heart-association-joins-social-network-roon-medical-research-collaboration",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-07T14:41:00+00:00",
-    "summary": "Roon, a physician-only social network, is collaborating with the American Heart Association to integrate its medical research onto the platform to bridge published medical literature with real-time peer discussion.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2195534050.jpg?VersionId=C8NSchJAAOgLcgAxAEQa1LoBjqdLCv3C",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "db0abba119d9",
-    "title": "Wave Life Sciences Announces Singapore Court Hearing, to be held on July 14, 2026 to Approve Scheme of Arrangement for Redomiciliation - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFlFR2Y0Z3hNZktGamkzRU1HMnNyRjFvczlOUUJxRlFTeU45ZHNPSml2T0F5dkxhZG9YNlhDbnZZRERTVzJ0c0NCblhNd2Nyb1VCd29VYndZQy03SUtNMHAzZ0I0SHF1Z1FBMnFuOGNiOG54em1BUDJ4ZElMczRfcERGdEZKNmtBLWkzTzJic0tSZFNSRzV0aGdXVy1hS2hhLXRhenlSOEphT3BVTFE?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-07T20:15:00+00:00",
-    "summary": "Wave Life Sciences Announces Singapore Court Hearing, to be held on July 14, 2026 to Approve Scheme of Arrangement for Redomiciliation Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 7
-  },
-  {
     "id": "21caa110d06d",
     "title": "FDA Approves Ennumo | PharmExec - Pharmaceutical Executive",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5QbUEtT0ktdVZ5VUxGSVNGRW9WOUVBaHoyQmJRM2czblhvQkx2MmJZSDkzdnZNLURSVVlYN00tbzFoZ0ExZ1NROS1uaUNnYlhMNExYUW04ejFhWTFLWC1OTDI4TzhtRWc?oc=5",
@@ -1461,6 +1460,22 @@
     "source_category": "industry_lifesciences",
     "published": "2026-07-09T21:07:29+00:00",
     "summary": "FDA Approves Ennumo | PharmExec Pharmaceutical Executive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "7b1a9d470974",
+    "title": "Bausch + Lomb Introduces Orphia, an AI-Powered Digital Health Platform - VisionMonday.com",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQVHlia2FMR0ctU3RhSm9qV0JsSUpNQnowenlsUS0tb2dIMXdXbE1hU1RFSVROd0hBb1FIdE1POXpsNXFRWmV4bnAtTlhHYTh4bXBLUS1wcnphZWpNVkltQjV6WHR6QUgzYkR3cktMODdBNFlINEtEbkpfN2ktak5lVGZrMGVfSW9RMmEwdFpDdkNXSnoxYTNFdmJaSzFzRXp5c0hXa2JEeVAwb01wNVdaSldR?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-10T04:27:00+00:00",
+    "summary": "Bausch + Lomb Introduces Orphia, an AI-Powered Digital Health Platform VisionMonday.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1534,6 +1549,23 @@
     "relevance_score": 6
   },
   {
+    "id": "db0abba119d9",
+    "title": "Wave Life Sciences Announces Singapore Court Hearing, to be held on July 14, 2026 to Approve Scheme of Arrangement for Redomiciliation - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFlFR2Y0Z3hNZktGamkzRU1HMnNyRjFvczlOUUJxRlFTeU45ZHNPSml2T0F5dkxhZG9YNlhDbnZZRERTVzJ0c0NCblhNd2Nyb1VCd29VYndZQy03SUtNMHAzZ0I0SHF1Z1FBMnFuOGNiOG54em1BUDJ4ZElMczRfcERGdEZKNmtBLWkzTzJic0tSZFNSRzV0aGdXVy1hS2hhLXRhenlSOEphT3BVTFE?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-07T20:15:00+00:00",
+    "summary": "Wave Life Sciences Announces Singapore Court Hearing, to be held on July 14, 2026 to Approve Scheme of Arrangement for Redomiciliation Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 6
+  },
+  {
     "id": "03063e4f132c",
     "title": "Agnostic health tech service delivery as an operating model for technology readiness - GE HealthCare",
     "url": "https://news.google.com/rss/articles/CBMi9AFBVV95cUxNN0VSV0UtY05MMDhYZGR6NThMYUNxdHF6STg5T3A4cDFESXVQd2prMy1aLTFqaDZUdHI2REtnNUZmRXFEc1V5NHhqdGRZNG85TzcxUVZiV0hwS0l3ek5BOURaV3B0QTZ0bi1zWHVIWjVsb2h4Z05uTnc5TEVjd2R4YlhFWjhGVVJMNnlkYjFwVmxDUWg4TUhEZ1pXLTV4Tmc1WWdFakJpVlk4OWZxdS1mU1dCMndZZWJDU2Y1eVJRcEJHSXFlV0pYa3JYX0p4YlRaS0RVVjlTU1FOeUVmeHZMYVE2WXdrdVNSMVgxdzhzNFZfR1dv?oc=5",
@@ -1564,22 +1596,6 @@
       "tech",
       "telecom",
       "retail"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "e8ae2a9f1c73",
-    "title": "Telecom Fiji partners Toppan Ecquaria to drive AI-led digital transformation - Telecompaper",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbTh0LVFqRUI5TTFETExzZjFzb3d5RjV2Q0d2OW1qWjhQbGdPQm1VdGc1NUdLcGtsWXVKeU1pdl93UzMwelRUN3J1VmVwVFppZjZFU2J2X20tdENod21GenI2RkJNSzVqc2xGQVhRQzFwaTFJaDg4aFBLV2RLRUh5OF8tRVFBQUtvWU02ODc3U1lKVy1LMzdwWk13ZHJfMzdzR2d6TXRiYmdUZ0RsVkR4cUhTUEdhcnRHZkFr?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-07-07T06:01:39+00:00",
-    "summary": "Telecom Fiji partners Toppan Ecquaria to drive AI-led digital transformation Telecompaper",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "telecom"
     ],
     "relevance_score": 5
   },
@@ -1623,7 +1639,7 @@
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQeW9XS25hN3l5azF6SngwSE1Yb1lSc05tN1UyWktaMDhEdVJkUnkzMVhiM0J0NDREUGc2bVBjZ0tIQ0lnZFEzLThhN3YzWlZSNlR6QkFaODJ4WXJhWVJUZzRuUElrbXMwaVQ0alpvWHV0VHJuWkRpeUpEOGp6ZWFuczNoQnhVS2pISGlhMnRPVVVIdw?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-07-07T16:46:22+00:00",
+    "published": "2026-07-07T16:46:31+00:00",
     "summary": "FDA approves Vera Therapeutics kidney disease treatment STAT",
     "image_url": null,
     "tags": [],
@@ -1661,22 +1677,6 @@
     "tags": [],
     "industries": [
       "tech"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "f3aaf516434d",
-    "title": "Nayax shares slide after fintech company reveals cloud security breach - CTech",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jYnZyYi1vZ3FjX1VlX2pXaFNZaXBJdkxaRmFwM1d5ejdNeGJfNFEwRnJuMTdyMWc5QkZrc0NfREpZd3RkLWY3RjhaR2lYUGVpb3BpN1NLY0pYbmpMLWZ6bEJwYnJnbEZB?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-07-08T11:30:00+00:00",
-    "summary": "Nayax shares slide after fintech company reveals cloud security breach CTech",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
     ],
     "relevance_score": 5
   }
