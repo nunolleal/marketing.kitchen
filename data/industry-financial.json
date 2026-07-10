@@ -20,7 +20,7 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 64,
+    "relevance_score": 60,
     "also_covered_by": [
       "Health Tech"
     ]
@@ -40,27 +40,6 @@
       "financial"
     ],
     "relevance_score": 41
-  },
-  {
-    "id": "32d37e1d3e16",
-    "title": "Netflix reportedly considers adding always-on channels",
-    "url": "https://www.theverge.com/streaming/963733/netflix-always-on-channels-bundles",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-09T23:00:31+00:00",
-    "summary": "Netflix is thinking about adding always-on channels that would stream specific shows and movies, according to The Wall Street Journal. The move sounds like a Netflix version of always-on services like Pluto TV and Tubi, except the big hook for those is that they're free -...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK072-05.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Entertainment",
-      "Netflix",
-      "News",
-      "Streaming"
-    ],
-    "industries": [
-      "media",
-      "financial"
-    ],
-    "relevance_score": 17
   },
   {
     "id": "0c099a85d8fb",
@@ -84,7 +63,7 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "2fac32f1a766",
@@ -105,7 +84,28 @@
     "industries": [
       "financial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
+  },
+  {
+    "id": "32d37e1d3e16",
+    "title": "Netflix reportedly considers adding always-on channels",
+    "url": "https://www.theverge.com/streaming/963733/netflix-always-on-channels-bundles",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-09T23:00:31+00:00",
+    "summary": "Netflix is thinking about adding always-on channels that would stream specific shows and movies, according to The Wall Street Journal. The move sounds like a Netflix version of always-on services like Pluto TV and Tubi, except the big hook for those is that they're free -...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/03/acastro_STK072-05.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Entertainment",
+      "Netflix",
+      "News",
+      "Streaming"
+    ],
+    "industries": [
+      "media",
+      "financial"
+    ],
+    "relevance_score": 15
   },
   {
     "id": "219ae0ca03f9",
@@ -123,21 +123,6 @@
       "financial"
     ],
     "relevance_score": 13
-  },
-  {
-    "id": "8fd0a009d4cf",
-    "title": "BAC vs. WFC: Which Bank Is the Better Bet Ahead of Q2 Earnings? - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTUdiTVAtXzN5YmFDZWtzWWcyN25xSUkxTGJEbGhNRW5Oc3FFQlVrVEJMZENnbWhQdWJPTENGcWNqN2ZSeU04bklaYkRtenFVdFpVNmtEZXBnclhHdW9sS3RLc1VzR2RzZzBSbHBiOXotM3lLYkhrYkF4WWFMcTRONE5BSTVBSWZjRUFPREVUVjJ6NFZ0QjJ0RkdmRmc0aTZrdmFrSTNlcGFCNGVhSVFLR0RZemM4MTQ?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-07-09T14:27:00+00:00",
-    "summary": "BAC vs. WFC: Which Bank Is the Better Bet Ahead of Q2 Earnings? TradingView",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 12
   },
   {
     "id": "0fdfa059fe11",
@@ -187,38 +172,19 @@
     "relevance_score": 11
   },
   {
-    "id": "d4cc31ae4eb9",
-    "title": "Bank of America Says AI Will Drag Down Adobe Stock - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNQ1B1QXcxSU5ScTdYTkhSd0lRRmt3dVZvTW9Yak9HdF92VFZaVUUzWk9RclpvYWk0ajFLaVhnWko4RkxuRGhucVhMUERpbWxZa0xlZGJQUko1WVN6Y2NrSS1pQ19NYVZPeXpDcUZwbEVkYTM5SDY2TmMzUHdPTzE1ZFAtUFg4RmdJYnZKR1RuY3pwSEtr?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-07-09T13:30:02+00:00",
-    "summary": "Bank of America Says AI Will Drag Down Adobe Stock Yahoo Finance",
+    "id": "8fd0a009d4cf",
+    "title": "BAC vs. WFC: Which Bank Is the Better Bet Ahead of Q2 Earnings? - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOTUdiTVAtXzN5YmFDZWtzWWcyN25xSUkxTGJEbGhNRW5Oc3FFQlVrVEJMZENnbWhQdWJPTENGcWNqN2ZSeU04bklaYkRtenFVdFpVNmtEZXBnclhHdW9sS3RLc1VzR2RzZzBSbHBiOXotM3lLYkhrYkF4WWFMcTRONE5BSTVBSWZjRUFPREVUVjJ6NFZ0QjJ0RkdmRmc0aTZrdmFrSTNlcGFCNGVhSVFLR0RZemM4MTQ?oc=5",
+    "source": "Banking",
+    "source_category": "industry_financial",
+    "published": "2026-07-09T14:27:00+00:00",
+    "summary": "BAC vs. WFC: Which Bank Is the Better Bet Ahead of Q2 Earnings? TradingView",
     "image_url": null,
     "tags": [],
     "industries": [
       "financial"
     ],
-    "relevance_score": 11,
-    "also_covered_by": [
-      "Adobe Inc"
-    ]
-  },
-  {
-    "id": "d9719718770e",
-    "title": "Telecoms set for mixed Q2 as AI investment race looms - The Korea Times",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQNlgtTmJqcVhETFZWTDByY2FObkhNYllUeC1sY2F6b1o0b1NJY3NmVGp6X2J1NE1XZV82UXRJNnI3R2QwUnU0TFk2TTJ1dWd4ZFdrcGVBbU0zTWdIRUZFZFQ1WEFDZnJVcDFmTFJ3Q2x0OEw2cXRUeDRibk1mQVRBWmE4MVZadkNJaDVFT1RBa0FFNkNRbTBBOFI1WFlyQUl1aGRodGFkdER2dFRQU19zdkVkVdIBuAFBVV95cUxOZm9vVzYzVkRId3NZTDZXSEc4SHkzZmc5eTlhZ0VfTzV6bWE0TFNIekN1NDE0VXl4UklNcThCWnhEWFM4UGdxTTNEYXpqZUJiRHlTcUdSTkFPNDJqUjdfcm5yS2t5cU1YWk1yMVlDbzk3Qmt1WmktNmhROW1DeTNUZVYwdkwzZEQta2hzS2NvQVpyc3NFV0xSSF9HU20xWU9MVFZhUWNlaVh5cGZPYXRKX1RNN0F4TGc3?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-07-09T06:07:03+00:00",
-    "summary": "Telecoms set for mixed Q2 as AI investment race looms The Korea Times",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "financial"
-    ],
-    "relevance_score": 10
+    "relevance_score": 11
   },
   {
     "id": "7ee61b2dfb3a",
@@ -236,61 +202,13 @@
     "relevance_score": 10
   },
   {
-    "id": "7045ce85b700",
-    "title": "UK life sciences attracts £3bn investment, creating jobs and faster patient treatments - Wired-Gov",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZkdNNEk2U1pNLUprQ1VxQWZHNk1PTGpTU2FHZ0Rmc09QVGYwcmZqUEFMaHBza1RtYjBuendKRnhhaUotMVU4VDRBUkdicDBhX29Gczk5UG9aNEwzQTRPMEZWaW5UXzVRVk1taDRBV0ZvTndzNnFBc0h1R0w0YjRDSHluc0dISV85UENNNkx0SVdmcHZ1WUEyVU9iSjV1WGF2MGEtT2VJRXl4aVZfb2FsVXpUdjlsVW1wSklDc2hOcTVBVTZxcWtVWDdTOV9jSm5QZzRYYlRiRl9Yc3dwelFXcmo4UnA0UQ?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-09T10:06:44+00:00",
-    "summary": "UK life sciences attracts £3bn investment, creating jobs and faster patient treatments Wired-Gov",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "047bf8677ee1",
-    "title": "Block settles Cash App case with 46 US states for $45m - Electronic Payments International",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY3d5NUt6NTBLbmJmcUNpMzdHZjRTQ3VrV2t0WUlEb3RtbjJVYXdDb2stb3F2aDV5dVVQeG43bFBUc2phWUxHdXJocnFURUNWRlNYanhySW8xc3BxcjNFa29RZ0dZUTZyMW5ha1FzcVJZQ2V0NGJoeGRmTHhxVUF4YS1xMEJxTUF1RUdSaA?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-07-09T10:42:16+00:00",
-    "summary": "Block settles Cash App case with 46 US states for $45m Electronic Payments International",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "d375647dd107",
-    "title": "Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbmR2QXlpVk8xRUVDcU5VQ0tGUWVMaXNkS3QtM1VPQlV5MFdtMHpBdjg3RW01ZUZHYVpONEI0V3M4MndmLTZoTWsyMF9vLU5RdnNrc3YyVE15djQ1RWlOa1JlQUx0STl0QkxueGFGak0wUjFadXAyZm15UG5NM19hZHBRbXExWGVTeW1iVHpEVlFLXzlGR1ZBRVotUEFZTXV6UjRLclBCdDhpVndlMzhGdkh1di1CLXRUbWZPd3BzX3ZybVFTQngxVWdReDU1eFFB?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-07-09T11:09:05+00:00",
-    "summary": "Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants CoinDesk",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "bd34e0f1c8b6",
-    "title": "Wall Street climbs, oil slides as Middle East conflict resumes - The Spokesman-Review",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNM1I1NTlwTGZKSkxtTUttZjJXcU5SbVhRemNSMHJyc1ZSSXc1Wm9Hc3lidktlYWFybURWOXk4QndKeXh4NTlPYTQtNl9WczU3UHUzUTZaczhXcDFEaE1MVjY5MUN5MTVCMGV4bGJJeGlBTHY0SnJFLWl2SXJZanN4a3pmY0V1QnpJUXVnSGZvcnlEYXhXTC1fZk1nenNDZw?oc=5",
+    "id": "7f385f623499",
+    "title": "SK Hynix is set to make its Wall Street debut. Will that narrow the chipmaker's 'Korea discount'? - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNZE9lODdCOHZ0aS1YVmNSWlhmQnBCazZmUDl5Nk9EaC1VYXBZc2ZCS3U4RzRFRVFwTlIwSVVVMkNTemJxMnItWi1iV3dEMW53QkduQ2RrdDkteVJPb01PaTJIOGhpNXdlb2c5alRpdE9vVFR0NFlLazZONkdaTDJZdmkxaVpqSVU3S1FjaUNGYUhPTEw1aVpEUzM4dmZ2Mk5k?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-07-09T22:05:00+00:00",
-    "summary": "Wall Street climbs, oil slides as Middle East conflict resumes The Spokesman-Review",
+    "published": "2026-07-10T04:03:28+00:00",
+    "summary": "SK Hynix is set to make its Wall Street debut. Will that narrow the chipmaker's 'Korea discount'? CNBC",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -299,32 +217,16 @@
     "relevance_score": 10
   },
   {
-    "id": "0e872fdcd63a",
-    "title": "European sovereignty is also a matter of payment infrastructure - Electronic Payments International",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNeXgxZFNhX25pTG56c3RGWG15ODV6UWE1bV9hd3M0dTVWaGJ0MTBFekxKVXBudVNDdGlJQ2sya0tlT1BuMF9yY29VRnRBUzVuYk93RENKcXkyYUQ2ZHJrTEc5ZG9SVG5zcmtEWkxzTVVCYWNhRHgwcWJWN3hrSmx0VkZZOV9MTzc1aXpmbTVsV1YxdVBYanZpWHU0T0E2Qm9DQjJvMl9jQWtLTFNjZU5mdHdtVXNyQQ?oc=5",
+    "id": "b3b30ff7f397",
+    "title": "European Parliament clears path for digital euro talks - Electronic Payments International",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNd1RiV29zd3B2RFJBbXF5UTBQUDVhUDVHSkZ6QnJHNHU2Y1RQRmRjeThhVWhFLVBjZTJkWXZyN3l1LUtVYzdGUUhWQnllc01ZMU9VZlBTWkNZRGlHbEtFSzQ3c0k2Nzlzbnc0bll5bTdZdmJoNlVjSVVWTFdVTk5JRlpzdmRVdFRPQ2xWOEJQNngwUjRCcE8zZFNMaTViWE9fcnpYbElydDJfNS0t?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-07-09T22:42:41+00:00",
-    "summary": "European sovereignty is also a matter of payment infrastructure Electronic Payments International",
+    "published": "2026-07-10T06:42:48+00:00",
+    "summary": "European Parliament clears path for digital euro talks Electronic Payments International",
     "image_url": null,
     "tags": [],
     "industries": [
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "3ea2f8d3c4ae",
-    "title": "As digital payments grow, firms confront back-office challenge - InsiderPH",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPelo2S3JlSV83Y0Q1WW9mdkFneWZZdnBUTkZicUx1azZYWVRzZlBvbXJfd3pmMXQzUkROZmZreWlNN3pTRGd0aWVHMkEzX0FOSWJoRGpTbVVJRFJJaE1DSjR6SU1HSEs5Y1d1OHNKSGFmZkcyeEJqWkxpVkFQNjVDUUtsWkZjcjRCV1Aw?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-07-10T01:09:02+00:00",
-    "summary": "As digital payments grow, firms confront back-office challenge InsiderPH",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
       "financial"
     ],
     "relevance_score": 10
@@ -384,31 +286,65 @@
     "relevance_score": 9
   },
   {
-    "id": "6410262c2f71",
-    "title": "Private sector alliance aims to accelerate Africa’s interoperable digital payments - Biometric Update",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdGJRN3ZuNEZZQkpseWpQSXN0ZGFqdmxDY1NNSHZFWXk1bUdQV1cwdDRRR056cTNuQ2phSGVuaDY5UEMzWGRnZFdqTjZYa1p3OXhiMTE0YnVHdWVYN1FyVjBLYkN6QnN5RFdFcTRJQ19oa1NtMUpITHJCSW9tVkFUbklvTnh6UHR5cEhsWndJeWpOcGZ3RE5RY1U5Si1IeC0yTkJNZ3N4dnZYLUNDNS0xbVRWdmZwQ3diZmk2cA?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-07-09T14:48:00+00:00",
-    "summary": "Private sector alliance aims to accelerate Africa’s interoperable digital payments Biometric Update",
+    "id": "7045ce85b700",
+    "title": "UK life sciences attracts £3bn investment, creating jobs and faster patient treatments - Wired-Gov",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOZkdNNEk2U1pNLUprQ1VxQWZHNk1PTGpTU2FHZ0Rmc09QVGYwcmZqUEFMaHBza1RtYjBuendKRnhhaUotMVU4VDRBUkdicDBhX29Gczk5UG9aNEwzQTRPMEZWaW5UXzVRVk1taDRBV0ZvTndzNnFBc0h1R0w0YjRDSHluc0dISV85UENNNkx0SVdmcHZ1WUEyVU9iSjV1WGF2MGEtT2VJRXl4aVZfb2FsVXpUdjlsVW1wSklDc2hOcTVBVTZxcWtVWDdTOV9jSm5QZzRYYlRiRl9Yc3dwelFXcmo4UnA0UQ?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-09T10:06:44+00:00",
+    "summary": "UK life sciences attracts £3bn investment, creating jobs and faster patient treatments Wired-Gov",
     "image_url": null,
     "tags": [],
     "industries": [
+      "lifesciences",
       "financial"
     ],
     "relevance_score": 9
   },
   {
-    "id": "4333cbc1793f",
-    "title": "Wall Street rises as chip rally offsets renewed Iran worries - Virginia Business",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQSkRaSFRiQ25oRXZHQ1NGay1KMUxzVU9GMTZjaUNOQkRsSTNDa1FxSEc4RGNNX0NuQUM0SW0zR3o1eTNuUEg0XzVpQldtdTJPbjhZNl9OcUhBci1vRnRnUm9LOExrcUNCV052Q3JQZXNYOWNNVjRxXzZ3MGszTjlhWkdOdFowNUJIZGRTRWxtVngyZnE3?oc=5",
-    "source": "Wall Street",
+    "id": "047bf8677ee1",
+    "title": "Block settles Cash App case with 46 US states for $45m - Electronic Payments International",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxQY3d5NUt6NTBLbmJmcUNpMzdHZjRTQ3VrV2t0WUlEb3RtbjJVYXdDb2stb3F2aDV5dVVQeG43bFBUc2phWUxHdXJocnFURUNWRlNYanhySW8xc3BxcjNFa29RZ0dZUTZyMW5ha1FzcVJZQ2V0NGJoeGRmTHhxVUF4YS1xMEJxTUF1RUdSaA?oc=5",
+    "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-07-09T18:47:59+00:00",
-    "summary": "Wall Street rises as chip rally offsets renewed Iran worries Virginia Business",
+    "published": "2026-07-09T10:42:16+00:00",
+    "summary": "Block settles Cash App case with 46 US states for $45m Electronic Payments International",
     "image_url": null,
     "tags": [],
     "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "d375647dd107",
+    "title": "Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQbmR2QXlpVk8xRUVDcU5VQ0tGUWVMaXNkS3QtM1VPQlV5MFdtMHpBdjg3RW01ZUZHYVpONEI0V3M4MndmLTZoTWsyMF9vLU5RdnNrc3YyVE15djQ1RWlOa1JlQUx0STl0QkxueGFGak0wUjFadXAyZm15UG5NM19hZHBRbXExWGVTeW1iVHpEVlFLXzlGR1ZBRVotUEFZTXV6UjRLclBCdDhpVndlMzhGdkh1di1CLXRUbWZPd3BzX3ZybVFTQngxVWdReDU1eFFB?oc=5",
+    "source": "Banking",
+    "source_category": "industry_financial",
+    "published": "2026-07-09T11:09:05+00:00",
+    "summary": "Swift rolls out new blockchain ledger to bring 24/7 banking to 17 global giants CoinDesk",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "3ea2f8d3c4ae",
+    "title": "As digital payments grow, firms confront back-office challenge - InsiderPH",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPelo2S3JlSV83Y0Q1WW9mdkFneWZZdnBUTkZicUx1azZYWVRzZlBvbXJfd3pmMXQzUkROZmZreWlNN3pTRGd0aWVHMkEzX0FOSWJoRGpTbVVJRFJJaE1DSjR6SU1HSEs5Y1d1OHNKSGFmZkcyeEJqWkxpVkFQNjVDUUtsWkZjcjRCV1Aw?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-07-10T01:09:02+00:00",
+    "summary": "As digital payments grow, firms confront back-office challenge InsiderPH",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
       "financial"
     ],
     "relevance_score": 9
@@ -436,6 +372,21 @@
     "source_category": "industry_financial",
     "published": "2026-07-06T14:35:38+00:00",
     "summary": "Wells Fargo on positive catalyst watch at J.P. Morgan ahead of Q2 earnings (WFC:NYSE) Seeking Alpha",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "e8d713ab191b",
+    "title": "Adobe reinstated at Underperform by Bank of America as AI pressures growth outlook - Proactive financial news",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQOURfWEd0OWl0OUVSSkdtR05TaE41TTNOUU9nTVdsY2p5WDJQcG94VkhjN2l0OVBlOGhrTzkwNDUwRF9HMm5Qa3BoeTFaMXFZZXF5bXROUWFMRUhGdm1ESVdXNUt3QW13LUR1aUhYandVaHFmTTRoNldQeFpIMXVST3FHQkQ5SmdvZ3Q5eGE3ZTFRRE1JemhJWnM0b1RJZjNOZ0V4emV0SENjVDZjTmRLMEQwdm43dFhsQ21wOGlreFdfQmp2eEVjNzZmdnJHREtZMWRudVp4MXFLYzJyM2plN0N6MW5tOVNt?oc=5",
+    "source": "Adobe Inc",
+    "source_category": "adobe",
+    "published": "2026-07-07T14:59:00+00:00",
+    "summary": "Adobe reinstated at Underperform by Bank of America as AI pressures growth outlook Proactive financial news",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -477,59 +428,13 @@
     "relevance_score": 8
   },
   {
-    "id": "82da0c6de70f",
-    "title": "Mastercard taps Israeli fintech Neema to challenge the traditional cross-border payments model - CTech",
-    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IcXMyMlVnOGpYMUxfWk9IYzFXM195cjItWm5ZLXp3Q0V2NERyNFZFN19DUjA1MjRrcm5sLU1Hb1FidUxmdUN6aFVncnhibUFzUHJNeHBDTjNlMXJPbmNyVVVQTm9Db3po?oc=5",
+    "id": "6410262c2f71",
+    "title": "Private sector alliance aims to accelerate Africa’s interoperable digital payments - Biometric Update",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNdGJRN3ZuNEZZQkpseWpQSXN0ZGFqdmxDY1NNSHZFWXk1bUdQV1cwdDRRR056cTNuQ2phSGVuaDY5UEMzWGRnZFdqTjZYa1p3OXhiMTE0YnVHdWVYN1FyVjBLYkN6QnN5RFdFcTRJQ19oa1NtMUpITHJCSW9tVkFUbklvTnh6UHR5cEhsWndJeWpOcGZ3RE5RY1U5Si1IeC0yTkJNZ3N4dnZYLUNDNS0xbVRWdmZwQ3diZmk2cA?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-07-09T06:46:00+00:00",
-    "summary": "Mastercard taps Israeli fintech Neema to challenge the traditional cross-border payments model CTech",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "72c79bf053c9",
-    "title": "More Bang for Your Buck: Is Bank of America or Wells Fargo the Better Value-and-Income Buy? - aol.com",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ja1doYUVTR29FNHgzT294cl9zNmhyRlNlT0ZBSUZIeUtwLVQzR251UzdNdGQ1dXFsaW96NE9uRTNZRl9GZ2duLU5iOGREMDgwU3Uxa2VCdlB2TW42RnhQajcxSlBPdWllWGI2MTd0RFBzUXYxYUxQZ3R1TQ?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-07-09T10:42:38+00:00",
-    "summary": "More Bang for Your Buck: Is Bank of America or Wells Fargo the Better Value-and-Income Buy? aol.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "737c1573db86",
-    "title": "Israel’s digital wallet boom signals a new era for online payments - The Jerusalem Post",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNODI0VDVvN2JXU3VKeVBrdGt2SEIxQlJpeERmZDBPX0NkNFlLQldGY0tCVFg4cUVpSkxWTTQtZHl5dG5TV3dBb2tKeUNJRmtraldOa202QTZPWGJ0VEVjSTVtMlhCUmZkNWxJcUtIb2VJNFBuell3SUg4YWRpLVRFbWJPdlhrdw?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-07-09T10:48:56+00:00",
-    "summary": "Israel’s digital wallet boom signals a new era for online payments The Jerusalem Post",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "54b8ce53c77e",
-    "title": "FIS on Why Payments Orchestration is Now Mission Critical - FinTech Magazine",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPajJHUkYxWDlBTUFMVDZCbktCT2ZiS1VVQzJwM1RWRjlHRjY5TUlXQ1I5VnJaZlpLaWY3Y2NOUWpxd1k4RXAxUmh2eFY4WFpfWUN4SWRLOHV2REZmdTVrcnhFcE5HYkp1TnFNSjZvSGpGODUwZmFWdFJCNXdnbE0yY2pzeEpFSVdjZndtUGVfTVg2MWNW?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-07-09T15:04:52+00:00",
-    "summary": "FIS on Why Payments Orchestration is Now Mission Critical FinTech Magazine",
+    "published": "2026-07-09T14:48:00+00:00",
+    "summary": "Private sector alliance aims to accelerate Africa’s interoperable digital payments Biometric Update",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -539,12 +444,12 @@
   },
   {
     "id": "c8337d9b5d97",
-    "title": "Wall Street Finds a New Way to Help Investors Avoid Elon Musk - Bloomberg.com",
+    "title": "Wall Street Finds a New Way to Help Investors Avoid Elon Musk - Bloomberg",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOWG43eWlTTzVULXY3Vm1iYXJ6SU1hZ3FUNTA3SGlyRF9NN3Z1SV9pTDdQYl9UalZzWV8xdjlTbTF0NFNSRnQ1WWtkMUxudGhLLUVBVUt3U2tZSVZDbDRrRHdiUzdIS1ZGQURDakMxSEZ3Y0lxWTB5NUxZLUtvbWk3US1zMS0yNndWOGl0VjhWOU0wLVdObzBhTTB1VDZJY2hROG9uUUpLQWlKSHo4b1NzOWhR?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
     "published": "2026-07-09T16:31:02+00:00",
-    "summary": "Wall Street Finds a New Way to Help Investors Avoid Elon Musk Bloomberg.com",
+    "summary": "Wall Street Finds a New Way to Help Investors Avoid Elon Musk Bloomberg",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -553,29 +458,43 @@
     "relevance_score": 8
   },
   {
-    "id": "e9bd1d790085",
-    "title": "stc pay Bahrain adds Mastercard Click to Pay for online checkout - Electronic Payments International",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRUZ4R2tzdkJzZWJ2ZVZ4dlotc3dWTGxyYnlMMVUzSnRSOXU2R3laQVc2YUxTMnJyeWlqRXVJa0l0MzE0MWNXWGxwUExMS1M2WExLeEJhREtfSlFUeXFfd1RoVndYZFM5WEt2dXR6X3djYVBoMkk2T0RfQ0RqcmlsSEpDa3B5ZmUtRDBBeVJmWmJkeElSa2RPYkI2aVVERHgwQ3Vfc3V4S3dNTVk3SE4xak5wOXdPX04zTGc?oc=5",
-    "source": "Fintech",
+    "id": "e90bfb4c3563",
+    "title": "The Chip Trade Is Helping Wall Street Shake Off Latest Iran Strikes - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQVGRaSzFyRkFWX2pzVm1EXzRpQ3U3U0Rzdjl5NnhqMmVPMUx5cXAzZm00WlFUY1JaUVc0YjZFM3RLZ1hodEpGcnNxUXkzaVZVa3JsZkx4MTdnMThWRVBmMkE2QkoyeHpxaEtnUGwzLWNqaXBWV0JmNkJhaHRjeW93Rk1MMEhvOG9qOU8xSWpJYmRkb0VfQ2tsV2JLOGZVQjRWLS1oZk1tcE1rcF9SaExucw?oc=5",
+    "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-07-08T06:21:50+00:00",
-    "summary": "stc pay Bahrain adds Mastercard Click to Pay for online checkout Electronic Payments International",
+    "published": "2026-07-09T21:04:00+00:00",
+    "summary": "The Chip Trade Is Helping Wall Street Shake Off Latest Iran Strikes WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
-      "retail",
       "financial"
     ],
-    "relevance_score": 7
+    "relevance_score": 8
   },
   {
-    "id": "f962635696e8",
-    "title": "JPMorgan, Wells Fargo, other big banks plan dividend increases, stock buybacks - MSN",
-    "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQVWxveVBvZVpheFh3MFQwcGpKOHhTVmtNQ3dRWTZWVGJ1cmlJVExncGFLTVA5MENzdzNFQW9HVnRXUUhIamtlSXVJZ0RfR0tubjhIZTdPNDN3SWxoal9qbktMUzF0ODdFQ2RqZW9PMXhUVGtkaTlfWHRqX0EtVU1DeDZ6TjFDM1JFWW5Cd19leWJJcUpZcTE3RDdDaTVwOXdGamJrMTB1TDMzMUN4UEJ3S3NIaEZEa21sdWZVUURmd2xLVzdpeFN5UEltUHBYVGxFeEtDQzl6WTBZc0t3WXVNT0l3cW1VV05QWnh2LW5YbXNWeFl6eUpfSVNrMHBZZ01LakE3NzdSdFlLQXJTT0huQzEwY0doaUFfT2k1bGxHalgwdmFHNi1ocWJtd09pd0hWdElUSzItZlBZNVAtNWRER1dicHFJZ1FTSFFZMmZCSjBaSks2cTZKbnZKM0JDSm9WbkhCaDVnZWVEcXdXMnZNLUJnMno1NGN3cmpuQlVwdjcyU0h0UEswQkNSelhtTmY3NUtKZjRQTmtxMDJtNVRzQXlpdVdBMm81Nm9oZW45eDN3Szg?oc=5",
+    "id": "21f681bc8be6",
+    "title": "Wall Street banks rule on staff betting on prediction markets, sources say - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNRFhiZnhFd1J6SGZaMVFldDkyVUtVRERYa3hqS1BwQ3I5eWhpa081WkxDVk1wQmZnei1iVU9CMmJrZ1ZhNzBpRnd5ejdOUzExMDFENFRWWXRYOXhOaWNNUWM1ZlJGWHB1R3pvSEl1cjd0eEM1YkRsZUxnSkN5RmNiNU5fWm92YnZDNVNKbmM3M3pSWnRGOVhacVpteF9Bck9BR042cGpPSGViRkxQS21EVzNqTWJjMVpSbDdNVi1obW1zUTBUMnA1Ul83czU3dw?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-09T23:13:39+00:00",
+    "summary": "Wall Street banks rule on staff betting on prediction markets, sources say Reuters",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "2500e5b0036b",
+    "title": "JPMorgan, Wells Fargo outline bullish 2026 market and stock picks - MSN",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxOdGkyeWdsb3FhejB0OThZQ18tREJHRzdsUW4xSnVTZkNLS1dCMzRXWjI5bmFYcW5kNloxM3MtV21acXFzZDBFaC1JSXp0RjJlRWpzR2xxMk16WjBzVzIyUnpfMGQ1RlVFcnVaU3FScWMyWUlYOHRDUi1DSERMOFpIRUt0cEpodlNIdW16b2djdXlEdTZJSEVHazhieTlmRjlabVdTRy05OW5RWXkxTk9kbnlyb0EwTzJ5dl9BbzRCX0FjNnJUVU81N2tQaWR2cnkwUVFiMWlHdEd3WHVhcHNrYzl6eTBiVnJKeEE?oc=5",
     "source": "Banking",
     "source_category": "industry_financial",
-    "published": "2026-07-08T06:32:14+00:00",
-    "summary": "JPMorgan, Wells Fargo, other big banks plan dividend increases, stock buybacks MSN",
+    "published": "2026-07-03T16:55:01+00:00",
+    "summary": "JPMorgan, Wells Fargo outline bullish 2026 market and stock picks MSN",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -584,13 +503,13 @@
     "relevance_score": 7
   },
   {
-    "id": "551479f02b3b",
-    "title": "Taptap Send secures UAE licences to expand digital payments - IBS Intelligence",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU0JfMjNfVmxZM2xLelBhSHZraWhwQjhKMFBHalpVVVlDYnJrNVd3MkhFbWN1VGM5d0JWWlRCQnRteVo1YjJxdjNLdnJPUzdRYVFkRkQtYzJMVEpxMFVVekhmeHBTUE1zQVJXWDczR2xuODJncGozckM1VktwY2xuemZWdUtLdm1NMWNoYlBfQkVfRllxNGFOTlotb1k4UnM?oc=5",
+    "id": "82da0c6de70f",
+    "title": "Mastercard taps Israeli fintech Neema to challenge the traditional cross-border payments model - CTech",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE1IcXMyMlVnOGpYMUxfWk9IYzFXM195cjItWm5ZLXp3Q0V2NERyNFZFN19DUjA1MjRrcm5sLU1Hb1FidUxmdUN6aFVncnhibUFzUHJNeHBDTjNlMXJPbmNyVVVQTm9Db3po?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-07-09T06:37:19+00:00",
-    "summary": "Taptap Send secures UAE licences to expand digital payments IBS Intelligence",
+    "published": "2026-07-09T06:46:00+00:00",
+    "summary": "Mastercard taps Israeli fintech Neema to challenge the traditional cross-border payments model CTech",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -607,6 +526,51 @@
     "source_category": "industry_financial",
     "published": "2026-07-09T08:44:50+00:00",
     "summary": "Digital payments being accepted at Colville National Forest Coeur d'Alene Press",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "72c79bf053c9",
+    "title": "More Bang for Your Buck: Is Bank of America or Wells Fargo the Better Value-and-Income Buy? - AOL.com",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE9Ja1doYUVTR29FNHgzT294cl9zNmhyRlNlT0ZBSUZIeUtwLVQzR251UzdNdGQ1dXFsaW96NE9uRTNZRl9GZ2duLU5iOGREMDgwU3Uxa2VCdlB2TW42RnhQajcxSlBPdWllWGI2MTd0RFBzUXYxYUxQZ3R1TQ?oc=5",
+    "source": "Banking",
+    "source_category": "industry_financial",
+    "published": "2026-07-09T10:42:38+00:00",
+    "summary": "More Bang for Your Buck: Is Bank of America or Wells Fargo the Better Value-and-Income Buy? AOL.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "737c1573db86",
+    "title": "Israel’s digital wallet boom signals a new era for online payments - The Jerusalem Post",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNODI0VDVvN2JXU3VKeVBrdGt2SEIxQlJpeERmZDBPX0NkNFlLQldGY0tCVFg4cUVpSkxWTTQtZHl5dG5TV3dBb2tKeUNJRmtraldOa202QTZPWGJ0VEVjSTVtMlhCUmZkNWxJcUtIb2VJNFBuell3SUg4YWRpLVRFbWJPdlhrdw?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-07-09T10:48:56+00:00",
+    "summary": "Israel’s digital wallet boom signals a new era for online payments The Jerusalem Post",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "54b8ce53c77e",
+    "title": "FIS on Why Payments Orchestration is Now Mission Critical - FinTech Magazine",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPajJHUkYxWDlBTUFMVDZCbktCT2ZiS1VVQzJwM1RWRjlHRjY5TUlXQ1I5VnJaZlpLaWY3Y2NOUWpxd1k4RXAxUmh2eFY4WFpfWUN4SWRLOHV2REZmdTVrcnhFcE5HYkp1TnFNSjZvSGpGODUwZmFWdFJCNXdnbE0yY2pzeEpFSVdjZndtUGVfTVg2MWNW?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-07-09T15:04:52+00:00",
+    "summary": "FIS on Why Payments Orchestration is Now Mission Critical FinTech Magazine",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -675,16 +639,48 @@
     "relevance_score": 6
   },
   {
-    "id": "d69f6b5fe9e1",
-    "title": "Wells Fargo & Co. navigates credit trends as a major U.S. lender - Ad-hoc-news.de",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOa25RMG94MEZVOUR4TERnV29helI4X2M0TGtXTURKTnctZVRSS3hpeUxFNkNjbGVWaXk5cHhNQnE1M0IybE9JVVhibFdiWnU0T3NYYXBXWWNrLWdLdFEtc2N1anhaOEVqcG5WbzJfd3N5Tk5yRDl6Q2w3a1Q2MnFnTGFLYVpsUnlVYlJhYnBCQVY4OTFsYV9hdEI0SnFVNjV5UlVmTldLY1Z2TEJaTDNqTXVETlAzUmE1UGN2WWttS1k?oc=5",
-    "source": "Banking",
+    "id": "e9bd1d790085",
+    "title": "stc pay Bahrain adds Mastercard Click to Pay for online checkout - Electronic Payments International",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPRUZ4R2tzdkJzZWJ2ZVZ4dlotc3dWTGxyYnlMMVUzSnRSOXU2R3laQVc2YUxTMnJyeWlqRXVJa0l0MzE0MWNXWGxwUExMS1M2WExLeEJhREtfSlFUeXFfd1RoVndYZFM5WEt2dXR6X3djYVBoMkk2T0RfQ0RqcmlsSEpDa3B5ZmUtRDBBeVJmWmJkeElSa2RPYkI2aVVERHgwQ3Vfc3V4S3dNTVk3SE4xak5wOXdPX04zTGc?oc=5",
+    "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-07-08T10:54:15+00:00",
-    "summary": "Wells Fargo & Co. navigates credit trends as a major U.S. lender Ad-hoc-news.de",
+    "published": "2026-07-08T06:21:50+00:00",
+    "summary": "stc pay Bahrain adds Mastercard Click to Pay for online checkout Electronic Payments International",
     "image_url": null,
     "tags": [],
     "industries": [
+      "retail",
+      "financial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "f962635696e8",
+    "title": "JPMorgan, Wells Fargo, other big banks plan dividend increases, stock buybacks - MSN",
+    "url": "https://news.google.com/rss/articles/CBMiswNBVV95cUxQVWxveVBvZVpheFh3MFQwcGpKOHhTVmtNQ3dRWTZWVGJ1cmlJVExncGFLTVA5MENzdzNFQW9HVnRXUUhIamtlSXVJZ0RfR0tubjhIZTdPNDN3SWxoal9qbktMUzF0ODdFQ2RqZW9PMXhUVGtkaTlfWHRqX0EtVU1DeDZ6TjFDM1JFWW5Cd19leWJJcUpZcTE3RDdDaTVwOXdGamJrMTB1TDMzMUN4UEJ3S3NIaEZEa21sdWZVUURmd2xLVzdpeFN5UEltUHBYVGxFeEtDQzl6WTBZc0t3WXVNT0l3cW1VV05QWnh2LW5YbXNWeFl6eUpfSVNrMHBZZ01LakE3NzdSdFlLQXJTT0huQzEwY0doaUFfT2k1bGxHalgwdmFHNi1ocWJtd09pd0hWdElUSzItZlBZNVAtNWRER1dicHFJZ1FTSFFZMmZCSjBaSks2cTZKbnZKM0JDSm9WbkhCaDVnZWVEcXdXMnZNLUJnMno1NGN3cmpuQlVwdjcyU0h0UEswQkNSelhtTmY3NUtKZjRQTmtxMDJtNVRzQXlpdVdBMm81Nm9oZW45eDN3Szg?oc=5",
+    "source": "Banking",
+    "source_category": "industry_financial",
+    "published": "2026-07-08T06:32:14+00:00",
+    "summary": "JPMorgan, Wells Fargo, other big banks plan dividend increases, stock buybacks MSN",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "f3aaf516434d",
+    "title": "Nayax shares slide after fintech company reveals cloud security breach - CTech",
+    "url": "https://news.google.com/rss/articles/CBMiaEFVX3lxTE9jYnZyYi1vZ3FjX1VlX2pXaFNZaXBJdkxaRmFwM1d5ejdNeGJfNFEwRnJuMTdyMWc5QkZrc0NfREpZd3RkLWY3RjhaR2lYUGVpb3BpN1NLY0pYbmpMLWZ6bEJwYnJnbEZB?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-07-08T11:30:00+00:00",
+    "summary": "Nayax shares slide after fintech company reveals cloud security breach CTech",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
       "financial"
     ],
     "relevance_score": 6
@@ -732,6 +728,22 @@
     "tags": [],
     "industries": [
       "telecom",
+      "financial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "551479f02b3b",
+    "title": "Taptap Send secures UAE licences to expand digital payments - IBS Intelligence",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNU0JfMjNfVmxZM2xLelBhSHZraWhwQjhKMFBHalpVVVlDYnJrNVd3MkhFbWN1VGM5d0JWWlRCQnRteVo1YjJxdjNLdnJPUzdRYVFkRkQtYzJMVEpxMFVVekhmeHBTUE1zQVJXWDczR2xuODJncGozckM1VktwY2xuemZWdUtLdm1NMWNoYlBfQkVfRllxNGFOTlotb1k4UnM?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-07-09T06:37:19+00:00",
+    "summary": "Taptap Send secures UAE licences to expand digital payments IBS Intelligence",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
       "financial"
     ],
     "relevance_score": 6
