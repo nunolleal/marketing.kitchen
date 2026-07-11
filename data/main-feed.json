@@ -16,7 +16,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 45
+    "relevance_score": 42
   },
   {
     "id": "f1d64685df93",
@@ -37,7 +37,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 58
+    "relevance_score": 55
   },
   {
     "id": "690700efc13f",
@@ -56,7 +56,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 56
+    "relevance_score": 53
   },
   {
     "id": "39e9f2c1cdd8",
@@ -70,6 +70,22 @@
     "tags": [],
     "industries": [
       "industrial"
+    ],
+    "relevance_score": 43
+  },
+  {
+    "id": "68cf54912237",
+    "title": "J.C. Penney declines continue in Q1 after holiday stumbles",
+    "url": "https://www.retaildive.com/news/jc-penney-declines-continue-q1-after-holiday-stumbles-tariff-refund/824921/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-07-10T15:59:00+00:00",
+    "summary": "Losses narrowed, though, and the department store’s backing from Catalyst Brands gives it some breathing room.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "consumer"
     ],
     "relevance_score": 46
   },
@@ -90,43 +106,7 @@
       "standard"
     ],
     "industries": [],
-    "relevance_score": 42
-  },
-  {
-    "id": "68cf54912237",
-    "title": "J.C. Penney declines continue in Q1 after holiday stumbles",
-    "url": "https://www.retaildive.com/news/jc-penney-declines-continue-q1-after-holiday-stumbles-tariff-refund/824921/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-07-10T15:59:00+00:00",
-    "summary": "Losses narrowed, though, and the department store’s backing from Catalyst Brands gives it some breathing room.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "consumer"
-    ],
-    "relevance_score": 46
-  },
-  {
-    "id": "6a3656e196c7",
-    "title": "Who trains tomorrow’s marketers if AI does the work?",
-    "url": "https://martech.org/who-trains-tomorrows-marketers-if-ai-does-the-work/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-07-10T12:21:00+00:00",
-    "summary": "As AI takes over entry-level marketing tasks, how do organizations help people develop the judgment needed to be a marketing leaders? The post Who trains tomorrow’s marketers if AI does the work? appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2025/10/Robot-facing-wrong-way-in-classroom-raising-hand-to-ask-a-question-800x452.png",
-    "tags": [
-      "Diversity and inclusion in marketing",
-      "Marketing artificial intelligence (AI)",
-      "Marketing management",
-      "Marketing operations (MOps)"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 50
+    "relevance_score": 39
   },
   {
     "id": "334d484ff949",
@@ -146,22 +126,24 @@
     "relevance_score": 43
   },
   {
-    "id": "a6d226df1a79",
-    "title": "The secret to scaling vibe coding isn’t better prompts",
-    "url": "https://martech.org/the-secret-to-scaling-vibe-coding-isnt-better-prompts/",
+    "id": "6a3656e196c7",
+    "title": "Who trains tomorrow’s marketers if AI does the work?",
+    "url": "https://martech.org/who-trains-tomorrows-marketers-if-ai-does-the-work/",
     "source": "MarTech.org",
     "source_category": "martech",
-    "published": "2026-07-10T13:04:00+00:00",
-    "summary": "Turn AI-generated code into maintainable software with a prompt log that improves governance and accountability. The post The secret to scaling vibe coding isn’t better prompts appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/07/vibe-coding2-800x450.png",
+    "published": "2026-07-10T12:21:00+00:00",
+    "summary": "As AI takes over entry-level marketing tasks, how do organizations help people develop the judgment needed to be a marketing leaders? The post Who trains tomorrow’s marketers if AI does the work? appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2025/10/Robot-facing-wrong-way-in-classroom-raising-hand-to-ask-a-question-800x452.png",
     "tags": [
-      "Marketing technology"
+      "Diversity and inclusion in marketing",
+      "Marketing artificial intelligence (AI)",
+      "Marketing management",
+      "Marketing operations (MOps)"
     ],
     "industries": [
-      "tech",
-      "industrial"
+      "tech"
     ],
-    "relevance_score": 46
+    "relevance_score": 47
   },
   {
     "id": "aa81c5c41f37",
@@ -195,6 +177,24 @@
     "relevance_score": 41
   },
   {
+    "id": "a6d226df1a79",
+    "title": "The secret to scaling vibe coding isn’t better prompts",
+    "url": "https://martech.org/the-secret-to-scaling-vibe-coding-isnt-better-prompts/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-07-10T13:04:00+00:00",
+    "summary": "Turn AI-generated code into maintainable software with a prompt log that improves governance and accountability. The post The secret to scaling vibe coding isn’t better prompts appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/07/vibe-coding2-800x450.png",
+    "tags": [
+      "Marketing technology"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 43
+  },
+  {
     "id": "b445ff0f12ee",
     "title": "12 Social Media Advertising Tips: Startups and SMBs — Try These",
     "url": "https://www.salesforce.com/blog/small-business/social-media-marketing-advertising-tips/",
@@ -210,7 +210,22 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 44
+    "relevance_score": 41
+  },
+  {
+    "id": "26307a3f33a4",
+    "title": "On commercial chief exits amid leadership restructure",
+    "url": "https://www.retaildive.com/news/on-commercial-chief-exits-leadership-restructure-customer-chief-global-markets/824951/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-07-10T16:15:00+00:00",
+    "summary": "The activewear brand is splitting the role in two, with Rebecca Cai taking on oversight of global markets and Alice Delahunt joining to focus on the customer.",
+    "image_url": "https://imgproxy.divecdn.com/CE-p2WafmJd29QXqXB9iObjztEDsf5tf1CvvtQTR2yM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Pbi1taWFtaV9zdG9yZV9UNlJFV0JGLnBuZw==.webp",
+    "tags": [],
+    "industries": [
+      "consumer"
+    ],
+    "relevance_score": 36
   },
   {
     "id": "1ad6f95595fa",
@@ -232,38 +247,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 46
-  },
-  {
-    "id": "29d931b1e948",
-    "title": "Ads of the Week: 8 Campaigns That Caught Our Eye, From KFC to Reebok",
-    "url": "https://www.adweek.com/creativity/ads-of-the-week-8-campaigns-that-caught-our-eye-from-kfc-to-reebok/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-07-10T06:00:00+00:00",
-    "summary": "KFC, Twix, Wendy’s, Reebok, and more are behind the week’s most notable ads.",
-    "image_url": null,
-    "tags": [
-      "Creative Advertising",
-      "Premium"
-    ],
-    "industries": [],
-    "relevance_score": 49
-  },
-  {
-    "id": "26307a3f33a4",
-    "title": "On commercial chief exits amid leadership restructure",
-    "url": "https://www.retaildive.com/news/on-commercial-chief-exits-leadership-restructure-customer-chief-global-markets/824951/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-07-10T16:15:00+00:00",
-    "summary": "The activewear brand is splitting the role in two, with Rebecca Cai taking on oversight of global markets and Alice Delahunt joining to focus on the customer.",
-    "image_url": "https://imgproxy.divecdn.com/CE-p2WafmJd29QXqXB9iObjztEDsf5tf1CvvtQTR2yM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Pbi1taWFtaV9zdG9yZV9UNlJFV0JGLnBuZw==.webp",
-    "tags": [],
-    "industries": [
-      "consumer"
-    ],
-    "relevance_score": 36
+    "relevance_score": 43
   },
   {
     "id": "b8d67d38c919",
@@ -297,6 +281,22 @@
     "relevance_score": 41
   },
   {
+    "id": "29d931b1e948",
+    "title": "Ads of the Week: 8 Campaigns That Caught Our Eye, From KFC to Reebok",
+    "url": "https://www.adweek.com/creativity/ads-of-the-week-8-campaigns-that-caught-our-eye-from-kfc-to-reebok/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-07-10T06:00:00+00:00",
+    "summary": "KFC, Twix, Wendy’s, Reebok, and more are behind the week’s most notable ads.",
+    "image_url": null,
+    "tags": [
+      "Creative Advertising",
+      "Premium"
+    ],
+    "industries": [],
+    "relevance_score": 45
+  },
+  {
     "id": "18fcb118d883",
     "title": "J. Crew names brand president",
     "url": "https://www.retaildive.com/news/j-crew-names-brand-president/824947/",
@@ -311,76 +311,6 @@
       "consumer"
     ],
     "relevance_score": 34
-  },
-  {
-    "id": "624f618843dc",
-    "title": "AT&T, Verizon, T-Mobile Retire SMS Codes: Carrier Login Logs Raise Privacy Questions - Tech Times",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNVnZqWUswc1BTYjdndmRicW9ZNGstbkFSMV95MzdBTlhjVmZiUEVrU0VXTk84ZHROXzFSV2NmMGg3RWpCWjNKdmczeFFmaEZZNlJ1NndTNmw4LXNFU0NVUzkyYVRKeHp6QzlrTnR5MmhPbnR0S3R6emFwS3l3b0dlcTRHMFlQTmNid25vRHJFdEttcU9nM0J3U1FOdlJyVWlzMFpMLVkzVkJkd2pDcDlmVlQzcjhkS3huZzN2WWtoakRVUHlIOGtENTdDTjhnZw?oc=5",
-    "source": "Telecom",
-    "source_category": "industry_telecom",
-    "published": "2026-07-10T15:31:15+00:00",
-    "summary": "AT&T, Verizon, T-Mobile Retire SMS Codes: Carrier Login Logs Raise Privacy Questions Tech Times",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom"
-    ],
-    "relevance_score": 33
-  },
-  {
-    "id": "b4b144577a03",
-    "title": "The language of data privacy: What is CPNI and why should you care? - Barracuda Networks Blog",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qVVNOV3gxOW1rVW5RN3ZLM2RzbUpzNm94emZyZkxRUEF5NXFhbHhuejR6anBWTElIT0pfUUxyaWxrZmJLbjNFVVFXbngxcENxM0FxWEYxRk5GcTdxUGNlSmcyRUQ0MDhIWEdrdEJ1ZHNONVE?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-07-10T13:46:22+00:00",
-    "summary": "The language of data privacy: What is CPNI and why should you care? Barracuda Networks Blog",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 33
-  },
-  {
-    "id": "9597278b4eac",
-    "title": "Future of Marketing Briefing: The ad industry’s next mediapalooza is loading",
-    "url": "https://digiday.com/media-buying/future-of-marketing-briefing-the-ad-industrys-next-mediapalooza-is-loading/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-07-10T04:01:00+00:00",
-    "summary": "Mediapalooza is coming. This time it might actually mean something.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/01/increase-revenues-digiday.png",
-    "tags": [
-      "Media Buying",
-      "Digiday+"
-    ],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 43,
-    "also_covered_by": [
-      "Ad Age"
-    ]
-  },
-  {
-    "id": "61c780e23436",
-    "title": "Will CRM Stock Fall Below $160 as Salesforce Agentforce Doubts Hit AI Software Bulls? - FXLeaders",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNeEdyMjMxMVNQczU4OXhPRzFTY2xCemd0SEdjTTFYanRxaUJzOGZGdjNJQ05tckdUdGlnNG1Ma1BhZnk4dk9waDc4M2pHYWNLZU1FSlB0RVpjNVlkc3V5TXZKci1WM0daLTNycTBKM2hpYXNZa1VGX1pVNVZMUnkzdmtlNW1ycjlfTlNPR3hVeG1FUjM2RS13Uy1yQ1BWUUtIT3JCZUtuUjhDczBKY2FBSm5ScVVrLWNMWUZJSFN4dU0xbmxr?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-07-10T06:38:42+00:00",
-    "summary": "Will CRM Stock Fall Below $160 as Salesforce Agentforce Doubts Hit AI Software Bulls? FXLeaders",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 39,
-    "also_covered_by": [
-      "Adobe"
-    ]
   },
   {
     "id": "8bd22c4db68e",
@@ -414,41 +344,59 @@
     "relevance_score": 29
   },
   {
-    "id": "b624cb6da261",
-    "title": "Travel industry adopts Agentic AI for 2026 marketing - Travel Daily Media",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNSmlYbHQ0WlFkWGdYalVUa2cxdmkzYUlwUlJFVDVrcGo4c1ZUek1XQjNWNWhObUJlWVpRUlRmc1B3V2E0LUpObGFXU3JEMUVhUll1Qlh5REZzZ0Rva0lmeFFlQTdHVFo5OFliLUlkaDEyOFd6LWxFdzc1Y3dqY2JETmlOM0dkWXcxSG9mTDlJSQ?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-07-10T04:18:26+00:00",
-    "summary": "Travel industry adopts Agentic AI for 2026 marketing Travel Daily Media",
+    "id": "b4b144577a03",
+    "title": "The language of data privacy: What is CPNI and why should you care? - Barracuda Networks Blog",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9qVVNOV3gxOW1rVW5RN3ZLM2RzbUpzNm94emZyZkxRUEF5NXFhbHhuejR6anBWTElIT0pfUUxyaWxrZmJLbjNFVVFXbngxcENxM0FxWEYxRk5GcTdxUGNlSmcyRUQ0MDhIWEdrdEJ1ZHNONVE?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-07-10T13:46:22+00:00",
+    "summary": "The language of data privacy: What is CPNI and why should you care? Barracuda Networks Blog",
     "image_url": null,
     "tags": [],
     "industries": [
-      "media",
       "industrial"
     ],
-    "relevance_score": 36
+    "relevance_score": 30
   },
   {
-    "id": "bea3d59fdfaa",
-    "title": "Microsoft Reports a Massive 25 Percent Jump in Emissions",
-    "url": "https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-10T23:16:56+00:00",
-    "summary": "Data centers are driving up the company’s use of electricity—and carbon pollution.",
-    "image_url": "https://media.wired.com/photos/6a5033fcb7497b81a1eaca57/master/pass/science_microsoft_emissions.jpg",
+    "id": "2bf9218fb213",
+    "title": "‘Moana’ Sinking At Box Office With Projected $40 Million To $45 Million Opening",
+    "url": "https://www.forbes.com/sites/timlammers/2026/07/11/moana-sinking-at-box-office-with-projected-40-million-to-45-million-opening/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-11T04:19:16+00:00",
+    "summary": "The live-action version of Disney’s \"Moana,\" starring Dwayne “The Rock” Johnson and Catherine Lagaʻaia, is hitting choppy waters in its opening weekend at the box office.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a51c017ec6f90e1b1e29c6e/0x0.jpg?width=960",
     "tags": [
-      "Science",
-      "Science / Environment",
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
       "Business",
-      "Microsoft",
-      "climate change"
+      "/business",
+      "Hollywood & Entertainment"
     ],
     "industries": [
-      "tech"
+      "media"
     ],
     "relevance_score": 19
+  },
+  {
+    "id": "3d691cc92ed3",
+    "title": "Former WWE Champion Returns On Smackdown On July 10",
+    "url": "https://www.forbes.com/sites/brianmazique/2026/07/11/former-wwe-champion-returns-on-smackdown-on-july-10/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-11T04:47:57+00:00",
+    "summary": "Baron Corbin made a surprise return on WWE SmackDown, laying out Trick Williams and Carmelo Hayes and putting himself in the United States Championship picture.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a51ca4c47db9a64e0891b4c/0x0.jpg?width=960",
+    "tags": [
+      "Gaming",
+      "/gaming",
+      "Innovation",
+      "/innovation",
+      "Gaming"
+    ],
+    "industries": [],
+    "relevance_score": 17
   },
   {
     "id": "1c3059fb7886",
@@ -489,6 +437,65 @@
     "relevance_score": 28
   },
   {
+    "id": "63474b04dad4",
+    "title": "Peter Van Norden, ‘Police Academy’ And ‘Naked Gun’ Star, Dies At 75",
+    "url": "https://www.forbes.com/sites/timlammers/2026/07/10/peter-van-norden-police-academy-and-naked-gun-star-dies-at-75/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-11T01:54:14+00:00",
+    "summary": "Peter Van Norden, who starred in the \"Police Academy\" and \"Naked Gun\" movies as well as the Stephen King TV miniseries \"The Stand,\" has died.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a51a177fd13feb73ed6c50d/0x0.jpg?width=960&precrop=3130%2C1761%2Cx0%2Cy101",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [],
+    "relevance_score": 17
+  },
+  {
+    "id": "bea3d59fdfaa",
+    "title": "Microsoft Reports a Massive 25 Percent Jump in Emissions",
+    "url": "https://www.wired.com/story/microsoft-25-percent-jump-in-carbon-emissions/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-10T23:16:56+00:00",
+    "summary": "Data centers are driving up the company’s use of electricity—and carbon pollution.",
+    "image_url": "https://media.wired.com/photos/6a5033fcb7497b81a1eaca57/master/pass/science_microsoft_emissions.jpg",
+    "tags": [
+      "Science",
+      "Science / Environment",
+      "Business",
+      "Microsoft",
+      "climate change"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 18
+  },
+  {
+    "id": "1a6cdae87834",
+    "title": "Exclusive: How Jay-Z Pulled Off a Surprise-Filled Show During New York’s Wildest Summer",
+    "url": "https://www.wired.com/story/exclusive-how-jay-z-pulled-off-a-surprise-filled-show-during-new-yorks-wildest-summer/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-11T04:51:14+00:00",
+    "summary": "Summer 2026 marks the 30th anniversary of Jay-Z’s debut Reasonable Doubt. To honor it, he put on a massive concert at Yankee Stadium—complete with performances from Beyoncé, Nas, and Alicia Keys.",
+    "image_url": "https://media.wired.com/photos/6a51c4611853603a10cc09d0/master/pass/JayZ-BTS-Culture-7-4.jpg",
+    "tags": [
+      "Culture",
+      "Culture / Music",
+      "Culture / Digital Culture",
+      "Music",
+      "concerts"
+    ],
+    "industries": [],
+    "relevance_score": 15
+  },
+  {
     "id": "60ac52432ce1",
     "title": "Mike’s Hard, Genesis take creative swings with custom Netflix campaigns",
     "url": "https://www.marketingdive.com/news/mikes-hard-genesis-take-creative-swings-with-custom-netflix-campaigns/824804/",
@@ -506,44 +513,23 @@
     "relevance_score": 45
   },
   {
-    "id": "5196be6dc526",
-    "title": "Today’s Wordle #1848 Hints And Answer For Saturday, July 11",
-    "url": "https://www.forbes.com/sites/erikkain/2026/07/10/wordle-answer-saturday-july-11/",
+    "id": "baf26da88f87",
+    "title": "Viewers Love ‘Love Island USA.’ This Year, So Do Advertisers.",
+    "url": "https://www.forbes.com/sites/tonifitzgerald/2026/07/10/viewers-love-love-island-usa-this-year-so-do-advertisers/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-07-11T00:02:41+00:00",
-    "summary": "Looking for help with today's New York Times Wordle? Here are some expert hints, clues and commentary to help you solve today's Wordle and sharpen your guessing game.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/654ac7d9543b3152d167c85e/0x0.jpg?width=960",
+    "published": "2026-07-11T03:13:21+00:00",
+    "summary": "The risqué reality show is a smash among hard-to-reach young adults. Instead of being squeamish about the sexual content, advertisers are embracing the buzz.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a4dc0a5893918fde721466b/0x0.jpg",
     "tags": [
-      "Gaming",
-      "/gaming",
-      "Innovation",
-      "/innovation",
-      "Gaming"
+      "Media",
+      "/media",
+      "Business",
+      "/business",
+      "Media"
     ],
     "industries": [],
-    "relevance_score": 17
-  },
-  {
-    "id": "0dc7ed15a61a",
-    "title": "Zuckerberg’s Net Worth Swells $12 Billion As Meta Ends Best Week Since 2024",
-    "url": "https://www.forbes.com/sites/tylerroush/2026/07/10/zuckerbergs-net-worth-swells-12-billion-as-meta-ends-best-week-since-2024/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-10T19:48:17+00:00",
-    "summary": "The Facebook parent’s stock saw a positive investor reaction to its new AI model and reported plans for in-house AI chips.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a514c465020e25242103dc5/0x0.jpg?width=960&precrop=2988%2C1681%2Cx317%2Cy63",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 19
+    "relevance_score": 15
   },
   {
     "id": "248209e1a033",
@@ -585,6 +571,46 @@
     "relevance_score": 46
   },
   {
+    "id": "5196be6dc526",
+    "title": "Today’s Wordle #1848 Hints And Answer For Saturday, July 11",
+    "url": "https://www.forbes.com/sites/erikkain/2026/07/10/wordle-answer-saturday-july-11/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-11T00:02:41+00:00",
+    "summary": "Looking for help with today's New York Times Wordle? Here are some expert hints, clues and commentary to help you solve today's Wordle and sharpen your guessing game.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/654ac7d9543b3152d167c85e/0x0.jpg?width=960",
+    "tags": [
+      "Gaming",
+      "/gaming",
+      "Innovation",
+      "/innovation",
+      "Gaming"
+    ],
+    "industries": [],
+    "relevance_score": 16
+  },
+  {
+    "id": "0dc7ed15a61a",
+    "title": "Zuckerberg’s Net Worth Swells $12 Billion As Meta Ends Best Week Since 2024",
+    "url": "https://www.forbes.com/sites/tylerroush/2026/07/10/zuckerbergs-net-worth-swells-12-billion-as-meta-ends-best-week-since-2024/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-10T19:48:17+00:00",
+    "summary": "The Facebook parent’s stock saw a positive investor reaction to its new AI model and reported plans for in-house AI chips.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a514c465020e25242103dc5/0x0.jpg?width=960&precrop=2988%2C1681%2Cx317%2Cy63",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 18
+  },
+  {
     "id": "d27bea64f0c9",
     "title": "UFC 329 Fight Card: Odds, Prop Bets, Predictions And Picks",
     "url": "https://www.forbes.com/sites/trentreinsmith/2026/07/10/ufc-329-fight-card-odds-prop-bets-predictions-and-picks/",
@@ -601,7 +627,24 @@
       "SportsMoney"
     ],
     "industries": [],
-    "relevance_score": 17
+    "relevance_score": 16
+  },
+  {
+    "id": "837c84f61493",
+    "title": "You’re using AI to scale the wrong part of GTM",
+    "url": "https://martech.org/youre-using-ai-to-scale-the-wrong-part-of-gtm/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-07-09T12:41:00+00:00",
+    "summary": "Use AI to eliminate busywork and uncover better account insights so your team can spend more time building the relationships that win deals. The post You’re using AI to scale the wrong part of GTM appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/07/image-7.png",
+    "tags": [
+      "Marketing technology"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 42
   },
   {
     "id": "06f11f2e891d",
@@ -619,7 +662,24 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
+  },
+  {
+    "id": "aae82ef6a83e",
+    "title": "Why your CAC keeps rising while deals don’t improve",
+    "url": "https://martech.org/why-your-cac-keeps-rising-while-deals-dont-improve/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-07-09T12:22:00+00:00",
+    "summary": "The missing link between awareness and trust may explain why higher acquisition costs aren't producing better business outcomes. The post Why your CAC keeps rising while deals don’t improve appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/05/measurement-metric-chart-bar-graph-growth-800x450.png",
+    "tags": [
+      "Marketing technology"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 42
   },
   {
     "id": "5fdf7a2e04f4",
@@ -640,55 +700,10 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 16,
+    "relevance_score": 15,
     "also_covered_by": [
       "The Verge"
     ]
-  },
-  {
-    "id": "7231fadcded6",
-    "title": "Apple sues OpenAI for allegedly stealing hardware secrets",
-    "url": "https://www.theverge.com/tech/964350/apple-openai-lawsuit-trade-secrets",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-10T21:36:51+00:00",
-    "summary": "Apple has sued OpenAI, alleging that engineers stole Apple secrets to advance the AI startup's hardware plans. In its complaint, Apple says it uncovered \"a pattern of theft of Apple's trade secrets by OpenAI employees who were formerly at Apple.\" In addition to OpenAI, the...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK468_APPLE_ANTITRUST_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "AI",
-      "Apple",
-      "News",
-      "OpenAI",
-      "Tech"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 17,
-    "also_covered_by": [
-      "Wired",
-      "Wall Street"
-    ]
-  },
-  {
-    "id": "3a346861aeec",
-    "title": "OpenAI’s Head of Safety Is Leaving the Company",
-    "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-11T01:07:26+00:00",
-    "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
-    "image_url": "https://media.wired.com/photos/6a518d0cb6767a97076bfe9e/master/pass/GettyImages-2283356667.jpg",
-    "tags": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "OpenAI",
-      "artificial intelligence",
-      "models"
-    ],
-    "industries": [],
-    "relevance_score": 15
   },
   {
     "id": "99be967c15ee",
@@ -709,7 +724,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "25d7fff6f79e",
@@ -728,42 +743,57 @@
       "Healthcare"
     ],
     "industries": [],
-    "relevance_score": 17
+    "relevance_score": 16
+  },
+  {
+    "id": "b1e81f721f44",
+    "title": "Marketing For Startups: 5 Steps to Campaign Success",
+    "url": "https://www.salesforce.com/blog/small-business/five-steps-to-marketing-a-startup/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-09T13:00:00+00:00",
+    "summary": "Marketing a startup requires a blend of speed and strategy to turn a new idea into a household name.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2021/04/Marketing-a-Startup.jpeg?w=6239",
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 40
+  },
+  {
+    "id": "3a346861aeec",
+    "title": "OpenAI’s Head of Safety Is Leaving the Company",
+    "url": "https://www.wired.com/story/openai-head-of-safety-leaving/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-11T01:07:26+00:00",
+    "summary": "Johannes Heidecke’s departure comes as OpenAI tries to further integrate its research and safety teams.",
+    "image_url": "https://media.wired.com/photos/6a518d0cb6767a97076bfe9e/master/pass/GettyImages-2283356667.jpg",
+    "tags": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "OpenAI",
+      "artificial intelligence",
+      "models"
+    ],
+    "industries": [],
+    "relevance_score": 14
   },
   {
     "id": "003fa5536637",
-    "title": "The Company That Owns AOL Gets a Million Job Applications—and Rejects 99.9% - WSJ",
+    "title": "The Mind-Bending Company That Gets a Million Job Applications—and Rejects 99.9% - WSJ",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Id3RubVdlR2ZMNVp2VVRtaFdYNnE1OXhLTEJjMkZFVWxCX1dPSVE0bmp1Qy0zeFJPVU5IcFN3dWZjcnRURVA4RGkwN1Z6b1E0TVJ3aWUyaEM4WE4wY1NWS1hONnNlYlVoSXJfMmtHRmZaVVBkeDJXTVBB?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
     "published": "2026-07-11T01:00:00+00:00",
-    "summary": "The Company That Owns AOL Gets a Million Job Applications—and Rejects 99.9% WSJ",
+    "summary": "The Mind-Bending Company That Gets a Million Job Applications—and Rejects 99.9% WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
       "industrial"
     ],
-    "relevance_score": 15
-  },
-  {
-    "id": "b1270a688b27",
-    "title": "Jihyo Is Learning To Slow Down With Shenseea Collab, ‘Distant Lover’",
-    "url": "https://www.forbes.com/sites/laurasirikul/2026/07/10/jihyo-is-learning-to-slow-down-with-shenseea-collab-distant-lover/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-11T00:27:06+00:00",
-    "summary": "TWICE's Jihyo talks about \"Distant Lover,\" her new track with dancehall artist Sheensea, all her collabs, the evolution of K-pop, and taking a well-deserved break.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a518a379225d0e9c3c395d5/0x0.jpg?width=960",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "ee34e50b6771",
@@ -784,72 +814,17 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
-    "id": "837c84f61493",
-    "title": "You’re using AI to scale the wrong part of GTM",
-    "url": "https://martech.org/youre-using-ai-to-scale-the-wrong-part-of-gtm/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-07-09T12:41:00+00:00",
-    "summary": "Use AI to eliminate busywork and uncover better account insights so your team can spend more time building the relationships that win deals. The post You’re using AI to scale the wrong part of GTM appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/07/image-7.png",
-    "tags": [
-      "Marketing technology"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 42
-  },
-  {
-    "id": "aae82ef6a83e",
-    "title": "Why your CAC keeps rising while deals don’t improve",
-    "url": "https://martech.org/why-your-cac-keeps-rising-while-deals-dont-improve/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-07-09T12:22:00+00:00",
-    "summary": "The missing link between awareness and trust may explain why higher acquisition costs aren't producing better business outcomes. The post Why your CAC keeps rising while deals don’t improve appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/05/measurement-metric-chart-bar-graph-growth-800x450.png",
-    "tags": [
-      "Marketing technology"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 42
-  },
-  {
-    "id": "38fd4e406ec8",
-    "title": "US Navy Supercarrier USS Abraham Lincoln On Track For Record Deployment",
-    "url": "https://www.forbes.com/sites/petersuciu/2026/07/10/us-navy-supercarrier-uss-abraham-lincoln-on-track-for-record-deployment/",
+    "id": "b1270a688b27",
+    "title": "Jihyo Is Learning To Slow Down With Shenseea Collab, ‘Distant Lover’",
+    "url": "https://www.forbes.com/sites/laurasirikul/2026/07/10/jihyo-is-learning-to-slow-down-with-shenseea-collab-distant-lover/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-07-10T23:48:34+00:00",
-    "summary": "Another U.S. Navy aircraft carrier is set to see a potential record-length setting time at sea, and most of its deployment has been without even a port visit",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a51829c775724ac7aae0c09/0x0.jpg",
-    "tags": [
-      "Aerospace & Defense",
-      "/aerospace-defense",
-      "Business",
-      "/business",
-      "Aerospace & Defense"
-    ],
-    "industries": [
-      "telecom"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "0b110b796280",
-    "title": "‘Evil Dead Burn’ End Credits Scenes: Why You Should Stay In Your Seats",
-    "url": "https://www.forbes.com/sites/timlammers/2026/07/10/evil-dead-burn-end-credits-scenes-why-you-should-stay-in-your-seats/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-10T23:32:39+00:00",
-    "summary": "“Evil Dead Burn,” produced by Sam Raimi, Rob Tapert and Bruce Campbell, includes end- and post-credits scenes that suggest what might be ahead for the “Evil Dead” franchise.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a517b3ae2621615e9c0999e/0x0.jpg?width=960",
+    "published": "2026-07-11T00:27:06+00:00",
+    "summary": "TWICE's Jihyo talks about \"Distant Lover,\" her new track with dancehall artist Sheensea, all her collabs, the evolution of K-pop, and taking a well-deserved break.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a518a379225d0e9c3c395d5/0x0.jpg?width=960",
     "tags": [
       "Hollywood & Entertainment",
       "/hollywood-entertainment",
@@ -857,135 +832,23 @@
       "/business",
       "Hollywood & Entertainment"
     ],
-    "industries": [
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "b1e81f721f44",
-    "title": "Marketing For Startups: 5 Steps to Campaign Success",
-    "url": "https://www.salesforce.com/blog/small-business/five-steps-to-marketing-a-startup/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-09T13:00:00+00:00",
-    "summary": "Marketing a startup requires a blend of speed and strategy to turn a new idea into a household name.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2021/04/Marketing-a-Startup.jpeg?w=6239",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 40
-  },
-  {
-    "id": "fbb0bb69fb42",
-    "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
-    "url": "https://www.forbes.com/sites/erikkain/2026/07/10/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-10T20:36:35+00:00",
-    "summary": "Looking for something new to stream this weekend? Here’s every major new movie and show hitting Netflix, Hulu, Prime Video, Apple TV and more.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a514f0ec455677baf01d90b/0x0.jpg?width=960",
-    "tags": [
-      "Gaming",
-      "/gaming",
-      "Innovation",
-      "/innovation",
-      "Gaming"
-    ],
-    "industries": [
-      "media",
-      "tech"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "d941a78f2638",
-    "title": "Q2 Earnings Season Arrives: Can Results Match Upbeat Expectations? - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTDBTWW5jY3dUa2Y2WU0zQUhjS2kxNUg2V1l0TkhuTmMzcDFJR0lnWnhzYUdWR0NtOFM0cnBtV2JnZWp1X0ROaWIxTXlZU3dSN1o3aEpxQm1yTFVSU2hIQjhuREFrQkJodUZDdnJSUXpaM2QwOGNKbGROSDRUbmd3MEdVSUE3dXkyMVNyU1BDeThpYUNSY0t3U0w1enpfQlB3UVY5U2l6aVFNRHZiOU5CdUk4SWhqS0xrSElRTQ?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-07-10T22:32:00+00:00",
-    "summary": "Q2 Earnings Season Arrives: Can Results Match Upbeat Expectations? TradingView",
-    "image_url": null,
-    "tags": [],
     "industries": [],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
-    "id": "e8ecfa218748",
-    "title": "The top 5 AI marketing activations to know about right now - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNVXlEdVRfUVBuLVpHOTFiZXEweFpFQ2l2TnVERTdNQlVlcHRxRHM2VEJ6dHdRSHliSVE0QjhRVjFoMmd6ZDZEQVJhd2hYbGI4NkZqNUFGVkpBYlUydVY0VHFPZUxGWmVaTHpXUzFIclRXVm9TOTVnR25wdUNKQWdDbkZXUHg5M1J0ZDJVcWdFeWU?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-07-09T09:00:00+00:00",
-    "summary": "The top 5 AI marketing activations to know about right now Ad Age",
+    "id": "c8e188361825",
+    "title": "Beyond Chatbots: How \"Agentic AI\" Will Revolutionize Tech Marketing in 2026 - HackerNoon",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOcFczdmNoZXluUDhQdjBHbk9UMXdaMGtXdGpuRVd2MnpwN3BWUnF6RzVFWVlGRGM0OTc5bkRVWDJtTVk1NjRrWG1xZjFsR2doTlptdzhKakJhM0ZiS0Y4YXlGVm9FSWJzbnRqV3hhUzB2OU9zd1lnalF0SjgyQ2FZbEV1R3JSbE82S1QyazJiZXB6ZlhCa3dTTHk5WQ?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-07-09T19:39:31+00:00",
+    "summary": "Beyond Chatbots: How \"Agentic AI\" Will Revolutionize Tech Marketing in 2026 HackerNoon",
     "image_url": null,
     "tags": [],
     "industries": [
       "industrial"
     ],
-    "relevance_score": 44
-  },
-  {
-    "id": "1fd82dd6926d",
-    "title": "Reflecting Pool—Still Green—Drained For A Third Time As Renovation Drags On",
-    "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/10/reflecting-pool-still-green-drained-for-a-third-time-as-renovation-drags-on/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-10T22:01:54+00:00",
-    "summary": "President Donald Trump sought to have the Reflecting Pool’s renovation completed before July 4, though algae blooms and peeled sealant have hindered the makeover.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5169cfe32179b6bb277b06/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [],
-    "relevance_score": 15
-  },
-  {
-    "id": "9105d9450915",
-    "title": "Blue Jays’ Dylan Cease Sends Yankees Phenom Message After Nearing History",
-    "url": "https://www.forbes.com/sites/peterchawaga/2026/07/10/blue-jays-dylan-cease-sends-yankees-phenom-message-after-nearing-history/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-10T22:00:00+00:00",
-    "summary": "The Toronto Blue Jays ace offered a response on the division rival New York Yankees’ star after a disappointing finish.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a4fe24c435f10b7de6eae0f/0x0.jpg?width=960&precrop=1051%2C591%2Cx0%2Cy57",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "da2874bcd625",
-    "title": "Wall Street is debating the AI buildout. Enterprises just answered: 86% say their GPUs run at half capacity or less",
-    "url": "https://venturebeat.com/orchestration/wall-street-is-debating-the-ai-buildout-enterprises-just-answered-86-say-their-gpus-run-at-half-capacity-or-less",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-07-10T19:29:07+00:00",
-    "summary": "Enterprise companies are running AI agents ahead of the controls needed to manage them — and they deployed that way knowingly. That is the central finding from VentureBeat Research's June survey of 573 technical leaders at companies with 100 or more employees, fielded across...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2h0wdk2i0wZME0744hQS40/282b7a507e29b9f39dbe33ad85499a8c/Gemini_Generated_Image_nocstvnocstvnocs.png?w=300&q=30",
-    "tags": [
-      "Orchestration"
-    ],
-    "industries": [
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 16
+    "relevance_score": 32
   },
   {
     "id": "215c84d847ed",
@@ -1013,44 +876,178 @@
     ]
   },
   {
-    "id": "20090b6c57c5",
-    "title": "White House Fortifying Front Door Where Tarps Hang Amid Trump’s Construction Blitz",
-    "url": "https://www.forbes.com/sites/conormurray/2026/07/10/white-house-fortifying-front-door-where-tarps-hang-amid-trumps-construction-blitz/",
+    "id": "38fd4e406ec8",
+    "title": "US Navy Supercarrier USS Abraham Lincoln On Track For Record Deployment",
+    "url": "https://www.forbes.com/sites/petersuciu/2026/07/10/us-navy-supercarrier-uss-abraham-lincoln-on-track-for-record-deployment/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-07-10T19:10:20+00:00",
-    "summary": "The White House is making security upgrades to its front door, CNN reported, the latest in a series of construction projects under way on Pennsylvania Avenue.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a4fe2960e41da54ae0e24ef/0x0.jpg?width=960",
+    "published": "2026-07-10T23:48:34+00:00",
+    "summary": "Another U.S. Navy aircraft carrier is set to see a potential record-length setting time at sea, and most of its deployment has been without even a port visit",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a51829c775724ac7aae0c09/0x0.jpg",
     "tags": [
+      "Aerospace & Defense",
+      "/aerospace-defense",
       "Business",
       "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [],
-    "relevance_score": 16
-  },
-  {
-    "id": "824e4ada9fac",
-    "title": "How Journalism Remains Strong During America’s 250th",
-    "url": "https://www.forbes.com/sites/andrewlack/2026/07/10/how-journalism-remains-strong-during-americas-250th/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-10T19:06:40+00:00",
-    "summary": "Despite living in a faster news cycle, the national news business today, as a financial matter, is qualitatively stronger and more sustainable than ever.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a4c0f73893918fde72145f1/0x0.jpg",
-    "tags": [
-      "Media",
-      "/media",
-      "Business",
-      "/business",
-      "Media"
+      "Aerospace & Defense"
     ],
     "industries": [
+      "telecom"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "0b110b796280",
+    "title": "‘Evil Dead Burn’ End Credits Scenes: Why You Should Stay In Your Seats",
+    "url": "https://www.forbes.com/sites/timlammers/2026/07/10/evil-dead-burn-end-credits-scenes-why-you-should-stay-in-your-seats/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-10T23:32:39+00:00",
+    "summary": "“Evil Dead Burn,” produced by Sam Raimi, Rob Tapert and Bruce Campbell, includes end- and post-credits scenes that suggest what might be ahead for the “Evil Dead” franchise.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a517b3ae2621615e9c0999e/0x0.jpg?width=960",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "297b5e8a868d",
+    "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
+    "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-10T20:44:05+00:00",
+    "summary": "The iPhone maker claims OpenAI encouraged poached employees to bring over confidential presentations, secret prototypes, and key supplier details.",
+    "image_url": "https://media.wired.com/photos/6a51395dba309b253cb3d458/master/pass/GettyImages-2233062347.jpg",
+    "tags": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "apple",
+      "OpenAI",
+      "Hardware"
+    ],
+    "industries": [
+      "tech",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15,
+    "also_covered_by": [
+      "The Verge",
+      "Wall Street"
+    ]
+  },
+  {
+    "id": "fbb0bb69fb42",
+    "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+    "url": "https://www.forbes.com/sites/erikkain/2026/07/10/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-10T20:36:35+00:00",
+    "summary": "Looking for something new to stream this weekend? Here’s every major new movie and show hitting Netflix, Hulu, Prime Video, Apple TV and more.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a514f0ec455677baf01d90b/0x0.jpg?width=960",
+    "tags": [
+      "Gaming",
+      "/gaming",
+      "Innovation",
+      "/innovation",
+      "Gaming"
+    ],
+    "industries": [
+      "media",
+      "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "9cbd09283e1b",
+    "title": "Scottie Scheffler’s Cut Streak Comes To An End At The Scottish Open",
+    "url": "https://www.forbes.com/sites/break80/2026/07/10/scottie-schefflers-cut-streak-comes-to-an-end-at-the-scottish-open/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-11T01:18:11+00:00",
+    "summary": "Scottie Scheffler's cut streak of 78 straight, comes to an end at the Scottish Open.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5190312c3cd2b4612ac52e/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "d941a78f2638",
+    "title": "Q2 Earnings Season Arrives: Can Results Match Upbeat Expectations? - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNTDBTWW5jY3dUa2Y2WU0zQUhjS2kxNUg2V1l0TkhuTmMzcDFJR0lnWnhzYUdWR0NtOFM0cnBtV2JnZWp1X0ROaWIxTXlZU3dSN1o3aEpxQm1yTFVSU2hIQjhuREFrQkJodUZDdnJSUXpaM2QwOGNKbGROSDRUbmd3MEdVSUE3dXkyMVNyU1BDeThpYUNSY0t3U0w1enpfQlB3UVY5U2l6aVFNRHZiOU5CdUk4SWhqS0xrSElRTQ?oc=5",
+    "source": "Banking",
+    "source_category": "industry_financial",
+    "published": "2026-07-10T22:32:00+00:00",
+    "summary": "Q2 Earnings Season Arrives: Can Results Match Upbeat Expectations? TradingView",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 14
+  },
+  {
+    "id": "5094a925021c",
+    "title": "Meta introduces AI-powered room visualization feature",
+    "url": "https://www.retaildive.com/news/meta-muse-image-ai-powered-room-visualization-feature/824841/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-07-09T17:30:00+00:00",
+    "summary": "With the new Meta AI tool, users can see what real products look like in their spaces, compare options and buy items through the brands’ websites.",
+    "image_url": "https://imgproxy.divecdn.com/G96LyRqArXLB25iJkF-l9EsF-O40Sk_Vk6ctPflEcpI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDctMDlfYXRfMTIuMzUuNTNQTS5wbmc=.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 32
+  },
+  {
+    "id": "da2874bcd625",
+    "title": "Wall Street is debating the AI buildout. Enterprises just answered: 86% say their GPUs run at half capacity or less",
+    "url": "https://venturebeat.com/orchestration/wall-street-is-debating-the-ai-buildout-enterprises-just-answered-86-say-their-gpus-run-at-half-capacity-or-less",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-07-10T19:29:07+00:00",
+    "summary": "Enterprise companies are running AI agents ahead of the controls needed to manage them — and they deployed that way knowingly. That is the central finding from VentureBeat Research's June survey of 573 technical leaders at companies with 100 or more employees, fielded across...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2h0wdk2i0wZME0744hQS40/282b7a507e29b9f39dbe33ad85499a8c/Gemini_Generated_Image_nocstvnocstvnocs.png?w=300&q=30",
+    "tags": [
+      "Orchestration"
+    ],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "e7e712ad3ca3",
+    "title": "T-Mobile US stock reflects a steady wireless growth story - ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQQ0JyNnZHSTJucWJoVnRxS2E5bzNJVDdDdU5KbEdzYkU2bDNZamg4cTFUQk5hcXZ0d1JCa09PRy14bEwxY2M2ZEhJN1RudVUzWm5uWWVPRG9QVGJ5VnpSbWR6LWFfWUVfQ3JlQVNfcmI5d3doNHNIWUpqdnNaV2R1ZVB2YXhNdF9oZ0drSnNTYVRyOWpCRHpXd0N5SVN5UU1USkY1emRNMlNXUU1yYkN3T2lwSFZqd2M?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-07-11T05:26:23+00:00",
+    "summary": "T-Mobile US stock reflects a steady wireless growth story ad-hoc-news.de",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "telecom"
+    ],
+    "relevance_score": 11
   },
   {
     "id": "3daaf068f42c",
@@ -1072,7 +1069,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "3dfcaa7c15d4",
@@ -1088,175 +1085,6 @@
     ],
     "industries": [
       "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "fd2a5ba5d350",
-    "title": "Cyclosporiasis Cases Reported In 31 States—As Over 1,500 Infected In Michigan",
-    "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/10/cyclosporiasis-cases-reported-in-31-states-as-over-1500-infected-in-michigan/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-10T18:26:16+00:00",
-    "summary": "Michigan has reported over 1,200 cases of the parasitic illness that causes diarrhea.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a512dad7f6bfd9e3106f7d4/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [],
-    "relevance_score": 16
-  },
-  {
-    "id": "b47d984e1b1c",
-    "title": "OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars",
-    "url": "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-07-10T20:20:00+00:00",
-    "summary": "OpenAI on Thursday launched ChatGPT Work , a new AI agent embedded inside its flagship chatbot that aims to transform ChatGPT from a question-and-answer tool into an autonomous work platform capable of executing complex, multi-step tasks across users' email, calendars, code...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/XaJBJbkMIolDxyrlIw5Qd/b9e360da7531ae921f32528977713b61/Nuneybits_Magazine-style_digital_illustration_of_oversized_clou_64512c24-eef8-4ed0-9aae-efcb0615033a.webp?w=300&q=30",
-    "tags": [
-      "Technology",
-      "Orchestration",
-      "Business"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "54e956ca2349",
-    "title": "The Little-Known Story Of John Warnock, The Computer Scientist Who Founded Adobe And Invented The PDF - All That's Interesting",
-    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56RWNySlZ2Y2d4LWMxUXVFWU8yVUw5TTRnZU9ZdU1kek9wZjhNbmhfNjgyZUxsUlZLV3hSQ0h3dXJJZGRvNXpRQWdZQ29xODJ1TlQwVlVwWQ?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-07-11T01:02:59+00:00",
-    "summary": "The Little-Known Story Of John Warnock, The Computer Scientist Who Founded Adobe And Invented The PDF All That's Interesting",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 13
-  },
-  {
-    "id": "3839887e5ca5",
-    "title": "Nvidia’s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
-    "url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-10T17:31:35+00:00",
-    "summary": "As the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.5 billion, surpassing Alibaba's record as the largest debut of a foreign...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284882241.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.75214828329%2C100%2C78.49570343342&amp;w=1200",
-    "tags": [
-      "Business",
-      "News",
-      "Tech"
-    ],
-    "industries": [
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "5094a925021c",
-    "title": "Meta introduces AI-powered room visualization feature",
-    "url": "https://www.retaildive.com/news/meta-muse-image-ai-powered-room-visualization-feature/824841/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-07-09T17:30:00+00:00",
-    "summary": "With the new Meta AI tool, users can see what real products look like in their spaces, compare options and buy items through the brands’ websites.",
-    "image_url": "https://imgproxy.divecdn.com/G96LyRqArXLB25iJkF-l9EsF-O40Sk_Vk6ctPflEcpI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDctMDlfYXRfMTIuMzUuNTNQTS5wbmc=.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "consumer"
-    ],
-    "relevance_score": 32
-  },
-  {
-    "id": "530299f37f53",
-    "title": "The AI ‘Star Wars’ Film That Is Giving Hollywood A Wake-Up Call",
-    "url": "https://www.forbes.com/sites/carolinereid/2026/07/10/the-ai-star-wars-film-that-is-giving-hollywood-a-wake-up-call/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-10T19:43:08+00:00",
-    "summary": "Making a successful Star Wars film is no mean feat and this year's The Mandalorian and Grogu grossed just $340 million. One creator is bucking this trend.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a514481bf4fe12bdf9a796a/0x0.jpg",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [],
-    "relevance_score": 15
-  },
-  {
-    "id": "f32391dcc2a8",
-    "title": "The Disney Movie That Should Have Been Made With AI",
-    "url": "https://www.forbes.com/sites/carolinereid/2026/07/10/the-disney-movie-that-should-have-been-made-with-ai/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-10T19:11:07+00:00",
-    "summary": "Few genres of film have been as much of a gamble for Disney as its live-action remakes. Criticism of the latest is so harsh that it raises questions of whether it would have been better made with AI.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a513c686e03623b836195b6/0x0.jpg",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "80680bdb66ab",
-    "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
-    "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-10T19:00:00+00:00",
-    "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen...",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2023/08/11f5fd43-3e13-4313-a003-9d36a81e3fde.png?resize=1200,602",
-    "tags": [
-      "Startups",
-      "AI",
-      "Hugging Face",
-      "Equity podcast",
-      "Enterprise AI"
-    ],
-    "industries": [],
-    "relevance_score": 15
-  },
-  {
-    "id": "369203852597",
-    "title": "Wimbledon, World Cup Hold Spotlight, But Pro Golf Has Plenty At Stake",
-    "url": "https://www.forbes.com/sites/mikedojc/2026/07/10/wimbledon-world-cup-hold-spotlight-but-pro-golf-has-plenty-at-stake/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-10T21:04:02+00:00",
-    "summary": "While tennis and soccer command the weekend spotlight, the Evian Championship, Scottish Open and ISCO Championship offer golf fans compelling storylines to follow.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a510c208be0a0528480bfba/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "media"
     ],
     "relevance_score": 14
   },
@@ -1281,24 +1109,80 @@
     "relevance_score": 16
   },
   {
-    "id": "13ba5092922a",
-    "title": "A decade later, Pokémon Go finally made good on its original promise",
-    "url": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-10T19:51:10+00:00",
-    "summary": "When Niantic dropped the first Pokémon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pokémon like Mewtwo. But this week at the game's 10th anniversary event in New York City, Pokémon Go showed the world how it's done. Almost...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/AP26191114345728.jpg?quality=90&amp;strip=all&amp;crop=0,10.732984293194,100,78.534031413613",
-    "tags": [
-      "Entertainment",
-      "Gaming",
-      "News",
-      "Nintendo",
-      "Pokemon"
-    ],
+    "id": "a60d89106845",
+    "title": "McDonald’s US CMO on the chain’s next marketing moves - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQSXAwMnNMOHFnclZfZE43THBQVldTX3ptVk5icm82dHE3Um42MzhQQ3Q1MFpVUUhXa1l6QUpCWGVEdTZZZXR6dUFoVU40WFhXMmVPUWNVRDZGWXVveTBTak0wazJySmM3eGczWHFIN0JWakhKSmRyNTgzbmtWb2RIQXRCa2poZW04NVFvZGhDU3FZbllfdjhDaExB?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-07-09T09:15:00+00:00",
+    "summary": "McDonald’s US CMO on the chain’s next marketing moves Ad Age",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "industrial"
     ],
+    "relevance_score": 39,
+    "also_covered_by": [
+      "Digiday"
+    ]
+  },
+  {
+    "id": "b47d984e1b1c",
+    "title": "OpenAI introduces ChatGPT Work, a cloud-based AI agent that manages tasks across email, Slack and calendars",
+    "url": "https://venturebeat.com/technology/openai-introduces-chatgpt-work-a-cloud-based-ai-agent-that-manages-tasks-across-email-slack-and-calendars",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-07-10T20:20:00+00:00",
+    "summary": "OpenAI on Thursday launched ChatGPT Work , a new AI agent embedded inside its flagship chatbot that aims to transform ChatGPT from a question-and-answer tool into an autonomous work platform capable of executing complex, multi-step tasks across users' email, calendars, code...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/XaJBJbkMIolDxyrlIw5Qd/b9e360da7531ae921f32528977713b61/Nuneybits_Magazine-style_digital_illustration_of_oversized_clou_64512c24-eef8-4ed0-9aae-efcb0615033a.webp?w=300&q=30",
+    "tags": [
+      "Technology",
+      "Orchestration",
+      "Business"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "3839887e5ca5",
+    "title": "Nvidia’s biggest RAM supplier just had a trillion-dollar debut on Wall Street",
+    "url": "https://www.theverge.com/tech/964121/sk-hynix-nvidia-ram-stock-market-debut",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-10T17:31:35+00:00",
+    "summary": "As the AI boom boosts demand for RAM, SK Hynix - one of the world's biggest suppliers of memory chips - launched on Wall Street Friday. The South Korean chipmaker opened at $170 per share and raised $26.5 billion, surpassing Alibaba's record as the largest debut of a foreign...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2284882241.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.75214828329%2C100%2C78.49570343342&amp;w=1200",
+    "tags": [
+      "Business",
+      "News",
+      "Tech"
+    ],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "99f2abdc1639",
+    "title": "White House Grounded Trump’s Qatari Jet Over Security Concerns, More Reports Confirm",
+    "url": "https://www.forbes.com/sites/conormurray/2026/07/10/white-house-grounded-trumps-qatari-jet-over-security-concerns-more-reports-confirm/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-10T19:48:44+00:00",
+    "summary": "The Qatari jet gifted to President Donald Trump, which made its debut as Air Force One last week, was quickly retrofitted for security upgrades, but some experts have questioned whether it is entirely up to snuff.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a4fc466a67900ee6ec22362/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [],
     "relevance_score": 14
   },
   {
@@ -1319,119 +1203,46 @@
     "relevance_score": 35
   },
   {
-    "id": "242808a891bd",
-    "title": "ICE is threatening to deport witnesses of its latest shooting",
-    "url": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-10T19:20:00+00:00",
-    "summary": "Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston during a traffic stop earlier this week. But DHS claims the agents involved...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/VRG_Illo_K_Radtke_STK006_DHS_1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Analysis",
-      "Policy",
-      "Report"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "688767b412ae",
-    "title": "Top Democrats Demand Investigation Of Fatal ICE Shooting In Houston",
-    "url": "https://www.forbes.com/sites/saradorn/2026/07/10/top-democrats-demand-investigation-of-fatal-ice-shooting-in-houston/",
+    "id": "530299f37f53",
+    "title": "The AI ‘Star Wars’ Film That Is Giving Hollywood A Wake-Up Call",
+    "url": "https://www.forbes.com/sites/carolinereid/2026/07/10/the-ai-star-wars-film-that-is-giving-hollywood-a-wake-up-call/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-07-10T19:12:07+00:00",
-    "summary": "The Department of Homeland Security claimed hours after the deadly shooting that the victim had “weaponized” his vehicle “in an attempt to run over an ICE law enforcement officer.”",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a514305c455677baf01d903/0x0.jpg?width=960",
+    "published": "2026-07-10T19:43:08+00:00",
+    "summary": "Making a successful Star Wars film is no mean feat and this year's The Mandalorian and Grogu grossed just $340 million. One creator is bucking this trend.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a514481bf4fe12bdf9a796a/0x0.jpg",
     "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
       "Business",
       "/business",
-      "Business",
-      "/business",
-      "Breaking"
+      "Hollywood & Entertainment"
     ],
     "industries": [],
     "relevance_score": 14
   },
   {
-    "id": "fca3e90107c2",
-    "title": "A Majority of European Lawmakers Voted Against Letting Big Tech Read Our Messages. They’re Going to Anyway",
-    "url": "https://www.wired.com/story/a-majority-of-european-lawmakers-voted-against-letting-big-tech-read-our-messages-theyre-going-to-anyway/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-09T13:55:08+00:00",
-    "summary": "Companies will once again be allowed to scan citizens’ personal texts, emails, and social media messages via the “Chat Control” bill to find child abuse material online.",
-    "image_url": "https://media.wired.com/photos/6a4ea8598a37b44461cc7389/master/pass/Politics_EuropeanParliamentsaysyestochat%20controlbill_v4.jpg",
-    "tags": [
-      "Security",
-      "Security / Privacy",
-      "Business / Big Tech",
-      "privacy",
-      "Tech Policy and Law"
-    ],
-    "industries": [
-      "media",
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 32
-  },
-  {
-    "id": "db610609b281",
-    "title": "Minneapolis-Based Retail Media Veterans Launch Networking Nonprofit",
-    "url": "https://www.adweek.com/commerce/minneapolis-based-retail-media-veterans-launch-networking-nonprofit/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-07-10T13:54:26+00:00",
-    "summary": "Commerce Media Meetup aims to support a growing pool of industry talent in retail hubs.",
+    "id": "54e956ca2349",
+    "title": "The Little-Known Story Of John Warnock, The Computer Scientist Who Founded Adobe And Invented The PDF - All That's Interesting",
+    "url": "https://news.google.com/rss/articles/CBMiV0FVX3lxTE56RWNySlZ2Y2d4LWMxUXVFWU8yVUw5TTRnZU9ZdU1kek9wZjhNbmhfNjgyZUxsUlZLV3hSQ0h3dXJJZGRvNXpRQWdZQ29xODJ1TlQwVlVwWQ?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-07-11T01:02:59+00:00",
+    "summary": "The Little-Known Story Of John Warnock, The Computer Scientist Who Founded Adobe And Invented The PDF All That's Interesting",
     "image_url": null,
-    "tags": [
-      "Advertising News",
-      "Advertising/Marketing",
-      "Ecommerce News",
-      "Exclusive",
-      "Leadership &amp; Talent"
-    ],
-    "industries": [
-      "media",
-      "retail"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "1ce3afc59573",
-    "title": "Trump Says Ceasefire Is Still Over, Even After U.S. Agreed To Continue Talks With Iran—What’s Next?",
-    "url": "https://www.forbes.com/sites/forbestv/2026/07/10/trump-says-ceasefire-is-still-over-even-after-us-agreed-to-continue-talks-with-iran--whats-next/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-10T21:04:14+00:00",
-    "summary": "President Donald Trump announced multiple times this week that the United States' fragile ceasefire with Iran was over.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a515d3cb0ebc0a7a979ce4d/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "standard"
-    ],
+    "tags": [],
     "industries": [],
-    "relevance_score": 13,
-    "also_covered_by": [
-      "Wall Street"
-    ]
+    "relevance_score": 12
   },
   {
-    "id": "006cdc72000c",
-    "title": "Tyler Perry Will Help Pay For Funeral Of Nolan Wells, Lawyer Says",
-    "url": "https://www.forbes.com/sites/conormurray/2026/07/10/tyler-perry-will-help-pay-for-funeral-of-nolan-wells-lawyer-says/",
+    "id": "1fd82dd6926d",
+    "title": "Reflecting Pool—Still Green—Drained For A Third Time As Renovation Drags On",
+    "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/10/reflecting-pool-still-green-drained-for-a-third-time-as-renovation-drags-on/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-07-10T18:25:41+00:00",
-    "summary": "Nolan Wells, an 18-year-old student-athlete from Mississippi, was found dead earlier this week after he went missing on a Fourth of July trip to Mississippi’s Horn Island with friends.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a4e9aeb82d002cbda586467/0x0.jpg?width=960&precrop=944%2C531%2Cx0%2Cy253",
+    "published": "2026-07-10T22:01:54+00:00",
+    "summary": "President Donald Trump sought to have the Reflecting Pool’s renovation completed before July 4, though algae blooms and peeled sealant have hindered the makeover.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5169cfe32179b6bb277b06/0x0.jpg?width=960",
     "tags": [
       "Business",
       "/business",
@@ -1440,48 +1251,69 @@
       "Breaking"
     ],
     "industries": [],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
-    "id": "8b3925b74fd6",
-    "title": "D+ Research: Marketers hesitate to adopt AI for influencer and CTV marketing",
-    "url": "https://digiday.com/marketing/d-research-marketers-hesitate-to-adopt-ai-for-influencer-and-ctv-marketing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
+    "id": "9105d9450915",
+    "title": "Blue Jays’ Dylan Cease Sends Yankees Phenom Message After Nearing History",
+    "url": "https://www.forbes.com/sites/peterchawaga/2026/07/10/blue-jays-dylan-cease-sends-yankees-phenom-message-after-nearing-history/",
+    "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-07-09T04:01:00+00:00",
-    "summary": "Advertisers embrace AI for social media and retail media marketing, but are slower to adopt AI for influencer and CTV marketing.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/06/ai-beauty-digiday.webp",
+    "published": "2026-07-10T22:00:00+00:00",
+    "summary": "The Toronto Blue Jays ace offered a response on the division rival New York Yankees’ star after a disappointing finish.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a4fe24c435f10b7de6eae0f/0x0.jpg?width=960&precrop=1051%2C591%2Cx0%2Cy57",
     "tags": [
-      "Marketing",
-      "Digiday+"
-    ],
-    "industries": [
-      "media",
-      "retail"
-    ],
-    "relevance_score": 42
-  },
-  {
-    "id": "64f5da7c93d1",
-    "title": "Meet the Battery Startup Taking on China’s Giants",
-    "url": "https://www.wired.com/story/prologium-battery-startup-betting-against-china/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-10T18:00:00+00:00",
-    "summary": "Solid-state batteries are safer and more capable—but harder to mass-produce. They also represent an opportunity for non-Chinese companies to get back in the game.",
-    "image_url": "https://media.wired.com/photos/6a4d5408dd7cbb1c03039d25/master/pass/Made-In-China-One-Battery-Company-is-Booming-Business.jpg",
-    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
       "Business",
-      "Business / Energy",
-      "Made in China",
-      "China",
-      "Taiwan"
+      "/business",
+      "SportsMoney"
     ],
     "industries": [
       "tech",
       "industrial"
     ],
+    "relevance_score": 13
+  },
+  {
+    "id": "80680bdb66ab",
+    "title": "Open source AI matters more than ever, according to Hugging Face’s Clem Delangue",
+    "url": "https://techcrunch.com/podcast/open-source-ai-matters-more-than-ever-according-to-hugging-faces-clem-delangue/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-10T19:00:00+00:00",
+    "summary": "Open source AI is booming, according to Hugging Face CEO Clem Delangue. The company has grown into something like a GitHub for AI in recent years, where AI builders can share and download open models and datasets, now used by roughly half the Fortune 500. Delangue has seen...",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2023/08/11f5fd43-3e13-4313-a003-9d36a81e3fde.png?resize=1200,602",
+    "tags": [
+      "Startups",
+      "AI",
+      "Hugging Face",
+      "Equity podcast",
+      "Enterprise AI"
+    ],
+    "industries": [],
     "relevance_score": 14
+  },
+  {
+    "id": "369203852597",
+    "title": "Wimbledon, World Cup Hold Spotlight, But Pro Golf Has Plenty At Stake",
+    "url": "https://www.forbes.com/sites/mikedojc/2026/07/10/wimbledon-world-cup-hold-spotlight-but-pro-golf-has-plenty-at-stake/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-10T21:04:02+00:00",
+    "summary": "While tennis and soccer command the weekend spotlight, the Evian Championship, Scottish Open and ISCO Championship offer golf fans compelling storylines to follow.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a510c208be0a0528480bfba/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 13
   },
   {
     "id": "2c2cd51a6c5c",
@@ -1519,26 +1351,6 @@
     "relevance_score": 30
   },
   {
-    "id": "925e8b2a72b8",
-    "title": "Week of June 29 Cable News Ratings: See Who Won America 250 Coverage",
-    "url": "https://www.adweek.com/tvnewser/week-of-june-29-2026-cable-news-ratings/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-07-10T13:04:18+00:00",
-    "summary": "Fox News was the most-watched cable news network during Independence Day celebrations.",
-    "image_url": null,
-    "tags": [
-      "CNN",
-      "Fox News",
-      "MS NOW",
-      "Ratings"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
     "id": "9524a2de1b57",
     "title": "Meta’s Pursuit of the 'Careless People' Author Is Relentless and Self-Defeating",
     "url": "https://www.wired.com/story/metas-pursuit-of-the-careless-people-author-is-relentless-and-self-defeating/",
@@ -1560,23 +1372,42 @@
     "relevance_score": 15
   },
   {
-    "id": "ac69c1ce2bf3",
-    "title": "This Startup Aims To Catapult Satellites Into Space",
-    "url": "https://www.forbes.com/sites/the-prototype/2026/07/10/this-startup-aims-to-catapult-satellites-into-space/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-10T19:22:45+00:00",
-    "summary": "Catapulting satellites into space. Making all the data center heat useful. Why memory technology needs disrupting.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a469a2425c2c18aef11b6b5/0x0.jpg?width=960&precrop=1994%2C1122%2Cx0%2Cy195",
+    "id": "13ba5092922a",
+    "title": "A decade later, Pokémon Go finally made good on its original promise",
+    "url": "https://www.theverge.com/games/964022/pokemon-go-10th-anniversary-mewtwo-nyc-go-fest-2026",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-10T19:51:10+00:00",
+    "summary": "When Niantic dropped the first Pokémon Go trailer in 2015, it was hard to grasp how a bunch of players could work together to catch a pokémon like Mewtwo. But this week at the game's 10th anniversary event in New York City, Pokémon Go showed the world how it's done. Almost...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/AP26191114345728.jpg?quality=90&amp;strip=all&amp;crop=0,10.732984293194,100,78.534031413613",
     "tags": [
-      "Newsletters",
-      "/newsletters-old",
-      "Newsletters",
-      "/newsletters-old",
-      "Innovation"
+      "Entertainment",
+      "Gaming",
+      "News",
+      "Nintendo",
+      "Pokemon"
     ],
     "industries": [
-      "tech"
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "242808a891bd",
+    "title": "ICE is threatening to deport witnesses of its latest shooting",
+    "url": "https://www.theverge.com/policy/964294/ice-shooting-houston-lorenzo-salgado-araujo",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-10T19:20:00+00:00",
+    "summary": "Advocates are demanding that the Department of Homeland Security release bodycam footage of the fatal shooting of Lorenzo Salgado Araujo, a Mexican immigrant who was killed by ICE officers in Houston during a traffic stop earlier this week. But DHS claims the agents involved...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/VRG_Illo_K_Radtke_STK006_DHS_1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Analysis",
+      "Policy",
+      "Report"
+    ],
+    "industries": [
+      "industrial"
     ],
     "relevance_score": 13
   },
@@ -1597,47 +1428,23 @@
     "relevance_score": 14
   },
   {
-    "id": "7b4493a3868d",
-    "title": "5 Things That Hit This Week: Criteo Faces a Takeover Bid While Pacvue and The Trade Desk Win New Deals",
-    "url": "https://www.adweek.com/commerce/5-things-that-hit-this-week-criteo-faces-a-takeover-bid-while-pacvue-and-the-trade-desk-win-new-deals/",
-    "source": "Adweek",
+    "id": "688767b412ae",
+    "title": "Top Democrats Demand Investigation Of Fatal ICE Shooting In Houston",
+    "url": "https://www.forbes.com/sites/saradorn/2026/07/10/top-democrats-demand-investigation-of-fatal-ice-shooting-in-houston/",
+    "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-07-10T09:54:22+00:00",
-    "summary": "Elsewhere, commerce media execs aim to solve an educational and networking gap in the industry.",
-    "image_url": null,
+    "published": "2026-07-10T19:12:07+00:00",
+    "summary": "The Department of Homeland Security claimed hours after the deadly shooting that the victim had “weaponized” his vehicle “in an attempt to run over an ICE law enforcement officer.”",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a514305c455677baf01d903/0x0.jpg?width=960",
     "tags": [
-      "Advertising News",
-      "Advertising/Marketing",
-      "Ecommerce News",
-      "Merger &amp; Acquisition News",
-      "Premium"
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
     ],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 17
-  },
-  {
-    "id": "c4168a7a3c2c",
-    "title": "How to Share Your Location on an iPhone or Android Phone (2026)",
-    "url": "https://www.wired.com/story/how-to-share-your-location-android-ios/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-10T12:00:00+00:00",
-    "summary": "Whether it’s through Google Maps or Emergency SOS, there are plenty of ways to quickly let your loved ones know where you are.",
-    "image_url": "https://media.wired.com/photos/6a506c6a96629da7c10e3c06/master/pass/How-to-Share-Your-Location-on-an-iPhone-or-Android.jpg",
-    "tags": [
-      "Gear",
-      "Gear / How To and Advice",
-      "Gear / Products / Phones",
-      "location",
-      "Android"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16
+    "industries": [],
+    "relevance_score": 13
   },
   {
     "id": "579cb2516ed4",
@@ -1662,49 +1469,61 @@
     "relevance_score": 14
   },
   {
-    "id": "d78ad281ad83",
-    "title": "Verizon will provide 5G connectivity services for new BMW vehicles in the US - GSMArena.com news - GSMArena.com",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPRTNUa1FTVGJ0X25Kbk9hSm5heVBSVlVWaWdXMGhMbGpUUjFPVmlZMC1NTGZKZjczNmM0VkxjbktqbEpiOXNLaXFtZ3VwSW1EamdKVlJJNnpLTWt3bHVkNGRiTnZuSVlLbEdERUNUVExfYmczYlcwcVBIZU1tUG04QlUyM3dTVHJVUFdUakNqdndLTm9oSndqYklTSEFUZVFqYzZVMENUbzdJUVNGaEItMWFDT1l2TXfSAbMBQVVfeXFMUGZGdTEtT0tfSGFDTzh2M0RWTnp2WWlKVGw0eHV3aHVIbVNrVGltaS1OUDBNTEdCN0t5MXZFY1Z5SlZGZjVZQkxfQjJGVG9UZmhFSExXWWo2VVMtcHAxVGh5eDJ6bnNWQkpfQVlISGVwSGoyc2VTWkRyVW84YnZsLUxqeS1Zd2Q5RHJuVDFzM0RiWjhzNFlTY2h4dzV0OXZFU2lwRzEtQktNUjZnRHN3WVhpUG8?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-07-10T21:31:02+00:00",
-    "summary": "Verizon will provide 5G connectivity services for new BMW vehicles in the US - GSMArena.com news GSMArena.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "f6a1d2a4c1df",
-    "title": "Adobe: It's Finally Time To Bottom Fish The Stock (Double Upgrade) (NASDAQ:ADBE) - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYzBHRjRWYXNBMlFMMjRaNmpvTDh0UUt4NThkSGpLVHozOE52WlZiaGc4VEJ6ekVmaUVDV2ZZbkVNQjJjaUxLTWRUZFA1QVRTM3l4WUZGTkxPQjA2cjRaaTUycmJndlA1UXNNR0t2dmY3WEw4bHFSX3F4Z1VsckJabFJBWDM2WGZyS2JmOWtIYVpkdXpuRE1xUW9sN3dDQ0pzaVhmbUNR?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-07-10T21:20:49+00:00",
-    "summary": "Adobe: It's Finally Time To Bottom Fish The Stock (Double Upgrade) (NASDAQ:ADBE) Seeking Alpha",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "da259d2e8989",
-    "title": "U.S., Canada Agree to Open New Detroit Bridge After Deal on Tolls - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUx3RzFKTkpwOEVzRXc4dTVvZ2N3NnBsZEwyb1c1bVV3dEdpcDg1SUxSN2IydTRnSWE0VDNuNGdPNWlUbnZLcXpocjRDempISEpBMml6VEZ0a3BLOHhjSkNKb3hlLXlRcEd6alFvdDhjRXBFelZhRjZ1RTY1bHhobE11V3hVbzhIaG8yZ3VzZ2YyNEJrZUh1TFlkcEJicFRqcXdxVDZnQVg0UVU?oc=5",
+    "id": "79fe49a25a68",
+    "title": "Fears Over New Luxury Jet Forced Trump Back to an Old Air Force One After Israeli Warning - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMUFPZFF1UmpncHczZnkwcm9hdjN4Z0xlcTRrY2V5V2hYNDBPWURDNEFPNkdQNWNRV05reTdyVS1fcTU4WVo3WVhjaDNGUmhseV84QlBMbzhnSElQS1NNUWZhR3ZkZWFLbGtMR1hPZTYxamlPUWVfUy1vZWJvMHNmVzRMVlZPV0QzYXVOTHJ5SzJOTnlneC1BVXlwMDlQU2JmVGc?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-07-11T00:13:00+00:00",
-    "summary": "U.S., Canada Agree to Open New Detroit Bridge After Deal on Tolls WSJ",
+    "published": "2026-07-11T04:00:00+00:00",
+    "summary": "Fears Over New Luxury Jet Forced Trump Back to an Old Air Force One After Israeli Warning WSJ",
     "image_url": null,
     "tags": [],
-    "industries": [
-      "industrial"
+    "industries": [],
+    "relevance_score": 10
+  },
+  {
+    "id": "db610609b281",
+    "title": "Minneapolis-Based Retail Media Veterans Launch Networking Nonprofit",
+    "url": "https://www.adweek.com/commerce/minneapolis-based-retail-media-veterans-launch-networking-nonprofit/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-07-10T13:54:26+00:00",
+    "summary": "Commerce Media Meetup aims to support a growing pool of industry talent in retail hubs.",
+    "image_url": null,
+    "tags": [
+      "Advertising News",
+      "Advertising/Marketing",
+      "Ecommerce News",
+      "Exclusive",
+      "Leadership &amp; Talent"
     ],
-    "relevance_score": 11
+    "industries": [
+      "media",
+      "retail"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "1ce3afc59573",
+    "title": "Trump Says Ceasefire Is Still Over, Even After U.S. Agreed To Continue Talks With Iran—What’s Next?",
+    "url": "https://www.forbes.com/sites/forbestv/2026/07/10/trump-says-ceasefire-is-still-over-even-after-us-agreed-to-continue-talks-with-iran--whats-next/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-10T21:04:14+00:00",
+    "summary": "President Donald Trump announced multiple times this week that the United States' fragile ceasefire with Iran was over.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a515d3cb0ebc0a7a979ce4d/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "standard"
+    ],
+    "industries": [],
+    "relevance_score": 12,
+    "also_covered_by": [
+      "Wall Street"
+    ]
   },
   {
     "id": "6f5e0603e465",
@@ -1726,6 +1545,45 @@
     "relevance_score": 14
   },
   {
+    "id": "8b3925b74fd6",
+    "title": "D+ Research: Marketers hesitate to adopt AI for influencer and CTV marketing",
+    "url": "https://digiday.com/marketing/d-research-marketers-hesitate-to-adopt-ai-for-influencer-and-ctv-marketing/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-07-09T04:01:00+00:00",
+    "summary": "Advertisers embrace AI for social media and retail media marketing, but are slower to adopt AI for influencer and CTV marketing.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/06/ai-beauty-digiday.webp",
+    "tags": [
+      "Marketing",
+      "Digiday+"
+    ],
+    "industries": [
+      "media",
+      "retail"
+    ],
+    "relevance_score": 39
+  },
+  {
+    "id": "925e8b2a72b8",
+    "title": "Week of June 29 Cable News Ratings: See Who Won America 250 Coverage",
+    "url": "https://www.adweek.com/tvnewser/week-of-june-29-2026-cable-news-ratings/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-07-10T13:04:18+00:00",
+    "summary": "Fox News was the most-watched cable news network during Independence Day celebrations.",
+    "image_url": null,
+    "tags": [
+      "CNN",
+      "Fox News",
+      "MS NOW",
+      "Ratings"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
     "id": "3c6eb0cf0890",
     "title": "Weekly Rundown: Surgical Safety Technologies rebrands to Aimbient; UC San Diego launches applied health intelligence institute",
     "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-surgical-safety-technologies-rebrands-aimbient-uc-san-diego-launches",
@@ -1744,37 +1602,26 @@
     "relevance_score": 31
   },
   {
-    "id": "8aa63f293fe7",
-    "title": "Pearl Health banks $110M in fresh funding to build out tech and AI for Medicare providers",
-    "url": "https://www.fiercehealthcare.com/health-tech/pearl-health-banks-110m-fresh-funding-build-out-ai-medicare-providers",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-10T10:46:00+00:00",
-    "summary": "Health tech startup Pearl Health raised $110 million in a mix of debt and equity financing to build out its artificial intelligence platform for Medicare providers, including AI agents to handle administrative tasks.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1127392298%20%281%29.jpg?VersionId=0cNfArtDIxtUng7aeCjq0_sErancnw.g",
-    "tags": [],
+    "id": "64f5da7c93d1",
+    "title": "Meet the Battery Startup Taking on China’s Giants",
+    "url": "https://www.wired.com/story/prologium-battery-startup-betting-against-china/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-10T18:00:00+00:00",
+    "summary": "Solid-state batteries are safer and more capable—but harder to mass-produce. They also represent an opportunity for non-Chinese companies to get back in the game.",
+    "image_url": "https://media.wired.com/photos/6a4d5408dd7cbb1c03039d25/master/pass/Made-In-China-One-Battery-Company-is-Booming-Business.jpg",
+    "tags": [
+      "Business",
+      "Business / Energy",
+      "Made in China",
+      "China",
+      "Taiwan"
+    ],
     "industries": [
       "tech",
-      "industrial",
-      "lifesciences",
-      "financial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "7f60dbc19b85",
-    "title": "How Kogan.com Automated 67% of Customer Inquiries and Tripled Resolution",
-    "url": "https://www.salesforce.com/blog/kogan-agentforce/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-10T13:00:00+00:00",
-    "summary": "By deploying Agentforce across multiple use cases, Kogan.com automated more than half its customer interactions and grew resolution rate from 6% to 67%.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_1953114517.jpeg",
-    "tags": [],
-    "industries": [
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 13
   },
   {
     "id": "24267853fdf8",
@@ -1796,17 +1643,170 @@
     "relevance_score": 14
   },
   {
-    "id": "b3bf55717e46",
-    "title": "Wall Street ends higher as investors turn to earnings season - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOQjluWjNOdGZuYndpR0lTLThCLUx1UFYwaElxZFBIQmZSZjM5YWFJekxqdmhGU3lZVENKYkdSTGxjRzJ3eVhnSlZFelVyYUhPdG4yMHQ2ZVRINjh2TlZYRG1ZR2FWN2tnMExQRnRKYVo1ZTNWNlEyUE96NUJLcjEtcnpOSkpyU2E4bFRranlybjlwbFV6c2V5X0toYnU5ZWVJRDJyUElhRWtnMmM1YS1EX2xMV3dDbHVPVEVJcV8wNkoyTjBUREF0ZE02SlhXNVk?oc=5",
+    "id": "7b4493a3868d",
+    "title": "5 Things That Hit This Week: Criteo Faces a Takeover Bid While Pacvue and The Trade Desk Win New Deals",
+    "url": "https://www.adweek.com/commerce/5-things-that-hit-this-week-criteo-faces-a-takeover-bid-while-pacvue-and-the-trade-desk-win-new-deals/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-07-10T09:54:22+00:00",
+    "summary": "Elsewhere, commerce media execs aim to solve an educational and networking gap in the industry.",
+    "image_url": null,
+    "tags": [
+      "Advertising News",
+      "Advertising/Marketing",
+      "Ecommerce News",
+      "Merger &amp; Acquisition News",
+      "Premium"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "b608e47828d3",
+    "title": "Spotify will let you fine-tune your weekly Release Radar playlist",
+    "url": "https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-10T17:02:13+00:00",
+    "summary": "Spotify is giving listeners control to fine-tune what gets surfaced for them in Release Radar - one of its most popular weekly playlists. The new options allow you to narrow the playlist to a specific genre, focus on artists that are new to you, and more. Listeners can choose...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/KtzRDIOEJYs3A6mb9MaNfOeEAekXQwD5Omr7BQZWkzg.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Entertainment",
+      "Music",
+      "News",
+      "Spotify",
+      "Tech"
+    ],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "c4168a7a3c2c",
+    "title": "How to Share Your Location on an iPhone or Android Phone (2026)",
+    "url": "https://www.wired.com/story/how-to-share-your-location-android-ios/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-10T12:00:00+00:00",
+    "summary": "Whether it’s through Google Maps or Emergency SOS, there are plenty of ways to quickly let your loved ones know where you are.",
+    "image_url": "https://media.wired.com/photos/6a506c6a96629da7c10e3c06/master/pass/How-to-Share-Your-Location-on-an-iPhone-or-Android.jpg",
+    "tags": [
+      "Gear",
+      "Gear / How To and Advice",
+      "Gear / Products / Phones",
+      "location",
+      "Android"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "9a5bd50d7637",
+    "title": "Feds push back HIPAA security rule overhaul to July 2027",
+    "url": "https://www.fiercehealthcare.com/health-tech/feds-push-back-hipaa-security-rule-overhaul-july-2027",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-10T14:19:00+00:00",
+    "summary": "The 125-page proposed update prompted fierce pushback from hospitals, health systems and other healthcare stakeholders who warned it would place substantial financial burdens on organizations.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/cybersecurity_11.jpg?VersionId=FWCm4RBUTIvLY4oVKv0WMTpQIGKb5RUj",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 14,
+    "also_covered_by": [
+      "Health Tech"
+    ]
+  },
+  {
+    "id": "da259d2e8989",
+    "title": "U.S. and Canada Agree to Open New Detroit Bridge After Deal on Tolls - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNNUx3RzFKTkpwOEVzRXc4dTVvZ2N3NnBsZEwyb1c1bVV3dEdpcDg1SUxSN2IydTRnSWE0VDNuNGdPNWlUbnZLcXpocjRDempISEpBMml6VEZ0a3BLOHhjSkNKb3hlLXlRcEd6alFvdDhjRXBFelZhRjZ1RTY1bHhobE11V3hVbzhIaG8yZ3VzZ2YyNEJrZUh1TFlkcEJicFRqcXdxVDZnQVg0UVU?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-07-10T22:58:34+00:00",
-    "summary": "Wall Street ends higher as investors turn to earnings season Reuters",
+    "published": "2026-07-11T01:45:00+00:00",
+    "summary": "U.S. and Canada Agree to Open New Detroit Bridge After Deal on Tolls WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "ac69c1ce2bf3",
+    "title": "This Startup Aims To Catapult Satellites Into Space",
+    "url": "https://www.forbes.com/sites/the-prototype/2026/07/10/this-startup-aims-to-catapult-satellites-into-space/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-10T19:22:45+00:00",
+    "summary": "Catapulting satellites into space. Making all the data center heat useful. Why memory technology needs disrupting.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a469a2425c2c18aef11b6b5/0x0.jpg?width=960&precrop=1994%2C1122%2Cx0%2Cy195",
+    "tags": [
+      "Newsletters",
+      "/newsletters-old",
+      "Newsletters",
+      "/newsletters-old",
+      "Innovation"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "8aa63f293fe7",
+    "title": "Pearl Health banks $110M in fresh funding to build out tech and AI for Medicare providers",
+    "url": "https://www.fiercehealthcare.com/health-tech/pearl-health-banks-110m-fresh-funding-build-out-ai-medicare-providers",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-10T10:46:00+00:00",
+    "summary": "Health tech startup Pearl Health raised $110 million in a mix of debt and equity financing to build out its artificial intelligence platform for Medicare providers, including AI agents to handle administrative tasks.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1127392298%20%281%29.jpg?VersionId=0cNfArtDIxtUng7aeCjq0_sErancnw.g",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences",
       "financial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "7f60dbc19b85",
+    "title": "How Kogan.com Automated 67% of Customer Inquiries and Tripled Resolution",
+    "url": "https://www.salesforce.com/blog/kogan-agentforce/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-10T13:00:00+00:00",
+    "summary": "By deploying Agentforce across multiple use cases, Kogan.com automated more than half its customer interactions and grew resolution rate from 6% to 67%.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_1953114517.jpeg",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "f6a1d2a4c1df",
+    "title": "Adobe: It's Finally Time To Bottom Fish The Stock (Double Upgrade) (NASDAQ:ADBE) - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNYzBHRjRWYXNBMlFMMjRaNmpvTDh0UUt4NThkSGpLVHozOE52WlZiaGc4VEJ6ekVmaUVDV2ZZbkVNQjJjaUxLTWRUZFA1QVRTM3l4WUZGTkxPQjA2cjRaaTUycmJndlA1UXNNR0t2dmY3WEw4bHFSX3F4Z1VsckJabFJBWDM2WGZyS2JmOWtIYVpkdXpuRE1xUW9sN3dDQ0pzaVhmbUNR?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-07-10T21:20:49+00:00",
+    "summary": "Adobe: It's Finally Time To Bottom Fish The Stock (Double Upgrade) (NASDAQ:ADBE) Seeking Alpha",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media"
     ],
     "relevance_score": 11
   },
@@ -1831,41 +1831,42 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
-    "id": "f54f25832ce8",
-    "title": "Trump Administration Increasingly Pessimistic of Clinching Iran Nuclear Deal - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQQXdFak1hbDJqMDh6eUNEeGkzZUZibXRqT2syODBlSF9hYmt1R2hLZmt5dTVYRWp6UVV2Z2t0eHMwUnUwUHQ3TVd3WUF5ZnNHZEhtQ2pMMjVQOU9Ya2taRWp1VjJVbUZVb2VvbHhCLVdpZlEtZkF2eEQyWHc0ajJneGhTeDBxMW5KcEMzN0NzYmd2UVFrNHVFMm5Cb0pPYkZESDM0TmlGTEl4OVE3T1l3ZHNwS2lpOUpyV0J5SlhJUWw?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-10T22:52:00+00:00",
-    "summary": "Trump Administration Increasingly Pessimistic of Clinching Iran Nuclear Deal WSJ",
-    "image_url": null,
+    "id": "36a077da0b33",
+    "title": "ACO REACH participants generated nearly $1B in 2024 savings: CMS",
+    "url": "https://www.fiercehealthcare.com/regulatory/aco-reach-participants-generated-nearly-1b-2024-savings-cms",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-10T11:48:00+00:00",
+    "summary": "Participants in the ACO REACH program generated nearly $1 billion in savings in 2024, according to new performance data from the Trump administration.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1153554524.jpg?VersionId=9x0BFwPDmyDmlW8G8fym7PUwHqXlCalF",
     "tags": [],
-    "industries": [],
-    "relevance_score": 11
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 14
   },
   {
-    "id": "b608e47828d3",
-    "title": "Spotify will let you fine-tune your weekly Release Radar playlist",
-    "url": "https://www.theverge.com/entertainment/964021/spotify-release-radar-algorithm-controls",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-10T17:02:13+00:00",
-    "summary": "Spotify is giving listeners control to fine-tune what gets surfaced for them in Release Radar - one of its most popular weekly playlists. The new options allow you to narrow the playlist to a specific genre, focus on artists that are new to you, and more. Listeners can choose...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/KtzRDIOEJYs3A6mb9MaNfOeEAekXQwD5Omr7BQZWkzg.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "id": "12a7b5cb77d0",
+    "title": "Gen Z’s Short Attention Span Is a Myth. Here Are 5 Keys To Capturing Their Interest.",
+    "url": "https://www.adweek.com/brand-marketing/gen-zs-short-attention-span-is-a-myth-here-are-5-keys-to-capturing-their-interest/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-07-10T07:00:00+00:00",
+    "summary": "Gen Z isn't incapable of paying attention, they're just decisive about what deserves it—especially in today’s over-saturated media environment.",
+    "image_url": null,
     "tags": [
-      "Entertainment",
-      "Music",
-      "News",
-      "Spotify",
-      "Tech"
+      "Advertising/Marketing",
+      "Gen Z",
+      "General",
+      "Voice"
     ],
     "industries": [
       "media",
       "industrial"
     ],
-    "relevance_score": 13
+    "relevance_score": 16
   }
 ]
