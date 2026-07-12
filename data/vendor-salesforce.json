@@ -1,5 +1,20 @@
 [
   {
+    "id": "9e02246ff277",
+    "title": "What You Can Learn From Two Marketing Cloud Next Onboarding Journeys",
+    "url": "https://www.salesforce.com/blog/marketing-cloud-next-onboarding/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-08T18:34:17+00:00",
+    "summary": "Rawlings Sporting Goods and Indiana Wesleyan University took different approaches to adoption. Here’s their stories and how they can help you.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_568712078_4603c6.jpg",
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 34
+  },
+  {
     "id": "b1e81f721f44",
     "title": "Marketing For Startups: 5 Steps to Campaign Success",
     "url": "https://www.salesforce.com/blog/small-business/five-steps-to-marketing-a-startup/",
@@ -12,7 +27,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 37
+    "relevance_score": 34
   },
   {
     "id": "b445ff0f12ee",
@@ -29,21 +44,6 @@
       "tech",
       "consumer",
       "industrial"
-    ],
-    "relevance_score": 37
-  },
-  {
-    "id": "9e02246ff277",
-    "title": "What You Can Learn From Two Marketing Cloud Next Onboarding Journeys",
-    "url": "https://www.salesforce.com/blog/marketing-cloud-next-onboarding/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-08T18:34:17+00:00",
-    "summary": "Rawlings Sporting Goods and Indiana Wesleyan University took different approaches to adoption. Here’s their stories and how they can help you.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_568712078_4603c6.jpg",
-    "tags": [],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 34
   },
@@ -75,22 +75,6 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 12
-  },
-  {
-    "id": "74bc588ac104",
-    "title": "The New AI Trust Architecture: 5 Requirements for Agent-to-Agent Communication",
-    "url": "https://www.salesforce.com/blog/new-ai-trust-architecture/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-10T16:40:00+00:00",
-    "summary": "In London in 1832, clerks from thirty-one competing banks gathered every afternoon on Lombard Street to settle accounts. Each bank had already mastered the basics — tracking debits, crediting accounts, settling balances. The…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/centered.png",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "financial"
-    ],
     "relevance_score": 11
   },
   {
@@ -106,6 +90,22 @@
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "74bc588ac104",
+    "title": "The New AI Trust Architecture: 5 Requirements for Agent-to-Agent Communication",
+    "url": "https://www.salesforce.com/blog/new-ai-trust-architecture/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-10T16:40:00+00:00",
+    "summary": "In London in 1832, clerks from thirty-one competing banks gathered every afternoon on Lombard Street to settle accounts. Each bank had already mastered the basics — tracking debits, crediting accounts, settling balances. The…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/centered.png",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "financial"
     ],
     "relevance_score": 10
   },
@@ -200,36 +200,6 @@
     "relevance_score": 7
   },
   {
-    "id": "7b824d3f47e1",
-    "title": "Bernstein downgrades Salesforce, cites lack of evidence for Agentforce momentum - Investing.com Nigeria",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxNQS1taWtJbmtsMm5kSHo3V0U4bk5KcS1kVlNYLXFLRy1USkRKTmFJV05Wd21kQ0l1QUlMY3hBZjkxQkdaSEItZjVSbVpCUGdpSHc3UDRNZ2cxYUFlYWVNdTBhTEpfR1VqSF9qbE5wS3BYZ3hFZTNSMW45aDZybnl6ZWF6MldQZWF6UDNwenhRd1pNM1ZKeGk2NWdkQy1IYklFUEEwT0FSUUtndlF1VWxLZ09oRnlnUkZOczNHWG1OUmJOdnJ6bDc0WE1LbVpoZXc?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-07-09T13:16:54+00:00",
-    "summary": "Bernstein downgrades Salesforce, cites lack of evidence for Agentforce momentum Investing.com Nigeria",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "11bb53359694",
-    "title": "Salesforce Downgraded On Views 'Agentforce, As A Product, Just Isn't There' - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1pRU2h0cXdxX0t0WUw0cXRPT3c2VkpySzk2RTBtTDVyc3NIazVMd2VCVkpyWS1hQ3NGX3NNdmVVeTJRMjdOMHUyRFk3czhOcGVkMWJFcENKLVdFZFJOd25TUHZrbHJVU0xjX0lOUkNCaXhhV3M2dlNBUUFtRTUwY1ZtbEM4eEo2M0IxdU9udlJBVkVRejlXcg?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-07-09T14:31:00+00:00",
-    "summary": "Salesforce Downgraded On Views 'Agentforce, As A Product, Just Isn't There' Investor's Business Daily",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 7
-  },
-  {
     "id": "040a538397e0",
     "title": "Salesforce Falls on Agentforce Momentum Doubts - GuruFocus",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcnJsaGRoaTZWdF9VRjNkbGJ4MER3aWJOaW5XSWlZbXFQNFd4cU9oeTJhTXV1Rk5UNU05ZGlOZUpaTTl6VGVXR0Vfdi1kbTVpYVhieFRjbjZUZnNxQkJER3VrUzV6UWNsTWV0QlZqOWduNFdFQ3BRa3VKUjE0bXZ4dndWNGpkaUpQbGZtaWp3?oc=5",
@@ -295,6 +265,36 @@
     "source_category": "salesforce",
     "published": "2026-07-09T11:58:24+00:00",
     "summary": "Salesforce stock downgraded by KeyBanc on Agentforce concerns eciks.org",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "a838ad18c7bf",
+    "title": "Bernstein downgrades Salesforce, cites lack of evidence for Agentforce momentum - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQQmszSy1DWGFFSjdPNjZNTU5ndnFJMzJZZ3ZQbkxPREJ6UmJ2WEZWdVhHenpCRUlNci1uUTktUWk5elpkQUNhMXhDNE5mNy1hb3A5cmhaaFF3cG4wR0dxeHVERnM3aEhMOEV3RUduaTNHdXhjbk92eTYzUDVjMkMtZS1HWHJLTVJPZllrSVpCTGpDMXZlbE5Hd2p0T3FScmlxOGRaR0pkbDUyUG5FelF5a2FCbUQ2dUZiSDF6VWZXZzhVS0FGcDY2UDlPa3lkNlBV?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-07-09T12:50:00+00:00",
+    "summary": "Bernstein downgrades Salesforce, cites lack of evidence for Agentforce momentum Investing.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "11bb53359694",
+    "title": "Salesforce Downgraded On Views 'Agentforce, As A Product, Just Isn't There' - Investor's Business Daily",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1pRU2h0cXdxX0t0WUw0cXRPT3c2VkpySzk2RTBtTDVyc3NIazVMd2VCVkpyWS1hQ3NGX3NNdmVVeTJRMjdOMHUyRFk3czhOcGVkMWJFcENKLVdFZFJOd25TUHZrbHJVU0xjX0lOUkNCaXhhV3M2dlNBUUFtRTUwY1ZtbEM4eEo2M0IxdU9udlJBVkVRejlXcg?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-07-09T14:31:00+00:00",
+    "summary": "Salesforce Downgraded On Views 'Agentforce, As A Product, Just Isn't There' Investor's Business Daily",
     "image_url": null,
     "tags": [],
     "industries": [
