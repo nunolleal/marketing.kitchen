@@ -61,10 +61,7 @@
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 14,
-    "also_covered_by": [
-      "Health Tech"
-    ]
+    "relevance_score": 14
   },
   {
     "id": "8aa63f293fe7",
@@ -148,21 +145,6 @@
     "published": "2026-07-10T11:00:00+00:00",
     "summary": "No single part of the healthcare system can solve affordability on its own. Real progress will require shared responsibility and coordinated action—including on the part of hospitals, writes American Hospital Association President and CEO Rick Pollack.",
     "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202024-07-08T151742.556.jpg?VersionId=aqX2V3TPpgPBwfbBLD3RPB4xFhaPMxqq",
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "aef4fe5f6e15",
-    "title": "Yonatan Keschner: New Collaboration on AI, Digital Health and Oncology Innovation - Oncodaily",
-    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4ybFJudUFfRTR6UE9LV3l6ZUFJa1pCZjQwNmpHeEdPekozN0o2WTk1R0c0STNkbXk2aElUY1E3SWdfUWNVbm9nMk80Um1Cc2o2cldWNG5MbExTOE9wM0JzbkVqRQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-11T21:32:03+00:00",
-    "summary": "Yonatan Keschner: New Collaboration on AI, Digital Health and Oncology Innovation Oncodaily",
-    "image_url": null,
     "tags": [],
     "industries": [
       "lifesciences"
@@ -317,18 +299,16 @@
     "relevance_score": 8
   },
   {
-    "id": "da56cf47a164",
-    "title": "FDA approves gene therapy for sickle cell disease in children as young as 2 years old - News Channel 5 Nashville",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOclhXbm9udlZQUnZuenhFQWNUb3phMUpVdm9IU3lERnBsZEplNXNjbkZ0WXc1U1Y0RU5DQTVHNWNkX0UzelQ2dGFvd1k0LUZXbVR4cHdOd2pESThWZE5paDk5ZUxScERfczlTUU5kVV91bmUwR0lrWWxxeFN6OElHdE5zcXpBVGU2aDJMU29GeU8za05TRzNrcEFENG1yUl9fVDMwTkVkcjZ2LXd4cjZHQUNiTEFqLUhyM0pMLXJwVnV2OUhUYnRJYlA0T0VJS2tCYkltQnNjV2JtTTZhVGdHTnJmbHpCdw?oc=5",
-    "source": "Biotech",
+    "id": "aef4fe5f6e15",
+    "title": "Yonatan Keschner: New Collaboration on AI, Digital Health and Oncology Innovation - Oncodaily",
+    "url": "https://news.google.com/rss/articles/CBMiY0FVX3lxTE4ybFJudUFfRTR6UE9LV3l6ZUFJa1pCZjQwNmpHeEdPekozN0o2WTk1R0c0STNkbXk2aElUY1E3SWdfUWNVbm9nMk80Um1Cc2o2cldWNG5MbExTOE9wM0JzbkVqRQ?oc=5",
+    "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-07-10T04:19:38+00:00",
-    "summary": "FDA approves gene therapy for sickle cell disease in children as young as 2 years old News Channel 5 Nashville",
+    "published": "2026-07-11T21:32:03+00:00",
+    "summary": "Yonatan Keschner: New Collaboration on AI, Digital Health and Oncology Innovation Oncodaily",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 8
@@ -360,6 +340,23 @@
     "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1635360990/UnitedHealthcare_sign.jpg/UnitedHealthcare_sign.jpg?VersionId=mRAMc4oGgCt6.6zJw_PKJwe2kXPjRXqW",
     "tags": [],
     "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "da56cf47a164",
+    "title": "FDA approves gene therapy for sickle cell disease in children as young as 2 years old - News Channel 5 Nashville",
+    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOclhXbm9udlZQUnZuenhFQWNUb3phMUpVdm9IU3lERnBsZEplNXNjbkZ0WXc1U1Y0RU5DQTVHNWNkX0UzelQ2dGFvd1k0LUZXbVR4cHdOd2pESThWZE5paDk5ZUxScERfczlTUU5kVV91bmUwR0lrWWxxeFN6OElHdE5zcXpBVGU2aDJMU29GeU8za05TRzNrcEFENG1yUl9fVDMwTkVkcjZ2LXd4cjZHQUNiTEFqLUhyM0pMLXJwVnV2OUhUYnRJYlA0T0VJS2tCYkltQnNjV2JtTTZhVGdHTnJmbHpCdw?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-10T04:19:38+00:00",
+    "summary": "FDA approves gene therapy for sickle cell disease in children as young as 2 years old News Channel 5 Nashville",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 7
@@ -538,13 +535,13 @@
     "relevance_score": 5
   },
   {
-    "id": "9d45a4eb1a85",
-    "title": "Digital Health Tools and Technologies: An Overview of CMS’ Recent Efforts to Expand Their Use in Medicare - RamaOnHealthcare",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQSHJnaDZVX3JGNEVPNXhPNGluZWxsb1RLdmptQ2F4UnZoLUFmcWJObVEwdHJUQXVma2NMQjFwZU9aZ1ZrLWdNWGMwNm1fY3NUa3EtNGwxWUZhbGc2Q1ZTdDBXZS10blBJejRvNWs3eXBPcVYza0FqR0xHbDdQb0RXOW04c2Y0Z08yYWFydXd2NGUzV1ZsUVF1ZWJQZjgzdmRwMHIxWUEwZjFZa1RZZzNXODlBMi03dW1mRWFiQU1YS3BIazlTMzdPb3VwOWZndw?oc=5",
+    "id": "6b37afb3a3ef",
+    "title": "American Heart Association joins social network Roon for medical research collaboration - Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPYks4TXJLRGVCZHI5MHYtWmN3dDI4bnlQNlktSW5HYnhWVWNMeUJhMXp0OUxjX2RPRlBHZGEwOHIweXJRTTZqVHN5a3BKVENtQ1hFR0pVSnJNcnc3ZW8xTEpMblc3QjBtdW1iOVZ1Rmh3YndfcDZTZElvcGdBVEJRUVNVdWxqTm11UWIyRlRRQmhaOHc1aTdKNHpjbUNPMEZTTGlzWERCN05Ub21EaGk3WlU2bGdnZWsteWM4czk0aHNQRzdxYVhF?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-07-07T18:11:00+00:00",
-    "summary": "Digital Health Tools and Technologies: An Overview of CMS’ Recent Efforts to Expand Their Use in Medicare RamaOnHealthcare",
+    "published": "2026-07-08T12:00:00+00:00",
+    "summary": "American Heart Association joins social network Roon for medical research collaboration Fierce Healthcare",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -560,36 +557,6 @@
     "source_category": "industry_lifesciences",
     "published": "2026-07-08T15:05:52+00:00",
     "summary": "Regulatory update on the 2026 Drugs to Watch Clarivate",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "a3a7c24368fe",
-    "title": "Does Health Tech Actually Work? This Group Wants to Find Out. | Health Care | U.S. News - US News Health",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQSUNfcTNZYng5QzhxQ08tb1dNRkdXQlJtY0pJckZMRDlkQ0hDX1NtXzV5MnQwcWQzenlpdVlFTGg5MHFCY1lmRjZ6RWFTQWRyR3ZvRDBqaTJqTnBVVmlVcWpoYndPeGo3Nk5ielVvWnU4Zk1UMDNXeERZY284T3E5Z2VLeGxOWk9MUjctRGZfYzBidFlLZHNVSk1uai03NHNaa1REajRYVk04UQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-08T15:47:25+00:00",
-    "summary": "Does Health Tech Actually Work? This Group Wants to Find Out. | Health Care | U.S. News US News Health",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "174f94191532",
-    "title": "Italy aims to scale digital health initiatives nationwide - MobiHealthNews",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOX2V0R09ta2dEbkZFNW54MWxfTnBmcVhJV2RqM0NvUGpQZHh4b2JPaUpYdE1JN1JVMWc1cTFZLXpYcmRoQU1odHdvTjh0X2JXOFl0S2Z6Q1FKdXM1WHI0b0NMRHg3aGtjQVc0Z04yMUpwSjNrQ295MFlUOFRZdE53Ul9fbDRGRXpEN2lYWXp4YU9kYVc3clBqVnI4d2k?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-08T21:10:32+00:00",
-    "summary": "Italy aims to scale digital health initiatives nationwide MobiHealthNews",
     "image_url": null,
     "tags": [],
     "industries": [
