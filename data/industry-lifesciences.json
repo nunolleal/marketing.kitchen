@@ -36,7 +36,7 @@
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
     "id": "2a834234bb3f",
@@ -89,7 +89,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "da3a6a41516f",
@@ -139,7 +139,7 @@
       "lifesciences",
       "financial"
     ],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "1af69571ed61",
@@ -256,37 +256,6 @@
     "relevance_score": 9
   },
   {
-    "id": "e84b9da5e727",
-    "title": "Can AI Make Better Drugs? Not on Wall Street’s Timeline - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdHZUVFlPc2ptdGI0YTdTYTQtWF9lSTM5YU9NSWtaUW1MSEM1VGJIOGtfcjFTU0FqWkdXdnZrME9yMWxISURqbVZlanRvU1V1VWcySUdZTU1iWFpsWnRCbVBWdVlOMUdBZTFOSzkyWHlZR2gtSXdISTZWSFJXT1hsWEd0b0gxVEs3b1BvUFY2a0VUdDBM?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-12T09:30:00+00:00",
-    "summary": "Can AI Make Better Drugs? Not on Wall Street’s Timeline WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences",
-      "financial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "df87e40750e7",
-    "title": "Healthcare's digital skills gap has a measurement problem, and new research is pushing for a fix - MarketScale",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaDhqYWdiakNpOU5FZzBTdnZTNlFUX3N2U0pKMFVmVEZiaG5ZZXN1YlltRHlBRmtkRzVZLUtyOEdDWWlmaWFGUlB6WDl1cG1JYkFvMWJrVW1iRWVLaGZOVWw3OG9IT2tMa21MX1RmY0FsdGFBRl9mcjVCX0p5QlFvRzZVUUV4akx0Vk01Q0ljSVJPZ2pyOHhSRGpOS011WWZDTTF0QWhkZ2FsRGNYSTg1amlJVHNzd3pZeEM1THhNa044d2s1Mk96QWd3d0EtR3FZVDZTWEd0RkIzNXhR?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-12T10:43:27+00:00",
-    "summary": "Healthcare's digital skills gap has a measurement problem, and new research is pushing for a fix MarketScale",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
     "id": "cbd104c2c516",
     "title": "External audit of UnitedHealth senior home visits finds most diagnoses supported by medical data",
     "url": "https://www.healthcaredive.com/news/unitedhealth-housecalls-audit-results-home-visits-medicare-advantage/824596/",
@@ -384,6 +353,37 @@
     "also_covered_by": [
       "Health Tech"
     ]
+  },
+  {
+    "id": "e84b9da5e727",
+    "title": "Can AI Make Better Drugs? Not on Wall Street’s Timeline - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNdHZUVFlPc2ptdGI0YTdTYTQtWF9lSTM5YU9NSWtaUW1MSEM1VGJIOGtfcjFTU0FqWkdXdnZrME9yMWxISURqbVZlanRvU1V1VWcySUdZTU1iWFpsWnRCbVBWdVlOMUdBZTFOSzkyWHlZR2gtSXdISTZWSFJXT1hsWEd0b0gxVEs3b1BvUFY2a0VUdDBM?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-12T09:30:00+00:00",
+    "summary": "Can AI Make Better Drugs? Not on Wall Street’s Timeline WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences",
+      "financial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "df87e40750e7",
+    "title": "Healthcare's digital skills gap has a measurement problem, and new research is pushing for a fix - MarketScale",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNaDhqYWdiakNpOU5FZzBTdnZTNlFUX3N2U0pKMFVmVEZiaG5ZZXN1YlltRHlBRmtkRzVZLUtyOEdDWWlmaWFGUlB6WDl1cG1JYkFvMWJrVW1iRWVLaGZOVWw3OG9IT2tMa21MX1RmY0FsdGFBRl9mcjVCX0p5QlFvRzZVUUV4akx0Vk01Q0ljSVJPZ2pyOHhSRGpOS011WWZDTTF0QWhkZ2FsRGNYSTg1amlJVHNzd3pZeEM1THhNa044d2s1Mk96QWd3d0EtR3FZVDZTWEd0RkIzNXhR?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-12T10:43:27+00:00",
+    "summary": "Healthcare's digital skills gap has a measurement problem, and new research is pushing for a fix MarketScale",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 8
   },
   {
     "id": "d3bcbd882927",
@@ -528,39 +528,19 @@
     "relevance_score": 6
   },
   {
-    "id": "04f989387fdd",
-    "title": "FDA Approves Subcutaneous Sarclisa Escena | PharmExec - Pharmaceutical Executive",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORE5reXViRFV4M19tbUlVanRuSWdqRGVldi1iUm8zOUNZSDdMc2FUdVVKZHpFYmNTc2dKYkZuWE9jRE1TX0RiUEZ5aU1fYngzUVF1RTdSX3BoOVMteVFhUzh0ZEpsQnUybGdJNHVySFI2RU5vLUI1YWNyMVdCYjVPQ2thRkk?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-10T17:22:30+00:00",
-    "summary": "FDA Approves Subcutaneous Sarclisa Escena | PharmExec Pharmaceutical Executive",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "78c927cb910e",
-    "title": "Hong Kong start-ups are closing ‘glaring gap’ in women’s health technology - South China Morning Post",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPblZzcnRfNTJXQUxJaEZNZWpjZUNVMnJkcWkyZEpDQW9ZdGdGZDI5eHhTV3otNS1wci1yOHRuRWJlcm1UbW5nVDZXYTZrNi1vWDJTOXpqVlJuZGFKbTN6cldsMWJ6S19lejI0UEd3U2I2elJVQlJwLTRnZG40UGdEMVRzdEZUdlkwMWdSYnl5Z3hSYjVpUldZeDVnamxoYVJjby1Ka1kyZFhJaGU2S3gwUVdPVVhyU0d3Mlo2QWtjMzJyY19UbjhOQjlnbzRmWDNu0gHQAUFVX3lxTFA0NDNWaWgzVnhYVEdOZVZYWWZPNkJuODhxSGI3YnEzSmZ2TlJWOGhVVG5GdWlPR2RCNU5vN0R5X0RHbjJVY3NUcVk1UzU4cUlpaXRfR3ZLS0szeUcxV1l0bGRDZDBZek5nZmZwLWdKM0NmYkRQUkxwMmt5VnJuTU1wMlVYbDNTbHd0LUdLNDJCZmdMOHVNcUNaNnluaU9Ia0RFZlp5TEc2SW9uQjNJTS15ZnVpa0dyVkd2Y2oyczg2OGFDZFFrNVhfUmRyREVFeVU?oc=5",
+    "id": "637a3aed35b2",
+    "title": "Digital health users worldwide 2017-2031 - Statista",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFAxUHFoUVVrYTdHY0xYNEZtUVdwVWMwb3Q3QS16U3ZCQjJvVnpWWDZ1QlFzeWVBbC1qY2VuQ2dJZTNJTmg0R2t3dUhzd1F4cWhDeTk3ck1XUmVKb0NDQlBGR0NpY3JXc1E2NEJjeTJuZjFGRWlUTTBxNENHYjVsVk0?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-07-10T23:15:05+00:00",
-    "summary": "Hong Kong start-ups are closing ‘glaring gap’ in women’s health technology South China Morning Post",
+    "published": "2026-07-07T07:00:00+00:00",
+    "summary": "Digital health users worldwide 2017-2031 Statista",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
       "lifesciences"
     ],
-    "relevance_score": 6,
-    "also_covered_by": [
-      "Fintech"
-    ]
+    "relevance_score": 5
   },
   {
     "id": "7d5eaede0b2f",
@@ -627,6 +607,23 @@
     "relevance_score": 5
   },
   {
+    "id": "9f1063d2d230",
+    "title": "Agnostic health tech service delivery as an operating model for technology readiness - GE HealthCare",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxQSEgzMTVTdk56SHlnLVA5Zkc0RmlvaDRiMmxrVG4yZDJ2djZqUWNfVVlUaWE1MHM0bnBCNWhoMXQ5MVQ2WVl6Z01rQmo5SXNEbGMydGhaLWpydy1WcXJYa3dMQmVTOGt3UFFzRzNmZzd2ckVnQUk5Z2huTzlRaEZISnRwYVptTkxqUlljVDBRN2tMTlBYZGdadmxjcko1VEtMcS0zNm9ndUh4RjFVQXQ4TFZxVzgzcFpNT0JwS2JiZ2VUbDhXbkRURzZoYXk0NkIyY3c?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-09T00:57:25+00:00",
+    "summary": "Agnostic health tech service delivery as an operating model for technology readiness GE HealthCare",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
     "id": "c676f70cc83e",
     "title": "Bausch + Lomb launches AI-powered digital health platform - Investing.com",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQYmZ3dDQ1dDIzTWFya2VKLXVPOFYtXzNzbG5LU1hFN3JJbURzU29qZ2pfV1BhNV80UFRjNWM4eXlFbnY0eG5HTElwalF3cUF6a1VicnItQjFac0dMVGkta1ZTUXczeU1yOXZtZUZDREdPcm5VM2pqQ1kyQ0FFOE5MclFtOWZ1V21rb0p0am4wVThhTEFnT1JDWWJKbFFjdktjT0M5T0ZvaWZJZkhaSTU0VlVB?oc=5",
@@ -653,6 +650,22 @@
     "image_url": null,
     "tags": [],
     "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "04f989387fdd",
+    "title": "FDA Approves Subcutaneous Sarclisa Escena | PharmExec - Pharmaceutical Executive",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORE5reXViRFV4M19tbUlVanRuSWdqRGVldi1iUm8zOUNZSDdMc2FUdVVKZHpFYmNTc2dKYkZuWE9jRE1TX0RiUEZ5aU1fYngzUVF1RTdSX3BoOVMteVFhUzh0ZEpsQnUybGdJNHVySFI2RU5vLUI1YWNyMVdCYjVPQ2thRkk?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-10T17:22:30+00:00",
+    "summary": "FDA Approves Subcutaneous Sarclisa Escena | PharmExec Pharmaceutical Executive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
       "lifesciences"
     ],
     "relevance_score": 5
