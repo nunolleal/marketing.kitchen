@@ -45,7 +45,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 34
+    "relevance_score": 31
   },
   {
     "id": "7e74a798ae39",
@@ -63,19 +63,20 @@
     "relevance_score": 23
   },
   {
-    "id": "7f60dbc19b85",
-    "title": "How Kogan.com Automated 67% of Customer Inquiries and Tripled Resolution",
-    "url": "https://www.salesforce.com/blog/kogan-agentforce/",
+    "id": "6241acb93104",
+    "title": "Founders: Are Your Tools Franken-Stacked Together? If So, This is For You",
+    "url": "https://www.salesforce.com/blog/small-business/franken-stacked-tools/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-07-10T13:00:00+00:00",
-    "summary": "By deploying Agentforce across multiple use cases, Kogan.com automated more than half its customer interactions and grew resolution rate from 6% to 67%.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_1953114517.jpeg",
+    "published": "2026-07-13T13:00:00+00:00",
+    "summary": "If your business runs on a patchwork of disconnected apps, there's a smarter way to work — and it starts with just one tool.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_5ff25a.png",
     "tags": [],
     "industries": [
+      "tech",
       "industrial"
     ],
-    "relevance_score": 11
+    "relevance_score": 14
   },
   {
     "id": "1b74fa752ec4",
@@ -89,6 +90,21 @@
     "tags": [],
     "industries": [
       "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "7f60dbc19b85",
+    "title": "How Kogan.com Automated 67% of Customer Inquiries and Tripled Resolution",
+    "url": "https://www.salesforce.com/blog/kogan-agentforce/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-10T13:00:00+00:00",
+    "summary": "By deploying Agentforce across multiple use cases, Kogan.com automated more than half its customer interactions and grew resolution rate from 6% to 67%.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_1953114517.jpeg",
+    "tags": [],
+    "industries": [
       "industrial"
     ],
     "relevance_score": 10
@@ -157,34 +173,6 @@
     "relevance_score": 8
   },
   {
-    "id": "7b839b4004ad",
-    "title": "Salesforce receives double blow over an AI product - Yahoo Finance Singapore",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOUDJnc3lYY2YyODBNNVNJa2dkQ2I3RHhCZDVmbVZnV21NZDN5MXlDR3NzN1Q4NzNjVEFNak5EVnRmbnp4Q0c4MUh5SWVrckEyN2c4elROTUoxOUNVQXQyZmFmZ0Q5bEY2Ymc1b0ZrazB5SHMzQmwzcFBQWUhlRWZHMG9Kc1JrclhBLVpUNDhB?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-07-11T18:17:00+00:00",
-    "summary": "Salesforce receives double blow over an AI product Yahoo Finance Singapore",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 8
-  },
-  {
-    "id": "34afc1ba6e76",
-    "title": "Does Your Company Have an AI Accountability Problem?",
-    "url": "https://www.salesforce.com/blog/agent-development-lifecycle/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-07T13:00:00+00:00",
-    "summary": "Building an AI agent is easy. Operating one is a discipline most org charts don't support yet.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_886495385.jpeg",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 7
-  },
-  {
     "id": "4cd2b189af40",
     "title": "How to Set Up Intelligence Briefs with Tableau Next and Slackbot Skills",
     "url": "https://www.salesforce.com/blog/how-to-set-up-intelligence-briefs-with-tableau-next-and-slackbot-skills/",
@@ -196,21 +184,6 @@
     "tags": [],
     "industries": [
       "industrial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "ecfd29724d80",
-    "title": "How Salesforce is Transforming Patient Data Interoperability - Healthcare Digital",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZDBCcVVUQWRwYXhESGdhRzd3OVhUVG12cTRfT2JnZS1ORHNoY2M0ZVJLU2dZQnJiRmllWTVDLXdSbzQwcFhyNzUtR3I3THlnaW5xai1BNXFOTGZjZG1pdWpmZGZsZEQ1amZuOHY2Vl9XTXFlSmNuS1JZQno2WnNxS3YwdHhpMUEzUVhDSEIyczFyTXB1M1Azem1rWmE?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-07-10T13:32:39+00:00",
-    "summary": "How Salesforce is Transforming Patient Data Interoperability Healthcare Digital",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
     ],
     "relevance_score": 7
   },
@@ -288,18 +261,18 @@
     "relevance_score": 6
   },
   {
-    "id": "040a538397e0",
-    "title": "Salesforce Falls on Agentforce Momentum Doubts - GuruFocus",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQcnJsaGRoaTZWdF9VRjNkbGJ4MER3aWJOaW5XSWlZbXFQNFd4cU9oeTJhTXV1Rk5UNU05ZGlOZUpaTTl6VGVXR0Vfdi1kbTVpYVhieFRjbjZUZnNxQkJER3VrUzV6UWNsTWV0QlZqOWduNFdFQ3BRa3VKUjE0bXZ4dndWNGpkaUpQbGZtaWp3?oc=5",
+    "id": "ecfd29724d80",
+    "title": "How Salesforce is Transforming Patient Data Interoperability - Healthcare Digital",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNZDBCcVVUQWRwYXhESGdhRzd3OVhUVG12cTRfT2JnZS1ORHNoY2M0ZVJLU2dZQnJiRmllWTVDLXdSbzQwcFhyNzUtR3I3THlnaW5xai1BNXFOTGZjZG1pdWpmZGZsZEQ1amZuOHY2Vl9XTXFlSmNuS1JZQno2WnNxS3YwdHhpMUEzUVhDSEIyczFyTXB1M1Azem1rWmE?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-07-09T17:45:56+00:00",
-    "summary": "Salesforce Falls on Agentforce Momentum Doubts GuruFocus",
+    "published": "2026-07-10T13:32:39+00:00",
+    "summary": "How Salesforce is Transforming Patient Data Interoperability Healthcare Digital",
     "image_url": null,
     "tags": [],
     "industries": [
-      "industrial"
+      "lifesciences"
     ],
-    "relevance_score": 5
+    "relevance_score": 6
   }
 ]
