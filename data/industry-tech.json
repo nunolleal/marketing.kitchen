@@ -17,7 +17,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 59
+    "relevance_score": 56
   },
   {
     "id": "a079a4499b1b",
@@ -34,7 +34,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 58
+    "relevance_score": 55
   },
   {
     "id": "db47373be312",
@@ -53,7 +53,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 55
+    "relevance_score": 52
   },
   {
     "id": "598e2fb8b763",
@@ -71,7 +71,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 55
+    "relevance_score": 52
   },
   {
     "id": "f1d64685df93",
@@ -89,28 +89,6 @@
       "MarTechCharts"
     ],
     "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 45
-  },
-  {
-    "id": "3a8310326e40",
-    "title": "Social media limits are coming for teens across Europe",
-    "url": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-13T09:22:52+00:00",
-    "summary": "The European Union is weighing sweeping new restrictions on children's and teenagers' access to social media, including age limits, an outright ban, and phased access. Social media platforms could also be forced to prove their services are not harmful before young people are...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
-    "tags": [
-      "News",
-      "Policy",
-      "Social Media",
-      "Tech"
-    ],
-    "industries": [
-      "media",
       "tech",
       "industrial"
     ],
@@ -156,13 +134,35 @@
     "relevance_score": 43
   },
   {
+    "id": "3a8310326e40",
+    "title": "Social media limits are coming for teens across Europe",
+    "url": "https://www.theverge.com/tech/964565/eu-children-social-media-online-safety-rules",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-13T09:22:52+00:00",
+    "summary": "The European Union is weighing sweeping new restrictions on children's and teenagers' access to social media, including age limits, an outright ban, and phased access. Social media platforms could also be forced to prove their services are not harmful before young people are...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/STK450_EU_E-1.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+    "tags": [
+      "News",
+      "Policy",
+      "Social Media",
+      "Tech"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 42
+  },
+  {
     "id": "1dbb10ceec9d",
     "title": "Lorde says Ray-Ban Meta AI glasses are ‘not sexy’",
     "url": "https://www.theverge.com/ai-artificial-intelligence/964539/lorde-says-ray-ban-meta-ai-glasses-are-not-sexy",
     "source": "The Verge",
     "source_category": "ai",
     "published": "2026-07-12T20:10:19+00:00",
-    "summary": "Lorde was performing at the Real Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated...",
+    "summary": "Lorde was performing at the Mad Cool Festival in Madrid on Thursday and took some time during her set to speak out against AI glasses. While she didn't specify any brands in particular, it's likely she was taking a shot at festival sponsor Ray-Ban, which has collaborated with...",
     "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2279420244.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.807256256556%2C100%2C78.385487486888&amp;w=1200",
     "tags": [
       "AI",
@@ -362,40 +362,6 @@
     "relevance_score": 25
   },
   {
-    "id": "b8d67d38c919",
-    "title": "Google's TabFM skips per-dataset training and still predicts on tables it's never seen",
-    "url": "https://venturebeat.com/technology/googles-tabfm-skips-per-dataset-training-and-still-predicts-on-tables-its-never-seen",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-07-10T16:14:24+00:00",
-    "summary": "The vast majority of business data is tabular — living in data warehouses, CRMs, and financial ledgers — yet building a reliable model from it still means training a new one from scratch for every dataset, then maintaining hyperparameter tuning loops, feature engineering, and...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4VjIL7MxqMo55zqaoGOo2T/231e1e8c686502c3ac895c72b70a8cfe/Tabular_data.jpg?w=300&q=30",
-    "tags": [
-      "Technology"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 25
-  },
-  {
-    "id": "18fcb118d883",
-    "title": "J. Crew names brand president",
-    "url": "https://www.retaildive.com/news/j-crew-names-brand-president/824947/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-07-10T15:34:00+00:00",
-    "summary": "The apparel company tapped beauty industry veteran Kathleen Van Nest Pierce, effective in August.",
-    "image_url": "https://imgproxy.divecdn.com/5MTj_4YbR8Nn7yv2_5UtlP4yaDsEIYRWK4nMXbSVrA4/g:nowe:0:678/c:3013:1702/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMTg1OC5qcGc=.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "consumer"
-    ],
-    "relevance_score": 24
-  },
-  {
     "id": "0b3597df7031",
     "title": "Emerging technology trends brands and agencies need to know about - Ad Age",
     "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQWktESHhvQVhHenpnR3kxWXAxcjVZdmxGS0t5MGxmN1dWTURmOVhEc1kxY3FVV2RGcnpGaHBPTjVobDlpdXZISUJQV3lMVWdaRzc5UE0zLTd3c2tJRnd1bjVCeW5tcFJrYW9COTNFc011dmZKTk9FamNmaHVZbDdCNUhZTGFvcHlwSDVvQks1Z1owZw?oc=5",
@@ -413,6 +379,28 @@
     "relevance_score": 20
   },
   {
+    "id": "8e99f406a484",
+    "title": "The 6 wildest claims in Apple’s lawsuit against OpenAI",
+    "url": "https://www.theverge.com/tech/964843/apple-openai-lawsuit-wildest-claims",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-13T17:00:00+00:00",
+    "summary": "When Apple employees interviewed for jobs at OpenAI, the AI startup's hardware head allegedly asked them to show up with something unusual: components they were working on and unreleased product samples. That's according to a blockbuster lawsuit filed by Apple, which accuses...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2236544097.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.737892056687%2C100%2C78.524215886627&amp;w=1200",
+    "tags": [
+      "AI",
+      "Apple",
+      "OpenAI",
+      "Report",
+      "Tech"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 19
+  },
+  {
     "id": "29055da058cb",
     "title": "Retailers did well in Q1. Was it just a mirage?",
     "url": "https://www.retaildive.com/news/retailers-strong-q1-tariffs-prices-mirage/824737/",
@@ -427,112 +415,158 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 19
+    "relevance_score": 18
   },
   {
-    "id": "6c97ee0c8c0a",
-    "title": "One of SteelSeries’ best gaming headsets is over $100 off",
-    "url": "https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-12T15:00:00+00:00",
-    "summary": "SteelSeries has the Arctis Nova Pro Wireless gaming headset on sale for $239.99 (currently between $300 and $350 at other retailers). The Xbox version that supports a host of other platforms including PlayStation, PC, and Switch is available in both black and white. The...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25360143/akrales_220510_5209_0005.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Gaming",
-      "PC Gaming",
-      "Verge Shopping"
-    ],
-    "industries": [
-      "tech",
-      "telecom",
-      "retail"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "49e268ec4efd",
-    "title": "Waze is getting a bunch of new AI-powered features",
-    "url": "https://www.theverge.com/transportation/964132/waze-gemini-ai-voice-commands-less-chatty",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-13T09:00:00+00:00",
-    "summary": "Waze is getting an AI makeover. Google is integrating its flagship AI assistant, Gemini, into the driving app with the goal of letting users personalize their trips a little more. Of the four new updates, only two are being described as involving Gemini. Waze says its...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25708121/waze_conversational_report.png?quality=90&amp;strip=all&amp;crop=0%2C3.2347601883764%2C100%2C93.530479623247&amp;w=1200",
-    "tags": [
-      "AI",
-      "Cars",
-      "Google",
-      "Tech",
-      "Transportation"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "f3ed32b25ae1",
-    "title": "A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance",
-    "url": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-13T10:00:00+00:00",
-    "summary": "The SFPD’s exposure of hours of videos from drone platform Skydio reveals how broadly it’s watching the city from above—and how the results can spill online.",
-    "image_url": "https://media.wired.com/clips/6a510d69d859f07ebf1da200/master/pass/sf-cops-leaked-surveillance-top-art-LR.mp4",
-    "tags": [
-      "Security",
-      "Security / Privacy",
-      "Security / Security News",
-      "drones",
-      "surveillance"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "7dce4b8e450c",
-    "title": "This free Mac app reveals the truth about your mystery USB-C cables",
-    "url": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-13T10:00:00+00:00",
-    "summary": "Nearly three years ago, I showed you an awesome $8 cable tester that quickly tells you if your USB-C cable is likely fast, slow, powerful, or weak. Sadly, that gadget got discontinued, and I've never found anything as intuitive or inexpensive since. But if you've got a Mac...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/331A1872.jpg?quality=90&amp;strip=all&amp;crop=8%2C24.423035219674%2C85%2C66.754173314461&amp;w=1200",
-    "tags": [
-      "Gadgets",
-      "Tech"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "220c3a7831f9",
-    "title": "St. Louis Stakes Its Claim To The Major League Pickleball Top Spot With A Win In Grand Rapids",
-    "url": "https://www.forbes.com/sites/toddboss/2026/07/13/st-louis-stakes-its-claim-to-the-major-league-pickleball-top-spot-with-a-win-in-grand-rapids/",
+    "id": "902e6d3736e3",
+    "title": "Metallica’s Decades-Old Album Debuts At No. 1",
+    "url": "https://www.forbes.com/sites/hughmcintyre/2026/07/13/metallicas-decades-old-album-debuts-at-no-1/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-07-13T13:20:43+00:00",
-    "summary": "The St. Louis Shock dominated the 2026 Major League Pickleball mid-season tournament in Grand Rapids, losing just one game en route to the title.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a54e43dd6792444070cef8b/0x0.jpg?width=960",
+    "published": "2026-07-13T14:30:00+00:00",
+    "summary": "Metallica's Reload earns the band its sixth No. 1 on Billboard's Top Hard Rock Albums chart after the group re-released an anniversary edition of the set.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a544a3a13a27069c1d4019d/0x0.jpg?width=960&precrop=1807%2C1016%2Cx159%2Cy236",
     "tags": [
-      "SportsMoney",
-      "/sportsmoney",
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
       "Business",
       "/business",
-      "SportsMoney"
+      "Hollywood & Entertainment"
     ],
     "industries": [
       "tech"
+    ],
+    "relevance_score": 18
+  },
+  {
+    "id": "84fa03ad438c",
+    "title": "The Trade Desk Taps Ex-Google and LinkedIn Ad Exec Penry Price for Board Appointment",
+    "url": "https://www.adweek.com/media/the-trade-desk-taps-ex-google-and-linkedin-ad-exec-penry-price-for-board-appointment/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-07-13T12:18:04+00:00",
+    "summary": "Price's appointment comes after a string of board and C-suite departures at the adtech company.",
+    "image_url": null,
+    "tags": [
+      "Ad Tech Industry News",
+      "Leadership &amp; Talent",
+      "Media News",
+      "Platforms",
+      "Software/Technology"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "767ce2a3551a",
+    "title": "Waze adds new AI-powered features and customization updates",
+    "url": "https://techcrunch.com/2026/07/13/waze-adds-new-ai-powered-features-and-customization-updates/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-13T14:18:16+00:00",
+    "summary": "Some of the new features are powered by Google's Gemini AI assistant, which reflects the tech giant's broader push to integrate Gemini across its products while also better positioning Waze to compete with rival services such as Apple Maps.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2022/08/GettyImages-1235613908.jpg?resize=1200,806",
+    "tags": [
+      "AI",
+      "Apps",
+      "Google",
+      "Maps",
+      "navigation"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17,
+    "also_covered_by": [
+      "The Verge"
+    ]
+  },
+  {
+    "id": "47fbae3719ea",
+    "title": "Olive Garden Brings Back $100 Pasta Pass As Restaurants Woo Cash-Strapped Customers",
+    "url": "https://www.forbes.com/sites/conormurray/2026/07/13/olive-garden-brings-back-100-pasta-pass-as-restaurants-woo-cash-strapped-customers/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-13T14:44:20+00:00",
+    "summary": "Olive Garden will charge 10,000 customers $100 for 13 weeks of unlimited pasta, bringing back a fan-favorite promotion. Here’s how to enter.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a54f9955cb7605b2e0ce69b/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "814c53c36fc6",
+    "title": "Digital health funding hits $7.4B in 2026 as AI investment reshapes the market",
+    "url": "https://www.fiercehealthcare.com/digital-health/digital-health-brought-74b-vc-funding-ai-powered-rebound-fuels-market",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-13T00:34:00+00:00",
+    "summary": "In the first half of 2026, 19 companies raised 20 megadeals, or financings of $100 million and higher, representing 45% of all capital invested.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2207160096%20%281%29.jpg?VersionId=ClXjsEgney3C9tyHyHG6uzOXqr_Ae3g0",
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences",
+      "financial"
+    ],
+    "relevance_score": 16,
+    "also_covered_by": [
+      "Health Tech"
+    ]
+  },
+  {
+    "id": "74ca43767754",
+    "title": "When Streaming TV Integrations Don’t Feel Like Ads",
+    "url": "https://www.adweek.com/media/when-streaming-tv-integrations-dont-feel-like-ads/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-07-13T11:09:56+00:00",
+    "summary": "How Amazon, Tinuiti, Liquid I.V., and Sony authentically tapped into streaming TV fandoms",
+    "image_url": null,
+    "tags": [
+      "ADWEEK House",
+      "Cannes Lions",
+      "General",
+      "Streaming &amp; OTT"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "retail"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "bbbf5cc05259",
+    "title": "Your Leadership Identity Is Bigger Than Your Title",
+    "url": "https://www.forbes.com/sites/forbesbooksauthors/2026/07/13/your-leadership-identity-is-bigger-than-your-title/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-13T14:22:40+00:00",
+    "summary": "When the role disappears, who are you as a leader? Building a leadership identity that does not depend on your title is the key to lasting resilience.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a54f30b5e6ffde44cf94857/0x0.jpg",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "business"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 15
   },
@@ -558,20 +592,25 @@
     "relevance_score": 14
   },
   {
-    "id": "6a71bb8a3bc7",
-    "title": "DeepSeek cut prices 75%. The 100x problem remains",
-    "url": "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains",
-    "source": "VentureBeat",
+    "id": "6c97ee0c8c0a",
+    "title": "One of SteelSeries’ best gaming headsets is over $100 off",
+    "url": "https://www.theverge.com/gadgets/964125/steelseries-arctis-nova-pro-wireless-headset-deal-sale",
+    "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-07-12T16:00:00+00:00",
-    "summary": "DeepSeek's recent decision to drastically cut pricing on its V4-Pro model by 75% should have been unequivocally good news for enterprise AI vendors and developers. Instead, many are discovering that cheaper models don’t automatically translate into healthier margins. The...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/QmUB8YbWiRnClnsHXcsEG/4cf95f77c77ebb21b0e9c2e1eec38caa/u7277289442_A_series_of_AI_robots_in_the_vein_of_the_evolutio_72348caa-ec35-4c65-8ab2-1402ecc89f91_2.png?w=300&q=30",
+    "published": "2026-07-12T15:00:00+00:00",
+    "summary": "SteelSeries has the Arctis Nova Pro Wireless gaming headset on sale for $239.99 (currently between $300 and $350 at other retailers). The Xbox version that supports a host of other platforms including PlayStation, PC, and Switch is available in both black and white. The...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25360143/akrales_220510_5209_0005.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
     "tags": [
-      "Orchestration",
-      "DataDecisionMakers"
+      "Deals",
+      "Gadgets",
+      "Gaming",
+      "PC Gaming",
+      "Verge Shopping"
     ],
     "industries": [
-      "tech"
+      "tech",
+      "telecom",
+      "retail"
     ],
     "relevance_score": 14
   },
@@ -594,69 +633,64 @@
     "relevance_score": 14
   },
   {
-    "id": "bf0389e8fc99",
-    "title": "The Download: a donor conception cap and world models for AI",
-    "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
-    "source": "MIT Technology Review",
+    "id": "f3ed32b25ae1",
+    "title": "A Leak of San Francisco Police Drone Footage Exposes the New Reality of Urban Surveillance",
+    "url": "https://www.wired.com/story/sfpd-drone-video-leak-surveillance/",
+    "source": "Wired",
     "source_category": "ai",
-    "published": "2026-07-13T12:10:00+00:00",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was...",
-    "image_url": null,
-    "tags": [
-      "The Download"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "da1dff03f7df",
-    "title": "Meta Lifts Cost of Louisiana Data Center to $50 Billion - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV1RHdmpwZDBnSW5KUDVXRTJma0pnNDRqRzJVYUdTS09DRXdZenhmcW9WZmJnOG1IdmFUTjVGdnlhUlBXVURVVTZQaHFib0FyWjdCUVd2aTRKUXBYeEw5b0xjeHBLUG5XT3VRYTVEMUdSdlZPYzFtUlV2MHNaUWRlMTFFbVZYU05tRlRJeFRLeDBOQQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-13T12:57:00+00:00",
-    "summary": "Meta Lifts Cost of Louisiana Data Center to $50 Billion WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "6241acb93104",
-    "title": "Founders: Are Your Tools Franken-Stacked Together? If So, This is For You",
-    "url": "https://www.salesforce.com/blog/small-business/franken-stacked-tools/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-13T13:00:00+00:00",
-    "summary": "If your business runs on a patchwork of disconnected apps, there's a smarter way to work — and it starts with just one tool.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_5ff25a.png",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "7b4dd670722f",
-    "title": "Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools",
-    "url": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-07-13T13:33:54+00:00",
-    "summary": "Slopsquatting represents an emerging supply chain threat made possible by AI hallucinations. As developers increasingly rely on AI coding assistants, they unknowingly grant cybercriminals access to their software from day one. Understanding what slopsquatting is Slopsquatting...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/dIQcSeSRhbDxj2aciSnha/82de3e1c0e427d81134cbf5ff3516b5c/u7277289442_A_modern_interpretation_of_cybersecurity._3D._--a_48e0894a-799a-4645-9c75-f18358f3b4bf_1.png?w=300&q=30",
+    "published": "2026-07-13T10:00:00+00:00",
+    "summary": "The SFPD’s exposure of hours of videos from drone platform Skydio reveals how broadly it’s watching the city from above—and how the results can spill online.",
+    "image_url": "https://media.wired.com/clips/6a510d69d859f07ebf1da200/master/pass/sf-cops-leaked-surveillance-top-art-LR.mp4",
     "tags": [
       "Security",
-      "DataDecisionMakers"
+      "Security / Privacy",
+      "Security / Security News",
+      "drones",
+      "surveillance"
     ],
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "7dce4b8e450c",
+    "title": "This free Mac app reveals the truth about your mystery USB-C cables",
+    "url": "https://www.theverge.com/gadgets/963759/whatcable-usb-c-cable-tester-app-mac",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-13T10:00:00+00:00",
+    "summary": "Nearly three years ago, I showed you an awesome $8 cable tester that quickly tells you if your USB-C cable is likely fast, slow, powerful, or weak. Sadly, that gadget got discontinued, and I've never found anything as intuitive or inexpensive since. But if you've got a Mac...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/331A1872.jpg?quality=90&amp;strip=all&amp;crop=8%2C24.423035219674%2C85%2C66.754173314461&amp;w=1200",
+    "tags": [
+      "Gadgets",
+      "Tech"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "220c3a7831f9",
+    "title": "St. Louis Stakes Its Claim To The Major League Pickleball Top Spot With A Win In Grand Rapids",
+    "url": "https://www.forbes.com/sites/toddboss/2026/07/13/st-louis-stakes-its-claim-to-the-major-league-pickleball-top-spot-with-a-win-in-grand-rapids/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-13T13:20:43+00:00",
+    "summary": "The St. Louis Shock dominated the 2026 Major League Pickleball mid-season tournament in Grand Rapids, losing just one game en route to the title.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a54e43dd6792444070cef8b/0x0.jpg?width=960",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 14
   },
@@ -682,22 +716,50 @@
     "relevance_score": 13
   },
   {
-    "id": "8b32daa86337",
-    "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
-    "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
-    "source": "The Verge",
+    "id": "bf0389e8fc99",
+    "title": "The Download: a donor conception cap and world models for AI",
+    "url": "https://www.technologyreview.com/2026/07/13/1140339/the-download-sperm-donor-limits-ai-world-models/",
+    "source": "MIT Technology Review",
     "source_category": "ai",
-    "published": "2026-07-12T16:27:06+00:00",
-    "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing....",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200",
+    "published": "2026-07-13T12:10:00+00:00",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Sperm donors need limits, says a European fertility group Ties van der Meer doesn’t know how many siblings he has. The 47-year-old was...",
+    "image_url": null,
     "tags": [
-      "AI",
-      "Apple",
-      "News",
-      "Tech"
+      "The Download"
     ],
     "industries": [
       "tech"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "da1dff03f7df",
+    "title": "Meta Lifts Cost of Louisiana Data Center to $50 Billion - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQV1RHdmpwZDBnSW5KUDVXRTJma0pnNDRqRzJVYUdTS09DRXdZenhmcW9WZmJnOG1IdmFUTjVGdnlhUlBXVURVVTZQaHFib0FyWjdCUVd2aTRKUXBYeEw5b0xjeHBLUG5XT3VRYTVEMUdSdlZPYzFtUlV2MHNaUWRlMTFFbVZYU05tRlRJeFRLeDBOQQ?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-13T12:57:00+00:00",
+    "summary": "Meta Lifts Cost of Louisiana Data Center to $50 Billion WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "6241acb93104",
+    "title": "Founders: Are Your Tools Franken-Stacked Together? If So, This is For You",
+    "url": "https://www.salesforce.com/blog/small-business/franken-stacked-tools/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-13T13:00:00+00:00",
+    "summary": "If your business runs on a patchwork of disconnected apps, there's a smarter way to work — and it starts with just one tool.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_5ff25a.png",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 13
   },
@@ -715,6 +777,24 @@
       "tech"
     ],
     "relevance_score": 13
+  },
+  {
+    "id": "6a71bb8a3bc7",
+    "title": "DeepSeek cut prices 75%. The 100x problem remains",
+    "url": "https://venturebeat.com/orchestration/deepseek-cut-prices-75-the-100x-problem-remains",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-07-12T16:00:00+00:00",
+    "summary": "DeepSeek's recent decision to drastically cut pricing on its V4-Pro model by 75% should have been unequivocally good news for enterprise AI vendors and developers. Instead, many are discovering that cheaper models don’t automatically translate into healthier margins. The...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/QmUB8YbWiRnClnsHXcsEG/4cf95f77c77ebb21b0e9c2e1eec38caa/u7277289442_A_series_of_AI_robots_in_the_vein_of_the_evolutio_72348caa-ec35-4c65-8ab2-1402ecc89f91_2.png?w=300&q=30",
+    "tags": [
+      "Orchestration",
+      "DataDecisionMakers"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 12
   },
   {
     "id": "bcea1da2e2c8",
@@ -739,33 +819,21 @@
     "relevance_score": 12
   },
   {
-    "id": "2c82565b6ff0",
-    "title": "Behind the outcomes: How whole-patient support is reshaping oncology care",
-    "url": "https://www.healthcaredive.com/spons/behind-the-outcomes-how-whole-patient-support-is-reshaping-oncology-care/824304/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-13T09:00:00+00:00",
-    "summary": "As oncology care grows personalized and home-based, support around treatment becomes as vital as treatment.",
-    "image_url": null,
-    "tags": [],
+    "id": "7b4dd670722f",
+    "title": "Forget typosquatting; slopsquatting is the software supply chain threat created by AI coding tools",
+    "url": "https://venturebeat.com/security/forget-typosquatting-slopsquatting-is-the-software-supply-chain-threat-created-by-ai-coding-tools",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-07-13T13:33:54+00:00",
+    "summary": "Slopsquatting represents an emerging supply chain threat made possible by AI hallucinations. As developers increasingly rely on AI coding assistants, they unknowingly grant cybercriminals access to their software from day one. Understanding what slopsquatting is Slopsquatting...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/dIQcSeSRhbDxj2aciSnha/82de3e1c0e427d81134cbf5ff3516b5c/u7277289442_A_modern_interpretation_of_cybersecurity._3D._--a_48e0894a-799a-4645-9c75-f18358f3b4bf_1.png?w=300&q=30",
+    "tags": [
+      "Security",
+      "DataDecisionMakers"
+    ],
     "industries": [
       "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "43e8c0f99238",
-    "title": "BOSS Money App Crowned #1 Digital Money Transfer Service for Second Consecutive Year - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRFNpWVFLRmU3S0JJTW1mWVh5b2FZSkZwRHhIRXYtcVNMNWlfWmxBbjVXNDhkUzI5Ulg1MXBQNUJLbmVqQU9ncnFzbndTaTF2UkYzdmpfSUFOSVdhQ3ZYcWJid3RvM192WHB1RkhSVDB6c0xjV0RDcWJvT2FIUnNUQjAtOW54VGtseXdoUTMxaTU0T3hOcVBDVQ?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-07-13T12:30:00+00:00",
-    "summary": "BOSS Money App Crowned #1 Digital Money Transfer Service for Second Consecutive Year Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
+      "industrial"
     ],
     "relevance_score": 12
   },
@@ -832,49 +900,6 @@
     "relevance_score": 11
   },
   {
-    "id": "c4168a7a3c2c",
-    "title": "How to Share Your Location on an iPhone or Android Phone (2026)",
-    "url": "https://www.wired.com/story/how-to-share-your-location-android-ios/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-10T12:00:00+00:00",
-    "summary": "Whether it’s through Google Maps or Emergency SOS, there are plenty of ways to quickly let your loved ones know where you are.",
-    "image_url": "https://media.wired.com/photos/6a506c6a96629da7c10e3c06/master/pass/How-to-Share-Your-Location-on-an-iPhone-or-Android.jpg",
-    "tags": [
-      "Gear",
-      "Gear / How To and Advice",
-      "Gear / Products / Phones",
-      "location",
-      "Android"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "9524a2de1b57",
-    "title": "Meta’s Pursuit of the 'Careless People' Author Is Relentless and Self-Defeating",
-    "url": "https://www.wired.com/story/metas-pursuit-of-the-careless-people-author-is-relentless-and-self-defeating/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-10T15:00:00+00:00",
-    "summary": "Yes, Sarah Wynn-Williams violated her deal to stay silent. But the power disparity bolsters the view that Meta is a heartless bully.",
-    "image_url": "https://media.wired.com/photos/6a4faba66b9952a636ca8e96/master/pass/Backchannel-Sarah-Wynn-Williams-Business.jpg",
-    "tags": [
-      "Business",
-      "Business / Tech Culture",
-      "Backchannel - NL",
-      "Meta",
-      "Books"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 11
-  },
-  {
     "id": "297b5e8a868d",
     "title": "Apple Is Suing OpenAI for Allegedly Stealing Hardware Secrets",
     "url": "https://www.wired.com/story/apple-sues-openai-allegedly-stealing-ip-hardware/",
@@ -897,6 +922,26 @@
     "relevance_score": 11
   },
   {
+    "id": "8b32daa86337",
+    "title": "Apple’s failed self-driving car program left a legacy of powerful AI chips",
+    "url": "https://www.theverge.com/tech/964519/apple-silicon-self-driving-car-ai-m7-ultra",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-12T16:27:06+00:00",
+    "summary": "Apple's self-driving car program never really got off the ground, but it may have been what made the company's chips the powerful AI performers they are. Early in the development of the self-driving platform, Apple realized that it would need powerful on-device AI processing....",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/03/apple_chips.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200",
+    "tags": [
+      "AI",
+      "Apple",
+      "News",
+      "Tech"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "5553334770fe",
     "title": "T-Mobile Appoints Chris Sambar As Chief Enterprise Officer - Pulse 2.0",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPVzNuUU9HNzZuSVd2WkhmdUd5bW9LUjNsN1pHRjFDWmlINlFlTFYya2VQaEdRU3J6aXN1SXNuTThnVDFIMmVYSTJpMlRSLUs5SC1rWDVOdVBuNEV6bnJWSmVoTzVnQ3Y5TEY2aVMySmxMc2NtNGpfVUQ3U25IV1VON003N2nSAYoBQVVfeXFMT0NFdGtMb2xtU3ZLbUpYX0IzVGhHV1ZON3pCNnZKcjcxZHlsLVByOG5XdWRPQk9qQWw2aVFyQlRxTy1Kd3k4Q0VQVzZSQ1hrQi11UDZ0RjR0MDdQTkxWZnZxcWljTldQUE9hczBzdlQ4TkhrNER3WUpXdTlIT0pzdFhiS191ZE9WWllB?oc=5",
@@ -913,43 +958,13 @@
     "relevance_score": 11
   },
   {
-    "id": "c743e77d3140",
-    "title": "Qatar medical laboratories conduct 20 mln tests annually amidst digital transformation - Kuwait Times",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS2tYeHhEa0RMcUtxeWVWR2s5QXhNeUlxb3dqMEpkRWlIUU8tUmlRYXpmaUZQTmIwazlud3I4aVA2MFpWR0ZsMUdwOXMwQms5a19PSFJvSUYzYlF2d2h5aDdIV1JFeGdoZXJnamRGR1BkT0VJdFlTVEp6UEI2NGg3VlI4VFRpejZLUUpkMlhfTzNndDBkSXlsd0JNTHIzX2NCcHFyTjhCMzlteGRZejBGUHctRTlhdnliZzNxZDNZUmNiaVBsZzExenQ0d9IBzwFBVV95cUxNMHlCeUdzVWZSeFVSc0s5ZHNZSjNtaVdGRDN2Z1Qyd1BPME83MDF0a2pzcVhsUmkxb0dhQm9ZRTRlVXRsdFhyMjZIb2otUFZ2eGlZb044SGhNdENUMWlyS3FRbVhfM1RPbndLOHh3aGd0SVpXQUpmV1VmUmRjTUJlemlGY0NnZnNVN29oY3B4TWdvRDJ5M0gtMVJZN2VXOFhodDZBWC1mSHNKa0YxYnhkNWhTSExEckoxMDNBeURORFRBdVRoZkR5TnMzYXFsaWs?oc=5",
-    "source": "Healthcare Digital",
+    "id": "2c82565b6ff0",
+    "title": "Behind the outcomes: How whole-patient support is reshaping oncology care",
+    "url": "https://www.healthcaredive.com/spons/behind-the-outcomes-how-whole-patient-support-is-reshaping-oncology-care/824304/",
+    "source": "Healthcare Dive",
     "source_category": "industry_lifesciences",
-    "published": "2026-07-13T07:35:54+00:00",
-    "summary": "Qatar medical laboratories conduct 20 mln tests annually amidst digital transformation Kuwait Times",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "d606d177e208",
-    "title": "Samriddh Gram wins WSIS prize 2026: How BharatNet is driving rural digital transformation across Bharat - organiser.org",
-    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaXNrTzVKTEt0ak14cGNGSzNzY0VlN1M1aktSdnFEYWU3S0RScmh1R1oxVGlPMV9vUURNU09QWEdEalJSWlRnZW9KRFFmbU9IMHA3amxUQ0x5MW9HUEFlbDdCam5HclhEZEZpcGp4dFIxdWo2NmQwZElPRFN2UllpeHRxaDBsbi1ReXRQMjEtWUIyZFc1Z2p4d0dzMS1oTkxHSnh2Z3h5RERQdmZfNHlOVFJMOGR0OXl1aDJKRjB5SWpPOVota2FQUzVmR19HY2N0UDh3cnJhWWZsNEgzb3NjaWZMZ2_SAeoBQVVfeXFMUEZ4ZmZSS1dBa3g4dWJCYWlnVzBTZUdaaHZwV05hUjA4dkFzSTg5SUR1T0dua1p6dF9mUnhmS0hBWm1faFRlbWgxUWJ0X3VvazJqRDNDUUhVa0s5bmU5aFFGVlhoYl9CV1ZueDRpd2VMVUlqdDlpZGFlWVNpUVJVenFNbEM1aGw3QTRXYXhyQ05rRzlBdWtkUF9WbS1NeGxwYXBhMVpIOWRWTE42Z0tZb0pMSG1CMTkzbDEtRDFOZWVCYXRFSnZoYkU5UTRIeUNGOU11dXBTcVpkZjZsa25xMmI0ZzA1RHEzYTJB?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-07-13T07:54:07+00:00",
-    "summary": "Samriddh Gram wins WSIS prize 2026: How BharatNet is driving rural digital transformation across Bharat organiser.org",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "4fde197783a4",
-    "title": "Bausch + Lomb launches new AI-based digital health platform - Eyes On Eyecare",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUgyY3VPcXFMS056VEE4M3lXNUpIM1hOOXpmMWtoUmYwb3JNVGxJcGpqZE9nVk5CYjcwRWl0TkpSVk81dzZfM0ZhME0wNUhtLUZtYjlQRVR0UjltMzBYY0k2eUlTWXFLSU9NRS1jNFRzOXJ1V2VFT2UzQ2NHNmNGXzhjTVVfWmQ0cDVpU1JwMWhrSjNRc0oxb3dxYTZNeGhMS3BLdkJPamJHU3Nia2Z3?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-13T10:47:22+00:00",
-    "summary": "Bausch + Lomb launches new AI-based digital health platform Eyes On Eyecare",
+    "published": "2026-07-13T09:00:00+00:00",
+    "summary": "As oncology care grows personalized and home-based, support around treatment becomes as vital as treatment.",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -959,13 +974,28 @@
     "relevance_score": 11
   },
   {
-    "id": "ffa622af7fee",
-    "title": "Acentra Health Appoints Michael Kingston as Chief Digital & Information Officer to Lead Technology and AI Innovation - Yahoo Finance Singapore",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNWENVUjJwTTZQUnJEUHpqOHJFZDBlX3hpMzhlaG56QlNrQmY4X2QwamRkc0MyMmxtWEpHZElIZkFtSDBJYU9CWTRNNmNEV3g4a19Ec2tacDc4M21FbkpINy1XaDZnV3BrQXdSSE5TNHh3a2pCRUpwaXNId2RYai1KMnpfUllNdmV6OGtXZ0NjUmNpV1E?oc=5",
+    "id": "43e8c0f99238",
+    "title": "BOSS Money App Crowned #1 Digital Money Transfer Service for Second Consecutive Year - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNRFNpWVFLRmU3S0JJTW1mWVh5b2FZSkZwRHhIRXYtcVNMNWlfWmxBbjVXNDhkUzI5Ulg1MXBQNUJLbmVqQU9ncnFzbndTaTF2UkYzdmpfSUFOSVdhQ3ZYcWJid3RvM192WHB1RkhSVDB6c0xjV0RDcWJvT2FIUnNUQjAtOW54VGtseXdoUTMxaTU0T3hOcVBDVQ?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-07-13T12:30:00+00:00",
+    "summary": "BOSS Money App Crowned #1 Digital Money Transfer Service for Second Consecutive Year Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "e795b9cd6baa",
+    "title": "Acentra Health Appoints Michael Kingston as Chief Digital & Information Officer - citybiz",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxOWElSNFVhcGdJWXlDemphc3FPb2FVRWMwZFdiZ1hjWUpKR0VqZU92RmUxY0MteEJDeUZuQkU2NHdfWnA2MVZhTEhZcnhzUzIzd2c3WXJpNzFsekdzY3lFaDZ6WnhtbVkxci0xQXNwcWV5bzdMY01vLU9DcEZuUm1ZSFE1c3M4dTV4cko3aDEzR0syajdhTXBfNFlCZmhDaDk0X1RHaFRwaWN4VkVoeVhBMm0wX0IyekE?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-07-13T13:33:00+00:00",
-    "summary": "Acentra Health Appoints Michael Kingston as Chief Digital & Information Officer to Lead Technology and AI Innovation Yahoo Finance Singapore",
+    "published": "2026-07-13T13:51:46+00:00",
+    "summary": "Acentra Health Appoints Michael Kingston as Chief Digital & Information Officer citybiz",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1025,27 +1055,6 @@
     "industries": [
       "tech",
       "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "1c41e753863c",
-    "title": "Paris-based AI voice startup Gradium raises $100M seed, backed by Nvidia",
-    "url": "https://techcrunch.com/2026/07/09/paris-based-ai-voice-startup-gradium-raises-100m-seed-backed-by-nvidia/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-09T18:34:35+00:00",
-    "summary": "The company is using the cash to open an office in the Bay Area and compete for talent there, \"strengthening its position at the heart of the world's leading AI ecosystem.\"",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2024/02/GettyImages-1424498694.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Venture",
-      "nvidia",
-      "Kyutai",
-      "In Brief"
-    ],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 10
   },
@@ -1151,13 +1160,30 @@
     "relevance_score": 10
   },
   {
-    "id": "16ee76a19ade",
-    "title": "Google Health review: Fitbit's successor is ambitious and surprisingly good - Business Standard",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQWDdyeDZfSFRqUno1VFktRmxrMGU2QmRkLWt3WnAxWjBfakR6NU41ZGJfT0lPUF9IdHQ1THRnUWx6S0dPWDlHSEtvSDU1T3FHSjBfM0JYWFRsVXZrcWpwakhrWHFFTURwUGF3dlB1OUtFWDhJRnVJR2gxemIxejBOcm5aRkIzSHQ5ajV5ZlZ4VnZnQzlEU3F0MXdxd1lsOTBOa2dzNzlIZmtPTnUzYnJRTHFscndES1VYWWZCU3A3cEZlZnBMQkVVanFxMWJFWk1yWERFTUNDQ00wcFVHNVhYa01TcHFGbVnSAewBQVVfeXFMTUsyeXlMM1Y2eUNydXQzWEhuTWtBOEZZMVJsaXhRYUhhb05LWTJsd2hPWW5peTBEaEhpZXVmTEZaVVJjMWprTGU3VVZraF9qclpxUHlxWFdyRnJHTTFyZF9WdFh4NGR1WHpNWHozb3FmMHdOYlotU2tXejhaRVBDQ1VHMGR2RC1qX0dESDJLVzdRMnFHLUszZjZWdmZDbGNfN0RqZTFaLVZaUXJJbUVELVFhSmloLWFETTdVUTlLZmxfLWc3M0QtbTRsbjFTMDFnQ205TzgzemNrOEFqZnItdUJoUVdCMEZlTFpyVWg?oc=5",
-    "source": "Health Tech",
+    "id": "4bceb86ac798",
+    "title": "The desktop infrastructure problem that kubernetes finally solves",
+    "url": "https://venturebeat.com/infrastructure/the-desktop-infrastructure-problem-that-kubernetes-finally-solves",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-07-13T07:00:00+00:00",
+    "summary": "Presented by Kasm Technologies Enterprise infrastructure teams have spent the better part of a decade pushing workloads into Kubernetes. Applications, APIs, batch jobs, data pipelines — if it runs in a container, it belongs in the cluster. The operational benefits are...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/7JJlisjb2BGkLhYAqBYnld/d8e79d3ce1737ec2cfba1ed60f5f13e8/AdobeStock_677829840.jpeg?w=300&q=30",
+    "tags": [
+      "Infrastructure"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "c743e77d3140",
+    "title": "Qatar medical laboratories conduct 20 mln tests annually amidst digital transformation - Kuwait Times",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxNS2tYeHhEa0RMcUtxeWVWR2s5QXhNeUlxb3dqMEpkRWlIUU8tUmlRYXpmaUZQTmIwazlud3I4aVA2MFpWR0ZsMUdwOXMwQms5a19PSFJvSUYzYlF2d2h5aDdIV1JFeGdoZXJnamRGR1BkT0VJdFlTVEp6UEI2NGg3VlI4VFRpejZLUUpkMlhfTzNndDBkSXlsd0JNTHIzX2NCcHFyTjhCMzlteGRZejBGUHctRTlhdnliZzNxZDNZUmNiaVBsZzExenQ0d9IBzwFBVV95cUxNMHlCeUdzVWZSeFVSc0s5ZHNZSjNtaVdGRDN2Z1Qyd1BPME83MDF0a2pzcVhsUmkxb0dhQm9ZRTRlVXRsdFhyMjZIb2otUFZ2eGlZb044SGhNdENUMWlyS3FRbVhfM1RPbndLOHh3aGd0SVpXQUpmV1VmUmRjTUJlemlGY0NnZnNVN29oY3B4TWdvRDJ5M0gtMVJZN2VXOFhodDZBWC1mSHNKa0YxYnhkNWhTSExEckoxMDNBeURORFRBdVRoZkR5TnMzYXFsaWs?oc=5",
+    "source": "Healthcare Digital",
     "source_category": "industry_lifesciences",
-    "published": "2026-07-13T09:40:34+00:00",
-    "summary": "Google Health review: Fitbit's successor is ambitious and surprisingly good Business Standard",
+    "published": "2026-07-13T07:35:54+00:00",
+    "summary": "Qatar medical laboratories conduct 20 mln tests annually amidst digital transformation Kuwait Times",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1166,13 +1192,28 @@
     "relevance_score": 10
   },
   {
-    "id": "4055ad89b0fa",
-    "title": "Fast-growing SARIS Health fuels expansion with healthcare tech platform - The Business Journals",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNTZtc2FJNm8wVjQzOHd5MVV6Z2gyS05XWHhRNjRBYWZCdThNbVFSRjEzSWtNdzFCamZRZDhYc0dVTlk0dDN5ZXJ6VjFnVURUNzVuLWpXRENUX3FsMnlXLVZfZXdyOF9EYUpVSVBORXpRWlN3MHVKZDhlajhTYnZ1U045UHI?oc=5",
+    "id": "d606d177e208",
+    "title": "Samriddh Gram wins WSIS prize 2026: How BharatNet is driving rural digital transformation across Bharat - organiser.org",
+    "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxQaXNrTzVKTEt0ak14cGNGSzNzY0VlN1M1aktSdnFEYWU3S0RScmh1R1oxVGlPMV9vUURNU09QWEdEalJSWlRnZW9KRFFmbU9IMHA3amxUQ0x5MW9HUEFlbDdCam5HclhEZEZpcGp4dFIxdWo2NmQwZElPRFN2UllpeHRxaDBsbi1ReXRQMjEtWUIyZFc1Z2p4d0dzMS1oTkxHSnh2Z3h5RERQdmZfNHlOVFJMOGR0OXl1aDJKRjB5SWpPOVota2FQUzVmR19HY2N0UDh3cnJhWWZsNEgzb3NjaWZMZ2_SAeoBQVVfeXFMUEZ4ZmZSS1dBa3g4dWJCYWlnVzBTZUdaaHZwV05hUjA4dkFzSTg5SUR1T0dua1p6dF9mUnhmS0hBWm1faFRlbWgxUWJ0X3VvazJqRDNDUUhVa0s5bmU5aFFGVlhoYl9CV1ZueDRpd2VMVUlqdDlpZGFlWVNpUVJVenFNbEM1aGw3QTRXYXhyQ05rRzlBdWtkUF9WbS1NeGxwYXBhMVpIOWRWTE42Z0tZb0pMSG1CMTkzbDEtRDFOZWVCYXRFSnZoYkU5UTRIeUNGOU11dXBTcVpkZjZsa25xMmI0ZzA1RHEzYTJB?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-07-13T07:54:07+00:00",
+    "summary": "Samriddh Gram wins WSIS prize 2026: How BharatNet is driving rural digital transformation across Bharat organiser.org",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "4fde197783a4",
+    "title": "Bausch + Lomb launches new AI-based digital health platform - Eyes On Eyecare",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPMUgyY3VPcXFMS056VEE4M3lXNUpIM1hOOXpmMWtoUmYwb3JNVGxJcGpqZE9nVk5CYjcwRWl0TkpSVk81dzZfM0ZhME0wNUhtLUZtYjlQRVR0UjltMzBYY0k2eUlTWXFLSU9NRS1jNFRzOXJ1V2VFT2UzQ2NHNmNGXzhjTVVfWmQ0cDVpU1JwMWhrSjNRc0oxb3dxYTZNeGhMS3BLdkJPamJHU3Nia2Z3?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-07-13T10:10:00+00:00",
-    "summary": "Fast-growing SARIS Health fuels expansion with healthcare tech platform The Business Journals",
+    "published": "2026-07-13T10:47:22+00:00",
+    "summary": "Bausch + Lomb launches new AI-based digital health platform Eyes On Eyecare",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1182,63 +1223,36 @@
     "relevance_score": 10
   },
   {
-    "id": "deceda34baeb",
-    "title": "Israel's new app allows to pay taxes, services completely online: How it works? - The Jerusalem Post",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR295amhoTlU1M2x0Y0EtMnRkTGV1cTRSOUg2aC1IUGEwbms4R19MYW1QXzlaTWRDcVZLSUJwcFk5bnoySElPaG9oNXB5UGxScU9XakVYcnVpSGVLdHJETFJlemNtNUJqMWxIWTMtb0w4VlNZUjRsNlY3OTFZWTBoNms2X1B6cnc?oc=5",
+    "id": "f2b82032eb9d",
+    "title": "Fawaterak for Digital Payments offers «SkoolaPay» Platform to Digitize Tuition Fee Collection in Egypt - بوابة التكنولوجيا المالية",
+    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTFB1Yk5kMHNKcVgzZGRjZ0JUMjVNVkIzZGhXWVBma3Y0T0pRRTRMc0w4b0Eyb2pKRmF0QXZZNWgtVHlMb0NT?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-07-13T13:05:35+00:00",
-    "summary": "Israel's new app allows to pay taxes, services completely online: How it works? The Jerusalem Post",
+    "published": "2026-07-13T14:17:40+00:00",
+    "summary": "Fawaterak for Digital Payments offers «SkoolaPay» Platform to Digitize Tuition Fee Collection in Egypt بوابة التكنولوجيا المالية",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech"
+      "tech",
+      "financial"
     ],
     "relevance_score": 10
   },
   {
-    "id": "5e747e3cd7b6",
-    "title": "Meta’s new AI chips will begin production in September",
-    "url": "https://techcrunch.com/2026/07/09/metas-new-ai-chips-will-begin-production-in-september/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-09T17:17:37+00:00",
-    "summary": "The company is taking a modular approach to designing these chips, anticipating that their needs will change as AI evolves rapidly by the time the chips are in production.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/meta-chip.png?resize=1200,611",
-    "tags": [
-      "AI",
-      "Hardware",
-      "AI chips",
-      "ai infrastructure",
-      "GPUS"
-    ],
+    "id": "ea1c3a446074",
+    "title": "CIO: Digital transformation depends on strong foundations, unity of purpose - Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOT3NONWoxdkxoYzdQMExZODFjT25EeTBuLVZmZHF1R18wemtiVEhTalY4cnkzaV85ZEtrbU5ROHdUZlJXUFFjVTBYQ3BWN2lyaTZGRnI1a0VVMm1EZl9VLUhPYTFiWGV5aTk3S1FIZUtDdGd3cU9HUXdqYVoyRW55Tmt6SzZxN0lMeXdtR1VtUXVMam44YVVnMTlfT2dpZFd4YXhaWGZ5TmU?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-13T15:53:21+00:00",
+    "summary": "CIO: Digital transformation depends on strong foundations, unity of purpose Healthcare IT News",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "tech",
-      "industrial"
+      "lifesciences"
     ],
-    "relevance_score": 9
-  },
-  {
-    "id": "73e5ca389ac8",
-    "title": "Instagram users: Here’s how to stop Meta’s AI from using your photos",
-    "url": "https://techcrunch.com/2026/07/09/how-to-stop-metas-ai-image-generator-from-using-your-instagram-photos/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-09T17:56:47+00:00",
-    "summary": "Muse Image allows users to generate AI images using photos from public Instagram accounts. As long as a person's profile is public, another user can tag that account and use their images as part of an AI-generated creation.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/instagram-app-icon-GettyImages-1046023150.jpg?resize=1200,801",
-    "tags": [
-      "AI",
-      "Apps",
-      "Social",
-      "Generative AI",
-      "image generator"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 9
+    "relevance_score": 10
   },
   {
     "id": "45abde51242c",
@@ -1324,22 +1338,6 @@
     "relevance_score": 9
   },
   {
-    "id": "003fa5536637",
-    "title": "The Mind-Bending Company That Gets a Million Job Applications—and Rejects 99.9% - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1Id3RubVdlR2ZMNVp2VVRtaFdYNnE1OXhLTEJjMkZFVWxCX1dPSVE0bmp1Qy0zeFJPVU5IcFN3dWZjcnRURVA4RGkwN1Z6b1E0TVJ3aWUyaEM4WE4wY1NWS1hONnNlYlVoSXJfMmtHRmZaVVBkeDJXTVBB?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-11T01:00:00+00:00",
-    "summary": "The Mind-Bending Company That Gets a Million Job Applications—and Rejects 99.9% WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
     "id": "a514ec2d0025",
     "title": "Adobe Stock: 5 Signs AI Is Topping, SaaS In Play (NASDAQ:ADBE) - Seeking Alpha",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQZU5Vcl8taUpCc2RlbE5RS2pLYUlRdWZDb1BtOFVDN2ZtZklBYUZCQlBBNEhFSWhmNTYwZHBnbWxyenJZNkxYSUlnZ2tsSUJsUEE5Szk2VTN1enBtN2hMbnZ3N1VNZFBWT2p0OXpuTk9VRUtZNEZINGFKcG9vaFV4NndtejQ?oc=5",
@@ -1379,52 +1377,6 @@
     "relevance_score": 9
   },
   {
-    "id": "f724571e010e",
-    "title": "Israeli Quantum Startups Eye Wall Street as SPAC Interest Accelerates - The Quantum Insider",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa2xNNGdMOXNkVV9SUWlWZ1ZWUi1Wd1dmcUhZcUJWTXUtMlVPZHA0V0F2OXdsU3VHNjgzZ3haa1JsMGNGMll4MjJkQkJFeng0OWM5RXBXUmsxWTZFYjBYSWp5cWx2WGNHMWQwaEh4ZTVFbnVORERiZUlSeV9DMk5YalMtZXd6OUc0bW4yMUNXSHdqdDZfc1djNjAtS3hpdWpRV1BGRkJQQ3BWVUdITXh0cA?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-13T08:48:12+00:00",
-    "summary": "Israeli Quantum Startups Eye Wall Street as SPAC Interest Accelerates The Quantum Insider",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "b125b9ef0f96",
-    "title": "How Building Caredose Shaped Kinshuk Kocher's Approach to Global Health-Tech Innovation - Ahmedabad Mirror",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNUEF5NlZNc3hvRXV4SFROWWNjVC1jRGtYYXVxMDU1dTBnbjRCbjZuM2ZkbkhWVjNYWlFmUGRjWDRtbnp6RWJCWjdIT0E3Rm5SY29fV1pHOUF4M2FiSGV5eUc1WTRtaHdabE0yUWVYanluWWloZHBORGdBS2FRMnNDU1NLQkhkaENBbE9HWDNYRXdHUzJsYnREU19BSW5mQ1VoaHBnVzBrVUNIQ3lrWHU1WXdiekpYSlhtUFZqSEVHVlNJUUZpTGJYSGQ4bjM?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-13T09:51:15+00:00",
-    "summary": "How Building Caredose Shaped Kinshuk Kocher's Approach to Global Health-Tech Innovation Ahmedabad Mirror",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "7d31fc25036e",
-    "title": "What Lindsey Graham’s Death Means for the Balance of Power on Capitol Hill - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPY3Bhcm9RS3NGOTBYWHgtd2VvcUc2YllWT3NkZ25SbzdyYkhUTWtCQTdlcU1xdFROLTYtVDBDa3UyWlNWUEpYaVhnRVhnSTR3RVpYNE9lV1AyTW5tUzdYc1RkQ3BSd29aMEZfcDZRbWFZMmUzVW9tY2prR0xNQ1hFNFc1dU9WcWs0VmpPRWNMTzJOUkVVZ0pnTU96bkVYb2tyWTVrbWJQSVN1MWh2dUY4TzVRZno5Q2dxMjVTaQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-13T09:53:00+00:00",
-    "summary": "What Lindsey Graham’s Death Means for the Balance of Power on Capitol Hill WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 9
-  },
-  {
     "id": "14b64563cd08",
     "title": "Egardia rolls out carrier-grade Smart Home Security platform - Telecompaper",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQMXZ0WFk4R2hOVU40VHZ3OW9XdUFZdkVQQTkxci1hMVZiVXlibVBlczQ1VVYxWFdLTzdhZ2ttdDJjSTVsbjAwQzhhQ3pTQklWYVRRcXhPZVprMVd4QnVsYm4tZUd0M1ZicHcwdFp2a3ZYTzJRbmx0SUZJMU1GZnZMMmhtM3h4SnR1N3JRQVBtNjRmTHZDUEZldEZobS1BWEszV21SSmRB?oc=5",
@@ -1437,6 +1389,37 @@
     "industries": [
       "tech",
       "telecom"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "4055ad89b0fa",
+    "title": "Fast-growing SARIS Health fuels expansion with healthcare tech platform - The Business Journals",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQNTZtc2FJNm8wVjQzOHd5MVV6Z2gyS05XWHhRNjRBYWZCdThNbVFSRjEzSWtNdzFCamZRZDhYc0dVTlk0dDN5ZXJ6VjFnVURUNzVuLWpXRENUX3FsMnlXLVZfZXdyOF9EYUpVSVBORXpRWlN3MHVKZDhlajhTYnZ1U045UHI?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-13T10:10:00+00:00",
+    "summary": "Fast-growing SARIS Health fuels expansion with healthcare tech platform The Business Journals",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "deceda34baeb",
+    "title": "Israel's new app allows to pay taxes, services completely online: How it works? - The Jerusalem Post",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQR295amhoTlU1M2x0Y0EtMnRkTGV1cTRSOUg2aC1IUGEwbms4R19MYW1QXzlaTWRDcVZLSUJwcFk5bnoySElPaG9oNXB5UGxScU9XakVYcnVpSGVLdHJETFJlemNtNUJqMWxIWTMtb0w4VlNZUjRsNlY3OTFZWTBoNms2X1B6cnc?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-07-13T13:05:35+00:00",
+    "summary": "Israel's new app allows to pay taxes, services completely online: How it works? The Jerusalem Post",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 9
   },
@@ -1624,24 +1607,25 @@
     "relevance_score": 7
   },
   {
-    "id": "e81e3abe4e28",
-    "title": "Resmed to sell software business MatrixCare to private equity firm",
-    "url": "https://www.healthcaredive.com/news/resmed-to-sell-software-business-matrixcare-to-private-equity-firm/824803/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-08T15:28:41+00:00",
-    "summary": "Selling the unit, which provides an EHR for post-acute care, will allow the respiratory device maker to shift more resources to faster-growing parts of its portfolio.",
-    "image_url": "https://imgproxy.divecdn.com/kPLYslMuG4diR94takcJZcZhf4NtMDbbUIzGEcRIefE/g:nowe:0:256/c:1000:564/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9yZXNtZWQtY3BhcC1tYWNoaW5lLWFpcjExLWNvbm5lY3RlZC1kZXZpY2UuanBn.webp",
+    "id": "fe575e31fe74",
+    "title": "Camera-to-Cloud Meets Camera-to-Timeline: LucidLink Unifies Adobe Frame.io and Enterprise Storage - Roastbrief US",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOZ2xJR0JzWEVNTHJvOF9COERpaVptY3dCNFdtV1dJRklwUWxkVlpLSG81NER2dEZoRVM3UnRieThBcXB0UE5NZmE3bHFzY1VER1hYcUtpMkdvV21EUDY5VEI1S0F2Sml4ZHZHM3lYcG1Tdmt5eFRiYUphUXhKVVQ2bEp5cTlvNm1RYVNTb1NoVW1DX0NCWHdWeW9SQ3VpT19CYVVzQ3FBUUNPQ3pUTUVhbkxlNnVhU2cyRk9N?oc=5",
+    "source": "Adobe Marketing Cloud",
+    "source_category": "adobe",
+    "published": "2026-07-07T16:53:48+00:00",
+    "summary": "Camera-to-Cloud Meets Camera-to-Timeline: LucidLink Unifies Adobe Frame.io and Enterprise Storage Roastbrief US",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "tech"
+      "tech",
+      "industrial"
     ],
-    "relevance_score": 7
+    "relevance_score": 6
   },
   {
-    "id": "db0abba119d9",
+    "id": "effad02d12e1",
     "title": "Wave Life Sciences Announces Singapore Court Hearing, to be held on July 14, 2026 to Approve Scheme of Arrangement for Redomiciliation - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQVFlFR2Y0Z3hNZktGamkzRU1HMnNyRjFvczlOUUJxRlFTeU45ZHNPSml2T0F5dkxhZG9YNlhDbnZZRERTVzJ0c0NCblhNd2Nyb1VCd29VYndZQy03SUtNMHAzZ0I0SHF1Z1FBMnFuOGNiOG54em1BUDJ4ZElMczRfcERGdEZKNmtBLWkzTzJic0tSZFNSRzV0aGdXVy1hS2hhLXRhenlSOEphT3BVTFE?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQME41eWdJYVp5TnRiTzNQNnJRd05VWWZDTWFFZ0ZYYnpWZzNURE85S1U3YWdRQTdvMWlBWmg4RU9XempyQmJSTEJEN2Z2ZjBBMWxHamd6QzNpNkRmVDBWM3JtQXpxQ2dGdDV1UURzTkY1RFpmbU1SV0QwenYtRk9sbC1RSWxSeFBHQnBaUGZZRFlvaDZ4cUdvX1ozOTczVDNz?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
     "published": "2026-07-07T20:15:00+00:00",
@@ -1771,6 +1755,22 @@
     "relevance_score": 5
   },
   {
+    "id": "daf2c6c9983f",
+    "title": "WHO joins the Open Health Stack Software Foundation to advance open, standards-based digital health for all countries - World Health Organization (WHO)",
+    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxPVGxkZGM4b0pDS2ttRUFhRVpnUkp6UWVOU2ZrdW15QmRpV0dTYjBjY3hINkdieE8xQXFvQzgwOHdySVQ1YXZKVGdZeXdONEFsRUtQT01pZXNMaHVBb184MlV4Vk1sN2xNR0dQSTIxVGlQR25nR3A1Z1lwcGZVTzdTX2hISXYxbXBCQTZGZUE0WDRUNFdJc184VXItUHhmTFZEZEtjYTBFRUpyZUY5cHZDYUVTREhiYnZHT251ZzBNV3doWC02S0JDbzAzVzVFdmVHNUVQN2RiZE5idmt1OXNMMS1ydkxMLVphS2FDUGlCcw?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-09T12:20:53+00:00",
+    "summary": "WHO joins the Open Health Stack Software Foundation to advance open, standards-based digital health for all countries World Health Organization (WHO)",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
     "id": "04f989387fdd",
     "title": "FDA Approves Subcutaneous Sarclisa Escena | PharmExec - Pharmaceutical Executive",
     "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxORE5reXViRFV4M19tbUlVanRuSWdqRGVldi1iUm8zOUNZSDdMc2FUdVVKZHpFYmNTc2dKYkZuWE9jRE1TX0RiUEZ5aU1fYngzUVF1RTdSX3BoOVMteVFhUzh0ZEpsQnUybGdJNHVySFI2RU5vLUI1YWNyMVdCYjVPQ2thRkk?oc=5",
@@ -1783,6 +1783,21 @@
     "industries": [
       "tech",
       "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "27894f1cd432",
+    "title": "Djibouti, ITU Deepen Cooperation on Digital Transformation - Horn Observer",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPZUQtd0RXOHdIN0FTaVBhNFBoWmhVSXlYcG10ZnJoa29QUEMyeGNBSW9fczlYaUtoY3pKXzN1SkdNZWp4azFKcVhOTGZkbmNDVXNxYW5RTWw3OWNGdmJrZGtmNGpNeE5LS0dEcWdHeThyTW9XblNQX3FkLWxfNWprVjQ3b0ZfRnZPbjJidTZyY3pjMGtzTDh1aWM1M24?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-07-11T16:52:08+00:00",
+    "summary": "Djibouti, ITU Deepen Cooperation on Digital Transformation Horn Observer",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 5
   }
