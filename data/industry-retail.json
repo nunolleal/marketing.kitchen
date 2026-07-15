@@ -12,7 +12,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 48
+    "relevance_score": 45
   },
   {
     "id": "3954f1475c53",
@@ -53,27 +53,27 @@
     "relevance_score": 38
   },
   {
-    "id": "89d1828b89b8",
-    "title": "TV’s Most Interesting New Show Has A 100% Rotten Tomatoes Score",
-    "url": "https://www.forbes.com/sites/paultassi/2026/07/15/tvs-most-interesting-new-show-has-a-100-rotten-tomatoes-score/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-15T14:58:44+00:00",
-    "summary": "Many viewers love true crime series, but Amazon has a new one that is unlike anything else in the genre, and it has a 100% Rotten Tomatoes score.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a579f4aa4288aa4d561b0f8/0x0.jpg",
+    "id": "cbcc3b79a7eb",
+    "title": "Something’s glowing on the Pixel 11’s camera bar",
+    "url": "https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-15T18:24:22+00:00",
+    "summary": "A new teaser for Google's upcoming Pixel 11 lineup reveals that the phones will feature some kind of glowing orb on the camera bar, as reported by 9to5Google. Google's store page for the Pixel 11 has a short video that shows the glowing, color-shifting orb to the one side of...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-15-at-11.36.30-AM.png?quality=90&amp;strip=all&amp;crop=0,6.913700090708,100,86.172599818584",
     "tags": [
-      "Gaming",
-      "/gaming",
-      "Innovation",
-      "/innovation",
-      "Gaming"
+      "Google",
+      "Google Pixel",
+      "News",
+      "Tech"
     ],
     "industries": [
-      "media",
+      "tech",
+      "telecom",
       "retail",
       "industrial"
     ],
-    "relevance_score": 20
+    "relevance_score": 19
   },
   {
     "id": "a26dd6e73cd9",
@@ -95,23 +95,6 @@
     "relevance_score": 17
   },
   {
-    "id": "4aec6708857c",
-    "title": "Inflation slows to 3.5% as Warsh pledges to achieve Fed’s 2% target",
-    "url": "https://www.retaildive.com/news/inflation-slows-warsh-pledges-achieve-fed-target/825286/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-07-15T15:52:00+00:00",
-    "summary": "“There’s plenty of work to do” to reduce inflation to an acceptable level, Federal Reserve Chair Kevin Warsh said in testimony before the House Financial Services Committee.",
-    "image_url": "https://imgproxy.divecdn.com/UHb27xAU7gy_g7kHKY8YNr0hxF13Wg8Ut6p95PaYDNM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc3Njg5MTU1XzEuanBn.webp",
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 17
-  },
-  {
     "id": "734a71b88305",
     "title": "Whatnot acquires Shaped to power real-time live shopping recommendations",
     "url": "https://techcrunch.com/2026/07/15/whatnot-acquires-shaped-to-power-real-time-live-shopping-recommendations/",
@@ -121,10 +104,10 @@
     "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
     "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/Whatnot_AppIcon_Screen.jpg?w=1200",
     "tags": [
-      "Startups",
       "AI",
       "Apps",
       "Commerce",
+      "Startups",
       "e-commerce"
     ],
     "industries": [
@@ -158,6 +141,23 @@
     "relevance_score": 16
   },
   {
+    "id": "4aec6708857c",
+    "title": "Inflation slows to 3.5% as Warsh pledges to achieve Fed’s 2% target",
+    "url": "https://www.retaildive.com/news/inflation-slows-warsh-pledges-achieve-fed-target/825286/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-07-15T15:52:00+00:00",
+    "summary": "“There’s plenty of work to do” to reduce inflation to an acceptable level, Federal Reserve Chair Kevin Warsh said in testimony before the House Financial Services Committee.",
+    "image_url": "https://imgproxy.divecdn.com/UHb27xAU7gy_g7kHKY8YNr0hxF13Wg8Ut6p95PaYDNM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjc3Njg5MTU1XzEuanBn.webp",
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 16
+  },
+  {
     "id": "a25d8d08109e",
     "title": "Bath & Body Works launches in Brazil",
     "url": "https://www.retaildive.com/news/bath-body-works-launches-brazil-international-expansion/825238/",
@@ -170,7 +170,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "c24fae70fd39",
@@ -187,7 +187,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "b71c4520260f",
@@ -199,24 +199,6 @@
     "summary": "Several company veterans were named to new leadership positions as incoming chief Jason Bonfig charts out the retailer's future.",
     "image_url": "https://imgproxy.divecdn.com/gr1MV7prswL4Qzmz9cKkNlbqZAEV_EUW0AB78VK1dPQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTcyNzc2MTI1LmpwZw==.webp",
     "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "d580bb99a449",
-    "title": "Digital video ad spending is booming – trust in premium inventory isn’t.",
-    "url": "https://digiday.com/marketing/digital-video-ad-spending-is-booming-trust-in-premium-inventory-isnt/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-07-15T04:01:00+00:00",
-    "summary": "Digital video ad spend continues to climb, but buyers say bigger budgets bring tougher questions about inventory quality, supply chain transparency.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/01/ctv-fractured-digiday.jpg",
-    "tags": [
-      "Marketing"
-    ],
     "industries": [
       "retail",
       "industrial"
@@ -235,6 +217,24 @@
     "tags": [],
     "industries": [
       "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "d580bb99a449",
+    "title": "Digital video ad spending is booming – trust in premium inventory isn’t.",
+    "url": "https://digiday.com/marketing/digital-video-ad-spending-is-booming-trust-in-premium-inventory-isnt/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-07-15T04:01:00+00:00",
+    "summary": "Digital video ad spend continues to climb, but buyers say bigger budgets bring tougher questions about inventory quality, supply chain transparency.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/01/ctv-fractured-digiday.jpg",
+    "tags": [
+      "Marketing"
+    ],
+    "industries": [
       "retail",
       "industrial"
     ],
@@ -295,6 +295,22 @@
     "relevance_score": 12
   },
   {
+    "id": "70aaa8ceeded",
+    "title": "Amazon preps robotics-equipped sorting warehouse in Texas",
+    "url": "https://www.retaildive.com/news/amazon-robotics-sorting-warehouse-texas/825148/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-07-14T14:28:00+00:00",
+    "summary": "The site will sit within the e-commerce giant’s fulfillment network and further expand its use of automation across the supply chain.",
+    "image_url": "https://imgproxy.divecdn.com/Ee_yDRvqVjW3Xq6JGmmRpE3hu3opnbHOx3MU4FGil_A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QaG90b19KdWxfMjZfMjAyM18xXzIxXzExX1BNLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "519c6a43570f",
     "title": "Wells Fargo raises JPMorgan stock price target on strong growth - Investing.com",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc01Rd2ItR1NUbXZFMlkzeG9mTFdWN0QzeWdRWVlBOGkwUEluYTBNTElVTlF4d2doWHJKeFpxd1ktb0VuQ1Y2UWZzSFdUZmJob0VwVVB4OUdNcEotekdYQ08zaU9penM4Z0JvM2dtU0Rjakhrc3FGVE94ZlNtNUE2Z19Gb3pMaVl1U3ZrckxWRVFIb0dXeU1rM2xIUmkzdXB0RlBidjF6MVI3NXpURjhqV0JHdzNsVWZWb3A4LXQ4Vms?oc=5",
@@ -309,7 +325,23 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 11
+    "relevance_score": 10
+  },
+  {
+    "id": "f5fe18d14e5f",
+    "title": "How Costco became America’s favorite bargain - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMickFVX3lxTFBmS1RqcUJVblcyODdaU0dBaldXNHY2RkJsNFdHeVVTc2lvUHMwMmxmcTBOdGJuenVQekVMMGFaczI4WEVkQjVvUzJwNzNjUzB5dmRZdTlMVjIydlp1Wk5WdHVhRzlvWDdWMUFWckZhaWRBUQ?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-07-15T13:00:00+00:00",
+    "summary": "How Costco became America’s favorite bargain Ad Age",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 10
   },
   {
     "id": "6293112d352f",
@@ -326,23 +358,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 10
-  },
-  {
-    "id": "70aaa8ceeded",
-    "title": "Amazon preps robotics-equipped sorting warehouse in Texas",
-    "url": "https://www.retaildive.com/news/amazon-robotics-sorting-warehouse-texas/825148/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-07-14T14:28:00+00:00",
-    "summary": "The site will sit within the e-commerce giant’s fulfillment network and further expand its use of automation across the supply chain.",
-    "image_url": "https://imgproxy.divecdn.com/Ee_yDRvqVjW3Xq6JGmmRpE3hu3opnbHOx3MU4FGil_A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9QaG90b19KdWxfMjZfMjAyM18xXzIxXzExX1BNLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 10
+    "relevance_score": 9
   },
   {
     "id": "2202b23e4bf5",
@@ -362,12 +378,12 @@
     "relevance_score": 9
   },
   {
-    "id": "277c7c365aa9",
+    "id": "e9f9d46e1b9c",
     "title": "B2B ecommerce is posting real numbers — and operators are taking notice - MarketScale",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNTW45cHFTaDVMUTNiOXJCTFhfWjlZRVRIaHQ3a0hpSmdVNW9SdFVYcUV0aXQwR3Bqb3F3a1Z0LW1FcEJMLUtpQ2RQTWVhWmdrZ19CZzRkYlJIS0VWSzZMN3ptNDB5am11b3k5TWl5TmxibVRwM0dPcHc4Z2o5RDcyZ0tPUnJ2SGlhcXBLUmtuVmpFUEpLX2xOUC1jNGo2VFVJNWVPMjZMS01FMXM4MzZiVHJIZTE3WXE5bzZKZkpMS0NURFBhY0k5T3JldmFKRFpsVXJLLXZn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxQaXFLT0F4RFFNamxFREF3QmNtWWdHMzVYeWN3Q01jQTNpY2xSNS1ZSE1jQnRRX2J2UUhxQXUyTHhIVVpfOWJOSll4a2FsSDRqSERXX0M1RV9Ua0diR3ZKNVVSamtZVHlFaE9RVXp6TVc0SnYtOHVjdWh1cjJsUER3R3IxbjZlNFp3bHVaN1duYjFvMEFEdHpmMW8yT1BHTkxfcjJNQmNNN2tiaDBVS29qemFSZ09fWjl1dEFpS0dIWVgyNFFtTnhtUno4enEtalJyUktsMFFn?oc=5",
     "source": "Industrial B2B",
     "source_category": "industry_industrial",
-    "published": "2026-07-14T23:33:43+00:00",
+    "published": "2026-07-15T03:53:00+00:00",
     "summary": "B2B ecommerce is posting real numbers — and operators are taking notice MarketScale",
     "image_url": null,
     "tags": [],
@@ -378,20 +394,21 @@
     "relevance_score": 9
   },
   {
-    "id": "de3ffd05d493",
-    "title": "Adobe's Strategic Acquisition of Rephrase.AI to Bolster Generative AI Video Capabilities for E-commerce - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQeE1uVmpuVlRpMkhIcXZocFB2YnZ6aHBZYjZ2Y0tEa0k0Vmt6N3BTQzhnUVFzUXRBYl95NnU1amg2NjFuQ1BWSGJXTW9MbS1JbzQxSjF4RkhqV1ZzQkxvaThpZDAzUmt0N2NNdmhCUEhraGJSdnVxNmdybmFXeEZhOVhENHVQQWIzSEhxdGZlRnJJR0kxQklncTZ6dDA4dTNSQmV6dXN0Zw?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-07-10T14:51:00+00:00",
-    "summary": "Adobe's Strategic Acquisition of Rephrase.AI to Bolster Generative AI Video Capabilities for E-commerce Yahoo Finance",
+    "id": "de884b6dd491",
+    "title": "PayPal (PYPL) Gets a Lower Price Target as Digital Payments Face New Challenges - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVnVidFJQS2VnUFludjlBTEZtXzNMajg4bkQ1MGhUM21icG52dWhuM09OM0xFREctWjdlSlVFVzVRNEVLbGluRTh1ZkxuZEtUMFl2M0tDV1NTcFZLTk42ZTREQWpKbzNzWEY3TzUyTTZzcHg0aGdoeGh5dkthMmpyRk9FR2FTZDUzMkVtVnZ2Y2FHOXlDNVZ6aA?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-07-15T09:09:30+00:00",
+    "summary": "PayPal (PYPL) Gets a Lower Price Target as Digital Payments Face New Challenges Yahoo Finance",
     "image_url": null,
     "tags": [],
     "industries": [
       "retail",
-      "industrial"
+      "industrial",
+      "financial"
     ],
-    "relevance_score": 6
+    "relevance_score": 8
   },
   {
     "id": "a9e2be601500",
@@ -421,6 +438,23 @@
     "industries": [
       "retail",
       "financial"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "a95b250536ef",
+    "title": "Digital health disparities undercut Cures Act's open notes policy - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPbFUyY3NHRXZtdjdfT3psQ2Nsa0hmWWNzcVJENUJJRUdTZ1JmYXBLV01JOUpLeW5CcUNlcm9iUXZpczZIWXNfcjNGMmxLMHowUGptdTNPZVRqdEJpZDltdDdTYUpreXNiall6dVBRbGlUQ3lIUmEybjVMWjRlUGxkZ0lYejZMa1Yxa3NQdVhUVDRkR1pOU290emU2SUlYNUMyNnlEQ2szWU1qRTllWUJXb1pSVnRkaFJWNHFZT2pvcEJhUQ?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-13T18:35:51+00:00",
+    "summary": "Digital health disparities undercut Cures Act's open notes policy TechTarget",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial",
+      "lifesciences"
     ],
     "relevance_score": 5
   }

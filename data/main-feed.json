@@ -12,7 +12,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 69
+    "relevance_score": 66
   },
   {
     "id": "16b3b09381cf",
@@ -32,7 +32,26 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 59
+    "relevance_score": 56
+  },
+  {
+    "id": "dd54c890417f",
+    "title": "Critics Rave About ‘The Odyssey’—And Slam Elon Musk’s Anti-Woke Campaign",
+    "url": "https://www.forbes.com/sites/conormurray/2026/07/15/critics-rave-about-the-odyssey-and-slam-elon-musks-anti-woke-campaign/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-15T20:01:40+00:00",
+    "summary": "A critic for the Arizona Republic gave “The Odyssey” five stars and called Elon Musk’s criticisms of the cast “racist and ugly.”",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57e6d4492c5b3f5be56928/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [],
+    "relevance_score": 48
   },
   {
     "id": "9e1efe23208a",
@@ -53,7 +72,7 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 54
+    "relevance_score": 51
   },
   {
     "id": "25186b9229da",
@@ -66,7 +85,29 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 59
+    "relevance_score": 56
+  },
+  {
+    "id": "042c81765f52",
+    "title": "Marketing Vanguard at Cannes: How Saying No Made Lego Stronger ft. Julia Goldin",
+    "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-how-saying-no-made-lego-stronger-ft-julia-goldin/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-07-15T14:51:26+00:00",
+    "summary": "How to balance innovation risk with consumer trust and brand authenticity.",
+    "image_url": null,
+    "tags": [
+      "AI News",
+      "C-Suite",
+      "Cannes Lions",
+      "CPG News",
+      "Marketing Vanguard"
+    ],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 50
   },
   {
     "id": "bc33755c35f4",
@@ -84,60 +125,29 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 56
+    "relevance_score": 53
   },
   {
-    "id": "f9dec9376f38",
-    "title": "Liquid I.V., Samsung swing into ‘Spider-Man’ to spotlight new products",
-    "url": "https://www.marketingdive.com/news/liquid-iv-samsung-spider-man-to-spotlight-new-products/825212/",
-    "source": "Marketing Dive",
+    "id": "c6a6cd8b2f24",
+    "title": "These World Cup Stars Didn’t Get The Trophy—But Won Big On Social Media",
+    "url": "https://www.forbes.com/sites/maryroeloffs/2026/07/15/these-world-cup-stars-didnt-get-the-trophy-but-won-big-on-social-media/",
+    "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-07-15T14:00:00+00:00",
-    "summary": "The Unilever hydration brand’s largest entertainment partnership yet includes ads, a pair of co-branded flavors and experiential marketing.",
-    "image_url": null,
-    "tags": [],
+    "published": "2026-07-15T17:21:35+00:00",
+    "summary": "Little-known soccer players from Cabo Verde, New Zealand and elsewhere took in huge new social media followings.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57c154e18bb4e6a799fbc1/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
     "industries": [
       "media",
-      "consumer",
       "industrial"
     ],
-    "relevance_score": 52
-  },
-  {
-    "id": "f2052a1fc274",
-    "title": "Neutrogena puts science above virality with ‘Break the Rules’ campaign",
-    "url": "https://www.marketingdive.com/news/neutrogena-puts-science-above-virality-with-break-the-rules-campaign/825268/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-07-15T13:49:00+00:00",
-    "summary": "The Kenvue brand is using similar tactics to competitors CeraVe and Dove in an effort that spans TV, social, creators and experiential.",
-    "image_url": "https://imgproxy.divecdn.com/EbBDkn5AHrfOBq6snPe-9_o6xtwPJFF7swHcafV5q-E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9OVEctQnJlYWstdGhlLVJ1bGVzLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 52
-  },
-  {
-    "id": "ffa8d680402c",
-    "title": "Creatio takes aim at the enterprise Frankenstack",
-    "url": "https://martech.org/creatio-takes-aim-at-the-enterprise-frankenstack/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-07-15T12:29:00+00:00",
-    "summary": "The company's latest platform combines CRM, AI agents, and workflows to replace disconnected point solutions with a single operating environment. The post Creatio takes aim at the enterprise Frankenstack appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/07/Real-Time-Agent-Experience.png",
-    "tags": [
-      "Customer relationship management (CRM)",
-      "Marketing artificial intelligence (AI)",
-      "Marketing operations (MOps)"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 53
+    "relevance_score": 46
   },
   {
     "id": "29e77d4297aa",
@@ -158,6 +168,59 @@
     "relevance_score": 52
   },
   {
+    "id": "f9dec9376f38",
+    "title": "Liquid I.V., Samsung swing into ‘Spider-Man’ to spotlight new products",
+    "url": "https://www.marketingdive.com/news/liquid-iv-samsung-spider-man-to-spotlight-new-products/825212/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-07-15T14:00:00+00:00",
+    "summary": "The Unilever hydration brand’s largest entertainment partnership yet includes ads, a pair of co-branded flavors and experiential marketing.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 49
+  },
+  {
+    "id": "f2052a1fc274",
+    "title": "Neutrogena puts science above virality with ‘Break the Rules’ campaign",
+    "url": "https://www.marketingdive.com/news/neutrogena-puts-science-above-virality-with-break-the-rules-campaign/825268/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-07-15T13:49:00+00:00",
+    "summary": "The Kenvue brand is using similar tactics to competitors CeraVe and Dove in an effort that spans TV, social, creators and experiential.",
+    "image_url": "https://imgproxy.divecdn.com/EbBDkn5AHrfOBq6snPe-9_o6xtwPJFF7swHcafV5q-E/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9OVEctQnJlYWstdGhlLVJ1bGVzLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 49
+  },
+  {
+    "id": "ffa8d680402c",
+    "title": "Creatio takes aim at the enterprise Frankenstack",
+    "url": "https://martech.org/creatio-takes-aim-at-the-enterprise-frankenstack/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-07-15T12:29:00+00:00",
+    "summary": "The company's latest platform combines CRM, AI agents, and workflows to replace disconnected point solutions with a single operating environment. The post Creatio takes aim at the enterprise Frankenstack appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/07/Real-Time-Agent-Experience.png",
+    "tags": [
+      "Customer relationship management (CRM)",
+      "Marketing artificial intelligence (AI)",
+      "Marketing operations (MOps)"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 50
+  },
+  {
     "id": "105ac64c81d4",
     "title": "Consumers say rewards matter, but many aren’t actually using them",
     "url": "https://www.marketingdive.com/news/consumers-rewards-matter-many-arent-using/825292/",
@@ -170,28 +233,27 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 48
+    "relevance_score": 45
   },
   {
-    "id": "175f734febeb",
-    "title": "Huge Gash Trump Claims ‘Vandals’ Made In Reflecting Pool Is Not Apparent In Latest Photos",
-    "url": "https://www.forbes.com/sites/saradorn/2026/07/15/huge-gash-trump-claims-vandals-made-in-reflecting-pool-is-not-apparent-in-latest-photos/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-15T15:06:02+00:00",
-    "summary": "Some social media users have speculated whether markings visible on the bottom of the pool were caused by Trump’s motorcade, which drove the length of the pool on May 7.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57a0707f34fd87173d9cfd/0x0.jpg?width=960",
+    "id": "e4526c18c3bb",
+    "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
+    "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-15T13:00:00+00:00",
+    "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/reelful-2.png?resize=1200,825",
     "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
+      "AI",
+      "Apps",
+      "Social",
+      "Startups",
+      "reelful"
     ],
     "industries": [
       "media",
-      "tech",
-      "industrial"
+      "tech"
     ],
     "relevance_score": 45
   },
@@ -215,44 +277,7 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 49
-  },
-  {
-    "id": "ca79f6086ecb",
-    "title": "12 creative campaigns to know about today - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNQi1LVW92N1RScTBRRUtITWdOYjBmXzl2QVM4SmRWX0hNNk1oVTVaSHpIb0NQNHo4UllOdERKNDVLcHVHbU1pVUNwZFVjYmFWMHNNX2M1dThKanAzVFNVRVdwekltck1mTmN2bmxxSUtuMjMzVS1DLUpqZmc2V3pmRjA4TzZhTnJDZGpjN0pUcWZFd1FnODBXbzR4am5qaFYybGV3bVlNQVNyZkxOMHVjeUcxdUpVdmZ0UHZBd1VrTlpfd2N1YWIxSDctN2k?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-07-15T15:25:00+00:00",
-    "summary": "12 creative campaigns to know about today Ad Age",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 43
-  },
-  {
-    "id": "e4526c18c3bb",
-    "title": "Reelful’s AI turns your camera roll into short-form videos for social media",
-    "url": "https://techcrunch.com/2026/07/15/reelfuls-ai-turns-your-camera-roll-into-short-form-videos-for-social-media/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-15T13:00:00+00:00",
-    "summary": "The app is designed for people who want to create social content, but find traditional video editing tools too complex or time-consuming.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/reelful-2.png?resize=1200,825",
-    "tags": [
-      "AI",
-      "Apps",
-      "Social",
-      "Startups",
-      "reelful"
-    ],
-    "industries": [
-      "media",
-      "tech"
-    ],
-    "relevance_score": 45
+    "relevance_score": 46
   },
   {
     "id": "653abf0edfa7",
@@ -288,25 +313,6 @@
     "relevance_score": 52
   },
   {
-    "id": "3dc88375f863",
-    "title": "Brands won this season of ‘Love Island USA’",
-    "url": "https://digiday.com/marketing/brands-won-this-season-of-love-island-usa/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-07-15T04:01:00+00:00",
-    "summary": "Brands are eagrs to find their way into shows like Love Island USA and events that have become appointment viewing.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/07/presented-by-keynote-25.001.jpeg",
-    "tags": [
-      "Marketing",
-      "ContentfulTPOffShoring"
-    ],
-    "industries": [
-      "tech",
-      "consumer"
-    ],
-    "relevance_score": 49
-  },
-  {
     "id": "1824c3455aa8",
     "title": "Gary Vaynerchuk’s Next Bet Is an Affiliate Agency Startup",
     "url": "https://www.adweek.com/agencies/gary-vaynerchuks-next-bet-is-an-affiliate-agency-startup/",
@@ -325,6 +331,25 @@
       "industrial"
     ],
     "relevance_score": 43
+  },
+  {
+    "id": "3dc88375f863",
+    "title": "Brands won this season of ‘Love Island USA’",
+    "url": "https://digiday.com/marketing/brands-won-this-season-of-love-island-usa/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-07-15T04:01:00+00:00",
+    "summary": "Brands are eagrs to find their way into shows like Love Island USA and events that have become appointment viewing.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/07/presented-by-keynote-25.001.jpeg",
+    "tags": [
+      "Marketing",
+      "ContentfulTPOffShoring"
+    ],
+    "industries": [
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 46
   },
   {
     "id": "960695c4c4b2",
@@ -369,27 +394,48 @@
     "relevance_score": 39
   },
   {
-    "id": "43ea26cedaff",
-    "title": "Insights on Marketing’s Future From the Adweek Press Hour",
-    "url": "https://www.adweek.com/agencies/insights-on-marketings-future-from-the-adweek-press-hour/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-07-14T15:56:34+00:00",
-    "summary": "The ideas, tensions, and trends shaping brands, culture, media, creativity, and business growth.",
-    "image_url": null,
+    "id": "e9d64ae09ee2",
+    "title": "SpaceX falls to $135 IPO price ahead of Starship launch",
+    "url": "https://techcrunch.com/2026/07/15/spacex-falls-to-135-ipo-price-ahead-of-starship-launch/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-15T18:06:05+00:00",
+    "summary": "The stock has steadily fallen from the euphoric post-IPO high, showing that markets may be sobering up to the promises CEO Elon Musk made before and after SpaceX went public.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/20260511_Wet_Dress_Actual_2_259bcb3ae9.jpg?resize=1200,899",
     "tags": [
-      "AI News",
-      "Brands",
-      "Cannes Lions",
-      "Emerging Technologies",
-      "Software/Technology"
+      "AI",
+      "Space",
+      "Elon Musk",
+      "SpaceX",
+      "spacex ipo"
+    ],
+    "industries": [],
+    "relevance_score": 20,
+    "also_covered_by": [
+      "Forbes Business"
+    ]
+  },
+  {
+    "id": "fe985779dfb7",
+    "title": "Amid hardware legal battle, OpenAI releases a $230 keyboard for Codex",
+    "url": "https://techcrunch.com/2026/07/15/amid-hardware-legal-battle-openai-releases-a-230-keyboard-for-codex/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-15T19:41:38+00:00",
+    "summary": "OpenAI, which is in the middle of a legal battle with Apple over hardware trade theft allegations, just released a light-up keyboard designed to be paired with its agentic coding app.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Supply-Co-Page_Brand.png?resize=1200,623",
+    "tags": [
+      "AI",
+      "Hardware",
+      "TC",
+      "codex",
+      "OpenAI"
     ],
     "industries": [
-      "media",
       "tech",
-      "consumer"
+      "industrial"
     ],
-    "relevance_score": 43
+    "relevance_score": 19
   },
   {
     "id": "2b104fa4536b",
@@ -411,46 +457,27 @@
     "relevance_score": 46
   },
   {
-    "id": "e561ba630896",
-    "title": "Anthropic’s newest ad is creeping people out",
-    "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
-    "source": "TechCrunch AI",
+    "id": "cbcc3b79a7eb",
+    "title": "Something’s glowing on the Pixel 11’s camera bar",
+    "url": "https://www.theverge.com/tech/966120/google-pixel-11-camera-bar-teaser",
+    "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-07-14T19:41:27+00:00",
-    "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+    "published": "2026-07-15T18:24:22+00:00",
+    "summary": "A new teaser for Google's upcoming Pixel 11 lineup reveals that the phones will feature some kind of glowing orb on the camera bar, as reported by 9to5Google. Google's store page for the Pixel 11 has a short video that shows the glowing, color-shifting orb to the one side of...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-15-at-11.36.30-AM.png?quality=90&amp;strip=all&amp;crop=0,6.913700090708,100,86.172599818584",
     "tags": [
-      "AI",
-      "Anthropic",
-      "OpenAI",
-      "sam altman"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 36
-  },
-  {
-    "id": "1de4da88f061",
-    "title": "Founder Of $1 Billion Cancer Care Startup Steps Down As CEO",
-    "url": "https://www.forbes.com/sites/innovationrx/2026/07/15/founder-of-1-billion-cancer-care-startup-steps-down-as-ceo/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-15T16:00:00+00:00",
-    "summary": "In this week’s edition of InnovationRx, Thyme Care gets new leadership, the intestinal illness spreads, Chai Discovery confirms its $400 million raise, and more.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a4fd370ddbacd0979b06b12/0x0.jpg?width=960&precrop=806%2C453%2Cx296%2Cy665",
-    "tags": [
-      "Newsletters",
-      "/newsletters-old",
-      "Newsletters",
-      "/newsletters-old",
-      "Innovation"
+      "Google",
+      "Google Pixel",
+      "News",
+      "Tech"
     ],
     "industries": [
       "tech",
+      "telecom",
+      "retail",
       "industrial"
     ],
-    "relevance_score": 20
+    "relevance_score": 19
   },
   {
     "id": "41c98a3b55de",
@@ -475,27 +502,44 @@
     "relevance_score": 43
   },
   {
-    "id": "89d1828b89b8",
-    "title": "TV’s Most Interesting New Show Has A 100% Rotten Tomatoes Score",
-    "url": "https://www.forbes.com/sites/paultassi/2026/07/15/tvs-most-interesting-new-show-has-a-100-rotten-tomatoes-score/",
+    "id": "c4537bcace26",
+    "title": "5 Reasons Metadata Can’t Prove Your Photo—Or Any File—Is Real",
+    "url": "https://www.forbes.com/sites/larsdaniel/2026/07/15/5-reasons-metadata-cant-prove-your-photo-or-any-file-is-real/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-07-15T14:58:44+00:00",
-    "summary": "Many viewers love true crime series, but Amazon has a new one that is unlike anything else in the genre, and it has a 100% Rotten Tomatoes score.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a579f4aa4288aa4d561b0f8/0x0.jpg",
+    "published": "2026-07-15T19:34:12+00:00",
+    "summary": "Metadata was never proof. It is an envelope written in pencil, and every new app and upload pipeline hands someone else an eraser.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57e00c9e0767f7a2ec6b63/0x0.jpg",
     "tags": [
-      "Gaming",
-      "/gaming",
+      "Science",
+      "/science",
       "Innovation",
       "/innovation",
-      "Gaming"
+      "Science"
     ],
     "industries": [
-      "media",
-      "retail",
-      "industrial"
+      "tech"
     ],
-    "relevance_score": 20
+    "relevance_score": 18
+  },
+  {
+    "id": "f7d7f30a05f9",
+    "title": "Indiana Pacers To Guarantee Quenton Jackson Contract For 26-27 Season",
+    "url": "https://www.forbes.com/sites/tonyeast/2026/07/15/indiana-pacers-to-guarantee-quenton-jackson-contract-for-26-27-season/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-15T18:19:55+00:00",
+    "summary": "The Indiana Pacers will not waive the partially-guaranteed contract of guard Quenton Jackson, meaning his deal will be fully guaranteed in 2026-27.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57c405979fac1ffc72a1eb/0x0.jpg?width=960&precrop=1258%2C708%2Cx0%2Cy130",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [],
+    "relevance_score": 18
   },
   {
     "id": "3954f1475c53",
@@ -536,44 +580,45 @@
     "relevance_score": 38
   },
   {
-    "id": "d1ceca30ec93",
-    "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
-    "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-15T15:29:33+00:00",
-    "summary": "Apple Intelligence is headed to China after regulators approved Apple’s AI services through a partnership with Alibaba. The long-rumored deal will bring Alibaba’s Qwen AI models to Apple’s operating systems, marking a major expansion of the company’s generative AI platform...",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2014/10/apple-china.jpg?resize=1200,800",
+    "id": "e55c4ee945cd",
+    "title": "Larry Page’s Fortune Rises Above $300 Billion Amid Alphabet Rally—After Buffett Takes Credit For Berkshire Hathaway Bet",
+    "url": "https://www.forbes.com/sites/tylerroush/2026/07/15/larry-pages-fortune-rises-above-300-billion-amid-alphabet-rally-after-buffett-takes-credit-for-berkshire-hathaway-bet/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-15T16:47:51+00:00",
+    "summary": "Berkshire Hathaway disclosed its first investment in the Google parent last year.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/692473b953e425fb854b2fca/0x0.jpg?width=960&precrop=2249%2C1265%2Cx293%2Cy163",
     "tags": [
-      "AI",
-      "Apple"
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
     ],
     "industries": [
       "tech",
-      "industrial"
+      "industrial",
+      "financial"
     ],
-    "relevance_score": 19
+    "relevance_score": 18
   },
   {
-    "id": "75794f38ffa3",
-    "title": "The Future of Advertising Is Predictive: How Deep Learning Is Transforming Marketing",
-    "url": "https://www.adweek.com/brand-marketing/the-future-of-advertising-is-predictive-how-deep-learning-is-transforming-marketing/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-07-14T14:01:25+00:00",
-    "summary": "Plus, positioning media as the middle, not the end of your marketing process.",
-    "image_url": null,
+    "id": "1e131e86fe34",
+    "title": "Cohere VP says enterprise AI sovereignty requires control of the full agent stack at VB Transform 2026",
+    "url": "https://venturebeat.com/technology/cohere-vp-says-enterprise-ai-sovereignty-requires-control-of-the-full-agent-stack",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-07-15T18:21:02+00:00",
+    "summary": "Hundreds of enterprise leaders and technical experts packed the main ballroom of the luxurious Hotel Nia in Menlo Park this week for VB Transform 2026 , the year's preeminent conference on using generative AI agents to drive business outcomes. Rachad Alao, vice president of...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4e6UBj4MVRN7jC5IMqsQsV/791bfbe0e7b49a1726eceac8fc6736aa/VBTS8125.jpg?w=300&q=30",
     "tags": [
-      "Adspeak",
-      "Adweek Podcasts",
-      "AI News",
-      "Artificial Intelligence",
-      "Software/Technology"
+      "Technology",
+      "VB Transform"
     ],
     "industries": [
-      "media"
+      "industrial"
     ],
-    "relevance_score": 39
+    "relevance_score": 17
   },
   {
     "id": "81d2ebf478b2",
@@ -594,43 +639,126 @@
     "relevance_score": 40
   },
   {
-    "id": "c20f8533b5fe",
-    "title": "OpenAI finally launches hardware… for Codex",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+    "id": "80617c56ae2a",
+    "title": "I Travel 50 Weeks A Year. These Are The Three Pieces Of Luggage I Wouldn’t Leave Home Without.",
+    "url": "https://www.forbes.com/sites/katehardcastle/2026/07/15/i-travel-50-weeks-a-year-these-are-the-three-pieces-of-luggage-i-wouldnt-leave-home-without/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-15T18:05:16+00:00",
+    "summary": "After travelling 50 weeks a year, these are the luggage pieces I trust most: Briggs & Riley, TUMI and NOBL, tested on countless business trips.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57c47b9d61bfa67fdfd65d/0x0.jpg",
+    "tags": [
+      "Retail",
+      "/retail",
+      "Business",
+      "/business",
+      "Retail"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "09cee401aa81",
+    "title": "Thinking Machines Lab Drops Its First Model",
+    "url": "https://www.wired.com/story/thinking-machines-lab-releases-its-first-model-inkling/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-15T18:05:00+00:00",
+    "summary": "Inkling, a 975-billion-parameter open source model, was trained to understand video and audio. It could help Thinking Machines establish itself among competitors like Anthropic and OpenAI.",
+    "image_url": "https://media.wired.com/photos/6a57d5395bdb9adeb6a7d1c2/master/pass/Thinking-Labs-Releasing-Its-First-Open-Weight-Model-Business-2279106900.jpg",
+    "tags": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "artificial intelligence",
+      "OpenAI",
+      "Anthropic"
+    ],
+    "industries": [],
+    "relevance_score": 17,
+    "also_covered_by": [
+      "TechCrunch AI"
+    ]
+  },
+  {
+    "id": "f9aefbd291f8",
+    "title": "AI slop movies are the new direct-to-video cash grabs",
+    "url": "https://www.theverge.com/entertainment/965616/ash-koosha-odysseus-the-fall-foundtain-zero-tilly-norwood",
     "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-07-15T16:00:00+00:00",
-    "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform,...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Supply-Co-Page_Brand.png?quality=90&amp;strip=all&amp;crop=0.42240779401531%2C0%2C99.155184411969%2C100&amp;w=1200",
+    "published": "2026-07-15T20:00:00+00:00",
+    "summary": "This weekend, cinephiles across the world will march to their local theaters to feast their eyes on Christopher Nolan's new adaptation of The Odyssey. It's on track to rake in anywhere between $80-$100 million in just a few days. People are clearly excited to see how Nolan...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-14-at-3.55.09-PM.png?quality=90&amp;strip=all&amp;crop=10.258176757133%2C0%2C79.483646485734%2C100&amp;w=1200",
     "tags": [
       "AI",
-      "Gadgets",
-      "News",
-      "OpenAI"
+      "Entertainment",
+      "Film"
+    ],
+    "industries": [],
+    "relevance_score": 16
+  },
+  {
+    "id": "70fec8a6c74a",
+    "title": "Suno snatched millions of songs from YouTube, Genius, and Deezer",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/966072/suno-ai-music-training-scraping-youtube-hack",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-15T17:48:01+00:00",
+    "summary": "Suno data obtained in a hacking incident has exposed that the AI music generator was trained by scraping millions of songs and lyrics from online audio platforms, including YouTube Music, Deezer, and Genius, 404 Media reports. Given that Suno has avoided revealing what's in...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25383554/STK467_AI_MUSIC_CVirginia_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Law",
+      "Music",
+      "News"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "e561ba630896",
+    "title": "Anthropic’s newest ad is creeping people out",
+    "url": "https://techcrunch.com/2026/07/14/anthropics-newest-ad-is-creeping-people-out/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-14T19:41:27+00:00",
+    "summary": "Anthropic has consistently attempted to depict itself as the ethical foil to other AI companies. This latest marketing stunt — which leans into criticism of AI as a way to make Anthropic seem aware of the responsibility it carries — would appear to be more of the same.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "OpenAI",
+      "sam altman"
     ],
     "industries": [
       "tech"
     ],
-    "relevance_score": 18
+    "relevance_score": 32
   },
   {
-    "id": "d014e04b6789",
-    "title": "JBL’s Flip 7 speaker is small, versatile, and 40 percent off",
-    "url": "https://www.theverge.com/gadgets/965640/jbl-flip-7-nothing-cmf-buds-pro-2-deal-sale",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-15T15:16:53+00:00",
-    "summary": "Sure, Bluetooth speakers are awesome to have for picturesque beach trips, camping weekends, and other outdoor adventures. But they’re just as good to have for some sprinkler time in the yard with the kiddo, or for blasting some tunes or a podcast while you make food. No...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/VERGE-DEALS-DAILY-IMAGE-28.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "id": "89b62555200e",
+    "title": "2026 Open Championship Preview, Full Field And Odds",
+    "url": "https://www.forbes.com/sites/jeffhartman/2026/07/15/2026-open-championship-preview-full-field-and-odds/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-15T17:15:41+00:00",
+    "summary": "Taking a look at the upcoming Open Championship from venue, field, and even picks and predictions. Who will win, and who will place at golf's fourth, and final, major?",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57b8e65e125dedde3194da/0x0.jpg",
     "tags": [
-      "Deals",
-      "Gadgets",
-      "Speakers",
-      "Tech",
-      "Verge Shopping"
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
     ],
     "industries": [],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
     "id": "803ff028e52e",
@@ -665,10 +793,10 @@
     "summary": "Livestream shopping platform Whatnot has acquired AI startup Shaped, a machine learning company focused on real-time recommendations and search. The deal will bolster Whatnot’s personalization and discovery features as it expands into new product categories.",
     "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/Whatnot_AppIcon_Screen.jpg?w=1200",
     "tags": [
-      "Startups",
       "AI",
       "Apps",
       "Commerce",
+      "Startups",
       "e-commerce"
     ],
     "industries": [
@@ -676,25 +804,6 @@
       "retail"
     ],
     "relevance_score": 17
-  },
-  {
-    "id": "ea3aaba4ec0a",
-    "title": "'We have maybe 20 months' to rebuild for AI agents, Meta's infrastructure VP tells VB Transform 2026",
-    "url": "https://venturebeat.com/data/we-have-maybe-20-months-to-rebuild-for-ai-agents-metas-infrastructure-vp-tells-vb-transform-2026",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-07-15T14:59:15+00:00",
-    "summary": "Organizations need to transform to meet the needs of agentic AI. Meta VP of Engineering Barak Yagour opened his talk at VB Transform 2026 wearing a pair of Ray-Ban Meta AI glasses, a small sign of how far AI has already worked its way into physical life. His argument went...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/19jW8usN2lPHbDjqreZFV8/832e43661db109009125e5f3e91a98ca/VBTS6515-X2.jpg?w=300&q=30",
-    "tags": [
-      "Data",
-      "VB Transform"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 18
   },
   {
     "id": "5cbbea4e3c6a",
@@ -716,6 +825,310 @@
     "relevance_score": 49
   },
   {
+    "id": "0227e9982b59",
+    "title": "Superbowl Coach Believes Flag Football’s Olympic Debut A Game Changer",
+    "url": "https://www.forbes.com/sites/timgenske/2026/07/15/superbowl-coach-believes-flag-footballs-olympic-debut-is-a-game-changer/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-15T18:41:55+00:00",
+    "summary": "When the International Olympic Committee approved flag football for the Los Angeles 2028 Olympic Games it represented the culmination of decades of quiet growth globally.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57cf36a7542ea4ee5924da/0x0.jpg?width=960",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "c20f8533b5fe",
+    "title": "OpenAI finally launches hardware… for Codex",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/965901/openai-hardware-codex-micro-launch",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-15T16:00:00+00:00",
+    "summary": "OpenAI is finally releasing some hardware. No, it isn't the mysterious AI-powered device the company is developing with former Apple designer Jony Ive, a project already tangled up in a messy lawsuit. Instead, it's a product designed to be used with its coding platform,...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Supply-Co-Page_Brand.png?quality=90&amp;strip=all&amp;crop=0.42240779401531%2C0%2C99.155184411969%2C100&amp;w=1200",
+    "tags": [
+      "AI",
+      "Gadgets",
+      "News",
+      "OpenAI"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "52d3a1865c12",
+    "title": "Adobe ColdFusion CVE-2026-48282: Exploited in 2 Hours - tech-insider.org",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1kQW5QeXBPSjBDOXJNUG0wV21TcjdXMzRjcFU5ekdnQjZWeGZsVm96TzdEVGVLN2dQNzdJRS1qTzBJb25JcUZSMXMzajBrU05uWjJtNm8zTlBqVmtKMGZFSGpsc0h2THlxVnhDQkprRlVjSGtO?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-07-15T20:16:58+00:00",
+    "summary": "Adobe ColdFusion CVE-2026-48282: Exploited in 2 Hours tech-insider.org",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 15
+  },
+  {
+    "id": "11f2e7009232",
+    "title": "Roblox is shutting down its video chat service",
+    "url": "https://www.theverge.com/games/966181/roblox-connect-video-chat-calling-service-shut-down",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-15T20:02:26+00:00",
+    "summary": "Roblox will be shutting down Roblox Connect, its video calling service introduced in 2023. Roblox Connect let you video chat with other people using your Roblox avatar, which would be able to mimic the movements you were making in real life. You could also run around with...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/5c0b7b15-9367-f7f0-60f5-77c45d313ece.webp?quality=90&amp;strip=all&amp;crop=0,3.4613147178592,100,93.077370564282",
+    "tags": [
+      "Entertainment",
+      "Gaming",
+      "News"
+    ],
+    "industries": [],
+    "relevance_score": 15
+  },
+  {
+    "id": "d1ceca30ec93",
+    "title": "Apple Intelligence approved for launch in China with Alibaba’s Qwen AI",
+    "url": "https://techcrunch.com/2026/07/15/apple-intelligence-approved-for-launch-in-china-with-alibabas-qwen-ai/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-15T15:29:33+00:00",
+    "summary": "The deal, which was rumored to be in the works last year, marks an important step for Apple's AI ambitions in a key market.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2014/10/apple-china.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "alibaba",
+      "Apple",
+      "Apple Intelligence",
+      "qwen"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "a7b99dfe986f",
+    "title": "Hegseth Announces ‘Testosterone Deficiency’ Screening For Soldiers 30 And Over",
+    "url": "https://www.forbes.com/sites/saradorn/2026/07/15/hegseth-announces-testosterone-deficiency-screening-for-soldiers-30-and-over/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-15T17:33:10+00:00",
+    "summary": "Hegseth said soldiers would have the option of receiving testosterone replacement therapy, if it’s recommended.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57c3f9cf3bb2684231e78c/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [],
+    "relevance_score": 16
+  },
+  {
+    "id": "bd67518b6e8d",
+    "title": "U.S. Renews Strikes On Iran As Trump Threatens Civilian Infrastructure",
+    "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/15/us-renews-strikes-on-iran-as-trump-threatens-civilian-infrastructure/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-15T19:46:12+00:00",
+    "summary": "The U.S. has made multiple strikes against Iran in recent weeks over claims it has attacked commercial ships in the Strait of Hormuz.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57e2da657c8a19e40bbf91/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [],
+    "relevance_score": 15,
+    "also_covered_by": [
+      "Wall Street"
+    ]
+  },
+  {
+    "id": "402c744137c8",
+    "title": "CORTIS Member Keonho To Make Adjustments Due To Injury For Upcoming Concerts",
+    "url": "https://www.forbes.com/sites/laurasirikul/2026/07/15/cortis-member-keonho-to-make-adjustments-due-to-injury-for-upcoming-concerts/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-15T19:35:46+00:00",
+    "summary": "CORTIS's Keonho suffered a fall which resulted in the fracture of his little fingers. Due to this injury, he will be making adjustments in his upcoming performance.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57dd5d9b05bbff67cc35e1/0x0.jpg?width=960",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "060616c8bf83",
+    "title": "Lucid’s bankruptcy rumor is a bad sign for the EV future",
+    "url": "https://www.theverge.com/transportation/965924/lucids-bankruptcy-rumor-is-a-bad-sign-for-the-ev-future",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-15T17:17:56+00:00",
+    "summary": "Lucid Motors found itself in a tough bind this week, fending off bankruptcy rumors and watching its stock price plunge as a result. The company quickly denied the report, calling it \"completely false\" and pointing to its available free cash flow as evidence that it has enough...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25703429/2042530165.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.388914056989%2C100%2C79.222171886021&amp;w=1200",
+    "tags": [
+      "Business",
+      "Electric Cars",
+      "News",
+      "Transportation"
+    ],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "d960fd706f57",
+    "title": "Photos: ‘The Odyssey’ Red Carpet Premiere In NYC Includes Nolan, Zendaya, Damon And Hathaway",
+    "url": "https://www.forbes.com/sites/timlammers/2026/07/15/photos-the-odyssey-red-carpet-premiere-in-nyc-includes-nolan-zendaya-damon-and-hathaway/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-15T19:31:57+00:00",
+    "summary": "See photos of Christopher Nolan Matt Damon, Zendaya, Anne Hathaway, Tom Holland and several others as they appeared at the U.S. premiere of \"The Odyssey\" in New York City.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57d223979fac1ffc72a1f3/0x0.jpg?width=960&precrop=1668%2C939%2Cx119%2Cy328",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "45f511402596",
+    "title": "Vance Tells Rogan Trump Administration Mishandled The Epstein Files Release",
+    "url": "https://www.forbes.com/sites/conormurray/2026/07/15/vance-tells-rogan-trump-administration-mishandled-the-epstein-files-release/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-15T19:28:33+00:00",
+    "summary": "Vice President JD Vance told podcast host Joe Rogan, an outspoken critic of the administration’s handling of the Epstein files, they should have released documents more quickly.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57de5425fd5a154c313621/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [],
+    "relevance_score": 15
+  },
+  {
+    "id": "dba38c1924d6",
+    "title": "Meet GPT-Red: an LLM super-hacker OpenAI built to make its models safer",
+    "url": "https://www.technologyreview.com/2026/07/15/1140514/meet-gpt-red-an-llm-super-hacker-openai-built-to-make-its-models-safer/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-07-15T17:09:37+00:00",
+    "summary": "OpenAI has built an LLM super-hacker called GPT-Red that it uses as a sparring partner to help its other models boost their defenses against cyberattacks. Last week the company released the latest version of its flagship LLM, GPT-5.6. OpenAI says that training it against...",
+    "image_url": null,
+    "tags": [
+      "Artificial intelligence",
+      "App"
+    ],
+    "industries": [],
+    "relevance_score": 16
+  },
+  {
+    "id": "543c5b8d1cb2",
+    "title": "How Dollar Shave Club uses generative AI to unlock advertising creativity",
+    "url": "https://www.marketingdive.com/news/how-dollar-shave-club-uses-generative-ai-to-unlock-advertising-creativity/825016/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-07-14T13:00:00+00:00",
+    "summary": "Chief Brand and Innovation Officer Laura Higgins explains how the grooming brand is evolving its use of AI in marketing to reassert its brand voice.",
+    "image_url": "https://imgproxy.divecdn.com/equAUmVHLGoteqyrAwm-PhU9JoYoblRcKFuJxUlPR28/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9kc2MtbG93aGFuZ2Vycy5qcGc=.webp",
+    "tags": [],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 36
+  },
+  {
+    "id": "16f95eeb5692",
+    "title": "Entire States Under Air Quality Alerts As Wildfire Smoke Spreads—Here's Where It Could Go Next",
+    "url": "https://www.forbes.com/sites/maryroeloffs/2026/07/15/entire-states-under-air-quality-alerts-as-wildfire-smoke-spreads-heres-where-it-could-go-next/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-15T18:56:24+00:00",
+    "summary": "Wildfire smoke has settled thickly in parts of New York, Connecticut, Wisconsin, Michigan and Minnesota—and it’s heading further south.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57d298e18bb4e6a799fbcf/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [],
+    "relevance_score": 15
+  },
+  {
+    "id": "6d58edc8443c",
+    "title": "Judi Health rebrands PBM arm as Judi Rx, unveils Judi Care unit",
+    "url": "https://www.fiercehealthcare.com/payers/judi-health-rebrands-pbm-arm-judi-rx-unveils-judi-care-unit",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-14T16:40:00+00:00",
+    "summary": "Judi Health is continuing on its rebranding journey and announced on Wednesday that its pharmacy benefit management arm will now operate as Judi Rx.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202025-04-16T100815.299.jpg?VersionId=0zJzNzQ.KUM3YIhJcKlNWQkb3L5kwZCX",
+    "tags": [],
+    "industries": [
+      "consumer",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 32
+  },
+  {
+    "id": "084f73a9fcf7",
+    "title": "Week of July 6 Morning News Ratings: GMA Recaptures Total Viewers Crown",
+    "url": "https://www.adweek.com/tvnewser/week-of-july-6-2026-morning-news-ratings/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-07-15T14:33:42+00:00",
+    "summary": "Today continued to be the No. 1 morning show in the Adults 25-54 demo.",
+    "image_url": null,
+    "tags": [
+      "ABC",
+      "CBS",
+      "Morning Shows",
+      "Mornings",
+      "NBC"
+    ],
+    "industries": [],
+    "relevance_score": 17
+  },
+  {
     "id": "feb4ed9bf5a6",
     "title": "Netflix tries to recapture Stranger Things magic with nostalgic re-release",
     "url": "https://www.theverge.com/entertainment/965980/stranger-things-vhs-edition-netflix",
@@ -735,7 +1148,22 @@
       "media",
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
+  },
+  {
+    "id": "e94bee0882ef",
+    "title": "Pizza Hut serves up nostalgia with latest rewards program push",
+    "url": "https://www.marketingdive.com/news/pizza-hut-serves-up-nostalgia-with-latest-rewards-program-push/825124/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-07-14T13:24:00+00:00",
+    "summary": "The latest iteration of “Hut Originals” includes a value menu, a streetwear collection inspired by the brand’s classic uniforms and a mobile experience.",
+    "image_url": "https://imgproxy.divecdn.com/Ii7EPnzuZ8qacDmtKQpW0ZNB-qbpTwlvjaORxVrStNA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbWFnZTAwMl8yX1B3elJHeW0ucG5n.webp",
+    "tags": [],
+    "industries": [
+      "consumer"
+    ],
+    "relevance_score": 35
   },
   {
     "id": "7e80880c6ee1",
@@ -756,7 +1184,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "798f3b4bb323",
@@ -777,7 +1205,75 @@
     "industries": [
       "media"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
+  },
+  {
+    "id": "399411647718",
+    "title": "AI Isn’t Smarter Than a Baby—Yet",
+    "url": "https://www.wired.com/story/ai-isnt-smarter-than-a-baby-yet/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-15T18:30:00+00:00",
+    "summary": "Babies are tremendous learning machines, and key advances for AI may soon be found in the architecture of their little brains.",
+    "image_url": "https://media.wired.com/photos/6a56a73aa8c3319e5ecf8c80/master/pass/AI-Lab-AI-Still-Isnt-Smarter-Than-a-Baby-Business.jpg",
+    "tags": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "AI Lab",
+      "artificial intelligence",
+      "research"
+    ],
+    "industries": [],
+    "relevance_score": 15
+  },
+  {
+    "id": "a7b2522e5791",
+    "title": "Trust Is the Product: How Salesforce Thinks About Data in the AI Era",
+    "url": "https://www.salesforce.com/blog/salesforce-data-ownership-approach/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-15T18:28:34+00:00",
+    "summary": "In the AI era, the most important question you can ask about your data platform isn’t what it can do — it’s whether it does it with your trust intact. At Salesforce, that…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/image-13.png",
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "cd61a299894d",
+    "title": "Elevance shuts down D.C. Medicaid business, eyes additional exits after passable Q2",
+    "url": "https://www.healthcaredive.com/news/elevance-medicaid-exits-q2-2025-2026-earnings-raise/825217/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-15T14:00:00+00:00",
+    "summary": "Elevance will leave D.C. this summer and is considering other markets to depart, executives said. The company outperformed Wall Street expectations in the second quarter — but not by much, and its stock fell accordingly.",
+    "image_url": "https://imgproxy.divecdn.com/EItwcBVBmdO9AIc_KHDN891zzR4unM-6CbPiyEIF9Ak/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yWDJIQldOLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 17,
+    "also_covered_by": [
+      "Fierce Healthcare"
+    ]
+  },
+  {
+    "id": "3e0c7473c00f",
+    "title": "Judge tosses another No Surprises lawsuit against HaloMD",
+    "url": "https://www.healthcaredive.com/news/judge-dismisses-elevance-no-surprises-lawsuit-georgia-halomd/825327/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-15T18:20:00+00:00",
+    "summary": "It's the third recent legal victory in No Surprises lawsuits for billings intermediary HaloMD, which has also had suits dismissed in California and Texas.",
+    "image_url": "https://imgproxy.divecdn.com/8tDp3FYimw6iTRRiXKf-eSGSrRz7cw3R4sIG7Xb0iAs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDA3OTAwMjY2LmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 15
   },
   {
     "id": "4aec6708857c",
@@ -794,7 +1290,46 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
+  },
+  {
+    "id": "c7ff41578388",
+    "title": "Shipping Choke Points Raise Business Costs Even After The Iran War",
+    "url": "https://www.forbes.com/sites/billconerly/2026/07/15/shipping-choke-points-raise-business-costs-even-after-the-iran-war/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-15T18:01:50+00:00",
+    "summary": "Shipping choke points like Hormuz and Malacca keep raising business costs after the Iran War, forcing companies to pay more for reliable supply chains",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57c9f9cf3bb2684231e78e/0x0.jpg",
+    "tags": [
+      "Leadership Strategies",
+      "/leadership-strategy",
+      "Leadership",
+      "/leadership",
+      "Leadership Strategies"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "6b50365ec551",
+    "title": "Record IPOs Spur Best Wall Street Share Sale Revenue Since 2021 - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxObEpoS2Vaek10TDhveHlWSTNrNVoxQ3pOSFdFaHhib0lNal9rRUVJUktKVTZ3VFRQdk9JT05iWndWaXhGb3hFdzlIX3lxT3NZZThOOS02b25DQ2stVmxiTW1ZdnBwWUc4UDFNWnE5OWc3RnVob1IxenZ3a1hLaFR6cC1kWGRNN0FqSlNSUEpvTEdHR2lwa3o3NE5KY2xNU2VncHRmSVJ4bmpEVGxoR2EtNzVsNEc?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-15T17:53:31+00:00",
+    "summary": "Record IPOs Spur Best Wall Street Share Sale Revenue Since 2021 Bloomberg.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 15,
+    "also_covered_by": [
+      "Banking"
+    ]
   },
   {
     "id": "c55a9eb67d4a",
@@ -809,278 +1344,6 @@
     "industries": [
       "industrial",
       "lifesciences"
-    ],
-    "relevance_score": 17
-  },
-  {
-    "id": "dc8afce1bc73",
-    "title": "Bruno Mars’s Most Recent No. 1 Ties Several Of The Star’s Biggest Hits",
-    "url": "https://www.forbes.com/sites/hughmcintyre/2026/07/15/bruno-marss-most-recent-no-1-ties-several-of-the-stars-biggest-hits/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-15T15:00:00+00:00",
-    "summary": "As it returns to No. 1 on Billboard's Hot R&B/Hip-Hop Songs chart, Bruno Mars's \"I Just Might\" reaches half a year on the tally, tying several of the singer's smashes.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69973f45a44c20775ecee57c/0x0.jpg?width=960",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 17
-  },
-  {
-    "id": "dbf3ff1f8760",
-    "title": "8BitDo’s FlipPad is the most pocketable way to turn your phone into a Game Boy",
-    "url": "https://www.theverge.com/tech/964658/8bitdo-flippad-controller-gamepad-smartphone-price-hands-on-availability",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-15T15:00:00+00:00",
-    "summary": "Both 8BitDo and GameSir announced tiny gamepads designed to turn smartphones into Game Boy-inspired handhelds at CES 2026. GameSir released its Pocket Taco months ago, but the longer wait for 8BitDo's FlipPad has been well worth it. While the Pocket Taco may be a better fit...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/8bitdo_flippad1A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200",
-    "tags": [
-      "Gadgets",
-      "Hands-on",
-      "News",
-      "Reviews",
-      "Tech"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 17
-  },
-  {
-    "id": "543c5b8d1cb2",
-    "title": "How Dollar Shave Club uses generative AI to unlock advertising creativity",
-    "url": "https://www.marketingdive.com/news/how-dollar-shave-club-uses-generative-ai-to-unlock-advertising-creativity/825016/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-07-14T13:00:00+00:00",
-    "summary": "Chief Brand and Innovation Officer Laura Higgins explains how the grooming brand is evolving its use of AI in marketing to reassert its brand voice.",
-    "image_url": "https://imgproxy.divecdn.com/equAUmVHLGoteqyrAwm-PhU9JoYoblRcKFuJxUlPR28/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9kc2MtbG93aGFuZ2Vycy5qcGc=.webp",
-    "tags": [],
-    "industries": [
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 36
-  },
-  {
-    "id": "6d58edc8443c",
-    "title": "Judi Health rebrands PBM arm as Judi Rx, unveils Judi Care unit",
-    "url": "https://www.fiercehealthcare.com/payers/judi-health-rebrands-pbm-arm-judi-rx-unveils-judi-care-unit",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-14T16:40:00+00:00",
-    "summary": "Judi Health is continuing on its rebranding journey, and announced on Wednesday that its pharmacy benefit management arm will now operate as Judi Rx.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202025-04-16T100815.299.jpg?VersionId=0zJzNzQ.KUM3YIhJcKlNWQkb3L5kwZCX",
-    "tags": [],
-    "industries": [
-      "consumer",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 32
-  },
-  {
-    "id": "e94bee0882ef",
-    "title": "Pizza Hut serves up nostalgia with latest rewards program push",
-    "url": "https://www.marketingdive.com/news/pizza-hut-serves-up-nostalgia-with-latest-rewards-program-push/825124/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-07-14T13:24:00+00:00",
-    "summary": "The latest iteration of “Hut Originals” includes a value menu, a streetwear collection inspired by the brand’s classic uniforms and a mobile experience.",
-    "image_url": "https://imgproxy.divecdn.com/Ii7EPnzuZ8qacDmtKQpW0ZNB-qbpTwlvjaORxVrStNA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbWFnZTAwMl8yX1B3elJHeW0ucG5n.webp",
-    "tags": [],
-    "industries": [
-      "consumer"
-    ],
-    "relevance_score": 35
-  },
-  {
-    "id": "497aa7c1e7c6",
-    "title": "‘FIFA’s Princess’? Why Some Accuse FIFA Of Favoring Lionel Messi In World Cup",
-    "url": "https://www.forbes.com/sites/conormurray/2026/07/15/fifas-princess-why-some-accuse-fifa-of-favoring-lionel-messi-in-world-cup/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-15T16:27:24+00:00",
-    "summary": "Some World Cup fans have accused FIFA of favoring Argentina, the defending World Cup champions, and its star player, billionaire Lionel Messi.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57b164492c5b3f5be56920/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 16,
-    "also_covered_by": [
-      "Wired"
-    ]
-  },
-  {
-    "id": "454e4a922552",
-    "title": "Trump’s Intel Nominee Jay Clayton Won’t Say Biden Won, But Insists He’s ‘Not An Election Denier’",
-    "url": "https://www.forbes.com/sites/saradorn/2026/07/15/trumps-intel-nominee-jay-clayton-wont-say-biden-won-but-insists-hes-not-an-election-denier/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-15T16:22:30+00:00",
-    "summary": "Clayton testified before the Senate Intelligence committee Wednesday as part of his confirmation hearings as Trump’s new director of national intelligence.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57b35fa20c1c47dde1e057/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "9fe6b6cefcef",
-    "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
-    "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-15T16:20:18+00:00",
-    "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2022/07/windows-zero-day-exploit.jpg?resize=1200,833",
-    "tags": [
-      "AI",
-      "Security",
-      "cyberattack",
-      "cybersecurity",
-      "sharepoint"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "0069ac994440",
-    "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
-    "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-15T12:00:00+00:00",
-    "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/emergent-co-founders-madhav-jha-mukund-jha.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Startups",
-      "Claypond",
-      "Creaegis",
-      "emergent"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 18
-  },
-  {
-    "id": "cceae4412835",
-    "title": "X Games Will Test New Scooter, Men’s Skateboard Park Best Trick Events",
-    "url": "https://www.forbes.com/sites/michellebruton/2026/07/15/x-games-will-test-new-scooter-mens-skateboard-park-best-trick-events/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-15T16:00:00+00:00",
-    "summary": "X Games is launching \"Spotlight Events\" to test new disciplines. Two new events, Scooter Park Best Trick and Men's Skateboard Park Best Trick, will debut in late July.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5677bf0afd99e6000f57fb/0x0.jpg?width=960&precrop=2475%2C1393%2Cx0%2Cy257",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [],
-    "relevance_score": 16
-  },
-  {
-    "id": "a25d8d08109e",
-    "title": "Bath & Body Works launches in Brazil",
-    "url": "https://www.retaildive.com/news/bath-body-works-launches-brazil-international-expansion/825238/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-07-15T15:40:00+00:00",
-    "summary": "The retailer debuted its first store in the country in São Paulo as international growth remains a driving force for its transformation strategy.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "29ba80d9cfc6",
-    "title": "Bon Jovi Returns To Rock At Madison Square Garden After 4-Year Performance Hiatus",
-    "url": "https://www.forbes.com/sites/davidchiu/2026/07/15/bon-jovi-returns-to-rock-at-madison-square-garden-after-4-year-performance-hiatus/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-15T15:30:49+00:00",
-    "summary": "The New Jersey hard rock band played Night Four of their residency in New York City.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a568f4e5197dc7e138e7897/0x0.jpg",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [],
-    "relevance_score": 16
-  },
-  {
-    "id": "b6616619782f",
-    "title": "Daylight saving time is a step closer to becoming permanent in the US",
-    "url": "https://www.theverge.com/policy/965952/daylight-saving-time-permanent-us-house",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-15T15:29:37+00:00",
-    "summary": "The US is getting closer to observing daylight saving time year-round. On Tuesday, the House advanced the Sunshine Protection Act on a 308 to 117 vote, which would turn clocks one hour ahead permanently, as reported by CBS News. President Donald Trump wrote on Truth Social in...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-1249107929.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.735668116289%2C100%2C78.528663767422&amp;w=1200",
-    "tags": [
-      "News",
-      "Policy",
-      "Politics",
-      "Science"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "603bc46e854e",
-    "title": "The Avocado Oil Boom Has A Fraud Problem, New Study Suggests",
-    "url": "https://www.forbes.com/sites/maryroeloffs/2026/07/15/the-avocado-oil-boom-has-a-fraud-problem-new-study-suggests/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-15T15:17:16+00:00",
-    "summary": "A new study says consumers are being fooled by products claiming to be made with avocado oil, an ingredient often cited as a healthier alternative to other vegetable oils.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a579e24c029507797f42611/0x0.jpg?width=960&precrop=1767%2C993%2Cx1233%2Cy566",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [
-      "industrial"
     ],
     "relevance_score": 16
   },
@@ -1104,25 +1367,20 @@
     "relevance_score": 17
   },
   {
-    "id": "ff11f64547c0",
-    "title": "Hasbro Releases First ‘KPop Demon Hunters’ Role-Playing Toys",
-    "url": "https://www.forbes.com/sites/timlammers/2026/07/15/hasbro-releases-first-kpop-demon-hunters-role-playing-toys/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-15T15:03:01+00:00",
-    "summary": "\"KPop Demon Hunters\" fans can act like Rumi, Mira and Zoey’s with the release of Hasbro’s first official role-playing toys based on the blockbuster Netflix animated film.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a571add6b9da8dac147c57c/0x0.jpg?width=960",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
+    "id": "59d13d6b07f8",
+    "title": "340B drug purchases hit at least $100B in 2025, administrator reports",
+    "url": "https://www.fiercehealthcare.com/providers/340b-drug-purchases-hit-least-100b-2025-administrator-reports",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-15T12:41:00+00:00",
+    "summary": "The tally reflects a 23% increase over 2024, another substantial escalation in scale for the subsidy program critics say is being abused by large nonprofit hospitals.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202024-09-30T152618.938.jpg?VersionId=yGsg2jWo5vzdWJOoBfCScWPA0n6vYJFH",
+    "tags": [],
     "industries": [
-      "media"
+      "industrial",
+      "lifesciences"
     ],
-    "relevance_score": 16
+    "relevance_score": 17
   },
   {
     "id": "ff511c889740",
@@ -1140,47 +1398,239 @@
     "relevance_score": 38
   },
   {
-    "id": "99774ba3672f",
-    "title": "The Motorola Edge 70 Max is all about power",
-    "url": "https://www.theverge.com/tech/965884/motorola-edge-70-max-qi2-wireless-price-availability",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-15T12:18:22+00:00",
-    "summary": "Motorola has launched the Edge 70 Max, its latest flagship phone that's designed for power intensive tasks like streaming video and mobile gaming. Alongside having a huge battery and rapid wired charging support, the Motorola Edge 70 Max is the first Android phone to support...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Motorola-Edge-70-Max-hero.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "id": "497aa7c1e7c6",
+    "title": "‘FIFA’s Princess’? Why Some Accuse FIFA Of Favoring Lionel Messi In World Cup",
+    "url": "https://www.forbes.com/sites/conormurray/2026/07/15/fifas-princess-why-some-accuse-fifa-of-favoring-lionel-messi-in-world-cup/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-15T16:27:24+00:00",
+    "summary": "Some World Cup fans have accused FIFA of favoring Argentina, the defending World Cup champions, and its star player, billionaire Lionel Messi.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57b164492c5b3f5be56920/0x0.jpg?width=960",
     "tags": [
-      "Mobile",
-      "Motorola",
-      "News",
-      "Tech"
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
     ],
     "industries": [
-      "media",
+      "industrial"
+    ],
+    "relevance_score": 15,
+    "also_covered_by": [
+      "Wired"
+    ]
+  },
+  {
+    "id": "454e4a922552",
+    "title": "Trump’s Intel Nominee Jay Clayton Won’t Say Biden Won, But Insists He’s ‘Not An Election Denier’",
+    "url": "https://www.forbes.com/sites/saradorn/2026/07/15/trumps-intel-nominee-jay-clayton-wont-say-biden-won-but-insists-hes-not-an-election-denier/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-15T16:22:30+00:00",
+    "summary": "Clayton testified before the Senate Intelligence committee Wednesday as part of his confirmation hearings as Trump’s new director of national intelligence.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57b35fa20c1c47dde1e057/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "9fe6b6cefcef",
+    "title": "Microsoft patches record number of security vulnerabilities, citing its use of AI",
+    "url": "https://techcrunch.com/2026/07/15/microsoft-patches-record-number-of-security-vulnerabilities-citing-its-use-of-ai/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-15T16:20:18+00:00",
+    "summary": "Microsoft's monthly release of security fixes, dubbed Patch Tuesday, resolved a record 570 security vulnerabilities across the company's product line, thanks to discoveries with AI.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2022/07/windows-zero-day-exploit.jpg?resize=1200,833",
+    "tags": [
+      "AI",
+      "Security",
+      "cyberattack",
+      "cybersecurity",
+      "In Brief"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "0069ac994440",
+    "title": "Indian AI coding startup Emergent becomes a unicorn with $130M Series C",
+    "url": "https://techcrunch.com/2026/07/15/indian-ai-coding-startup-emergent-becomes-a-unicorn-just-over-a-year-after-launch/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-15T12:00:00+00:00",
+    "summary": "The startup has reached a $120 million annualized revenue run rate and more than 200,000 paying customers.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/emergent-co-founders-madhav-jha-mukund-jha.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Startups",
+      "Claypond",
+      "Creaegis",
+      "emergent"
+    ],
+    "industries": [
       "tech",
       "industrial"
     ],
     "relevance_score": 17
   },
   {
-    "id": "0770ddb07179",
-    "title": "‘The Odyssey’ Has A Near-Perfect Rotten Tomatoes Review Score",
-    "url": "https://www.forbes.com/sites/paultassi/2026/07/15/the-odyssey-has-a-near-perfect-rotten-tomatoes-review-score/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-15T16:37:16+00:00",
-    "summary": "Officially scored The Odyssey reviews are in, and it has earned a wild Rotten Tomatoes score that has set at least a few records.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/693c28d76d5b30bbd50f4676/0x0.jpg?width=960&precrop=834%2C468%2Cx0%2Cy0",
+    "id": "9023146de9de",
+    "title": "Enshittification",
+    "url": "https://www.theverge.com/policy/966111/cyclospora-explosive-diarrhea-parasite-fda-cdc-taco-bell",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-15T18:40:00+00:00",
+    "summary": "Bryan, a food broker from Michigan, wasn't sure if he'd be able to make it to urgent care in time. He started feeling off on Thursday, and by Saturday, he was having to use the bathroom every 15 to 30 minutes. \"It's no joke about the explosive diarrhea,\" Bryan, who asked that...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Reaching-for-a-square.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
     "tags": [
-      "Gaming",
-      "/gaming",
-      "Innovation",
-      "/innovation",
-      "Gaming"
+      "Health",
+      "Policy",
+      "Report",
+      "Science"
     ],
     "industries": [
-      "media"
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "7eadaaa7e1ac",
+    "title": "Todd Blanche Says ‘Sorry’ To Epstein Victims—But Defends DOJ—In Testy Confirmation Hearing",
+    "url": "https://www.forbes.com/sites/alisondurkee/2026/07/15/todd-blanche-says-sorry-to-epstein-victims-but-defends-doj-in-testy-confirmation-hearing/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-15T18:37:40+00:00",
+    "summary": "Blanche told senators he “is” Trump’s lawyer—before quickly correcting himself and saying, “was his lawyer.”",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a579123a20c1c47dde1e04e/0x0.jpg?width=960&precrop=3078%2C1731%2Cx0%2Cy0",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [],
+    "relevance_score": 14
+  },
+  {
+    "id": "12b7377e6957",
+    "title": "Final Major League Pickleball Waiver Period Plus This Week’s Trade Analysis",
+    "url": "https://www.forbes.com/sites/toddboss/2026/07/15/final-major-league-pickleball-waiver-period-plus-this-weeks-trade-analysis/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-15T18:09:18+00:00",
+    "summary": "The final waiver period was a dud, but the trade market stays active for the Major League Pickleball's 2026 season.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57cb95e18bb4e6a799fbc7/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [],
+    "relevance_score": 14
+  },
+  {
+    "id": "a25d8d08109e",
+    "title": "Bath & Body Works launches in Brazil",
+    "url": "https://www.retaildive.com/news/bath-body-works-launches-brazil-international-expansion/825238/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-07-15T15:40:00+00:00",
+    "summary": "The retailer debuted its first store in the country in São Paulo as international growth remains a driving force for its transformation strategy.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail"
     ],
     "relevance_score": 15
+  },
+  {
+    "id": "b6616619782f",
+    "title": "Daylight saving time is a step closer to becoming permanent in the US",
+    "url": "https://www.theverge.com/policy/965952/daylight-saving-time-permanent-us-house",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-15T15:29:37+00:00",
+    "summary": "The US is getting closer to observing daylight saving time year-round. On Tuesday, the House advanced the Sunshine Protection Act on a 308 to 117 vote, which would turn clocks one hour ahead permanently, as reported by CBS News. President Donald Trump wrote on Truth Social in...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-1249107929.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.735668116289%2C100%2C78.528663767422&amp;w=1200",
+    "tags": [
+      "News",
+      "Policy",
+      "Politics",
+      "Science"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "3ee4d9821110",
+    "title": "Why Capital Is Fleeing AdTech at Precisely the Wrong Moment",
+    "url": "https://www.adweek.com/dealroom/why-capital-is-fleeing-adtech-at-precisely-the-wrong-moment/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-07-15T13:11:03+00:00",
+    "summary": "The capital exists, so does the conviction. What is missing is a model that can price where innovation actually comes from.",
+    "image_url": null,
+    "tags": [
+      "Dealroom",
+      "Premium"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "8217e14eb6e8",
+    "title": "NuScale Power Stock Has 195% Upside, According to This Wall Street Analyst - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNajN6RFVYN0NEcDktYXJQM2pPYkNXdGlrX3lhMm1MUTJTN00zTGF4X0Z3d3htNFpYWVF3QVhTYVBDT2locFBhNEgwNnpUTTJicmFnWDVQOXNHTVUxMDluZGtJNVhjeE9paWFaMjBFWW93dnRDSmlmRFB0N0taQ3N1Nktfc243clJzbWhOYUVYWHBsRlIxUVlWNVdlTQ?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-15T17:35:00+00:00",
+    "summary": "NuScale Power Stock Has 195% Upside, According to This Wall Street Analyst Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "29f4ab98d1ec",
+    "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
+    "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-15T17:00:34+00:00",
+    "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Suno_1.png?resize=1200,600",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "Security",
+      "In Brief",
+      "suno"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 14
   },
   {
     "id": "1f563a0c52b3",
@@ -1201,28 +1651,28 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
-    "id": "9581c6c1c04b",
-    "title": "‘The Odyssey’ Rotten Tomatoes Reviews Say Nolan Epic Hits A Homer",
-    "url": "https://www.forbes.com/sites/timlammers/2026/07/15/the-odyssey-rotten-tomatoes-reviews-say-nolan-epic-hits-a-homer/",
+    "id": "0770ddb07179",
+    "title": "‘The Odyssey’ Has A Near-Perfect Rotten Tomatoes Review Score",
+    "url": "https://www.forbes.com/sites/paultassi/2026/07/15/the-odyssey-has-a-near-perfect-rotten-tomatoes-review-score/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-07-15T16:18:51+00:00",
-    "summary": "Christopher Nolan’s \"The Odyssey,\" starring Matt Damon, Anne Hathaway, Tom Holland and Zendaya, is being showered with praise by Rotten Tomatoes critics.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a579ec53c7be79e177689fb/0x0.jpg?width=960",
+    "published": "2026-07-15T16:37:16+00:00",
+    "summary": "Officially scored The Odyssey reviews are in, and it has earned a wild Rotten Tomatoes score that has set at least a few records.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/693c28d76d5b30bbd50f4676/0x0.jpg?width=960&precrop=834%2C468%2Cx0%2Cy0",
     "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
+      "Gaming",
+      "/gaming",
+      "Innovation",
+      "/innovation",
+      "Gaming"
     ],
     "industries": [
       "media"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "e50077978698",
@@ -1241,7 +1691,28 @@
       "Premium"
     ],
     "industries": [],
-    "relevance_score": 17
+    "relevance_score": 16
+  },
+  {
+    "id": "9581c6c1c04b",
+    "title": "‘The Odyssey’ Rotten Tomatoes Reviews Say Nolan Epic Hits A Homer",
+    "url": "https://www.forbes.com/sites/timlammers/2026/07/15/the-odyssey-rotten-tomatoes-reviews-say-nolan-epic-hits-a-homer/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-15T16:18:51+00:00",
+    "summary": "Christopher Nolan’s \"The Odyssey,\" starring Matt Damon, Anne Hathaway, Tom Holland and Zendaya, is being showered with praise by Rotten Tomatoes critics.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a579ec53c7be79e177689fb/0x0.jpg?width=960&precrop=2132%2C1198%2Cx210%2Cy423",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 14
   },
   {
     "id": "7bd026bb0a90",
@@ -1250,8 +1721,8 @@
     "source": "Forbes Business",
     "source_category": "marketing",
     "published": "2026-07-15T16:00:53+00:00",
-    "summary": "The Odyssey review: Christopher Nolan delivers a visually stunning adaptation of Homer’s epic with standout performances, breathtaking IMAX visuals and emotional depth.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57404b6b9da8dac147c580/0x0.jpg",
+    "summary": "Christopher Nolan delivers a visually stunning adaptation of Homer’s epic \"The Odyssey\" with standout performances, breathtaking IMAX visuals and emotional depth.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57404b6b9da8dac147c580/0x0.jpg?width=960&precrop=2463%2C1386%2Cx364%2Cy312",
     "tags": [
       "Hollywood & Entertainment",
       "/hollywood-entertainment",
@@ -1260,267 +1731,20 @@
       "Hollywood & Entertainment"
     ],
     "industries": [],
-    "relevance_score": 15
-  },
-  {
-    "id": "bae6ba144f06",
-    "title": "London's Luxury Hotel Boom Has Created An Unexpected Winner: Boutique Hotels",
-    "url": "https://www.forbes.com/sites/paulaconway/2026/07/15/londons-luxury-hotel-boom-has-created-an-unexpected-winner-boutique-hotels/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-15T16:00:00+00:00",
-    "summary": "London’s luxury hotel boom is reshaping the capital. Inside L’oscar London, a theatrical boutique hotel showing why intimacy and character still matter",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a56804ab69df999fcfaa036/0x0.jpg?width=960",
-    "tags": [
-      "Travel",
-      "/travel",
-      "Lifestyle",
-      "/lifestyle",
-      "Travel"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "18950e3aa138",
-    "title": "Sade Brings Multiple Albums Back To The Charts Thanks To A Special Reissue",
-    "url": "https://www.forbes.com/sites/hughmcintyre/2026/07/15/sade-brings-multiple-albums-back-to-the-charts-thanks-to-a-special-reissue/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-15T15:45:00+00:00",
-    "summary": "Sade's debut full-length Diamond Life returns to multiple charts in the U.K. after Rough Trade released a transparent vinyl of the decades-old set.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/67bf8e45492534640636d8e0/0x0.jpg?width=960",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [],
-    "relevance_score": 15
-  },
-  {
-    "id": "b71c4520260f",
-    "title": "Best Buy revamps C-suite ahead of CEO change",
-    "url": "https://www.retaildive.com/news/best-buy-revamps-c-suite-leadership-incoming-ceo-jason-bonfig/825287/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-07-15T15:32:00+00:00",
-    "summary": "Several company veterans were named to new leadership positions as incoming chief Jason Bonfig charts out the retailer's future.",
-    "image_url": "https://imgproxy.divecdn.com/gr1MV7prswL4Qzmz9cKkNlbqZAEV_EUW0AB78VK1dPQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTcyNzc2MTI1LmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "d702d6bc9579",
-    "title": "A Practitioner’s Guide to AI-Assisted Org Discovery: Map the Org Before You Build",
-    "url": "https://www.salesforce.com/blog/ai-assisted-salesforce-org-discovery-map-before-you-build/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-15T15:31:33+00:00",
-    "summary": "Part one of this two-part series walks through four discovery domains: custom objects, automation dependencies, integration touchpoints, and antipatterns.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/Blog-Images-3.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "804b4ec77158",
-    "title": "Macy’s Inc. taps Kering Beauté exec to lead Bluemercury",
-    "url": "https://www.retaildive.com/news/macys-inc-taps-kering-beaute-exec-CEO-bluemercury/825269/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-07-15T15:26:00+00:00",
-    "summary": "Alexandre Choueiri was CEO and president of the Americas, the largest region for the L'Oréal-aligned luxury beauty business.",
-    "image_url": "https://imgproxy.divecdn.com/ajoGSjnOZny8WoSiOJhYJDJrf_5WR3CgPKzW6mNzhyI/g:nowe:0:0/c:1280:723/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ibHVlbTEuanBlZw==.webp",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "b93313074856",
-    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
-    "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-15T13:10:47+00:00",
-    "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-564946817.jpg?resize=1200,675",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "Startups",
-      "ai services",
-      "Anthropic"
-    ],
-    "industries": [],
-    "relevance_score": 16
-  },
-  {
-    "id": "a86015f7f1bf",
-    "title": "Energy Executives Rate Power Sources For Data Center Revolution",
-    "url": "https://www.forbes.com/sites/ianpalmer/2026/07/15/energy-executives-rate-power-sources-for-data-center-revolution/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-15T15:11:17+00:00",
-    "summary": "Investment in data centers is growing exponentially. Solar PV and batteries dominate the power source ratings by executives, but natural gas is not far behind.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a579c363c7be79e177689f7/0x0.jpg?width=960",
-    "tags": [
-      "Energy",
-      "/energy",
-      "Business",
-      "/business",
-      "Energy"
-    ],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "afdcd6ac4385",
-    "title": "Illinois's Crypto Tax Could Tax You Even If You Lose Money",
-    "url": "https://www.forbes.com/sites/nathangoldman/2026/07/15/illinoiss-crypto-tax-could-tax-you-even-if-you-lose-money/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-15T15:07:01+00:00",
-    "summary": "Illinois is the first state to impose a crypto tax, even ones that lose money. Here's what the Digital Asset Tax Act does and who it affects.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57a0af3c7be79e177689ff/0x0.jpg",
-    "tags": [
-      "Taxes",
-      "/taxes",
-      "Money",
-      "/money",
-      "Taxes"
-    ],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "b28dd89c422b",
-    "title": "'Extremely Troubled': Read Judge's Scathing Criticism Of Todd Blanche In IRS Case",
-    "url": "https://www.forbes.com/sites/conormurray/2026/07/15/extremely-troubled-read-judges-scathing-criticism-of-todd-blanche-in-irs-case/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-15T14:38:02+00:00",
-    "summary": "A federal judge issued a scathing ruling in Trump’s IRS settlement case denouncing Acting Attorney General Todd Blanche, whose confirmation hearing is Wednesday, earlier this week, criticizing “disingenuous” statements he made to Congress.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a579b12d0c0360349a9e5a9/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "29f4ab98d1ec",
-    "title": "Hack suggests AI music generator Suno scraped YouTube for training data",
-    "url": "https://techcrunch.com/2026/07/15/hack-suggests-ai-music-generator-suno-scraped-youtube-for-training-data/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-15T17:00:34+00:00",
-    "summary": "The hacker used an employee's credentials to access source code, which revealed how Suno scraped decades of audio.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Suno_1.png?resize=1200,600",
-    "tags": [
-      "AI",
-      "Media & Entertainment",
-      "suno"
-    ],
-    "industries": [
-      "industrial"
-    ],
     "relevance_score": 14
   },
   {
-    "id": "c24fae70fd39",
-    "title": "Walmart bets on AI and digital twins to shape its supply chain strategy",
-    "url": "https://www.retaildive.com/news/walmart-supply-chain-strategy-ai-digital-twins/825162/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-07-15T14:21:00+00:00",
-    "summary": "The technology helps the retailer get products around the world, despite global conflict or weather challenges, Walmart's Indira Uppuluri said.",
-    "image_url": "https://imgproxy.divecdn.com/9nPbAgIis3yCQ-7_rmHITGsp5IjCVGELnp-KxTQkr-Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS80YTQyMjMzNC1jYjhkLTRiYmMtYjVhZi0zMTg1NDQ0YWZhZmYuanBn.webp",
+    "id": "e97943d143bf",
+    "title": "NYC Click-to-Cancel Rule: What It Means for Adobe Users - Fstoppers",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNUUFWeHVYMWFsbGppQUFMNWowZTlpUWdOMzhJLWlWMXlwZlNBQ1FFRG5OaHpUVDF1bUl4UG93LTl5NG9kcUI1MzAtNW5yeUd2TWIzQkRaRGo5ZlI5SElZOTJsQmRDeTN0MlUwVDNWc2JXWTZNbmZhZjJlcWtranFyYzNzWm5SYmFMcXhhZDNhRkVoMmtDQ1FVc2pXalRTZThreUE?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-07-15T18:26:25+00:00",
+    "summary": "NYC Click-to-Cancel Rule: What It Means for Adobe Users Fstoppers",
+    "image_url": null,
     "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "1a7d961964a8",
-    "title": "Home Depot’s viral 12-foot skeleton now talks",
-    "url": "https://www.theverge.com/tech/964051/home-depot-halloween-skelly-skeleton-12-foot-mobile-app-sounds",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-15T12:00:00+00:00",
-    "summary": "The Home Depot is once again upgrading its 12-foot-tall skeleton to help keep the viral piece of Halloween decor popular as spooky season creeps closer. Skelly is borrowing some of the tech introduced in the smaller 6.5-foot Ultra Skelly last year, including letting you speak...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/skelly1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
-    "tags": [
-      "Entertainment",
-      "Gadgets",
-      "News",
-      "Tech"
-    ],
     "industries": [],
-    "relevance_score": 16
-  },
-  {
-    "id": "bcf5348c5c4c",
-    "title": "Todd Blanche Says ‘Sorry’ To Epstein Victims—But Defends DOJ—In Testy Confirmation Hearing (Live Updates)",
-    "url": "https://www.forbes.com/sites/alisondurkee/2026/07/15/todd-blanche-says-sorry-to-epstein-victims-but-defends-doj-in-testy-confirmation-hearing-live-updates/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-15T16:35:12+00:00",
-    "summary": "Blanche told senators he “is” Trump’s lawyer—before quickly correcting himself and saying, “was his lawyer.”",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a579123a20c1c47dde1e04e/0x0.jpg?width=960&precrop=3078%2C1731%2Cx0%2Cy0",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [],
-    "relevance_score": 14
-  },
-  {
-    "id": "e5dfe0f1921e",
-    "title": "Kathy Ruemmler Calls Epstein A ‘Masterful Liar’ And Defends ‘Irreverent’ Conversations With Him In Congressional Testimony",
-    "url": "https://www.forbes.com/sites/alisondurkee/2026/07/15/kathy-ruemmler-calls-epstein-a-masterful-liar-and-defends-irreverent-conversations-with-him-in-congressional-testimony/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-15T15:55:09+00:00",
-    "summary": "The Epstein files show Ruemmler receiving lavish gifts and frequently conversing with “Uncle Jeffrey.”",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a578ac3492c5b3f5be5691e/0x0.jpg?width=960&precrop=1633%2C919%2Cx100%2Cy179",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "a26dd6e73cd9",
@@ -1542,285 +1766,95 @@
     "relevance_score": 17
   },
   {
-    "id": "5ecf851e43d8",
-    "title": "The tiniest MMO",
-    "url": "https://www.theverge.com/entertainment/965621/playdate-mmo-pointlessquest",
-    "source": "The Verge",
+    "id": "b93313074856",
+    "title": "Anthropic, Blackstone bet the next trillion-dollar AI business is implementation, not just models",
+    "url": "https://techcrunch.com/2026/07/15/anthropic-blackstone-bet-the-next-trillion-dollar-ai-business-is-implementation-not-models/",
+    "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-07-15T13:00:00+00:00",
-    "summary": "At its peak, around 12 million people subscribed to World of Warcraft so that they could explore the realm of Azeroth together. The audience for PointlessQuest is quite a bit smaller. On launch day, the game hit a peak of 15 concurrent players… and no, that sentence isn't...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_00027-copy.jpg?quality=90&amp;strip=all&amp;crop=0,6.369982547993,100,87.260034904014",
+    "published": "2026-07-15T13:10:47+00:00",
+    "summary": "Anthropic-backed Ode launches as AI labs bet that embedding forward-deployed engineers inside enterprises is the key to accelerating enterprise AI adoption.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2022/05/GettyImages-564946817.jpg?resize=1200,675",
     "tags": [
-      "Entertainment",
-      "Gaming",
-      "Report"
+      "AI",
+      "Enterprise",
+      "Startups",
+      "ai services",
+      "Anthropic"
     ],
-    "industries": [
-      "industrial"
-    ],
+    "industries": [],
     "relevance_score": 15
   },
   {
-    "id": "232a87a73b04",
-    "title": "IBM Stock: What Wall Street Is Watching Next After 25% Tumble - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOYXExbllHN2UtMkxGR1Z5VFB4UjBHUGVPWkZsQzVxVE5lVGIxdDhyWmVqQkgwNWlMdElyNllTNjBiMkZVSlNnaFZRcWIwc3RJTlZLSEJsLThzdW0wWF9YOHVtYmtHSHlnOVNjTmtOODFOWW5pNlJScDhCWTRvN1lLOGVFS1lQd0tYRlpZOGJabUk?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-15T15:22:00+00:00",
-    "summary": "IBM Stock: What Wall Street Is Watching Next After 25% Tumble Investor's Business Daily",
-    "image_url": null,
+    "id": "b71c4520260f",
+    "title": "Best Buy revamps C-suite ahead of CEO change",
+    "url": "https://www.retaildive.com/news/best-buy-revamps-c-suite-leadership-incoming-ceo-jason-bonfig/825287/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-07-15T15:32:00+00:00",
+    "summary": "Several company veterans were named to new leadership positions as incoming chief Jason Bonfig charts out the retailer's future.",
+    "image_url": "https://imgproxy.divecdn.com/gr1MV7prswL4Qzmz9cKkNlbqZAEV_EUW0AB78VK1dPQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTcyNzc2MTI1LmpwZw==.webp",
     "tags": [],
     "industries": [
-      "financial"
-    ],
-    "relevance_score": 14,
-    "also_covered_by": [
-      "Biotech"
-    ]
-  },
-  {
-    "id": "0b9b9df1c2b5",
-    "title": "Secrets Of A Zen Entrepreneur",
-    "url": "https://www.forbes.com/sites/forbesbooksauthors/2026/07/15/secrets-of-a-zen-entrepreneur/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-15T15:11:05+00:00",
-    "summary": "Entrepreneurs focus on the business while postponing life. The Zen Entrepreneur knows it's possible to do both, ensuring true harmony between our work and our life.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57a1c6e56c1aa6e97c2811/0x0.jpg",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "business"
-    ],
-    "industries": [],
-    "relevance_score": 14
-  },
-  {
-    "id": "d3807723fdd3",
-    "title": "The Best Google Home Speaker (2026)",
-    "url": "https://www.wired.com/story/best-google-home-speaker/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-15T10:32:00+00:00",
-    "summary": "There’s now only one worth buying—but you can still access new features on older models you might already own.",
-    "image_url": "https://media.wired.com/photos/6a566fa9172a7c9e12eeae10/master/pass/The-WIRED-Guide-to-Buying-A-Google-Smart-Speaker.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Buying Guides",
-      "Gear / Products / Smart Home",
-      "Google",
-      "Shopping"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "6d12edc584c2",
-    "title": "The Internet Bubble And AI",
-    "url": "https://www.forbes.com/sites/forbesbooksauthors/2026/07/15/the-internet-bubble-and-ai/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-15T14:46:37+00:00",
-    "summary": "AI does have a compelling pitch. But today, the way it’s being implemented seems to be pushing consumers and the general public away.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a579c2aec65dfb27d6d11a9/0x0.jpg",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "business"
-    ],
-    "industries": [
+      "retail",
       "industrial"
     ],
     "relevance_score": 14
   },
   {
-    "id": "df1187cdea67",
-    "title": "RainFocus Integrations with Adobe Automate Event Data Sync and Centralize Brand Assets - PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOQ0w5em01YVlYVGZCUUY1UFdJeWNNRUNjTmRkX095QUktMWdVUHhEOXNnQXI4NjV5Q3RFWXhSQkhwQlhBUkpBcFJiWWltNGRTT285RHRjR0Q0S1dGS1Jld0pjRGpISUFfUVU3RjMtWV9oMWV1S2ZoUlM4ZV8tQkZXODVRS2RwQUVBNU1yXzRnaURHVWw5c0Z3em5nZlBsU19XbGVjUkFqTk9OcWFxMW13ZUozaldlSHRUcktHRXhKaDdGblRTWjFNaXpUT1BNYzdyYWU3QTlCQ25tZw?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-07-14T13:30:00+00:00",
-    "summary": "RainFocus Integrations with Adobe Automate Event Data Sync and Centralize Brand Assets PR Newswire",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "consumer"
-    ],
-    "relevance_score": 29
-  },
-  {
-    "id": "3de96aa1d988",
-    "title": "Buffett Calls Gates’ Epstein Ties ‘Distasteful’—But Found Nothing ‘Beyond What I Could Picture Myself Doing’",
-    "url": "https://www.forbes.com/sites/tylerroush/2026/07/15/buffett-calls-gates-epstein-ties-distasteful-but-found-nothing-beyond-what-i-could-picture-myself-doing/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-15T14:31:14+00:00",
-    "summary": "“While he made mistakes,” Buffett said of his longtime friend, “I made mistakes.”",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5791a007eb391e3390f0a1/0x0.jpg?width=960&precrop=2611%2C1470%2Cx177%2Cy38",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [],
-    "relevance_score": 14
-  },
-  {
-    "id": "331878bc86b9",
-    "title": "An Inventor of Apple’s FaceID Wants to Analyze Your Brain’s Health With AI",
-    "url": "https://www.wired.com/story/the-apple-faceid-veteran-building-a-frontier-ai-model-for-the-human-brain/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-15T12:00:00+00:00",
-    "summary": "Gidi Littwin’s new AI startup, Hemispheric, makes diagnostic brain scans for conditions like depression, PTSD, and Parkinson’s. He wants the technology to be as cheap and easy as for a blood test.",
-    "image_url": "https://media.wired.com/photos/6a5639acbebf57977f2b4f6b/master/pass/AppleIDBrainScan.jpg",
-    "tags": [
-      "Science",
-      "Science / Biotech",
-      "artificial intelligence",
-      "machine learning",
-      "Neuroscience"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "884ce616f2f7",
-    "title": "Elevance Health's stock slides premarket even as it beats the Street with $1.5B in Q2 profit",
-    "url": "https://www.fiercehealthcare.com/payers/elevance-healths-stock-slides-premarket-even-it-beats-street-15b-q2-profit",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-15T07:23:00+00:00",
-    "summary": "Elevance Health is kicking off another round of quarterly earnings results for major insurers, posting $1.5 billion in profit for Q2.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2211161233.jpg?VersionId=BMeTdkqQzEngMSmJ.ntx2Gky1QIbtLIN",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 17
-  },
-  {
-    "id": "2d6531fc5d06",
-    "title": "Wall Street's Top Six Banks Show Collective Improvement in Q2 Earnings: Goldman Sachs' Profits Surge 8%, SpaceX IPO Emerges as the \"Strongest Catalyst\" - odaily.news",
-    "url": "https://news.google.com/rss/articles/CBMiT0FVX3lxTE9YNGdQaFd1aFlvRlowSlowVXd4SFV3UmVUanBzX3pzQi1nVE1WcWhFU3hqblJNNGRpaG5GTzlKLXFkeDYzaXRPQm1KOFpHNms?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-07-15T11:14:28+00:00",
-    "summary": "Wall Street's Top Six Banks Show Collective Improvement in Q2 Earnings: Goldman Sachs' Profits Surge 8%, SpaceX IPO Emerges as the \"Strongest Catalyst\" odaily.news",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 15,
-    "also_covered_by": [
-      "Wall Street",
-      "MIT Technology Review",
-      "Telecom 5G"
-    ]
-  },
-  {
-    "id": "c2c29855fb11",
-    "title": "Breaking Down the Stack: Browser-Bound vs. Headless Architecture",
-    "url": "https://www.salesforce.com/blog/headless-architecture-vs-browser-bound/",
+    "id": "d702d6bc9579",
+    "title": "A Practitioner’s Guide to AI-Assisted Org Discovery: Map the Org Before You Build",
+    "url": "https://www.salesforce.com/blog/ai-assisted-salesforce-org-discovery-map-before-you-build/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-07-15T16:08:11+00:00",
-    "summary": "Maximize your AI investments with a headless architecture. Here’s how.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_2051918047.jpeg",
+    "published": "2026-07-15T15:31:33+00:00",
+    "summary": "Part one of this two-part series walks through four discovery domains: custom objects, automation dependencies, integration touchpoints, and antipatterns.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/Blog-Images-3.png",
     "tags": [],
     "industries": [
-      "financial"
+      "industrial"
     ],
+    "relevance_score": 14
+  },
+  {
+    "id": "2f6f3a9e3d02",
+    "title": "Adobe (ADBE) Experiences Positive Momentum with Increased Tradin - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNa3NwNW82c2dacVR3cUtlREFkdERvenh2RFVyN0I2R1BoTk1SaW5iMkdqQ1Q1ZGcxVWxOU2ZjTW00NVBFT1dVblp0X0tnTHBrNmVFWWUxVFZGc0k2MGU4V1dTZFZsRnJIN0dxSDdsaU82c0VNcXRlbmlQeEFyUWJrdW9XdlZFMmsxaVJndjBvS0NROVQwblhaQmVpazFUaUtpVXpiYjl3RHNZM3EwSjFSaA?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-07-15T18:03:53+00:00",
+    "summary": "Adobe (ADBE) Experiences Positive Momentum with Increased Tradin GuruFocus",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
     "relevance_score": 13
   },
   {
-    "id": "2f25e5e9c483",
-    "title": "MSI Claw 8 EX AI+ Review: Great Power, Shocking Price",
-    "url": "https://www.wired.com/review/msi-claw-8-ex-ai/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-15T11:00:00+00:00",
-    "summary": "But with great power comes a great price.",
-    "image_url": "https://media.wired.com/photos/6a560346a97dd358c78df6c6/master/pass/MSI%20Claw%20Review.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Reviews",
-      "Gear / Products / Gaming",
-      "Reviews",
-      "video games"
+    "id": "0dc5e5204a34",
+    "title": "Bipartisan House bill tying doc pay to inflation earns resounding applause from providers",
+    "url": "https://www.fiercehealthcare.com/providers/bipartisan-house-bill-tying-doc-pay-inflation-earns-resounding-applause-providers",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-15T15:28:00+00:00",
+    "summary": "Less than a day after a draft rule outlining reimbursement cuts for 2027, heads of the GOP and Democratic Doctors Caucuses introduced a sweeping physician pay overhaul featuring wish list items from primary care capitated payments to mandatory model changes.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-469042289.jpg?VersionId=M6T4784Sb7vAjK4U2O87AE7jLYab1Yq7",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences",
+      "financial"
     ],
-    "industries": [],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
-    "id": "17114dad0c0d",
-    "title": "4 Best Personal Safety Alarms: Garmin, Sabre, & More (2026)",
-    "url": "https://www.wired.com/gallery/the-best-personal-safety-alarms-and-gadgets-for-every-situation/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-15T10:33:00+00:00",
-    "summary": "Make some noise for safety with our favorite alarms, from keychain sirens to wearable bracelets.",
-    "image_url": "https://media.wired.com/photos/6a5669d326e9b49c3a93d074/master/pass/The-Best-Personal-Safety-Alarms-and-Gadgets-for-Every-Situation.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Buying Guides",
-      "Gear / Products / Lifestyle",
-      "Gear / Products / Outdoor",
-      "Shopping"
-    ],
-    "industries": [],
-    "relevance_score": 15
-  },
-  {
-    "id": "1a00aac09780",
-    "title": "Publisher ad supply fell by up to 40% in Q2 as AI search choked the open web",
-    "url": "https://digiday.com/media/publisher-ad-supply-fell-by-up-to-40-in-q2-as-ai-search-choked-the-open-web/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-07-15T04:01:00+00:00",
-    "summary": "Publisher ad supply fell by up to 40% in Q2 of 2026 as AI‑era, zero‑click search choked the flow of traffic to news and other open‑web sites, per U.S. and U.K. benchmarking data from Ozone, shared exclusively with Digiday.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/01/uncertain-spend-digiday.jpg",
-    "tags": [
-      "Media"
-    ],
-    "industries": [],
-    "relevance_score": 18
-  },
-  {
-    "id": "9c90b098176a",
-    "title": "Future of TV Briefing: The M&A match game (summer 2026 edition)",
-    "url": "https://digiday.com/future-of-tv/future-of-tv-briefing-the-ma-match-game-summer-2026-edition/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-07-15T04:01:00+00:00",
-    "summary": "This week’s Future of TV Briefing looks at the M&A deals that should be in the offing after an active first half of 2026.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2021/01/FOTV-02.jpg",
-    "tags": [
-      "Future of TV",
-      "Digiday+"
-    ],
-    "industries": [],
-    "relevance_score": 18
-  },
-  {
-    "id": "81ebb219fa5f",
-    "title": "Simplify Security Visibility with Security Center Essentials",
-    "url": "https://www.salesforce.com/blog/simplify-security-visibility-with-security-center-essentials/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-15T12:38:45+00:00",
-    "summary": "Simplify Salesforce security with Security Center Essentials. Learn how to track Health Check scores, audit integrations, and monitor IP ranges in one place.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_1887518112.jpg",
+    "id": "804b4ec77158",
+    "title": "Macy’s Inc. taps Kering Beauté exec to lead Bluemercury",
+    "url": "https://www.retaildive.com/news/macys-inc-taps-kering-beaute-exec-CEO-bluemercury/825269/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-07-15T15:26:00+00:00",
+    "summary": "Alexandre Choueiri was CEO and president of the Americas, the largest region for the L'Oréal-aligned luxury beauty business.",
+    "image_url": "https://imgproxy.divecdn.com/ajoGSjnOZny8WoSiOJhYJDJrf_5WR3CgPKzW6mNzhyI/g:nowe:0:0/c:1280:723/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ibHVlbTEuanBlZw==.webp",
     "tags": [],
     "industries": [
       "industrial"
@@ -1828,77 +1862,40 @@
     "relevance_score": 14
   },
   {
-    "id": "87d67e5f8fae",
-    "title": "Once a Cost-Cutting Move, In-House Agencies Are Now Seen as a Strategic Play",
-    "url": "https://www.adweek.com/agencies/once-a-cost-cutting-move-in-house-agencies-are-now-seen-as-a-strategic-play/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-07-15T09:35:20+00:00",
-    "summary": "New research from the ANA shows that the primary benefit of in-house agencies is shifting",
-    "image_url": null,
+    "id": "26501d81d864",
+    "title": "Inside Ode with Anthropic, the startup betting AI services are the future of enterprise",
+    "url": "https://techcrunch.com/video/inside-ode-with-anthropic-the-startup-betting-ai-services-are-the-future-of-enterprise/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-15T15:00:00+00:00",
+    "summary": "Can a handful of engineers really do the work of an army of consultants? That’s the bet behind Ode with Anthropic — the joint venture dedicated to embedding forward-deployed engineers in enterprise firms, backed by Anthropic, Blackstone, Hellman & Friedman, Goldman Sachs and...",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2018/02/tc-backlight-e1689786273147.png?w=1200",
     "tags": [
-      "Agencies",
-      "In-House Agencies",
-      "Premium"
+      "AI",
+      "Startups",
+      "Anthropic",
+      "Blackstone",
+      "FDE"
     ],
     "industries": [
-      "industrial"
+      "tech",
+      "financial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
-    "id": "261ae1661b6d",
-    "title": "OpenAI Staffers Are Funding a Rival Super PAC to Take on Their Boss",
-    "url": "https://www.wired.com/story/openai-employees-donations-guardrails-alliance-leading-the-future/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-15T09:00:00+00:00",
-    "summary": "OpenAI employees have donated more than $215,000 to a political effort opposing Leading the Future, a group backed by the company’s president, Greg Brockman.",
-    "image_url": "https://media.wired.com/photos/6a554454e782ee66fec754f3/master/pass/OpenAI-Employees-Launch-Super-PAC-to-Push-for-AI-Guardrails-Business-2274040983.jpg",
-    "tags": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "OpenAI",
-      "Regulation",
-      "AI safety"
-    ],
-    "industries": [],
-    "relevance_score": 15
-  },
-  {
-    "id": "432f585c5972",
-    "title": "How To Watch the 2026 FIFA World Cup Semifinals: England vs Argentina",
-    "url": "https://www.wired.com/story/how-to-watch-the-fifa-2026-world-cup-07-15-2026/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-15T09:00:00+00:00",
-    "summary": "The end of the FIFA Men’s World Cup is nigh. Here’s how to watch the final games and the first ever World Cup halftime show.",
-    "image_url": "https://media.wired.com/photos/6a1fe7c1687fab906bddd9be/master/pass/WIRED-WC26-Cristian-Mera-How-To-Watch.png",
-    "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / How To and Advice",
-      "Sports",
-      "football"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "5daf094b6efe",
-    "title": "Oil Surges Most Since 2020, Reflecting Bet That Strait Won’t Go Back to Normal - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPNzVCclY4ck93WlotZWV5M05ZeXpZbFF0VmhZb1YwQ1A3cHNPdVVTWkUzeTdKMWlwdm80T2RwWFJaTkRZa0lwQWs1dndtWmp2WDBfbEtMMGFpTkRPaE9tSEFFQ0lxOElmRkpjbmc1UVY3ZkNGVV9PcEo1cVVTSzR5ZWJZYl9hUjZoSnAzSXZFQ2VhM2piYWV4YTBJRVF5Y0o3djJuUnI5YUFhaFh1aVdCT0dDTUwwb1VkcC1wTXktRmNxZkIxOGVGbVUyakpRdw?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-15T16:20:07+00:00",
-    "summary": "Oil Surges Most Since 2020, Reflecting Bet That Strait Won’t Go Back to Normal WSJ",
+    "id": "05452abec753",
+    "title": "Salesforce's Agentforce isn't winning over clients, KeyBanc analysts claim - The Register",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUdDRmViLVgwdXJtQ0hDTkJtaGVnbmZfWWtTcnZpRzBnTWwzNjFpekFqd09qWnpmTW00T21fQ3lKLVdZZ1A2bEhURF8xZXpha2M5cXhIQ1JKVWxsbTBqTTQ3WkZlUzdXRm9mYVNSd1pQT0NFVVA1dkV0TG1vS0o4QnZuVkdIc3VkY2xPdWh4Q2lFMnRiSFNwR3dLdmpyRmVpMml0dkR5cHoxdFRCSFIxWXdMdnB4Ulk4R0gzRjM2QzM?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-07-15T17:04:18+00:00",
+    "summary": "Salesforce's Agentforce isn't winning over clients, KeyBanc analysts claim The Register",
     "image_url": null,
     "tags": [],
     "industries": [
       "industrial"
     ],
-    "relevance_score": 12
+    "relevance_score": 13
   }
 ]
