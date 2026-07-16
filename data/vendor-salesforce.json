@@ -12,37 +12,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 39
-  },
-  {
-    "id": "a7b2522e5791",
-    "title": "Trust Is the Product: How Salesforce Thinks About Data in the AI Era",
-    "url": "https://www.salesforce.com/blog/salesforce-data-ownership-approach/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-15T18:28:34+00:00",
-    "summary": "In the AI era, the most important question you can ask about your data platform isn’t what it can do — it’s whether it does it with your trust intact. At Salesforce, that…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/image-13.png",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "81ebb219fa5f",
-    "title": "Simplify Security Visibility with Security Center Essentials",
-    "url": "https://www.salesforce.com/blog/simplify-security-visibility-with-security-center-essentials/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-15T12:38:45+00:00",
-    "summary": "Simplify Salesforce security with Security Center Essentials. Learn how to track Health Check scores, audit integrations, and monitor IP ranges in one place.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_1887518112.jpg",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
+    "relevance_score": 36
   },
   {
     "id": "d702d6bc9579",
@@ -58,6 +28,36 @@
       "industrial"
     ],
     "relevance_score": 13
+  },
+  {
+    "id": "a7b2522e5791",
+    "title": "Trust Is the Product: How Salesforce Thinks About Data in the AI Era",
+    "url": "https://www.salesforce.com/blog/salesforce-data-ownership-approach/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-15T18:28:34+00:00",
+    "summary": "In the AI era, the most important question you can ask about your data platform isn’t what it can do — it’s whether it does it with your trust intact. At Salesforce, that…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/image-13.png",
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "81ebb219fa5f",
+    "title": "Simplify Security Visibility with Security Center Essentials",
+    "url": "https://www.salesforce.com/blog/simplify-security-visibility-with-security-center-essentials/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-15T12:38:45+00:00",
+    "summary": "Simplify Salesforce security with Security Center Essentials. Learn how to track Health Check scores, audit integrations, and monitor IP ranges in one place.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_1887518112.jpg",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 12
   },
   {
     "id": "88587bf30d89",
@@ -178,7 +178,11 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 9
+    "relevance_score": 9,
+    "also_covered_by": [
+      "Banking",
+      "Telecom"
+    ]
   },
   {
     "id": "6241acb93104",
