@@ -1,20 +1,5 @@
 [
   {
-    "id": "1f537084e2a2",
-    "title": "ActiveComply streamlines sales and marketing workflows with Agentforce Sales - Salesforce",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FdjVCVnp0Q01yNHhucmhpQWVudWRHd0lhaGxidmVPcmh6QUNncmxBZlZmRUNHLWxpSGVaX3FldXV0Rk40Y2hwX29KRGoySHhKUFFFX0RCMnpVSElZaEl0TTNtNmhFSk1WSjFjODktdm12b3ZaeFcwTkJBTGw?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-07-15T16:55:14+00:00",
-    "summary": "ActiveComply streamlines sales and marketing workflows with Agentforce Sales Salesforce",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 33
-  },
-  {
     "id": "653abf0edfa7",
     "title": "Storytelling in the AI Era: Bring Authenticity Back to Your Marketing",
     "url": "https://www.salesforce.com/blog/small-business/storytelling-marketing-strategy/",
@@ -42,7 +27,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 19
+    "relevance_score": 18
   },
   {
     "id": "0322188fd38a",
@@ -57,22 +42,20 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
-    "id": "d702d6bc9579",
-    "title": "A Practitioner’s Guide to AI-Assisted Org Discovery: Map the Org Before You Build",
-    "url": "https://www.salesforce.com/blog/ai-assisted-salesforce-org-discovery-map-before-you-build/",
+    "id": "3e28e6e47fe3",
+    "title": "Trust Shouldn’t Be a Product Feature. It Has to Be the Foundation.",
+    "url": "https://www.salesforce.com/blog/data-trust-foundation/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-07-15T15:31:33+00:00",
-    "summary": "Part one of this two-part series walks through four discovery domains: custom objects, automation dependencies, integration touchpoints, and antipatterns.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/Blog-Images-3.png",
+    "published": "2026-07-16T16:20:39+00:00",
+    "summary": "Why enterprise AI success starts with how you protect your data, not just how you use it",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_900122167.jpg",
     "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 12
+    "industries": [],
+    "relevance_score": 13
   },
   {
     "id": "a7b2522e5791",
@@ -88,22 +71,6 @@
       "tech"
     ],
     "relevance_score": 12
-  },
-  {
-    "id": "df14c6461ac7",
-    "title": "Salesforce stock surges 5.2% as Agentforce AI platform monetization accelerates - eciks.org",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQOHowRVhTTm1sRlY1QnBCNDhTc08yb0htSU1QdmlBeXJUTDFYLXlBaENOTU92TG16VjdpaXpCVkZtbFZmcHc1Nm80OXc4OHNibTRxUnBYSnFtbDItQWhuUGhuLUNzakplR2tJekJOcVZVXzR0a2ljRFRuZjVFZXZzZ0dxTQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-07-13T16:58:32+00:00",
-    "summary": "Salesforce stock surges 5.2% as Agentforce AI platform monetization accelerates eciks.org",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 10
   },
   {
     "id": "88587bf30d89",
@@ -149,6 +116,21 @@
     "relevance_score": 10
   },
   {
+    "id": "d702d6bc9579",
+    "title": "A Practitioner’s Guide to AI-Assisted Org Discovery: Map the Org Before You Build",
+    "url": "https://www.salesforce.com/blog/ai-assisted-salesforce-org-discovery-map-before-you-build/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-15T15:31:33+00:00",
+    "summary": "Part one of this two-part series walks through four discovery domains: custom objects, automation dependencies, integration touchpoints, and antipatterns.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/Blog-Images-3.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "c2c29855fb11",
     "title": "Breaking Down the Stack: Browser-Bound vs. Headless Architecture",
     "url": "https://www.salesforce.com/blog/headless-architecture-vs-browser-bound/",
@@ -161,67 +143,6 @@
     "industries": [
       "financial"
     ],
-    "relevance_score": 10
-  },
-  {
-    "id": "05452abec753",
-    "title": "Salesforce's Agentforce isn't winning over clients, KeyBanc analysts claim - The Register",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNUdDRmViLVgwdXJtQ0hDTkJtaGVnbmZfWWtTcnZpRzBnTWwzNjFpekFqd09qWnpmTW00T21fQ3lKLVdZZ1A2bEhURF8xZXpha2M5cXhIQ1JKVWxsbTBqTTQ3WkZlUzdXRm9mYVNSd1pQT0NFVVA1dkV0TG1vS0o4QnZuVkdIc3VkY2xPdWh4Q2lFMnRiSFNwR3dLdmpyRmVpMml0dkR5cHoxdFRCSFIxWXdMdnB4Ulk4R0gzRjM2QzM?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-07-15T17:04:18+00:00",
-    "summary": "Salesforce's Agentforce isn't winning over clients, KeyBanc analysts claim The Register",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "6241acb93104",
-    "title": "Founders: Are Your Tools Franken-Stacked Together? If So, This is For You",
-    "url": "https://www.salesforce.com/blog/small-business/franken-stacked-tools/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-13T13:00:00+00:00",
-    "summary": "If your business runs on a patchwork of disconnected apps, there's a smarter way to work — and it starts with just one tool.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/image_5ff25a.png",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "11bb53359694",
-    "title": "Salesforce Downgraded On Views 'Agentforce, As A Product, Just Isn't There' - Investor's Business Daily",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNd1pRU2h0cXdxX0t0WUw0cXRPT3c2VkpySzk2RTBtTDVyc3NIazVMd2VCVkpyWS1hQ3NGX3NNdmVVeTJRMjdOMHUyRFk3czhOcGVkMWJFcENKLVdFZFJOd25TUHZrbHJVU0xjX0lOUkNCaXhhV3M2dlNBUUFtRTUwY1ZtbEM4eEo2M0IxdU9udlJBVkVRejlXcg?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-07-09T14:31:00+00:00",
-    "summary": "Salesforce Downgraded On Views 'Agentforce, As A Product, Just Isn't There' Investor's Business Daily",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "259c162fd8ff",
-    "title": "Senior Manager, Agentforce for Supply Chain - Salesforce",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZkU3RDNNc0gxbm1MeUpmVTRZeC1QemNHZlZBUnpHcmtzLUhDOHlMc3RfcnNpRW1xZ1FsYkpIZmRSLVdwZ19sRHVlUFhYRVAzdWRqQW1HS1paVmVpR2ZRYjQxMmZkeEtiU2xvNFBPelNtRTQ5aGNfMlFNR084WTJjTGFiX3p0NExMLVRIY1RkQTdfa01xMTNtUmxMUXl3Q1JoalE?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-07-12T07:00:00+00:00",
-    "summary": "Senior Manager, Agentforce for Supply Chain Salesforce",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 5
+    "relevance_score": 9
   }
 ]
