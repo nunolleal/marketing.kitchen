@@ -34,7 +34,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 52
+    "relevance_score": 49
   },
   {
     "id": "241ee9d24f3d",
@@ -51,7 +51,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 48
+    "relevance_score": 45
   },
   {
     "id": "5a78952c4d6b",
@@ -66,6 +66,26 @@
       "Sponsored"
     ],
     "industries": [
+      "retail",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 45
+  },
+  {
+    "id": "308cd95692ca",
+    "title": "WTF is LLM honeypotting?",
+    "url": "https://digiday.com/media/wtf-is-llm-honeypotting/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-07-17T04:01:00+00:00",
+    "summary": "Publishers and ecommerce brands under siege from AI crawlers are starting to fight back with an old security trick updated for the LLM era: “LLM honeypotting.”",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/12/EOY-pub-ai-myths-digiday.jpg",
+    "tags": [
+      "Media"
+    ],
+    "industries": [
+      "media",
       "retail",
       "consumer",
       "industrial"
@@ -94,7 +114,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 40
+    "relevance_score": 36
   },
   {
     "id": "d8ffe3698ab6",
@@ -128,6 +148,26 @@
     "relevance_score": 35
   },
   {
+    "id": "3d7512e82c8b",
+    "title": "Walmart Promo Codes: Up to 65% Off for July 2026",
+    "url": "https://www.wired.com/story/top-walmart-promo-codes/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-17T05:00:00+00:00",
+    "summary": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
+    "image_url": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 19
+  },
+  {
     "id": "a72cd7152521",
     "title": "Walmart touts some of its lowest back-to-school pricing since 2019",
     "url": "https://www.retaildive.com/news/walmarts-touts-low-pricing-back-to-school-assortment/825412/",
@@ -143,67 +183,40 @@
     "relevance_score": 16
   },
   {
-    "id": "fcebd3c3030e",
-    "title": "Back-To-School Spending Is Up And So Are Parents' Expectations",
-    "url": "https://www.forbes.com/sites/naveenjaggi/2026/07/16/back-to-school-spending-is-up-and-so-are-parents-expectations/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-16T19:36:49+00:00",
-    "summary": "JLL's 2026 Back-to-School Shopping Report reveals budgets are growing, but parents are redefining what value looks like in today's retail environment.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/68824d91a27c29a61e8e83e2/0x0.jpg?width=960",
-    "tags": [
-      "Retail",
-      "/retail",
-      "Business",
-      "/business",
-      "Retail"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "bc78b4f92fa1",
-    "title": "Trump May Target China In Primetime Election Security Speech: What We Know",
-    "url": "https://www.forbes.com/sites/saradorn/2026/07/16/trump-may-target-china-in-primetime-election-security-speech-what-we-know/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-16T20:14:00+00:00",
-    "summary": "“It doesn’t get bigger, because without free and fair elections, you don’t have a country,” Trump said earlier this week when previewing the address.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5682228a4eabe0b4343dc8/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "6ccca45cdd7e",
-    "title": "Stagwell is building its own AI media curation marketplace",
-    "url": "https://digiday.com/media-buying/stagwell-is-building-its-own-ai-media-curation-marketplace/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "id": "c9297eceeb37",
+    "title": "Walmart reveals soccer fans’ World Cup shopping habits",
+    "url": "https://digiday.com/marketing/walmart-reveals-soccer-fans-world-cup-shopping-habits/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
     "source": "Digiday",
     "source_category": "marketing",
-    "published": "2026-07-16T04:01:00+00:00",
-    "summary": "The challenger holdco is developing an AI-powered pool of curated ad inventory for clients. Here’s how it’s supposed to work.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/03/ad-tech-revenues-digiday.jpg",
+    "published": "2026-07-17T04:01:00+00:00",
+    "summary": "New data is from Walmart is showing that consumer shopping habits shifted during the 2026 World Cup.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/06/sponsored-soccer-digiday.001_c170ca.jpeg",
     "tags": [
-      "Media Buying"
+      "Marketing"
     ],
     "industries": [
-      "media",
-      "retail",
-      "industrial"
+      "retail"
     ],
-    "relevance_score": 13
+    "relevance_score": 16
+  },
+  {
+    "id": "a2f4fbcbee46",
+    "title": "Verizon layoffs: Company to cut 500 jobs as it sells 274 retail stores; 3,000 employees affected - Storyboard18",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNWV85NzZjVVJZd3ozRWdydG1saDRLOXIyaXZzdHVTMFVkUFpheU9EOUY3NXhZMFVqblVybFJlMUlKSFhVcFJQcDNSSVc5UXhKNm82LTg2SlZkZFg5UXZEU2xOZGZUa2RfQk44bUx6al96NktVa2FkbHVHeVhPaktPc3NHaEV0bExPRXo1aVk2c1d5ZUQ0SWFmdGpRV2JZVFplcHFTYXpQY0h6emMxNHVMWFEtWnhodDF5YzRDRXRyX214WDQxbnR6WUVESko5S3RFS3hnOGFLSnBhWGRkMWo1ZGVpUdIB6AFBVV95cUxNLWtCQjMwYTFDN3hpRFVEWG0ydWEyOG85WDV1UERQWkNnTGJHOGVDTnU0WVhSMi12RGlaTE1kUnluQTdPZkJLYm1EVXo5WTNJV01Ibi1BSS12blBocWFxWFB2T25sYVgzWkEtN3hVN2lyOHRJRUxpY3ZoZ3Y3Q3Awd2ZmZFl6cnhVcmk3N0xWS3lvQ1kwUWs1QTl0cW9NNUduNlZyT3JkWXpEc2I1Nlp2ZUlPMVRHMzZQbXFnR0ZQRlFENjBkOHVtbHF1OTdrdmxCMDV3YUJfMTRxQ2tyV3c5QkdZQlVwWkxE?oc=5",
+    "source": "Telecom",
+    "source_category": "industry_telecom",
+    "published": "2026-07-17T03:42:16+00:00",
+    "summary": "Verizon layoffs: Company to cut 500 jobs as it sells 274 retail stores; 3,000 employees affected Storyboard18",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "telecom",
+      "retail"
+    ],
+    "relevance_score": 14,
+    "also_covered_by": [
+      "Telecom 5G"
+    ]
   },
   {
     "id": "f40f21a3f6d4",
@@ -222,6 +235,28 @@
     ],
     "industries": [
       "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "bc78b4f92fa1",
+    "title": "Trump May Target China In Primetime Election Security Speech: What We Know",
+    "url": "https://www.forbes.com/sites/saradorn/2026/07/16/trump-may-target-china-in-primetime-election-security-speech-what-we-know/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-16T20:14:00+00:00",
+    "summary": "“It doesn’t get bigger, because without free and fair elections, you don’t have a country,” Trump said earlier this week when previewing the address.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5682228a4eabe0b4343dc8/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [
       "retail",
       "industrial"
     ],
@@ -267,98 +302,6 @@
     "relevance_score": 12
   },
   {
-    "id": "5b1067ba5162",
-    "title": "US wireless carrier Verizon to sell 274 stores, lay off another 500 corporate employees - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNemlQd01lTG5VZ2FvT0JHQ3JOcThPQkt2aFNLUDJQSGl3UUR4ajMxdUdrNzUzenlLdFhMN2d1WDZ4SkhxWFpIcXFMQXFieV9CX2hqRFdmbnd2TVd1NS1Bc1dSRDRUdnFZUmhWXy1VdTdYaXRfY2hpWFVaNWRsODA3eV90MjFTdU1vemNhODkwWktYT3JwbzBaRWRmSDRnNl8yY2VaNXRjdEdmZ1JQYUtJZHdZMHduWXhfYjl5WGZVRQ?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-07-16T21:55:26+00:00",
-    "summary": "US wireless carrier Verizon to sell 274 stores, lay off another 500 corporate employees Reuters",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "retail"
-    ],
-    "relevance_score": 12,
-    "also_covered_by": [
-      "Telecom",
-      "Wall Street"
-    ]
-  },
-  {
-    "id": "21fd62543ad5",
-    "title": "Nation’s largest wireless carrier cutting 3,000 workers, divesting itself of hundreds of stores - NJ.com",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOEZONmZQbTZYS01UMUhmYnhPTnMxQXpRaFhUdlBHWHlpTXhaY2ZNV1Vkc2NNLWdPM0h4RkVpU3UzcU50dXFKYmpwYXJMMGRrMVMzbUZ6TjdSSzFsMmVYeENnbTlyUVBrVE85a3NxRDh4X1dfemc3S3NqVnRTUVNZUG52M1ZibFEwUWEwSXVMV1YweGI0QncyQl91dG1qRGdFbkkwSjl3N1NYaXBaLTl2Y0pPY1dyUFhHZ3hHZnY0ZGd6czJRbElhONIB3AFBVV95cUxOWlR2Xzdxd3lNMFdmTEZiRklaT0ZuaEpaclNlM3l4X1FVR2tUdXBJZWlGOUZPREEyQlpCTTNqMTl1NnVWMS0zV2hDRHNZLUx6eG5MLXlMb3ZDSWpnRXZzZXIyeUhROFQ4SmJEVV9rREpEZ29obk5UVUVsakVpTGJHd2NWR1E0MEJFRi13bVJsZ2xZTTB3TG45LU9ERUxZb3hBdHB2RFhkZnpQNlBYdW1KMkg4SXg0b1piczdjUDR3c3p3bEtQR1M4Z0tEeGViejdYbWxpbEJrd0hMUXlF?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-07-16T22:00:00+00:00",
-    "summary": "Nation’s largest wireless carrier cutting 3,000 workers, divesting itself of hundreds of stores NJ.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "314ca1c32844",
-    "title": "Ad Tech Briefing: Private equity’s ad tech playbook returns",
-    "url": "https://digiday.com/media-buying/ad-tech-briefing-private-equitys-ad-tech-playbook-returns/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-07-14T04:01:00+00:00",
-    "summary": "Plus how the IAB is seeking to modernize how digital video inventory is defined, bought and measured.",
-    "image_url": null,
-    "tags": [
-      "Media Buying",
-      "Digiday+"
-    ],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "b0e6d32f95ea",
-    "title": "‘Future of targeting’: Media agencies tentatively explore vector-based planning",
-    "url": "https://digiday.com/media-buying/future-of-targeting-media-agencies-tentatively-explore-vector-based-planning/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-07-14T04:01:00+00:00",
-    "summary": "Vector-based targeting is ‘very experimental’, but could offer AI-forward advertisers a better way of directing media buys.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/08/programmatic-buy-digiday.jpg",
-    "tags": [
-      "Media Buying"
-    ],
-    "industries": [
-      "media",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "d580bb99a449",
-    "title": "Digital video ad spending is booming — trust in premium inventory isn’t",
-    "url": "https://digiday.com/marketing/digital-video-ad-spending-is-booming-trust-in-premium-inventory-isnt/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-07-15T04:01:00+00:00",
-    "summary": "Digital video ad spend continues to climb, but buyers say bigger budgets bring tougher questions about inventory quality, supply chain transparency.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/01/ctv-fractured-digiday.jpg",
-    "tags": [
-      "Marketing"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
     "id": "e8967bafd5cd",
     "title": "Amazon Pharmacy partners with eNavvi to provide real-time medication pricing, delivery info to providers",
     "url": "https://www.fiercehealthcare.com/retail/amazon-pharmacy-partners-enavvi-provide-real-time-medication-pricing-delivery-info-providers",
@@ -391,13 +334,32 @@
     "relevance_score": 11
   },
   {
-    "id": "d0041c950654",
-    "title": "Trends Report 2026: AI, subscriptions and digital payments reshape Asia Pacific e-commerce - Bluefield Daily Telegraph",
-    "url": "https://news.google.com/rss/articles/CBMigAJBVV95cUxQSHdfbjFzcjlmVlBhUVIyZkdXWnRYRlRINWdkZDhBcmR1clFienZXMkphaE9JbzRvWTJZMTFvZTVHelpwdzNzRGFRZUo4cWdPekZwaC1sVjNpeFVHTHJHVE5EUE11a0hrY09zdmUyMnhBMmdObnJVTWhIelNhUjl1akd5alJheWpqbUY4WHJxSF9KV3p5ZWU4WEgtcnlXdHdOYnRwamI3bTF1RWpIVXhUUG5YMHhwdzJlZmxZb05qT3VkZUwxdUphQXRSbHhOZ0w1VzNBVlVTWWhTMl9LVzFOTHp4dnF5THdaYXhPUDQ5SU5rYmNodGtPUF8wblIzd2hk?oc=5",
+    "id": "6ccca45cdd7e",
+    "title": "Stagwell is building its own AI media curation marketplace",
+    "url": "https://digiday.com/media-buying/stagwell-is-building-its-own-ai-media-curation-marketplace/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-07-16T04:01:00+00:00",
+    "summary": "The challenger holdco is developing an AI-powered pool of curated ad inventory for clients. Here’s how it’s supposed to work.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/03/ad-tech-revenues-digiday.jpg",
+    "tags": [
+      "Media Buying"
+    ],
+    "industries": [
+      "media",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "ccc669ea2a01",
+    "title": "Trends Report 2026: AI, Subscriptions and Digital Payments Reshape Asia Pacific E-commerce - DHL",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQai1OVFItLWRXQjhPMERSWlVlQ2NIbnA4dDRNTUloMXduRkVRSk5Pdjk5bHk4bHh6VXBUSk5qQzR4Vk9tWTh5a0lCZE1CbUpsZXMxdTI2WGx5RUpYQjQ1SlJPLTNJU3NQUzdzd3Q5YkI2eWxsUS0tTmlCYW9VcnBNaWdBaGN4azEzNkw1eXVCQ3hwNWFwWnBFQjVYWmhrSUtFZUtleXpuU1VJTXFMWWlOX0RWNlhfVHlFTDdocnY4SHJ2cGhTdUhGdkhNZUtiUU10ZjNIYkIwbGQycFV1eTYwTzM1Yw?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-07-16T09:30:57+00:00",
-    "summary": "Trends Report 2026: AI, subscriptions and digital payments reshape Asia Pacific e-commerce Bluefield Daily Telegraph",
+    "published": "2026-07-16T14:36:22+00:00",
+    "summary": "Trends Report 2026: AI, Subscriptions and Digital Payments Reshape Asia Pacific E-commerce DHL",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -405,6 +367,42 @@
       "financial"
     ],
     "relevance_score": 11
+  },
+  {
+    "id": "314ca1c32844",
+    "title": "Ad Tech Briefing: Private equity’s ad tech playbook returns",
+    "url": "https://digiday.com/media-buying/ad-tech-briefing-private-equitys-ad-tech-playbook-returns/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-07-14T04:01:00+00:00",
+    "summary": "Plus how the IAB is seeking to modernize how digital video inventory is defined, bought and measured.",
+    "image_url": null,
+    "tags": [
+      "Media Buying",
+      "Digiday+"
+    ],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "d580bb99a449",
+    "title": "Digital video ad spending is booming — trust in premium inventory isn’t",
+    "url": "https://digiday.com/marketing/digital-video-ad-spending-is-booming-trust-in-premium-inventory-isnt/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-07-15T04:01:00+00:00",
+    "summary": "Digital video ad spend continues to climb, but buyers say bigger budgets bring tougher questions about inventory quality, supply chain transparency.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/01/ctv-fractured-digiday.jpg",
+    "tags": [
+      "Marketing"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 10
   },
   {
     "id": "c24fae70fd39",
@@ -440,38 +438,6 @@
     "relevance_score": 10
   },
   {
-    "id": "62136329c5e0",
-    "title": "Verizon shedding stores signals a shift in the way the carrier does business - Android Police",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HS3R0VWdIMjctbVZHMXpOTS1FRTRjV083WUV1ZHhMOW5DRDEyTm9NS3VpNUpqdHJ1bzdDbmRvYS1Rb004ZnUtZUlTOUtMYmpJLW1PVlZiQzZ0T2xaallXNlpkcHg4RUJqMi1mMEZHWXJBX2d1?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-07-16T22:27:56+00:00",
-    "summary": "Verizon shedding stores signals a shift in the way the carrier does business Android Police",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "retail"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "621bbbbbb399",
-    "title": "U.S. Targets Iranian Bridges in Bid to Choke Off Regime’s Supply Routes - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNekY2dUlxSDcyRnNDWWZkelVLTXNTVlhoOVdzaTVVY3NYX2JhWHNRS2VRcTd1T0lGT2Q5OUkxU0xUbTJkUVV3N20xSXQwTmV4N01CR0ZpOElDZHZMc0hxd0JXdFYxeWxpcGFqRVVIUU9JaHJpOUpMb0NUNTBvMktZMDJ1R1hzUlZaMkZ6V1JtMEtTNXRabmN1YXpHN2c0LVBXa3pSNUNIaUU5aU1zeWF4YXdfN0xyQU0?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-16T23:01:00+00:00",
-    "summary": "U.S. Targets Iranian Bridges in Bid to Choke Off Regime’s Supply Routes WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "d5ebddf1ed11",
     "title": "Senate HELP committee grills CDC nominee Erica Schwartz on vaccine policy, resistance to political interference",
     "url": "https://www.fiercehealthcare.com/providers/senate-help-committee-grills-cdc-nominee-erica-schwartz-vaccine-policy-restoring-trust",
@@ -488,33 +454,32 @@
     "relevance_score": 9
   },
   {
-    "id": "1c6d1c4372cb",
-    "title": "Paystack and Pesalink Expand Partnership to Enable Direct Bank Payments on Checkout in Kenya - TechAfrica News",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOamF4NEdTUWg2SDJmNTRoQlNtWUU5c19mNTVWMGl6QkpzcFk0cEh3T2NaVnUyeEo5elVFNEtla2dkNkZQSlNFNTNSTFQ1dEtwMmk0RHN0THpXWkxBblVSb3NxLUdveWFZVEk5cjVTbk5VS0FCV2k5S0NJNVVaMFFPZHdFU0tBNkFud3ZHam5zZTZhaDdMX2JEbjN2ZXNONFg0RThQYzcyc1Z3M0pSZEdEZWsteHF4eUdyR3NvbHRrODF4U0NJSTRTZTNJQQ?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-07-16T13:07:24+00:00",
-    "summary": "Paystack and Pesalink Expand Partnership to Enable Direct Bank Payments on Checkout in Kenya TechAfrica News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "financial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "c7b1b2ae11f0",
-    "title": "SK Telecom AI-RAN Pilot Goes Live as Nokia Targets Double Spectrum Capacity - Tech Times",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcGZMcHlyR0xSWWV6R2Iyb1hKck1YT3ltOF9yZkJZREdWbE91dl9LcHBiNkVSbVlEUjVFYlhmejFTajZFaFFGbkFFQU1DTy0xa19IRjdteVNaMmFWSmJPbzVlLXZCaUZoVk5jbmpfamlXR2dYSTk1Yzl1TW02MkJRbXJjRGJzMGpfbFhBSEtYdWhPc3NSOWdrRFhJd2NQTk9UTGVTbzEwdHlrbjQ0NGVoalN0T0RoMHNmakFYbDV6OFRVNWpNblE?oc=5",
+    "id": "62136329c5e0",
+    "title": "Verizon shedding stores signals a shift in the way the carrier does business - Android Police",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1HS3R0VWdIMjctbVZHMXpOTS1FRTRjV083WUV1ZHhMOW5DRDEyTm9NS3VpNUpqdHJ1bzdDbmRvYS1Rb004ZnUtZUlTOUtMYmpJLW1PVlZiQzZ0T2xaallXNlpkcHg4RUJqMi1mMEZHWXJBX2d1?oc=5",
     "source": "Telecom 5G",
     "source_category": "industry_telecom",
-    "published": "2026-07-16T20:10:22+00:00",
-    "summary": "SK Telecom AI-RAN Pilot Goes Live as Nokia Targets Double Spectrum Capacity Tech Times",
+    "published": "2026-07-16T22:27:56+00:00",
+    "summary": "Verizon shedding stores signals a shift in the way the carrier does business Android Police",
     "image_url": null,
     "tags": [],
     "industries": [
       "telecom",
+      "retail"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "621bbbbbb399",
+    "title": "U.S. Targets Iranian Bridges in Bid to Choke Off Regime’s Supply Routes - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNekY2dUlxSDcyRnNDWWZkelVLTXNTVlhoOVdzaTVVY3NYX2JhWHNRS2VRcTd1T0lGT2Q5OUkxU0xUbTJkUVV3N20xSXQwTmV4N01CR0ZpOElDZHZMc0hxd0JXdFYxeWxpcGFqRVVIUU9JaHJpOUpMb0NUNTBvMktZMDJ1R1hzUlZaMkZ6V1JtMEtTNXRabmN1YXpHN2c0LVBXa3pSNUNIaUU5aU1zeWF4YXdfN0xyQU0?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-16T23:01:00+00:00",
+    "summary": "U.S. Targets Iranian Bridges in Bid to Choke Off Regime’s Supply Routes WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
       "retail",
       "industrial"
     ],
@@ -555,6 +520,39 @@
     "relevance_score": 8
   },
   {
+    "id": "1c6d1c4372cb",
+    "title": "Paystack and Pesalink Expand Partnership to Enable Direct Bank Payments on Checkout in Kenya - TechAfrica News",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxOamF4NEdTUWg2SDJmNTRoQlNtWUU5c19mNTVWMGl6QkpzcFk0cEh3T2NaVnUyeEo5elVFNEtla2dkNkZQSlNFNTNSTFQ1dEtwMmk0RHN0THpXWkxBblVSb3NxLUdveWFZVEk5cjVTbk5VS0FCV2k5S0NJNVVaMFFPZHdFU0tBNkFud3ZHam5zZTZhaDdMX2JEbjN2ZXNONFg0RThQYzcyc1Z3M0pSZEdEZWsteHF4eUdyR3NvbHRrODF4U0NJSTRTZTNJQQ?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-07-16T13:07:24+00:00",
+    "summary": "Paystack and Pesalink Expand Partnership to Enable Direct Bank Payments on Checkout in Kenya TechAfrica News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "financial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "c7b1b2ae11f0",
+    "title": "SK Telecom AI-RAN Pilot Goes Live as Nokia Targets Double Spectrum Capacity - Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOcGZMcHlyR0xSWWV6R2Iyb1hKck1YT3ltOF9yZkJZREdWbE91dl9LcHBiNkVSbVlEUjVFYlhmejFTajZFaFFGbkFFQU1DTy0xa19IRjdteVNaMmFWSmJPbzVlLXZCaUZoVk5jbmpfamlXR2dYSTk1Yzl1TW02MkJRbXJjRGJzMGpfbFhBSEtYdWhPc3NSOWdrRFhJd2NQTk9UTGVTbzEwdHlrbjQ0NGVoalN0T0RoMHNmakFYbDV6OFRVNWpNblE?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-07-16T20:10:22+00:00",
+    "summary": "SK Telecom AI-RAN Pilot Goes Live as Nokia Targets Double Spectrum Capacity Tech Times",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "telecom",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "2e2d5eee4e05",
     "title": "B2B ecommerce is posting real numbers — and operators are taking notice - MarketScale",
     "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxQSll0NDEyc3hoQkZKLTlNb0pnNGwzQUh0Ry12ck0zaGk1MHY1RlU2eHo5X0pkY2hWVTQxSjktRDFleV9aTnFqdjZxR0w2MUpncm15NHl0bDU2MTc5TWx2cU9wVVJUNVRLQ1dGVlRZdS1aWjBtVUNhSXlJVFMzME5NbTlKZlBZMzdOeGNPMFcxNU40cG85bExRVGtvdV9nWFgxaTRkUEFHUHF0Y3VxemkxR2hrOTctamotdk1vLWdTRlV2M1BuYnlXUUJOZnk0Ri1I?oc=5",
@@ -569,23 +567,6 @@
       "industrial"
     ],
     "relevance_score": 7
-  },
-  {
-    "id": "de884b6dd491",
-    "title": "PayPal (PYPL) Gets a Lower Price Target as Digital Payments Face New Challenges - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVnVidFJQS2VnUFludjlBTEZtXzNMajg4bkQ1MGhUM21icG52dWhuM09OM0xFREctWjdlSlVFVzVRNEVLbGluRTh1ZkxuZEtUMFl2M0tDV1NTcFZLTk42ZTREQWpKbzNzWEY3TzUyTTZzcHg0aGdoeGh5dkthMmpyRk9FR2FTZDUzMkVtVnZ2Y2FHOXlDNVZ6aA?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-07-15T09:09:30+00:00",
-    "summary": "PayPal (PYPL) Gets a Lower Price Target as Digital Payments Face New Challenges Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 6
   },
   {
     "id": "a9e2be601500",
