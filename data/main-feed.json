@@ -13,7 +13,7 @@
       "media",
       "industrial"
     ],
-    "relevance_score": 45
+    "relevance_score": 42
   },
   {
     "id": "9d8d40b2adff",
@@ -35,33 +35,17 @@
     "id": "987715cabf7b",
     "title": "Adobe Inc. (ADBE) CMO logs new 31,662 RSU grant and tax withholding - Stock Titan",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNa1VqajBxN1VmeGtvNHFPamdxWmFObzJqM2Z4amZQa18wR1M4U3VXTFpqMU9pR0pCaUx5WE9acy1saDdTa3ZlbVJJWF9odVJKYkIxZWVwWDVKYU5sdUZ6ZG5Ub0dqNFdvdnlGOGVZWTBNY0xhN2tpQnZIOEd0Q3VNU1NKaW9XNG1hZllDTFBoSlpwQ1lyMl9LamFwUjlfU3NXMTNtbmpB?oc=5",
-    "source": "Adobe",
+    "source": "Adobe Inc",
     "source_category": "adobe",
     "published": "2026-07-17T20:24:41+00:00",
     "summary": "Adobe Inc. (ADBE) CMO logs new 31,662 RSU grant and tax withholding Stock Titan",
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 50
-  },
-  {
-    "id": "9f491888d580",
-    "title": "Salesforce’s woes underline marketing’s agentic AI problems",
-    "url": "https://martech.org/salesforces-woes-underline-marketings-agentic-ai-problems/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-07-17T15:00:45+00:00",
-    "summary": "Slow Agentforce adoption highlights the poor data quality and operational readiness limiting enterprise AI adoption. The post Salesforce’s woes underline marketing’s agentic AI problems appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/04/salesforce-logo-with-tech-icons-and-people-around-it-800x450.png",
-    "tags": [
-      "Marketing artificial intelligence (AI)",
-      "Salesforce"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 53
+    "relevance_score": 50,
+    "also_covered_by": [
+      "Adobe"
+    ]
   },
   {
     "id": "b47d2dd7d079",
@@ -83,6 +67,25 @@
     "relevance_score": 55
   },
   {
+    "id": "9f491888d580",
+    "title": "Salesforce’s woes underline marketing’s agentic AI problems",
+    "url": "https://martech.org/salesforces-woes-underline-marketings-agentic-ai-problems/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-07-17T15:00:45+00:00",
+    "summary": "Slow Agentforce adoption highlights the poor data quality and operational readiness limiting enterprise AI adoption. The post Salesforce’s woes underline marketing’s agentic AI problems appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/04/salesforce-logo-with-tech-icons-and-people-around-it-800x450.png",
+    "tags": [
+      "Marketing artificial intelligence (AI)",
+      "Salesforce"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 49
+  },
+  {
     "id": "4374f18d4adb",
     "title": "Netflix says live events bolster ads but affect viewer engagement",
     "url": "https://www.marketingdive.com/news/netflix-says-live-events-bolster-ads-but-affect-viewer-engagement/825515/",
@@ -96,28 +99,7 @@
       "media",
       "industrial"
     ],
-    "relevance_score": 48
-  },
-  {
-    "id": "dd62d442a6eb",
-    "title": "TikTok is testing an AI likeness detection tool",
-    "url": "https://www.theverge.com/tech/967486/tiktok-ai-likeness-detection-tool",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-17T19:34:30+00:00",
-    "summary": "TikTok is starting to test an opt-in tool that scans for AI likenesses and lets creators report them to the company, as spotted by social media consultant Matt Navarra. The tool is initially being tested with \"some\" US creators, TikTok US spokesperson Zachary Kizer tells The...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23951408/STK051_VRG_Illo_N_Barclay_4_tiktok.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "AI",
-      "Creators",
-      "News",
-      "Tech",
-      "TikTok"
-    ],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 39
+    "relevance_score": 44
   },
   {
     "id": "474cbc651f2f",
@@ -139,7 +121,27 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 46
+    "relevance_score": 42
+  },
+  {
+    "id": "06904338046c",
+    "title": "Google is open-sourcing its 3D emoji",
+    "url": "https://www.theverge.com/design/967606/google-open-source-3d-emoji",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-18T16:40:55+00:00",
+    "summary": "Now, if you want to, you can use Google's 3D emoji in your own creations. The company shared some details about how it went about designing the little pictograms and why, as part of World Emoji Day on Friday. Things you might not necessarily worry about in a 2D illustration...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/videoframe_212.png?quality=90&amp;strip=all&amp;crop=0%2C7.7704522439834%2C100%2C84.459095512033&amp;w=1200",
+    "tags": [
+      "Design",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 19
   },
   {
     "id": "b245bb34a4a3",
@@ -154,7 +156,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 42
+    "relevance_score": 38
   },
   {
     "id": "0e96434a6f26",
@@ -170,23 +172,31 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 43
+    "relevance_score": 39
   },
   {
-    "id": "ed52c3dd584a",
-    "title": "Kate Spade focused on ‘reigniting the magic’ with new chief marketer",
-    "url": "https://www.marketingdive.com/news/kate-spade-names-chief-marketing-officer-allison-badea/825558/",
-    "source": "Marketing Dive",
+    "id": "c977659967ea",
+    "title": "Tickets For World Cup Final—The Most Expensive U.S. Sporting Event Ever—Rise 46%",
+    "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/18/tickets-for-world-cup-final-the-most-expensive-us-sporting-event-ever-rise-46/",
+    "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-07-17T16:00:00+00:00",
-    "summary": "L'Oréal veteran Allison Badea has been tapped for the role as the brand faces falling sales and a long turnaround road.",
-    "image_url": "https://imgproxy.divecdn.com/mM5_y4XuAl-yNoO9u64b5F6jpxD57H2W6sb_imvK6TE/g:nowe:0:254/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05Njc4NDY5MjguanBn.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "consumer"
+    "published": "2026-07-18T16:11:34+00:00",
+    "summary": "The cheapest tickets for the final on the secondary market were just shy of $7,000 on Wednesday, with an average ticket price of $11,327, which marked the most expensive sporting event in U.S. history.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5ba3f6ceb3d6e4cb3ca42f/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
     ],
-    "relevance_score": 37
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 18,
+    "also_covered_by": [
+      "Wall Street"
+    ]
   },
   {
     "id": "8757204e5700",
@@ -208,6 +218,26 @@
       "industrial"
     ],
     "relevance_score": 47
+  },
+  {
+    "id": "9bb1e750a506",
+    "title": "GoPro’s discounted Max 2 bundle includes $100 worth of accessories",
+    "url": "https://www.theverge.com/gadgets/967311/gopro-max2-360-degree-action-cam-accessory-bundle-deal-sale",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-18T15:00:00+00:00",
+    "summary": "A 360-degree camera is a great way to ensure you capture every bit of the action, but prices tend to be on the high end for models worth your attention. That’s why it’s notable that the GoPro Max 2 accessory bundle is discounted to $369 at Amazon (a dollar more at Best Buy...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/gopro_max2_2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.740836125969%2C100%2C78.518327748063&amp;w=1200",
+    "tags": [
+      "Cameras",
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 18
   },
   {
     "id": "20d6d6e5bcfa",
@@ -285,21 +315,100 @@
     "relevance_score": 45
   },
   {
-    "id": "111611b763c5",
-    "title": "Brand trust, short-term pressure, and the ROI of creativity: what's reshaping the B2B CMO mandate in 2026 - MarketScale",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxOb2dRSzQxVy1Oejdwd3ZianF6d3NYNTFvQjJ0VXpPRVR0enV2X2pINUtlYi1icG1iYkxMbDZ2a2FvOHZNTnRLTDVvQktRMXlXZWthamRjV0lySlNBZVJveVc2N2k1RVdaYjNxcTlaN2dVX1o3azVuLTJlR1pjeF9TWXB3eWR2VGRjYVFmSG1UN2V2LWtFdkRETlJTU3dMdTBKWUJlOG1fam9xbDJwTzZ3WUtWNEx1cHpkQW1vUWYzRVVKeWw3dGFSdVVmWkcxR2I5dFhvUmwwZ29qNS1FenE3R1NrV0pyaG16S3Fj?oc=5",
-    "source": "Marketing Strategy",
+    "id": "c56c9475a077",
+    "title": "Creed Reaches A Major Chart Milestone With A 20-Year-Old Release",
+    "url": "https://www.forbes.com/sites/hughmcintyre/2026/07/18/creed-reaches-a-major-chart-milestone-with-a-20-year-old-release/",
+    "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-07-17T03:47:00+00:00",
-    "summary": "Brand trust, short-term pressure, and the ROI of creativity: what's reshaping the B2B CMO mandate in 2026 MarketScale",
-    "image_url": null,
+    "published": "2026-07-18T15:00:00+00:00",
+    "summary": "Creed's Greatest Hits has now lived on the Billboard 200 for 200 weeks, a landmark the band reaches for the first time this frame.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/66632df60f8ccd3bccdebeab/0x0.jpg?width=960&precrop=2706%2C1522%2Cx0%2Cy182",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [],
+    "relevance_score": 17
+  },
+  {
+    "id": "a0c07d7b4ed5",
+    "title": "NFL 2026 DFS First Look At DraftKings Main Slate For Week 1",
+    "url": "https://www.forbes.com/sites/gladyslouisetyler/2026/07/18/nfl-2026-dfs-first-look-at-draftkings-main-slate-for-week-1/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-18T12:59:35+00:00",
+    "summary": "The 2026 NFL season is approaching rapidly. Why wait until the last minute to start prepping for your victories? Here is a first look at the DraftKings Main Slate Week 1.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5b746bab0b4dd48492688d/0x0.jpg?width=960",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 18
+  },
+  {
+    "id": "ed52c3dd584a",
+    "title": "Kate Spade focused on ‘reigniting the magic’ with new chief marketer",
+    "url": "https://www.marketingdive.com/news/kate-spade-names-chief-marketing-officer-allison-badea/825558/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-07-17T16:00:00+00:00",
+    "summary": "L'Oréal veteran Allison Badea has been tapped for the role as the brand faces falling sales and a long turnaround road.",
+    "image_url": "https://imgproxy.divecdn.com/mM5_y4XuAl-yNoO9u64b5F6jpxD57H2W6sb_imvK6TE/g:nowe:0:254/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05Njc4NDY5MjguanBn.webp",
     "tags": [],
     "industries": [
       "tech",
-      "consumer",
-      "industrial"
+      "consumer"
     ],
-    "relevance_score": 47
+    "relevance_score": 33
+  },
+  {
+    "id": "a841750d08d8",
+    "title": "Air Quality Alerts Remain In 16 States As Canadian Wildfire Smoke Spreads To Midwest, Northeast",
+    "url": "https://www.forbes.com/sites/maryroeloffs/2026/07/18/air-quality-alerts-remain-in-16-states-as-canadian-wildfire-smoke-spreads-to-midwest-northeast/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-18T14:41:09+00:00",
+    "summary": "The smoke has gotten so bad in some states this week that elected officials demanded answers from Canada, and one senator has even called for sanctions.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5a35ed36905361e1c5d734/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "6919bae971ab",
+    "title": "Bruno Mars Replaces Drake At No. 1 And Makes History",
+    "url": "https://www.forbes.com/sites/hughmcintyre/2026/07/18/bruno-mars-replaces-drake-at-no-1-and-makes-history/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-18T14:15:00+00:00",
+    "summary": "\"I Just Might\" by Bruno Mars returns to No. 1 on Billboard's Hot R&B/Hip-Hop Songs chart, earning a historic nineteenth week at the summit on the competitive tally.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a11a230b7f455ed602b3f5d/0x0.jpg?width=960&precrop=2321%2C1306%2Cx0%2Cy177",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [],
+    "relevance_score": 17
   },
   {
     "id": "179dcacf016c",
@@ -320,6 +429,89 @@
       "retail"
     ],
     "relevance_score": 42
+  },
+  {
+    "id": "3a279ec38498",
+    "title": "The Guardian’s Carter Sherman fondly remembers being terrified by Ocarina of Time",
+    "url": "https://www.theverge.com/report/967583/guardian-carter-sherman-podcast-interview",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-18T14:30:00+00:00",
+    "summary": "Carter Sherman has been covering sex, gender, and the complex personal and national politics that accompany them for years. She was a senior reporter for Vice and has written for Elle, Ms. magazine, and Los Angeles magazine as well. Along the way, she's garnered a Scripps...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/CARTER-FNL-9816-EV3.jpg?quality=90&amp;strip=all&amp;crop=0%2C29.057591623037%2C100%2C41.884816753927&amp;w=1200",
+    "tags": [
+      "Books",
+      "Entertainment",
+      "Interview",
+      "Report"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "6166176b94de",
+    "title": "Inside TNT's Strategy To Win NASCAR Fans After Prime",
+    "url": "https://www.forbes.com/sites/gregengle/2026/07/18/inside-tnts-strategy-to-win-nascar-fans-after-prime/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-18T13:54:31+00:00",
+    "summary": "Amazon Prime changed what NASCAR fans expected from race broadcasts. TNT Sports knew it had to respond, and its answer wasn't imitation. It was authenticity.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5b820336ee0b57cf5d23dc/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "media",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "405321292351",
+    "title": "The Most Important Packers: No. 11 — S Evan Williams",
+    "url": "https://www.forbes.com/sites/robreischel/2026/07/18/the-most-important-packers-no-11---s-evan-williams/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-18T13:48:59+00:00",
+    "summary": "Green Bay Packers safety Evan Williams has enjoyed two highly productive seasons, and is hoping for even more in Year 3.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5b839c458665411fd0c163/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [],
+    "relevance_score": 16
+  },
+  {
+    "id": "5f882890e810",
+    "title": "How Denny Hamlin's Idea Became NASCAR's Summer Success",
+    "url": "https://www.forbes.com/sites/gregengle/2026/07/18/how-denny-hamlins-idea-became-nascars-summer-success/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-18T13:34:51+00:00",
+    "summary": "A podcast pitch became a million-dollar competition and giving fans another reason to watch. Now TNT says NASCAR's In-Season Challenge has become \"a show within a show.\"",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5b7d9f06205400eb13d7ba/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 16
   },
   {
     "id": "c1ec75eee4bd",
@@ -344,33 +536,14 @@
     ]
   },
   {
-    "id": "91c291aab76f",
-    "title": "4 Best Walking Pads for Small Spaces and Standing Desks (2026)",
-    "url": "https://www.wired.com/story/best-walking-pads/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-18T11:03:00+00:00",
-    "summary": "Our remote team clocked serious hours walking, working, and sometimes jogging to find the best under-desk treadmills for home offices and small spaces.",
-    "image_url": "https://media.wired.com/photos/6a5a76cfd582497b4863aa7f/master/pass/The-Best-Walking-Pads-We-Use-to-Stay-Active-During-WFH-Days.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Buying Guides",
-      "Gear / Products",
-      "Gear / Products / Health and Fitness",
-      "Gear / Products / Home Office"
-    ],
-    "industries": [],
-    "relevance_score": 17
-  },
-  {
-    "id": "307d06a73064",
-    "title": "Spielberg’s ‘Disclosure Day’ Streaming Date Nears After Underwhelming $232 Million Box Office Take",
-    "url": "https://www.forbes.com/sites/timlammers/2026/07/18/spielbergs-disclosure-day-streaming-date-nears-after-underwhelming-232-million-box-office-take/",
+    "id": "7cc1c5c6202f",
+    "title": "How AI-Generated Songs Like ‘GG EZ’ Are Taking Over K-Pop Dance Challenges",
+    "url": "https://www.forbes.com/sites/laurasirikul/2026/07/18/how-ai-generated-songs-like-gg-ez-are-taking-over-k-pop-dance-challenges/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-07-18T09:00:00+00:00",
-    "summary": "Steven Spielberg’s alien thriller \"Disclosure Day,\" starring Emily Blunt and Josh O’Connor, is new on digital streaming this week as the film winds down its run at the domestic box office.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5aebee5c31984c1d2a0aee/0x0.jpg?width=960&precrop=3052%2C1715%2Cx0%2Cy0",
+    "published": "2026-07-18T15:30:38+00:00",
+    "summary": "AI-Generated songs have been becoming popularized by viral dance challenges done by global and K-pop artists like Jung Kook, ATEEZ, TXT, ITZY, and more, but do they know?",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5b42ae0f241d9f2ed4bd01/0x0.jpg",
     "tags": [
       "Hollywood & Entertainment",
       "/hollywood-entertainment",
@@ -379,19 +552,19 @@
       "Hollywood & Entertainment"
     ],
     "industries": [
-      "media"
+      "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 15
   },
   {
-    "id": "aecc1c6aa8f4",
-    "title": "At Nearly 42, LeBron James Is More Valuable For NBA And Teams At The Bank Than On The Court",
-    "url": "https://www.forbes.com/sites/terencemoore/2026/07/18/at-nearly-42-lebron-james-is-more-valuable-for-nba-and-teams-at-the-bank-than-on-the-court/",
+    "id": "c2a90bb4abf0",
+    "title": "Savannah Bananas Breakout Star Offers 3-Word Response On Sudden All-Star Health Scare",
+    "url": "https://www.forbes.com/sites/peterchawaga/2026/07/18/savannah-bananas-breakout-star-offers-3-word-response-on-sudden-all-star-health-scare/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-07-18T10:15:00+00:00",
-    "summary": "At this point, LeBron James is more valuable to NBA teams and to the league as an ATM of 6-foot-9 and 250 pounds than anything involving basketball.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5ac33960234fdc4e901b2c/0x0.jpg?width=960",
+    "published": "2026-07-18T12:30:00+00:00",
+    "summary": "The former Savannah Bananas outfielder opened up about a scary medical situation that overshadowed his MLB All-Star accomplishment.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5a76139e019ba9af461626/0x0.jpg",
     "tags": [
       "SportsMoney",
       "/sportsmoney",
@@ -399,10 +572,8 @@
       "/business",
       "SportsMoney"
     ],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 17
+    "industries": [],
+    "relevance_score": 16
   },
   {
     "id": "8be528022988",
@@ -427,6 +598,150 @@
     "relevance_score": 35
   },
   {
+    "id": "d96adb210e37",
+    "title": "Chaos Ensues At The Open As Bryson DeChambeau Gets Post-Round Penalty",
+    "url": "https://www.forbes.com/sites/mikefore/2026/07/18/chaos-ensues-at-the-open-as-bryson-dechambeau-gets-post-round-penalty/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-18T14:01:00+00:00",
+    "summary": "Chaos at the 154th Open Championship at Royal Birkdale as Bryson DeChambeau is penalized after the round for rules infraction.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5aa89b9fcb7f083457f8da/0x0.jpg?width=960&precrop=1200%2C675%2Cx0%2Cy0",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "e1543a91d8ed",
+    "title": "Surprise! Facial recognition smart locks are actually good",
+    "url": "https://www.theverge.com/tech/967183/best-facial-recognition-smart-locks-review",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-18T14:00:00+00:00",
+    "summary": "Hands-free unlocking is the future of smart locks. The best smart home tech removes friction, and having your door unlock for you as you walk up is as frictionless as it gets - no passcodes to remember, no need to have a free hand to wave, press, or poke at the lock. One way...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/IMG_7964-1.jpeg?quality=90&amp;strip=all&amp;crop=0%2C15.095986038394%2C100%2C69.808027923211&amp;w=1200",
+    "tags": [
+      "Reviews",
+      "Smart Home",
+      "Smart Home Reviews",
+      "Tech"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "9a845ab37ada",
+    "title": "WWE Saturday Night’s Main Event XLV Preview And Predictions",
+    "url": "https://www.forbes.com/sites/blakeoestriecher/2026/07/18/wwe-saturday-nights-main-event-2026-preview-and-predictions/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-18T13:30:00+00:00",
+    "summary": "WWE Saturday Night’s Main Event 2026 preview, predictions, match card, and streaming info as CM Punk teams with Cody Rhodes.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5683f828c462d8cda98592/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "0b013d06ff78",
+    "title": "Taylor Swift Manages A Historic First On The Charts",
+    "url": "https://www.forbes.com/sites/hughmcintyre/2026/07/18/taylor-swift-manages-a-historic-first-on-the-charts/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-18T13:30:00+00:00",
+    "summary": "With \"The Fate of Ophelia,\" \"Opalite,\" \"I Knew It, I Knew You\" and \"Elizabeth Taylor,\" Taylor Swift manages a first on Billboard's Adult Contemporary chart.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/66e0a4564f7773423ee75414/0x0.jpg?width=960&precrop=1715%2C966%2Cx355%2Cy27",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "91c291aab76f",
+    "title": "4 Best Walking Pads for Small Spaces and Standing Desks (2026)",
+    "url": "https://www.wired.com/story/best-walking-pads/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-18T11:03:00+00:00",
+    "summary": "Our remote team clocked serious hours walking, working, and sometimes jogging to find the best under-desk treadmills for home offices and small spaces.",
+    "image_url": "https://media.wired.com/photos/6a5a76cfd582497b4863aa7f/master/pass/The-Best-Walking-Pads-We-Use-to-Stay-Active-During-WFH-Days.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Buying Guides",
+      "Gear / Products",
+      "Gear / Products / Health and Fitness",
+      "Gear / Products / Home Office"
+    ],
+    "industries": [],
+    "relevance_score": 16
+  },
+  {
+    "id": "9361b30afffe",
+    "title": "Creedence Clearwater Revival Reaches A New Peak On One Billboard Chart",
+    "url": "https://www.forbes.com/sites/hughmcintyre/2026/07/18/creedence-clearwater-revival-reaches-a-new-peak-on-one-billboard-chart/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-18T12:45:00+00:00",
+    "summary": "Creedence Clearwater Revival's Chronicle brings the band to a new peak on Billboard's Top Streaming Albums chart decades after the group split.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/65e21dd7e23bf313ade367db/0x0.jpg?width=960&precrop=2142%2C1205%2Cx424%2Cy132",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "aecc1c6aa8f4",
+    "title": "At Nearly 42, LeBron James Is More Valuable For NBA And Teams At The Bank Than On The Court",
+    "url": "https://www.forbes.com/sites/terencemoore/2026/07/18/at-nearly-42-lebron-james-is-more-valuable-for-nba-and-teams-at-the-bank-than-on-the-court/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-18T10:15:00+00:00",
+    "summary": "At this point, LeBron James is more valuable to NBA teams and to the league as an ATM of 6-foot-9 and 250 pounds than anything involving basketball.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5ac33960234fdc4e901b2c/0x0.jpg?width=960",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 16
+  },
+  {
     "id": "fbc66e0ebf47",
     "title": "Cardinals’ 23-Year-Old Shortstop Suddenly Ends Career In Middle Of Season",
     "url": "https://www.forbes.com/sites/peterchawaga/2026/07/18/cardinals-23-year-old-shortstop-suddenly-ends-career-in-middle-of-season/",
@@ -443,65 +758,7 @@
       "SportsMoney"
     ],
     "industries": [],
-    "relevance_score": 16
-  },
-  {
-    "id": "6b90b802fe9e",
-    "title": "‘Mandalorian And Grogu’ Seeks New Audience On Streaming This Week After Stalling At Box Office",
-    "url": "https://www.forbes.com/sites/timlammers/2026/07/18/mandalorian-and-grogu-seeks-new-audience-on-streaming-this-week-after-stalling-at-box-office/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-18T09:15:00+00:00",
-    "summary": "\"Star Wars: The Mandalorian and Grogu,\" a spinoff movie based on the Disney+ TV series starring Pedro Pascal, arrives on digital streaming this week after a tumultuous run in theaters worldwide.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5b01244df30a07cef11fef/0x0.jpg?width=960",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 17
-  },
-  {
-    "id": "f92ae894e811",
-    "title": "The $55B quarter: how trading, AI, and dealmaking drove record earnings for Big Banks - Invezz",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOVFVKWEthbkpOOGdXLXV2cnlKT09kUDNzb2wtM29WLThKbV80SWozWGJaandibkVzZlZzZEVIVlZLWEdyZ2RqWm1pNG5ZZ2txZEtLZk91bmZNdFhGYjdfWXRrUkowYXFIU3VTQnJvSnpsWmdvX01DblB6VGwtVjhyRDRZRnhMczVCMER6eV85cUtqZGtYZEljYnItZEE3bVhKYTNtY0QzbS1OSFo5ODJWSTBQZkRMcmQ2RkNfRkJDdElybU5J?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-07-18T11:09:15+00:00",
-    "summary": "The $55B quarter: how trading, AI, and dealmaking drove record earnings for Big Banks Invezz",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 16,
-    "also_covered_by": [
-      "Wall Street"
-    ]
-  },
-  {
-    "id": "744366719701",
-    "title": "Cubs Cut Ties With 28-Year-Old Backstop After Injury Setback",
-    "url": "https://www.forbes.com/sites/peterchawaga/2026/07/18/cubs-cut-ties-with-28-year-old-backstop-after-injury-setback/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-18T11:00:00+00:00",
-    "summary": "The Chicago Cubs have released a veteran catcher just days after he was placed on the injured list.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a29938d84c4d870acee6491/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "1c3059fb7886",
@@ -522,7 +779,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 58
+    "relevance_score": 55
   },
   {
     "id": "ef880d634359",
@@ -543,7 +800,44 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 19
+    "relevance_score": 18
+  },
+  {
+    "id": "744366719701",
+    "title": "Cubs Cut Ties With 28-Year-Old Backstop After Injury Setback",
+    "url": "https://www.forbes.com/sites/peterchawaga/2026/07/18/cubs-cut-ties-with-28-year-old-backstop-after-injury-setback/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-18T11:00:00+00:00",
+    "summary": "The Chicago Cubs have released a veteran catcher just days after he was placed on the injured list.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a29938d84c4d870acee6491/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [],
+    "relevance_score": 15
+  },
+  {
+    "id": "2aaaeb4acb7d",
+    "title": "The $55B quarter: how trading, AI, and dealmaking drove record earnings for Big Banks - Invezz",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxPZnNEYndyak9kSGh0dF83WDhnWnNyVm1KWHdwQk5ZQzJ1QUd4TGUzZnBVUkQ3SzV2eVJkcWVKcGZpNEdZYW00UXc0UkJ2bDc5eWFhNVpZUDRkTEdNMGRNajNQNERTRmg0dXNsNGdfQk1yaEFsRUxGNS1sSm9pX0J3U0lHY0VqVWdRbDdwSXMtZkFXd3RVMC15WFZJSVZuX2dBMFRxQVN2LXBVRXpKd1JNS0tyMDdPcDhn?oc=5",
+    "source": "Banking",
+    "source_category": "industry_financial",
+    "published": "2026-07-18T10:34:01+00:00",
+    "summary": "The $55B quarter: how trading, AI, and dealmaking drove record earnings for Big Banks Invezz",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 15,
+    "also_covered_by": [
+      "Wall Street"
+    ]
   },
   {
     "id": "c2dd0da66162",
@@ -564,7 +858,20 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
+  },
+  {
+    "id": "b05f184e6885",
+    "title": "Former Taco Bell Latin America CMO Karla Patino named Pollo Campero VP of marketing - fastcasual.com",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcWdjV0NvcGxMRmdiOXU3WlVXWHg3QVpDZUxZckE2QTZkR0VtLVNlZzlFR3NjLUxmUmlLc09LSlJkUDlKTVBHdS1kWWIxSVRJRWkyNDJEM05LN01rTjRyQkJwV1FJSjhBX1FxdWRNLWtsT2FVM180NlBDZE9RbmVWbnJYb3NnX3cxeDNLZHJBT1RJb0toNFNfZnVVdXd3cElPUUxpLWc2WWZBdGc1VzR5ZGVaRTBpTlE?oc=5",
+    "source": "CMO Leadership",
+    "source_category": "marketing",
+    "published": "2026-07-16T20:50:20+00:00",
+    "summary": "Former Taco Bell Latin America CMO Karla Patino named Pollo Campero VP of marketing fastcasual.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 44
   },
   {
     "id": "18f710fbfb9a",
@@ -579,26 +886,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 16
-  },
-  {
-    "id": "c81cb9bff3f7",
-    "title": "Jalen Duren Isn't The Pistons' Only Tough Contract Decision This Offseason",
-    "url": "https://www.forbes.com/sites/bryantoporek/2026/07/18/jalen-duren-isnt-the-pistons-only-tough-contract-decision-this-offseason/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-18T10:00:00+00:00",
-    "summary": "The Pistons have until late October to decide whether to sign 2023 No. 5 overall pick Ausar Thompson to a rookie-scale extension.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5a63e0cab56d7ae93824cc/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "4d3c358f5484",
@@ -617,7 +905,7 @@
       "Hollywood & Entertainment"
     ],
     "industries": [],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "793dc51d2697",
@@ -636,7 +924,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "45c797ceaee3",
@@ -659,7 +947,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "ff0dde9d3b96",
@@ -680,11 +968,26 @@
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
+  },
+  {
+    "id": "923d7f714621",
+    "title": "Salesforce Marketing Cloud Next Review and Pricing in 2026 - Business.com",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9EeXNKMUdvRDFuVkgzWDhlMXJLS05SZ3oxYzFKeWJLVWlfTVFaTzZSNy0xcUx2bUxuM2R6MWJ1TVowMjRpcENTUVByM290S0M3OFpOX0E2VjE0NGpmMEdYbzVtSUcwNFNjcUZ2Rw?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-07-16T20:41:18+00:00",
+    "summary": "Salesforce Marketing Cloud Next Review and Pricing in 2026 Business.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 43
   },
   {
     "id": "6a96d60860dc",
-    "title": "Everyone’s Watching Women’s Sports – The ESPYs Breakthrough Award Proved It",
+    "title": "Everyone’s Watching Women’s Sports — The ESPYs Breakthrough Award Proved It",
     "url": "https://www.forbes.com/sites/carolineprice/2026/07/18/everyones-watching-womens-sports--the-espys-breakthrough-award-proved-it/",
     "source": "Forbes Business",
     "source_category": "marketing",
@@ -699,7 +1002,7 @@
       "SportsMoney"
     ],
     "industries": [],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "94c2c339fe08",
@@ -718,7 +1021,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 51
+    "relevance_score": 48
   },
   {
     "id": "fbd16ef9a05b",
@@ -739,7 +1042,7 @@
     "industries": [
       "financial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "d041dfeba515",
@@ -760,7 +1063,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "025a523211bc",
@@ -779,7 +1082,7 @@
       "Careers"
     ],
     "industries": [],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "3549e1622cee",
@@ -801,62 +1104,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 15
-  },
-  {
-    "id": "0262b45af352",
-    "title": "WWE Saturday Night's Main Event NYC - What Time Does It Start?",
-    "url": "https://www.forbes.com/sites/brianmazique/2026/07/18/wwe-saturday-nights-main-event-nycwhat-time-does-it-start/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-18T10:16:54+00:00",
-    "summary": "WWE Saturday Night's Main Event XLV airs live from Madison Square Garden at 8 p.m. ET on Peacock. Full card, celebrity guests and the SummerSlam connections.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5b51049f4972a766bf3017/0x0.jpg?width=960",
-    "tags": [
-      "Gaming",
-      "/gaming",
-      "Innovation",
-      "/innovation",
-      "Gaming"
-    ],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "b05f184e6885",
-    "title": "Former Taco Bell Latin America CMO Karla Patino named Pollo Campero VP of marketing - fastcasual.com",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQcWdjV0NvcGxMRmdiOXU3WlVXWHg3QVpDZUxZckE2QTZkR0VtLVNlZzlFR3NjLUxmUmlLc09LSlJkUDlKTVBHdS1kWWIxSVRJRWkyNDJEM05LN01rTjRyQkJwV1FJSjhBX1FxdWRNLWtsT2FVM180NlBDZE9RbmVWbnJYb3NnX3cxeDNLZHJBT1RJb0toNFNfZnVVdXd3cElPUUxpLWc2WWZBdGc1VzR5ZGVaRTBpTlE?oc=5",
-    "source": "CMO Leadership",
-    "source_category": "marketing",
-    "published": "2026-07-16T20:50:20+00:00",
-    "summary": "Former Taco Bell Latin America CMO Karla Patino named Pollo Campero VP of marketing fastcasual.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 44
-  },
-  {
-    "id": "c20165958386",
-    "title": "Former Mets Outfielder Nears End Of Career After Surprise Appearance",
-    "url": "https://www.forbes.com/sites/peterchawaga/2026/07/18/former-mets-outfielder-nears-end-of-career-after-surprise-appearance/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-18T10:00:00+00:00",
-    "summary": "The New York Mets received a surprising update on their former left fielder who revealed he is circling the end of his playing days.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5a70f8588f14d848911e8d/0x0.jpg?width=960&precrop=1084%2C610%2Cx520%2Cy162",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "c688e2214a6f",
@@ -877,7 +1125,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "8b87147b1698",
@@ -899,7 +1147,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "316c7c46ea12",
@@ -918,7 +1166,7 @@
       "review"
     ],
     "industries": [],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "3bd243dc10eb",
@@ -937,88 +1185,7 @@
       "SportsMoney"
     ],
     "industries": [],
-    "relevance_score": 14
-  },
-  {
-    "id": "924da90772e9",
-    "title": "The Best Motion Sensors and Home Security Gadgets Without Cameras",
-    "url": "https://www.wired.com/story/best-motion-sensors-private-alternatives-security/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-18T10:30:00+00:00",
-    "summary": "If you prefer not to have cameras in and around your home, try one of these more private, WIRED-tested security devices.",
-    "image_url": "https://media.wired.com/photos/6a5a738965c28720eb4e89e1/master/pass/The-Best-Motion-Sensors-and-Privacy-Alternatives-to-Security-Cameras.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Products / Home",
-      "Gear / Products / Smart Home",
-      "Gear / Buying Guides",
-      "security"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "8bbfcb6923d5",
-    "title": "The Best Tech for Back to School",
-    "url": "https://www.wired.com/story/best-tech-gear-back-to-school/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-18T09:01:00+00:00",
-    "summary": "Get ready to crush your coursework or scoot to class in style with these back-to-school gear picks.",
-    "image_url": "https://media.wired.com/photos/689f9d2d55cc281c2273340a/master/pass/The%20Best%20Tech%20for%20Back%20to%20School.png",
-    "tags": [
-      "Gear",
-      "Gear / Buying Guides",
-      "Shopping",
-      "Accessories and Peripherals",
-      "buying guides"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "235c1dfcd64f",
-    "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
-    "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-18T09:00:00+00:00",
-    "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
-    "image_url": "https://media.wired.com/photos/6a5a67417083bdea755dfcd2/master/pass/Security_AIInjection-v1.gif",
-    "tags": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Ars Technica",
-      "artificial intelligence",
-      "cybersecurity"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "e122ceb91ed5",
-    "title": "Adobe stock trades steady as digital media growth supports valuation - ad-hoc-news.de",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZEhyX1NjSTVsaFVXNnZrOG5rMndDMlhvcV9QZFhkZFVOaENBWnBsUDloOTR1cWhCai1UUlo3X01SM3RveV9yVW1DUkpfbEFWU2s0MUlSNWxQSjV5ZWVibklKR1hzNm9TVFQwQkFMbXBlNlQxZVVSZTBGbG93RnJybThqekY4dHkzT0dUWnZ2ME1VamxhQUFKalZaczRkc2I3VXFVcWJOaF9sb3JJaWJBc0NRM3lFaDB3Tlc3UG9VcHJ0WXZMSnc?oc=5",
-    "source": "Adobe Marketing Cloud",
-    "source_category": "adobe",
-    "published": "2026-07-18T08:53:42+00:00",
-    "summary": "Adobe stock trades steady as digital media growth supports valuation ad-hoc-news.de",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 14,
-    "also_covered_by": [
-      "Telecom 5G"
-    ]
+    "relevance_score": 13
   },
   {
     "id": "dc1849b6fa2b",
@@ -1056,6 +1223,118 @@
     "relevance_score": 32
   },
   {
+    "id": "7c58f2135bd1",
+    "title": "Trump Media pitched $100,000 monthly fee for fastest feed of U.S. president's posts, sources say - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxOLWxuQ1JBdEdrNC1Ld3Y0RjlmNzJHVXpqWUd6MzlyMHlCbUJxdHg0U1ZxUGtGcF9OV2VrQ1VuQmNQSDVCMFZKQjkybzN1dU1EdjdlOVpwX3pFM3NuZkY4clhwRVBnMlg0VFRfa2ozbm9IeGdBZXZpeG9FSkJlc2RscklhNkRpOUJpcXhnb05peXk1TU04d3JMQWtPS2JqQXNtSDBBUUlZeHDSAa4BQVVfeXFMT3dFYWJ4Y1VUMG16SENGTExPNXZ1ZFUweWFVbjNKVWY4X1lTVmxVSzREcEtBVGVpLVdiMy1ORU11WFBIVXV6YlRfbzBTZFBpSFlpMk5zeHJjWERUT19YekRiTDZObnRQVkZuSWlZSXlCRmprZDV2NDRtZEtRendDVGwzaF83ZzNBZFo1bThFY1VxVlhUOUE5Z2hGYnp2d2tTNVBJdW93aWJ4SkFWZDZ3?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-18T13:57:16+00:00",
+    "summary": "Trump Media pitched $100,000 monthly fee for fastest feed of U.S. president's posts, sources say CNBC",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "924da90772e9",
+    "title": "The Best Motion Sensors and Home Security Gadgets Without Cameras",
+    "url": "https://www.wired.com/story/best-motion-sensors-private-alternatives-security/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-18T10:30:00+00:00",
+    "summary": "If you prefer not to have cameras in and around your home, try one of these more private, WIRED-tested security devices.",
+    "image_url": "https://media.wired.com/photos/6a5a738965c28720eb4e89e1/master/pass/The-Best-Motion-Sensors-and-Privacy-Alternatives-to-Security-Cameras.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Products / Home",
+      "Gear / Products / Smart Home",
+      "Gear / Buying Guides",
+      "security"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "8bbfcb6923d5",
+    "title": "The Best Tech for Back to School",
+    "url": "https://www.wired.com/story/best-tech-gear-back-to-school/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-18T09:01:00+00:00",
+    "summary": "Get ready to crush your coursework or scoot to class in style with these back-to-school gear picks.",
+    "image_url": "https://media.wired.com/photos/689f9d2d55cc281c2273340a/master/pass/The%20Best%20Tech%20for%20Back%20to%20School.png",
+    "tags": [
+      "Gear",
+      "Gear / Buying Guides",
+      "Shopping",
+      "Accessories and Peripherals",
+      "buying guides"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "235c1dfcd64f",
+    "title": "Prompt Injection Attacks Are Thwarting AI Hacking Agents",
+    "url": "https://www.wired.com/story/prompt-injection-attacks-are-thwarting-ai-hacking-agents/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-18T09:00:00+00:00",
+    "summary": "“Context bombing” tricks malicious AI agents into shutting down before they can do harm.",
+    "image_url": "https://media.wired.com/photos/6a5a67417083bdea755dfcd2/master/pass/Security_AIInjection-v1.gif",
+    "tags": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Ars Technica",
+      "artificial intelligence",
+      "cybersecurity"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "e122ceb91ed5",
+    "title": "Adobe stock trades steady as digital media growth supports valuation - ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOZEhyX1NjSTVsaFVXNnZrOG5rMndDMlhvcV9QZFhkZFVOaENBWnBsUDloOTR1cWhCai1UUlo3X01SM3RveV9yVW1DUkpfbEFWU2s0MUlSNWxQSjV5ZWVibklKR1hzNm9TVFQwQkFMbXBlNlQxZVVSZTBGbG93RnJybThqekY4dHkzT0dUWnZ2ME1VamxhQUFKalZaczRkc2I3VXFVcWJOaF9sb3JJaWJBc0NRM3lFaDB3Tlc3UG9VcHJ0WXZMSnc?oc=5",
+    "source": "Adobe Marketing Cloud",
+    "source_category": "adobe",
+    "published": "2026-07-18T08:53:42+00:00",
+    "summary": "Adobe stock trades steady as digital media growth supports valuation ad-hoc-news.de",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 13,
+    "also_covered_by": [
+      "Telecom 5G"
+    ]
+  },
+  {
+    "id": "f3a4a0df3b53",
+    "title": "Opinion | To stay competitive, Chinese brands must learn to command agentic AI - South China Morning Post",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRERtX3FyM2RKVkhOa2ZhV3hOXzFHdDJFMGt6QlYtdXotMzBtMnhDem83N18xRFdkNkV4UnFNZjFsanlOV0wyY01qMWpaczU1THU5cFFuTXQ5MDkxNlM1SUNrblNfbmpMWlEwcVFOVkRWRGRURXpSTlVwN204a2xsdVF6YWpzc1Zxd0lFRUR5WGNqRFdzZW5TdWk2STFmOXByVzFTX9IBpAFBVV95cUxPVE8yYzN3b0R0TDNWVThGQ0I1VEI1ZHVrVlFxZVBuaXZtdWpzbFJ0VGNNZHQyekNZdnZXSkgwVE1kWFdhS1NaMzk5dVl2ak1RQTZiaHpDQmRuWXU1cFFKanlKeVFMaHdmU19GdkVXZV9Sb0tHU1hUSmtMV3VfZW5fbmZTeElLSThCbng4dEg3eFoxcnV3U1djODN0YVhPOVNsdi1Gaw?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-07-17T08:30:06+00:00",
+    "summary": "Opinion | To stay competitive, Chinese brands must learn to command agentic AI South China Morning Post",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 26
+  },
+  {
     "id": "4a6e470cee39",
     "title": "EXPERIENCE ECONOMY SPEAKERS & EXPERTS: HIRE A KEYNOTE FOR CORPORATE EVENTS - futuristsspeakers.com",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQRlRBOEJNdU40SUZ6UHJKRTlPTkVvMHV4bVZmcXphUmNqMnFmem5pVzAwc09JM0htRld4UGRtRTYzQ0w0bExoQTBRNEJDeVU3d2hFNnZfUjZ1WmFtYXp5Z0lqcXdvMDFUckJ5b19tMEZWTzV2cUZZbFJQZGRTTjM0aWx3RjhEdw?oc=5",
@@ -1066,23 +1345,10 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 13,
+    "relevance_score": 12,
     "also_covered_by": [
       "Agentic Marketing"
     ]
-  },
-  {
-    "id": "d74dfd28077e",
-    "title": "Skip the Adobe subscription—this PDF editor is yours for a one-time $39.97 payment - PCWorld",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUFJXQVBXeG9vRTlUbFc0MV96bG5sLUJIOUF0V2E2TmxyTGpRMnBxYlAwTE0xTnF5RTJtRDdHa3IzVW5yMEc4d2pSZ2lZa0RHbE5fd2t0MTA5WWVGTFBuQ04zSzJDUTY0VXplWWtFcVdmOUJFSFNGTXBXUnJod1JFN1N4WjNOcnctYUxuWWVGeEVhaVJvQkRGaXBKcVpCaV81dUlMdjdYTk5IZE1BbFFjdHoxNmNsZEljLWtkTy1KdjlmSG5D?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-07-18T08:00:00+00:00",
-    "summary": "Skip the Adobe subscription—this PDF editor is yours for a one-time $39.97 payment PCWorld",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 14
   },
   {
     "id": "23314ceea707",
@@ -1098,28 +1364,50 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 44
+    "relevance_score": 41
   },
   {
-    "id": "ab598bb7c7bb",
-    "title": "Heralding The Minimal Clinically Important Difference When AI Is Used For Human Mental Health",
-    "url": "https://www.forbes.com/sites/lanceeliot/2026/07/18/heralded-minimal-clinically-important-difference-when-ai-is-used-for-human-mental-health/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-18T07:15:00+00:00",
-    "summary": "MCID (minimal clinically important difference) is an important technique in the medical field, including mental health. And AI can be used too. It's an AI Insider scoop.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/695063abb1690c5ee0895484/0x0.jpg?width=960",
-    "tags": [
-      "AI",
-      "/ai",
-      "Innovation",
-      "/innovation",
-      "AI"
+    "id": "d74dfd28077e",
+    "title": "Skip the Adobe subscription—this PDF editor is yours for a one-time $39.97 payment - PCWorld",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxNUFJXQVBXeG9vRTlUbFc0MV96bG5sLUJIOUF0V2E2TmxyTGpRMnBxYlAwTE0xTnF5RTJtRDdHa3IzVW5yMEc4d2pSZ2lZa0RHbE5fd2t0MTA5WWVGTFBuQ04zSzJDUTY0VXplWWtFcVdmOUJFSFNGTXBXUnJod1JFN1N4WjNOcnctYUxuWWVGeEVhaVJvQkRGaXBKcVpCaV81dUlMdjdYTk5IZE1BbFFjdHoxNmNsZEljLWtkTy1KdjlmSG5D?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-07-18T08:00:00+00:00",
+    "summary": "Skip the Adobe subscription—this PDF editor is yours for a one-time $39.97 payment PCWorld",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 13
+  },
+  {
+    "id": "5dc300df8ef3",
+    "title": "Bushel launches digital lien protection for grain payments - High Plains Journal",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNZEZZSE5uc01fb194RU5NX2ttWHc2eHB2ODNJY1c5Qk9CTzI4RXB0QVFRV1ljTE4tdXNwNDlOdDJsVDFPcTVCcFFkd25NSllpLXhwSXpBdVZiS3ZIbmVlVW51d296V04xQW5oSUZ3SXp5d2l1MGlyaGhKNnV1TkNZUXRkRDBZZWhRQlZsLU1EZw?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-07-18T13:30:57+00:00",
+    "summary": "Bushel launches digital lien protection for grain payments High Plains Journal",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
     ],
+    "relevance_score": 11
+  },
+  {
+    "id": "81323fd16311",
+    "title": "Need to focus on wider adoption of digital health initiatives: Union Health Secretary to states - The New Indian Express",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQck9xZktsYWFYUUpmMGsyQjZpN2x1aGdmUVJnd0dTb01ZVkhidmZEcURDeDJ4S2lCREYtTUZRNWkzSkNJVGlQQ05CU294U2FoeElwUWliM1NXRVpCaW9CUFIyX0JqVTVzbDdVZHpRdFJLUFI3cXdUYjB0Ti0tRkkxR0JXNGIwdm5RV3B2MkJRRVRfUXhvUTdmR2Exa2NpRjNrQUszYktsYVByc2Z4dDYya19VMlI5Z1ZVZHp5SkQwVkVnOGVLeFR1MG84Rm5sUzZoYXgzV2dEbUM5MTNp0gHqAUFVX3lxTE05d2g4TEx6NlBvSzc3a2g1Qk1WNjU2dmNsT2VPWksyVUFLQWhjU0ZYTXVKMUFjOGZXUFIycHVua015ZXpOQWFhMmNUcjU2M0MwRF84YlZVVlhJWVd3NVViQ0xodHY2bWVXT3NxQjhCZFhWZVRfSmZPbmNmM3pyOE5DOEIwZ1N0SG80djlhMURLUG14bUIyNUxvenl0ZjZXM2ZmSXJYM2liY1pOdHc3bTUxVi1GakZmUFY5ZUNOYkNTdmxwQWtnSDFqQlE0NElseUtqd2lMQmJUaElzUDdFRU15bjlCcGNvZ0JEQQ?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-18T16:36:35+00:00",
+    "summary": "Need to focus on wider adoption of digital health initiatives: Union Health Secretary to states The New Indian Express",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 14
+    "relevance_score": 10
   },
   {
     "id": "e854311c3876",
@@ -1140,7 +1428,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 47
+    "relevance_score": 44
   },
   {
     "id": "331a96cbbab5",
@@ -1159,7 +1447,7 @@
       "Transportation"
     ],
     "industries": [],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "8c0dd331acbc",
@@ -1175,7 +1463,35 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 45
+    "relevance_score": 42
+  },
+  {
+    "id": "cc0997ff1708",
+    "title": "Wall Street sex scandal case goes to federal court - NewsNation",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPVDVYRG5nZUdOblVFNnJZU0hfdFo1emJvaTNuWmtpdU9LVkw4RURZQnlTajR5azVfeUZQbjZPdi1xWVBDal83dlM4Y09nU2tKNXB4TFdwRVZLMS1MMmJoWTZ6X1JWT0RqTk9xSnVJX0tUTUhjbTFwZ1pnZGZZTEcyckVNSmtJOGhnbHk0SXlKWW9ham9R0gGaAUFVX3lxTE4zU09SYjM2WUZaSVpTWlpreFJOamF1N3Rjdy1DRHR1R25BMXBXQ2FpdnpTNFhRMkQzYUcybFVvYldwMzhaT2ZoNDV0b1hMWjZaVUNrQXA4X0t3b0FMSm45dm5oQWtjN2p3a2pJU2k5R1ZYc0pQUnZsU1Q5UV9pUTFSUXZwemhKYWowN0VMczRWZUFlQUN3ZTFsOHc?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-18T15:35:29+00:00",
+    "summary": "Wall Street sex scandal case goes to federal court NewsNation",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "dff64485d3f0",
+    "title": "The Influencer Whose Friendship With Trump Made Her a Sports Star - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5HcGVtT1hxSThreTlWVHJHeVZJU1M1VHVIRDZObW0xdmRMckptRVNFQW8wOWxEUDNIR2VTNjJXdGJBT3JBOXhnc3NHRlZKMVdlZkRSQVNGMkdYanRpWEJyQWdtSmdLdng2VDF4X0JnLU9wSnk0SUU0eFlBRkp4eFE?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-18T15:00:00+00:00",
+    "summary": "The Influencer Whose Friendship With Trump Made Her a Sports Star WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 10
   },
   {
     "id": "bdf1325451db",
@@ -1191,39 +1507,35 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
-    "id": "c7d9f4684744",
-    "title": "From Remote Racing to Embodied AI: Fibocom and Intedigo Bring 5G Bidirectional Data Transmission into Real-World Applications - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPMV9rNHp6dk9ybVFlaG02N3Joa0VlejdITkZxRGpUZlcyNi1HWGxNQ1R5RzBGY25yUTV6eWNSei0zQTdtZWFhTHROLUJVZG9hZzJZY2o5ZnFnT3lFZ0x6S2xQN05KOE1OMDZfUHdWTDl4TVFpY1A2ZC1GbXpDUzF3cjNmNHpOZzdzS1ZmWGpaSE5aWElYQkU0cWp3VDBpQ1VTaFJuSzBpRURULXlYQnlpUDFqVEtqbWhteklLckQ0ZGdrLWUyQjRWTmxLbnkzOUFzcmlLdlhFdW1Hajh2YWtqM3pXUzFQUG1UWjJLcHdDWndkN19DcEtSZmRWLTN5TGYwTzZVeGZjSUhrRXQxbEg4X1RoZw?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-07-18T11:24:00+00:00",
-    "summary": "From Remote Racing to Embodied AI: Fibocom and Intedigo Bring 5G Bidirectional Data Transmission into Real-World Applications TradingView",
+    "id": "8ee0318fe5ce",
+    "title": "See How Trump’s Truth Social Posts Move Stocks - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOTDF6S29WUnVndFpRbW1DY2M5YjRhaHZXNnlNZlAzRWF1OUdqNWx4eUFaWTBfdmFIMlFVTG1iSGwtR2dwQ05JOHBZemxOVmplcDFCVXQ1V2FCdGFBS1AxcUJlWGNKWmdycnFhdVFDamlKa1ZlUDFOMXphRHBQTDhHcjZrRl9obWNqSGt0dmNDR2tCZG0w?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-18T14:28:00+00:00",
+    "summary": "See How Trump’s Truth Social Posts Move Stocks WSJ",
     "image_url": null,
     "tags": [],
-    "industries": [
-      "tech",
-      "telecom"
-    ],
-    "relevance_score": 12
+    "industries": [],
+    "relevance_score": 10
   },
   {
-    "id": "f3a4a0df3b53",
-    "title": "Opinion | To stay competitive, Chinese brands must learn to command agentic AI - South China Morning Post",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRERtX3FyM2RKVkhOa2ZhV3hOXzFHdDJFMGt6QlYtdXotMzBtMnhDem83N18xRFdkNkV4UnFNZjFsanlOV0wyY01qMWpaczU1THU5cFFuTXQ5MDkxNlM1SUNrblNfbmpMWlEwcVFOVkRWRGRURXpSTlVwN204a2xsdVF6YWpzc1Zxd0lFRUR5WGNqRFdzZW5TdWk2STFmOXByVzFTX9IBpAFBVV95cUxPVE8yYzN3b0R0TDNWVThGQ0I1VEI1ZHVrVlFxZVBuaXZtdWpzbFJ0VGNNZHQyekNZdnZXSkgwVE1kWFdhS1NaMzk5dVl2ak1RQTZiaHpDQmRuWXU1cFFKanlKeVFMaHdmU19GdkVXZV9Sb0tHU1hUSmtMV3VfZW5fbmZTeElLSThCbng4dEg3eFoxcnV3U1djODN0YVhPOVNsdi1Gaw?oc=5",
+    "id": "8bce08659273",
+    "title": "Agentic AI Will Make the CMO’s Role More Consequential - Boston Consulting Group",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HLUVrd1BubklBWXduRmY5bU00ZXFpemhoWHdhT2VWMUR0d0Q2a0hMMmlHRkhoMS1CblM4TEVwakJFQ1I5emZNXzBnOTkzRXZFMVZqMmY5ZEx4WWxDSHFJeWpWWlk5U2V4V3BNazJnTHhKdUdNd0pwYWEzRjlkZw?oc=5",
     "source": "Agentic Marketing",
     "source_category": "ai_marketing",
-    "published": "2026-07-17T08:30:06+00:00",
-    "summary": "Opinion | To stay competitive, Chinese brands must learn to command agentic AI South China Morning Post",
+    "published": "2026-07-16T17:09:50+00:00",
+    "summary": "Agentic AI Will Make the CMO’s Role More Consequential Boston Consulting Group",
     "image_url": null,
     "tags": [],
     "industries": [
-      "consumer",
       "industrial"
     ],
-    "relevance_score": 26
+    "relevance_score": 37
   },
   {
     "id": "f9e3fffe0408",
@@ -1238,7 +1550,35 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 41
+    "relevance_score": 38
+  },
+  {
+    "id": "a1aac2b4e233",
+    "title": "Verizon makes cost-cutting move as customers continue to leave - thestreet.com",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMlFFQ0ZpUzFFNTBadmlyWFMySXd6Z1drZjM3Qmh0STJfMmZjcThUZTdnS3h0ZklHd21DLTZOaFVVRE1zY0t2Tm10MUdIOEk4VV9wZEJMb1F2aXhESHlFeVA2ZlEzdlRyS3RrUlFORXpHX2hrTG9Va3RsZXVVdDF1cG1Tb3BqTl9pR2d6NmZuMEluREJ2WnFuaVV4Z1VSN1li?oc=5",
+    "source": "Telecom",
+    "source_category": "industry_telecom",
+    "published": "2026-07-18T14:07:00+00:00",
+    "summary": "Verizon makes cost-cutting move as customers continue to leave thestreet.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "telecom"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "df7e79319196",
+    "title": "The Battles That Will Decide the World Cup Final - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPUEczQ3MxbWIzWm9YSGNaQ2hOc0Vkb080bEljYmpRcjJCbDl4M1I2WThCak8wTmpWUThDcjdMQUpCSFJvTmdwWmhRQ0NjVjRiMGJVTlVETW5KZElmNzVtbmZjSGp4alhnQ1N0eUJJbVFKV1c4SldaaXY2c0NUUUdIdmhsTzZPTDcwbGpiMXk1dmxFREw3b2c?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-18T14:00:00+00:00",
+    "summary": "The Battles That Will Decide the World Cup Final WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 10
   },
   {
     "id": "676c823b6899",
@@ -1257,20 +1597,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "687da9230075",
-    "title": "How Bentley Crafted a 5,400-Pound Beast That Seems to Defy Physics - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPcjFhM081YnhvR3pRSjdkd3AtRnplSWkxbU9ab3FqaGg4NThMWEhlOTV4MC1VanF0TXZKanhXTlFMcE9zRU1xWlc0a0poZHdJTTItaXF6ZW1YUUtQV3FWTWQ3UWEwR1JJLTNpOVJhMGxPRlZnVlhVMGZQeWlRb0dhbW1IN25xbXZwZHBrelBhMUVCYnpXVWc?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-18T09:30:00+00:00",
-    "summary": "How Bentley Crafted a 5,400-Pound Beast That Seems to Defy Physics WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 12
+    "relevance_score": 13
   },
   {
     "id": "8ae120cabccb",
@@ -1289,22 +1616,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 43
-  },
-  {
-    "id": "444b79e3312a",
-    "title": "Marketing winners and losers of the week - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOa0hLZHBUaHhLcFpmTUNMcmJseGZveDVQTVRjM2JKNzBpYzdqb1hEaDNnR2JSUTFBYVpwaTRqTzRwY3N1SnlzcGZCa3pXTmlGZXVlZXJoRElCZC1mX25LTGtEdmIxMG1NMlZpQkI4SUJCazA2VnJtR3Y3aHZ5T1V1c19ZQ3YyQk15eVc3c1hBMkc3MjFYc3BXUFNPY1poWkhwamUxWUh0LUJ5cDJ2cVRHNGxqRU52QnRsbUE?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-07-17T09:05:00+00:00",
-    "summary": "Marketing winners and losers of the week Ad Age",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 24
+    "relevance_score": 40
   },
   {
     "id": "241ee9d24f3d",
@@ -1321,7 +1633,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 41
+    "relevance_score": 38
   },
   {
     "id": "11ae450c25dc",
@@ -1337,41 +1649,7 @@
       "tech",
       "lifesciences"
     ],
-    "relevance_score": 11
-  },
-  {
-    "id": "8bce08659273",
-    "title": "Agentic AI Will Make the CMO’s Role More Consequential - Boston Consulting Group",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9HLUVrd1BubklBWXduRmY5bU00ZXFpemhoWHdhT2VWMUR0d0Q2a0hMMmlHRkhoMS1CblM4TEVwakJFQ1I5emZNXzBnOTkzRXZFMVZqMmY5ZEx4WWxDSHFJeWpWWlk5U2V4V3BNazJnTHhKdUdNd0pwYWEzRjlkZw?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-07-16T17:09:50+00:00",
-    "summary": "Agentic AI Will Make the CMO’s Role More Consequential Boston Consulting Group",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 37
-  },
-  {
-    "id": "40e3db446c51",
-    "title": "Today’s Wordle #1855 Hints And Answer For Saturday, July 18",
-    "url": "https://www.forbes.com/sites/erikkain/2026/07/17/wordle-answer-saturday-july-18/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-18T00:21:30+00:00",
-    "summary": "Looking for help with today's New York Times Wordle? Here are some expert hints, clues and commentary to help you solve today's Wordle and sharpen your guessing game.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/654ac7d9543b3152d167c85e/0x0.jpg?width=960",
-    "tags": [
-      "Gaming",
-      "/gaming",
-      "Innovation",
-      "/innovation",
-      "Gaming"
-    ],
-    "industries": [],
-    "relevance_score": 15
+    "relevance_score": 10
   },
   {
     "id": "641c054d7d5f",
@@ -1386,39 +1664,7 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 39
-  },
-  {
-    "id": "099080b6477e",
-    "title": "ADBE Stock Quote Price and Forecast - CNN",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlQTJzVWhyWEJBbkVqNnBMU0RfU3lFY1dZQUFWazN6eU1hOC1pYVpKTlNRbVVwVjh0bUFuc0hHS0lkYmVlOHBBcmRpcU5TNnoz?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-07-18T10:00:27+00:00",
-    "summary": "ADBE Stock Quote Price and Forecast CNN",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 11
-  },
-  {
-    "id": "5a78952c4d6b",
-    "title": "The state of agentic storefronts: How AI agents guide shoppers on frictionless, full-funnel journeys",
-    "url": "https://digiday.com/sponsored/the-state-of-agentic-storefronts-how-ai-agents-guide-shoppers-on-frictionless-full-funnel-journeys/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-07-16T14:46:48+00:00",
-    "summary": "This State of the Industry report, sponsored by Swap, explores how brands, retailers and agencies are adopting agentic commerce, including agentic storefronts, to enhance shopping experiences. Artificial intelligence is the new entry point in e-commerce, as more shoppers rely...",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/07/Untitled-design-2.png",
-    "tags": [
-      "Sponsored"
-    ],
-    "industries": [
-      "retail",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 38
+    "relevance_score": 36
   },
   {
     "id": "a3e7db222bbb",
@@ -1439,26 +1685,39 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
-    "id": "ef2def982ab1",
-    "title": "Sheikh Hamad’s Real Legacy For Qatar Was Optionality",
-    "url": "https://www.forbes.com/sites/guneyyildiz/2026/07/17/sheikh-hamads-real-legacy-was-optionality/",
-    "source": "Forbes Business",
+    "id": "5a78952c4d6b",
+    "title": "The state of agentic storefronts: How AI agents guide shoppers on frictionless, full-funnel journeys",
+    "url": "https://digiday.com/sponsored/the-state-of-agentic-storefronts-how-ai-agents-guide-shoppers-on-frictionless-full-funnel-journeys/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
     "source_category": "marketing",
-    "published": "2026-07-18T03:30:00+00:00",
-    "summary": "Sheikh Hamad bin Khalifa Al Thani turned Qatar's gas into a web of dependencies that kept a small state hard to isolate. The test his successors inherit is whether those alternatives still hold when several are stressed at once.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5a924cdae33c182f3fb253/0x0.jpg?width=960",
+    "published": "2026-07-16T14:46:48+00:00",
+    "summary": "This State of the Industry report, sponsored by Swap, explores how brands, retailers and agencies are adopting agentic commerce, including agentic storefronts, to enhance shopping experiences. Artificial intelligence is the new entry point in e-commerce, as more shoppers rely...",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/07/Untitled-design-2.png",
     "tags": [
-      "Energy",
-      "/energy",
-      "Business",
-      "/business",
-      "Energy"
+      "Sponsored"
     ],
+    "industries": [
+      "retail",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 35
+  },
+  {
+    "id": "099080b6477e",
+    "title": "ADBE Stock Quote Price and Forecast - CNN",
+    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTFBlQTJzVWhyWEJBbkVqNnBMU0RfU3lFY1dZQUFWazN6eU1hOC1pYVpKTlNRbVVwVjh0bUFuc0hHS0lkYmVlOHBBcmRpcU5TNnoz?oc=5",
+    "source": "Adobe Inc",
+    "source_category": "adobe",
+    "published": "2026-07-18T10:01:36+00:00",
+    "summary": "ADBE Stock Quote Price and Forecast CNN",
+    "image_url": null,
+    "tags": [],
     "industries": [],
-    "relevance_score": 13
+    "relevance_score": 10
   },
   {
     "id": "96ae61dffd1c",
@@ -1479,208 +1738,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 15
-  },
-  {
-    "id": "23d39f7bfc63",
-    "title": "‘The Odyssey’: A Complete Spoiler-Free Character Guide",
-    "url": "https://www.forbes.com/sites/hannahabraham/2026/07/17/the-odyssey-a-complete-character-guide/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-18T03:03:56+00:00",
-    "summary": "Because not everybody likes being interrupted mid-Nolan with, “wait, who was that again?” here’s a full, spoiler-free guide to who plays whom in The Odyssey.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5ae21560234fdc4e901b2e/0x0.jpg",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [],
-    "relevance_score": 13
-  },
-  {
-    "id": "e477a27f0689",
-    "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaW5BeHpmRUs0aGt0RThSdU1YaEQ1LXdRSTRyc0hhaGhjQldxR0o4LURIYVZpYkktdEZfbG1LSWZHRzRaV3pfaE5hZURoOFNtYnljTklUaU5RdkJScXA4Z285bktCOXk4dFZ1cjZabUE0QUl0NkQ2TXVQemgyUTNyWnVDU2xYN3d2NTBFUUM5enotbzFSREo3TNIBngFBVV95cUxPVUtIb2RCdVg4Z2VHcEQ4eVJ1ZEJzZjBFRnNTNWstelM4cDhlcTE5WGJJai16ZHRUc010ZFVjVHdxYkx5MXhsV200VWtHTUd1eUlXdmd2YmJVS3pYSGkwVVdnME5RU3g0OU5BaTdRWTFZZGJtMVEzbVdpT25fYTQ3aGhlV0tRM3JiTUxWQVR0blRVTVA3QkJ3MmctUjVfUQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-18T11:31:03+00:00",
-    "summary": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication CNBC",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "746c004719e4",
-    "title": "Wall Street sex scandal case goes to federal court - NewsNation",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPSEJoLWkweG9sZVhCbjJyb3ZlWDZhMGEwWHBFVDlDU2lZOS1zcHJPOW1DUGJCWFRuT1p5SHBlcVpQU1JmZWhUXzM2Tm5zaHhFZ2xmdThlMkZWcVNMd0hJQXVkcTlVRjVpazdvaFBBMzZja3Z2dVVRenZsU2JUVHZvekpQYlRVLWlPRGfSAY8BQVVfeXFMUE9sQ0NfeDFWQ3A2YzRwdEV6b3RUbjF6UkhjUTlwNVZTMjdfYnBOVml6QUxpRlViV0lKcXk5MW11VXllamlFMHVfNlZ6OFI2V2Jwdnk5LTBCRHZkWlZVMmRkN0paNXRycHU4Y0s2NFVYWEdyZmhHay03UEFIZWlPMjBCY3NqZUxhal9hSUZ1MXc?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-18T11:29:40+00:00",
-    "summary": "Wall Street sex scandal case goes to federal court NewsNation",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "cace56f5009b",
-    "title": "Spanish Soccer Created the GOAT. The Only Problem Is That He Plays for Argentina. - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOWI4NFJiRkliR1pYVFdCeG82ZlBhaWQzY2MwTFE0NDlEZmduX2J2S3NnUk1Pdkc4bVVPc0Z0VUJEaWdlNTZBeVJicVJkUFRxYWlLM1Z3WUVNVmFyZERpbkZNZUhQX2RQSl9wV1VFeXNHY3hjRE5QeGYzMmdtTndjMjhfTGRNcFF0SFZYa2RSa2dSSG5I?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-18T11:05:00+00:00",
-    "summary": "Spanish Soccer Created the GOAT. The Only Problem Is That He Plays for Argentina. WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "f2ebf9cd4397",
-    "title": "AI selloff hits Wall Street despite good inflation news - Detroit Free Press",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ2xEWjdNSzBNZ19zN2RxOUlOSnNONUFCWkdyM0xDa2N3Ym9DR3A3RldtOGdXeVNiU1p1UGJwcnNsQm9xWWRyN0ItWWttRG5WSWpHdW5PUzBYVjRpQlZjZjRQd0N4UFNoMGxMMWd3LWx1Y3hIMWZUaE1rR25xeE1yaE1WRVhNcThzc2w4dktkaDZ2bjE4bjVldmlCWEhsQkh0OW9fU1R5aGJKWVM2dGlVSkZocDdZd2w4UzB3OU1vUQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-18T11:02:00+00:00",
-    "summary": "AI selloff hits Wall Street despite good inflation news Detroit Free Press",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "b122ac25ec2e",
-    "title": "Libya Communications Authority Holds Digital Cooperation Talks with US - Libya Herald",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOZUtySkZUUU5vM0ZESWVDbFhzV00tR0U4WHNkTFpEMnM0enBob3JER0NlWXp0ZXZMMElzcFhWaGRuRmEyZjJKOU5mLWNXMGtZNk5sQlpJSTFQUEYxbVVSX21HbW1sVkU1UGZkN1N3U3pKTVZ2QkNQT0oycGp0TUpDYWlBVXlraTktelNBeWQ0SnhiWHhEV1I5X3cxQ3lwUFFYRE1QVEVFZGlSUXRpaURrUTJXbFB3d181eVFiT0RvV2hzX0JTdERV?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-07-18T10:45:00+00:00",
-    "summary": "Libya Communications Authority Holds Digital Cooperation Talks with US Libya Herald",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 10
-  },
-  {
-    "id": "44502cc079a8",
-    "title": "Adobe (ADBE) Q1 2026 Earnings Call Transcript - Fortune",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVanZHLTc4MEdXNmdKaWVlNVBHNElGWlFPVXRuLWNBR2gzSVhvV1RybUpVeGdpREIydnJhbHFGakFwYVp0NGNQemk2Y0VOdUdSRWxqRkFDenZZTlA1QWJaOU1ycHNkNThMOExV?oc=5",
-    "source": "Adobe Marketing Cloud",
-    "source_category": "adobe",
-    "published": "2026-07-17T22:22:45+00:00",
-    "summary": "Adobe (ADBE) Q1 2026 Earnings Call Transcript Fortune",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
     "relevance_score": 14
-  },
-  {
-    "id": "78af04c86472",
-    "title": "Taylor Farms pulls iceberg lettuce from the US market after cyclosporiasis outbreak",
-    "url": "https://www.theverge.com/science/967563/cyclospora-taylor-farms-taco-bell-iceberg-lettuce",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-17T22:09:47+00:00",
-    "summary": "Food producer Taylor Farms released a statement on the Cyclospora outbreak Friday, confirming that it's \"voluntarily removing all iceberg lettuce sourced from central Mexico from the US market.\" Reuters reports that, according to a source, Taylor Farms told customers like Yum...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2139547139.jpg?quality=90&amp;strip=all&amp;crop=0%2C32.036370664711%2C100%2C35.927258670578&amp;w=1200",
-    "tags": [
-      "Health",
-      "News",
-      "Policy",
-      "Politics",
-      "Science"
-    ],
-    "industries": [],
-    "relevance_score": 14,
-    "also_covered_by": [
-      "Wall Street"
-    ]
-  },
-  {
-    "id": "bb15810c3140",
-    "title": "CMOs Should Question How AI Agents Make Decisions - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNbG9yUFhGY29IY0c5b01OdTNJMHRpai1EVkIzMjlBMWQ3Z2NyWXVuY1NuTmJsMXlwa0s2WFp3V2FKQXhGY2pXd0lxM0o1QkV1RndjdHhlbnIzTTZaa2FuZXlFZV9VWVNYZDlGUUNmanhHMXJjaU9QM05KOUxfUGdrTWZoTFJ1SjZjRHVpcEo4NUJiQ2Rhc2JGWmFlYTk1aHpLdnNr?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-07-16T14:00:00+00:00",
-    "summary": "CMOs Should Question How AI Agents Make Decisions Forbes",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 35
-  },
-  {
-    "id": "e30c19644261",
-    "title": "Missed Putts Cost Scheffler Ground, But He's Still The Man To Beat",
-    "url": "https://www.forbes.com/sites/break80/2026/07/17/missed-putts-cost-scheffler-ground-but-hes-still-the-man-to-beat/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-18T00:11:41+00:00",
-    "summary": "Scottie Scheffler is four shots off the lead at The Open after missed putts overshadowed another outstanding tee-to-green performance.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5ac2df993ebbde3c72429e/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "0cf792173a15",
-    "title": "Blue Jays’ Ernie Clement Offers Response On Losing Yankees Legend",
-    "url": "https://www.forbes.com/sites/peterchawaga/2026/07/17/blue-jays-ernie-clement-offers-response-on-losing-yankees-legend/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-18T00:00:00+00:00",
-    "summary": "The Toronto Blue Jays’ leading All-Star responded to losing a key piece from last year’s team after a former New York Yankees’ exit.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a598324022bd6bf6993a0a7/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "6cef6d3c50ad",
-    "title": "Euro Pacific Asset Management LLC Boosts Stake in SK Telecom Co., Ltd. $SKM - MarketBeat",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNclI2aEd6WldXa0Q0OWV1Z2dvckRIdlZuS0I3UGV5amtBUExMbWY1OHRXUTRibzdENU5wOEpqX3RkYk5RR2RqeWdmN2NMTHZqMW5vOU41LUtGU3pKTkplWmlPdm1QWlloMmtaX1hSQ0Q4dThCQ0NfWXNndmV6b0twZHVHM3NvRjR3WWV2ZkV0dTA1LVFHUmdRalhpaW1BNTgxSUVsZnBjREhHbUxHak9IaDF4VFVERW5uVWxILTJoZGlvTWNyc0JVYmluT2Y?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-07-18T08:53:11+00:00",
-    "summary": "Euro Pacific Asset Management LLC Boosts Stake in SK Telecom Co., Ltd. $SKM MarketBeat",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 10
   },
   {
     "id": "c6742457d2c6",
@@ -1701,68 +1759,19 @@
     "relevance_score": 36
   },
   {
-    "id": "945ac74fd9db",
-    "title": "‘The Odyssey’ Review: Nolan Delivers Another Masterful Commentary On War",
-    "url": "https://www.forbes.com/sites/hannahabraham/2026/07/17/the-odyssey-review-nolan-delivers-another-masterful-commentary-on-war/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-18T02:14:53+00:00",
-    "summary": "“Men used to go to war.” Christopher Nolan’s retelling of Homer’s Odyssey agrees, but also dares to ask, \"And for what?\"",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5ae0529e019ba9af461644/0x0.jpg?width=960&precrop=979%2C550%2Cx126%2Cy132",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [],
-    "relevance_score": 12
-  },
-  {
-    "id": "c7fdcee2d7fa",
-    "title": "Intuit scrapped its own AI agent architecture twice in four months. At VB Transform 2026, its AI VP called that the fast path",
-    "url": "https://venturebeat.com/orchestration/intuit-scrapped-its-own-ai-agent-architecture-twice-in-four-months-at-vb-transform-2026-its-ai-vp-called-that-the-fast-path",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-07-17T20:46:55+00:00",
-    "summary": "Intuit was an early pioneer in the usage of agentic AI, but its path to success has hardly been a straight line. At VB Transform 2026 , Intuit VP of AI Nhung Ho described how the company rebuilt its agent architecture twice in the span of about four months, first moving from...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/63cACeT7QkOu6fJw8A8JaE/6c088bbd56ab55ea8de782eeac544c73/VBXC9745-X3-intuit.jpg?w=300&q=30",
-    "tags": [
-      "Orchestration",
-      "VB Transform"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "08f18e9b2ee7",
-    "title": "TenPay Global Deepens Singapore Remittance Ecosystem Partnerships as Demand for Digital Transfers Grows - Macau Business",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVV9GRE5fSWN1WDRaYkRFRzVMZmZ6VUlqRWtvNFFUQlVGN3hjRmk3RmJadzFaaTU4WmZvVXptZ1dHeUNMY3c2RVpWbUd0al9KYnJCMFJrRWU0NmtpTG9IOUxfbmNxZmNqOEtWdHM5NklkZzFmZTlrWFYwUTd5UTUtdkVfRlFPUFYyWDVTN25WM1E1ZkxmYXVVblU2dnpER09hbUpFa3NlVkd0aUYzaXFzWDl5Rzh1ajBWVUd5eUwzNXJXR0xSRlRhWDl3?oc=5",
-    "source": "Fintech",
+    "id": "e477a27f0689",
+    "title": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPaW5BeHpmRUs0aGt0RThSdU1YaEQ1LXdRSTRyc0hhaGhjQldxR0o4LURIYVZpYkktdEZfbG1LSWZHRzRaV3pfaE5hZURoOFNtYnljTklUaU5RdkJScXA4Z285bktCOXk4dFZ1cjZabUE0QUl0NkQ2TXVQemgyUTNyWnVDU2xYN3d2NTBFUUM5enotbzFSREo3TNIBngFBVV95cUxPVUtIb2RCdVg4Z2VHcEQ4eVJ1ZEJzZjBFRnNTNWstelM4cDhlcTE5WGJJai16ZHRUc010ZFVjVHdxYkx5MXhsV200VWtHTUd1eUlXdmd2YmJVS3pYSGkwVVdnME5RU3g0OU5BaTdRWTFZZGJtMVEzbVdpT25fYTQ3aGhlV0tRM3JiTUxWQVR0blRVTVA3QkJ3MmctUjVfUQ?oc=5",
+    "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-07-18T08:13:15+00:00",
-    "summary": "TenPay Global Deepens Singapore Remittance Ecosystem Partnerships as Demand for Digital Transfers Grows Macau Business",
+    "published": "2026-07-18T11:31:03+00:00",
+    "summary": "'WarshGPT': How Wall Street is adapting to the Fed's new era of communication CNBC",
     "image_url": null,
     "tags": [],
-    "industries": [],
-    "relevance_score": 10
-  },
-  {
-    "id": "550e88057750",
-    "title": "$100 Invested In Adobe 15 Years Ago Would Be Worth This Much Today - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOaFlzMnJGOW5QZmZlODhLTkY5aUp1alJOQ1VucnhXWTR1MVJhNk51RG9Qam1yejF3OHdJU1d5ZmZ4S25jdEcyai1GdHhEVW1PM3RneXZpXzUwMjdjT2F2Nld1VzI1akhKZThaa0k2TG9BNGlIeTBLY3dOeHBXcWljRFgxSDVwYTNmQWFSTGV4ak4yU2JJYkZVcS1iMjhRTWhweHBybQ?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-07-17T22:45:24+00:00",
-    "summary": "$100 Invested In Adobe 15 Years Ago Would Be Worth This Much Today Benzinga",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 13
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 9
   },
   {
     "id": "9cf21b8cc9d2",
@@ -1786,41 +1795,46 @@
     "relevance_score": 15
   },
   {
-    "id": "8484e45067a4",
-    "title": "Pebble founder Eric Migicovsky says his 30-day warranty is all about trust",
-    "url": "https://www.theverge.com/gadgets/967471/pebble-smartwatch-warranty-repairs-migicovsky-interview",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-17T19:14:42+00:00",
-    "summary": "Pebble founder Eric Migicovsky says buyers of its new e-paper smartwatches should know what they're signing up for and trust Pebble to make things right if they run into issues, despite the short warranty. \"I think the most important thing is trust,\" Migicovsky told me in an...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/258119_Pebble_Core_2_Duo_Review_AKrales_0093.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Gadgets",
-      "News",
-      "Smartwatch",
-      "Tech",
-      "Wearable"
-    ],
+    "id": "44502cc079a8",
+    "title": "Adobe (ADBE) Q1 2026 Earnings Call Transcript - Fortune",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVanZHLTc4MEdXNmdKaWVlNVBHNElGWlFPVXRuLWNBR2gzSVhvV1RybUpVeGdpREIydnJhbHFGakFwYVp0NGNQemk2Y0VOdUdSRWxqRkFDenZZTlA1QWJaOU1ycHNkNThMOExV?oc=5",
+    "source": "Adobe Marketing Cloud",
+    "source_category": "adobe",
+    "published": "2026-07-17T22:22:45+00:00",
+    "summary": "Adobe (ADBE) Q1 2026 Earnings Call Transcript Fortune",
+    "image_url": null,
+    "tags": [],
     "industries": [],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
-    "id": "80d7763b3ca6",
-    "title": "Agents think in milliseconds, legacy infrastructure doesn't. LinkedIn, Walmart and Zendesk shared how they closed the gap at VB Transform 2026",
-    "url": "https://venturebeat.com/data/agents-think-in-milliseconds-legacy-infrastructure-doesnt-linkedin-walmart-and-zendesk-shared-how-they-closed-the-gap-at-vb-transform-2026",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-07-17T18:48:18+00:00",
-    "summary": "Legacy infrastructure, not the models themselves, is what's actually slowing AI agents down. That was the shared conclusion of three infrastructure leaders — from LinkedIn, Walmart, and Zendesk — at VB Transform 2026 . The panel brought together Animesh Singh, senior director...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/AZTPn0gbUoe8tg8qhQDL0/2ae53d1ea5c1fb9c88771cc37c716867/VBXC8968-X2-day2-opening-panel.jpg?w=300&q=30",
-    "tags": [
-      "Data",
-      "VB Transform"
-    ],
+    "id": "cace56f5009b",
+    "title": "Spanish Soccer Created the GOAT. The Only Problem Is That He Plays for Argentina. - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNOWI4NFJiRkliR1pYVFdCeG82ZlBhaWQzY2MwTFE0NDlEZmduX2J2S3NnUk1Pdkc4bVVPc0Z0VUJEaWdlNTZBeVJicVJkUFRxYWlLM1Z3WUVNVmFyZERpbkZNZUhQX2RQSl9wV1VFeXNHY3hjRE5QeGYzMmdtTndjMjhfTGRNcFF0SFZYa2RSa2dSSG5I?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-18T11:05:00+00:00",
+    "summary": "Spanish Soccer Created the GOAT. The Only Problem Is That He Plays for Argentina. WSJ",
+    "image_url": null,
+    "tags": [],
     "industries": [
-      "retail",
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 9
+  },
+  {
+    "id": "f2ebf9cd4397",
+    "title": "AI selloff hits Wall Street despite good inflation news - Detroit Free Press",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPZ2xEWjdNSzBNZ19zN2RxOUlOSnNONUFCWkdyM0xDa2N3Ym9DR3A3RldtOGdXeVNiU1p1UGJwcnNsQm9xWWRyN0ItWWttRG5WSWpHdW5PUzBYVjRpQlZjZjRQd0N4UFNoMGxMMWd3LWx1Y3hIMWZUaE1rR25xeE1yaE1WRVhNcThzc2w4dktkaDZ2bjE4bjVldmlCWEhsQkh0OW9fU1R5aGJKWVM2dGlVSkZocDdZd2w4UzB3OU1vUQ?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-18T11:02:00+00:00",
+    "summary": "AI selloff hits Wall Street despite good inflation news Detroit Free Press",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 9
   }
 ]
