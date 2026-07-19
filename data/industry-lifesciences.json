@@ -71,10 +71,7 @@
       "lifesciences",
       "financial"
     ],
-    "relevance_score": 14,
-    "also_covered_by": [
-      "Health Tech"
-    ]
+    "relevance_score": 14
   },
   {
     "id": "59d13d6b07f8",
@@ -139,7 +136,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "c55a9eb67d4a",
@@ -204,7 +201,10 @@
       "media",
       "lifesciences"
     ],
-    "relevance_score": 9
+    "relevance_score": 9,
+    "also_covered_by": [
+      "Health Tech"
+    ]
   },
   {
     "id": "eb696f8af0d7",
@@ -233,22 +233,6 @@
     "tags": [],
     "industries": [
       "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "11ae450c25dc",
-    "title": "CMS launches dedicated health technology office as AI and interoperability pressure mounts on hospital IT teams - MarketScale",
-    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUnI5TXJqQ29qckVnVUt5M25OZEFmYWFzRWVNeS1pY3hJck82cnJEX1ZHSTdUXzhUT1ZzUEhBb2V2dVVVbWxGNERVeVV5RGJ5c1JMUHcwa1c1VkpWT3U2Q084R0tja0xUNGltek01dVYxSTh4cDV4eGFoc0pOVXNFTlgzQ3JFdUhDTFMwWFduSFZ4MU1fRk0yWDFaUFoxc2d3UUdmSDlkYW9MbHpzU2xYUWxwbnRKcmlocGJuV0xnX3NCMlBXbmlTSmhpVVBUMzI0cEh4Q1pXNEdRdi1FQ0NwUWQ5c0txQkM1VXlyaG5pSkF3bWc?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-18T11:22:59+00:00",
-    "summary": "CMS launches dedicated health technology office as AI and interoperability pressure mounts on hospital IT teams MarketScale",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
       "lifesciences"
     ],
     "relevance_score": 9
@@ -367,6 +351,37 @@
     "relevance_score": 8
   },
   {
+    "id": "11ae450c25dc",
+    "title": "CMS launches dedicated health technology office as AI and interoperability pressure mounts on hospital IT teams - MarketScale",
+    "url": "https://news.google.com/rss/articles/CBMi8wFBVV95cUxNUnI5TXJqQ29qckVnVUt5M25OZEFmYWFzRWVNeS1pY3hJck82cnJEX1ZHSTdUXzhUT1ZzUEhBb2V2dVVVbWxGNERVeVV5RGJ5c1JMUHcwa1c1VkpWT3U2Q084R0tja0xUNGltek01dVYxSTh4cDV4eGFoc0pOVXNFTlgzQ3JFdUhDTFMwWFduSFZ4MU1fRk0yWDFaUFoxc2d3UUdmSDlkYW9MbHpzU2xYUWxwbnRKcmlocGJuV0xnX3NCMlBXbmlTSmhpVVBUMzI0cEh4Q1pXNEdRdi1FQ0NwUWQ5c0txQkM1VXlyaG5pSkF3bWc?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-18T11:22:59+00:00",
+    "summary": "CMS launches dedicated health technology office as AI and interoperability pressure mounts on hospital IT teams MarketScale",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "826cbca3e773",
+    "title": "Digital health venture funding hits $7.4B in first half of 2026 - Modern Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQZTZIRUxtV2psbW5CQXY2QWxvRm9DSDZlQkxmQkJtQ2lrazZPc3ZmYzE3VUMzODlXTGVfbFZVa2UyekV0akc1SHRhYlJGOVlXbG4yZGZyME9qVVpjMzdmQWkyZHJrVDRGNnBJdkhNZGNUWkdTSkgyODFIUUZGMnVoVHRhUjZLNDNjdGJtc1l3c0JpVFZk?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-13T16:00:00+00:00",
+    "summary": "Digital health venture funding hits $7.4B in first half of 2026 Modern Healthcare",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
     "id": "2202b23e4bf5",
     "title": "AMA interoperability initiative brings structured clinical terminology to CPT codes",
     "url": "https://www.fiercehealthcare.com/providers/ama-launches-interoperability-initiative-speed-electronic-prior-auths-terminology-mapping",
@@ -407,6 +422,22 @@
     "source_category": "industry_lifesciences",
     "published": "2026-07-16T07:38:06+00:00",
     "summary": "‘The Moat is No Longer Technological’: How Digital Health Fundraising Changed in H1 MedCity News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "582006a5d22f",
+    "title": "Lilly buys AtaiBeckley for $2.8B upfront to challenge J&J for psychedelic mental health market - Fierce Biotech",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNR2Z4dWs4Yms1QzVzLV85MTA4V0oxOXdOUUpZVTRzU3ZYekRYN0RUNmk3VjRKeHJjT1NiNHAzZVV2dUV5VUZjOThRdlMxNDVrNDEwbU1kQUZtZzhEN0N3ZHBjSlN3d01ZWGhTMXpCZ0dzY1FFcW1JTXlkaDh4RWxSWkpobm1DQ1RqS05RNldHUWRNOExFMG8tdGhLYVNNTEFnVjJKUnZFRzBocERFN1VueWp5UXUzNVMtanRVX0JB?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-16T11:32:42+00:00",
+    "summary": "Lilly buys AtaiBeckley for $2.8B upfront to challenge J&J for psychedelic mental health market Fierce Biotech",
     "image_url": null,
     "tags": [],
     "industries": [
