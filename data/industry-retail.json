@@ -199,28 +199,6 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 15
-  },
-  {
-    "id": "930a1876f7ea",
-    "title": "Washington Watchdogs Take Notice As AI Becomes Retail’s Front Door",
-    "url": "https://www.forbes.com/sites/pamdanziger/2026/07/19/washington-watchdogs-take-notice-as-ai-becomes-retails-front-door/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-19T10:29:39+00:00",
-    "summary": "As AI agents become the new front door to online shopping, policy makers are raising questions about whether new federal guidelines are needed to protect consumers.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a5bd1c3b5331cd74c4324d0/0x0.jpg",
-    "tags": [
-      "Retail",
-      "/retail",
-      "Business",
-      "/business",
-      "Retail"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
     "relevance_score": 14
   },
   {
@@ -247,21 +225,19 @@
     "relevance_score": 12
   },
   {
-    "id": "80d7763b3ca6",
-    "title": "Agents think in milliseconds, legacy infrastructure doesn't. LinkedIn, Walmart and Zendesk shared how they closed the gap at VB Transform 2026",
-    "url": "https://venturebeat.com/data/agents-think-in-milliseconds-legacy-infrastructure-doesnt-linkedin-walmart-and-zendesk-shared-how-they-closed-the-gap-at-vb-transform-2026",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-07-17T18:48:18+00:00",
-    "summary": "Legacy infrastructure, not the models themselves, is what's actually slowing AI agents down. That was the shared conclusion of three infrastructure leaders — from LinkedIn, Walmart, and Zendesk — at VB Transform 2026 . The panel brought together Animesh Singh, senior director...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/AZTPn0gbUoe8tg8qhQDL0/2ae53d1ea5c1fb9c88771cc37c716867/VBXC8968-X2-day2-opening-panel.jpg?w=300&q=30",
-    "tags": [
-      "Data",
-      "VB Transform"
-    ],
+    "id": "b060ba79f252",
+    "title": "Wall Street Is Warming to Marvell After Its XConn Acquisition. Here’s The Price Target - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPT0ZOTmRpVTBRUzd4WENmZWQ0bkM1UnJHS2lmZktGU0xvYmNCUnFCOTR2OXJoWnc3anhvbUdrN2lHQ2drdGFta0xnbFNOdTZTLXg1R3gxclFjNGxWRE81WmtVQW1SemdIcXQ0RVhtMFl6QXlOMGNya1dtZld6RHdHM0g3dUdBVmZJOFlYYUFFcHoxdS1sQ1lBVE43NmVna1UxWk9qeUFmRVFlNGJnZlVmaDQweWt0M2hqc180YVA0Wk9ZdlFoWmVv?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-19T17:30:26+00:00",
+    "summary": "Wall Street Is Warming to Marvell After Its XConn Acquisition. Here’s The Price Target 24/7 Wall St.",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "retail",
-      "industrial"
+      "industrial",
+      "financial"
     ],
     "relevance_score": 12
   },
@@ -294,6 +270,25 @@
     ],
     "industries": [
       "retail"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "80d7763b3ca6",
+    "title": "Agents think in milliseconds, legacy infrastructure doesn't. LinkedIn, Walmart and Zendesk shared how they closed the gap at VB Transform 2026",
+    "url": "https://venturebeat.com/data/agents-think-in-milliseconds-legacy-infrastructure-doesnt-linkedin-walmart-and-zendesk-shared-how-they-closed-the-gap-at-vb-transform-2026",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-07-17T18:48:18+00:00",
+    "summary": "Legacy infrastructure, not the models themselves, is what's actually slowing AI agents down. That was the shared conclusion of three infrastructure leaders — from LinkedIn, Walmart, and Zendesk — at VB Transform 2026 . The panel brought together Animesh Singh, senior director...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/AZTPn0gbUoe8tg8qhQDL0/2ae53d1ea5c1fb9c88771cc37c716867/VBXC8968-X2-day2-opening-panel.jpg?w=300&q=30",
+    "tags": [
+      "Data",
+      "VB Transform"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
     ],
     "relevance_score": 11
   },
@@ -415,6 +410,44 @@
     "relevance_score": 9
   },
   {
+    "id": "a3834f3d2601",
+    "title": "Capital One releases VulnHunter, an open-source AI tool that finds software flaws before hackers do",
+    "url": "https://venturebeat.com/technology/capital-one-releases-vulnhunter-an-open-source-ai-tool-that-finds-software-flaws-before-hackers-do",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-07-17T20:51:30+00:00",
+    "summary": "Capital One on Thursday released VulnHunter , an open-source, agentic AI security tool that scans source code for exploitable vulnerabilities, maps out how an attacker would reach them, and proposes targeted fixes — all before a single line ships to production. The tool,...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4WyYBE0eHzPTbv6jfjEWSx/7f036d0db42a8ad93985502ab8ece9f4/Nuneybits_Vector_art_of_a_Capital_One_credit_card_made_of_compu_fe529096-78bd-401e-b668-abeb2d5496e0.webp?w=300&q=30",
+    "tags": [
+      "Technology",
+      "Security",
+      "Infrastructure"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "652049d555a9",
+    "title": "They Call Her ‘the Assassin’ on Wall Street—and She Has a New Target - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNRHFab3VyeXBnd3lCLVNqVTVuakNMbjBITlloV1FBQkxVTXFIMDJxQ3VURFB4MjV1YlZZWHl5YThibHRtaUxDVGZlamp4aDlQVVdadVlPeUExcHczSGxVam1RUmZJa29lekM4TmN0N2hRUkdGRHc?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-19T16:31:58+00:00",
+    "summary": "They Call Her ‘the Assassin’ on Wall Street—and She Has a New Target WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "f40f21a3f6d4",
     "title": "Yes, you can now order DoorDash from the command line",
     "url": "https://techcrunch.com/2026/07/16/yes-you-can-now-order-doordash-from-the-command-line/",
@@ -454,22 +487,6 @@
     "also_covered_by": [
       "Telecom 5G"
     ]
-  },
-  {
-    "id": "d619239bb5d3",
-    "title": "Is Adobe (ADBE) a Takeover Target? Rumors Are Swirling - TipRanks",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSEJ4bG5qTjUzVWQxR0lwb0F6d21ZV2duWXd1aG1EV1BaNzFUQ25Mb19tb29aTWRkZTF6eXBUaGlBWGFMLVdMX3pnOW9PZHBrcnAtRWdKZVhKU2U1UTdFSENkV1VOckZmeFk3ZmlELVFNbm1Idm1kTGdoaHQzZGwtM0Fnek5PLU9N?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-07-17T19:01:18+00:00",
-    "summary": "Is Adobe (ADBE) a Takeover Target? Rumors Are Swirling TipRanks",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 8
   },
   {
     "id": "2202b23e4bf5",
@@ -537,6 +554,22 @@
     "relevance_score": 7
   },
   {
+    "id": "d619239bb5d3",
+    "title": "Is Adobe (ADBE) a Takeover Target? Rumors Are Swirling - TipRanks",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOSEJ4bG5qTjUzVWQxR0lwb0F6d21ZV2duWXd1aG1EV1BaNzFUQ25Mb19tb29aTWRkZTF6eXBUaGlBWGFMLVdMX3pnOW9PZHBrcnAtRWdKZVhKU2U1UTdFSENkV1VOckZmeFk3ZmlELVFNbm1Idm1kTGdoaHQzZGwtM0Fnek5PLU9N?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-07-17T19:01:18+00:00",
+    "summary": "Is Adobe (ADBE) a Takeover Target? Rumors Are Swirling TipRanks",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 7
+  },
+  {
     "id": "519c6a43570f",
     "title": "Wells Fargo raises JPMorgan stock price target on strong growth - Investing.com",
     "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc01Rd2ItR1NUbXZFMlkzeG9mTFdWN0QzeWdRWVlBOGkwUEluYTBNTElVTlF4d2doWHJKeFpxd1ktb0VuQ1Y2UWZzSFdUZmJob0VwVVB4OUdNcEotekdYQ08zaU9penM4Z0JvM2dtU0Rjakhrc3FGVE94ZlNtNUE2Z19Gb3pMaVl1U3ZrckxWRVFIb0dXeU1rM2xIUmkzdXB0RlBidjF6MVI3NXpURjhqV0JHdzNsVWZWb3A4LXQ4Vms?oc=5",
@@ -544,23 +577,6 @@
     "source_category": "industry_financial",
     "published": "2026-07-15T10:25:05+00:00",
     "summary": "Wells Fargo raises JPMorgan stock price target on strong growth Investing.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "652049d555a9",
-    "title": "They Call Her ‘the Assassin’ on Wall Street—and She Has a New Target - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBNRHFab3VyeXBnd3lCLVNqVTVuakNMbjBITlloV1FBQkxVTXFIMDJxQ3VURFB4MjV1YlZZWHl5YThibHRtaUxDVGZlamp4aDlQVVdadVlPeUExcHczSGxVam1RUmZJa29lekM4TmN0N2hRUkdGRHc?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-18T00:00:00+00:00",
-    "summary": "They Call Her ‘the Assassin’ on Wall Street—and She Has a New Target WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
