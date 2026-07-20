@@ -14,7 +14,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 58
+    "relevance_score": 55
   },
   {
     "id": "1c3059fb7886",
@@ -92,23 +92,6 @@
     "relevance_score": 46
   },
   {
-    "id": "5545006e6dd7",
-    "title": "Five things the World Cup taught marketers about creators",
-    "url": "https://digiday.com/marketing/the-world-cup-was-a-stress-test-for-creator-marketing-heres-what-it-revealed/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-07-20T04:01:00+00:00",
-    "summary": "The World Cup has wrapped, which means it’s time for the obligatory marketing takeaways piece.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/08/creator-rates-digiday2.jpg",
-    "tags": [
-      "Marketing"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 46
-  },
-  {
     "id": "94c2c339fe08",
     "title": "Web Push advertising in 2026: Market trends and challenges by RollerAds",
     "url": "https://martech.org/web-push-advertising-in-2026-market-trends-and-challenges/",
@@ -146,6 +129,23 @@
       "consumer"
     ],
     "relevance_score": 45
+  },
+  {
+    "id": "5545006e6dd7",
+    "title": "Five things the World Cup taught marketers about creators",
+    "url": "https://digiday.com/marketing/the-world-cup-was-a-stress-test-for-creator-marketing-heres-what-it-revealed/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-07-20T04:01:00+00:00",
+    "summary": "The World Cup has wrapped, which means it’s time for the obligatory marketing takeaways piece.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/08/creator-rates-digiday2.jpg",
+    "tags": [
+      "Marketing"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 43
   },
   {
     "id": "e854311c3876",
@@ -353,7 +353,29 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
+  },
+  {
+    "id": "28429de772d3",
+    "title": "China delivers a one-two punch to America’s AI dominance",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/967781/chinese-ai-models-open-source-moonshot-kimi-k3-alibaba-qwen",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-20T10:16:33+00:00",
+    "summary": "China's leading AI companies are ramping up the pressure on Silicon Valley, as Moonshot and Alibaba unveiled models they claim can go toe-to-toe with the best from OpenAI and Anthropic at a fraction of the cost. The rapid-fire releases suggest America's lead at the AI...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/gettyimages-2286623351.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "News",
+      "OpenAI",
+      "Policy"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 16
   },
   {
     "id": "0aba2be743cd",
@@ -398,26 +420,68 @@
     "relevance_score": 15
   },
   {
-    "id": "5b2742acff78",
-    "title": "Orchid is a delightfully retro and approachable hipster synth",
-    "url": "https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-19T15:15:00+00:00",
-    "summary": "In 2017, I bought an old Magnus chord organ off Craigslist for $10. It's one of my favorite music gear purchases. Electric chord organs let you play full chords with just a press of a button, making them perfect for aspiring singer-songwriters or fooling around at home. But...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268657_Orchid_TOBrien_0007.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "id": "d9f2a8fab470",
+    "title": "The Defense Startup Betting On Peace",
+    "url": "https://www.forbes.com/sites/guneyyildiz/2026/07/20/the-defense-startup-betting-on-peace/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-20T08:00:00+00:00",
+    "summary": "Lithuania is turning threat proximity into a defense-tech cluster. The harder test is whether ownership and strategic value remain at home.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a46c6f66e2cf4c06fbe8ddf/0x0.jpg",
     "tags": [
-      "Accessory Reviews",
-      "Entertainment",
-      "Gadgets",
-      "Music",
-      "Reviews"
+      "Energy",
+      "/energy",
+      "Business",
+      "/business",
+      "Energy"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "35a1b28301c0",
+    "title": "AI is more likely than humans to form biases when hiring",
+    "url": "https://www.technologyreview.com/2026/07/20/1140655/ai-biases-hiring-humans/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-07-20T08:39:01+00:00",
+    "summary": "The next time you apply for a job, AI may screen your résumé before any human sees it. But there’s good reason to question whether AI will judge you fairly. Researchers already know that LLMs pick up human biases from their training data. New research suggests that LLMs can...",
+    "image_url": null,
+    "tags": [
+      "Artificial intelligence",
+      "AI",
+      "App",
+      "artificial intelligence",
+      "Summary"
     ],
     "industries": [
       "tech",
       "industrial"
     ],
-    "relevance_score": 13
+    "relevance_score": 15
+  },
+  {
+    "id": "62d8798f210f",
+    "title": "Apps Marketed to US Troops Are Shipping Chinese and Russian Code",
+    "url": "https://www.wired.com/story/apps-marketed-to-us-troops-are-shipping-chinese-and-russian-code/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-20T09:30:00+00:00",
+    "summary": "A first-of-its-kind analysis found more than one in eight apps built for US service members carried foreign code—some from firms in nations the Pentagon designates as adversaries.",
+    "image_url": "https://media.wired.com/photos/6a590c08ef566878c27c1e0d/master/pass/Security_Apps%20Marketed%20to%20US%20Troops%20Are%20Shipping%20Chinese%20and%20Russian%20Code,%20Study%20Finds_v1.jpg",
+    "tags": [
+      "Security",
+      "Security / National Security",
+      "China",
+      "Russia",
+      "cybersecurity"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 15
   },
   {
     "id": "1069bf32f909",
@@ -469,29 +533,6 @@
     ],
     "industries": [
       "tech"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "9fbe662b4a1f",
-    "title": "San Francisco Demands Apple and Google Delete AI ‘Nudify’ Apps From App Stores",
-    "url": "https://www.wired.com/story/san-francisco-demands-apple-and-google-delete-ai-nudify-apps-from-app-stores/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-17T10:00:00+00:00",
-    "summary": "The City Attorney’s Office sent the tech giants cease-and-desist letters this week telling them to stop profiting from 13 “face-swap” apps that are overwhelmingly used to target women and girls.",
-    "image_url": "https://media.wired.com/photos/6a59432865c28720eb4e8366/master/pass/Security_San%20Francisco%20Tells%20Apple%20and%20Google%20To%20Stop%20Profiting%20From%20AI%20Nudifiers_v7.jpg",
-    "tags": [
-      "Security",
-      "Security / Privacy",
-      "Google",
-      "apple",
-      "Apps"
-    ],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
     ],
     "relevance_score": 12
   },
@@ -561,6 +602,28 @@
     "relevance_score": 12
   },
   {
+    "id": "5b2742acff78",
+    "title": "Orchid is a delightfully retro and approachable hipster synth",
+    "url": "https://www.theverge.com/entertainment/967485/telepathic-instruments-orchid-tame-impala-synth-review",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-19T15:15:00+00:00",
+    "summary": "In 2017, I bought an old Magnus chord organ off Craigslist for $10. It's one of my favorite music gear purchases. Electric chord organs let you play full chords with just a press of a button, making them perfect for aspiring singer-songwriters or fooling around at home. But...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268657_Orchid_TOBrien_0007.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Accessory Reviews",
+      "Entertainment",
+      "Gadgets",
+      "Music",
+      "Reviews"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
     "id": "feed4a5514ac",
     "title": "Publicis addresses LiveRamp deal, lagging Sapient arm as it raises outlook",
     "url": "https://www.marketingdive.com/news/publicis-addresses-liveramp-deal-lagging-sapient-arm-as-it-raises-outlook/825379/",
@@ -588,44 +651,6 @@
     "industries": [
       "tech",
       "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "8b87147b1698",
-    "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
-    "url": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-18T10:00:00+00:00",
-    "summary": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
-    "image_url": "https://media.wired.com/photos/6a57867336e98c56882c9e64/master/pass/GeminiStorage.jpg",
-    "tags": [
-      "Gear",
-      "Gear / How To and Advice",
-      "Google",
-      "how-to",
-      "artificial intelligence"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "2393f9d45a98",
-    "title": "St. Kitts and Nevis launches national digital health platform covering 51,000 citizens - MarketScale",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON3VjTkJOZTlNZ01RNU9oSjBCelBKMVRSbU5reDdNeVN3R2hqS19sN3FJd2w5Z280bGwyUzNJdkxqbk9hMS1wMGhuSDNLa0dKVy1mUjRPbFE5SVNYbVdnbkFIOWluX0lqR1lVWWFOWGJGMW9HYXd0Nmh1ZzNtaTBTcVZBSDRQQURVYVRNcE9hNzJTVzJja0o3R1FBaDdJeTZaTW1uaE5UZlp3bGtvcEJMaExsMlBZemNwN3kwbUhwM2ljbVEtT2RYR1E5R1VUMzQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-19T14:38:14+00:00",
-    "summary": "St. Kitts and Nevis launches national digital health platform covering 51,000 citizens MarketScale",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
       "lifesciences"
     ],
     "relevance_score": 11
@@ -660,27 +685,6 @@
     ],
     "industries": [
       "media",
-      "tech"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "a3d54641acfb",
-    "title": "Valve Steam Machine Review: A Compromised Console",
-    "url": "https://www.wired.com/review/valve-steam-machine/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-17T11:00:00+00:00",
-    "summary": "Great for indie darlings, but Sony, Microsoft, and Nintendo remain kings of TV gaming.",
-    "image_url": "https://media.wired.com/photos/6a57cbdd86632532b47bf5b5/master/pass/Steam%20Machine%20(10).jpg",
-    "tags": [
-      "Gear",
-      "Gear / Products / Gaming",
-      "Gear / Reviews",
-      "Valve",
-      "Steam"
-    ],
-    "industries": [
       "tech"
     ],
     "relevance_score": 10
@@ -747,20 +751,20 @@
     "relevance_score": 10
   },
   {
-    "id": "3549e1622cee",
-    "title": "Your Period Tracker Is (Probably) Spying on You",
-    "url": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
+    "id": "8b87147b1698",
+    "title": "How Google’s New Gemini Rates Work and How to Track Your Usage",
+    "url": "https://www.wired.com/story/how-googles-new-gemini-rates-work-and-how-to-track-your-usage/",
     "source": "Wired",
     "source_category": "ai",
-    "published": "2026-07-18T10:30:00+00:00",
-    "summary": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s scraping ways, and more.",
-    "image_url": "https://media.wired.com/photos/6a5ac7c5087b4a8eadcc0752/master/pass/Security-News-Period-Tracker-Spying-on-You-Security.jpg",
+    "published": "2026-07-18T10:00:00+00:00",
+    "summary": "Now that Google has changed how its usage quotas are tallied, you might not get as many AI responses as you did before.",
+    "image_url": "https://media.wired.com/photos/6a57867336e98c56882c9e64/master/pass/GeminiStorage.jpg",
     "tags": [
-      "Security",
-      "Security / Security News",
-      "security roundup",
-      "security",
-      "cybersecurity"
+      "Gear",
+      "Gear / How To and Advice",
+      "Google",
+      "how-to",
+      "artificial intelligence"
     ],
     "industries": [
       "tech",
@@ -788,19 +792,50 @@
     "relevance_score": 10
   },
   {
-    "id": "3fc6a0f3e294",
-    "title": "Activeport signs GOIP to Global Edge platform under three-year agreement - Telecompaper",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUTlBQ0t2LTROSlFfM3ZZcHBURFEzR2hSRGVNTm1WWEtCRFliUDlERFYzbkJuYmlUb3VuNV9FMzB1bU9Lckc5bzFFUmJwZ2VkRnRpWV9GNklZYjZNX25zb3BFU1g5YUh3TGI2STl2eGlQeF9pMHUwblo2ZF82UUNFLXV6d1JYODBwZUx0YmstcF95ZVZrWGZuRC1NU3dDZTc1cm92blBDMnB0NW1MRFJQMjZtYmRmZw?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-07-20T05:32:12+00:00",
-    "summary": "Activeport signs GOIP to Global Edge platform under three-year agreement Telecompaper",
+    "id": "2393f9d45a98",
+    "title": "St. Kitts and Nevis launches national digital health platform covering 51,000 citizens - MarketScale",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxON3VjTkJOZTlNZ01RNU9oSjBCelBKMVRSbU5reDdNeVN3R2hqS19sN3FJd2w5Z280bGwyUzNJdkxqbk9hMS1wMGhuSDNLa0dKVy1mUjRPbFE5SVNYbVdnbkFIOWluX0lqR1lVWWFOWGJGMW9HYXd0Nmh1ZzNtaTBTcVZBSDRQQURVYVRNcE9hNzJTVzJja0o3R1FBaDdJeTZaTW1uaE5UZlp3bGtvcEJMaExsMlBZemNwN3kwbUhwM2ljbVEtT2RYR1E5R1VUMzQ?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-19T14:38:14+00:00",
+    "summary": "St. Kitts and Nevis launches national digital health platform covering 51,000 citizens MarketScale",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "telecom",
-      "industrial"
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "c3eb7548ad51",
+    "title": "University teams up with startup on comsumer brain health monitoring tech - Health Tech World",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxONGN2Y2xCSWl0U0lKODFrWXF6SE42Nm81U2phU0NabktTZDY1NXhNazdGaERSN2V5UXBQbWlWaktKZEtrM09fVHowUlhleXNyMlBqd1I5NkFlTTkxbFJqZjBneTl4YzJzTnphczYtWTZHeFc5UEFVWU5maTRDQ241OTI4ejVzcTNlSHJ4M2V5UGEyVENqdlFEX084ek5yT3N0emFVc0M3aGFuelRGU3c?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-20T08:01:36+00:00",
+    "summary": "University teams up with startup on comsumer brain health monitoring tech Health Tech World",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "72029b64d9c5",
+    "title": "Nervous System-Based Support Apps: Nervana Debuts Its AI-Powered Digital Health App… - Trend Hunter",
+    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFAzYlhUQ0wxRGFmRlVSSWt5b1pERXYyY0Y2MzlaMXk0QzVQWDV1TUJsVVlGOE1fWnBwb2Vwd0p0WEc1MzlWRkFZc1Rtc19KMTlQWnNkQjZWeHBDOG5WWEhnbWFISklnV3FMZ2tsbXd3UQ?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-20T09:56:15+00:00",
+    "summary": "Nervous System-Based Support Apps: Nervana Debuts Its AI-Powered Digital Health App… Trend Hunter",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
     ],
     "relevance_score": 10
   },
@@ -960,26 +995,43 @@
     "relevance_score": 9
   },
   {
-    "id": "083560c542d9",
-    "title": "What Anthropic’s latest AI discovery does—and doesn’t—show",
-    "url": "https://www.technologyreview.com/2026/07/13/1140343/what-anthropics-latest-ai-discovery-does-and-doesnt-show/",
-    "source": "MIT Technology Review",
+    "id": "3549e1622cee",
+    "title": "Your Period Tracker Is (Probably) Spying on You",
+    "url": "https://www.wired.com/story/security-news-this-week-your-period-tracker-is-probably-spying-on-you/",
+    "source": "Wired",
     "source_category": "ai",
-    "published": "2026-07-13T18:00:00+00:00",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Anthropic—currently the world’s most valuable AI company, with a nearly $1 trillion valuation—has a reputation for publishing strange and...",
-    "image_url": null,
+    "published": "2026-07-18T10:30:00+00:00",
+    "summary": "Plus: Russian cyberspies turn to infrastructure hacking, DHS repeatedly fails to realize it’d been hacked, a breach exposes an AI music generator’s scraping ways, and more.",
+    "image_url": "https://media.wired.com/photos/6a5ac7c5087b4a8eadcc0752/master/pass/Security-News-Period-Tracker-Spying-on-You-Security.jpg",
     "tags": [
-      "Artificial intelligence",
-      "App",
-      "artificial intelligence",
-      "The Algorithm"
+      "Security",
+      "Security / Security News",
+      "security roundup",
+      "security",
+      "cybersecurity"
     ],
     "industries": [
-      "media",
       "tech",
       "industrial"
     ],
-    "relevance_score": 8
+    "relevance_score": 9
+  },
+  {
+    "id": "3fc6a0f3e294",
+    "title": "Activeport signs GOIP to Global Edge platform under three-year agreement - Telecompaper",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPUTlBQ0t2LTROSlFfM3ZZcHBURFEzR2hSRGVNTm1WWEtCRFliUDlERFYzbkJuYmlUb3VuNV9FMzB1bU9Lckc5bzFFUmJwZ2VkRnRpWV9GNklZYjZNX25zb3BFU1g5YUh3TGI2STl2eGlQeF9pMHUwblo2ZF82UUNFLXV6d1JYODBwZUx0YmstcF95ZVZrWGZuRC1NU3dDZTc1cm92blBDMnB0NW1MRFJQMjZtYmRmZw?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-07-20T05:33:04+00:00",
+    "summary": "Activeport signs GOIP to Global Edge platform under three-year agreement Telecompaper",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom",
+      "industrial"
+    ],
+    "relevance_score": 9
   },
   {
     "id": "43d641dee6a6",
@@ -1065,10 +1117,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 8,
-    "also_covered_by": [
-      "Health Tech"
-    ]
+    "relevance_score": 8
   },
   {
     "id": "f641396dab96",
@@ -1100,21 +1149,6 @@
     "industries": [
       "tech",
       "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "8b580a8e3279",
-    "title": "Sephora vet to take Calvin Klein parent’s CFO seat",
-    "url": "https://www.retaildive.com/news/sephora-veteran-take-calvin-klein-parents-cfo-seat/825361/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-07-16T15:01:00+00:00",
-    "summary": "PVH appointed Alexis Rollier to take the finance reins about eight months after its previous finance chief, Zac Coughlin, departed.",
-    "image_url": "https://imgproxy.divecdn.com/A35lWLQgF8U0FpWrP3Yiw3OjqyfLEHmbfQqvQa0DSO4/g:nowe:0:275/c:1080:610/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GMjRfSkFXX1BSX25vbG9nb18zLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 8
   },
@@ -1174,21 +1208,6 @@
     "relevance_score": 8
   },
   {
-    "id": "fe0006850ce2",
-    "title": "Pastors Using AI to Help Write Sermons Grapple With Where to Draw the Line - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxORkJrNHZIMndwVTZXcmE0SW5CYlFNd3hsbkRnU05uRzFYY3REemJiQjMtN1NhSkVKRXdXbExHM2xIb3dwYzhMWE0tMkNXYVJoZ1ZXemlmRGRLaVBnbFVFNEotczVIME11Q0ZTaGx0Y2s2d09faXZzYms0UVVrRkVHdjhOYWt1dTFKRkhVckhTZkJLWjlISnR4UHBfb05uTUJKRFJwR1ZPMElhTHZ3SkJNNw?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-19T09:30:00+00:00",
-    "summary": "Pastors Using AI to Help Write Sermons Grapple With Where to Draw the Line WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "139cac5b0b7c",
     "title": "Egypt, Serbia to sign MoU to expand cooperation in digital health, medical technology - Dailynewsegypt",
     "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPdjVKeTJoUFRTQ0ZxNEhCMVdfVlBDcEFxZFdPQzdoVjBpdXhEZlpQRklZakFRaHJVNlE0WDdlSERKQXZVdFlIbVJUSzkxUEpJVFoxM1BRN3ZZcW1qSTBmNGxCTkd5SkRpc0JLZENmM0lKaGprb18wZ0hDUWc1ZDdwcFhVY2hWSU9QV0U4Y0JfRUl1eXhubzk5WFBVUURjV21xR1E5WkRFT2xXQ0VoR3NHclA2bUg1ZFo4b1I3T2tNMldkSF91?oc=5",
@@ -1201,6 +1220,21 @@
     "industries": [
       "tech",
       "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "6531a9c6cb63",
+    "title": "The Pentagon Is Finally Buying (Some) Weapons From Startups - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNSVU0cm9SRENHbU94cHRSSW4yTjZCVkZvWFlrTWFrTUt5S2RycGlPWml0R09GTno3ZDlBbmhsMGptSlVSSExoQ2EwNjB0RmtLZ1piSXBHNERqZlUtV3p6T0hwVW5pbHZjYUYwUFVkM2JkSXdnc2ZqWG13SXFDYjA3dnVCcl9VOF9neGNOczY2dGlLZEQ1?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-20T02:00:00+00:00",
+    "summary": "The Pentagon Is Finally Buying (Some) Weapons From Startups WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 8
   },
@@ -1288,6 +1322,21 @@
     "relevance_score": 7
   },
   {
+    "id": "234fd15dc362",
+    "title": "What Is Adobe Creative Cloud & How Does It Work? Pricing, Apps & More - Cloudwards.net",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE05WDZsTVU5Q3R0c3ZFcGNVZ0diandyWVRMZ3FYR2xDdnFjSW5FZGowcVhqQUU5d0xSR25Hd0hDbFNUQ0NjbkRyaWNxRDN4cC0tdW1CYWFzVFRGQ1NGVXJOMVU5S3phMlE?oc=5",
+    "source": "Adobe Marketing Cloud",
+    "source_category": "adobe",
+    "published": "2026-07-17T14:43:05+00:00",
+    "summary": "What Is Adobe Creative Cloud & How Does It Work? Pricing, Apps & More Cloudwards.net",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 7
+  },
+  {
     "id": "f78cd0634b94",
     "title": "Brex built its AI agent policy by watching what agents actually do, not by writing rules first",
     "url": "https://venturebeat.com/orchestration/brex-built-its-ai-agent-policy-by-watching-what-agents-actually-do-not-by-writing-rules-first",
@@ -1302,6 +1351,22 @@
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "2ffc2ed2ea49",
+    "title": "FDA approves 1st-of-its-kind pill to reduce cholesterol - ABC11 News",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOdm1qX05vX2pfMURZdUlQUzY5X3BTOWxudXVBaHRCdHBQcnhMb21MajFBLTh6cmJ6cTNIQTBNVVVsLW16ZGxPcDBOT0xtbXR2d0VKOG1DSkxiX21lX3ptZUpIeFNSTkZmdVBMaEFYandKSFZvUkx4Rm9yUHFqNWhYTGZtSnVTbTZ5a3U4RURnZmRaSmdkUTZTcmxMUQ?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-17T18:56:35+00:00",
+    "summary": "FDA approves 1st-of-its-kind pill to reduce cholesterol ABC11 News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
     ],
     "relevance_score": 7
   },
@@ -1368,21 +1433,6 @@
     "relevance_score": 6
   },
   {
-    "id": "210b0908512a",
-    "title": "More Than Smartphones: How Digital Technology Is Changing North Korea - 38 North",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxObmZrNEhpMURpVlJYeGRzTjBacVJSRHBVR1BoMG5lTmg4QVhGZEVtV2J5dWJ4d2VGQ0RTMEtOZnltaEw4dUF0VmItWWo5c0VCTWNWS2JSVmNVUlBISjYxOGNSbDV1dG1VUkRIU2xnMXFoOEpBaEs3UzJ0UC1ndmxmeWhTNTctdVB0aWlua1JZaE12UXZ1WmJkMFRPWGZOSnBoQzIw?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-07-15T12:54:02+00:00",
-    "summary": "More Than Smartphones: How Digital Technology Is Changing North Korea 38 North",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 6
-  },
-  {
     "id": "0e784696b0bb",
     "title": "Mastercard Software Helps Companies Launch Custom Digital Wallets - PYMNTS.com",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNT3ZRS09SYUk3RTd6QUIyWkdKbXE5Q1JzeWZpMkZwM2JPQVpYMGNvREg0RVB4d3hWLUUxWUlGYTFpNl9NR1QxWk9MdWlpdnZTeEZ6a1RRdGFDMkJ5Z0ZOZUNad1d6YV9LMVRVbS03MDh3S0Fjdy1RWlVYeEtuaTNsa19sTzRDa0dqRUZLUWNtSng1N3M5LV82aUhmMHlLc0MwdHVyV1R1WnA?oc=5",
@@ -1412,22 +1462,6 @@
     ],
     "industries": [
       "tech"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "675b4ccf39b9",
-    "title": "FDA approves 1st-of-its-kind pill to reduce cholesterol - ABC News - Breaking News, Latest News and Videos",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPSWNuT3JMNTAxWktqQXlBVFZ5b2JGNWFjb1M1RW9PRlhLVkNobllVZEMwdzVmc1pydlN2WHFDOVNTMWxpSGFueU1Bc2JtSGtNb2NQcC1wbHRXMmVnYkVQUFI1cHdfMlNpRWlORDlobVZmc3NNWWkyQUIzcUdsUkdySVdRQVF6NWF4YlZqQUxwM3BTYWtsd0HSAZsBQVVfeXFMUHRBLUlEeE1aOG1GTk04M0w4Q191WmVRZ0I1d1NXZHczR0NDZDJ5TjZpeFdfdTZDcG5kTXItMlpvcVhTSFNzVWlUZGJoWlVRNTBLREt0eS1lYkhXZURiRTJOcDJaWDRBQnFUMDVHRFZNc09CU3F3OHlqN3RBU2FLYV9PTjNWS1ZvMDRrM2JjY21KVF9jdFpwYWpRV28?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-16T22:05:57+00:00",
-    "summary": "FDA approves 1st-of-its-kind pill to reduce cholesterol ABC News - Breaking News, Latest News and Videos",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
     ],
     "relevance_score": 6
   },
@@ -1476,6 +1510,21 @@
     "industries": [
       "tech",
       "financial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "5393f893061e",
+    "title": "China’s NMPA Approves Iza-Bren for Pretreated Recurrent/Metastatic ESCC - OncLive",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPRXNwYVQwRlBiOUwxakpIR2NyV2w4cDBYQllQdTZXZ0Z6ZzhUUElWNnBqREg5bUpZNkdkVFZaRUlTQTNycmZpTFNjLVQwbHlaM2dPQktqSFZzZ1k1VjdnRzRlQzBWZ05pcjdwMDhCQ3pQQ0E5b3BHWUtrNWlPWXZPaGlRQTlJMlV2Mll2bmxIRjFDODN2RzB5YWdpd2tNVXlVcHc?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-17T16:52:26+00:00",
+    "summary": "China’s NMPA Approves Iza-Bren for Pretreated Recurrent/Metastatic ESCC OncLive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 6
   },
