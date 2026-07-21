@@ -12,7 +12,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 45
+    "relevance_score": 42
   },
   {
     "id": "e143e5e961c5",
@@ -29,7 +29,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 43
+    "relevance_score": 39
   },
   {
     "id": "474cbc651f2f",
@@ -95,23 +95,6 @@
     "relevance_score": 32
   },
   {
-    "id": "5d548ac31d4a",
-    "title": "Global coverage and effectiveness: Why CPG sales leaders own retailer success, direct or indirect",
-    "url": "https://www.retaildive.com/spons/global-coverage-and-effectiveness-why-cpg-sales-leaders-own-retailer-succe/825356/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-07-20T09:00:00+00:00",
-    "summary": "The CPG brands winning in retail aren't covering more accounts — they're covering smarter.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 27
-  },
-  {
     "id": "308cd95692ca",
     "title": "WTF is LLM honeypotting?",
     "url": "https://digiday.com/media/wtf-is-llm-honeypotting/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -132,20 +115,90 @@
     "relevance_score": 26
   },
   {
-    "id": "76467da260d1",
-    "title": "Instacart acquires shelf-scanning technology startup",
-    "url": "https://www.retaildive.com/news/instacart-acquires-arpalus-ai-inventory-computer-vision-ecommerce/825559/",
+    "id": "7689ed57be57",
+    "title": "J. Crew hires former Walmart e-commerce exec",
+    "url": "https://www.retaildive.com/news/j-crew-hires-former-walmart-ecommerce-exec/825784/",
     "source": "Retail Dive",
     "source_category": "industry_retail",
-    "published": "2026-07-20T14:00:00+00:00",
-    "summary": "The purchase of Arpalus gives it a system that allows workers to record product levels on store shelves using a smartphone app.",
-    "image_url": "https://imgproxy.divecdn.com/jRlZAkZVk252wbOYr-lKKEtRmEVPFP4crRSsTf3-ZYg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DYXBlcl9IaV9SZXMuanBn.webp",
+    "published": "2026-07-21T16:14:00+00:00",
+    "summary": "After nearly a decade with the big-box retailer, Stacey Levitt is joining the apparel company as its executive vice president of e-commerce and digital experience.",
+    "image_url": "https://imgproxy.divecdn.com/Cv765D395TihVEZN1Ft-usS2V1F7J2aq1CK0fcQSrjM/g:nowe:0:379/c:1010:570/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjY5OC5qcGVn.webp",
     "tags": [],
     "industries": [
       "tech",
       "retail"
     ],
-    "relevance_score": 12
+    "relevance_score": 16
+  },
+  {
+    "id": "34feb4dfd51a",
+    "title": "Canadian mattress retailer to acquire Sleep Number for over $700M",
+    "url": "https://www.retaildive.com/news/sleep-country-canada-mattress-acquire-sleep-number-700-million-bankruptcy/825771/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-07-21T16:35:00+00:00",
+    "summary": "Sleep Country had already agreed to buy the U.S. mattress maker and retailer ahead of its bankruptcy last month.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "financial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "23b9d37b75ff",
+    "title": "Adobe (ADBE) Downgraded by Morgan Stanley, Target Price Cut to $240 - GuruFocus",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPZjRvOUxmc2J3YWZsaVFYVVlvOVZuNHk0OHlORTA3bWtjMkM1ZHdYTXFpZGF2bk5qLUM1NUUyVWVZajBFeF9SbGpBcWlSQk5fM2dkdXZKeXNUbGxab2pleGFneDlsTjVaZDZ5NDYySFhydnpUMU05ZzVtWkZSVG01anZvTkd6eGxwNVJXQjZid1lNelZGb3VLQ3E2Y3BsVkRQNEZ2bQ?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-07-21T13:41:26+00:00",
+    "summary": "Adobe (ADBE) Downgraded by Morgan Stanley, Target Price Cut to $240 GuruFocus",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "0e47c50f298f",
+    "title": "A Sneaky Hacking Tool Targeting AI Infrastructure Is Lurking in Victims’ Blind Spots",
+    "url": "https://www.wired.com/story/a-sneaky-hacking-tool-targeting-ai-infrastructure-is-lurking-in-victims-blind-spots/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-21T16:08:44+00:00",
+    "summary": "A new type of malware can worm deep into AI coding systems to steal data and logins—and can flip a “death switch” to destroy files and keep out real users.",
+    "image_url": "https://media.wired.com/photos/6a5eae6a05dbc7f92d1b09a5/master/pass/Security_A%20Hacking%20Tool%20Targeting%20AI%20Infrastructure%20Reveals%20Worrying%20Gaps_v2.jpg",
+    "tags": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "cybersecurity",
+      "hacking",
+      "security"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "fe1611b87757",
+    "title": "Beyond Keywords: How Agentic Commerce Search Understands True Shopper Intent",
+    "url": "https://www.salesforce.com/blog/new-agentic-commerce-search-capabilities/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-21T16:06:31+00:00",
+    "summary": "Twenty years ago, I helped build search architectures that went on to dominate modern retail. Back then, the search bar trained consumers to strip away natural language and search for products using as…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/image_035568.webp",
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 14
   },
   {
     "id": "a547a4ff0ccb",
@@ -163,22 +216,6 @@
       "privacy",
       "FBI"
     ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "beeec225bf8f",
-    "title": "Lord & Taylor revives private label strategy",
-    "url": "https://www.retaildive.com/news/lord-taylors-revives-private-label-strategy-heritage-collection/825624/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-07-20T14:24:00+00:00",
-    "summary": "The Heritage Collection is being sold on the retailer’s website, and could end up at off-price retailers and global boutiques via licensing or wholesale.",
-    "image_url": "https://imgproxy.divecdn.com/eQUDoW5AwBpY7cwytovSMQH2agh9YBqVvwBPakma4rA/g:nowe:0:535/c:3643:2058/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDE5X0x0LTEuanBlZw==.webp",
-    "tags": [],
     "industries": [
       "retail",
       "industrial"
@@ -220,44 +257,30 @@
     "relevance_score": 10
   },
   {
-    "id": "bce20129980f",
-    "title": "Walmart US chief operating officer to depart",
-    "url": "https://www.retaildive.com/news/walmart-us-chief-operating-officer-depart/825549/",
+    "id": "76467da260d1",
+    "title": "Instacart acquires shelf-scanning technology startup",
+    "url": "https://www.retaildive.com/news/instacart-acquires-arpalus-ai-inventory-computer-vision-ecommerce/825559/",
     "source": "Retail Dive",
     "source_category": "industry_retail",
-    "published": "2026-07-17T16:32:00+00:00",
-    "summary": "Leadership shakeups are continuing at the mass retailer about five months after John Furner formally took over the CEO position.",
-    "image_url": "https://imgproxy.divecdn.com/AaNQKPgvH9L8xmsTnXOE43OuyEt69fQ3Ykf2J1X5DNA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTg3MjQ0MzMzLmpwZw==.webp",
+    "published": "2026-07-20T14:00:00+00:00",
+    "summary": "The purchase of Arpalus gives it a system that allows workers to record product levels on store shelves using a smartphone app.",
+    "image_url": "https://imgproxy.divecdn.com/jRlZAkZVk252wbOYr-lKKEtRmEVPFP4crRSsTf3-ZYg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DYXBlcl9IaV9SZXMuanBn.webp",
     "tags": [],
     "industries": [
+      "tech",
       "retail"
     ],
-    "relevance_score": 9
+    "relevance_score": 10
   },
   {
-    "id": "11e986c2d359",
-    "title": "From season to sentiment: How the pace of consumer trends reshapes retail planning",
-    "url": "https://www.retaildive.com/spons/from-season-to-sentiment-how-the-pace-of-consumer-trends-reshapes-retail-p/824796/",
+    "id": "beeec225bf8f",
+    "title": "Lord & Taylor revives private label strategy",
+    "url": "https://www.retaildive.com/news/lord-taylors-revives-private-label-strategy-heritage-collection/825624/",
     "source": "Retail Dive",
     "source_category": "industry_retail",
-    "published": "2026-07-20T09:00:00+00:00",
-    "summary": "Consumer trends are more complex than seasons. Here's how retailers are tracking them.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "424f96ca8219",
-    "title": "AI is creating ecommerce’s next optimization challenge: The intent gap",
-    "url": "https://www.retaildive.com/spons/ai-is-creating-ecommerces-next-optimization-challenge-the-intent-gap/825381/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-07-20T09:00:00+00:00",
-    "summary": "AI is changing how shoppers arrive. Is your checkout keeping up?",
-    "image_url": null,
+    "published": "2026-07-20T14:24:00+00:00",
+    "summary": "The Heritage Collection is being sold on the retailer’s website, and could end up at off-price retailers and global boutiques via licensing or wholesale.",
+    "image_url": "https://imgproxy.divecdn.com/eQUDoW5AwBpY7cwytovSMQH2agh9YBqVvwBPakma4rA/g:nowe:0:535/c:3643:2058/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDE5X0x0LTEuanBlZw==.webp",
     "tags": [],
     "industries": [
       "retail",
@@ -298,29 +321,13 @@
     "relevance_score": 7
   },
   {
-    "id": "99522b16a531",
-    "title": "AWS' Allyson Fryhoff on how health systems are using AI to analyze complex data - TechTarget",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQOWg2cFZhci01QS1JX2tMNWhBcEU3akU1dVA4dE9uTjVpdVVralZfVDM4UG5FTEpweFU4TzhFM2NuMkRCbzBaR0JKZ29WN05COUFaRW1sTGdCbGNTSFZMTGxuaXFPNWJSc2YySGRGVmdwRkhJbU5SOVVPZ3NNMjl3VGRUSV9nVnp4T1h3SXZCRzVfdkoxclJJU25ramxGc25aQ3d4S09yVE91Z3Y0WlV2VlJVVFpIcDg5ZjhFbHBIM1pHTjBoUTNvaG5FMmpndw?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-20T16:13:11+00:00",
-    "summary": "AWS' Allyson Fryhoff on how health systems are using AI to analyze complex data TechTarget",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "d1adb3009899",
-    "title": "How PayPal went from Wall Street favorite to unwilling merger target - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmpScC01amw4ZERMV29rcEtONEFnTUtrek5lTGhyV05YbjkyM3Z4MW1JTHFMRl9fQ0dreXBGa0Q0dWdzUGFRUnJwN29oUmJONGhXN2lFQnBYYkU5VnJzUkYxOE1LaFNoWXV1bjRRVVo4aE56ZV9SY2x3NWoxWFhYMmVaSmduLUVMNDl4QVl6eHZhWDRCRGRFN2ZxZjVEX3ZwZmV6WnhlSjZDWGRqZVhWTFdjSQ?oc=5",
-    "source": "Wall Street",
+    "id": "519c6a43570f",
+    "title": "Wells Fargo raises JPMorgan stock price target on strong growth - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc01Rd2ItR1NUbXZFMlkzeG9mTFdWN0QzeWdRWVlBOGkwUEluYTBNTElVTlF4d2doWHJKeFpxd1ktb0VuQ1Y2UWZzSFdUZmJob0VwVVB4OUdNcEotekdYQ08zaU9penM4Z0JvM2dtU0Rjakhrc3FGVE94ZlNtNUE2Z19Gb3pMaVl1U3ZrckxWRVFIb0dXeU1rM2xIUmkzdXB0RlBidjF6MVI3NXpURjhqV0JHdzNsVWZWb3A4LXQ4Vms?oc=5",
+    "source": "Banking",
     "source_category": "industry_financial",
-    "published": "2026-07-20T19:29:58+00:00",
-    "summary": "How PayPal went from Wall Street favorite to unwilling merger target Reuters",
+    "published": "2026-07-15T10:25:05+00:00",
+    "summary": "Wells Fargo raises JPMorgan stock price target on strong growth Investing.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -328,7 +335,7 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 7
+    "relevance_score": 6
   },
   {
     "id": "5b1067ba5162",
@@ -347,35 +354,19 @@
     "relevance_score": 6
   },
   {
-    "id": "41314d740432",
-    "title": "Nation’s largest wireless carrier cutting 3,000 workers, shed hundreds of stores - AL.com",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeHlPYmZVaEN5OVAyYXNHYlRTN3JSenNoZWNVaTZyNk1LVWtKSVhqOVJxeEcxdkd4QWU1THZHLXJfSDJlMWl2QzVWTTBHOFdOZUtQcFNFWUlCcnFCQUY4aFFnWHg4Tm1QQk1JM3lZZGVNZTdKLWhSMmNNS3d0RjNIM240SU52Y0FpMjRiejlHdVM2SWczTmVVNVJaMXR2NV9qSEM4Q3IyNC1RX2tTSDF6eEM0VldWekZ60gHMAUFVX3lxTFBXYmZ4ZkVoZU5nTzR2YktTNVJ5Z3I4S1pKTFFYYWZzYnFfcTdvbFZ0OUIyNEQ2LURtY1poWktPOXNIN0lieTBYTmVjdTAxTjZOY0lmRlM5cl9LMGlMcTl0Wm1MQW80cjRIc29YY3FqR3ZCZFNfS0pEZ3dER2p0RWhpY1lpXzdfd2hmcE1WZzRVR2IxQkNJREloam4zV0wzV2FqWEdaXzFGZkluaFpCU2RmX0E1eE1oNzA4bkVuRzlBdlhiWVVFaDV2YWxuag?oc=5",
+    "id": "21fd62543ad5",
+    "title": "Nation’s largest wireless carrier cutting 3,000 workers, divesting itself of hundreds of stores - NJ.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOEZONmZQbTZYS01UMUhmYnhPTnMxQXpRaFhUdlBHWHlpTXhaY2ZNV1Vkc2NNLWdPM0h4RkVpU3UzcU50dXFKYmpwYXJMMGRrMVMzbUZ6TjdSSzFsMmVYeENnbTlyUVBrVE85a3NxRDh4X1dfemc3S3NqVnRTUVNZUG52M1ZibFEwUWEwSXVMV1YweGI0QncyQl91dG1qRGdFbkkwSjl3N1NYaXBaLTl2Y0pPY1dyUFhHZ3hHZnY0ZGd6czJRbElhONIB3AFBVV95cUxOWlR2Xzdxd3lNMFdmTEZiRklaT0ZuaEpaclNlM3l4X1FVR2tUdXBJZWlGOUZPREEyQlpCTTNqMTl1NnVWMS0zV2hDRHNZLUx6eG5MLXlMb3ZDSWpnRXZzZXIyeUhROFQ4SmJEVV9rREpEZ29obk5UVUVsakVpTGJHd2NWR1E0MEJFRi13bVJsZ2xZTTB3TG45LU9ERUxZb3hBdHB2RFhkZnpQNlBYdW1KMkg4SXg0b1piczdjUDR3c3p3bEtQR1M4Z0tEeGViejdYbWxpbEJrd0hMUXlF?oc=5",
     "source": "Telecom 5G",
     "source_category": "industry_telecom",
-    "published": "2026-07-16T21:56:00+00:00",
-    "summary": "Nation’s largest wireless carrier cutting 3,000 workers, shed hundreds of stores AL.com",
+    "published": "2026-07-16T22:00:00+00:00",
+    "summary": "Nation’s largest wireless carrier cutting 3,000 workers, divesting itself of hundreds of stores NJ.com",
     "image_url": null,
     "tags": [],
     "industries": [
       "telecom",
       "retail",
       "industrial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "c5798ec3161b",
-    "title": "Verizon To Sell Off Hundreds Of Retail Outlets - Newsradio WTAM 1100",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPV0Uzb245TnZyQjdoc3JvSV9IaldIZWxKMTMwcnMycGNFSXB6eWpuMXRZTWE3R0FneEg0ZkVSUXIwVDdmdmNFZU0tdmw1SnI5N1hfZXE0QXVZMVBJb1ZIZGwxYnc2bWNIT05FdlFaQ2RLNE5tVUNFZ0k4TlVQS1ozc2VpT3pXNk5SSHNadEZfLU5rc0RM?oc=5",
-    "source": "Telecom",
-    "source_category": "industry_telecom",
-    "published": "2026-07-17T14:31:00+00:00",
-    "summary": "Verizon To Sell Off Hundreds Of Retail Outlets Newsradio WTAM 1100",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "retail"
     ],
     "relevance_score": 6
   },
