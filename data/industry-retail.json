@@ -1,20 +1,5 @@
 [
   {
-    "id": "1443929abd37",
-    "title": "2026 Holiday Predictions: A Unified Yet Fractured Journey",
-    "url": "https://www.salesforce.com/blog/holiday-retail-predictions-2026/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-20T21:19:21+00:00",
-    "summary": "Holiday retail planning used to follow a predictable playbook: Optimize the checkout funnel. Launch the campaigns. Stock the shelves. Brace for Cyber Week. But in today’s market, that playbook is obsolete. Data from…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/fy26-predictionsv2-blog-hero_v2__1__720.png",
-    "tags": [],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 42
-  },
-  {
     "id": "e143e5e961c5",
     "title": "Reformation targets $1B valuation with IPO",
     "url": "https://www.retaildive.com/news/reformation-ipo-targets-one-billion-valuation/825638/",
@@ -30,6 +15,21 @@
       "industrial"
     ],
     "relevance_score": 41
+  },
+  {
+    "id": "1443929abd37",
+    "title": "2026 Holiday Predictions: A Unified Yet Fractured Journey",
+    "url": "https://www.salesforce.com/blog/holiday-retail-predictions-2026/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-20T21:19:21+00:00",
+    "summary": "Holiday retail planning used to follow a predictable playbook: Optimize the checkout funnel. Launch the campaigns. Stock the shelves. Brace for Cyber Week. But in today’s market, that playbook is obsolete. Data from…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/fy26-predictionsv2-blog-hero_v2__1__720.png",
+    "tags": [],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 38
   },
   {
     "id": "474cbc651f2f",
@@ -128,7 +128,7 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "34feb4dfd51a",
@@ -144,7 +144,7 @@
       "retail",
       "financial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "0e47c50f298f",
@@ -166,7 +166,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "fe1611b87757",
@@ -182,7 +182,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "a547a4ff0ccb",
@@ -322,13 +322,13 @@
     "relevance_score": 6
   },
   {
-    "id": "21fd62543ad5",
-    "title": "Nation’s largest wireless carrier cutting 3,000 workers, divesting itself of hundreds of stores - NJ.com",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOOEZONmZQbTZYS01UMUhmYnhPTnMxQXpRaFhUdlBHWHlpTXhaY2ZNV1Vkc2NNLWdPM0h4RkVpU3UzcU50dXFKYmpwYXJMMGRrMVMzbUZ6TjdSSzFsMmVYeENnbTlyUVBrVE85a3NxRDh4X1dfemc3S3NqVnRTUVNZUG52M1ZibFEwUWEwSXVMV1YweGI0QncyQl91dG1qRGdFbkkwSjl3N1NYaXBaLTl2Y0pPY1dyUFhHZ3hHZnY0ZGd6czJRbElhONIB3AFBVV95cUxOWlR2Xzdxd3lNMFdmTEZiRklaT0ZuaEpaclNlM3l4X1FVR2tUdXBJZWlGOUZPREEyQlpCTTNqMTl1NnVWMS0zV2hDRHNZLUx6eG5MLXlMb3ZDSWpnRXZzZXIyeUhROFQ4SmJEVV9rREpEZ29obk5UVUVsakVpTGJHd2NWR1E0MEJFRi13bVJsZ2xZTTB3TG45LU9ERUxZb3hBdHB2RFhkZnpQNlBYdW1KMkg4SXg0b1piczdjUDR3c3p3bEtQR1M4Z0tEeGViejdYbWxpbEJrd0hMUXlF?oc=5",
+    "id": "41314d740432",
+    "title": "Nation’s largest wireless carrier cutting 3,000 workers, shed hundreds of stores - AL.com",
+    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNeHlPYmZVaEN5OVAyYXNHYlRTN3JSenNoZWNVaTZyNk1LVWtKSVhqOVJxeEcxdkd4QWU1THZHLXJfSDJlMWl2QzVWTTBHOFdOZUtQcFNFWUlCcnFCQUY4aFFnWHg4Tm1QQk1JM3lZZGVNZTdKLWhSMmNNS3d0RjNIM240SU52Y0FpMjRiejlHdVM2SWczTmVVNVJaMXR2NV9qSEM4Q3IyNC1RX2tTSDF6eEM0VldWekZ60gHMAUFVX3lxTFBXYmZ4ZkVoZU5nTzR2YktTNVJ5Z3I4S1pKTFFYYWZzYnFfcTdvbFZ0OUIyNEQ2LURtY1poWktPOXNIN0lieTBYTmVjdTAxTjZOY0lmRlM5cl9LMGlMcTl0Wm1MQW80cjRIc29YY3FqR3ZCZFNfS0pEZ3dER2p0RWhpY1lpXzdfd2hmcE1WZzRVR2IxQkNJREloam4zV0wzV2FqWEdaXzFGZkluaFpCU2RmX0E1eE1oNzA4bkVuRzlBdlhiWVVFaDV2YWxuag?oc=5",
     "source": "Telecom 5G",
     "source_category": "industry_telecom",
-    "published": "2026-07-16T22:00:00+00:00",
-    "summary": "Nation’s largest wireless carrier cutting 3,000 workers, divesting itself of hundreds of stores NJ.com",
+    "published": "2026-07-16T21:56:00+00:00",
+    "summary": "Nation’s largest wireless carrier cutting 3,000 workers, shed hundreds of stores AL.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -337,39 +337,5 @@
       "industrial"
     ],
     "relevance_score": 6
-  },
-  {
-    "id": "d1adb3009899",
-    "title": "How PayPal went from Wall Street favorite to unwilling merger target - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOYmpScC01amw4ZERMV29rcEtONEFnTUtrek5lTGhyV05YbjkyM3Z4MW1JTHFMRl9fQ0dreXBGa0Q0dWdzUGFRUnJwN29oUmJONGhXN2lFQnBYYkU5VnJzUkYxOE1LaFNoWXV1bjRRVVo4aE56ZV9SY2x3NWoxWFhYMmVaSmduLUVMNDl4QVl6eHZhWDRCRGRFN2ZxZjVEX3ZwZmV6WnhlSjZDWGRqZVhWTFdjSQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-20T19:29:58+00:00",
-    "summary": "How PayPal went from Wall Street favorite to unwilling merger target Reuters",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "de884b6dd491",
-    "title": "PayPal (PYPL) Gets a Lower Price Target as Digital Payments Face New Challenges - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPVnVidFJQS2VnUFludjlBTEZtXzNMajg4bkQ1MGhUM21icG52dWhuM09OM0xFREctWjdlSlVFVzVRNEVLbGluRTh1ZkxuZEtUMFl2M0tDV1NTcFZLTk42ZTREQWpKbzNzWEY3TzUyTTZzcHg0aGdoeGh5dkthMmpyRk9FR2FTZDUzMkVtVnZ2Y2FHOXlDNVZ6aA?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-07-15T09:09:30+00:00",
-    "summary": "PayPal (PYPL) Gets a Lower Price Target as Digital Payments Face New Challenges Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 5
   }
 ]
