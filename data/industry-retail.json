@@ -17,7 +17,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 61
+    "relevance_score": 58
   },
   {
     "id": "e143e5e961c5",
@@ -26,7 +26,7 @@
     "source": "Retail Dive",
     "source_category": "industry_retail",
     "published": "2026-07-20T15:26:00+00:00",
-    "summary": "The DTC brand's offering includes 14 million shares of its common stock with an expected price between $15 and $17 per share.",
+    "summary": "The DTC brand's offering includes 14 million shares of its common stock with an expected price between $15 and $17.",
     "image_url": "https://imgproxy.divecdn.com/qNRh1KB8bVoUm4cW-r2fwzxGJY_uV3s-TykviB8RONA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfOTYyMC5KUEc=.webp",
     "tags": [],
     "industries": [
@@ -34,7 +34,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 41
+    "relevance_score": 39
   },
   {
     "id": "1443929abd37",
@@ -96,6 +96,29 @@
     "relevance_score": 35
   },
   {
+    "id": "5ed91eb7c32b",
+    "title": "Glow emerges from stealth at $1.2B valuation to challenge endpoint security in the AI era",
+    "url": "https://techcrunch.com/2026/07/22/glow-emerges-from-stealth-at-1-2b-valuation-to-challenge-endpoint-security-in-the-ai-era/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-22T10:00:00+00:00",
+    "summary": "Glow is targeting a new class of endpoint risks created by the rapid adoption of AI agents and developer tools inside enterprises.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/glow-founders.jpg?resize=1200,800",
+    "tags": [
+      "Startups",
+      "Security",
+      "AI",
+      "Glow",
+      "redpoint ventures"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
     "id": "7689ed57be57",
     "title": "J. Crew hires former Walmart e-commerce exec",
     "url": "https://www.retaildive.com/news/j-crew-hires-former-walmart-ecommerce-exec/825784/",
@@ -109,7 +132,7 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "34feb4dfd51a",
@@ -125,7 +148,7 @@
       "retail",
       "financial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "0e47c50f298f",
@@ -147,7 +170,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "fe1611b87757",
@@ -163,7 +186,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "a547a4ff0ccb",
@@ -185,23 +208,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 11
-  },
-  {
-    "id": "11ee3210d037",
-    "title": "BBVA launches Swift's global retail payments scheme in Spain - FinTech Futures",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUZoUWswU1RUUlE5dGNhcUtyWjVULXQxWVBhVjVKNk15NkxhUG44M0trOTYzT0pPMTdaYk50NXZZaUVLWWx5ZTZVcXVfaDY5UDlsaTRySEV4UTNMTlNMV2hnU2lnNWMtX01mcDN5aGlSaEUxSkFGREhpc0FlY0FrS0Y5SjFhUUxpOEdCb0FkdTlqcllXaFNqM2ZmakFmQjhmVHdLY3Q1NFJWc1BHRW9QTA?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-07-22T05:00:26+00:00",
-    "summary": "BBVA launches Swift's global retail payments scheme in Spain FinTech Futures",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "financial"
-    ],
-    "relevance_score": 11
+    "relevance_score": 10
   },
   {
     "id": "2eb119c49ffc",
@@ -237,13 +244,29 @@
     "relevance_score": 10
   },
   {
+    "id": "11ee3210d037",
+    "title": "BBVA launches Swift's global retail payments scheme in Spain - FinTech Futures",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNcUZoUWswU1RUUlE5dGNhcUtyWjVULXQxWVBhVjVKNk15NkxhUG44M0trOTYzT0pPMTdaYk50NXZZaUVLWWx5ZTZVcXVfaDY5UDlsaTRySEV4UTNMTlNMV2hnU2lnNWMtX01mcDN5aGlSaEUxSkFGREhpc0FlY0FrS0Y5SjFhUUxpOEdCb0FkdTlqcllXaFNqM2ZmakFmQjhmVHdLY3Q1NFJWc1BHRW9QTA?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-07-22T05:00:26+00:00",
+    "summary": "BBVA launches Swift's global retail payments scheme in Spain FinTech Futures",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "beeec225bf8f",
     "title": "Lord & Taylor revives private label strategy",
     "url": "https://www.retaildive.com/news/lord-taylors-revives-private-label-strategy-heritage-collection/825624/",
     "source": "Retail Dive",
     "source_category": "industry_retail",
     "published": "2026-07-20T14:24:00+00:00",
-    "summary": "The Heritage Collection is being sold on the retailer’s website and could end up at off-price retailers and global boutiques via licensing or wholesale.",
+    "summary": "The Heritage Collection is being sold on the retailer’s website, and could end up at off-price retailers and global boutiques via licensing or wholesale.",
     "image_url": "https://imgproxy.divecdn.com/eQUDoW5AwBpY7cwytovSMQH2agh9YBqVvwBPakma4rA/g:nowe:0:535/c:3643:2058/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yMDE5X0x0LTEuanBlZw==.webp",
     "tags": [],
     "industries": [
@@ -267,23 +290,6 @@
       "financial"
     ],
     "relevance_score": 7
-  },
-  {
-    "id": "519c6a43570f",
-    "title": "Wells Fargo raises JPMorgan stock price target on strong growth - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQc01Rd2ItR1NUbXZFMlkzeG9mTFdWN0QzeWdRWVlBOGkwUEluYTBNTElVTlF4d2doWHJKeFpxd1ktb0VuQ1Y2UWZzSFdUZmJob0VwVVB4OUdNcEotekdYQ08zaU9penM4Z0JvM2dtU0Rjakhrc3FGVE94ZlNtNUE2Z19Gb3pMaVl1U3ZrckxWRVFIb0dXeU1rM2xIUmkzdXB0RlBidjF6MVI3NXpURjhqV0JHdzNsVWZWb3A4LXQ4Vms?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-07-15T10:25:05+00:00",
-    "summary": "Wells Fargo raises JPMorgan stock price target on strong growth Investing.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 6
   },
   {
     "id": "5b1067ba5162",
