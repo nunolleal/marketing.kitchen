@@ -10,7 +10,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/image_35e27a.png",
     "tags": [],
     "industries": [],
-    "relevance_score": 51
+    "relevance_score": 48
   },
   {
     "id": "5296b3a19121",
@@ -71,6 +71,22 @@
     "relevance_score": 29
   },
   {
+    "id": "ab90b3519e71",
+    "title": "Architecting Secure Agent Connectivity: A Guide to Choosing Between MCP and APIs",
+    "url": "https://www.salesforce.com/blog/architecting-secure-agent-connectivity-mcp-apis/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-22T17:37:40+00:00",
+    "summary": "A recap of episode six of the Think Like an Architect series, breaking down the technical complexities of securely exposing enterprise data to a third-party AI agent.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/Blog-Images-4.png",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
     "id": "2a674c62d04d",
     "title": "Morgan Stanley Slashes Salesforce Price Target By 35% - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWxBV0ZqOGstSlRUQ0VMam1hMHV5S3pvcWlZOUFsTzR1MFREa29Wb0pFYjBpMmJkM1plSXFhbWZTUmREODB0OFRHZkpfM0J6TlVQLVF0d2Rrd0tLLUlDSVJDU19VVnQta3JuMGdUcmRYQWpjZndJanpObHFPM3RRakNyLU9SWlRpbnJOTDRIVEt6Z2hOT3ZySEE4c2I?oc=5",
@@ -84,7 +100,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 15,
+    "relevance_score": 14,
     "also_covered_by": [
       "Adobe"
     ]
@@ -102,35 +118,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 13
-  },
-  {
-    "id": "b5354aa48f91",
-    "title": "Salesforce’s cloud platform, Hyperforce, now available in SA - htxt.co.za",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOVHFaYlJFMThEZDExWUNPYUtGYmhvUzh3SmRkYU52bXNhNDgxLUpsZV9UOHVRaXd6N3FBekZOSThna1dOVVJoUWJDa3YtUnM2b2xQZHNUelJSWWRXekdDVVoyTFF4RGdPS2tNeEltTTZOZzZaZXZtUVgxNTRURzdYZmtqSU5GaThxaHZGX1Nn?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-07-22T10:30:15+00:00",
-    "summary": "Salesforce’s cloud platform, Hyperforce, now available in SA htxt.co.za",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "2a82d0c4db24",
-    "title": "Why Salesforce Was Falling Today, Even as the Nasdaq Rallied - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdkhxRGVvVFU3Y0FFTGJhLXBSazdoR0Z2UXBVd1BMa3B0VjJvUHBWeFFsQnlpZklPaHQ0U3dPb3RFTFBVcTQzZjJUVXpQNW5zYk1Mazk2YVNUcVlhbmpFSXJqcDJIQUYtODVMXzljTFNVaHNuQkNkbkZGTndDenY0cGs4X0Y3Qk1sZEwxV29sVlZid3M2aWhGdjFSZ2VBZVR0dHB0eUtVOFpGUTdQUldGSmMzelVoSWxzcHFFNldxRnN1eU5XZDUzRE8xTWxWck9FMUxjbU54OGtiZw?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-07-21T19:25:34+00:00",
-    "summary": "Why Salesforce Was Falling Today, Even as the Nasdaq Rallied The Globe and Mail",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 10
+    "relevance_score": 11
   },
   {
     "id": "e36a6bd0f1ea",
@@ -195,17 +183,17 @@
     "relevance_score": 8
   },
   {
-    "id": "3e28e6e47fe3",
-    "title": "Trust Shouldn’t Be a Product Feature. It Has to Be the Foundation.",
-    "url": "https://www.salesforce.com/blog/data-trust-foundation/",
-    "source": "Salesforce Blog",
+    "id": "2a82d0c4db24",
+    "title": "Why Salesforce Was Falling Today, Even as the Nasdaq Rallied - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQdkhxRGVvVFU3Y0FFTGJhLXBSazdoR0Z2UXBVd1BMa3B0VjJvUHBWeFFsQnlpZklPaHQ0U3dPb3RFTFBVcTQzZjJUVXpQNW5zYk1Mazk2YVNUcVlhbmpFSXJqcDJIQUYtODVMXzljTFNVaHNuQkNkbkZGTndDenY0cGs4X0Y3Qk1sZEwxV29sVlZid3M2aWhGdjFSZ2VBZVR0dHB0eUtVOFpGUTdQUldGSmMzelVoSWxzcHFFNldxRnN1eU5XZDUzRE8xTWxWck9FMUxjbU54OGtiZw?oc=5",
+    "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-07-16T16:20:39+00:00",
-    "summary": "Why enterprise AI success starts with how you protect your data, not just how you use it",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_900122167.jpg",
+    "published": "2026-07-21T19:25:34+00:00",
+    "summary": "Why Salesforce Was Falling Today, Even as the Nasdaq Rallied The Globe and Mail",
+    "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 7
+    "relevance_score": 8
   },
   {
     "id": "f2f9e1b2fc3b",
