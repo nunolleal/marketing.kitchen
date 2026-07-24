@@ -17,7 +17,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 59
+    "relevance_score": 56
   },
   {
     "id": "e73037cd7126",
@@ -37,7 +37,7 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 59
+    "relevance_score": 56
   },
   {
     "id": "ea6a22bcdba7",
@@ -77,7 +77,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 54
+    "relevance_score": 51
   },
   {
     "id": "b53f9ebb44d0",
@@ -329,6 +329,28 @@
     "relevance_score": 19
   },
   {
+    "id": "10a4fbf07386",
+    "title": "Trump’s 50% Tariff On Canadian Goods Previously Protected By His 2020 Trade Deal Sparks Backlash",
+    "url": "https://www.forbes.com/sites/forbestv/2026/07/23/trumps-50-tariff-on-canadian-goods-previously-protected-by-his-2020-trade-deal-sparks-backlash/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-23T21:37:58+00:00",
+    "summary": "Earlier this week, President Donald Trump announced he would be slapping a large swath of Canadian goods with a 50% tariff in 30 days.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a62895b98019e19b18914e2/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "standard"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 19
+  },
+  {
     "id": "38a80dda9265",
     "title": "Google Barrels Ahead With AI Spending as Its Search Business Sees Early Cracks",
     "url": "https://www.adweek.com/media/google-barrels-ahead-with-ai-spending-as-its-search-business-sees-early-cracks/",
@@ -348,7 +370,7 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 19,
+    "relevance_score": 18,
     "also_covered_by": [
       "TechCrunch AI"
     ]
@@ -367,7 +389,26 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 19
+    "relevance_score": 18
+  },
+  {
+    "id": "ff6bb8b4037f",
+    "title": "Microsoft launches new in-house AI models it says cut costs up to 89% versus OpenAI",
+    "url": "https://venturebeat.com/infrastructure/microsoft-launches-new-in-house-ai-models-it-says-cut-costs-up-to-89-versus-openai",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-07-23T23:37:05+00:00",
+    "summary": "Microsoft AI released two new in-house models into public preview on Wednesday — MAI-Image-2.5-Pro , its highest-fidelity image generator to date, and MAI-Voice-2-Flash , a speech model built for high-volume enterprise workloads — while publishing production data that amounts...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/21LP7BYkYtNcUVP0RAuTq2/d6a298425c240d52da4e211885164c27/Nuneybits_Vector_art_of_Microsoft_logo_rerouting_AI_traffic_fro_0889d4d3-b42c-4858-a9dc-f77546ce9c6c.webp?w=300&q=30",
+    "tags": [
+      "Infrastructure"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 18
   },
   {
     "id": "a722f2eba8c3",
@@ -388,29 +429,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 19
-  },
-  {
-    "id": "5fd704531472",
-    "title": "Tesla’s Worst Day In A Year Cuts Elon Musk’s Net Worth By $18 Billion",
-    "url": "https://www.forbes.com/sites/tylerroush/2026/07/23/teslas-worst-day-in-a-year-cuts-elon-musks-net-worth-by-18-billion/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-23T17:53:09+00:00",
-    "summary": "The automaker reported earnings that disappointed Wall Street, with plans to spend billions more on AI.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a6254e72b34753e150f3f6c/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 19
+    "relevance_score": 17
   },
   {
     "id": "7a2e33bd2177",
@@ -432,7 +451,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
     "id": "af45c5b6649f",
@@ -453,7 +472,22 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
+  },
+  {
+    "id": "883745ebe9e5",
+    "title": "Salesforce Named a Leader in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms",
+    "url": "https://www.salesforce.com/blog/salesforce-2026-gartner-magic-quadrant-conversational-ai-platforms/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-23T12:00:00+00:00",
+    "summary": "Salesforce today announced that it has been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms — the company’s first time named in this report. Download a complimentary…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/gartner_mq_card_image_1440x810_2x.webp",
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 16
   },
   {
     "id": "3e0767c697e8",
@@ -476,140 +510,39 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 17
-  },
-  {
-    "id": "883745ebe9e5",
-    "title": "Salesforce Named a Leader in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms",
-    "url": "https://www.salesforce.com/blog/salesforce-2026-gartner-magic-quadrant-conversational-ai-platforms/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-23T12:00:00+00:00",
-    "summary": "Salesforce today announced that it has been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms — the company’s first time named in this report. Download a complimentary…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/gartner_mq_card_image_1440x810_2x.webp",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
     "relevance_score": 16
   },
   {
-    "id": "7c1b6e51aaca",
-    "title": "Google’s Gemini nears billion-user milestone",
-    "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-23T14:52:44+00:00",
-    "summary": "Gemini had over 750 million monthly users in February.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-    "tags": [
-      "AI",
-      "Apps",
-      "gemini",
-      "Google",
-      "Sundar Pichai"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "2b073f5d2cae",
-    "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
-    "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-23T15:00:00+00:00",
-    "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?resize=1200,1200",
-    "tags": [
-      "AI",
-      "Hardware",
-      "Startups",
-      "TC",
-      "AI chips"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "d832c0dd9337",
-    "title": "Meta launched a new AI optimism ad set to a song about human extinction",
-    "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-23T16:28:50+00:00",
-    "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1353760073.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Meta"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 16,
-    "also_covered_by": [
-      "Wired"
-    ]
-  },
-  {
-    "id": "a501624b44a8",
-    "title": "OpenAI makes ChatGPT Health available to all US users",
-    "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-23T17:00:00+00:00",
-    "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Apps",
-      "TC",
-      "ChatGPT",
-      "chatgpt health"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "68e99a0f12e1",
-    "title": "Runway launches AI model router as generative media gets crowded",
-    "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-23T17:07:35+00:00",
-    "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Runway-Media-Router.png?resize=1200,793",
-    "tags": [
-      "AI",
-      "Media & Entertainment",
-      "Startups",
-      "AI audio",
-      "AI image"
-    ],
-    "industries": [
-      "media",
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "f1b412cbde20",
-    "title": "Could New Crypto Legislation Threaten Trump’s Profits? Probably Not, Democrats Say",
-    "url": "https://www.forbes.com/sites/zacharyfolk/2026/07/23/could-new-crypto-legislation-threaten-trumps-profits-probably-not-democrats-say/",
+    "id": "ea1e63145a27",
+    "title": "Swap Your McDonald X BT21 Happy Meal Toy At Official NY Swap Event",
+    "url": "https://www.forbes.com/sites/laurasirikul/2026/07/23/swap-your-mcdonald-x-bt21-happy-meal-toy-at-official-ny-swap-event/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-07-23T17:32:56+00:00",
-    "summary": "New crypto ethics rules for politicians were approved by Republicans, but Democrats object to the Justice Department’s role in enforcing them.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a624ffa90040b837b8ce450/0x0.jpg?width=960",
+    "published": "2026-07-23T21:21:13+00:00",
+    "summary": "Lifestyle and events platform Average Socialite hosts an official McDonald's x BT21 Happy Meal Toy Swap Meetup on Saturday, July 25, from 12 pm - 2 pm in New York City.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a62845dd212b04aa74bbbe3/0x0.jpg",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "8bcbbb8a4f01",
+    "title": "Billionaire Ken Griffin Will Now Own Entire Block In Miami After City Approves Land Sale",
+    "url": "https://www.forbes.com/sites/zacharyfolk/2026/07/23/billionaire-ken-griffin-will-now-own-entire-block-in-miami-after-city-approves-land-sale/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-23T22:07:56+00:00",
+    "summary": "A Miami board approved the sale of a plot of land currently home to a historic cottage for $2.98 million.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a628f88f3033f5d6da072f7/0x0.jpg?width=960",
     "tags": [
       "Breaking News",
       "/news",
@@ -618,27 +551,9 @@
       "Breaking News"
     ],
     "industries": [
+      "media",
       "tech",
-      "financial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "046009295c64",
-    "title": "Claude’s voice mode is now available for Opus and Sonnet",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-23T19:00:00+00:00",
-    "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "News"
-    ],
-    "industries": [
-      "tech"
+      "industrial"
     ],
     "relevance_score": 16
   },
@@ -664,76 +579,84 @@
     "relevance_score": 15
   },
   {
-    "id": "982001cc2d7c",
-    "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
-    "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+    "id": "7c1b6e51aaca",
+    "title": "Google’s Gemini nears billion-user milestone",
+    "url": "https://techcrunch.com/2026/07/23/google-closes-in-on-another-billion-user-product-with-gemini/",
     "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-07-23T06:09:13+00:00",
-    "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/ServiceNow-Getty.jpg?resize=1200,800",
+    "published": "2026-07-23T14:52:44+00:00",
+    "summary": "Gemini had over 750 million monthly users in February.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
     "tags": [
       "AI",
-      "Enterprise",
+      "Apps",
+      "gemini",
+      "Google",
+      "Sundar Pichai"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "2b073f5d2cae",
+    "title": "AI chip startup Etched defies skeptics, hits $10.3B valuation from big-name investors",
+    "url": "https://techcrunch.com/2026/07/23/ai-chip-startup-etched-defies-skeptics-hits-10-3b-valuation-from-big-name-investors/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-23T15:00:00+00:00",
+    "summary": "Etched, founded by three Harvard dropouts, has created new chips and memory components that speed up inference on any AI model -- no GPUs required, it says.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Etched-co-founder-COO-Robert-Wachen.jpg?resize=1200,1200",
+    "tags": [
+      "AI",
+      "Hardware",
       "Startups",
-      "ServiceNow"
+      "TC",
+      "AI chips"
     ],
     "industries": [
-      "tech",
-      "financial"
+      "tech"
     ],
     "relevance_score": 15
   },
   {
-    "id": "fca25c366318",
-    "title": "Tinder expands Events as it chases Gen Z connection",
-    "url": "https://www.marketingdive.com/news/tinder-expands-events-as-it-chases-gen-z-connection/825954/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-07-23T14:57:00+00:00",
-    "summary": "The feature comes as the platform looks to take advantage of Gen Z’s increased desire for experiences to turn around user declines.",
-    "image_url": "https://imgproxy.divecdn.com/Dkv4L7bs6z0SsyQTbwbsmWgPAx8_RF0dj2tk6cAbSr8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDE2NzcyODgyLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
+    "id": "d832c0dd9337",
+    "title": "Meta launched a new AI optimism ad set to a song about human extinction",
+    "url": "https://techcrunch.com/2026/07/23/meta-launched-a-new-ai-optimism-ad-set-to-a-song-about-human-extinction/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-23T16:28:50+00:00",
+    "summary": "David Bowie's song \"Five Years,\" which Meta used in a supposedly inspiring advertisement, is about humans learning that they have five years left to live before the apocalypse.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1353760073.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Meta"
     ],
-    "relevance_score": 15
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 15,
+    "also_covered_by": [
+      "Wired"
+    ]
   },
   {
-    "id": "8f853ca7a4dd",
-    "title": "La-Z-Boy expands 3D cloud tech for product imagery",
-    "url": "https://www.retaildive.com/news/la-z-boy-expands-3d-cloud-tech-for-product-imagery/825647/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-07-23T15:09:00+00:00",
-    "summary": "The technology means customers can see every product and configuration exactly as it will be built — replacing manual rendering production.",
-    "image_url": "https://imgproxy.divecdn.com/wXi766kS0kL6nSraGTdxeWC4MJCMGSXBW6ZJVUgQcbY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9MWkIyMy0wNjUtQXBvbGxvX1NvZmFfY29weS5qcGVn.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "8e0eb21460be",
-    "title": "Microsoft is testing free, ad-supported cloud gaming for Xbox Insiders",
-    "url": "https://www.theverge.com/games/969969/xbox-testing-ad-supported-streaming",
+    "id": "046009295c64",
+    "title": "Claude’s voice mode is now available for Opus and Sonnet",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/970065/anthropic-voice-mode-claude-opus-sonnet-haiku-ai",
     "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-07-23T16:00:00+00:00",
-    "summary": "Xbox Insiders can stream games from their libraries for free in ad-supported streaming sessions starting today. The free streaming sessions are limited to games you already own, and sessions are capped at one hour. However, ads will only play \"before sessions begin.\" It's...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832866/STK048_XBOX_2_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "published": "2026-07-23T19:00:00+00:00",
+    "summary": "Until now, voice mode has only been available on Claude Haiku, Anthropic's faster but less powerful model. Now the company is making its Opus and Sonnet models available in voice mode, and extending its reach into apps like Gmail, Slack, and Canva. When Anthropic launched...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Claude-Voice-2-3-up.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
     "tags": [
-      "Gaming",
-      "Microsoft",
-      "News",
-      "Tech",
-      "Xbox"
+      "AI",
+      "Anthropic",
+      "News"
     ],
     "industries": [
-      "media",
       "tech"
     ],
     "relevance_score": 15
@@ -753,45 +676,100 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 14,
-    "also_covered_by": [
-      "Health Tech"
-    ]
+    "relevance_score": 14
   },
   {
-    "id": "7120ae296eb0",
-    "title": "Why Retail Tech Gets So Little Venture Capital",
-    "url": "https://www.forbes.com/sites/richardkestenbaum/2026/07/23/why-retail-tech-gets-so-little-venture-capital/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-23T15:53:18+00:00",
-    "summary": "Retail tech doesn't get enough venture capital. Investors see slow movers, hard integrations and failed pilots while AI raises the stakes for retailers.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a623815cae77c3b34f34290/0x0.jpg?width=960",
+    "id": "982001cc2d7c",
+    "title": "ServiceNow bets $40 million on Indian banking software specialist to expand its financial services push",
+    "url": "https://techcrunch.com/2026/07/22/servicenow-bets-40m-on-indian-firm-businessnext-at-700m-valuation-to-deepen-banking-ai-push/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-23T06:09:13+00:00",
+    "summary": "ServiceNow's investment gives BusinessNext a strategic partner to expand its AI-powered banking software globally.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/ServiceNow-Getty.jpg?resize=1200,800",
     "tags": [
-      "Retail",
-      "/retail",
-      "Business",
-      "/business",
-      "Retail"
+      "AI",
+      "Enterprise",
+      "Startups",
+      "ServiceNow"
     ],
     "industries": [
       "tech",
-      "retail",
+      "financial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "fca25c366318",
+    "title": "Tinder expands Events as it chases Gen Z connection",
+    "url": "https://www.marketingdive.com/news/tinder-expands-events-as-it-chases-gen-z-connection/825954/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-07-23T14:57:00+00:00",
+    "summary": "The feature comes as the platform looks to take advantage of Gen Z’s increased desire for experiences to turn around user declines.",
+    "image_url": "https://imgproxy.divecdn.com/Dkv4L7bs6z0SsyQTbwbsmWgPAx8_RF0dj2tk6cAbSr8/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDE2NzcyODgyLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "tech",
       "industrial"
     ],
     "relevance_score": 14
   },
   {
-    "id": "8ae4ee2b56fb",
-    "title": "The Anatomy of an Agentic ITSM Workflow",
-    "url": "https://www.salesforce.com/blog/agentic-itsm-workflow/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-23T19:14:38+00:00",
-    "summary": "Your onboarding takes weeks. Your best people sit around waiting for their laptops, login instructions and access to apps. There's a better way.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/anatomy-of-an-agentic-ITSM-1500x844-1.jpg",
+    "id": "8f853ca7a4dd",
+    "title": "La-Z-Boy expands 3D cloud tech for product imagery",
+    "url": "https://www.retaildive.com/news/la-z-boy-expands-3d-cloud-tech-for-product-imagery/825647/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-07-23T15:09:00+00:00",
+    "summary": "The technology means customers can see every product and configuration exactly as it will be built — replacing manual rendering production.",
+    "image_url": "https://imgproxy.divecdn.com/wXi766kS0kL6nSraGTdxeWC4MJCMGSXBW6ZJVUgQcbY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9MWkIyMy0wNjUtQXBvbGxvX1NvZmFfY29weS5qcGVn.webp",
     "tags": [],
     "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "a501624b44a8",
+    "title": "OpenAI makes ChatGPT Health available to all US users",
+    "url": "https://techcrunch.com/2026/07/23/openai-makes-chatgpt-health-available-to-all-u-s-users/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-23T17:00:00+00:00",
+    "summary": "Users can also integrate their personal data from services like Apple Health, Function, and MyFitnessPal.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/04/GettyImages-2205105208.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Apps",
+      "TC",
+      "ChatGPT",
+      "chatgpt health"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "68e99a0f12e1",
+    "title": "Runway launches AI model router as generative media gets crowded",
+    "url": "https://techcrunch.com/2026/07/23/runway-bets-on-ai-model-routing-as-generative-media-gets-crowded/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-23T17:07:35+00:00",
+    "summary": "The Media Router is a tool that automatically selects the best image, video, or audio generation model for a request based on whether a developer prioritizes quality, speed or cost.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Runway-Media-Router.png?resize=1200,793",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "Startups",
+      "AI audio",
+      "AI image"
+    ],
+    "industries": [
+      "media",
       "tech",
       "industrial"
     ],
@@ -858,6 +836,23 @@
     "relevance_score": 13
   },
   {
+    "id": "fcbee96bed5b",
+    "title": "D.C. appeals court sides with HHS in 340B drug discount program rebate challenge",
+    "url": "https://www.fiercehealthcare.com/regulatory/dc-appeals-court-sides-hhs-340b-drug-discount-program-rebate-challenge",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-23T11:45:00+00:00",
+    "summary": "The ruling upheld a previous decision that pharma companies cannot impose rebates without HHS Secretary approval.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202025-04-16T100815.299.jpg?VersionId=0zJzNzQ.KUM3YIhJcKlNWQkb3L5kwZCX",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 13
+  },
+  {
     "id": "feaf9ab57c84",
     "title": "How AI helps scientists design the next generation of medicines",
     "url": "https://www.technologyreview.com/2026/07/23/1140346/how-ai-helps-scientists-design-the-next-generation-of-medicines/",
@@ -882,14 +877,14 @@
     ]
   },
   {
-    "id": "c1747bcabbeb",
-    "title": "CMS appeals Clover MA stars lawsuit",
-    "url": "https://www.healthcaredive.com/news/cms-appeals-clover-health-medicare-advantage-stars-lawsuit-cms/826003/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-23T13:29:06+00:00",
-    "summary": "Tuesday’s appeal is the latest development in Clover’s legal saga to get the CMS to recalculate its Medicare Advantage star ratings.",
-    "image_url": "https://imgproxy.divecdn.com/T-6OAE-GXOZtO0_bLIlt9Op3EhLMHuSlYybSya5fu-4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjgwMDMwNDE1LmpwZw==.webp",
+    "id": "8ae4ee2b56fb",
+    "title": "The Anatomy of an Agentic ITSM Workflow",
+    "url": "https://www.salesforce.com/blog/agentic-itsm-workflow/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-23T19:14:38+00:00",
+    "summary": "Your onboarding takes weeks. Your best people sit around waiting for their laptops, login instructions and access to apps. There's a better way.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/anatomy-of-an-agentic-ITSM-1500x844-1.jpg",
     "tags": [],
     "industries": [
       "tech",
@@ -933,22 +928,6 @@
     "relevance_score": 12
   },
   {
-    "id": "2053444a7803",
-    "title": "Salesforce's new B2B Commerce suite puts an AI buying agent on WhatsApp and SMS - MarketScale",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMzFDT1c3QTVjdXdBVWZMbWplUFpCWlAwU1JfV1NQUUNKVFhTY054WjBUOWp1eENBUWh2N1pwektrT1lYa2ZIc3FwX205VVlncldCREZQU3VYazVOem13R0VlZmVNLVRrWjA2Qkw4RWdubklNVnBPejc0aXNyMkFuWERSTjFIMld5NWJqSVFqSmRfcW81aTJEdHIyQV9KX0pFQzJYR2VOU2tsWHdib0dvOWo1YVUtZkY4aFAtNzd6NkhXT2dRTU05c1dfN0M?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-07-23T00:14:26+00:00",
-    "summary": "Salesforce's new B2B Commerce suite puts an AI buying agent on WhatsApp and SMS MarketScale",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
     "id": "9068d159814e",
     "title": "The Download: energy transmission and US threats against Chinese AI",
     "url": "https://www.technologyreview.com/2026/07/23/1140753/the-download-energy-transmission-and-us-threats-chinese-ai/",
@@ -966,50 +945,20 @@
     "relevance_score": 12
   },
   {
-    "id": "f5a5d189d7c6",
-    "title": "A malicious Chrome extension for Adobe Acrobat could let hackers access private WhatsApp chats - TechRadar",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxNUC1udUlHd1d0MGREZVNaYjJwMGhobTd1WTJ6TDVPa3pDcnZ0WlpCLUFKdlpfSXlVYVcxd29CdnB0V2FWLXFwR051RFplWnEzaXlzMnBoYXNZbFZGV0o2UDVYZndUbTAzT2thRE5nSW1PTkxhRlBaZUFZMEdfazhlS2FmS0NZREE2ZjR1R3VQN0t4U3B1bGI1OFdfTmFULU52ZURBaUFJUzZuOVJBaXVrSmVDOEQwdThWWjFpUW43cTBqWEROSU9RV2lGa2ZtUQ?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-07-23T13:05:00+00:00",
-    "summary": "A malicious Chrome extension for Adobe Acrobat could let hackers access private WhatsApp chats TechRadar",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "8cf42e7a8acb",
-    "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
-    "url": "https://venturebeat.com/resources/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+    "id": "c2ebd27e59b5",
+    "title": "Agentic coding goes hands-free as OpenAI brings GPT-Live's full duplex voice control to Codex and ChatGPT on the desktop",
+    "url": "https://venturebeat.com/orchestration/agentic-coding-goes-hands-free-as-openai-brings-gpt-lives-full-duplex-voice-control-to-codex-and-chatgpt-on-the-desktop",
     "source": "VentureBeat",
     "source_category": "ai",
-    "published": "2026-07-23T17:06:07+00:00",
-    "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+    "published": "2026-07-23T21:17:00+00:00",
+    "summary": "Two weeks after debuting its more naturalistic GPT-Live audio AI model with full-duplex capabilities (listening and speaking at the same time), OpenAI is bringing it directly into developer workflows. The company announced that GPT-Live now powers the ChatGPT desktop...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/4j8qxL7Wc3EDLHQPUQjpUD/90a64f52fbda243e304a6e28dc556320/ChatGPT_Image_Jul_23__2026__03_54_24_PM.png?w=300&q=30",
     "tags": [
-      "Resources"
+      "Orchestration"
     ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "3172436e61c3",
-    "title": "iSchool Professor Appointed to NIH Clinical Informatics and Digital Health Study Section - Florida State University",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObkM3UG1OYXJ1ZVQtcGRXakVhQXM3LXp6UUhSa0RwTzFYanVBWHk5NGNQR3lLT3ZKRnFMQ3Q2MDMzRHhYakpXekpWQ2M2NV9fWDdJOXA0Qk1kUWpheC1vcDU5ZzF3emNabjYzOGRxZ21JWGlLOGRnUnZxbUpCLWYxSEJGN2dTSWpRZVh6REN0QXZCUEpRUnhydnptaTVpaVk0VEwxQkQyUHJlVDdVY1FNWHd3ZzhpaG55bHg2Y1NHbmV3SkxOSGxORDdBLWlqSzhG?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-23T18:24:37+00:00",
-    "summary": "iSchool Professor Appointed to NIH Clinical Informatics and Digital Health Study Section Florida State University",
-    "image_url": null,
-    "tags": [],
     "industries": [
       "tech",
-      "lifesciences"
+      "industrial"
     ],
     "relevance_score": 12
   },
@@ -1126,19 +1075,33 @@
     "relevance_score": 11
   },
   {
-    "id": "d0f8f54979ab",
-    "title": "How Apple’s ads business could move beyond the App Store and its other properties - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FS19Lb1BveE5rWm9wTzNOVVgwRzRpQTFteVlYOWZCLXRFQzFTYjBfZU4tcHZoT1I0ZFF6MFhhZTBFZndtR1p4dXJnSTdSUzRicUpvT2xJcG1BWEtGVmcwanVUTmxEb2FFeWxrdWZKM0trdDI0bkV4MlBWR1Y?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-07-23T09:00:00+00:00",
-    "summary": "How Apple’s ads business could move beyond the App Store and its other properties Ad Age",
+    "id": "fef49b493b7d",
+    "title": "WhatsApp Web chats exposed by Adobe’s Acrobat extension flaw - Malwarebytes",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNWnZBNkJDdlNZQThwandaQXkxLVRrbUJjVHlwSlRZOGNEZWZtRmVYcG4za3pxTThZemhqbUIyb0tOUnR5NDRuZjNkNXVkRG94el82SDExU0pqdnNST2Z3VUpBc0FMNkwtSHVWczd4MTNrdmZrWkpFXzBUQ2N1S1ZzYVE2c09WV2JiSWVlYTRGMnVpWDdpZVl4aG9CYmQ2VnhhNXBLQ2JieWV6QQ?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-07-23T11:40:36+00:00",
+    "summary": "WhatsApp Web chats exposed by Adobe’s Acrobat extension flaw Malwarebytes",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "3172436e61c3",
+    "title": "iSchool Professor Appointed to NIH Clinical Informatics and Digital Health Study Section - Florida State University",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxObkM3UG1OYXJ1ZVQtcGRXakVhQXM3LXp6UUhSa0RwTzFYanVBWHk5NGNQR3lLT3ZKRnFMQ3Q2MDMzRHhYakpXekpWQ2M2NV9fWDdJOXA0Qk1kUWpheC1vcDU5ZzF3emNabjYzOGRxZ21JWGlLOGRnUnZxbUpCLWYxSEJGN2dTSWpRZVh6REN0QXZCUEpRUnhydnptaTVpaVk0VEwxQkQyUHJlVDdVY1FNWHd3ZzhpaG55bHg2Y1NHbmV3SkxOSGxORDdBLWlqSzhG?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-23T18:24:37+00:00",
+    "summary": "iSchool Professor Appointed to NIH Clinical Informatics and Digital Health Study Section Florida State University",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "retail",
-      "industrial"
+      "lifesciences"
     ],
     "relevance_score": 11
   },
@@ -1192,34 +1155,100 @@
     "relevance_score": 10
   },
   {
-    "id": "8fa0dcc2d978",
-    "title": "Kyivstar Launches 5G Technology Pilot Services Across Kyiv with Expanded Testing Zone - The Fast Mode",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMWNvM1ZJUTNZZ1Ntd3NXdXZPRzBDX3BGU0tZc2k1bzBIcF8tb0x4MjB0em96UWtrZ2ZQY0xlMzVIOXd5UGg5cXVud1pVc1R6RWsyTldNY2ROb2ZhR3EzX1dIY1hpZUFUNTg5aXpwZDhXZkhjTmxIc096c2c1Sk5YM1UwTlFaYzJEMUppbVdiTUY0QUh3Q3cwbTZOaWRIYVFHcFlqdTJfWE8zSWpJSFQ4cHRpUkszdTF0OWxPMlVoU2IxZlVIc2NTUk1Tck5IVm5SamstOGx5UQ?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-07-23T00:19:34+00:00",
-    "summary": "Kyivstar Launches 5G Technology Pilot Services Across Kyiv with Expanded Testing Zone The Fast Mode",
+    "id": "2053444a7803",
+    "title": "Salesforce's new B2B Commerce suite puts an AI buying agent on WhatsApp and SMS - MarketScale",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxPMzFDT1c3QTVjdXdBVWZMbWplUFpCWlAwU1JfV1NQUUNKVFhTY054WjBUOWp1eENBUWh2N1pwektrT1lYa2ZIc3FwX205VVlncldCREZQU3VYazVOem13R0VlZmVNLVRrWjA2Qkw4RWdubklNVnBPejc0aXNyMkFuWERSTjFIMld5NWJqSVFqSmRfcW81aTJEdHIyQV9KX0pFQzJYR2VOU2tsWHdib0dvOWo1YVUtZkY4aFAtNzd6NkhXT2dRTU05c1dfN0M?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-07-23T00:14:26+00:00",
+    "summary": "Salesforce's new B2B Commerce suite puts an AI buying agent on WhatsApp and SMS MarketScale",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "telecom"
+      "industrial"
     ],
     "relevance_score": 10
   },
   {
-    "id": "d54724d04ad5",
-    "title": "Telecom operators chart Nigeria’s digital transformation, seek stronger policy support - Realnews Magazine",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWFCeGJkQzZzNTgyNjRhczlZc2dlSmFSN2FFZHpZcnRtWEZlcWlBMEotNWlEb0lNNGtyQThNaks1ODJ1WmN1RUZlcFU4WkJ4SjJxdGRiUEhlTElkc0NuNm5RMWU4LS1McGFzS1gyQWxLMm13WVU0M1dpLU1vbHBEaHQtcmZ4X000dmF6XzJRV0Q3NncyZHNjdzRyd0hwWGZCTXZaWjVCd1UzYXZFbHVaMDZPV0o?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-07-23T17:51:20+00:00",
-    "summary": "Telecom operators chart Nigeria’s digital transformation, seek stronger policy support Realnews Magazine",
+    "id": "d0f8f54979ab",
+    "title": "How Apple’s ads business could move beyond the App Store and its other properties - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE5FS19Lb1BveE5rWm9wTzNOVVgwRzRpQTFteVlYOWZCLXRFQzFTYjBfZU4tcHZoT1I0ZFF6MFhhZTBFZndtR1p4dXJnSTdSUzRicUpvT2xJcG1BWEtGVmcwanVUTmxEb2FFeWxrdWZKM0trdDI0bkV4MlBWR1Y?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-07-23T09:00:00+00:00",
+    "summary": "How Apple’s ads business could move beyond the App Store and its other properties Ad Age",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "telecom",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "8bc30d4d17bc",
+    "title": "Tata Communications appoints Narottam Sharma as Chief Transformation Officer - Exchange4Media",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxONXdXX2xVNkVYU3ZvQWYyTjJtVlpULWtMMVFuUkdxazN3WGZPbGMtWmt6M1UtbjRyNW5MWFJsQmZrZnl2c3RhdXJsOWlQUVNtZW1uZFU3dGVRY09qcDk5X2ZScnNxczBhZ0dFM3plQWhIM2I4TUxQTHBIMmtBNHJwMGlqcmliUEo4aUxqM2xkT0gydzFuM2I1UXFSRFo1MFNzWFR5clhDS2F6NzNvdjVtem9fckVZNFF3dk94UHZMcWVleW9HZFFIYkthUUNDZ1J0QnBUTzFNQQ?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-07-23T09:15:36+00:00",
+    "summary": "Tata Communications appoints Narottam Sharma as Chief Transformation Officer Exchange4Media",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "9a3c38f284f5",
+    "title": "GSK's $10.6B Nuvalent acquisition delivers first FDA approval ahead of schedule - The Business Journals",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNWklfUUNzbkZ5VjRvSXl6dC1vNThKNDR2LWg4c1M4TVZNQ0J5Y3YwZTVQMWtBWjJCWXdJeFBYaFZieXh1T1lvNm1tcHVnc3ZMU095M3k2bUFwVFhpR19DMkVPbFNuT29Gd3dtSjRXay1FT2h0NDFqLWU3TDVLYmVnbS1oT2RxYkw3YkE?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-23T10:00:00+00:00",
+    "summary": "GSK's $10.6B Nuvalent acquisition delivers first FDA approval ahead of schedule The Business Journals",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "8cf42e7a8acb",
+    "title": "The AI compute gap: Enterprises are buying infrastructure faster than they can measure what it costs",
+    "url": "https://venturebeat.com/resources/the-ai-compute-gap-enterprises-are-buying-infrastructure-faster-than-they-can-measure-what-it-costs",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-07-23T17:06:07+00:00",
+    "summary": "Across 107 enterprises, AI infrastructure spending is accelerating well ahead of the ability to see or steer its economics. Most organizations run their AI on a familiar base of hyperscalers and model-provider APIs, yet the next dollar is aimed at specialized compute almost...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/65A33lcUi9p0nBSloUI1Wo/5e5d26295bc879f0ea8845cecac65504/VentureBeat-Research.png?w=300&q=30",
+    "tags": [
+      "Resources"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "f666a391a323",
+    "title": "The Startup Insiders Who Stash Huge Sums in Tax-Subsidized Retirement Accounts - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNG1Qbzc4UVdocC1OaVloNTZwaUtfLUJraXVPcnQ4WHhydXNvRk1OYjRqYzBZYkZxNEFvaTBDUDZYVHpCSjRSTFdLNHlLcHNlcnYwckJZSlVqckNZTDF6OHE3MFpGTzZodlA3QVE4Sy1oUlItS2s3WFR0bC1lb3I1OTZLcFQwbHdaT0tONkI0akRfNDFGTUd6d1dBb1BYUFlaNXRid05MYWdDWkU?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-23T22:01:48+00:00",
+    "summary": "The Startup Insiders Who Stash Huge Sums in Tax-Subsidized Retirement Accounts WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
       "industrial"
     ],
     "relevance_score": 10
@@ -1258,6 +1287,39 @@
     "relevance_score": 9
   },
   {
+    "id": "8fa0dcc2d978",
+    "title": "Kyivstar Launches 5G Technology Pilot Services Across Kyiv with Expanded Testing Zone - The Fast Mode",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQMWNvM1ZJUTNZZ1Ntd3NXdXZPRzBDX3BGU0tZc2k1bzBIcF8tb0x4MjB0em96UWtrZ2ZQY0xlMzVIOXd5UGg5cXVud1pVc1R6RWsyTldNY2ROb2ZhR3EzX1dIY1hpZUFUNTg5aXpwZDhXZkhjTmxIc096c2c1Sk5YM1UwTlFaYzJEMUppbVdiTUY0QUh3Q3cwbTZOaWRIYVFHcFlqdTJfWE8zSWpJSFQ4cHRpUkszdTF0OWxPMlVoU2IxZlVIc2NTUk1Tck5IVm5SamstOGx5UQ?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-07-23T00:56:23+00:00",
+    "summary": "Kyivstar Launches 5G Technology Pilot Services Across Kyiv with Expanded Testing Zone The Fast Mode",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "d54724d04ad5",
+    "title": "Telecom operators chart Nigeria’s digital transformation, seek stronger policy support - Realnews Magazine",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxOUWFCeGJkQzZzNTgyNjRhczlZc2dlSmFSN2FFZHpZcnRtWEZlcWlBMEotNWlEb0lNNGtyQThNaks1ODJ1WmN1RUZlcFU4WkJ4SjJxdGRiUEhlTElkc0NuNm5RMWU4LS1McGFzS1gyQWxLMm13WVU0M1dpLU1vbHBEaHQtcmZ4X000dmF6XzJRV0Q3NncyZHNjdzRyd0hwWGZCTXZaWjVCd1UzYXZFbHVaMDZPV0o?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-07-23T17:51:20+00:00",
+    "summary": "Telecom operators chart Nigeria’s digital transformation, seek stronger policy support Realnews Magazine",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom",
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "8be5752a7fad",
     "title": "China’s AI models have Trump’s AI world at war with itself",
     "url": "https://www.technologyreview.com/2026/07/20/1140675/chinas-ai-models-have-trumps-ai-world-at-war-with-itself/",
@@ -1279,17 +1341,18 @@
     "relevance_score": 8
   },
   {
-    "id": "ff32f669d43d",
-    "title": "Trump Approves Landmark Nuclear Deal With Saudi Arabia in Big Win for Kingdom - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDAtVDgxRzhwVHlfb3dqRkJ3UnRzeG9SbmhsSlN6YnZvclR6TFc5RFotc05LOEJ6a3hvVy1McEtNa2dGUVJnMm02REh6QWxaanhmWTZad2l0dnR2WHhXeU54aS1ZSFJGQld2ajZ4RTZuTUZsdVJ6djR2d3BOTGVQRmtXS1EzT0xybnRhSzlfc1JDU0RZQlNwZk1raTkyS3kwUGdpUkM2U1dnTVl2OWMtdDlGNHEzVGpNNno0R2VWTzFQQQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-22T21:36:00+00:00",
-    "summary": "Trump Approves Landmark Nuclear Deal With Saudi Arabia in Big Win for Kingdom WSJ",
+    "id": "76c9bbc4a0c5",
+    "title": "Globe expands 5G in Naga as Leni Robredo pushes digital transformation - InsiderPH",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPYTBhNWJieFJId3IyVmkwOGd2N1lkYXlyaXFnLVV3NmxPODhEQURmOF9PZTQzZmtlMFowekwxR0tSaWxuRjBxam55V3NEWXFMWnpkMkt5MVNsbUl6MXBGTWhCcTVwS1VpYlhEZThDNktlb1hrQTluMlRqM1NQbGJ6VlZyUy16NVlmQThFTTRnNmdidlhSWkpZ?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-07-22T10:15:59+00:00",
+    "summary": "Globe expands 5G in Naga as Leni Robredo pushes digital transformation InsiderPH",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech"
+      "tech",
+      "telecom"
     ],
     "relevance_score": 8
   },
@@ -1328,22 +1391,6 @@
     "relevance_score": 7
   },
   {
-    "id": "afaa81a9cb87",
-    "title": "Wells Fargo (WFC) Appoints Tom Nicholls To Lead Sports Investment Banking - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZVdtWlU5alJyUWVIcWJpamM5dkJfZ3VKaWFWZk9ZSjRBbG53NHh3Q01raTgyd0RhV1ZodDVJY21oYlJaYnBPTE5QR1UxTDNSWmYxcnBwM2lLLVd0VEkyMGt6T19kaF9DWHZoNkJ3QmpsVV9pNzdCb3dsZ3FtSWVyTTY1VVlUcGtUdzlmS3RRaUtfX3ZMcVVROQ?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-07-22T01:09:00+00:00",
-    "summary": "Wells Fargo (WFC) Appoints Tom Nicholls To Lead Sports Investment Banking Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 7
-  },
-  {
     "id": "d74d27f58e47",
     "title": "Google Was a Lifeline for Publishers. Now Some Are Thinking of Cutting It Off. - WSJ",
     "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxOYzc2bDJ6RzJfeldQdEVycm9meEFfSHhZX01ZUl9BaUFydVR2TGw2eVdsS1A3Mkl0OEU4dE81TXF5RFVaY0tnR3J4SzVYN3JHU3BlZm9YTHhERFZFd2ZZWVV2OGZyZy1PQU9keU1fbnNET1FYQmFwcGpXQWJsWFNlamIzWTVFZw?oc=5",
@@ -1359,18 +1406,50 @@
     "relevance_score": 7
   },
   {
-    "id": "6bcd8edeb288",
-    "title": "With FDA approval, Celcuity sees big future for its new breast cancer drug - Star Tribune",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeVZIOWY5OEhsMm9yUEEyald2WE16WFdwYWNfdVM5djJaSEdGeHRVRkhWT2ZxQ3cyYV9MXzAyUWQ0dVc4dWxObVpITURBTERjc2xiOUFsTGkzcUUxMjFGYVdyREwwM2Zka3dhOFpndlJUTElSZGFHSTNGRmhTTDRfbVRfT3BjanpXZC1pMjB3NUwtOE1BbTlUMFQwUQ?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-22T21:08:28+00:00",
-    "summary": "With FDA approval, Celcuity sees big future for its new breast cancer drug Star Tribune",
+    "id": "ce6a586bd5ab",
+    "title": "Sampath Paranavitane Appointed Chief Strategy Officer for InfoVision’s Telecom, Media & Technology Business - hrtoday.in",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPNXZTVnUwTzRaRWxISFV0aUEtRHJpRHBkTGJ1UzByTTEwUFRQdmdOUDFHRnIyTVhfOXFKZUVGMFQwMzBSdEFtcnFmSGlRb1plU2h0VktOc0pJSDJJMmZON1E4bklxZHJkN0ZZeE10MklPRTM4MlBpaGZpWks1ZlNsNDhIb3JlNnlUejZGM2JhWHVZa052Nko4S0poTnJwVWFnVzlCcl9FbkRObEZNTHgzTFFidWZ2T2doa21sbmtORS0?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-07-22T16:11:57+00:00",
+    "summary": "Sampath Paranavitane Appointed Chief Strategy Officer for InfoVision’s Telecom, Media & Technology Business hrtoday.in",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "telecom"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "ff32f669d43d",
+    "title": "Trump Approves Landmark Nuclear Deal With Saudi Arabia in Big Win for Kingdom - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQRDAtVDgxRzhwVHlfb3dqRkJ3UnRzeG9SbmhsSlN6YnZvclR6TFc5RFotc05LOEJ6a3hvVy1McEtNa2dGUVJnMm02REh6QWxaanhmWTZad2l0dnR2WHhXeU54aS1ZSFJGQld2ajZ4RTZuTUZsdVJ6djR2d3BOTGVQRmtXS1EzT0xybnRhSzlfc1JDU0RZQlNwZk1raTkyS3kwUGdpUkM2U1dnTVl2OWMtdDlGNHEzVGpNNno0R2VWTzFQQQ?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-22T21:36:00+00:00",
+    "summary": "Trump Approves Landmark Nuclear Deal With Saudi Arabia in Big Win for Kingdom WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "2aceb246e11f",
+    "title": "Connecting communities, securing the future: Telecommunications drive Fiji’s digital transformation - Fiji Sun",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNdjEzc0RlUGhKRlBlTHpoUDZNcG9IaUNHaDlHemNWU2puNktvZjdKQm1hZ19CWVRHLXRYNUNrYjIzXzZ3bEQxOUdidENDSUljVmVsNzJlXzdFWDNxSjZ3eWRGeUI0NnFSWFBJeEJHX2o5NUVQMVROOVI2d1piVmRISkxUb3djVFVMdlFUdUNsUHoyYXMzSkZWakt0TW1Oczkydk5leXNwaUNHbWVPMWJSNm5MWmFlY1dhemVtUFFzZnpJS1ZqaEFDYlhLMG5oWFY3MV9j?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-07-23T06:12:05+00:00",
+    "summary": "Connecting communities, securing the future: Telecommunications drive Fiji’s digital transformation Fiji Sun",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "lifesciences"
+      "telecom"
     ],
     "relevance_score": 7
   },
@@ -1425,6 +1504,22 @@
     ]
   },
   {
+    "id": "afaa81a9cb87",
+    "title": "Wells Fargo (WFC) Appoints Tom Nicholls To Lead Sports Investment Banking - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQZVdtWlU5alJyUWVIcWJpamM5dkJfZ3VKaWFWZk9ZSjRBbG53NHh3Q01raTgyd0RhV1ZodDVJY21oYlJaYnBPTE5QR1UxTDNSWmYxcnBwM2lLLVd0VEkyMGt6T19kaF9DWHZoNkJ3QmpsVV9pNzdCb3dsZ3FtSWVyTTY1VVlUcGtUdzlmS3RRaUtfX3ZMcVVROQ?oc=5",
+    "source": "Banking",
+    "source_category": "industry_financial",
+    "published": "2026-07-22T01:09:00+00:00",
+    "summary": "Wells Fargo (WFC) Appoints Tom Nicholls To Lead Sports Investment Banking Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 6
+  },
+  {
     "id": "5652c2a3d674",
     "title": "If you open a new account with Verizon, make sure this doesn't happen to you - PhoneArena",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxORFUtSXU2MHlKNzRsX0tyWXQ0blJWd3EzRjNVaGctWklJd2pmTHdwWHJZREJhZVh2NENpSzhyYTJuaDVuRFlBcS1BZ3FYT3lRMllKOV9hd0Jnamtib0FlbUVucTV6WUV6MUpPbVJ2S29KczN5eVBVNlRsUkM0Z0ZSQW90WkItamtJTlNrTzg5R1lxTVllY1JzeEhzcUEyTHlXeVpkVGIyekpTQQ?oc=5",
@@ -1473,6 +1568,22 @@
     "relevance_score": 6
   },
   {
+    "id": "6bcd8edeb288",
+    "title": "With FDA approval, Celcuity sees big future for its new breast cancer drug - Star Tribune",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQeVZIOWY5OEhsMm9yUEEyald2WE16WFdwYWNfdVM5djJaSEdGeHRVRkhWT2ZxQ3cyYV9MXzAyUWQ0dVc4dWxObVpITURBTERjc2xiOUFsTGkzcUUxMjFGYVdyREwwM2Zka3dhOFpndlJUTElSZGFHSTNGRmhTTDRfbVRfT3BjanpXZC1pMjB3NUwtOE1BbTlUMFQwUQ?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-22T21:08:28+00:00",
+    "summary": "With FDA approval, Celcuity sees big future for its new breast cancer drug Star Tribune",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 6
+  },
+  {
     "id": "1cfdf82fa40e",
     "title": "Caris Life Sciences (CAI) Launches In House PTEN Test After FDA Prostate Cancer Approval - Yahoo Finance",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNQXZBYXdOMWxRNmRtU044Wk5ubUk0SzB5LW9RLW9zOW9Ob0h4dnFoRWpTd0oweTZMUXMwOG9keXdVZmExTWs3SHZPVjNFYzlQVS1GRE95QzRoUm01ZTlPbWtWa1Y2aFQ4SlIzMGk0YzhQTTlwdzhEelpKQThhd2pRX19KbmQ3WnJYYUdHT3pOSkMtTkw5S3ROVg?oc=5",
@@ -1501,6 +1612,22 @@
     "industries": [
       "tech",
       "financial"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "9dd2a448444e",
+    "title": "Agilent Technologies (A) Wins FDA Approval, Where Does Fair Value Sit Now? - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxOa1pULTB6ZHFERWM2dlBzQ3FRcU1LNUNYTHFrR2lLQmtzY0tMR21hOFJFWU10aXIxSjBlbUUwVkw4UzVnRXJaNnZzVW4zTzhPVlNTUDVZbUFrXzBUUHV0Q1ZrMlhuc1VhWlMwYTFKVnhlLXR3VXZUaEpsaGtLcV9JaE9pbVNBcjNmcWNNTzhkMHlzbzFrZ2pkbmliLWlYa2I1bk9LaEhxOENDN3JxUUFLMXRpd3BLeHlpWUF0Q3l4alJwRkZnYlYzclRXc190bFZ2b2YtTmRWdXhzY3dRTG1KZHFyd9IB6AFBVV95cUxOZGRTVno0b3NiMDdKOWtZZExGRkRlYWxDZW1rZUYxSW5pRnNsWklocVBvYXpBQmlSRng0OFZxX3BCSS0xZ0lqOEdkeElCdnhubU4wdHRicEdlT2owdGo1VmUyb1R1c2xvX3JmMjVtQXFKNy1KYkRfaW5hSE9leTdFSF9DakNHZ2s0a0QybzZYNVREZXdnS3ZIYU9Kc2JFanZaRWNxdUtuUEpJS3Z3OHhWT3NjazViUWVOVjBsMDNUdHl6R0ZwLUJnRjdabmFIcXgtS2xBX3hmWWdRbUJjYk51emZlUjc2VkNU?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-20T22:31:44+00:00",
+    "summary": "Agilent Technologies (A) Wins FDA Approval, Where Does Fair Value Sit Now? simplywall.st",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
     ],
     "relevance_score": 5
   }
