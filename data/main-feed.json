@@ -17,7 +17,7 @@
       "media",
       "retail"
     ],
-    "relevance_score": 51
+    "relevance_score": 48
   },
   {
     "id": "94e518cd00c3",
@@ -38,7 +38,7 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 46
+    "relevance_score": 43
   },
   {
     "id": "35e86ee7b58e",
@@ -53,27 +53,6 @@
     "industries": [
       "consumer",
       "industrial"
-    ],
-    "relevance_score": 44
-  },
-  {
-    "id": "4addd912d82b",
-    "title": "Meta just created a moderation nightmare for its smart glasses",
-    "url": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-24T19:23:44+00:00",
-    "summary": "Meta's smart glasses have been a PR headache for the company. Public backlash has been swift, and fierce; people are concerned about the erosion of privacy and expansion of surveillance. Some especially bad actors are using the glasses to film themselves \"pranking\" random...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268667_meta_glasses_spying_posters_AKrales_0059.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Analysis",
-      "Creators",
-      "Gadgets",
-      "Meta",
-      "Report"
-    ],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 44
   },
@@ -136,20 +115,25 @@
     "relevance_score": 50
   },
   {
-    "id": "1cf57a0fceea",
-    "title": "Under Armour teams with ‘Heated Rivalry’ star for new campaign",
-    "url": "https://www.marketingdive.com/news/under-armour-heated-rivalry-francois-arnaud-global-ambassador/826165/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-07-24T17:00:00+00:00",
-    "summary": "François Arnaud is the brand's latest ambassador and teases its HeatGear franchise in the “For When It’s Hot” effort.",
-    "image_url": "https://imgproxy.divecdn.com/N0gGtST9x92kwLHizu8WzPibgJW5inkCbUJHbRGfv4w/g:nowe:0:32/c:3199:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9IZWF0R2Vhcl9GQV8wMV91azhPQ0h5LmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "consumer",
-      "industrial"
+    "id": "4addd912d82b",
+    "title": "Meta just created a moderation nightmare for its smart glasses",
+    "url": "https://www.theverge.com/report/970901/instagram-meta-glasses-prank-harassment-ban",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-24T19:23:44+00:00",
+    "summary": "Meta's smart glasses have been a PR headache for the company. Public backlash has been swift, and fierce; people are concerned about the erosion of privacy and expansion of surveillance. Some especially bad actors are using the glasses to film themselves \"pranking\" random...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268667_meta_glasses_spying_posters_AKrales_0059.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Analysis",
+      "Creators",
+      "Gadgets",
+      "Meta",
+      "Report"
     ],
-    "relevance_score": 41
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 40
   },
   {
     "id": "47bc27ee2c1c",
@@ -194,6 +178,44 @@
     "relevance_score": 42
   },
   {
+    "id": "850233a1af33",
+    "title": "Google basically confirms the Pixel 11 is getting a price hike",
+    "url": "https://www.theverge.com/tech/971041/google-confirms-pixel-11-price-hike",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-25T18:13:36+00:00",
+    "summary": "Google's Vice President of Devices and Services, Shakil Barkat, all but confirmed in an interview with 9to5 Google that its next Pixel phone would cost more than the Pixel 10. Considering the ongoing RAM supply issues due to the explosion of AI data centers, the rumored price...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Screenshot-2026-07-15-at-11.36.30-AM.png?quality=90&amp;strip=all&amp;crop=0,6.913700090708,100,86.172599818584",
+    "tags": [
+      "Business",
+      "Google",
+      "Google Pixel",
+      "News",
+      "Tech"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 18
+  },
+  {
+    "id": "1cf57a0fceea",
+    "title": "Under Armour teams with ‘Heated Rivalry’ star for new campaign",
+    "url": "https://www.marketingdive.com/news/under-armour-heated-rivalry-francois-arnaud-global-ambassador/826165/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-07-24T17:00:00+00:00",
+    "summary": "François Arnaud is the brand's latest ambassador and teases its HeatGear franchise in the “For When It’s Hot” effort.",
+    "image_url": "https://imgproxy.divecdn.com/N0gGtST9x92kwLHizu8WzPibgJW5inkCbUJHbRGfv4w/g:nowe:0:32/c:3199:1807/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9IZWF0R2Vhcl9GQV8wMV91azhPQ0h5LmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 37
+  },
+  {
     "id": "0980cf6c269b",
     "title": "The real risk in agentic commerce",
     "url": "https://martech.org/the-real-risk-in-agentic-commerce/",
@@ -214,6 +236,25 @@
     "relevance_score": 42
   },
   {
+    "id": "3203556e24c9",
+    "title": "Starting Grid For The 2026 F1 Hungarian Grand Prix",
+    "url": "https://www.forbes.com/sites/yaraelshebiny/2026/07/25/starting-grid-for-the-2026-f1-hungarian-grand-prix/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-25T19:38:16+00:00",
+    "summary": "Lando Norris took pole position for the Hungarian Grand Prix while Lewis Hamilton received a grid penalty that dropped him down from second. Here's the full starting grid.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a64f8823a674645e1999bb6/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [],
+    "relevance_score": 17
+  },
+  {
     "id": "764dffb9b4d3",
     "title": "Your client just asked if they show up in ChatGPT. Now what? by AgencyAnalytics",
     "url": "https://martech.org/your-client-just-asked-if-they-show-up-in-chatgpt-now-what/",
@@ -231,22 +272,6 @@
       "industrial"
     ],
     "relevance_score": 42
-  },
-  {
-    "id": "d4ade31c5225",
-    "title": "Verizon continues to fight churn with CX investments - Customer Experience Dive",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYzFySjQ4WXZIbGhvd0tiZ2YxcW9DMndoZElpNFNqSWhkbTF2VmJPNnpJazBPb21aNFV5c05reDQ2ZllMWFlNZDM4N19tNEVVaS1iZ3VWYmZsNlRhOXZid1lxSTdSN2JZWlNPTXEweS1wU21EOFJzU05COXRtM0dFeURtaHluUXNxeUpYR3FTMA?oc=5",
-    "source": "Telecom",
-    "source_category": "industry_telecom",
-    "published": "2026-07-24T18:17:44+00:00",
-    "summary": "Verizon continues to fight churn with CX investments Customer Experience Dive",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "financial"
-    ],
-    "relevance_score": 34
   },
   {
     "id": "dbea8685f6aa",
@@ -286,27 +311,6 @@
     "relevance_score": 36
   },
   {
-    "id": "58bd1bbf7f68",
-    "title": "Netflix’s ‘Ransom Canyon’ Season 2: Why Timing Is Everything In Love",
-    "url": "https://www.forbes.com/sites/danafeldman/2026/07/25/netflixs-ransom-canyon-season-2-why-timing-is-everything-in-love/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-25T15:32:16+00:00",
-    "summary": "Josh Duhamel and Minka Kelly open up about season two of Netflix's 'Ransom Canyon,' the power of second chances, and why true love is all about chemistry and timing.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a64d3e7f8ca767775dd87fb/0x0.jpg?width=960&precrop=1280%2C720%2Cx0%2Cy66",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 18
-  },
-  {
     "id": "af754697a57e",
     "title": "Why Marketers Need to Move Beyond Attribution and Embrace Agentic Optimization",
     "url": "https://www.salesforce.com/blog/agentic-marketing-optimization/",
@@ -321,46 +325,6 @@
       "industrial"
     ],
     "relevance_score": 35
-  },
-  {
-    "id": "03a514dd4994",
-    "title": "Teenage Engineering’s unique music machines are 30 percent off",
-    "url": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-25T15:00:00+00:00",
-    "summary": "With elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie somewhere between musical instrument and modern art. These grooveboxes, as they’re often called, are capable of helping you produce songs in real time from a single unit, with an...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/257534_Teenage_Engineering_OP-XY_TOBrien_0023.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 18
-  },
-  {
-    "id": "deff764a8378",
-    "title": "Google Puzzlingly Fined $1B For Being Too Google For The EU’s Tastes",
-    "url": "https://www.forbes.com/sites/johntamny/2026/07/25/google-puzzlingly-fined-1b-for-being-too-google-for-the-eus-tastes/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-25T13:00:04+00:00",
-    "summary": "Regulators demand that Google harm itself in such a way that will imperil the very third parties intent on utilizing Google’s popularity as their own growth strategy.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a64ab97a2228f4cbbbf9605/0x0.jpg",
-    "tags": [
-      "Policy",
-      "/policy",
-      "Business",
-      "/business",
-      "Policy"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 19
   },
   {
     "id": "464b747cc4ad",
@@ -379,25 +343,6 @@
       "consumer"
     ],
     "relevance_score": 48
-  },
-  {
-    "id": "9831289344f8",
-    "title": "Stella Lefty Blocked From Her First No. 1s On Multiple Charts By The Same Smash",
-    "url": "https://www.forbes.com/sites/hughmcintyre/2026/07/25/stella-lefty-blocked-from-her-first-no-1s-on-multiple-charts-by-the-same-smash/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-25T15:36:48+00:00",
-    "summary": "Stella Lefty rises to a new career peak of No. 2 on two Billboard charts with \"Boston\" as Ella Langley's \"Choosin' Texas\" holds at No. 1.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a64d7fd8e4ffc561a89f55a/0x0.jpg?width=960&precrop=2575%2C1449%2Cx0%2Cy569",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [],
-    "relevance_score": 17
   },
   {
     "id": "fa02f4b2724b",
@@ -421,6 +366,206 @@
     "relevance_score": 39
   },
   {
+    "id": "58bd1bbf7f68",
+    "title": "Netflix’s ‘Ransom Canyon’ Season 2: Why Timing Is Everything In Love",
+    "url": "https://www.forbes.com/sites/danafeldman/2026/07/25/netflixs-ransom-canyon-season-2-why-timing-is-everything-in-love/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-25T15:32:16+00:00",
+    "summary": "Josh Duhamel and Minka Kelly open up about season two of Netflix's 'Ransom Canyon,' the power of second chances, and why true love is all about chemistry and timing.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a64d3e7f8ca767775dd87fb/0x0.jpg?width=960&precrop=1280%2C720%2Cx0%2Cy66",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "03a514dd4994",
+    "title": "Teenage Engineering’s unique music machines are 30 percent off",
+    "url": "https://www.theverge.com/gadgets/970685/teenage-engineering-30-percent-deal-sale",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-25T15:00:00+00:00",
+    "summary": "With elements from synthesizers, loopers, and effects pedals, Teenage Engineering’s devices lie somewhere between musical instrument and modern art. These grooveboxes, as they’re often called, are capable of helping you produce songs in real time from a single unit, with an...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/01/257534_Teenage_Engineering_OP-XY_TOBrien_0023.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "deff764a8378",
+    "title": "Google Puzzlingly Fined $1B For Being Too Google For The EU’s Tastes",
+    "url": "https://www.forbes.com/sites/johntamny/2026/07/25/google-puzzlingly-fined-1b-for-being-too-google-for-the-eus-tastes/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-25T13:00:04+00:00",
+    "summary": "Regulators demand that Google harm itself in such a way that will imperil the very third parties intent on utilizing Google’s popularity as their own growth strategy.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a64ab97a2228f4cbbbf9605/0x0.jpg",
+    "tags": [
+      "Policy",
+      "/policy",
+      "Business",
+      "/business",
+      "Policy"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 18
+  },
+  {
+    "id": "1faf709c0597",
+    "title": "Trump Sends Blue Jays Message After Wager With Canada PM Mark Carney",
+    "url": "https://www.forbes.com/sites/peterchawaga/2026/07/25/trump-sends-blue-jays-message-after-wager-with-canada-pm-mark-carney/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-25T19:16:11+00:00",
+    "summary": "The Toronto Blue Jays found themselves at the center of attention from U.S. President Donald Trump during a recent address.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a650b17017ee32becb3c115/0x0.jpg?width=960&precrop=953%2C535%2Cx409%2Cy205",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "b5e8105260d1",
+    "title": "Trump Awkwardly Congratulates Wall Street Journal Reporters He Sued Over Epstein Letters Story",
+    "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/25/trump-awkwardly-congratulates-wall-street-journal-reporters-he-sued-over-epstein-letters-story/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-25T16:46:17+00:00",
+    "summary": "Trump sued the Wall Street Journal’s parent company and two reporters behind the story, revealing one of the reporters’ addresses in the lawsuit.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a64e8187af3b769f86acc29/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "64dd1bf18288",
+    "title": "[Copy] NYT ‘Connections’ Hints And Answers For Sunday, July 19",
+    "url": "https://www.forbes.com/sites/erikkain/2026/07/25/copy-nyt-connections-hints-and-answers-for-sunday-july-19/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-25T16:33:15+00:00",
+    "summary": "Looking for today's NYT Connections hints? Some help and the answers for today's game are right here to help keep your streak alive.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6897b0fa9d5fa5836ab3a53d/0x0.jpg?width=960",
+    "tags": [
+      "Gaming",
+      "/gaming",
+      "Innovation",
+      "/innovation",
+      "Gaming"
+    ],
+    "industries": [],
+    "relevance_score": 16
+  },
+  {
+    "id": "d4ade31c5225",
+    "title": "Verizon continues to fight churn with CX investments - Customer Experience Dive",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNYzFySjQ4WXZIbGhvd0tiZ2YxcW9DMndoZElpNFNqSWhkbTF2VmJPNnpJazBPb21aNFV5c05reDQ2ZllMWFlNZDM4N19tNEVVaS1iZ3VWYmZsNlRhOXZid1lxSTdSN2JZWlNPTXEweS1wU21EOFJzU05COXRtM0dFeURtaHluUXNxeUpYR3FTMA?oc=5",
+    "source": "Telecom",
+    "source_category": "industry_telecom",
+    "published": "2026-07-24T18:17:44+00:00",
+    "summary": "Verizon continues to fight churn with CX investments Customer Experience Dive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "telecom",
+      "financial"
+    ],
+    "relevance_score": 30
+  },
+  {
+    "id": "f469e09901a8",
+    "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+    "url": "https://www.forbes.com/sites/erikkain/2026/07/25/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-25T15:47:09+00:00",
+    "summary": "Looking for something new to stream this weekend? Here’s every major new movie and show hitting Netflix, Hulu, Prime Video, Apple TV and more.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a638c87e843eda4eb427063/0x0.jpg?width=960",
+    "tags": [
+      "Gaming",
+      "/gaming",
+      "Innovation",
+      "/innovation",
+      "Gaming"
+    ],
+    "industries": [
+      "media",
+      "tech"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "7cd29649fa3e",
+    "title": "My Chemical Romance Misses Out On A New No. 1 Album By Only One Space",
+    "url": "https://www.forbes.com/sites/hughmcintyre/2026/07/25/my-chemical-romance-misses-out-on-a-new-no-1-album-by-only-one-space/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-25T15:45:23+00:00",
+    "summary": "Danger Days: The True Lives of the Fabulous Killjoys returns to Billboard's Vinyl Albums chart in the runner-up rung, nearly earning My Chemical Romance a new No. 1.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6710537507385749072d60de/0x0.jpg?width=960&precrop=3000%2C1688%2Cx0%2Cy38",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "9831289344f8",
+    "title": "Stella Lefty Blocked From Her First No. 1s On Multiple Charts By The Same Smash",
+    "url": "https://www.forbes.com/sites/hughmcintyre/2026/07/25/stella-lefty-blocked-from-her-first-no-1s-on-multiple-charts-by-the-same-smash/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-25T15:36:48+00:00",
+    "summary": "Stella Lefty rises to a new career peak of No. 2 on two Billboard charts with \"Boston\" as Ella Langley's \"Choosin' Texas\" holds at No. 1.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a64d7fd8e4ffc561a89f55a/0x0.jpg?width=960&precrop=2575%2C1449%2Cx0%2Cy569",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [],
+    "relevance_score": 16
+  },
+  {
     "id": "80e05541467a",
     "title": "Mega Millions Jackpot Hits $800 Million—Here’s What The Winner Could Take Home",
     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/25/mega-millions-jackpot-hits-to-800-million-heres-what-the-winner-could-take-home/",
@@ -439,7 +584,7 @@
     "industries": [
       "media"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "4eb9f5649a0e",
@@ -461,7 +606,58 @@
       "media",
       "tech"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
+  },
+  {
+    "id": "85d6cb707c5c",
+    "title": "Tesla Sank 15% on Its Q2 Miss. Wall Street's Average Price Target Now Implies 29% Upside. - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPa3VGdTVxZ3JYNk9YNkcwb2NvX0M1eThFODk3aXYtREZPXzVwTVJkekY2OWx0SUFGdTJVcDl4TVlaeW9FcTdzMV96WUVWYk51d1N4U3lJVUtJRlZCaUpSQkpRaXhCY25hUEJ1cXBqSXZMdlRfXzZNLVFLcVd2bEt4V3VmM2hIbERfWmRyeVhKRQ?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-25T16:57:00+00:00",
+    "summary": "Tesla Sank 15% on Its Q2 Miss. Wall Street's Average Price Target Now Implies 29% Upside. Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "1a5d04e011ad",
+    "title": "Record Breaking 59 Vaults Michael Kim Into Lead At 3M Open",
+    "url": "https://www.forbes.com/sites/mikefore/2026/07/25/record-breaking-59-vaults-michael-kim-into-lead-at-3m-open/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-25T16:17:19+00:00",
+    "summary": "TPC Twin Cities course record 59 for Michael Kim propels him into lead on the PGA Tour's 3M Open in Minnesota.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a64db0276ec4e68ee392267/0x0.jpg?width=960&precrop=2907%2C1635%2Cx0%2Cy51",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [],
+    "relevance_score": 15
+  },
+  {
+    "id": "014a5826542d",
+    "title": "Agentic Transformation Pitfall: The Confident, Wrong Answers",
+    "url": "https://www.salesforce.com/blog/ai-agent-answer-accuracy/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-25T18:00:07+00:00",
+    "summary": "AI agents can produce confident but incorrect answers without the right context. See how certified data, AI Skills, and Tableau MCP improve answer accuracy.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/ai-agent-answer-accuracy-507970416.jpg",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 14
   },
   {
     "id": "d3814df28c5a",
@@ -474,7 +670,22 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 16
+    "relevance_score": 15
+  },
+  {
+    "id": "7bdbb3180b6b",
+    "title": "Is Hoka slowing down?",
+    "url": "https://www.retaildive.com/news/hoka-earnings-slowing-down-q1-disappointment/826124/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-07-24T16:25:00+00:00",
+    "summary": "Deckers Brands, which also runs Ugg, beat expectations for Q1, but some analysts wonder whether demand for its sneaker brand could wane.",
+    "image_url": "https://imgproxy.divecdn.com/s9Fwq2LRqmBIs5JGJaYRzadJOVfKnyEIy4iUJSoUpaI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUctOTY4MC5qcGc=.webp",
+    "tags": [],
+    "industries": [
+      "consumer"
+    ],
+    "relevance_score": 29
   },
   {
     "id": "d09efb338079",
@@ -495,7 +706,39 @@
     "industries": [
       "telecom"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
+  },
+  {
+    "id": "d1864b12cda8",
+    "title": "Troy Jackson Replaces Graham Platner As Maine’s Democratic Nominee",
+    "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/07/25/troy-jackson-becomes-maines-democratic-nominee-after-sexual-assault-allegations-derailed-graham-platners-campaign/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-25T16:56:17+00:00",
+    "summary": "Platner suspended his Senate bid earlier this month after allegations of sexual assault and rape.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a64e94d7f5027217e4886be/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [],
+    "relevance_score": 14
+  },
+  {
+    "id": "6b3ec56588b7",
+    "title": "RainFocus adds two Adobe AEM integrations for event teams - MarketScale",
+    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxOMWdoa1h3dzRDQlVlN29Nb2R6MGhaZ1h4cy1VdVRBdUdCalhQOHZySzBoYU0xQy1NeXJXMzBuX0k4Z0ZqZkV5V21vSVpJUmxVMF9KWmlhUlpzMkw5R2pIVVhaamE2X2M4d05QQnNCUU9ENDZ3Skx2M0RyZE9iQVA0REo2TGMtV0diZ1dSbGVicEJWaG5yVGpUTHBIVk84S2UzRVBYMi02VGdTMk9kUUk3WktaTktpV3RlVS1zV1RRQ0hVcXBvaFBIUWtwUFRIUE1TdDJya01rb1Q0ajdGOVp4NWVYemtKeTBfS20xdnJJc19lT0lEWDM1aG9xYWZFc2dNaVkxd1BNbXk0dmF3WldmeA?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-07-25T19:20:24+00:00",
+    "summary": "RainFocus adds two Adobe AEM integrations for event teams MarketScale",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 13
   },
   {
     "id": "39af58be02f7",
@@ -518,7 +761,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "2c66e1756902",
@@ -539,104 +782,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 17
-  },
-  {
-    "id": "ba19a63824e2",
-    "title": "Synth historian Oli Freke will spend big on a good bicycle",
-    "url": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-25T15:15:00+00:00",
-    "summary": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale and deep dives on effects plug-ins. He's even written a book tracing the...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Oli-Freke-photo.jpeg?quality=90&amp;strip=all&amp;crop=0%2C25.303277705061%2C100%2C69.808027923211&amp;w=1200",
-    "tags": [
-      "Books",
-      "Entertainment",
-      "Interview",
-      "Report"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "7bdbb3180b6b",
-    "title": "Is Hoka slowing down?",
-    "url": "https://www.retaildive.com/news/hoka-earnings-slowing-down-q1-disappointment/826124/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-07-24T16:25:00+00:00",
-    "summary": "Deckers Brands, which also runs Ugg, beat expectations for Q1, but some analysts wonder whether demand for its sneaker brand could wane.",
-    "image_url": "https://imgproxy.divecdn.com/s9Fwq2LRqmBIs5JGJaYRzadJOVfKnyEIy4iUJSoUpaI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUctOTY4MC5qcGc=.webp",
-    "tags": [],
-    "industries": [
-      "consumer"
-    ],
-    "relevance_score": 29
-  },
-  {
-    "id": "e5133d56844e",
-    "title": "Syrian Intervention In Lebanon Is Militarily And Politically Infeasible, Experts Warn",
-    "url": "https://www.forbes.com/sites/pauliddon/2026/07/25/syrian-intervention-in-lebanon-is-militarily-and-politically-infeasible-experts-warn/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-25T14:51:38+00:00",
-    "summary": "“Syria is riven with sectarian distrust following its long and bloody civil war. The last thing it needs is to rush headlong into a war against Lebanon's Shiites.\"",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a64c4c47af3b769f86acc15/0x0.jpg",
-    "tags": [
-      "Aerospace & Defense",
-      "/aerospace-defense",
-      "Business",
-      "/business",
-      "Aerospace & Defense"
-    ],
-    "industries": [],
-    "relevance_score": 15
-  },
-  {
-    "id": "f253f5e73f8a",
-    "title": "‘The Rings Of Power’ Season 3 Release Schedule Proves Amazon Is Already Doing Serious Damage Control",
-    "url": "https://www.forbes.com/sites/erikkain/2026/07/25/rings-of-power-release-schedule-amazon-has-zero-faith-in-tolkien-adaptation/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-25T10:30:00+00:00",
-    "summary": "Amazon has clearly lost faith in 'The Rings Of Power' even if it inexplicably continues to pour vast sums of money into its production.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a644f4db10fefec25d7b2dc/0x0.jpg",
-    "tags": [
-      "Gaming",
-      "/gaming",
-      "Innovation",
-      "/innovation",
-      "Gaming"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 17
-  },
-  {
-    "id": "7261cf2470d7",
-    "title": "Phillies’ Bryce Harper Sends $40 Million Front Office Message Ahead Of Trade Deadline",
-    "url": "https://www.forbes.com/sites/peterchawaga/2026/07/25/phillies-bryce-harper-sends-40-million-front-office-message-ahead-of-trade-deadline/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-25T10:30:00+00:00",
-    "summary": "The Philadelphia Phillies’ superstar infielder offered a list of roster needs and doesn’t seem worried about increasing payroll.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69a47012fcdcccbc589c899b/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "070a37802877",
@@ -677,17 +823,38 @@
     "relevance_score": 28
   },
   {
-    "id": "9e41de97b134",
-    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
-    "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-25T16:00:00+00:00",
-    "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?resize=1200,814",
+    "id": "035948bc2366",
+    "title": "Morgan Wallen Blocked From A Special New Hit By A Country Superstar",
+    "url": "https://www.forbes.com/sites/hughmcintyre/2026/07/25/morgan-wallen-blocked-from-a-special-new-hit-by-a-country-superstar/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-25T16:02:19+00:00",
+    "summary": "Two Morgan Wallen singles — \"Don't We\" and \"I Can't Love You Anymore\" with Ella Langley — rise to new peaks on multiple charts.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69606607800c2302c83cc570/0x0.jpg?width=960&precrop=641%2C360%2Cx2%2Cy95",
     "tags": [
-      "TC",
-      "AI"
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [],
+    "relevance_score": 14
+  },
+  {
+    "id": "ba19a63824e2",
+    "title": "Synth historian Oli Freke will spend big on a good bicycle",
+    "url": "https://www.theverge.com/entertainment/971013/oli-freke-bjooks-beat-gems-drum-machine-book-interview",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-25T15:15:00+00:00",
+    "summary": "Oli Freke is a musician and journalist whose works have appeared in Sound on Sound, The Quietus, and Mixmag. This has included using math to explore the melodic potential of the Western 12-tone scale and deep dives on effects plug-ins. He's even written a book tracing the...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Oli-Freke-photo.jpeg?quality=90&amp;strip=all&amp;crop=0%2C25.303277705061%2C100%2C69.808027923211&amp;w=1200",
+    "tags": [
+      "Books",
+      "Entertainment",
+      "Interview",
+      "Report"
     ],
     "industries": [
       "tech"
@@ -695,167 +862,23 @@
     "relevance_score": 14
   },
   {
-    "id": "8f7f42eecdab",
-    "title": "3 Clever Things You Can Do With an Old Amazon Kindle",
-    "url": "https://www.wired.com/story/3-clever-things-you-can-do-with-an-old-amazon-kindle/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-25T11:00:00+00:00",
-    "summary": "These e-readers are more useful in their old age than you might think.",
-    "image_url": "https://media.wired.com/photos/6a54f054a11255754862914b/master/pass/OldKindle.jpg",
-    "tags": [
-      "Gear",
-      "Gear / How To and Advice",
-      "Amazon",
-      "Kindle",
-      "E-Readers"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "54a8803ad583",
-    "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
-    "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-25T13:05:00+00:00",
-    "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
-    "tags": [
-      "Climate",
-      "AI",
-      "data centers",
-      "electrical grid"
-    ],
-    "industries": [],
-    "relevance_score": 15
-  },
-  {
-    "id": "292d0f28a21c",
-    "title": "Why Leatherology Makes Some of the Best Totes for Work (2026)",
-    "url": "https://www.wired.com/story/leatherology-totes-for-carrying-tech/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-25T10:38:00+00:00",
-    "summary": "I packed these Leatherology totes with laptops, chargers, and everything else my workday demands. Months later, they’re still the bags I keep reaching for.",
-    "image_url": "https://media.wired.com/photos/6a63cf1d723bcb28e61a3047/master/pass/These-Leather-Totes-Are-Surprisingly-Good-at-Carrying-Tech.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Reviews",
-      "Gear / Products / Lifestyle",
-      "Gear / Products / Outdoor",
-      "Reviews"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "a6c990ef5033",
-    "title": "WWE SummerSlam 2026 Card—How Many Matches Will The PLE Feature?",
-    "url": "https://www.forbes.com/sites/blakeoestriecher/2026/07/25/wwe-summerslam-2026-card-how-many-matches-will-the-ple-feature/",
+    "id": "e5133d56844e",
+    "title": "Syrian Intervention In Lebanon Is Militarily And Politically Infeasible, Experts Warn",
+    "url": "https://www.forbes.com/sites/pauliddon/2026/07/25/syrian-intervention-in-lebanon-is-militarily-and-politically-infeasible-experts-warn/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-07-25T12:30:25+00:00",
-    "summary": "WWE SummerSlam 2026 confirmed matches, expected additions and number of matches as Roman Reigns faces Seth Rollins.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a63c5768f49ef3ec752ea95/0x0.jpg",
+    "published": "2026-07-25T14:51:38+00:00",
+    "summary": "“Syria is riven with sectarian distrust following its long and bloody civil war. The last thing it needs is to rush headlong into a war against Lebanon's Shiites.\"",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a64c4c47af3b769f86acc15/0x0.jpg",
     "tags": [
-      "SportsMoney",
-      "/sportsmoney",
+      "Aerospace & Defense",
+      "/aerospace-defense",
       "Business",
       "/business",
-      "SportsMoney"
+      "Aerospace & Defense"
     ],
     "industries": [],
-    "relevance_score": 15
-  },
-  {
-    "id": "77ba4c1c3f1f",
-    "title": "Blue Jays’ 7-Time All-Star Blames Canada For ‘Cruel’ Disappointment",
-    "url": "https://www.forbes.com/sites/peterchawaga/2026/07/25/blue-jays-7-time-all-star-blames-canada-for-cruel-disappointment/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-25T10:00:00+00:00",
-    "summary": "The legendary Toronto Blue Jays star pointed to the country’s status for a ding on his legacy.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69b574f0ba2525cab8c18d91/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "400d549c0141",
-    "title": "‘The Odyssey’ Was Made for Imax 70mm. Good Luck Watching It That Way",
-    "url": "https://www.wired.com/story/the-odyssey-was-made-for-imax-70mm-good-luck-watching-it-that-way/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-25T10:00:00+00:00",
-    "summary": "Over the last several years, the Imax format has taken on a few different forms—but only a few dozen theaters are capable of screening it in its full glory.",
-    "image_url": "https://media.wired.com/photos/6a5fc180262e397baf375f6c/master/pass/GettyImages-2227996588.jpg",
-    "tags": [
-      "Culture",
-      "Culture / Movies",
-      "Movies",
-      "Film",
-      "hollywood"
-    ],
-    "industries": [],
-    "relevance_score": 16
-  },
-  {
-    "id": "ff74268bfdd8",
-    "title": "Folding and flipping phones are getting seriously good",
-    "url": "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-25T12:00:00+00:00",
-    "summary": "Hi, friends! Welcome to Installer No. 137, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy phone season, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Google Zero and...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-137.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
-    "tags": [
-      "Gadgets",
-      "Installer",
-      "Streaming",
-      "Tech"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "fbd56a9f74ad",
-    "title": "The Most Important Packers: No. 4 — LB Edgerrin Cooper",
-    "url": "https://www.forbes.com/sites/robreischel/2026/07/25/the-most-important-packers-no-4---lb-edgerrin-cooper/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-25T11:44:33+00:00",
-    "summary": "Green Bay Packers third-year linebacker Edgerrin Cooper is hoping for a breakout season in 2026.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a64a0c7a92b61bdfc73f3e1/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "d658125abcf9",
@@ -888,6 +911,218 @@
     "relevance_score": 38
   },
   {
+    "id": "9e41de97b134",
+    "title": "Librarians are hosting viral ‘Avoiding AI’ workshops for people who are fed up with Big Tech",
+    "url": "https://techcrunch.com/2026/07/25/librarians-are-hosting-viral-avoiding-ai-workshops-for-people-who-are-fed-up-with-big-tech/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-25T16:00:00+00:00",
+    "summary": "At libraries around the country, \"Avoiding AI\" workshops have elicited unprecedented demand.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/GettyImages-1609818039.jpg?resize=1200,814",
+    "tags": [
+      "TC",
+      "AI"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "8f7f42eecdab",
+    "title": "3 Clever Things You Can Do With an Old Amazon Kindle",
+    "url": "https://www.wired.com/story/3-clever-things-you-can-do-with-an-old-amazon-kindle/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-25T11:00:00+00:00",
+    "summary": "These e-readers are more useful in their old age than you might think.",
+    "image_url": "https://media.wired.com/photos/6a54f054a11255754862914b/master/pass/OldKindle.jpg",
+    "tags": [
+      "Gear",
+      "Gear / How To and Advice",
+      "Amazon",
+      "Kindle",
+      "E-Readers"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "72f0e11062d1",
+    "title": "Olivia Rodrigo Pushes Multiple Singles To New Peaks On The Same Chart",
+    "url": "https://www.forbes.com/sites/hughmcintyre/2026/07/25/olivia-rodrigo-pushes-multiple-singles-to-new-peaks-on-the-same-chart/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-25T15:54:40+00:00",
+    "summary": "Olivia Rodrigo's \"Drop Dead\" and \"Stupid Song\" both climb to new all-time peaks on Billboard's Pop Airplay chart.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a64dc143a674645e1999bb2/0x0.jpg?width=960&precrop=1556%2C875%2Cx317%2Cy114",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [],
+    "relevance_score": 13
+  },
+  {
+    "id": "7d87a82e5219",
+    "title": "AWS EC2 compute evolves to meet agentic AI and physical AI demand - SiliconANGLE",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNaDJlSWs0LVhmcERrZjlyMmlCOGxXN20teHZZLXZVMUJtUmxzVkU1SVFKQ1Z0VlRLeG1wTGpPWXdxUWhaZGFtdW5LUWVfdWdYc3oxM0daQ1ZBQi00Y0JZX0hGeXJwV3hJM1hxX1EwYWJadWtzdzNqVFloRk1JNkNSSHJra2N1N3RLZlRGQ0Nla2Q2OXZKTkc5Yjhidw?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-07-25T15:51:10+00:00",
+    "summary": "AWS EC2 compute evolves to meet agentic AI and physical AI demand SiliconANGLE",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "f3bf91d75433",
+    "title": "The Mind Behind The Crime: Understanding Autism In Federal Sentencing",
+    "url": "https://www.forbes.com/sites/walterpavlo/2026/07/25/the-mind-behind-the-crime-understanding-autism-in-federal-sentencing/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-25T15:46:34+00:00",
+    "summary": "Autism is widely misunderstood and when it comes to federal crimes against those with autism, the outcome can be tragic.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a621126a2101f1fece04b91/0x0.jpg",
+    "tags": [
+      "Policy",
+      "/policy",
+      "Business",
+      "/business",
+      "Policy"
+    ],
+    "industries": [],
+    "relevance_score": 13
+  },
+  {
+    "id": "54a8803ad583",
+    "title": "One fallen power line exposed a growing AI data center problem. Here’s how to fix it.",
+    "url": "https://techcrunch.com/2026/07/25/one-fallen-power-line-exposed-a-growing-ai-data-center-problem-heres-how-to-fix-it/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-25T13:05:00+00:00",
+    "summary": "A close call in Northern Virginia revealed just how poorly data centers respond to grid disruptions. Here's how to fix the problem.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/12/Energy-sector-Getty.jpg?resize=1200,801",
+    "tags": [
+      "Climate",
+      "AI",
+      "data centers",
+      "electrical grid"
+    ],
+    "industries": [],
+    "relevance_score": 14
+  },
+  {
+    "id": "292d0f28a21c",
+    "title": "Why Leatherology Makes Some of the Best Totes for Work (2026)",
+    "url": "https://www.wired.com/story/leatherology-totes-for-carrying-tech/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-25T10:38:00+00:00",
+    "summary": "I packed these Leatherology totes with laptops, chargers, and everything else my workday demands. Months later, they’re still the bags I keep reaching for.",
+    "image_url": "https://media.wired.com/photos/6a63cf1d723bcb28e61a3047/master/pass/These-Leather-Totes-Are-Surprisingly-Good-at-Carrying-Tech.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Reviews",
+      "Gear / Products / Lifestyle",
+      "Gear / Products / Outdoor",
+      "Reviews"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "a6c990ef5033",
+    "title": "WWE SummerSlam 2026 Card—How Many Matches Will The PLE Feature?",
+    "url": "https://www.forbes.com/sites/blakeoestriecher/2026/07/25/wwe-summerslam-2026-card-how-many-matches-will-the-ple-feature/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-25T12:30:25+00:00",
+    "summary": "WWE SummerSlam 2026 confirmed matches, expected additions and number of matches as Roman Reigns faces Seth Rollins.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a63c5768f49ef3ec752ea95/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [],
+    "relevance_score": 14
+  },
+  {
+    "id": "400d549c0141",
+    "title": "‘The Odyssey’ Was Made for Imax 70mm. Good Luck Watching It That Way",
+    "url": "https://www.wired.com/story/the-odyssey-was-made-for-imax-70mm-good-luck-watching-it-that-way/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-25T10:00:00+00:00",
+    "summary": "Over the last several years, the Imax format has taken on a few different forms—but only a few dozen theaters are capable of screening it in its full glory.",
+    "image_url": "https://media.wired.com/photos/6a5fc180262e397baf375f6c/master/pass/GettyImages-2227996588.jpg",
+    "tags": [
+      "Culture",
+      "Culture / Movies",
+      "Movies",
+      "Film",
+      "hollywood"
+    ],
+    "industries": [],
+    "relevance_score": 15
+  },
+  {
+    "id": "ff74268bfdd8",
+    "title": "Folding and flipping phones are getting seriously good",
+    "url": "https://www.theverge.com/tech/971004/z-fold8-xteink-x4-light-flip-installer",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-25T12:00:00+00:00",
+    "summary": "Hi, friends! Welcome to Installer No. 137, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy phone season, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Google Zero and...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Installer-137.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "tags": [
+      "Gadgets",
+      "Installer",
+      "Streaming",
+      "Tech"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "fbd56a9f74ad",
+    "title": "The Most Important Packers: No. 4 — LB Edgerrin Cooper",
+    "url": "https://www.forbes.com/sites/robreischel/2026/07/25/the-most-important-packers-no-4---lb-edgerrin-cooper/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-25T11:44:33+00:00",
+    "summary": "Green Bay Packers third-year linebacker Edgerrin Cooper is hoping for a breakout season in 2026.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a64a0c7a92b61bdfc73f3e1/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
     "id": "74002e66f09c",
     "title": "Cricut Explore 5 vs. Siser Romeo: Choosing the Right Smart Cutting Machine (2026)",
     "url": "https://www.wired.com/story/cricut-explore-5-vs-siser-romeo/",
@@ -904,28 +1139,7 @@
       "Shopping"
     ],
     "industries": [],
-    "relevance_score": 15
-  },
-  {
-    "id": "a9e302582090",
-    "title": "Why Engineering Is No Longer A Sure Thing College Major When It Comes To Jobs",
-    "url": "https://www.forbes.com/sites/courtney-connley-hampton/2026/07/25/why-engineering-is-no-longer-a-sure-thing-college-major-when-it-comes-to-jobs/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-25T10:30:00+00:00",
-    "summary": "Exclusive LinkedIn data shows engineering majors have been hit hard in today’s weak, AI-affected job market. Here’s what specialties are hurting the most.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a63adcb9aba068162f6e3ef/0x0.jpg?width=960&precrop=1920%2C1080%2Cx0%2Cy0",
-    "tags": [
-      "Careers",
-      "/careers",
-      "Leadership",
-      "/leadership",
-      "Careers"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "8446e218ee84",
@@ -944,22 +1158,7 @@
       "cybersecurity"
     ],
     "industries": [],
-    "relevance_score": 15
-  },
-  {
-    "id": "18223e817ffd",
-    "title": "Adobe's extension for reading PDFs leaked your WhatsApp chats on Chrome - APD Noticies",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQY2c0cWJibV9BNzVrbEdrSkVoWU9ZZ1A5emZVUG1TYlZaUUdKTUFaTzVZTXhMc0VCWU50Qjh0cVI0Y0ppVFp5VG83dTVudnd1cWE0ZjRxQ0ZnSzF6amJhMndackFFY2QxMjVKQUJfMVdkSlNndHJHa3lNRGNvZ0RJOHVjQV9Jeml3LXhoM0xpTkVLSjcwR1hFNF8xUkhsbUszNVJkMzRPU29wb1pDQXI5bUZSQnlKVXZkLXB6MWNDMHRpemdLc0taV1lHRnB3Zw?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-07-25T15:06:21+00:00",
-    "summary": "Adobe's extension for reading PDFs leaked your WhatsApp chats on Chrome APD Noticies",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 13
+    "relevance_score": 14
   },
   {
     "id": "b4a5caf12136",
@@ -978,44 +1177,7 @@
       "laptops"
     ],
     "industries": [],
-    "relevance_score": 15
-  },
-  {
-    "id": "520018941ec2",
-    "title": "What Surrounds Us will make you think a lot about circles",
-    "url": "https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-25T12:00:00+00:00",
-    "summary": "What Surrounds Us takes its title literally. You play as a circle surrounding a hole in its middle - it looks like a donut with frosting. You work together with other sentient moving circles, sometimes helping them joyfully meet with others. And you traverse a large map...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_765cecb6ce4a937c4f17d94cc6729212ecb56fa8.1920x1080.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
-    "tags": [
-      "Entertainment",
-      "Games Review",
-      "Gaming"
-    ],
-    "industries": [
-      "industrial"
-    ],
     "relevance_score": 14
-  },
-  {
-    "id": "4eb45980abb2",
-    "title": "T-Mobile US stock trades near record territory as 5G growth supports earnings - AD HOC NEWS",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPQlVJZ2lxSktDdF9rN3NxakF0WEIxMWNtSEdwWnBFS1lSNFJ5QzVEdE5RSXNORnVlcVJqSDFDNC1rN09tUkdDeWs2eXFTcTBmMVJ2aDhGaFEyRXB4STBrTTBVbklQWjVBUjAzNkJrODZ6TzlXTGZYUXFmY2ZjQlBTeTN3Wk5YQVdVcEhrX1NOVHJRSEdnN3NPVm55SGtGZVNya0xHYjJSazBDUU0wY2ZrbUdRNjVBWW85U2hMaVlGZE5OVlF5UHc?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-07-25T11:59:15+00:00",
-    "summary": "T-Mobile US stock trades near record territory as 5G growth supports earnings AD HOC NEWS",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom"
-    ],
-    "relevance_score": 14,
-    "also_covered_by": [
-      "Telecom"
-    ]
   },
   {
     "id": "4e1ba0dcde6a",
@@ -1036,7 +1198,26 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
+  },
+  {
+    "id": "520018941ec2",
+    "title": "What Surrounds Us will make you think a lot about circles",
+    "url": "https://www.theverge.com/games/961183/what-surrounds-us-review-pc-steam",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-25T12:00:00+00:00",
+    "summary": "What Surrounds Us takes its title literally. You play as a circle surrounding a hole in its middle - it looks like a donut with frosting. You work together with other sentient moving circles, sometimes helping them joyfully meet with others. And you traverse a large map...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/ss_765cecb6ce4a937c4f17d94cc6729212ecb56fa8.1920x1080.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "tags": [
+      "Entertainment",
+      "Games Review",
+      "Gaming"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 13
   },
   {
     "id": "32df3245d3a7",
@@ -1052,7 +1233,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "43978c6580e2",
@@ -1063,160 +1244,6 @@
     "published": "2026-07-25T11:17:43+00:00",
     "summary": "\"No. 1, the Cavs are the biggest losers in this situation,” Perkins, who teamed with James on the Cavaliers and also in AAU basketball, said Saturday",
     "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a64958eb492f9df11e1e928/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "3472182c7a64",
-    "title": "Braves Boss Offers Donald Trump A Roster Spot After Presidency",
-    "url": "https://www.forbes.com/sites/peterchawaga/2026/07/25/braves-boss-offers-donald-trump-a-roster-spot-after-presidency/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-25T11:00:00+00:00",
-    "summary": "The Atlanta Braves CEO invited President Donald Trump to join the team’s pitching staff during a rally.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a6244b9e945dbd638bb046b/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [],
-    "relevance_score": 14
-  },
-  {
-    "id": "c70db7eb3a7e",
-    "title": "Is this e-reader case a gun?",
-    "url": "https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-25T13:00:00+00:00",
-    "summary": "Is an e-reader case as dangerous as a Glock 19? Last month, Louisville, Kentucky-based creator Luke The Maker showed off a bizarre, 3D-printed, pistol-shaped case design for the popular minimalist Xteink X4 e-reader. The X4 lies vertically atop the plastic gun's slide, with a...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/3D_gun.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Tech"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "3a85dc90b57d",
-    "title": "LeBron James Upended The NBA's Title Race By Signing With The Sixers",
-    "url": "https://www.forbes.com/sites/bryantoporek/2026/07/25/lebron-james-upended-the-nbas-title-race-by-signing-with-the-sixers/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-25T10:00:05+00:00",
-    "summary": "After trading for Jaylen Brown and signing LeBron James this offseason, the Sixers now have legitimate title aspirations heading into the 2026-27 season.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a6459ed7efea40fb5bd0ca0/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [],
-    "relevance_score": 14
-  },
-  {
-    "id": "3ff9affac7bd",
-    "title": "Two Wall Street Analysts Just Set Price Targets on Sandisk $1,430 Apart. One of Them Is Going to Be Very Wrong. - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQUWM4WlJza0gyWGhWcmhMMTNfdmVnelo5VjhPZGVQQjFVSlMtYUQwWWhkRDdQRGNHZEpGZ24xT1R2UnhvLTNLM1FZNVc2XzRkV2lWR2RfVkRpc25mUEtpMGdyS21zVlBlTThJc2VMUWN4ZUFrN0l0WjdCYUZzMUdRd0g1QnN2NlhPWlJMdkd0cDd5ZmlpdjNUY3NB?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-25T14:37:00+00:00",
-    "summary": "Two Wall Street Analysts Just Set Price Targets on Sandisk $1,430 Apart. One of Them Is Going to Be Very Wrong. Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "f915dd39ec9b",
-    "title": "‘Demon Slayer: Infinity Castle’ Nears Unusual Streaming Premiere On Both SVOD And PVOD",
-    "url": "https://www.forbes.com/sites/timlammers/2026/07/25/demon-slayer-infinity-castle-nears-unusual-streaming-premiere-on-both-svod-and-pvod/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-25T09:15:00+00:00",
-    "summary": "\"Demon Slayer: Kimetsu no Yaiba Infinity Castle\" arrives on streaming this week in an unusual move that makes it available on premium video on demand and streaming video on demand at the same time.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a642badf4a4bd8d1cd208e0/0x0.jpg?width=960&precrop=1191%2C670%2Cx362%2Cy486",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "452c737692ab",
-    "title": "‘Supergirl’ Streaming Release Nears After DC Movie Flops In Theaters",
-    "url": "https://www.forbes.com/sites/timlammers/2026/07/25/supergirl-streaming-release-nears-after-dc-movie-flops-in-theaters/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-25T09:00:00+00:00",
-    "summary": "“Supergirl,” starring Milly Alcock in the title role, will try to find a new audience on digital streaming this week following a dismal run at the box office.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a63dfb9fee4d93123efd89d/0x0.jpg?width=960&precrop=2000%2C1125%2Cx0%2Cy620",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "59e8f91e7814",
-    "title": "How Many Electrolytes Should You Be Taking, and Can You Have Too Many?",
-    "url": "https://www.wired.com/story/how-many-electrolytes-should-you-be-taking-and-can-you-have-too-many/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-25T09:00:00+00:00",
-    "summary": "Electrolyte powders promise better hydration, energy, and recovery. But unless you’re losing serious fluid, water and food probably have you covered.",
-    "image_url": "https://media.wired.com/photos/6a63772c4e42d852715873cb/master/pass/Electrolytes_Lead.jpg",
-    "tags": [
-      "Science",
-      "Science / Health",
-      "health",
-      "Food and Drink",
-      "Sports"
-    ],
-    "industries": [],
-    "relevance_score": 14
-  },
-  {
-    "id": "3c8e1f7a24df",
-    "title": "Jannik Sinner, Novak Djokovic Withdraw From Montreal: ‘Absolute Disaster’",
-    "url": "https://www.forbes.com/sites/adamzagoria/2026/07/25/jannik-sinner-novak-djokovic-withdraw-from-montreal-absolute-disaster/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-25T10:41:20+00:00",
-    "summary": "The ATP Masters 1000 event runs Aug. 1-13 and is traditionally the second-biggest warm-up for the U.S. Open.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a57efb2fe83a1585105a078/0x0.jpg",
     "tags": [
       "SportsMoney",
       "/sportsmoney",
@@ -1270,6 +1297,23 @@
     "relevance_score": 46
   },
   {
+    "id": "c70db7eb3a7e",
+    "title": "Is this e-reader case a gun?",
+    "url": "https://www.theverge.com/tech/970343/e-reader-case-3d-printed-gun",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-25T13:00:00+00:00",
+    "summary": "Is an e-reader case as dangerous as a Glock 19? Last month, Louisville, Kentucky-based creator Luke The Maker showed off a bizarre, 3D-printed, pistol-shaped case design for the popular minimalist Xteink X4 e-reader. The X4 lies vertically atop the plastic gun's slide, with a...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/3D_gun.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Tech"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
     "id": "f40c4dc20ee9",
     "title": "This US carrier has the fastest download speeds and it's not close - MakeUseOf",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE9OeW5rVkppQUVhWEU3V0l0a0V6cklPN1BabUpkNDBTajNVdGNvazM0bGxWd2hCdlAwTmJhN29obi1KaFA2TGZJTkVkV2NkU29ZUThtYUZYaWZJZjB6YVdYcWdNUTZCc1N5SGNQNS1SYkU5Vmh6?oc=5",
@@ -1285,74 +1329,36 @@
     "relevance_score": 22
   },
   {
-    "id": "806b715b3c45",
-    "title": "Contagious Cancer Found in North American Catfish",
-    "url": "https://www.wired.com/story/contagious-cancer-found-in-north-american-catfish/",
+    "id": "59e8f91e7814",
+    "title": "How Many Electrolytes Should You Be Taking, and Can You Have Too Many?",
+    "url": "https://www.wired.com/story/how-many-electrolytes-should-you-be-taking-and-can-you-have-too-many/",
     "source": "Wired",
     "source_category": "ai",
     "published": "2026-07-25T09:00:00+00:00",
-    "summary": "Scientists identified the first known cancer transmissible among freshwater fish in a lake that spans the US and Canada.",
-    "image_url": "https://media.wired.com/photos/6a63805aa56b8af2db51d70f/master/pass/pezgato.jpg",
+    "summary": "Electrolyte powders promise better hydration, energy, and recovery. But unless you’re losing serious fluid, water and food probably have you covered.",
+    "image_url": "https://media.wired.com/photos/6a63772c4e42d852715873cb/master/pass/Electrolytes_Lead.jpg",
     "tags": [
       "Science",
-      "Science / Environment",
-      "Biology",
-      "animals",
-      "diseases"
+      "Science / Health",
+      "health",
+      "Food and Drink",
+      "Sports"
     ],
     "industries": [],
     "relevance_score": 13
   },
   {
-    "id": "0b2e235dbaed",
-    "title": "India’s Gen Z Protesters Wrest a Victory From Modi Government - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOYWxHSnltRkQ4SWh5bHIteGx3U3k1YWxLNFZkdEpvckFRYXMxaFV3QzNMYURETDE2Y2hWeV9IU2laYTBLM1JYMER5c2lZYmJuNThGVUM2WkNpMEFCYjRCZWlpQTJHM1dnbnJCMV9qOGxDdGJjaUtwTjNLVEdIZGFGVjY3M2JUSDl2Y09CTG1IQjNubUczWG1KeHVFWWF0VzlkMXo0?oc=5",
+    "id": "a73549eba1cf",
+    "title": "North Korea’s Kim Jong Un Is Upgrading His Spy Network - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE5ia0ExNXFHeW9NajA2dGYtUUI0NDVyNEJaR3AtMnRKWS1KOXVxZnZZZUZsYTBOQXo2QUM2bkRzYy04d0dvUlpNdnNrU2NJNWxrU3hEUl9wblhqd09wRUZfUHNLY21lQ3FQUlBtT1M5Y1I?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-07-25T14:18:00+00:00",
-    "summary": "India’s Gen Z Protesters Wrest a Victory From Modi Government WSJ",
+    "published": "2026-07-25T18:00:00+00:00",
+    "summary": "North Korea’s Kim Jong Un Is Upgrading His Spy Network WSJ",
     "image_url": null,
     "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "aca0e7777030",
-    "title": "OpenAI releases health bot one day after a man alleges ChatGPT almost killed him - SFGATE",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fcm5wMXk0TUVTdkZ3ZEdrRUdEcm15VlV0NzNhcDZGMHIwdVIzM0x3Z3p5MW1sTVRibXZWWkRzNGktaEw4aThXdGt4UVVmU1h4ZHdRblBVc1cya3dfbXk2Q1d1X1NUX2ctWUJfcXNKekF2blAydnZ5WWNoZw?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-25T14:01:45+00:00",
-    "summary": "OpenAI releases health bot one day after a man alleges ChatGPT almost killed him SFGATE",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "cb30c974e622",
-    "title": "America’s Top Architects: Tradition Meets Technology In A Net-Zero Home By Boston’s ART Architects",
-    "url": "https://www.forbes.com/sites/fredalbert/2026/07/25/americas-top-architects-tradition-meets-technology-in-a-net-zero-home-by-bostons-art-architects/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-25T10:30:00+00:00",
-    "summary": "Houses from Forbes' “America's Top Architects” 2025 lists",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a63a9dc44dc53d598e8d7c7/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Real Estate"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 12
+    "industries": [],
+    "relevance_score": 10
   },
   {
     "id": "2b636f80ad56",
@@ -1375,17 +1381,20 @@
     "relevance_score": 13
   },
   {
-    "id": "7df4c8bdc215",
-    "title": "See the $600 Million World of Executive Perks - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNzVNRnZCVm80R28zQVN4dXItZUNhYm15LWVZZGZnaHozWlpIZ0RuQjk3X0VNOGU0SFZDeTNZcWFTOXo3XzZObDZPbUJEa2pWT1NBdFU1Q3AtLUR4MllPSmhRNXRCNjdvNk5qVFdIcXJYMzVkemdOZXlEbEZkaXNyQ1p3YzBERXd5aUE?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-25T09:30:00+00:00",
-    "summary": "See the $600 Million World of Executive Perks WSJ",
+    "id": "8143e3a1e52f",
+    "title": "IntelePeer, Peptides, and Google's Biometrics Model - Digital Health Wire",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOMjFCZjdFaHRiQl9QUHRDRGcwZG50aXpzM203VVJQS0N2TThoTHc3NW1GQ1E2TWVrM1JGSExKa29yU2VPMl9HUkNSb3hRaF96T1p4ZDdaWVIyTlY1TGNYOFJKSzRkNTY0Ykx2NHJ3elpObkdSQWJYMTlselNiUUEyN05uSnhmbFl3VWtF?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-25T15:31:32+00:00",
+    "summary": "IntelePeer, Peptides, and Google's Biometrics Model Digital Health Wire",
     "image_url": null,
     "tags": [],
-    "industries": [],
-    "relevance_score": 12
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 10
   },
   {
     "id": "f1afdf21b7ce",
@@ -1403,30 +1412,23 @@
     "relevance_score": 24
   },
   {
-    "id": "c7be78c8a527",
-    "title": "Celebrate Japanese culture at Peña Adobe on Saturday - Daily Republic",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM1ladk9LTlVrS09ySHhuWW9rWTM3TWRMd0Q5YnBtM1FQM3NyWjY1cDdSZTB6X21fVUpmaFNEalEyYlZIeHBrMFdhQ21YVG0xUDBUYmgwSXRfRllMdkVnejVKU3l4OUdsdGZWZVlYYVlKODFwTnpKTTdiWmRLNTZ3SWFpUjdYSG9hZ2U2RWlUalZOS2RhZDVBSWlQSk1GOHlBdHdMWXR3cmh6ZlZkT0N5TXpKSDhNQl9wQVRmZ0RJbUlWX1NtUDhkWDE5a2lqWkV0SEtJ?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
+    "id": "806b715b3c45",
+    "title": "Contagious Cancer Found in North American Catfish",
+    "url": "https://www.wired.com/story/contagious-cancer-found-in-north-american-catfish/",
+    "source": "Wired",
+    "source_category": "ai",
     "published": "2026-07-25T09:00:00+00:00",
-    "summary": "Celebrate Japanese culture at Peña Adobe on Saturday Daily Republic",
-    "image_url": null,
-    "tags": [],
+    "summary": "Scientists identified the first known cancer transmissible among freshwater fish in a lake that spans the US and Canada.",
+    "image_url": "https://media.wired.com/photos/6a63805aa56b8af2db51d70f/master/pass/pezgato.jpg",
+    "tags": [
+      "Science",
+      "Science / Environment",
+      "Biology",
+      "animals",
+      "diseases"
+    ],
     "industries": [],
     "relevance_score": 12
-  },
-  {
-    "id": "f6ea7a28da80",
-    "title": "A Fight Over Dirt Spans Two of Trump’s Controversial D.C. Projects - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeENfeUV4XzV6bW1UNHZmU2VmZnVPVkgyTW1kckF5RG1FMWg4VlJiaEpKSlZvVDNIdUdobGRPYk5EazNOdFhfMzlaeHdRTjQtOVNiakRTRjdxTVdfa1JERWpBeHJGZUxLMzBkZDhvSk1YMWtfR3hVMF92MUdQcWtMa2xsNUFqMEFfczVhQzVSNV81R1pJSThoVVFobHd1MUhqamZz?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-25T15:00:00+00:00",
-    "summary": "A Fight Over Dirt Spans Two of Trump’s Controversial D.C. Projects WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 10
   },
   {
     "id": "d88e25c67b31",
@@ -1444,43 +1446,28 @@
     "relevance_score": 39
   },
   {
-    "id": "660bd4fbe754",
-    "title": "How to Start ‘the Talk’ With Aging Parents - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM0wtSjFWS01MS29iTkJZUlJxbE52a0MwNzlVU0pSZFI0WFJ2WENBSUtYY3cxeE9WcC1WWE1jSUVhbXdyelctbFY2VHdGUElxRFdOX2huakJ0S0ptMkJMeHZwZ1pYQ0VaUG1paUFKaUg3SnJNaFp2X0ZjNW50ZWJZY2dOYWg0WEZUWkZ0b1ln?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-25T14:00:00+00:00",
-    "summary": "How to Start ‘the Talk’ With Aging Parents WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 10
-  },
-  {
-    "id": "dca7de5e8977",
-    "title": "From Calls to Cashless Economy: How Ethio telecom Is Powering Ethiopia’s Digital Transformation - Fana Media Corporation S.C",
-    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaldxYmZ3UVJ4dmVxX2dNVnRJRW9pV3VKVzdFT0IwNDNIb0VhN09qQ1NvaUk5OGxic3RCbUJTZkVGcEZ3NlNkRk0zMlZtOVRFdTk4T2c3QXo1SEZHUE1yZUNNRTZyM21HMnM0YU02UlB6dmh0ZDJMdm9KX3FISENRV0tieXBnbncyVk11TEdJRlJ3SFVCdmdQb29qZWhxeGVJdHZzbzBlSXkwcGpRNkpCcDBOTW1XQUwtQ1Fzb0xjcmhrd00?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-07-25T13:27:49+00:00",
-    "summary": "From Calls to Cashless Economy: How Ethio telecom Is Powering Ethiopia’s Digital Transformation Fana Media Corporation S.C",
+    "id": "aca0e7777030",
+    "title": "OpenAI releases health bot one day after a man alleges ChatGPT almost killed him - SFGATE",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1fcm5wMXk0TUVTdkZ3ZEdrRUdEcm15VlV0NzNhcDZGMHIwdVIzM0x3Z3p5MW1sTVRibXZWWkRzNGktaEw4aThXdGt4UVVmU1h4ZHdRblBVc1cya3dfbXk2Q1d1X1NUX2ctWUJfcXNKekF2blAydnZ5WWNoZw?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-25T14:01:45+00:00",
+    "summary": "OpenAI releases health bot one day after a man alleges ChatGPT almost killed him SFGATE",
     "image_url": null,
     "tags": [],
     "industries": [
-      "media",
-      "tech",
-      "telecom"
+      "industrial"
     ],
     "relevance_score": 10
   },
   {
-    "id": "30b16f9b0ec9",
-    "title": "News Quiz for July 25, 2026 - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nUGRreUpka3E4Q2hzMG14OWcxdW9KSWo5MGlOdkwzQjJBUWdBQnlaUmpWWGgwc082aG41TnVISlF2NElFbnhrbHlLVldaV2pyX3dtaF9yY0k3WXNPekh4Nmw1Mm5paW1OQ19uLVQ2cVdJMmdENk8yZ1l3?oc=5",
+    "id": "7df4c8bdc215",
+    "title": "See the $600 Million World of Executive Perks - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQNzVNRnZCVm80R28zQVN4dXItZUNhYm15LWVZZGZnaHozWlpIZ0RuQjk3X0VNOGU0SFZDeTNZcWFTOXo3XzZObDZPbUJEa2pWT1NBdFU1Q3AtLUR4MllPSmhRNXRCNjdvNk5qVFdIcXJYMzVkemdOZXlEbEZkaXNyQ1p3YzBERXd5aUE?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-07-25T10:00:00+00:00",
-    "summary": "News Quiz for July 25, 2026 WSJ",
+    "published": "2026-07-25T09:30:00+00:00",
+    "summary": "See the $600 Million World of Executive Perks WSJ",
     "image_url": null,
     "tags": [],
     "industries": [],
@@ -1505,6 +1492,19 @@
     "relevance_score": 40
   },
   {
+    "id": "c7be78c8a527",
+    "title": "Celebrate Japanese culture at Peña Adobe on Saturday - Daily Republic",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOM1ladk9LTlVrS09ySHhuWW9rWTM3TWRMd0Q5YnBtM1FQM3NyWjY1cDdSZTB6X21fVUpmaFNEalEyYlZIeHBrMFdhQ21YVG0xUDBUYmgwSXRfRllMdkVnejVKU3l4OUdsdGZWZVlYYVlKODFwTnpKTTdiWmRLNTZ3SWFpUjdYSG9hZ2U2RWlUalZOS2RhZDVBSWlQSk1GOHlBdHdMWXR3cmh6ZlZkT0N5TXpKSDhNQl9wQVRmZ0RJbUlWX1NtUDhkWDE5a2lqWkV0SEtJ?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-07-25T09:00:00+00:00",
+    "summary": "Celebrate Japanese culture at Peña Adobe on Saturday Daily Republic",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 11
+  },
+  {
     "id": "b53f9ebb44d0",
     "title": "Consumer distrust of AI isn’t all about the AI",
     "url": "https://martech.org/consumer-distrust-of-ai-isnt-about-the-ai/",
@@ -1527,6 +1527,19 @@
     "relevance_score": 40
   },
   {
+    "id": "f6ea7a28da80",
+    "title": "A Fight Over Dirt Spans Two of Trump’s Controversial D.C. Projects - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOeENfeUV4XzV6bW1UNHZmU2VmZnVPVkgyTW1kckF5RG1FMWg4VlJiaEpKSlZvVDNIdUdobGRPYk5EazNOdFhfMzlaeHdRTjQtOVNiakRTRjdxTVdfa1JERWpBeHJGZUxLMzBkZDhvSk1YMWtfR3hVMF92MUdQcWtMa2xsNUFqMEFfczVhQzVSNV81R1pJSThoVVFobHd1MUhqamZz?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-25T15:00:00+00:00",
+    "summary": "A Fight Over Dirt Spans Two of Trump’s Controversial D.C. Projects WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 9
+  },
+  {
     "id": "5661c8a172db",
     "title": "Ugg teams with buzzy pop band Muna for back-to-school campaign",
     "url": "https://www.marketingdive.com/news/ugg-teams-with-buzzy-pop-band-muna-for-back-to-school-campaign/825977/",
@@ -1542,70 +1555,60 @@
     "relevance_score": 38
   },
   {
-    "id": "8fdfca15bfc8",
-    "title": "T-Mobile’s NPS is a strength, but customer acquisition slows - Customer Experience Dive",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPa2NOaTk0TzNyMC1MRVhaS3ZscHFoYU5UY2JTNEtMcFdTTkN4b2hwNF91RUc5NEg0elVRU2E0azdpQjNrRGVFa3Zmem02S3RHeG9MZHlxRURqTnZweWtDWURRbno1TE41aG9IRXhKX2JobVhSSk5GV0NzWG9NS0FvTGo1M3Zpa3c0UXVndlBfelFPeDZscUt2WFppQ08wUFdZWHk0?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-07-23T20:13:55+00:00",
-    "summary": "T-Mobile’s NPS is a strength, but customer acquisition slows Customer Experience Dive",
+    "id": "660bd4fbe754",
+    "title": "How to Start ‘the Talk’ With Aging Parents - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOM0wtSjFWS01MS29iTkJZUlJxbE52a0MwNzlVU0pSZFI0WFJ2WENBSUtYY3cxeE9WcC1WWE1jSUVhbXdyelctbFY2VHdGUElxRFdOX2huakJ0S0ptMkJMeHZwZ1pYQ0VaUG1paUFKaUg3SnJNaFp2X0ZjNW50ZWJZY2dOYWg0WEZUWkZ0b1ln?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-25T14:00:00+00:00",
+    "summary": "How to Start ‘the Talk’ With Aging Parents WSJ",
     "image_url": null,
     "tags": [],
-    "industries": [
-      "telecom"
-    ],
-    "relevance_score": 30,
-    "also_covered_by": [
-      "Telecom"
-    ]
-  },
-  {
-    "id": "5dc6c1055192",
-    "title": "The 2026 El Niño Is on Track to Be the Strongest on Record",
-    "url": "https://www.wired.com/story/2026-el-nino-the-strongest-in-150-years/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-07-24T18:50:02+00:00",
-    "summary": "This climate phenomenon could cause a massive global temperature spike and cause economic losses of $10 trillion by 2032.",
-    "image_url": "https://media.wired.com/photos/6a6386315ba8c9d10fc5c6bc/master/pass/El%20Ni%C3%B1o%20intensidad%202026%20efectos1500444341.jpg",
-    "tags": [
-      "Science",
-      "Science / Environment",
-      "climate",
-      "environment",
-      "weather"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "0bcb3591ba27",
-    "title": "SpaceX isn’t the wireless threat that investors fear — unless someone breaks this unspoken agreement - MarketWatch",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd1ZKLUZtbXphMU1VQ2o3U0Vld09tcDBIcHR1UkNhdkFUV2wzb1dRWXhoYzlLNUh6cVBLUlVYR3NaV0wwaUtoOXI4bVAxb1huOFZKUzhUa0FMelJYeFUySkwwNXVodU10MmVuVVZVY1A5eEUwMHBYMG9OWkJ4djlRN0xvRTlOMV90WGlkZmthcl8yWTRkeXVOQ3N0b0s3X2ZmbWczT1dLZzdBTEZqdkdvS0FQX1c0X25XLTQ2eGE2cnBaUnNxNUlTZ19vRlFKQ0dSLWw0MjZWNA?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-07-25T12:00:00+00:00",
-    "summary": "SpaceX isn’t the wireless threat that investors fear — unless someone breaks this unspoken agreement MarketWatch",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom"
-    ],
+    "industries": [],
     "relevance_score": 9
   },
   {
-    "id": "d39172da7359",
-    "title": "AT&T quietly raises prices again as customer behavior shifts - thestreet.com",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV1gzNWU2LWl6eUdjWnpCQ3poVXdWRDFwQXFybDEzb1pUV3ExeENfMEhLMDd6dm04cjk1d1RCT2hxQTgtVVNCd3BLajJfLWFLUWdKQWk4QVFXNDNFSjNmWlNiQkZUZmZJazNNTHNNQ1BROWxZZllCbVFZZVVNNWhWcTlicFBoSEZmTlVVaWdkaEU4OWFuLVYzQ0k4SQ?oc=5",
-    "source": "Telecom",
-    "source_category": "industry_telecom",
-    "published": "2026-07-25T11:37:00+00:00",
-    "summary": "AT&T quietly raises prices again as customer behavior shifts thestreet.com",
+    "id": "30b16f9b0ec9",
+    "title": "News Quiz for July 25, 2026 - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE9nUGRreUpka3E4Q2hzMG14OWcxdW9KSWo5MGlOdkwzQjJBUWdBQnlaUmpWWGgwc082aG41TnVISlF2NElFbnhrbHlLVldaV2pyX3dtaF9yY0k3WXNPekh4Nmw1Mm5paW1OQ19uLVQ2cVdJMmdENk8yZ1l3?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-25T10:00:00+00:00",
+    "summary": "News Quiz for July 25, 2026 WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 10
+  },
+  {
+    "id": "0a8a402786ae",
+    "title": "JPMorgan CEO Jamie Dimon Just Sent an Ominous Warning to Wall Street: \"Close to as Good as It Gets\" - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQU0xuNW1lZnloZU5fRHNiYUREa0ZtOTdnUHNXTEpBRW9hd052LWo1YmczbTBrLXJyTkp3MzhneXZwVV9rNFExVUZHa280SjNHYVNZbUxWeDlnbFdTTlB1WDRNZ0NKUGpIVE50eXVRQUdPcDMxdl81WFVDU0U0ckU5eUVua2U1RjdPTU1venpDMnlkenl3a3pvMA?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-25T10:00:00+00:00",
+    "summary": "JPMorgan CEO Jamie Dimon Just Sent an Ominous Warning to Wall Street: \"Close to as Good as It Gets\" The Motley Fool",
     "image_url": null,
     "tags": [],
     "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "dca7de5e8977",
+    "title": "From Calls to Cashless Economy: How Ethio telecom Is Powering Ethiopia’s Digital Transformation - Fana Media Corporation S.C",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxPaldxYmZ3UVJ4dmVxX2dNVnRJRW9pV3VKVzdFT0IwNDNIb0VhN09qQ1NvaUk5OGxic3RCbUJTZkVGcEZ3NlNkRk0zMlZtOVRFdTk4T2c3QXo1SEZHUE1yZUNNRTZyM21HMnM0YU02UlB6dmh0ZDJMdm9KX3FISENRV0tieXBnbncyVk11TEdJRlJ3SFVCdmdQb29qZWhxeGVJdHZzbzBlSXkwcGpRNkpCcDBOTW1XQUwtQ1Fzb0xjcmhrd00?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-07-25T13:27:49+00:00",
+    "summary": "From Calls to Cashless Economy: How Ethio telecom Is Powering Ethiopia’s Digital Transformation Fana Media Corporation S.C",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
       "telecom"
     ],
     "relevance_score": 9
@@ -1654,40 +1657,6 @@
     "relevance_score": 13
   },
   {
-    "id": "7d82e9738167",
-    "title": "America and Iran Are Locked in a Cycle of Escalation - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQZ3h2UUU5WWFUel9SME5Ra3lucFRBUVQxZ3J6eVpyQTlZM3lvWmc2VkY5MVNQNkpyOXk4NkhFejllcklxRk0xN3lOM2JaMGJUbDRQTmM1RV9XX19rR2V3andkbG85TUwzYi1JVUFpUDBRMUFfT2JfMXJzTmdjSVZoc082Wm4zdGhfNDZNaUFTVl8?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-25T10:51:00+00:00",
-    "summary": "America and Iran Are Locked in a Cycle of Escalation WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 9
-  },
-  {
-    "id": "401df34caebc",
-    "title": "Qualcomm is about to raise prices and that’s bad news for everyone",
-    "url": "https://www.theverge.com/gadgets/970910/qualcomm-raising-prices-bloomberg",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-07-24T19:14:23+00:00",
-    "summary": "Qualcomm sent a letter to customers on Friday warning of plans to increase its prices by \"a percentage in the double digits,\" Bloomberg reports. The price hikes will go into effect starting with products shipped after September 1st. Qualcomm claims it has \"exhausted its...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/10/acastro_STK082_qualcomm_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Business",
-      "Gadgets",
-      "Mobile",
-      "News",
-      "Phones"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
     "id": "535a182fb105",
     "title": "I tried out OpenAI’s new AI keypad — which will be fun for some coders and slightly mystifying to everyone else",
     "url": "https://techcrunch.com/2026/07/24/i-tried-out-openais-new-ai-keypad-which-will-be-fun-for-coders-and-slightly-mystifying-to-everyone-else/",
@@ -1720,32 +1689,25 @@
     "relevance_score": 13
   },
   {
-    "id": "85870376a7a5",
-    "title": "Cheap, Accurate and Lethal: Iran’s Best Missile Is Getting More Dangerous - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTFByZTQ5emFoUm9DTHZ3bXNMb0hEUDFfTWMxNm9hRGt1eTAtMW1pLW52RVZiZ0lwRkozYmdUT2pFN09RM09sbjlUamVPUzA2RG8tVW5UeVJZbUgzVE9GTmNaQk42anF2QTQ3Nk1QcGgxQmpxRjhEQlFEN3BJYXdxZUU?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-25T09:30:00+00:00",
-    "summary": "Cheap, Accurate and Lethal: Iran’s Best Missile Is Getting More Dangerous WSJ",
-    "image_url": null,
-    "tags": [],
+    "id": "5dc6c1055192",
+    "title": "The 2026 El Niño Is on Track to Be the Strongest on Record",
+    "url": "https://www.wired.com/story/2026-el-nino-the-strongest-in-150-years/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-24T18:50:02+00:00",
+    "summary": "This climate phenomenon could cause a massive global temperature spike and cause economic losses of $10 trillion by 2032.",
+    "image_url": "https://media.wired.com/photos/6a6386315ba8c9d10fc5c6bc/master/pass/El%20Ni%C3%B1o%20intensidad%202026%20efectos1500444341.jpg",
+    "tags": [
+      "Science",
+      "Science / Environment",
+      "climate",
+      "environment",
+      "weather"
+    ],
     "industries": [
       "industrial"
     ],
-    "relevance_score": 9
-  },
-  {
-    "id": "cf71bda5c593",
-    "title": "Dan Neil Is Driven to Pure Bliss in the Lotus Emira - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNV3UwNmF6T0FzZVZnaTZqTG9wMjhHU0U4UmJfMjNmcnVBb3pXTHRCUkppT1cxNzhVOGxtM2s1WWVwUnJiRXFmRnlDLWh5Y2ozQXN2ZDI3YlZBdlM3UUNMTVN2M2dSbWJUQ2o4OW42OFdRZGF4VUZYSmJhcDlPZ0VCWFRmLXY1aTlMZ2Z5VndCNGUzbHBlel9TaXhDTQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-25T09:30:00+00:00",
-    "summary": "Dan Neil Is Driven to Pure Bliss in the Lotus Emira WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 9
+    "relevance_score": 14
   },
   {
     "id": "5a1838ef68db",
@@ -1784,17 +1746,34 @@
     "relevance_score": 15
   },
   {
-    "id": "a7b2ee323c33",
-    "title": "Cancel Adobe Acrobat and Access This PDF Editor for Life for $50 - PCMag",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOWEJLcm15bml3ODRtRXVraFNReE9vUW9IUjNLdDItVFhCM3hHbWZZdU9GSUo3N2FUdHl3Wnlwc0dxMzZ5ZXlIX0MxTzJnenhkVVdza3g1bGFJUnhsblc2TnpxTXYxZ3QtM2xWNGFmc3YyNmVEcmVUOGhHVGQzaTdRT1VJNXFnWXBYSkpVZ1JhYU9QWnBYZEE?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-07-24T21:14:32+00:00",
-    "summary": "Cancel Adobe Acrobat and Access This PDF Editor for Life for $50 PCMag",
+    "id": "0bcb3591ba27",
+    "title": "SpaceX isn’t the wireless threat that investors fear — unless someone breaks this unspoken agreement - MarketWatch",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxOd1ZKLUZtbXphMU1VQ2o3U0Vld09tcDBIcHR1UkNhdkFUV2wzb1dRWXhoYzlLNUh6cVBLUlVYR3NaV0wwaUtoOXI4bVAxb1huOFZKUzhUa0FMelJYeFUySkwwNXVodU10MmVuVVZVY1A5eEUwMHBYMG9OWkJ4djlRN0xvRTlOMV90WGlkZmthcl8yWTRkeXVOQ3N0b0s3X2ZmbWczT1dLZzdBTEZqdkdvS0FQX1c0X25XLTQ2eGE2cnBaUnNxNUlTZ19vRlFKQ0dSLWw0MjZWNA?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-07-25T12:00:00+00:00",
+    "summary": "SpaceX isn’t the wireless threat that investors fear — unless someone breaks this unspoken agreement MarketWatch",
     "image_url": null,
     "tags": [],
-    "industries": [],
-    "relevance_score": 12
+    "industries": [
+      "telecom"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "d39172da7359",
+    "title": "AT&T quietly raises prices again as customer behavior shifts - thestreet.com",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPV1gzNWU2LWl6eUdjWnpCQ3poVXdWRDFwQXFybDEzb1pUV3ExeENfMEhLMDd6dm04cjk1d1RCT2hxQTgtVVNCd3BLajJfLWFLUWdKQWk4QVFXNDNFSjNmWlNiQkZUZmZJazNNTHNNQ1BROWxZZllCbVFZZVVNNWhWcTlicFBoSEZmTlVVaWdkaEU4OWFuLVYzQ0k4SQ?oc=5",
+    "source": "Telecom",
+    "source_category": "industry_telecom",
+    "published": "2026-07-25T11:37:00+00:00",
+    "summary": "AT&T quietly raises prices again as customer behavior shifts thestreet.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "telecom"
+    ],
+    "relevance_score": 8
   },
   {
     "id": "77858ec55bc9",
@@ -1831,5 +1810,24 @@
       "industrial"
     ],
     "relevance_score": 39
+  },
+  {
+    "id": "b67afd00f045",
+    "title": "Chinese Companies Are Selling Vapes With Chemicals Potentially More Potent Than Nicotine",
+    "url": "https://www.wired.com/story/made-in-china-chinas-vape-makers-have-a-new-way-around-flavor-bans/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-07-24T20:42:11+00:00",
+    "summary": "Big Tobacco studied nicotine analogs like 6-methyl-nicotine for decades but never marketed them. Now, Chinese vape makers are using them to sidestep US regulations.",
+    "image_url": "https://media.wired.com/photos/6a5956e5204d70a89778c8b1/master/pass/Made-In-China-China-Vape-Makers-Have-New-Way-Around-Flavor-Bans-Business.jpg",
+    "tags": [
+      "Business",
+      "Made in China",
+      "China",
+      "Regulation",
+      "Smoking"
+    ],
+    "industries": [],
+    "relevance_score": 12
   }
 ]
