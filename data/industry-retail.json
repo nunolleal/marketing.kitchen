@@ -56,7 +56,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 19
+    "relevance_score": 18
   },
   {
     "id": "c24da24c13b7",
@@ -78,51 +78,10 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 17
-  },
-  {
-    "id": "eacf60dff336",
-    "title": "The quest to keep organs alive outside the body",
-    "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-07-24T17:03:55+00:00",
-    "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores...",
-    "image_url": null,
-    "tags": [
-      "Biotechnology and health",
-      "App",
-      "Summary",
-      "The Checkup"
-    ],
-    "industries": [
-      "retail",
-      "industrial",
-      "lifesciences",
-      "financial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "a93d1a64a586",
-    "title": "New Ukrainian Drone Strikes On Wildberries Warehouses Decimate Empire Of Russia’s Richest Woman",
-    "url": "https://www.forbes.com/sites/christopherhelman/2026/07/24/new-ukrainian-drone-strikes-on-wildberries-warehouses-decimate-empire-of-russias-richest-woman/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-24T17:26:37+00:00",
-    "summary": "Two distribution centers in St. Petersburg belonging to billionaire Tatyana Kim's e-commerce giant were hit on Friday, bringing the number of attacks on her to seven.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a63824ded9738cd35e5fbb5/0x0.jpg?width=960&precrop=1975%2C992%2Cx3%2Cy326",
-    "tags": [
-      "Energy",
-      "/energy",
-      "Business",
-      "/business",
-      "Energy"
-    ],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 16
+    "relevance_score": 16,
+    "also_covered_by": [
+      "Wall Street"
+    ]
   },
   {
     "id": "6ced851e616c",
@@ -175,6 +134,29 @@
     "relevance_score": 14
   },
   {
+    "id": "eacf60dff336",
+    "title": "The quest to keep organs alive outside the body",
+    "url": "https://www.technologyreview.com/2026/07/24/1140790/the-quest-to-keep-organs-alive-outside-the-body/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-07-24T17:03:55+00:00",
+    "summary": "This week, I covered a fascinating effort to preserve organs outside the body. There’s a huge shortage of donor organs, and one of the main reasons is time—they survive only a matter of hours outside the body, even when they’re kept on ice. Doctors dream of organ banks—stores...",
+    "image_url": null,
+    "tags": [
+      "Biotechnology and health",
+      "App",
+      "Summary",
+      "The Checkup"
+    ],
+    "industries": [
+      "retail",
+      "industrial",
+      "lifesciences",
+      "financial"
+    ],
+    "relevance_score": 14
+  },
+  {
     "id": "f9a1b0a09ba7",
     "title": "Ross accelerates brick-and-mortar expansion with nearly 50 new locations",
     "url": "https://www.retaildive.com/news/ross-brick-and-mortar-expansion-stores/826085/",
@@ -187,7 +169,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "f0772b2eff53",
@@ -202,7 +184,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "f1b24f0fc556",
@@ -220,13 +202,13 @@
     "relevance_score": 11
   },
   {
-    "id": "529427f79192",
-    "title": "Morgan Stanley Slashes Salesforce Price Target By 35% - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeVVmTUJPaXBKVVdVUmg0ZVMyYkFmVUhtMFROM3NwaTRyRHJZc0pWbWlqdWV0c0xMaE92bkVaMmtfUnpoazNNVFZvdVRiV1p0RGJpNjFtRzg2T25aWnJ1M0J3S0c2UDUwMFZ2c1EwZ084cjk0RHh6UDFDWXhVbzdlS2JGcllsVU52enR0NFE0NjJOc2RkZ1Z3VVJOM29KclUtemJrV0gzSQ?oc=5",
+    "id": "2a674c62d04d",
+    "title": "Morgan Stanley Slashes Salesforce Price Target By 35% - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWxBV0ZqOGstSlRUQ0VMam1hMHV5S3pvcWlZOUFsTzR1MFREa29Wb0pFYjBpMmJkM1plSXFhbWZTUmREODB0OFRHZkpfM0J6TlVQLVF0d2Rrd0tLLUlDSVJDU19VVnQta3JuMGdUcmRYQWpjZndJanpObHFPM3RRakNyLU9SWlRpbnJOTDRIVEt6Z2hOT3ZySEE4c2I?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
     "published": "2026-07-22T10:15:00+00:00",
-    "summary": "Morgan Stanley Slashes Salesforce Price Target By 35% Yahoo Finance",
+    "summary": "Morgan Stanley Slashes Salesforce Price Target By 35% 24/7 Wall St.",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -256,6 +238,22 @@
     "relevance_score": 10
   },
   {
+    "id": "012015fca240",
+    "title": "Indian payments firms flag competition risks in one-click UPI checkout- report - Electronic Payments International",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaEsxV0tJS1U4eEdzOVRKU3JWNlhZYXFDQWNHNk8xMldGVW1RckVQa2NXN1dpVUxEMlVUb1pDRXYyZDJ6M1VBdWFiQ3F3WWtkSmNyaWI1eUZJTG54UlpKUDhhdXFsLTBySFFScW9PSU5PM2ZQYkdKUS1lWmc5azVyTldKUWJZSkdFV3M4TmlsNVBJeHNOeWJBZ3hUcEllYzVjeGFWdWgzakY3TEVXaFpPMDdZZENDNE9TVDBQNDgxbVBLZVloNlBDVmtlSQ?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-07-24T10:31:52+00:00",
+    "summary": "Indian payments firms flag competition risks in one-click UPI checkout- report Electronic Payments International",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "f87d82f642f5",
     "title": "Scoop: New Mountain Capital shopping health payments co Machinify - Axios",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQMHpnc3BCNW5nU19rX0NwZ3c1UDdKOWp5bTZVazBxOXpmRVc5aHFKRExsa2V5YmlNQlFtaXlyZlVyWTY0SE9CMEhzWUFJcE1WQWNFNms5TTZDSFJPdk1tNGxLRDhzU1lUbUVyUGE2anRxN25WLU13NlZkMUV3TWxLd0RJTmpBNXgxTnR6cVc4dEtEYm9XbDhjSQ?oc=5",
@@ -267,22 +265,6 @@
     "tags": [],
     "industries": [
       "tech",
-      "retail",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "012015fca240",
-    "title": "Indian payments firms flag competition risks in one-click UPI checkout- report - Electronic Payments International",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPaEsxV0tJS1U4eEdzOVRKU3JWNlhZYXFDQWNHNk8xMldGVW1RckVQa2NXN1dpVUxEMlVUb1pDRXYyZDJ6M1VBdWFiQ3F3WWtkSmNyaWI1eUZJTG54UlpKUDhhdXFsLTBySFFScW9PSU5PM2ZQYkdKUS1lWmc5azVyTldKUWJZSkdFV3M4TmlsNVBJeHNOeWJBZ3hUcEllYzVjeGFWdWgzakY3TEVXaFpPMDdZZENDNE9TVDBQNDgxbVBLZVloNlBDVmtlSQ?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-07-24T10:31:52+00:00",
-    "summary": "Indian payments firms flag competition risks in one-click UPI checkout- report Electronic Payments International",
-    "image_url": null,
-    "tags": [],
-    "industries": [
       "retail",
       "financial"
     ],
