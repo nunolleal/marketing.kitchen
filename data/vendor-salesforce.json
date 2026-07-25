@@ -1,20 +1,5 @@
 [
   {
-    "id": "817cac9fe20e",
-    "title": "Real-Time Engagement with Time Spent Tracking in Data 360 with Web SDK",
-    "url": "https://www.salesforce.com/blog/real-time-engagement-with-time-spent-tracking-in-data-360-with-web-sdk/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-24T03:08:51+00:00",
-    "summary": "Almost every business accumulates massive amounts of behavioral data in their search for rich and actionable customer insight, yet they often miss the most critical signal: the duration of actual attention rather than…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/image_dce328.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 42
-  },
-  {
     "id": "af754697a57e",
     "title": "Why Marketers Need to Move Beyond Attribution and Embrace Agentic Optimization",
     "url": "https://www.salesforce.com/blog/agentic-marketing-optimization/",
@@ -29,6 +14,21 @@
       "industrial"
     ],
     "relevance_score": 42
+  },
+  {
+    "id": "817cac9fe20e",
+    "title": "Real-Time Engagement with Time Spent Tracking in Data 360 with Web SDK",
+    "url": "https://www.salesforce.com/blog/real-time-engagement-with-time-spent-tracking-in-data-360-with-web-sdk/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-24T03:08:51+00:00",
+    "summary": "Almost every business accumulates massive amounts of behavioral data in their search for rich and actionable customer insight, yet they often miss the most critical signal: the duration of actual attention rather than…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/image_dce328.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 38
   },
   {
     "id": "23a077add062",
@@ -72,7 +72,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "883745ebe9e5",
@@ -120,21 +120,6 @@
     "relevance_score": 11
   },
   {
-    "id": "05d32bbc48ed",
-    "title": "Employee Agents Vs. Customer-Facing Agents? Spot the Differences",
-    "url": "https://www.salesforce.com/blog/small-business/employee-agents-vs-customer-facing-agents/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-24T13:00:00+00:00",
-    "summary": "Not all AI agents do the same job — here's how small teams can figure out which type works best for them.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/image_49d1ce.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
     "id": "2a674c62d04d",
     "title": "Morgan Stanley Slashes Salesforce Price Target By 35% - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQYWxBV0ZqOGstSlRUQ0VMam1hMHV5S3pvcWlZOUFsTzR1MFREa29Wb0pFYjBpMmJkM1plSXFhbWZTUmREODB0OFRHZkpfM0J6TlVQLVF0d2Rrd0tLLUlDSVJDU19VVnQta3JuMGdUcmRYQWpjZndJanpObHFPM3RRakNyLU9SWlRpbnJOTDRIVEt6Z2hOT3ZySEE4c2I?oc=5",
@@ -151,9 +136,23 @@
     "relevance_score": 10,
     "also_covered_by": [
       "Adobe Inc",
-      "Adobe",
       "Banking"
     ]
+  },
+  {
+    "id": "05d32bbc48ed",
+    "title": "Employee Agents Vs. Customer-Facing Agents? Spot the Differences",
+    "url": "https://www.salesforce.com/blog/small-business/employee-agents-vs-customer-facing-agents/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-24T13:00:00+00:00",
+    "summary": "Not all AI agents do the same job — here's how small teams can figure out which type works best for them.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/image_49d1ce.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
   },
   {
     "id": "ab90b3519e71",
