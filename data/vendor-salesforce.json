@@ -82,22 +82,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 12
-  },
-  {
-    "id": "014a5826542d",
-    "title": "Agentic Transformation Pitfall: The Confident, Wrong Answers",
-    "url": "https://www.salesforce.com/blog/ai-agent-answer-accuracy/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-25T18:00:07+00:00",
-    "summary": "AI agents can produce confident but incorrect answers without the right context. See how certified data, AI Skills, and Tableau MCP improve answer accuracy.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/ai-agent-answer-accuracy-507970416.jpg",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "ff9262c8d5d0",
@@ -108,6 +93,21 @@
     "published": "2026-07-23T15:28:50+00:00",
     "summary": "Salesforce Stock Hit a 44% Drawdown. Agentforce ARR Just Crossed $1 Billion. TIKR.com",
     "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "014a5826542d",
+    "title": "Agentic Transformation Pitfall: The Confident, Wrong Answers",
+    "url": "https://www.salesforce.com/blog/ai-agent-answer-accuracy/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-25T18:00:07+00:00",
+    "summary": "AI agents can produce confident but incorrect answers without the right context. See how certified data, AI Skills, and Tableau MCP improve answer accuracy.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/ai-agent-answer-accuracy-507970416.jpg",
     "tags": [],
     "industries": [
       "industrial"
@@ -197,21 +197,6 @@
     "relevance_score": 8
   },
   {
-    "id": "9ea2882cf15e",
-    "title": "TTEC Digital Deploys First Live Salesforce Customer on Agentforce Contact Center - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTjh3WTdyWU1BNTMyVG5yanh4VUlvaGZlemd2aS1rUWFDTUJUM0c5U2lQMF8xcVh0MTlFUHJWQmZJaldxMXRSdm0tOXRyNU5sZFgyb2VoODZOYkhhcW4tQmliZV82ZVNjUG1Rc2I5WXNneGNCcXJFcTdpOVZ2Y3VJcW5RZjI4V0dBWFFjOVFyRWMwSG9rb1BHbms0NA?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-07-23T12:00:00+00:00",
-    "summary": "TTEC Digital Deploys First Live Salesforce Customer on Agentforce Contact Center Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 7
-  },
-  {
     "id": "0fd31376ccae",
     "title": "What are the Best AI Chatbots for Small Business Customer Service?",
     "url": "https://www.salesforce.com/blog/small-business/best-ai-chatbots-for-small-business-service/",
@@ -235,6 +220,21 @@
     "image_url": null,
     "tags": [],
     "industries": [],
+    "relevance_score": 6
+  },
+  {
+    "id": "9ea2882cf15e",
+    "title": "TTEC Digital Deploys First Live Salesforce Customer on Agentforce Contact Center - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTjh3WTdyWU1BNTMyVG5yanh4VUlvaGZlemd2aS1rUWFDTUJUM0c5U2lQMF8xcVh0MTlFUHJWQmZJaldxMXRSdm0tOXRyNU5sZFgyb2VoODZOYkhhcW4tQmliZV82ZVNjUG1Rc2I5WXNneGNCcXJFcTdpOVZ2Y3VJcW5RZjI4V0dBWFFjOVFyRWMwSG9rb1BHbms0NA?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-07-23T12:00:00+00:00",
+    "summary": "TTEC Digital Deploys First Live Salesforce Customer on Agentforce Contact Center Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
     "relevance_score": 6
   }
 ]
