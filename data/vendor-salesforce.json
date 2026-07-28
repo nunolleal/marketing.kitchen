@@ -43,7 +43,11 @@
     "industries": [
       "media"
     ],
-    "relevance_score": 16
+    "relevance_score": 15,
+    "also_covered_by": [
+      "Wall Street",
+      "VentureBeat"
+    ]
   },
   {
     "id": "7c60219dc432",
@@ -59,7 +63,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "91a3eddb1cdf",
@@ -77,6 +81,22 @@
     "relevance_score": 13
   },
   {
+    "id": "5e30faf23812",
+    "title": "Our Relationships Are Everything: A Serviceblazer on Better Financial Coaching with AI",
+    "url": "https://www.salesforce.com/blog/compass-working-capital/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-28T15:58:45+00:00",
+    "summary": "How Compass Working Capital uses Agentforce Service to empower coaches and those they serve.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/serviceblazer-byline-1500x844-1.jpg",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
     "id": "e356aa0317ba",
     "title": "Stop Customer Churn in Banking",
     "url": "https://www.salesforce.com/blog/customer-churn-in-banking/",
@@ -89,37 +109,7 @@
     "industries": [
       "financial"
     ],
-    "relevance_score": 13
-  },
-  {
-    "id": "0cdd88071ce2",
-    "title": "Salesforce’s Agentforce Bet Made It the Dow’s Worst Performer. Is the Market Overreacting? - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNV1J0b1hnS3BVWmpxT1Y1QWd5R2tJOE1jcUd2S296bWFQR2h0UFVVUXNIdm9CUmxXaXZmZHJOSmR0cDNZR1FzQXRPQm9mSUtWVTh5clRta0owekY3cHJ5LUR6bjBsSDQ0cklLRVM3cUdZYXR5TXRVNWhfeGlqLTc4UTJwMWhXQS1kVGhseDFQRnFGX21CQTFPZWo5TEN3S09w?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-07-28T08:38:26+00:00",
-    "summary": "Salesforce’s Agentforce Bet Made It the Dow’s Worst Performer. Is the Market Overreacting? Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
     "relevance_score": 12
-  },
-  {
-    "id": "883745ebe9e5",
-    "title": "Salesforce Named a Leader in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms",
-    "url": "https://www.salesforce.com/blog/salesforce-2026-gartner-magic-quadrant-conversational-ai-platforms/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-23T12:00:00+00:00",
-    "summary": "Salesforce today announced that it has been recognized as a Leader in the 2026 Gartner® Magic Quadrant™ for Conversational AI Platforms — the company’s first time named in this report. Download a complimentary…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/gartner_mq_card_image_1440x810_2x.webp",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 11
   },
   {
     "id": "ff9262c8d5d0",
@@ -137,33 +127,20 @@
     "relevance_score": 10
   },
   {
-    "id": "d3814df28c5a",
-    "title": "Prediction: Is Salesforce a Millionaire-Maker Stock? - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNTkR5RjJpb3dOb2pnUDdCNWVrRng4emJMTGxkVE55S1BqX3pNLVY1VGoyNHYwWmVCcE5iby14YnE2WW9OTVYyTkhfTXRKZWphN0pqS0tzUlBnZmE3cmdhX1R2a2c5YzF4U0VXcl9HdVR4dmR2T0dSOW1SYnpwWUQ5ZFA4YVVFRjlxbHl4dERYbE1pVTlIbWs3Zl9n?oc=5",
+    "id": "db3b37938f32",
+    "title": "ServiceNow Surges 6%, Salesforce Climbs 4% as Government AI Deals Lift Enterprise Software - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPRzNfU0pfeDlBMzlfXzhaQUZMWTN4eDFScUFnaFBEcVVLMlRFUGhRYVdiZzQzR0dCUEp1a1VhOFlTVnZZYm52c1lSV1UyeUpZT2xESlMwR0VyU3d5SDRocEpQVTdSbFNDRExxcGV6WGhjX0kyWGE3bmtLS2dLaHlrOGdlSDFtSjFySkZVZkZ5Zk14S2ZtZy05b1o5ZnJ4dXlJN2E2Z0dOUHlCcVg2U3N3SzVFMjJyQ1JlRGg2VC1QczZJMElUbktFTTdIZw?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-07-25T15:30:18+00:00",
-    "summary": "Prediction: Is Salesforce a Millionaire-Maker Stock? 24/7 Wall St.",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 10
-  },
-  {
-    "id": "529427f79192",
-    "title": "Morgan Stanley Slashes Salesforce Price Target By 35% - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOeVVmTUJPaXBKVVdVUmg0ZVMyYkFmVUhtMFROM3NwaTRyRHJZc0pWbWlqdWV0c0xMaE92bkVaMmtfUnpoazNNVFZvdVRiV1p0RGJpNjFtRzg2T25aWnJ1M0J3S0c2UDUwMFZ2c1EwZ084cjk0RHh6UDFDWXhVbzdlS2JGcllsVU52enR0NFE0NjJOc2RkZ1Z3VVJOM29KclUtemJrV0gzSQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-07-22T10:15:00+00:00",
-    "summary": "Morgan Stanley Slashes Salesforce Price Target By 35% Yahoo Finance",
+    "published": "2026-07-24T17:38:31+00:00",
+    "summary": "ServiceNow Surges 6%, Salesforce Climbs 4% as Government AI Deals Lift Enterprise Software 24/7 Wall St.",
     "image_url": null,
     "tags": [],
     "industries": [
-      "retail",
+      "tech",
       "industrial"
     ],
-    "relevance_score": 9
+    "relevance_score": 10
   },
   {
     "id": "a8e6ab59225a",
@@ -227,13 +204,13 @@
     "relevance_score": 7
   },
   {
-    "id": "51f24e408c75",
-    "title": "TTEC Digital Deploys First Live Salesforce Customer on Agentforce Contact Center - GlobeNewswire",
-    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOVDNocFFVVm9sVDdwdWo3eTR1MGVEUHZTY1NMTmZMQzdmYkF6endTQzQwV1dwNEltdWVPZkxLYjJwdVBRc3pjbWN6WHBybF9rVGlnWXJiQmdKWFpyZF96bC1FZ1I5WmZPYXpqRk9BTEhTLW94LUNEaFBHSjlQZUJGUXV5UjdLUlkzSlp3OXY0Y3VDSnRPTy1Zdy1xMnBfODBWMjlPVDBsVEZqRXpPcGljOVZWYjlVSWZnQXVmSHQ0TUhvUTZsd3JpSFVMbkthOUROUFRDSS16T3d3T3h2QmFqcGRZNlRCejQ?oc=5",
+    "id": "9ea2882cf15e",
+    "title": "TTEC Digital Deploys First Live Salesforce Customer on Agentforce Contact Center - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQTjh3WTdyWU1BNTMyVG5yanh4VUlvaGZlemd2aS1rUWFDTUJUM0c5U2lQMF8xcVh0MTlFUHJWQmZJaldxMXRSdm0tOXRyNU5sZFgyb2VoODZOYkhhcW4tQmliZV82ZVNjUG1Rc2I5WXNneGNCcXJFcTdpOVZ2Y3VJcW5RZjI4V0dBWFFjOVFyRWMwSG9rb1BHbms0NA?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
     "published": "2026-07-23T12:00:00+00:00",
-    "summary": "TTEC Digital Deploys First Live Salesforce Customer on Agentforce Contact Center GlobeNewswire",
+    "summary": "TTEC Digital Deploys First Live Salesforce Customer on Agentforce Contact Center Yahoo Finance",
     "image_url": null,
     "tags": [],
     "industries": [
