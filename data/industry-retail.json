@@ -18,7 +18,7 @@
       "media",
       "retail"
     ],
-    "relevance_score": 56
+    "relevance_score": 53
   },
   {
     "id": "857884b73376",
@@ -56,7 +56,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 49
+    "relevance_score": 46
   },
   {
     "id": "2a86de2f40cb",
@@ -73,7 +73,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 49
+    "relevance_score": 46
   },
   {
     "id": "3cb87ade5324",
@@ -90,7 +90,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 37
+    "relevance_score": 34
   },
   {
     "id": "aece40912b08",
@@ -108,7 +108,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 32
+    "relevance_score": 29
   },
   {
     "id": "ce5f25e18d11",
@@ -147,7 +147,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
     "id": "77985b13a17c",
@@ -164,28 +164,6 @@
       "Gaming",
       "PC Gaming",
       "Verge Shopping"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 17
-  },
-  {
-    "id": "95a73f2ec951",
-    "title": "Out Of Canada Comes DUER As The Next Denim Challenger—Tariffs Included",
-    "url": "https://www.forbes.com/sites/pamdanziger/2026/07/27/out-of-canada-comes-duer-as-the-next-denim-challenger-tariffs-included/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-07-27T15:37:25+00:00",
-    "summary": "New tariffs are once again disrupting retailers, yet despite threats of 50% tariffs, Vancouver-based DUER is moving forward with aggressive U.S. growth plans.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a676dbe5cfee38ae8dda9f8/0x0.jpg",
-    "tags": [
-      "Retail",
-      "/retail",
-      "Business",
-      "/business",
-      "Retail"
     ],
     "industries": [
       "retail",
@@ -221,7 +199,10 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 15
+    "relevance_score": 14,
+    "also_covered_by": [
+      "Adobe Inc"
+    ]
   },
   {
     "id": "eb0a410484d7",
@@ -235,21 +216,6 @@
     "tags": [],
     "industries": [
       "tech",
-      "retail"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "dc1ad29479a3",
-    "title": "Stressed parents turn to BNPL for back-to-school shopping",
-    "url": "https://www.retaildive.com/news/stressed-parents-bnpl-back-to-school-shopping/826145/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-07-27T15:01:00+00:00",
-    "summary": "Nearly half of consumers expect to use buy now, pay later this year, an Omnisend survey found.",
-    "image_url": "https://imgproxy.divecdn.com/WDZSrFcYgUyBwvli_5Vqb-uxyTP52UgqPWxLUOa9NLU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaGlsZHJlbl9zaG9wcGluZ19mb3Jfc2Nob29sX2dsdWVfc3VwcGxpZXMuanBn.webp",
-    "tags": [],
-    "industries": [
       "retail"
     ],
     "relevance_score": 13
@@ -277,18 +243,17 @@
     "relevance_score": 12
   },
   {
-    "id": "50f786f38d7f",
-    "title": "Pacsun, Ulta Beauty debut curated beauty collaboration",
-    "url": "https://www.retaildive.com/news/pacsun-ulta-beauty-curated-beauty-fashion-collaboration/826239/",
+    "id": "dc1ad29479a3",
+    "title": "Stressed parents turn to BNPL for back-to-school shopping",
+    "url": "https://www.retaildive.com/news/stressed-parents-bnpl-back-to-school-shopping/826145/",
     "source": "Retail Dive",
     "source_category": "industry_retail",
-    "published": "2026-07-27T15:40:00+00:00",
-    "summary": "The retailers developed two beauty essentials kits and a limited-edition hoodie meant to encourage self-expression.",
-    "image_url": "https://imgproxy.divecdn.com/Ps7j6bLZMPBBGWCQqxvkqUJV4_KAwPoBPIEXVGcp-qs/g:nowe:42:165/c:1655:935/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9VbHRhLXgtUGFjc3VuX1RuVEpBNDIuanBn.webp",
+    "published": "2026-07-27T15:01:00+00:00",
+    "summary": "Nearly half of consumers expect to use buy now, pay later this year, an Omnisend survey found.",
+    "image_url": "https://imgproxy.divecdn.com/WDZSrFcYgUyBwvli_5Vqb-uxyTP52UgqPWxLUOa9NLU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9DaGlsZHJlbl9zaG9wcGluZ19mb3Jfc2Nob29sX2dsdWVfc3VwcGxpZXMuanBn.webp",
     "tags": [],
     "industries": [
-      "retail",
-      "industrial"
+      "retail"
     ],
     "relevance_score": 12
   },
@@ -304,6 +269,22 @@
     "tags": [
       "Media"
     ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "50f786f38d7f",
+    "title": "Pacsun, Ulta Beauty debut curated beauty collaboration",
+    "url": "https://www.retaildive.com/news/pacsun-ulta-beauty-curated-beauty-fashion-collaboration/826239/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-07-27T15:40:00+00:00",
+    "summary": "The retailers developed two beauty essentials kits and a limited-edition hoodie meant to encourage self-expression.",
+    "image_url": "https://imgproxy.divecdn.com/Ps7j6bLZMPBBGWCQqxvkqUJV4_KAwPoBPIEXVGcp-qs/g:nowe:42:165/c:1655:935/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9VbHRhLXgtUGFjc3VuX1RuVEpBNDIuanBn.webp",
+    "tags": [],
     "industries": [
       "retail",
       "industrial"
@@ -363,6 +344,21 @@
       "industrial",
       "lifesciences",
       "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "5aa6ccbd1987",
+    "title": "How Amazon Leo plans to connect mobile devices from space - About Amazon",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNajdxUy1zYmtPMHN6ZU5UQVlIc0VZckkwdU4ySVVFakY0QUItTmdCeFRESmxXejVCdzJwbGpKSEtLRGpTQmtmUVNkN19vOVkzcXg2eUY5emNweVg3SWpOZVVIOWo5TDFRcmxTdUZJVWhPSzUycTdOTFdNMjlyRnRGRlVqYzVwd09LRUt1ZWpVZzEzRFJxMENOWVdfNEVRckl6?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-07-27T12:57:37+00:00",
+    "summary": "How Amazon Leo plans to connect mobile devices from space About Amazon",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail"
     ],
     "relevance_score": 9
   },
