@@ -13,7 +13,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 60
+    "relevance_score": 57
   },
   {
     "id": "bf0e7cf2bad7",
@@ -30,7 +30,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 49
+    "relevance_score": 46
   },
   {
     "id": "eb22cb0fe9a3",
@@ -47,30 +47,97 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 48
+    "relevance_score": 45
   },
   {
-    "id": "c631fa65b90a",
-    "title": "Amazon Shares Surge 14% Toward Best Day In A Decade—Jeff Bezos Overtakes Brin As 3rd Richest",
-    "url": "https://www.forbes.com/sites/tylerroush/2026/07/31/amazon-shares-surge-14-toward-best-day-in-a-decade-jeff-bezos-overtakes-brin-as-3rd-richest/",
+    "id": "151f60bb81f8",
+    "title": "How Amazon And Walmart’s AI Shopping Agents Are Making It Harder To Find ‘Made In USA’ Products",
+    "url": "https://www.forbes.com/sites/pamdanziger/2026/07/31/why-amazon-and-walmarts-ai-shopping-agents-are-rigged-against-made-in-usa/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-07-31T14:10:35+00:00",
-    "summary": "A better-than-expected jump in cloud revenue boosted Amazon’s stock.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6904c49870035c729ec3c683/0x0.jpg?width=960&precrop=4541%2C2554%2Cx595%2Cy112",
+    "published": "2026-07-31T16:53:59+00:00",
+    "summary": "A Columbia Law School study finds Amazon and Walmart's AI agents hide American-made goods, enable false origin claims, while the AI agents admit it's a business choice.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a6cc8cc2c84c715341067b9/0x0.jpg",
     "tags": [
+      "Retail",
+      "/retail",
       "Business",
       "/business",
-      "Business",
-      "/business",
-      "Breaking"
+      "Retail"
     ],
     "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 18
+  },
+  {
+    "id": "bc137ab1c937",
+    "title": "Google might launch a ‘Pixel Tag’",
+    "url": "https://www.theverge.com/tech/973889/google-pixel-tag-item-tracker",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-31T18:27:24+00:00",
+    "summary": "Google is seemingly working on an item tracker that might compete with Apple's AirTag. 9to5Google obtained an image of something called a \"Google Pixel Tag\" that has a small oval shape. The publication also linked to a Slovenian store listing about the Pixel Tag that...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/google-pixel-tag-leak.jpg.webp?quality=90&amp;strip=all&amp;crop=2.25%2C0%2C95.5%2C100&amp;w=1200",
+    "tags": [
+      "Gadgets",
+      "Google",
+      "News",
+      "Tech"
+    ],
+    "industries": [
+      "tech",
+      "telecom",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 18
+  },
+  {
+    "id": "86cd7a355ab6",
+    "title": "Apple’s new AirTags are back down to their best price",
+    "url": "https://www.theverge.com/gadgets/973973/apple-airtag-second-generation-deal-sale",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-07-31T19:35:45+00:00",
+    "summary": "We spotted a great deal on Tile trackers earlier this week that’s still live, but if you’re an iPhone owner, we ultimately recommend Apple’s latest AirTag. Right now, you can pick up a four-pack for $89 ($10 off) at Amazon and Target, matching the bundle’s all-time low price....",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/268280_AirTags_2_AKrales_0057.webp?quality=90&amp;strip=all&amp;crop=0,10.732984293194,100,78.534031413613",
+    "tags": [
+      "Apple",
+      "Deals",
+      "Gadgets",
+      "Tech",
+      "Verge Shopping"
+    ],
+    "industries": [
+      "media",
       "tech",
       "retail",
       "industrial"
     ],
-    "relevance_score": 19
+    "relevance_score": 18
+  },
+  {
+    "id": "bbf0fe0dd631",
+    "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+    "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-31T14:00:00+00:00",
+    "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face —...",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198164456.jpg?resize=1200,801",
+    "tags": [
+      "AI",
+      "Startups",
+      "Anthropic",
+      "Equity podcast",
+      "Hugging Face"
+    ],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 17
   },
   {
     "id": "4c0d09bed6fe",
@@ -91,7 +158,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "4393c7e8bfb9",
@@ -107,7 +174,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "c35a5c33cfd8",
@@ -123,26 +190,41 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
-    "id": "609abda82a6b",
-    "title": "TechCrunch Disrupt 2026’s biggest stage features leaders from Amazon, Replit, Tether, with much more to come",
-    "url": "https://techcrunch.com/2026/07/30/techcrunch-disrupt-2026s-biggest-stage-features-leaders-from-amazon-replit-tether-with-much-more-to-come/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-30T14:00:00+00:00",
-    "summary": "The Disrupt Stage is where many of the biggest conversations in technology happen, with a legacy that stretches back for more than a decade.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/54889342155_4479997650_4k.jpg?resize=1200,800",
+    "id": "57fa83771168",
+    "title": "America’s AI Trade War Expands To Humanoid Robots",
+    "url": "https://www.forbes.com/sites/ronschmelzer/2026/07/31/ai-trade-war-robots-china/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-07-31T17:12:45+00:00",
+    "summary": "Washington just opened a new front in the AI trade war, targeting Chinese humanoid robots and the power systems feeding America’s data centers.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a6cd6ad7e95cc1f8eb329ce/0x0.jpg",
     "tags": [
       "AI",
-      "Startups",
-      "Amazon",
-      "Replit",
-      "TechCrunch Disrupt"
+      "/ai",
+      "Innovation",
+      "/innovation",
+      "AI"
     ],
     "industries": [
-      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "4f302474f53e",
+    "title": "Revised 340B Rebate Model Pilot Program moves forward, despite provider pushback",
+    "url": "https://www.fiercehealthcare.com/providers/revised-340b-rebate-model-pilot-program-moves-forward-despite-provider-pushback",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-31T12:28:00+00:00",
+    "summary": "A notice from the Health Resources & Services Administration sidelines covered entities' attestations of substantial administrative burden and sets the mulligan program into motion, targeting a Jan. 1 start and 25 potentially eligible products.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1359565827.jpg?VersionId=klSEpyRjvGWgNFky6eyAIUFh2Z6prxtg",
+    "tags": [],
+    "industries": [
       "retail",
       "industrial"
     ],
@@ -193,55 +275,6 @@
     "relevance_score": 12
   },
   {
-    "id": "32e446b75529",
-    "title": "July 2026 in Oncology: A Look Back at FDA Approvals and Decisions - Targeted Oncology",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWFGOFNDYm5nU1hHSklka2cySllkOGxBdUIyMkdsdWpKTDI0UGNmbzM3VlRySTlNQWh6cGdNQkQ4RkhwVW1sR2pCUkJHWG1sT3JoMExFNW4zQVp4dXMtSy1VTkpoektTcHd5MHlzZnlIWFl0MTFvWHdFT1Jwd1laRU5vc3JfT1BvVGltNUtmdGFrbFVxV1hCNWR4c013dw?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-31T13:33:49+00:00",
-    "summary": "July 2026 in Oncology: A Look Back at FDA Approvals and Decisions Targeted Oncology",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "33a64bff48ad",
-    "title": "US stocks swing as Amazon leaps, Apple sinks and rising oil prices add to worries about inflation - Boston Herald",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNM2tMeXlhbE90VW1wcjRrSjh3RndFLWxncEtiS0RSQldqZTF3VUpxcVo3c0F0Y1gtaHNQdWV6T092NW1haFg1azE3ZGdQZkdCYkh3VVZTOGxyMHJoS1dXcFU0c1RicG9GNjdrR2h0c0pFM0t1TkV1bEpsMjhlS1J4eUVITlhHUm05UlNCTjRtbW81QQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-31T16:38:48+00:00",
-    "summary": "US stocks swing as Amazon leaps, Apple sinks and rising oil prices add to worries about inflation Boston Herald",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "7bc0a175d2dc",
-    "title": "Unlock Intent-Driven Shopping: Inside the July 2026 B2C Commerce Release",
-    "url": "https://www.salesforce.com/blog/b2c-commerce-july-26-release/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-07-29T20:22:45+00:00",
-    "summary": "For years, ecommerce search bars trained shoppers to search for what they’re looking for with as few keywords as possible. People stripped away full sentences and relied on keyword-heavy fragments like “women black…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/product-feature-blade-3-agentic-commerce-search-asset-4-620x412-1.webp",
-    "tags": [],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 11
-  },
-  {
     "id": "b398bfd914b2",
     "title": "Time has started serving ads to AI agents",
     "url": "https://digiday.com/media/time-has-started-serving-ads-to-ai-agents/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -260,28 +293,31 @@
     "relevance_score": 11
   },
   {
-    "id": "c7d5fc945e50",
-    "title": "Kohl’s debuts AI shopping assistant",
-    "url": "https://www.retaildive.com/news/kohls-ai-shopping-assistant/826585/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-07-30T18:15:00+00:00",
-    "summary": "What started as a Mother’s Day Gift Finder has evolved into a digital shopping assistant that aids with product discovery.",
-    "image_url": "https://imgproxy.divecdn.com/yQhfkv8lJDusbu7C7Xt0ZtXLjEwmkEZFKP-mZHbUNiE/g:nowe:1:21/c:1277:721/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9rb2hsc19zZXBob3JhXzEuanBlZw==.webp",
+    "id": "32e446b75529",
+    "title": "July 2026 in Oncology: A Look Back at FDA Approvals and Decisions - targetedonc.com",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWFGOFNDYm5nU1hHSklka2cySllkOGxBdUIyMkdsdWpKTDI0UGNmbzM3VlRySTlNQWh6cGdNQkQ4RkhwVW1sR2pCUkJHWG1sT3JoMExFNW4zQVp4dXMtSy1VTkpoektTcHd5MHlzZnlIWFl0MTFvWHdFT1Jwd1laRU5vc3JfT1BvVGltNUtmdGFrbFVxV1hCNWR4c013dw?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-07-31T13:33:49+00:00",
+    "summary": "July 2026 in Oncology: A Look Back at FDA Approvals and Decisions targetedonc.com",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "retail"
+      "tech",
+      "retail",
+      "industrial",
+      "lifesciences"
     ],
     "relevance_score": 11
   },
   {
-    "id": "093b0332d0bf",
-    "title": "Wall Street Struggles for Direction as Rate Uncertainty Offsets Amazon Jump - GV Wire",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOby1NZkVQclRSb2NZRk56LUxwZFdoVm4yU3hlOEZGMzhIbnAyc2pXVzdPOU9qTHA1Y0Y2NjRNSjFTOTRraXkwV01GdGRoQ1R5NFpfYUNXUG5Xa25GOGFJT0RIYndsLTlpY3ZqTXlTcWN6RXh2VXduT01seU5wZDB0YTB3R21CbVNPalI4RUowSXYwMU1ieGx2Z1dvUWp2RExMcjhPOW9aYVZodw?oc=5",
+    "id": "b26647fb27c1",
+    "title": "Wall Street ends higher as Amazon soothes AI jitters - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXM2OW82ZTlzUGZjWFdRTG9lbm9RWlBPaTR6czltYi1LSE5xZXE1YzFtOXB2ZF81U0gzaklsWDJaaWl3WG5rNWI3dk5QT3lsM1R4OHBfSmZZd3J6ZFcwSGR0aXoyZ3VZSkREdDFEZVJvSlpHcVVhdTZWdkttMDlvYmhxZk9nVHZVRkZUaXVfU0hMMUNMc1Y3Q08zX1VGVzR1ME04YThtaEpjTjloekZXZVpEQTE?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-07-31T16:40:06+00:00",
-    "summary": "Wall Street Struggles for Direction as Rate Uncertainty Offsets Amazon Jump GV Wire",
+    "published": "2026-07-31T20:01:42+00:00",
+    "summary": "Wall Street ends higher as Amazon soothes AI jitters Reuters",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -291,18 +327,17 @@
     "relevance_score": 11
   },
   {
-    "id": "ef4989b37e96",
-    "title": "Humana to exit more Medicare Advantage plans in 2027",
-    "url": "https://www.healthcaredive.com/news/humana-2027-medicare-advantage-plan-exits-q2-2026/826441/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-29T11:11:37+00:00",
-    "summary": "The insurer is laser-focused on reaching margin targets, and will sacrifice some plans with lower returns next year to do so, CFO Celeste Mellet said.",
-    "image_url": "https://imgproxy.divecdn.com/4YZtmHl0D-v__q0yPngut0cPpdxeZ98UxM8TNw0Sdk4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTg3MjU0MjU3LmpwZw==.webp",
+    "id": "7bc0a175d2dc",
+    "title": "Unlock Intent-Driven Shopping: Inside the July 2026 B2C Commerce Release",
+    "url": "https://www.salesforce.com/blog/b2c-commerce-july-26-release/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-07-29T20:22:45+00:00",
+    "summary": "For years, ecommerce search bars trained shoppers to search for what they’re looking for with as few keywords as possible. People stripped away full sentences and relied on keyword-heavy fragments like “women black…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/product-feature-blade-3-agentic-commerce-search-asset-4-620x412-1.webp",
     "tags": [],
     "industries": [
-      "retail",
-      "industrial"
+      "retail"
     ],
     "relevance_score": 10
   },
@@ -324,6 +359,22 @@
     "relevance_score": 10
   },
   {
+    "id": "093b0332d0bf",
+    "title": "Wall Street Struggles for Direction as Rate Uncertainty Offsets Amazon Jump - GV Wire",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOby1NZkVQclRSb2NZRk56LUxwZFdoVm4yU3hlOEZGMzhIbnAyc2pXVzdPOU9qTHA1Y0Y2NjRNSjFTOTRraXkwV01GdGRoQ1R5NFpfYUNXUG5Xa25GOGFJT0RIYndsLTlpY3ZqTXlTcWN6RXh2VXduT01seU5wZDB0YTB3R21CbVNPalI4RUowSXYwMU1ieGx2Z1dvUWp2RExMcjhPOW9aYVZodw?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-07-31T16:40:06+00:00",
+    "summary": "Wall Street Struggles for Direction as Rate Uncertainty Offsets Amazon Jump GV Wire",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "61b3422800d4",
     "title": "New Jersey bans dynamic pricing",
     "url": "https://www.retaildive.com/news/new-jersey-bans-dynamic-pricing/826563/",
@@ -339,45 +390,28 @@
     "relevance_score": 9
   },
   {
-    "id": "ec1163a97f1b",
-    "title": "B.well launches CMS aligned network with health systems, tech companies - TechTarget",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkp5M3ZZalpUS2JadHVLS09qOGdUeVRMQlhsNGhVcjNNZkNTNVduNm1nMDY5SWk2TmV1N2N6N2NCNE1scHNNS1BicVpmSlJGRzI3cnFzZU0yUkwwelEyUjladkFZdWZmTUNVNEh4d0V2MVpuam55RE9CalJEMVJ6Uy03UkhZbnk5NVBQQnBTel9oUl9ZbjlPNkNzRUZGU05LanYyYURVMlNJZ0VrbUNCQmJ2ZWNLWkRsb3BaYlVST0VaMmcw?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-07-30T19:11:25+00:00",
-    "summary": "B.well launches CMS aligned network with health systems, tech companies TechTarget",
-    "image_url": null,
+    "id": "c7d5fc945e50",
+    "title": "Kohl’s debuts AI shopping assistant",
+    "url": "https://www.retaildive.com/news/kohls-ai-shopping-assistant/826585/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-07-30T18:15:00+00:00",
+    "summary": "What started as a Mother’s Day Gift Finder has evolved into a digital shopping assistant that aids with product discovery.",
+    "image_url": "https://imgproxy.divecdn.com/yQhfkv8lJDusbu7C7Xt0ZtXLjEwmkEZFKP-mZHbUNiE/g:nowe:1:21/c:1277:721/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9rb2hsc19zZXBob3JhXzEuanBlZw==.webp",
     "tags": [],
     "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "6ee1c171525a",
-    "title": "Amazon Shares Jump as Cloud Sales—and Spending—Accelerate - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBDRDVENVllMTNvS05QVHdsMUdKbDB2NjRFRGxTWmNjUkFaYTFfeVBvTDQyN3NSR2lpR0xHejZSX1VtR0wxeTN2S1RKYWlZclI0SkRoY1VBNW1vdXd0dkxxei1RRnlnMkNjMzJZYm01SjBxSURRWmNzTVBEWQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-07-30T22:19:00+00:00",
-    "summary": "Amazon Shares Jump as Cloud Sales—and Spending—Accelerate WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
       "retail"
     ],
-    "relevance_score": 8
+    "relevance_score": 9
   },
   {
     "id": "f720c0d8859d",
-    "title": "FDA Approves First Ophthalmic Treatment for Wet AMD Leading Wainwright to Triple Price Target - streetwisereports.com",
+    "title": "FDA Approves First Ophthalmic Treatment for Wet AMD Leading Wainwright to Triple Price Target - Streetwise Reports",
     "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxOREhqT1Zma25HNGh4cWtZSWhTVFVkSGxnYWtMb2RtZDVfeWRySWQ1c1pkZFdVLVVFdlRPeVNuRFRDczZxNnk4TXJJT0ZsOU90eXdEVkptbUhwS3B5X0tZYlpabnRtVXM5M1RYZ3NCc0hDRlpxR1JzMEVXRG5xU3prS3F4X0lTNWc2cEwtZDVBUnc1REp3SllWMUttck1xRXlWcEhzUWYtUXdSVlRpQ0NUWHlpRnR4N3NQRDlZREd2Z1pXZlVmNzBCM05neW5Nem1RYTdBSUZxSUtTUC04RmpwMXItSVlpUQ?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
     "published": "2026-07-29T07:00:00+00:00",
-    "summary": "FDA Approves First Ophthalmic Treatment for Wet AMD Leading Wainwright to Triple Price Target streetwisereports.com",
+    "summary": "FDA Approves First Ophthalmic Treatment for Wet AMD Leading Wainwright to Triple Price Target Streetwise Reports",
     "image_url": null,
     "tags": [],
     "industries": [
