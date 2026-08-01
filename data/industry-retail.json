@@ -13,7 +13,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 51
+    "relevance_score": 47
   },
   {
     "id": "bf0e7cf2bad7",
@@ -47,7 +47,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 39
+    "relevance_score": 35
   },
   {
     "id": "79421637f8e1",
@@ -65,6 +65,27 @@
       "financial"
     ],
     "relevance_score": 30
+  },
+  {
+    "id": "4ad0ed9b6717",
+    "title": "The Verge’s 2026 back-to-school shopping guide",
+    "url": "https://www.theverge.com/gadgets/968645/back-to-school-shopping-guide-gifts",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-08-01T14:00:00+00:00",
+    "summary": "Knowing exactly what your student needs for the school year ahead is next to impossible. Sure, you'll probably nail the essentials, but there will likely be a few items you forgot to buy, or didn't think they'd need to have. We're pulling our weight during the back-to-school...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/268641_Back-to-school_gift_guide_CVirginia2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Gadgets",
+      "Gift Guides",
+      "Tech",
+      "Verge Shopping"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 17
   },
   {
     "id": "4c0d09bed6fe",
@@ -86,27 +107,6 @@
       "retail"
     ],
     "relevance_score": 16
-  },
-  {
-    "id": "bbf0fe0dd631",
-    "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
-    "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-31T14:00:00+00:00",
-    "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face —...",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198164456.jpg?resize=1200,801",
-    "tags": [
-      "AI",
-      "Startups",
-      "Anthropic",
-      "Equity podcast",
-      "Hugging Face"
-    ],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 15
   },
   {
     "id": "bc137ab1c937",
@@ -156,6 +156,27 @@
     "relevance_score": 15
   },
   {
+    "id": "bbf0fe0dd631",
+    "title": "AI labs want to pump the brakes, but Amazon and SpaceX are still blasting off",
+    "url": "https://techcrunch.com/podcast/ai-labs-want-to-pump-the-brakes-but-amazon-and-spacex-are-still-blasting-off/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-31T14:00:00+00:00",
+    "summary": "After years of pushing full speed ahead on AI, OpenAI CEO Sam Altman says maybe it’s time for the AI industry to “pace” itself. The comments came just days after one of OpenAI’s own models broke out of its test environment and got tangled up in a breach at Hugging Face —...",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/02/GettyImages-2198164456.jpg?resize=1200,801",
+    "tags": [
+      "AI",
+      "Startups",
+      "Anthropic",
+      "Equity podcast",
+      "Hugging Face"
+    ],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 13
+  },
+  {
     "id": "4393c7e8bfb9",
     "title": "Amazon Prime Day details elusive as AWS takes centerstage",
     "url": "https://www.retaildive.com/news/amazon-prime-day-details-aws-Q2/826694/",
@@ -169,23 +190,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "c35a5c33cfd8",
-    "title": "NRF finds shoplifting stabilizing as online fraud grows",
-    "url": "https://www.retaildive.com/news/nrf-shoplifting-stabilizing-online-gift-card-fraud-grows/826710/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-07-31T16:01:00+00:00",
-    "summary": "Phone and gift card scams, plus supply chain vulnerabilities like cargo theft, are top concerns for loss prevention specialists at over 60 major retailers, according to a report Thursday.",
-    "image_url": "https://imgproxy.divecdn.com/DV--YxUhoCXT7QnP9zSpA_GxfLTKQAW67ZrjcuOX2tc/g:nowe:5:106/c:584:330/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Mb3NzX3ByZXZlbnRpb25fVGFyZ2V0LmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "b51a58672076",
@@ -218,6 +223,22 @@
     "published": "2026-07-31T12:28:00+00:00",
     "summary": "A notice from the Health Resources & Services Administration sidelines covered entities' attestations of substantial administrative burden and sets the mulligan program into motion, targeting a Jan. 1 start and 25 potentially eligible products.",
     "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1359565827.jpg?VersionId=klSEpyRjvGWgNFky6eyAIUFh2Z6prxtg",
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "c35a5c33cfd8",
+    "title": "NRF finds shoplifting stabilizing as online fraud grows",
+    "url": "https://www.retaildive.com/news/nrf-shoplifting-stabilizing-online-gift-card-fraud-grows/826710/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-07-31T16:01:00+00:00",
+    "summary": "Phone and gift card scams, plus supply chain vulnerabilities like cargo theft, are top concerns for loss prevention specialists at over 60 major retailers, according to a report Thursday.",
+    "image_url": "https://imgproxy.divecdn.com/DV--YxUhoCXT7QnP9zSpA_GxfLTKQAW67ZrjcuOX2tc/g:nowe:5:106/c:584:330/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Mb3NzX3ByZXZlbnRpb25fVGFyZ2V0LmpwZw==.webp",
     "tags": [],
     "industries": [
       "retail",
@@ -273,38 +294,6 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 10
-  },
-  {
-    "id": "69d20e3b5921",
-    "title": "MobileMoney Fintech targets wider digital payments as Ghana's cashless economy gathers pace - Tech Review Africa",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYTkxTkdGZUJCd1FFLVdnQ1lXUnhuXzRLWnFRVDB0ZWdSSFNSR2NNVEV6cHRpc29pQ0RpVlhicGttMDY4Wm1BR21xRnFTZE5QUEZzTmZrWWZoeUtwVkhOUHJMeVJDN3Z0ZmNUVVJEVnBVLXE2UnFvNUVrMjU4UTBtbTA1QzJuNndPUkhET2ZocXhwN2pFdmNwOHpUaDJINFlJaGt3akpoYlBqamFrUm9PcWc5aXBVQW8xR3ZYS1JGZTE1MTNXVjJlOA?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-08-01T10:47:31+00:00",
-    "summary": "MobileMoney Fintech targets wider digital payments as Ghana's cashless economy gathers pace Tech Review Africa",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "61b3422800d4",
-    "title": "New Jersey bans dynamic pricing",
-    "url": "https://www.retaildive.com/news/new-jersey-bans-dynamic-pricing/826563/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-07-30T16:31:00+00:00",
-    "summary": "The legislation also puts a one-year pause on the new adoption of electronic shelf labels by retailers while the state studies the tech.",
-    "image_url": "https://imgproxy.divecdn.com/YPminNixZ-Bcb71fEC1wtD3bkUJjZ6xqUMjRHypN86I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbGVjdHJvbmljX3NoZWxmX2xhYmVsX3dhbG1hcnQuanBn.webp",
-    "tags": [],
-    "industries": [
-      "retail"
-    ],
     "relevance_score": 9
   },
   {
@@ -323,6 +312,38 @@
     "relevance_score": 9
   },
   {
+    "id": "69d20e3b5921",
+    "title": "MobileMoney Fintech targets wider digital payments as Ghana's cashless economy gathers pace - techreviewafrica.com",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOYTkxTkdGZUJCd1FFLVdnQ1lXUnhuXzRLWnFRVDB0ZWdSSFNSR2NNVEV6cHRpc29pQ0RpVlhicGttMDY4Wm1BR21xRnFTZE5QUEZzTmZrWWZoeUtwVkhOUHJMeVJDN3Z0ZmNUVVJEVnBVLXE2UnFvNUVrMjU4UTBtbTA1QzJuNndPUkhET2ZocXhwN2pFdmNwOHpUaDJINFlJaGt3akpoYlBqamFrUm9PcWc5aXBVQW8xR3ZYS1JGZTE1MTNXVjJlOA?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-08-01T10:47:31+00:00",
+    "summary": "MobileMoney Fintech targets wider digital payments as Ghana's cashless economy gathers pace techreviewafrica.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "61b3422800d4",
+    "title": "New Jersey bans dynamic pricing",
+    "url": "https://www.retaildive.com/news/new-jersey-bans-dynamic-pricing/826563/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-07-30T16:31:00+00:00",
+    "summary": "The legislation also puts a one-year pause on the new adoption of electronic shelf labels by retailers while the state studies the tech.",
+    "image_url": "https://imgproxy.divecdn.com/YPminNixZ-Bcb71fEC1wtD3bkUJjZ6xqUMjRHypN86I/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9lbGVjdHJvbmljX3NoZWxmX2xhYmVsX3dhbG1hcnQuanBn.webp",
+    "tags": [],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "32e446b75529",
     "title": "July 2026 in Oncology: A Look Back at FDA Approvals and Decisions - Targeted Oncology",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMWFGOFNDYm5nU1hHSklka2cySllkOGxBdUIyMkdsdWpKTDI0UGNmbzM3VlRySTlNQWh6cGdNQkQ4RkhwVW1sR2pCUkJHWG1sT3JoMExFNW4zQVp4dXMtSy1VTkpoektTcHd5MHlzZnlIWFl0MTFvWHdFT1Jwd1laRU5vc3JfT1BvVGltNUtmdGFrbFVxV1hCNWR4c013dw?oc=5",
@@ -338,40 +359,39 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 9
+    "relevance_score": 8
   },
   {
-    "id": "794ddd77b934",
-    "title": "Wall Street ends higher as Amazon soothes AI jitters - Virginia Business",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPWDhTNkwzd3BtdUllNkVma3ZVem1QWW1zdVR3Wkc0bjVBUnp0WjVRNTE4TjQ4cjVNSnIzYjlGMHdua01jakUxa24zQml4UFJTTWRWc1gwanpDN2NuaC15cmw2QTNBNEY5NEN4UTdLSHU2LUMxNEJSYjlURG05bkFPVktVNS0tVjRL?oc=5",
+    "id": "b26647fb27c1",
+    "title": "Wall Street ends higher as Amazon soothes AI jitters - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQdXM2OW82ZTlzUGZjWFdRTG9lbm9RWlBPaTR6czltYi1LSE5xZXE1YzFtOXB2ZF81U0gzaklsWDJaaWl3WG5rNWI3dk5QT3lsM1R4OHBfSmZZd3J6ZFcwSGR0aXoyZ3VZSkREdDFEZVJvSlpHcVVhdTZWdkttMDlvYmhxZk9nVHZVRkZUaXVfU0hMMUNMc1Y3Q08zX1VGVzR1ME04YThtaEpjTjloekZXZVpEQTE?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-07-31T21:13:28+00:00",
-    "summary": "Wall Street ends higher as Amazon soothes AI jitters Virginia Business",
+    "published": "2026-07-31T23:29:32+00:00",
+    "summary": "Wall Street ends higher as Amazon soothes AI jitters Reuters",
     "image_url": null,
     "tags": [],
     "industries": [
       "retail",
       "financial"
     ],
-    "relevance_score": 9
+    "relevance_score": 8
   },
   {
-    "id": "15fd4805cabd",
-    "title": "Digital Health Index Targets Rural Care Gaps - Telehealth.org",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxPQWlwb0I5eWdqNzgwRHlyaXhzWFh0bWtnQkZlQWliSEV0cXM3NHdaSE5PVnhwNktJd3pfZkN2Mm9mVGtYVnhORUZQLVpoZ0VodTgtTEN5WWFNRnJjdXB6WDhOYVpIekRsWTlRNkh6YjhHbFllVzh1Y1Vrd1BNS2ltRU8xNGRpVjhfTUdnRHFLdw?oc=5",
+    "id": "ec1163a97f1b",
+    "title": "B.well launches CMS aligned network with health systems, tech companies - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPbkp5M3ZZalpUS2JadHVLS09qOGdUeVRMQlhsNGhVcjNNZkNTNVduNm1nMDY5SWk2TmV1N2N6N2NCNE1scHNNS1BicVpmSlJGRzI3cnFzZU0yUkwwelEyUjladkFZdWZmTUNVNEh4d0V2MVpuam55RE9CalJEMVJ6Uy03UkhZbnk5NVBQQnBTel9oUl9ZbjlPNkNzRUZGU05LanYyYURVMlNJZ0VrbUNCQmJ2ZWNLWkRsb3BaYlVST0VaMmcw?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-07-28T08:00:00+00:00",
-    "summary": "Digital Health Index Targets Rural Care Gaps Telehealth.org",
+    "published": "2026-07-30T19:11:25+00:00",
+    "summary": "B.well launches CMS aligned network with health systems, tech companies TechTarget",
     "image_url": null,
     "tags": [],
     "industries": [
       "retail",
-      "industrial",
-      "lifesciences"
+      "industrial"
     ],
-    "relevance_score": 5
+    "relevance_score": 7
   },
   {
     "id": "f720c0d8859d",
