@@ -19,7 +19,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 63
+    "relevance_score": 60
   },
   {
     "id": "ed957da9fe6a",
@@ -38,7 +38,7 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 52
+    "relevance_score": 49
   },
   {
     "id": "09c162a9da9c",
@@ -57,44 +57,38 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 52
+    "relevance_score": 49
   },
   {
-    "id": "4dcccff532c6",
-    "title": "‘Spider-Man: Brand New Day’ Tops ‘Avengers: Endgame’ For Biggest Box Office Debut Ever",
-    "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/03/spider-man-brand-new-day-tops-avengers-endgame-for-biggest-box-office-debut-ever/",
-    "source": "Forbes Business",
+    "id": "375fb53d27a4",
+    "title": "Domino’s pays diners to beta test its relaunched app, website",
+    "url": "https://www.marketingdive.com/news/dominos-pays-diners-to-beta-test-its-relaunched-website-app/826846/",
+    "source": "Marketing Dive",
     "source_category": "marketing",
-    "published": "2026-08-03T16:19:19+00:00",
-    "summary": "The newest “Spider-Man” film grossed an estimated $932 million worldwide—falling short only to a record set by “Avengers: Endgame.”",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a6f7b6185129877973d9c2d/0x0.jpg?width=960",
-    "tags": [
-      "Breaking News",
-      "/news",
-      "Business",
-      "/business",
-      "Breaking News"
-    ],
+    "published": "2026-08-03T18:04:00+00:00",
+    "summary": "The pizza chain’s new campaign encourage consumers to leave feedback about its updated digital ordering experience.",
+    "image_url": "https://imgproxy.divecdn.com/BHmXh37pd4L82S-a_nr2eei1--DQ9g9Rp-QQ-BwPhVs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CZXRhVGVzdGVyX1BSX0ltYWdlc18yLmpwZw==.webp",
+    "tags": [],
     "industries": [
-      "consumer",
+      "tech",
       "industrial"
     ],
-    "relevance_score": 51
+    "relevance_score": 49
   },
   {
     "id": "a21082e29eef",
-    "title": "Agentic AI Will Make the CMO’s Role More Consequential - Yale School of Management",
+    "title": "Agentic AI Will Make the CMO’s Role More Consequential - som.yale.edu",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQjB2c3p6N1pyanV1Z0tfUkx2bEJCTEZic1VYOGE4djNKZTZLT1dKZmNDUFRqaDJoNENtZnlEelpMRnoxcElBSV9VTHM4LXR1MUNaR0RuZHF6R01Zb0VJWU52QzFBbUNGdVVRSDFIcXZGV0ZtcGFoT2dtU2xab0xKNGdxdlRJTDgx?oc=5",
     "source": "Agentic Marketing",
     "source_category": "ai_marketing",
     "published": "2026-08-03T14:31:23+00:00",
-    "summary": "Agentic AI Will Make the CMO’s Role More Consequential Yale School of Management",
+    "summary": "Agentic AI Will Make the CMO’s Role More Consequential som.yale.edu",
     "image_url": null,
     "tags": [],
     "industries": [
       "industrial"
     ],
-    "relevance_score": 50
+    "relevance_score": 47
   },
   {
     "id": "1e2a7077b778",
@@ -109,6 +103,27 @@
       "ADWEEK Advantage",
       "Creative Advertising",
       "Creativity x Culture",
+      "Premium"
+    ],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 46
+  },
+  {
+    "id": "929d0880960d",
+    "title": "Jazzercise Taps Super Nice to Ride the Nostalgia Wave Back to Relevance",
+    "url": "https://www.adweek.com/agencies/jazzercise-taps-super-nice-to-ride-the-nostalgia-wave-back-to-relevance/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-08-03T15:06:28+00:00",
+    "summary": "The 57 year-old fitness brand wants to bring in the next generation while staying true to its core",
+    "image_url": null,
+    "tags": [
+      "Accounts",
+      "Agencies",
+      "Health and Wellness",
       "Premium"
     ],
     "industries": [
@@ -153,24 +168,10 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 45
-  },
-  {
-    "id": "fcce74034ff3",
-    "title": "Digital Brands Group considers sale, merger",
-    "url": "https://www.retaildive.com/news/digital-brands-group-strategic-review-sale-merger/826813/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-08-03T15:09:00+00:00",
-    "summary": "The apparel conglomerate is undergoing a strategic review and has retained financial advisers.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 43
+    "relevance_score": 42,
+    "also_covered_by": [
+      "Forbes Business"
+    ]
   },
   {
     "id": "63ce5ace0805",
@@ -206,6 +207,23 @@
       "industrial"
     ],
     "relevance_score": 41
+  },
+  {
+    "id": "fcce74034ff3",
+    "title": "Digital Brands Group considers sale, merger",
+    "url": "https://www.retaildive.com/news/digital-brands-group-strategic-review-sale-merger/826813/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-08-03T15:09:00+00:00",
+    "summary": "The apparel conglomerate is undergoing a strategic review and has retained financial advisers.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 40
   },
   {
     "id": "aeee59df0a5a",
@@ -481,21 +499,6 @@
     "relevance_score": 24
   },
   {
-    "id": "a32857b2db10",
-    "title": "Constant AI Names Kristin Evans VP of Marketing as Agentic AI Expands from Conversation to Regulated Transactions - EIN News",
-    "url": "https://news.google.com/rss/articles/CBMi6wFBVV95cUxORVA1WTFHWEpQTHptZlJVaWxIWHBlZlNlMkJ5NUpEMmhGTVBkbUc0MjZfWnlGblBwOXE3UXlESVN2N1VuZkpVQnp4M1plZHk4T3VodVZ6U1pTcGEwWTl1a0ZNZl9adTJLS090S1BPRk9wRDRGdzN4QTduTkhvbzdlSG1wcE1keUZ4azVjaV8yN3BHWkVSaFdzOUp4c0NKVUZkdnBUTHA0VWdTOW1yNjV0bGhoN0xvazhEdjVvRldIaFRtbk9YeGQ4R0ctdEg2SkpJZUdDeW51Z28yM19Uc2JHOGsyclFGZEZta3ZV?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-07-31T13:30:00+00:00",
-    "summary": "Constant AI Names Kristin Evans VP of Marketing as Agentic AI Expands from Conversation to Regulated Transactions EIN News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 23
-  },
-  {
     "id": "ef005a4fc3a2",
     "title": "Creator and influencer trends brand marketers need to know about right now - Ad Age",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQMjZiOFVNbDBtVVFsUlJkWWtmRWpua2Nsd2V0aWFZYzFLUm1yaXZkcmEyREZDVFVwdXlMbF9hUE9NZHRnNjlQUWw4Wm9tY0tIMGlETlZYYW9iNF9aQW15dWpYb2JYZEFac1BmQ0RRZ2RQX05HX3lLMU82TjVlQzdzT2RsdklDSVVDRzZSRnAtM0lsYVk?oc=5",
@@ -510,49 +513,6 @@
       "industrial"
     ],
     "relevance_score": 20
-  },
-  {
-    "id": "06efeeefd5fa",
-    "title": "Saylor’s Strategy Dumps $100 Million In Bitcoin As Crypto’s Struggles Persist",
-    "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/03/saylors-strategy-dumps-100-million-in-bitcoin-as-cryptos-struggles-persist/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-03T14:10:44+00:00",
-    "summary": "The bitcoin treasury firm still holds over 800,000 bitcoin, which it purchased at an average price higher than what the cryptocurrency is currently worth.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a70a1450332095a8bea1331/0x0.jpg?width=960",
-    "tags": [
-      "Breaking News",
-      "/news",
-      "Business",
-      "/business",
-      "Breaking News"
-    ],
-    "industries": [
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 18
-  },
-  {
-    "id": "338ff336d112",
-    "title": "Microsoft is bringing Xbox 360 games to PC",
-    "url": "https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-08-03T16:31:35+00:00",
-    "summary": "Building on its recently announced plans to bring original Xbox games to PC, Microsoft is also planning to let developers bring their Xbox 360 games to PC as well, according to a leaked document, seen by The Verge, that was sent to developers recently. Xbox 360 games will be...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832866/STK048_XBOX_2_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Entertainment",
-      "Gaming",
-      "News",
-      "Xbox"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 18
   },
   {
     "id": "c7532b2a8480",
@@ -577,65 +537,22 @@
     "relevance_score": 17
   },
   {
-    "id": "adf74c4d752a",
-    "title": "Alibaba Unveils Qwen3.8-Max Model—China’s Latest AI Challenger To OpenAI And Anthropic",
-    "url": "https://www.forbes.com/sites/tylerroush/2026/08/03/alibaba-unveils-qwen38-max-model-chinas-latest-ai-challenger-to-openai-and-anthropic/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-03T14:09:32+00:00",
-    "summary": "The Chinese tech giant hailed its model as its “most capable.”",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a70a0f5a909ad833a0b79da/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 17,
-    "also_covered_by": [
-      "The Verge"
-    ]
-  },
-  {
-    "id": "b257783a343d",
-    "title": "Samsung’s 2TB 9100 Pro SSD is actually somewhat reasonably priced",
-    "url": "https://www.theverge.com/gadgets/974391/samsung-nvme-ssd-2tb-steelseries-arctis-omni-pixel-10a-deal-sale",
+    "id": "338ff336d112",
+    "title": "Microsoft is bringing Xbox 360 games to PC",
+    "url": "https://www.theverge.com/games/974544/microsoft-xbox-360-games-pc-disc-digital-program",
     "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-08-03T14:16:13+00:00",
-    "summary": "Next to buying RAM, finding a fast, high-capacity NVMe SSD at a reasonable price has been a challenge during RAMageddon. I don’t want to say it’s getting easier, but one of Samsung’s latest SSDs is cheaper than it has sold for since February 2026. That’s something, right?...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/9100.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "published": "2026-08-03T16:31:35+00:00",
+    "summary": "Building on its recently announced plans to bring original Xbox games to PC, Microsoft is also planning to let developers bring their Xbox 360 games to PC as well, according to a leaked document, seen by The Verge, that was sent to developers recently. Xbox 360 games will be...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25832866/STK048_XBOX_2_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
     "tags": [
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
+      "Entertainment",
+      "Gaming",
+      "News",
+      "Xbox"
     ],
     "industries": [
-      "industrial"
-    ],
-    "relevance_score": 17
-  },
-  {
-    "id": "be286101c1ac",
-    "title": "Todd Blanche Wins Key Confirmation Holdouts—But Questions Over Trump’s $1.8 Billion Fund Linger",
-    "url": "https://www.forbes.com/sites/alisondurkee/2026/08/03/todd-blanche-wins-key-confirmation-holdouts-but-questions-over-trumps-18-billion-fund-linger/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-03T14:57:47+00:00",
-    "summary": "The agreement notes it can only be modified if both Trump and his government agree to it.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a6b666865592ce19070e8ad/0x0.jpg?width=960&precrop=2583%2C1454%2Cx0%2Cy0",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [
+      "tech",
       "industrial"
     ],
     "relevance_score": 17
@@ -662,6 +579,51 @@
     "relevance_score": 17
   },
   {
+    "id": "3f08d262e7dd",
+    "title": "Apple finally fixed Siri. So why does it feel anticlimactic?",
+    "url": "https://techcrunch.com/2026/08/03/apple-finally-fixed-siri-so-why-does-it-feel-anticlimactic/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-08-03T18:43:43+00:00",
+    "summary": "Apple’s long-awaited AI overhaul finally makes Siri the assistant it was always supposed to be. But after years of delays, the launch lands in an AI landscape where chatbots have evolved into agents that can code, reason, create media, and complete complex tasks. Siri AI is...",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Screenshot-2026-06-08-at-1.42.13-PM.png?w=808",
+    "tags": [
+      "AI",
+      "Apps",
+      "TC",
+      "Apple",
+      "siri"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "02d4493b5227",
+    "title": "BTS Ties The Biggest Rapper On The Charts With A New No. 1",
+    "url": "https://www.forbes.com/sites/hughmcintyre/2026/08/03/bts-ties-the-biggest-rapper-on-the-charts-with-a-new-no-1/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-03T19:00:00+00:00",
+    "summary": "BTS ties Drake for the third-most No. 1s in the history of Billboard's Digital Song Sales chart as \"Normal\" returns in the top spot.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6499e83221f4fac5535d4176/0x0.jpg?width=960",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
     "id": "88906821f326",
     "title": "Agentic Marketers: Bayer, Zoom, and More Reveal Their Biggest AI Wins",
     "url": "https://www.adweek.com/brand-marketing/agentic-marketers-bayer-zoom-and-more-reveal-their-biggest-ai-wins/",
@@ -681,10 +643,90 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 16,
-    "also_covered_by": [
-      "Agentic Marketing"
-    ]
+    "relevance_score": 16
+  },
+  {
+    "id": "b257783a343d",
+    "title": "Samsung’s 2TB 9100 Pro SSD is actually somewhat reasonably priced",
+    "url": "https://www.theverge.com/gadgets/974391/samsung-nvme-ssd-2tb-steelseries-arctis-omni-pixel-10a-deal-sale",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-08-03T14:16:13+00:00",
+    "summary": "Next to buying RAM, finding a fast, high-capacity NVMe SSD at a reasonable price has been a challenge during RAMageddon. I don’t want to say it’s getting easier, but one of Samsung’s latest SSDs is cheaper than it has sold for since February 2026. That’s something, right?...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/9100.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "0bec04eadcce",
+    "title": "Venus And Serena Williams Get Wildcard Into Cincinnati Open",
+    "url": "https://www.forbes.com/sites/adamzagoria/2026/08/03/venus--serena-williams-get-wildcard-into-cincinnati-open/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-03T17:12:36+00:00",
+    "summary": "The sisters are also expected to potentially play at the U.S. Open later this month, Jon Wertheim of Tennis Channel reported last month.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/687e57bc72aca17e2569eb03/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "5abbf462b38a",
+    "title": "Trump Reportedly Considers Firing Jeanine Pirro Over Reflecting Pool—Says She ‘Choked’",
+    "url": "https://www.forbes.com/sites/conormurray/2026/08/03/trump-reportedly-considers-firing-jeanine-pirro-over-reflecting-pool-says-she-choked/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-03T19:15:55+00:00",
+    "summary": "President Donald Trump told reporters Monday afternoon that U.S. Attorney for the District of Columbia Jeanine Pirro “choked” and “folded like an umbrella” by dropping Reflecting Pool vandalism charges.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a70e82616dbfbf0a2fefba0/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "963e428a1ce8",
+    "title": "Education’s McMahon Asks All U.S. Colleges For Trump-Approved Reform Commitments By Year’s End",
+    "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/03/educations-mcmahon-asks-all-us-colleges-for-trump-approved-reform-commitments-by-years-end/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-03T19:20:40+00:00",
+    "summary": "The education secretary did not threaten to withhold federal research funding from universities, but asked them to provide “full transparency” on a number of Trump-administration priorities.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a70e89705d35267f61d7aa1/0x0.jpg?width=960",
+    "tags": [
+      "Breaking News",
+      "/news",
+      "Business",
+      "/business",
+      "Breaking News"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 16
   },
   {
     "id": "6d5218ed201b",
@@ -750,20 +792,20 @@
     "relevance_score": 15
   },
   {
-    "id": "80245f4983b0",
-    "title": "Manufacturing's Next Competitive Edge Is The System Not The Product",
-    "url": "https://www.forbes.com/sites/lisacaldwell/2026/08/03/manufacturings-next-competitive-edge-is-the-system-not-the-product/",
+    "id": "856bb190848b",
+    "title": "My Chemical Romance Manages A First In The Band’s Decades-Long History",
+    "url": "https://www.forbes.com/sites/hughmcintyre/2026/08/03/my-chemical-romance-manages-a-first-in-the-bands-decades-long-history/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-08-03T14:00:00+00:00",
-    "summary": "For decades, manufacturers have competed by building better products. Today, the real advantage lies how they source, build, secure, and staff in an unpredictable world.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a676c7a03035cf218d47a1d/0x0.jpg",
+    "published": "2026-08-03T17:15:00+00:00",
+    "summary": "My Chemical Romance's 'The Black Parade' has now lived on the Billboard 200 for 150 weeks, which marks a first for the band on the biggest albums chart in America.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a6e3a0371cb0278aab450fa/0x0.jpg?width=960&precrop=2598%2C1461%2Cx0%2Cy710",
     "tags": [
-      "Manufacturing",
-      "/manufacturing",
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
       "Business",
       "/business",
-      "Manufacturing"
+      "Hollywood & Entertainment"
     ],
     "industries": [
       "industrial"
@@ -771,20 +813,20 @@
     "relevance_score": 15
   },
   {
-    "id": "37c21184d3f9",
-    "title": "Phillies Expected To Move Bryce Harper Amid Trade Deadline Blockbuster Flurry",
-    "url": "https://www.forbes.com/sites/peterchawaga/2026/08/03/phillies-expected-to-move-bryce-harper-amid-trade-deadline-blockbuster-flurry/",
+    "id": "9f3af2215489",
+    "title": "Beyond The Trophy: How BTS And Global Artists Redefined Grammy History",
+    "url": "https://www.forbes.com/sites/desjahaltvater/2026/08/03/beyond-the-trophy-bts-and-the-artists-who-shaped-grammy-history/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-08-03T14:28:53+00:00",
-    "summary": "The Philadelphia Phillies are planning to move the franchise slugger shortly after a blockbuster trade added a new infielder.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69deeb17a4ee7d7e72e0d058/0x0.jpg?width=960&precrop=2471%2C1388%2Cx0%2Cy0",
+    "published": "2026-08-03T17:47:55+00:00",
+    "summary": "BTS’s Grammy decision continues a decades-long conversation as artists from Sinéad O’Connor to The Weeknd challenge music’s biggest awards institution.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a70d431dd8e10a229a24d80/0x0.jpg?width=960&precrop=3051%2C1715%2Cx0%2Cy266",
     "tags": [
-      "SportsMoney",
-      "/sportsmoney",
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
       "Business",
       "/business",
-      "SportsMoney"
+      "Hollywood & Entertainment"
     ],
     "industries": [
       "industrial"
@@ -792,94 +834,14 @@
     "relevance_score": 15
   },
   {
-    "id": "4294d210b94c",
-    "title": "‘Wrong Guy At The Wrong Time’: Why Markwayne Mullin Faces MAGA Uproar",
-    "url": "https://www.forbes.com/sites/saradorn/2026/08/03/wrong-guy-at-the-wrong-time-why-markwayne-mullin-faces-maga-uproar/",
+    "id": "9f6e637fa6ae",
+    "title": "Drake Mounts A Huge Chart Comeback After Future’s Songs Disappear",
+    "url": "https://www.forbes.com/sites/hughmcintyre/2026/08/03/drake-mounts-a-huge-chart-comeback-after-futures-songs-disappear/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-08-03T14:46:15+00:00",
-    "summary": "Mullin suggested in a speech over the weekend he supports an expansion of permanent immigrant work visas.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a70a8a6d373f9479af17e88/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "c038452eaecd",
-    "title": "Ariana Grande Says She 'Cannot Wait' For Chicago Shows After Announcing Hiatus Over 'Endless' Scrutiny",
-    "url": "https://www.forbes.com/sites/conormurray/2026/08/03/ariana-grande-says-she-cannot-wait-for-chicago-shows-after-announcing-hiatus-over-endless-scrutiny/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-03T15:15:58+00:00",
-    "summary": "Ariana Grande said she “cannot wait” to take the stage in Chicago on Monday night, one day after she dropped out of a London musical and said she would step back from visibility.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a70b07e8ff8043d1e13103b/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "cce7efa1212f",
-    "title": "Amazon to add supply chain facilities in New York, Texas",
-    "url": "https://www.retaildive.com/news/amazon-adds-supply-chain-facilities-new-york-texas/826447/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-08-03T15:20:00+00:00",
-    "summary": "The e-commerce giant is in the early stages of building a distribution center in the Lone Star State while prepping a Long Island operations site.",
-    "image_url": "https://imgproxy.divecdn.com/_lo4Jyn4hP_7AXjBy7qDasW8uZcnxCCPAnvBjkYc64o/g:nowe:168:2016/c:5382:3041/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9MaW5lX0hhdWxfYXRfRFMuanBn.webp",
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "6911d92371e8",
-    "title": "FC Barcelona Star Ferran Torres Breaks Silence On Possible PSG Move",
-    "url": "https://www.forbes.com/sites/tomsanderson/2026/08/03/fc-barcelona-star-ferran-torres-breaks-silence-on-possible-psg-move/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-03T15:27:48+00:00",
-    "summary": "FC Barcelona star Ferran Torres has broken his silence regarding a possible summer transfer to the Catalans' European rival Paris Saint-Germain.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a70b148a07f89bd69ed9739/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "8f79d2596943",
-    "title": "R.E.M. Earns Its First Hit On One Billboard Chart",
-    "url": "https://www.forbes.com/sites/hughmcintyre/2026/08/03/rem-earns-its-first-hit-on-one-billboard-chart/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-03T15:45:00+00:00",
-    "summary": "R.E.M. scores its first appearance on the Billboard Global Excl. U.S. as \"Losing My Religion\" debuts at No. 186 decades after it became the band's biggest hit.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a6e2ba2ce9aff6ac6aca72c/0x0.jpg?width=960",
+    "published": "2026-08-03T18:00:00+00:00",
+    "summary": "Several of Drake's recent hits and a longtime fan favorite return to multiple Billboard charts after Future's latest wins begin to disappear.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/65132d595f9e83742fc2b2d7/0x0.jpg?width=960&precrop=2034%2C1144%2Cx0%2Cy91",
     "tags": [
       "Hollywood & Entertainment",
       "/hollywood-entertainment",
@@ -894,79 +856,62 @@
     "relevance_score": 15
   },
   {
-    "id": "8d8aa9401659",
-    "title": "D+ Research: Marketers navigate a changing CTV landscape",
-    "url": "https://digiday.com/future-of-tv/d-research-marketers-navigate-a-changing-ctv-landscape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-08-03T04:01:00+00:00",
-    "summary": "As CTV matures, the streaming ad industry is entering a period of change.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/10/tv-subs-digiday.jpg",
-    "tags": [
-      "Future of TV",
-      "Digiday+"
-    ],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "09cf17eb199a",
-    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
-    "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-08-03T10:00:00+00:00",
-    "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/June-Headshots-7740.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Venture",
-      "Exclusive"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "db12c84632b7",
-    "title": "People Are Ghosting Long-Term Partners. Some Don’t Regret It",
-    "url": "https://www.wired.com/story/people-are-ghosting-long-term-partners-some-dont-regret-it/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-08-03T11:00:00+00:00",
-    "summary": "The communication-free form of breaking up has become ubiquitous. “I no longer had to bear her energy,” a man who ghosted his partner of four years tells WIRED.",
-    "image_url": "https://media.wired.com/photos/6a6a92958d680985ebc8f082/master/pass/Chief-Breakup-Officer-and-Ghosting-Epidemic-Culture.jpg",
-    "tags": [
-      "Culture",
-      "Culture / Digital Culture",
-      "Social Media",
-      "mental health",
-      "online dating"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "86ce9cd795f7",
-    "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
-    "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+    "id": "17cca23a6da3",
+    "title": "Trump’s AI protectionism has come for robotics",
+    "url": "https://www.technologyreview.com/2026/08/03/1141056/trumps-ai-protectionism-has-come-for-robotics/",
     "source": "MIT Technology Review",
     "source_category": "ai",
-    "published": "2026-08-03T12:08:00+00:00",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to...",
+    "published": "2026-08-03T18:43:30+00:00",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. Humanoid robots usually elicit more cringe than awe: They stumble, kick children, and despite advances are still worse at using their...",
     "image_url": null,
     "tags": [
-      "The Download"
+      "Artificial intelligence",
+      "App",
+      "artificial intelligence",
+      "The Algorithm"
     ],
     "industries": [
       "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "4f2cd9589906",
+    "title": "More Than A Medal: How X Games League Changed The Way Athletes Compete",
+    "url": "https://www.forbes.com/sites/michellebruton/2026/08/03/more-than-a-medal-how-x-games-league-changed-the-way-athletes-compete/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-03T19:56:02+00:00",
+    "summary": "X Games League's first season saw previously independent action sports athletes compete as part of a team. Eventual champion XC New York athletes embraced the change.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a70eb0ee3bc6cb83c665ae5/0x0.jpg?width=960&precrop=1200%2C675%2Cx0%2Cy0",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "4f7ba0173228",
+    "title": "China’s Alibaba takes another swipe at America’s AI supremacy",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/974342/alibaba-qwen-max-open-weight-ai",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-08-03T11:01:11+00:00",
+    "summary": "Chinese tech giant Alibaba released what it says is its largest and \"most capable AI model to date,\" claiming performance rivaling the best systems from US frontier labs Anthropic and OpenAI, as well as domestic rivals like Moonshot AI's Kimi K3. Alibaba said it was making...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2266883826.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.737892056687%2C100%2C78.524215886627&amp;w=1200",
+    "tags": [
+      "AI",
+      "News",
+      "Tech"
+    ],
+    "industries": [
       "industrial"
     ],
     "relevance_score": 14
@@ -988,25 +933,162 @@
     "relevance_score": 14
   },
   {
-    "id": "5199a57d900f",
-    "title": "We Built RLHF. Now We’re Living In An Era Of RHLCF — If We Use It Right.",
-    "url": "https://www.forbes.com/sites/forbesbooksauthors/2026/08/03/we-built-rlhf-now-were-living-in-an-era-of-rhlcf---if-we-use-it-right/",
+    "id": "c038452eaecd",
+    "title": "Ariana Grande Says She 'Cannot Wait' For Chicago Shows After Announcing Hiatus Over 'Endless' Scrutiny",
+    "url": "https://www.forbes.com/sites/conormurray/2026/08/03/ariana-grande-says-she-cannot-wait-for-chicago-shows-after-announcing-hiatus-over-endless-scrutiny/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-08-03T14:43:48+00:00",
-    "summary": "RHLCF or Reinforcement Human Learning from Computer Feedback is the next step of workplace evolution in the age of AI.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a70a82ddd8e10a229a24d70/0x0.jpg",
+    "published": "2026-08-03T15:15:58+00:00",
+    "summary": "Ariana Grande said she “cannot wait” to take the stage in Chicago on Monday night, one day after she dropped out of a London musical and said she would step back from visibility.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a70b07e8ff8043d1e13103b/0x0.jpg?width=960",
     "tags": [
       "Business",
       "/business",
       "Business",
       "/business",
-      "business"
+      "Breaking"
     ],
     "industries": [
       "industrial"
     ],
     "relevance_score": 14
+  },
+  {
+    "id": "cce7efa1212f",
+    "title": "Amazon to add supply chain facilities in New York, Texas",
+    "url": "https://www.retaildive.com/news/amazon-adds-supply-chain-facilities-new-york-texas/826447/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-08-03T15:20:00+00:00",
+    "summary": "The e-commerce giant is in the early stages of building a distribution center in the Lone Star State while prepping a Long Island operations site.",
+    "image_url": "https://imgproxy.divecdn.com/_lo4Jyn4hP_7AXjBy7qDasW8uZcnxCCPAnvBjkYc64o/g:nowe:168:2016/c:5382:3041/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9MaW5lX0hhdWxfYXRfRFMuanBn.webp",
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "6911d92371e8",
+    "title": "FC Barcelona Star Ferran Torres Breaks Silence On Possible PSG Move",
+    "url": "https://www.forbes.com/sites/tomsanderson/2026/08/03/fc-barcelona-star-ferran-torres-breaks-silence-on-possible-psg-move/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-03T15:27:48+00:00",
+    "summary": "FC Barcelona star Ferran Torres has broken his silence regarding a possible summer transfer to the Catalans' European rival Paris Saint-Germain.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a70b148a07f89bd69ed9739/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "8f79d2596943",
+    "title": "R.E.M. Earns Its First Hit On One Billboard Chart",
+    "url": "https://www.forbes.com/sites/hughmcintyre/2026/08/03/rem-earns-its-first-hit-on-one-billboard-chart/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-03T15:45:00+00:00",
+    "summary": "R.E.M. scores its first appearance on the Billboard Global Excl. U.S. as \"Losing My Religion\" debuts at No. 186 decades after it became the band's biggest hit.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a6e2ba2ce9aff6ac6aca72c/0x0.jpg?width=960",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "8d8aa9401659",
+    "title": "D+ Research: Marketers navigate a changing CTV landscape",
+    "url": "https://digiday.com/future-of-tv/d-research-marketers-navigate-a-changing-ctv-landscape/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-08-03T04:01:00+00:00",
+    "summary": "As CTV matures, the streaming ad industry is entering a period of change.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/10/tv-subs-digiday.jpg",
+    "tags": [
+      "Future of TV",
+      "Digiday+"
+    ],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "09cf17eb199a",
+    "title": "A Marc Benioff-backed startup thinks AI can solve the AI deployment problem",
+    "url": "https://techcrunch.com/2026/08/03/a-marc-benioff-backed-startup-thinks-ai-can-solve-the-ai-deployment-problem/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-08-03T10:00:00+00:00",
+    "summary": "June emerged from stealth today with a $20 million pre-seed round to make AI adoption simpler.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/June-Headshots-7740.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Venture",
+      "Exclusive"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "db12c84632b7",
+    "title": "People Are Ghosting Long-Term Partners. Some Don’t Regret It",
+    "url": "https://www.wired.com/story/people-are-ghosting-long-term-partners-some-dont-regret-it/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-08-03T11:00:00+00:00",
+    "summary": "The communication-free form of breaking up has become ubiquitous. “I no longer had to bear her energy,” a man who ghosted his partner of four years tells WIRED.",
+    "image_url": "https://media.wired.com/photos/6a6a92958d680985ebc8f082/master/pass/Chief-Breakup-Officer-and-Ghosting-Epidemic-Culture.jpg",
+    "tags": [
+      "Culture",
+      "Culture / Digital Culture",
+      "Social Media",
+      "mental health",
+      "online dating"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "86ce9cd795f7",
+    "title": "The Download: reward hacking explained, and suspected Iranian cyberattacks",
+    "url": "https://www.technologyreview.com/2026/08/03/1141039/the-download-reward-hacking-water-cyberattacks/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-08-03T12:08:00+00:00",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Here’s why AI agents lie and cheat to reach their goals When two OpenAI models hacked into Hugging Face last month, they weren’t trying to...",
+    "image_url": null,
+    "tags": [
+      "The Download"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 13
   },
   {
     "id": "2b702fed5e4a",
@@ -1022,27 +1104,6 @@
       "industrial",
       "lifesciences",
       "financial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "07c09cd5cda0",
-    "title": "Valvoline Coupons and Promo Codes for August 2026",
-    "url": "https://www.wired.com/story/valvoline-coupons/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-08-01T05:00:00+00:00",
-    "summary": "We've gathered all the top Valvoline coupons and promo codes for August 2026, including deals on full synthetic oil changes and other essential maintenance.",
-    "image_url": "https://media.wired.com/photos/67b63b93a01a8e23b64ce24a/master/pass/WIRED-Coupons-R2_4.png",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ],
-    "industries": [
-      "industrial"
     ],
     "relevance_score": 12
   },
@@ -1069,13 +1130,13 @@
     "relevance_score": 12
   },
   {
-    "id": "258f2764808d",
-    "title": "How TikTok Is Building the Future of Agentic AI for Advertising - adweek.com",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTUs5MUdkazhJSjNCdWgxQm9RaHR1ZE1pc2s1SHpuTHpIOVNRVW1WZGUzVjM0djZsUlNtUGF5RTY2NExDOHZtSFpicXN1Ni1Ha1NnQVh1LUJGVzhVRGVIVVVNd1VoaGladEV0TFBkeXhzcFhjU0pndW0zWXdOUVNOR3JCdmFmcnNKdHMxUnRSTkJ3a2pfdS1kOU9TOHAtUQ?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-08-03T15:37:34+00:00",
-    "summary": "How TikTok Is Building the Future of Agentic AI for Advertising adweek.com",
+    "id": "9c7e6dad47e6",
+    "title": "What’s powering the next era of local advertising: Live from Locality Cafe - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOVUYyTnlNMnEzazlJeVkxanRjYTl6UVVPSlViUmk3RjRSX2pSb3B3MUV3QzRYSE9MdHFkcUtPa0FYZG5PNjdtaVJXLUVRRm9abFlOaW02eHh1a2lrRHlncDk4YURkY2JVaHRZRzBoYV9aQlRNYjRUaFVmamZYalVGX1U5aE5ia0gwb3FqelhSdHBfU1NvYWhXdERR?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-08-03T18:00:00+00:00",
+    "summary": "What’s powering the next era of local advertising: Live from Locality Cafe Ad Age",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1134,27 +1195,6 @@
     "relevance_score": 11
   },
   {
-    "id": "025855eb9f0e",
-    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
-    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-31T19:47:28+00:00",
-    "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-12.31.10-PM.png?resize=1200,670",
-    "tags": [
-      "AI",
-      "Google",
-      "google earth",
-      "In Brief"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
     "id": "317cdc3de195",
     "title": "OpenAI reportedly finds evidence that more of its agents ran amok",
     "url": "https://techcrunch.com/2026/07/31/openai-reportedly-finds-evidence-that-more-of-its-agents-ran-amok/",
@@ -1196,24 +1236,6 @@
     "relevance_score": 11
   },
   {
-    "id": "a0346b62f5aa",
-    "title": "Stop graphing everything: When GraphRAG actually beats vector RAG",
-    "url": "https://venturebeat.com/orchestration/stop-graphing-everything-when-graphrag-actually-beats-vector-rag",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-08-02T19:00:00+00:00",
-    "summary": "If you have built anything with retrieval-augmented generation (RAG) in the last two years, you have lived its central frustration: You chop your documents into chunks, embed them, retrieve the top few that look similar to the question, and hand them to the model. For “What...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1rpZMHeHr7IpMu9cqSzhdV/1c782495f70f8718047ff5ce0e6f1e3c/u7277289442_A_modern_interpretation_of_cybersecurity._Sleek.__5f8b2e68-6dd7-4e68-b47f-83af6a37b067_0.png?w=300&q=30",
-    "tags": [
-      "Orchestration",
-      "DataDecisionMakers"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
     "id": "cb42f87ef174",
     "title": "How NTT DATA AIVista closes the last mile of agentic AI for enterprise agents",
     "url": "https://venturebeat.com/orchestration/how-ntt-data-aivista-closes-the-last-mile-of-agentic-ai-for-enterprise-agents",
@@ -1247,33 +1269,17 @@
     "relevance_score": 11
   },
   {
-    "id": "078f9cf6ec7b",
-    "title": "Martin wins Subway’s creative account after pitching one idea in the final meeting - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT2Exdk1jQWZXZl9HUHB6Qk9PZ2RTNEJ2RjBYdFZRa0IxYVU3RVR6b3NjUmkxS18xNkY3Z2xITnc4MFBmbVpwSlBFVHhpM2lySER6ZWJuZXpCTTRkN3FIdWZQRzFOdGwxdmMzSnJ1cnQwZ0kzRGNnWDJza21uUTNPR0d2Z2RWeWx0ZWc?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-08-03T10:05:00+00:00",
-    "summary": "Martin wins Subway’s creative account after pitching one idea in the final meeting Ad Age",
+    "id": "258f2764808d",
+    "title": "How TikTok Is Building the Future of Agentic AI for Advertising - ADWEEK",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNTUs5MUdkazhJSjNCdWgxQm9RaHR1ZE1pc2s1SHpuTHpIOVNRVW1WZGUzVjM0djZsUlNtUGF5RTY2NExDOHZtSFpicXN1Ni1Ha1NnQVh1LUJGVzhVRGVIVVVNd1VoaGladEV0TFBkeXhzcFhjU0pndW0zWXdOUVNOR3JCdmFmcnNKdHMxUnRSTkJ3a2pfdS1kOU9TOHAtUQ?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-08-03T15:37:34+00:00",
+    "summary": "How TikTok Is Building the Future of Agentic AI for Advertising ADWEEK",
     "image_url": null,
     "tags": [],
     "industries": [
       "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "2e0e121f6cbb",
-    "title": "Government to introduce Bill to bar charges on notified digital payments, will entail tax changes across key sectors - ANI News",
-    "url": "https://news.google.com/rss/articles/CBMi-gFBVV95cUxQNVVXbERhNmRtYW5TNTNDTF9oWWxmelV0cThDT3RZUnpCcG51MG94RVduMXBTa0Z6Z1ZLclNzQzFONUhsWTFOS0MtalRYMkVVcjJSaGtQUkU3ckhpSmphQTFMNXpVQnFmVVRlcEItSEw5TjdCUUctcTBNdUluME1raC1vNWZiQkJTaWlPTldna2xLZkhVeVlxTXNjWlZaU3liSGVXUlhGNUZ4X1czcjc5MjBiRXVDZE5pWUxabjBQLWVLd1AtRHpvTlFZWTBxbUtkOTlzUmdiUGpMb19PWThiMFZaTnNyTUhzNWtVdGFQbEVfWGpHakN3MXlB?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-08-03T17:14:00+00:00",
-    "summary": "Government to introduce Bill to bar charges on notified digital payments, will entail tax changes across key sectors ANI News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "financial"
     ],
     "relevance_score": 11
   },
@@ -1385,6 +1391,27 @@
     "relevance_score": 10
   },
   {
+    "id": "025855eb9f0e",
+    "title": "Google nixes its Earth AI feature one day after launch, amid criticism it would spread misinformation",
+    "url": "https://techcrunch.com/2026/07/31/google-nixes-its-earth-ai-feature-one-day-after-launch-amid-criticism-it-would-spread-misinformation/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-07-31T19:47:28+00:00",
+    "summary": "A tool that allowed anyone to generate fake AI-generated imagery and superimpose it over real Google Earth maps quickly spurred backlash.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/Screenshot-2026-07-31-at-12.31.10-PM.png?resize=1200,670",
+    "tags": [
+      "AI",
+      "Google",
+      "google earth",
+      "In Brief"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "6895bd8e36c1",
     "title": "India is starting to pay for apps, not just download them",
     "url": "https://techcrunch.com/2026/07/31/india-is-starting-to-pay-for-apps-not-just-download-them/",
@@ -1399,46 +1426,6 @@
       "app market",
       "ChatGPT",
       "Claude"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "5f500551f75d",
-    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
-    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-08-01T19:45:45+00:00",
-    "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1040458588.jpg?w=1024",
-    "tags": [
-      "AI",
-      "Media & Entertainment",
-      "hank green"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "ae4e2aba061a",
-    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
-    "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-08-01T20:26:04+00:00",
-    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Government & Policy",
-      "SpaceX",
-      "xAI"
     ],
     "industries": [
       "tech",
@@ -1489,17 +1476,19 @@
     "relevance_score": 10
   },
   {
-    "id": "45f57d239ca3",
-    "title": "End of the Legendary 19 Yuan 200G Data SIM Card? Telecom Operators Fully Discontinue the Service – Are Mobile Data Fees About to Rise Sharply? - 36Kr",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wLUJPZ0dLVHBfMGo0T2xVZGdTbFk1YVdrZUUtNkg2dWVFUEFKcGxFdld1enpkMTQtRWNIel94TldnUlBpc01YRy1hX2xLMGFvVExV?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-08-03T04:52:33+00:00",
-    "summary": "End of the Legendary 19 Yuan 200G Data SIM Card? Telecom Operators Fully Discontinue the Service – Are Mobile Data Fees About to Rise Sharply? 36Kr",
-    "image_url": null,
-    "tags": [],
+    "id": "a0346b62f5aa",
+    "title": "Stop graphing everything: When GraphRAG actually beats vector RAG",
+    "url": "https://venturebeat.com/orchestration/stop-graphing-everything-when-graphrag-actually-beats-vector-rag",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-08-02T19:00:00+00:00",
+    "summary": "If you have built anything with retrieval-augmented generation (RAG) in the last two years, you have lived its central frustration: You chop your documents into chunks, embed them, retrieve the top few that look similar to the question, and hand them to the model. For “What...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/1rpZMHeHr7IpMu9cqSzhdV/1c782495f70f8718047ff5ce0e6f1e3c/u7277289442_A_modern_interpretation_of_cybersecurity._Sleek.__5f8b2e68-6dd7-4e68-b47f-83af6a37b067_0.png?w=300&q=30",
+    "tags": [
+      "Orchestration",
+      "DataDecisionMakers"
+    ],
     "industries": [
-      "telecom",
       "industrial"
     ],
     "relevance_score": 10
@@ -1520,99 +1509,51 @@
     "relevance_score": 10
   },
   {
-    "id": "e3fc2e735542",
-    "title": "Achieve Life Sciences Appoints Ronald Dadino and Gloria Cosgrove to Lead CMC, Supply Chain, and Quality - GlobeNewswire",
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNNzdpck04WVB6dWFkSlk3ZGZCM0hVYnpUQjNsNzhnOXVpRFRfT3ZDTVdORWJYTF93a29mcHl5UDhWRUthSXdxaFFPakVNN0pBWkZWUndlRnFqMF9mbTJoc1N5Tkl2MHQxa3JCWmYxelNDSkZ5eTFyLTcyV0swV2hYalUyMXlvbE53cDJxcUFoYW9GZVRNVmpnT2NFMXk1NTlwR2dERkRRbEhrb091NklEVkpnR0lBYmYxdG00c0liVXo1Z0g0cVFpSmxTOWsxSUNZTFpBaEhEeHJGUXpDYUVzOF8xNnB2YlRtbDYweVdqQjhBRDVQeXRwZURmQ1dGUnJaVEtn?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-03T12:30:00+00:00",
-    "summary": "Achieve Life Sciences Appoints Ronald Dadino and Gloria Cosgrove to Lead CMC, Supply Chain, and Quality GlobeNewswire",
+    "id": "078f9cf6ec7b",
+    "title": "Martin wins Subway’s creative account after pitching one idea in the final meeting - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxPT2Exdk1jQWZXZl9HUHB6Qk9PZ2RTNEJ2RjBYdFZRa0IxYVU3RVR6b3NjUmkxS18xNkY3Z2xITnc4MFBmbVpwSlBFVHhpM2lySER6ZWJuZXpCTTRkN3FIdWZQRzFOdGwxdmMzSnJ1cnQwZ0kzRGNnWDJza21uUTNPR0d2Z2RWeWx0ZWc?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-08-03T10:05:00+00:00",
+    "summary": "Martin wins Subway’s creative account after pitching one idea in the final meeting Ad Age",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "7e173bdd4c1e",
+    "title": "Government to introduce Bill to bar charges on notified digital payments, will entail tax changes across key sectors - indiagazette.com",
+    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPd29XZlFySjJCTG92QzZZMVpaVEtlQVhqWUV5SkVfYk0zMl81Y1V6aHhzNE9kVzlGa3RWLXdabUhBc1dDLWs1T3F1andzbGV4akx2RVlXUkt6UmJ6OVJIN0pQRXBhYWtIbHVqdmdCWEUxMFhzUVpxLTRXemN5dlB1NVZyenNIN2RYeGJ5WlpMOTFsTkM1MXhhdnU5M2o2NXNiSjhzTzhRb1ZFSjJjc0V6a212NHI0NGVaLW0zZnkwNWsyVUdyZkZfT0RwN0xtRDg3ekxYNGxZMUJ0ek5DOXBiaW4zajEwbmlVUkhXdGw2dzM?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-08-03T15:28:00+00:00",
+    "summary": "Government to introduce Bill to bar charges on notified digital payments, will entail tax changes across key sectors indiagazette.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "faabf5d8886c",
+    "title": "Digital readiness in healthcare begins with data readiness - Health Data Management",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxONVZYOUxxRkVnaG85QXMtRGQ4ejhPaFBxMzd4V1I4VDBXQVJzYUlraTJVTGN4N2JGR2g4MlEwZ0xuSmRyc09RYkdkbWRLUHNQYmhDc0lVWEhQa2xkUGowNEhWU0tSc29UODBEUzNwRGpLaF9vSVdXcjNPZF9rVTZ0TDJvYTdzRGhUT0dyMUNyZG1lYXZUV2NxTmN3LW85a1VXU25HR3Rjcw?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-03T20:49:41+00:00",
+    "summary": "Digital readiness in healthcare begins with data readiness Health Data Management",
+    "image_url": null,
+    "tags": [],
+    "industries": [
       "industrial",
       "lifesciences"
     ],
     "relevance_score": 10
-  },
-  {
-    "id": "ae037fccfd0b",
-    "title": "Georgia is a digital payments hub. Is anyone still using checks? - AJC.com",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeWZrbEdKczhnY2pTYzVqQ1VhQlhUZmxURi1WcW5lLXJSRjZqVFVkeTBReUlCcC1UQ0hRbEpOYmJjUmhma1pUbWVXRnhuVjg2ZTJ0MnYtVk8xLTNKc240Y2ZOalpPb3lsS21HX0JtUXFTV0xoTjVjYS1Lbmg0VTMtSjF0UktuNmZtdXZuTkN5N0NmclBjODkyWU4zUGdVQ1A5QXc?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-08-03T14:26:42+00:00",
-    "summary": "Georgia is a digital payments hub. Is anyone still using checks? AJC.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "e8a34c65a9a9",
-    "title": "Research links industrial pollution to health risks in Louisiana - Virginia Tech News",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOFZRTTRBaE1MOXM1QTFPUVdqNDZPQ1VFZmdNZVNJeUtGLTVMWkhtZVhzMl91YVhpRzdEX2hkSUt5Y0FMbHFIQS1pbERWSXIxaXoyS3dDQ3ducVgtVkNHMkJ3SUw3b0RNaGk1bmRraERsY2VpVDZMbkRsZFppVFY1VldIdmNyRGt6ZkhIZXpQSTE2eWRfUkR0WHNDQS0?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-03T15:33:45+00:00",
-    "summary": "Research links industrial pollution to health risks in Louisiana Virginia Tech News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "7c6569a39592",
-    "title": "Advancing CV Equity: From Digital Access to Lifespan Care - American College of Cardiology",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMzNXdmJTT3lWZ2liQjN2a2dyUGY3NG9naGpRUG9LUnZjbXlVeFljVnhlX0d2X0RlM1BwUDVHOUJoU2IzZUIzNUxOcWNRVVB1dUFYTHdXclA0MjQ2aFBWS2g1T0NZaHdSc0dsMkloUVZla2wyakFzaS1neGt6cEdKZVFWWmJ4aEcxdEF2Vk1CRkdNd1FuMGc?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-03T15:51:27+00:00",
-    "summary": "Advancing CV Equity: From Digital Access to Lifespan Care American College of Cardiology",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "cb3332232416",
-    "title": "An AstraZeneca-Bristol Myers megamerger? Wall Street isn’t thrilled. - BioPharma Dive",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSTQ1MU1pb3VocXBSMmw5aTg2a2RXYmswZHMyakRSX1RTN2xCemtIVG1FTHJ2YzBBRThJV2lJUUVDYXJxQWZWWnJxQ2dpYjFUNXkwb0lDRFhFTW1kNy1idURzdW1pWDJZclBiNl9COXh4MEtnRHBDa1JkS3d0R3E4SkFMV016b1BRdUlaamZneUFZSjNkU2RlbkZHTkU0WUN1b0t0bDVn?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-08-03T16:29:12+00:00",
-    "summary": "An AstraZeneca-Bristol Myers megamerger? Wall Street isn’t thrilled. BioPharma Dive",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "91a3eddb1cdf",
-    "title": "Salesforce Won a $1.6 Billion Federal AI Contract on Friday. Here's What It Says About Agentforce Demand. - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQOXRZbU40aDg4OXZkcFptWjhhdGxYWUNITXF0WjFPYWxLMHdfLW1fblVrQTVuSXFWdWhZdDhBZXhlZ1RhVXR4YlhPcktrdEJ6THhQS2pSNEZxRUFHY01wa294RG4xZld0OXBBanJNU012Q2RycDd4dTNmNmJtQVRTdHVsMmtTS3dQbnE4OHl4d2ZocVBUNzB2aA?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-07-27T20:09:00+00:00",
-    "summary": "Salesforce Won a $1.6 Billion Federal AI Contract on Friday. Here's What It Says About Agentforce Demand. The Motley Fool",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 9
   },
   {
     "id": "b398bfd914b2",
@@ -1645,28 +1586,6 @@
     "industries": [
       "industrial",
       "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "99a421bd1fdc",
-    "title": "AI hedge fund Situational Awareness may have sold its public portfolio, but it still has its Anthropic shares",
-    "url": "https://techcrunch.com/2026/07/30/ai-hedge-fund-situational-awareness-may-have-sold-its-public-portfolio-but-it-still-has-its-anthropic-shares/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-07-30T23:25:58+00:00",
-    "summary": "The former OpenAI researcher’s fund was forced to unwind public equities after leveraged public bets plummeted. But he still has cards to play.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/PM-Images.jpg?resize=1200,855",
-    "tags": [
-      "AI",
-      "Anthropic",
-      "hedge fund",
-      "Leverage",
-      "situational awareness"
-    ],
-    "industries": [
-      "industrial",
-      "financial"
     ],
     "relevance_score": 9
   },
@@ -1814,15 +1733,40 @@
     "relevance_score": 9
   },
   {
-    "id": "a15d3e25a8c7",
-    "title": "Here are Monday's biggest analyst calls: SpaceX, Nvidia, Tesla, Applied Materials, Circle, Corning, GE Vernova & more - cnbc.com",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOWlRNcTNraVN0Mk1nU01TOXZYdGdRZGY4Y052c1ZEYkJwZ1JQYU9JeHI0X0dsZjdaYzYzUDFlM3pUczEwTjFsRjVsbEo5RmljTmE1NEYxWEZjLXpEd18wNkw2N3V6TF9PbldjYUQ4cUZTUVhpMVRCRGdjVVdqTkxvZGRCbXV5ZlNwbXVpN2FR?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-08-03T12:29:31+00:00",
-    "summary": "Here are Monday's biggest analyst calls: SpaceX, Nvidia, Tesla, Applied Materials, Circle, Corning, GE Vernova & more cnbc.com",
-    "image_url": null,
-    "tags": [],
+    "id": "5f500551f75d",
+    "title": "YouTuber Hank Green says his AI usage is ‘not healthy’",
+    "url": "https://techcrunch.com/2026/08/01/youtuber-hank-green-says-his-ai-usage-is-not-healthy/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-08-01T19:45:45+00:00",
+    "summary": "Green offered a remarkable apology, saying that \"the level of dopamine that I've been getting from interacting with LLMs ... is not healthy for me or good for the world.\"",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/GettyImages-1040458588.jpg?w=1024",
+    "tags": [
+      "Media & Entertainment",
+      "AI",
+      "hank green"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "ae4e2aba061a",
+    "title": "Judge denies xAI’s request to block Minnesota ban on ‘nudify’ apps",
+    "url": "https://techcrunch.com/2026/08/01/judge-denies-xais-request-to-block-minnesota-ban-on-nudify-apps/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-08-01T20:26:04+00:00",
+    "summary": "Despite a lawsuit from xAI, a Minnesota ban on apps that allow users to “nudify” images can move forward.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2207699717.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Government & Policy",
+      "In Brief",
+      "SpaceX",
+      "xAI"
+    ],
     "industries": [
       "tech",
       "industrial"
@@ -1830,18 +1774,82 @@
     "relevance_score": 9
   },
   {
-    "id": "68d0847a129c",
-    "title": "Adobe Inc Agencies, 2023 - OpenSecrets",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOSEsxb195ZndOeFhsMWVnbHVmQTZMSTZpLUxpdFpGcmM1aUZGR3c1OWZ0bjgybjZHeHFvUkg3QXI3a1BvRVQwTlFraW5NTWNwWUNjMHMzZFpNRkUxeEJPU2tfcW82SUVIUFh1OXZzT1dLMUF3VC14WGFZbTB6RzFfUUhDRzJjU1JlTlRva25UeEdDV3RTOXV2ZS1YekR1ZVot?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-07-28T07:04:47+00:00",
-    "summary": "Adobe Inc Agencies, 2023 OpenSecrets",
+    "id": "45f57d239ca3",
+    "title": "End of the Legendary 19 Yuan 200G Data SIM Card? Telecom Operators Fully Discontinue the Service – Are Mobile Data Fees About to Rise Sharply? - 36 Kr",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE0wLUJPZ0dLVHBfMGo0T2xVZGdTbFk1YVdrZUUtNkg2dWVFUEFKcGxFdld1enpkMTQtRWNIel94TldnUlBpc01YRy1hX2xLMGFvVExV?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-08-03T04:52:33+00:00",
+    "summary": "End of the Legendary 19 Yuan 200G Data SIM Card? Telecom Operators Fully Discontinue the Service – Are Mobile Data Fees About to Rise Sharply? 36 Kr",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "telecom",
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "e3fc2e735542",
+    "title": "Achieve Life Sciences Appoints Ronald Dadino and Gloria Cosgrove to Lead CMC, Supply Chain, and Quality - GlobeNewswire",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxNNzdpck04WVB6dWFkSlk3ZGZCM0hVYnpUQjNsNzhnOXVpRFRfT3ZDTVdORWJYTF93a29mcHl5UDhWRUthSXdxaFFPakVNN0pBWkZWUndlRnFqMF9mbTJoc1N5Tkl2MHQxa3JCWmYxelNDSkZ5eTFyLTcyV0swV2hYalUyMXlvbE53cDJxcUFoYW9GZVRNVmpnT2NFMXk1NTlwR2dERkRRbEhrb091NklEVkpnR0lBYmYxdG00c0liVXo1Z0g0cVFpSmxTOWsxSUNZTFpBaEhEeHJGUXpDYUVzOF8xNnB2YlRtbDYweVdqQjhBRDVQeXRwZURmQ1dGUnJaVEtn?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-03T12:30:00+00:00",
+    "summary": "Achieve Life Sciences Appoints Ronald Dadino and Gloria Cosgrove to Lead CMC, Supply Chain, and Quality GlobeNewswire",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "ae037fccfd0b",
+    "title": "Georgia is a digital payments hub. Is anyone still using checks? - AJC.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOeWZrbEdKczhnY2pTYzVqQ1VhQlhUZmxURi1WcW5lLXJSRjZqVFVkeTBReUlCcC1UQ0hRbEpOYmJjUmhma1pUbWVXRnhuVjg2ZTJ0MnYtVk8xLTNKc240Y2ZOalpPb3lsS21HX0JtUXFTV0xoTjVjYS1Lbmg0VTMtSjF0UktuNmZtdXZuTkN5N0NmclBjODkyWU4zUGdVQ1A5QXc?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-08-03T14:26:42+00:00",
+    "summary": "Georgia is a digital payments hub. Is anyone still using checks? AJC.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "e8a34c65a9a9",
+    "title": "Research links industrial pollution to health risks in Louisiana - Virginia Tech News",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPOFZRTTRBaE1MOXM1QTFPUVdqNDZPQ1VFZmdNZVNJeUtGLTVMWkhtZVhzMl91YVhpRzdEX2hkSUt5Y0FMbHFIQS1pbERWSXIxaXoyS3dDQ3ducVgtVkNHMkJ3SUw3b0RNaGk1bmRraERsY2VpVDZMbkRsZFppVFY1VldIdmNyRGt6ZkhIZXpQSTE2eWRfUkR0WHNDQS0?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-03T15:42:07+00:00",
+    "summary": "Research links industrial pollution to health risks in Louisiana Virginia Tech News",
     "image_url": null,
     "tags": [],
     "industries": [
       "industrial"
     ],
-    "relevance_score": 8
+    "relevance_score": 9
+  },
+  {
+    "id": "7c6569a39592",
+    "title": "Advancing CV Equity: From Digital Access to Lifespan Care - American College of Cardiology",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPMzNXdmJTT3lWZ2liQjN2a2dyUGY3NG9naGpRUG9LUnZjbXlVeFljVnhlX0d2X0RlM1BwUDVHOUJoU2IzZUIzNUxOcWNRVVB1dUFYTHdXclA0MjQ2aFBWS2g1T0NZaHdSc0dsMkloUVZla2wyakFzaS1neGt6cEdKZVFWWmJ4aEcxdEF2Vk1CRkdNd1FuMGc?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-03T15:51:27+00:00",
+    "summary": "Advancing CV Equity: From Digital Access to Lifespan Care American College of Cardiology",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 9
   }
 ]
