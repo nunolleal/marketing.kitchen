@@ -14,7 +14,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 59
+    "relevance_score": 56
   },
   {
     "id": "9a8d20da5907",
@@ -54,7 +54,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 53
+    "relevance_score": 50
   },
   {
     "id": "f32a0f8ce3e2",
@@ -73,7 +73,7 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 53
+    "relevance_score": 50
   },
   {
     "id": "a70d083bdb69",
@@ -92,28 +92,6 @@
     ],
     "industries": [
       "consumer"
-    ],
-    "relevance_score": 52
-  },
-  {
-    "id": "d48fd128da49",
-    "title": "How Tracee Ellis Ross Built a Beauty Brand That Became a Cultural Movement",
-    "url": "https://www.adweek.com/brand-marketing/how-tracee-ellis-ross-built-a-beauty-brand-that-became-a-cultural-movement/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-08-07T10:53:14+00:00",
-    "summary": "The challenger beauty brand leveraged culture, comedy, and community insight.",
-    "image_url": null,
-    "tags": [
-      "Adspeak",
-      "Adweek Podcasts",
-      "C-Suite",
-      "Diversity, Equity and Inclusion",
-      "Health and Wellness"
-    ],
-    "industries": [
-      "consumer",
-      "industrial"
     ],
     "relevance_score": 49
   },
@@ -135,22 +113,23 @@
     "relevance_score": 48
   },
   {
-    "id": "05f78a9181c9",
-    "title": "Nielsen to Buy DoubleVerify For $2.15B Cash",
-    "url": "https://www.adweek.com/convergent-tv/nielsen-to-buy-doubleverify-for-215b-cash/",
-    "source": "Adweek",
+    "id": "8c12011cb7df",
+    "title": "Why Luxury Fashion Brand Akris Chooses Independence After One Hundred Years",
+    "url": "https://www.forbes.com/sites/pamdanziger/2026/08/07/why-luxury-fashion-brand-akris-chooses-independence-after-one-hundred-years/",
+    "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-08-06T18:25:25+00:00",
-    "summary": "Measurement giant Nielsen just got bigger: it’ll buy ad verification and brand safety provider DoubleVerify for $2.15B in cash.",
-    "image_url": null,
+    "published": "2026-08-07T16:58:08+00:00",
+    "summary": "In a luxury market dominated by consolidation, Akris proves that family ownership and faithful brand stewardship can outperform scale.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a7600688f3dbc73e170b3f6/0x0.jpg?width=960&precrop=1250%2C937%2Cx0%2Cy700",
     "tags": [
-      "Ad Tech Industry News",
-      "Dealroom",
-      "General"
+      "Retail",
+      "/retail",
+      "Business",
+      "/business",
+      "Retail"
     ],
     "industries": [
-      "consumer",
-      "industrial"
+      "consumer"
     ],
     "relevance_score": 48
   },
@@ -176,21 +155,24 @@
     "relevance_score": 47
   },
   {
-    "id": "d87fad5dba54",
-    "title": "Your favorite beauty brands are now also entertainment brands",
-    "url": "https://digiday.com/marketing/your-favorite-beauty-brands-are-now-also-entertainment-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
+    "id": "d48fd128da49",
+    "title": "How Tracee Ellis Ross Built a Beauty Brand That Became a Cultural Movement",
+    "url": "https://www.adweek.com/brand-marketing/how-tracee-ellis-ross-built-a-beauty-brand-that-became-a-cultural-movement/",
+    "source": "Adweek",
     "source_category": "marketing",
-    "published": "2026-08-07T04:01:00+00:00",
-    "summary": "Many of today’s beauty brands are asking if entertainment and advertising can be one and the same.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/04/monetize-online-digiday.jpg",
+    "published": "2026-08-07T10:53:14+00:00",
+    "summary": "The challenger beauty brand leveraged culture, comedy, and community insight.",
+    "image_url": null,
     "tags": [
-      "Marketing",
-      "syndicated"
+      "Adspeak",
+      "Adweek Podcasts",
+      "C-Suite",
+      "Diversity, Equity and Inclusion",
+      "Health and Wellness"
     ],
     "industries": [
-      "media",
-      "consumer"
+      "consumer",
+      "industrial"
     ],
     "relevance_score": 46
   },
@@ -208,6 +190,63 @@
       "consumer"
     ],
     "relevance_score": 45
+  },
+  {
+    "id": "05f78a9181c9",
+    "title": "Nielsen to Buy DoubleVerify For $2.15B Cash",
+    "url": "https://www.adweek.com/convergent-tv/nielsen-to-buy-doubleverify-for-215b-cash/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-08-06T18:25:25+00:00",
+    "summary": "Measurement giant Nielsen just got bigger: it’ll buy ad verification and brand safety provider DoubleVerify for $2.15B in cash.",
+    "image_url": null,
+    "tags": [
+      "Ad Tech Industry News",
+      "Dealroom",
+      "General"
+    ],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 44
+  },
+  {
+    "id": "d87fad5dba54",
+    "title": "Your favorite beauty brands are now also entertainment brands",
+    "url": "https://digiday.com/marketing/your-favorite-beauty-brands-are-now-also-entertainment-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-08-07T04:01:00+00:00",
+    "summary": "Many of today’s beauty brands are asking if entertainment and advertising can be one and the same.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/04/monetize-online-digiday.jpg",
+    "tags": [
+      "Marketing",
+      "syndicated"
+    ],
+    "industries": [
+      "media",
+      "consumer"
+    ],
+    "relevance_score": 43
+  },
+  {
+    "id": "4219462ff841",
+    "title": "Future of TV Briefing: Why Aéropostale is investing in creator-led episodic shows",
+    "url": "https://digiday.com/future-of-tv/future-of-tv-briefing-why-aeropostale-is-investing-in-creator-led-episodic-shows/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-08-05T04:01:00+00:00",
+    "summary": "This week’s Future of TV Briefing features a Q&A with Catalyst Brands evp and chief customer and marketing officer Marisa Thalberg about Aéropostale’s recent creator-led episodic series.",
+    "image_url": null,
+    "tags": [
+      "Future of TV",
+      "Digiday+"
+    ],
+    "industries": [
+      "consumer"
+    ],
+    "relevance_score": 42
   },
   {
     "id": "fae6d105a8c5",
@@ -229,24 +268,6 @@
       "tech",
       "consumer",
       "industrial"
-    ],
-    "relevance_score": 45
-  },
-  {
-    "id": "4219462ff841",
-    "title": "Future of TV Briefing: Why Aéropostale is investing in creator-led episodic shows",
-    "url": "https://digiday.com/future-of-tv/future-of-tv-briefing-why-aeropostale-is-investing-in-creator-led-episodic-shows/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-08-05T04:01:00+00:00",
-    "summary": "This week’s Future of TV Briefing features a Q&A with Catalyst Brands evp and chief customer and marketing officer Marisa Thalberg about Aéropostale’s recent creator-led episodic series.",
-    "image_url": null,
-    "tags": [
-      "Future of TV",
-      "Digiday+"
-    ],
-    "industries": [
-      "consumer"
     ],
     "relevance_score": 42
   },
@@ -300,30 +321,13 @@
     "relevance_score": 36
   },
   {
-    "id": "be26576c2569",
-    "title": "HCA Healthcare acquires 40 Texas urgent care centers",
-    "url": "https://www.fiercehealthcare.com/providers/hca-healthcare-acquires-40-texas-urgent-care-centers",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-04T12:18:00+00:00",
-    "summary": "The deal sees the facilities rebranded as CareNow sites, and many are being tied to the existing footprint of two affiliate systems.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-1029427612_larger.jpg?VersionId=9YOSkUMRQEYS2smZBI8INT64Ztv59DcT",
-    "tags": [],
-    "industries": [
-      "consumer",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 35
-  },
-  {
     "id": "e40b97c3d01c",
-    "title": "17 of the best social media analytics tools for your brand in 2026 - Sprout Social",
+    "title": "17 of the best social media analytics tools for your brand in 2026 - sproutsocial.com",
     "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zakd1ZkVXcm1nYWRPZHN1Wmxoc3o0M3l1cEVZR2ZuWHRjRVdvbUFCTzJWMTgtZW9PWlUwSFpjMjJ0ZV9jaFBaTlB1TDJmNldUa0ZXQzdkaXZFZ0Nqd0hNeWpDTFhHU3MwdUZodzV0Y07SAXZBVV95cUxORFRocmlObVkyVlVuSEpQY3VlblRad2FSa1ZCVUFyY3lLYkJYbE5lSnktdWdUNXFlYVAzOGRha0UxWVYxX1hwWkxHaDMzVTBiRXBiZkZ5c3hRcFJrZHBsbjkyekpTeDJPT1ZLamhnYjVYZ2dSYy13?oc=5",
     "source": "Social Media",
     "source_category": "marketing",
     "published": "2026-08-03T07:00:00+00:00",
-    "summary": "17 of the best social media analytics tools for your brand in 2026 Sprout Social",
+    "summary": "17 of the best social media analytics tools for your brand in 2026 sproutsocial.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -363,53 +367,16 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 29
-  },
-  {
-    "id": "68cf0b7adced",
-    "title": "Under Armour hits play on K-pop partnership",
-    "url": "https://www.retaildive.com/news/under-armour-hits-play-k-pop-boynextdoor-brand-partnership/827063/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-08-05T15:57:00+00:00",
-    "summary": "The company named BoyNextDoor as global brand ambassadors as it works on an Asia-Pacific rollout of its Bouncy Tee line.",
-    "image_url": "https://imgproxy.divecdn.com/uqS4lkBYadSbBGywmoAGHOnbNL1mLUL5UrUBAXVC6eY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9LVl9HUk9VUC5qcGc=.webp",
-    "tags": [],
-    "industries": [
-      "consumer"
-    ],
-    "relevance_score": 27
-  },
-  {
-    "id": "ddf8851b516e",
-    "title": "NBCU’s Peacock And YouTube Partner: Is Direct To Consumer Dead?",
-    "url": "https://www.forbes.com/sites/howardhomonoff/2026/08/07/nbcus-peacock-and-youtube-partner-is-direct-to-consumer-dead/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-07T14:52:11+00:00",
-    "summary": "NBCUniversal's new partnership with YouTube signals a continuing shift in media strategy, moving away from the standalone direct-to-consumer (DTC) model.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a75f0a10edf6f6c8650022f/0x0.jpg",
-    "tags": [
-      "Media",
-      "/media",
-      "Business",
-      "/business",
-      "Media"
-    ],
-    "industries": [
-      "media",
-      "consumer"
-    ],
-    "relevance_score": 16
+    "relevance_score": 26
   },
   {
     "id": "caba5050c096",
-    "title": "What does FDA's proposed DTC advertising rule mean for pharma? - pharmaphorum",
+    "title": "What does FDA's proposed DTC advertising rule mean for pharma? - pharmaphorum.com",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2t4MThEVVpsNm1Ock1vaGJIc3g1bDdVRzVSTUw3cV9tZWs1ckZjOWh6YlIxYVBGY1c3M0prcDF0UzJ1RDZNVzRFMmRMVGhWS21fZkR0MV9QbzVRY0NpRDlCMHhIcnlnUW5CRW5OLVBDSW1TMzY3Y2ZmN1JyTVVlYjYwR0lzRGF1bDVIRm95R1ZaeThwUnJIYjRSc1pkZw?oc=5",
     "source": "Pharma Marketing",
     "source_category": "industry_lifesciences",
     "published": "2026-08-04T18:04:35+00:00",
-    "summary": "What does FDA's proposed DTC advertising rule mean for pharma? pharmaphorum",
+    "summary": "What does FDA's proposed DTC advertising rule mean for pharma? pharmaphorum.com",
     "image_url": null,
     "tags": [],
     "industries": [
