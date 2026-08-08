@@ -1,5 +1,27 @@
 [
   {
+    "id": "fee9247e7fad",
+    "title": "Is this $450 laptop from an unknown brand too good to be true?",
+    "url": "https://www.theverge.com/tech/977031/chuwi-unibook-laptop-intel-wildcat-lake-review",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-08-08T12:00:00+00:00",
+    "summary": "Finding a good laptop under $500 was hard enough before RAMageddon. They nearly always had cheap hardware and underpowered, often outdated chips. That's what made the MacBook Neo so disruptive: It offered great build quality and good-enough performance starting at $599....",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268691_Chuwi_UniBook_laptop_review_ADiBenedetto_0015.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Gadgets",
+      "Laptop Reviews",
+      "Laptops",
+      "Microsoft",
+      "Reviews"
+    ],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 54
+  },
+  {
     "id": "33121a85d58a",
     "title": "‘Spider-Man: Brand New Day’ Projected To Make $135 Million-Plus At 2nd Weekend Box Office",
     "url": "https://www.forbes.com/sites/timlammers/2026/08/07/spider-man-brand-new-day-projected-to-make-135-million-plus-at-2nd-weekend-box-office/",
@@ -18,7 +40,7 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 54
+    "relevance_score": 51
   },
   {
     "id": "73369b645cb8",
@@ -114,22 +136,6 @@
     "relevance_score": 50
   },
   {
-    "id": "7bf315f9bce0",
-    "title": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity",
-    "url": "https://www.salesforce.com/blog/pacsun-customer-story/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-08-07T17:59:33+00:00",
-    "summary": "Pacsun has long been synonymous with the California lifestyle and an effortlessly cool aesthetic that blends surf, skate, and street culture. But for retailers targeting digitally-native, highly social Gen Z and Gen Alpha…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/Pacsun-customer-story-1.jpg",
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 43
-  },
-  {
     "id": "be694b7d9589",
     "title": "The Weekly Closeout: Activist comes for Ethan Allen’s board, Rhode delivers for Elf",
     "url": "https://www.retaildive.com/news/activist-investor-board-shakeup-ethan-allen-rhode-q1-canada-goose-baffin/827281/",
@@ -145,23 +151,20 @@
     "relevance_score": 45
   },
   {
-    "id": "f32a0f8ce3e2",
-    "title": "Personalization still falls short of customer expectations",
-    "url": "https://martech.org/personalization-still-falls-short-of-customer-expectations/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-08-07T12:17:00+00:00",
-    "summary": "Most brands recognize customers but don't understand their context. Learn what's keeping personalization from meeting rising customer expectations. The post Personalization still falls short of customer expectations appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/06/personal-impact-on-marketing-decisions-800x450.png",
-    "tags": [
-      "Customer experience",
-      "Optimization and personalization"
-    ],
+    "id": "7bf315f9bce0",
+    "title": "How Pacsun Wins Gen Z Customers: Agentic Commerce and Omnichannel Fluidity",
+    "url": "https://www.salesforce.com/blog/pacsun-customer-story/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-08-07T17:59:33+00:00",
+    "summary": "Pacsun has long been synonymous with the California lifestyle and an effortlessly cool aesthetic that blends surf, skate, and street culture. But for retailers targeting digitally-native, highly social Gen Z and Gen Alpha…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/Pacsun-customer-story-1.jpg",
+    "tags": [],
     "industries": [
-      "tech",
-      "consumer"
+      "retail",
+      "industrial"
     ],
-    "relevance_score": 47
+    "relevance_score": 40
   },
   {
     "id": "3919b91d225e",
@@ -201,6 +204,43 @@
     "relevance_score": 44
   },
   {
+    "id": "f32a0f8ce3e2",
+    "title": "Personalization still falls short of customer expectations",
+    "url": "https://martech.org/personalization-still-falls-short-of-customer-expectations/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-08-07T12:17:00+00:00",
+    "summary": "Most brands recognize customers but don't understand their context. Learn what's keeping personalization from meeting rising customer expectations. The post Personalization still falls short of customer expectations appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/06/personal-impact-on-marketing-decisions-800x450.png",
+    "tags": [
+      "Customer experience",
+      "Optimization and personalization"
+    ],
+    "industries": [
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 43
+  },
+  {
+    "id": "b530b9cac2ce",
+    "title": "Adobe Introduces Firefly Foundry to Support Custom AI Models for Enterprise Brand Consistency - The National Law Review",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS19TZ2lseFdsUl9MT0dwdHN2UkFxV250RHQ3WHRlRkZZN3JBdi1aME1oNnJFS2NNaUd6RUJjWW5qeFdaRTZacmpjYndMWEZBSFN0MFZwelJTUE1lQ2hFTWpPUFJLR3BNcXYxNmduRDVxQnRfQ19zbnRDYVJmQ3JqQ3RFRUZOMXpVSVpEdk9qOGlRSV80b0J1SlZNNHAyY2ROeTNsX1RJZktkZm1wRzk4NDg1emM?oc=5",
+    "source": "Adobe Products",
+    "source_category": "adobe",
+    "published": "2026-08-07T19:10:07+00:00",
+    "summary": "Adobe Introduces Firefly Foundry to Support Custom AI Models for Enterprise Brand Consistency The National Law Review",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "consumer"
+    ],
+    "relevance_score": 33,
+    "also_covered_by": [
+      "Adobe"
+    ]
+  },
+  {
     "id": "a70d083bdb69",
     "title": "Marketing Vanguard at Cannes: AI Is Becoming the Daily Job ft. Mark Kirkham of PepsiCo",
     "url": "https://www.adweek.com/brand-marketing/marketing-vanguard-at-cannes-ai-is-becoming-the-daily-job-ft-mark-kirkham-of-pepsico/",
@@ -218,47 +258,7 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 46
-  },
-  {
-    "id": "b530b9cac2ce",
-    "title": "Adobe Introduces Firefly Foundry to Support Custom AI Models for Enterprise Brand Consistency - The National Law Review",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQS19TZ2lseFdsUl9MT0dwdHN2UkFxV250RHQ3WHRlRkZZN3JBdi1aME1oNnJFS2NNaUd6RUJjWW5qeFdaRTZacmpjYndMWEZBSFN0MFZwelJTUE1lQ2hFTWpPUFJLR3BNcXYxNmduRDVxQnRfQ19zbnRDYVJmQ3JqQ3RFRUZOMXpVSVpEdk9qOGlRSV80b0J1SlZNNHAyY2ROeTNsX1RJZktkZm1wRzk4NDg1emM?oc=5",
-    "source": "Adobe Products",
-    "source_category": "adobe",
-    "published": "2026-08-07T19:10:07+00:00",
-    "summary": "Adobe Introduces Firefly Foundry to Support Custom AI Models for Enterprise Brand Consistency The National Law Review",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "consumer"
-    ],
-    "relevance_score": 36,
-    "also_covered_by": [
-      "Adobe"
-    ]
-  },
-  {
-    "id": "d48fd128da49",
-    "title": "How Tracee Ellis Ross Built a Beauty Brand That Became a Cultural Movement",
-    "url": "https://www.adweek.com/brand-marketing/how-tracee-ellis-ross-built-a-beauty-brand-that-became-a-cultural-movement/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-08-07T10:53:14+00:00",
-    "summary": "The challenger beauty brand leveraged culture, comedy, and community insight.",
-    "image_url": null,
-    "tags": [
-      "Adspeak",
-      "Adweek Podcasts",
-      "C-Suite",
-      "Diversity, Equity and Inclusion",
-      "Health and Wellness"
-    ],
-    "industries": [
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 43
+    "relevance_score": 42
   },
   {
     "id": "73aecabc2a94",
@@ -296,6 +296,28 @@
     "relevance_score": 45
   },
   {
+    "id": "d48fd128da49",
+    "title": "How Tracee Ellis Ross Built a Beauty Brand That Became a Cultural Movement",
+    "url": "https://www.adweek.com/brand-marketing/how-tracee-ellis-ross-built-a-beauty-brand-that-became-a-cultural-movement/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-08-07T10:53:14+00:00",
+    "summary": "The challenger beauty brand leveraged culture, comedy, and community insight.",
+    "image_url": null,
+    "tags": [
+      "Adspeak",
+      "Adweek Podcasts",
+      "C-Suite",
+      "Diversity, Equity and Inclusion",
+      "Health and Wellness"
+    ],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 39
+  },
+  {
     "id": "21efabb815bb",
     "title": "‘Remove the bucket brigade’: Adobe’s CMO on driving more effective teams - Marketing Week",
     "url": "https://news.google.com/rss/articles/CBMiZkFVX3lxTFBMdFY2NjBBWWNvdklCY1QwTkRBd3NJOW1SM3lNOWttVkx1eGJRS0lDdDNhVkxoTW9RQUFmSmNEVGJvc0pGckFrcW93ZGZkSlBpa2R5MGlNcEU5U1RydDRCWE0yX2Q4UQ?oc=5",
@@ -329,6 +351,132 @@
     "relevance_score": 46
   },
   {
+    "id": "3c65e2412ca4",
+    "title": "The Excellent HP OmniBook 5 Is $550 Off Its Retail Price Today",
+    "url": "https://www.wired.com/story/hp-omnibook-5-50-percent-off/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-08-08T11:34:00+00:00",
+    "summary": "My favorite budget laptop, the HP OmniBook 5, has an OLED screen and gets great battery life, despite being just $750 right now.",
+    "image_url": "https://media.wired.com/photos/6a757061b127f3f26cdccecc/master/pass/My-Favorite-Budget-Laptop-Is-50-Percent-Off-Its-Retail-Price.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "Gear / Products",
+      "Gear / Products / Computers",
+      "Shopping"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "d88a92b0780f",
+    "title": "‘Anna Pigeon’ Episode 1 Tracks Sheila Drury’s Real Killer And Lands On A Bigger Conspiracy",
+    "url": "https://www.forbes.com/sites/sabrinareed/2026/08/08/anna-pigeon-episode-1-tracks-sheila-drurys-real-killer-and-lands-on-a-bigger-conspiracy/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-08T11:00:00+00:00",
+    "summary": "Tracy Spiridakos' new show, Anna Pigeon, premieres with a murder that sets the stage for a season long stand-off between Anna and a wealthy landowner with a shady agenda.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a74e974a3270810cd92a713/0x0.jpg?width=960",
+    "tags": [
+      "Media",
+      "/media",
+      "Business",
+      "/business",
+      "Media"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "b54e08c9880f",
+    "title": "Oracle Stock Is One To Avoid In The Last Half Of 2026. Here's Why",
+    "url": "https://www.forbes.com/sites/investor-hub/article/oracle-stock-last-half-2026/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-08T10:30:00+00:00",
+    "summary": "Is Oracle stock a buy in the last half of 2026? Discover Oracle's current valuation metrics, risks and analyst price targets to determine if it is right for you.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a734ed1188d31b256def28d/0x0.jpg",
+    "tags": [
+      "Money",
+      "/money",
+      "Money",
+      "/money",
+      "Business"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "33e7e91af5c5",
+    "title": "The Agricultural And Environmental Toll Of Russia’s War In Ukraine",
+    "url": "https://www.forbes.com/sites/marktemnycky/2026/08/08/the-agricultural-and-environmental-toll-of-russias-war-in-ukraine/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-08T10:00:00+00:00",
+    "summary": "Russia’s ongoing full-scale invasion has damaged Ukraine’s agricultural sector and caused over $57 billion in environmental harm. Now, Ukraine is seeking accountability.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a738165c44b6581ee2c6698/0x0.jpg",
+    "tags": [
+      "Aerospace & Defense",
+      "/aerospace-defense",
+      "Business",
+      "/business",
+      "Aerospace & Defense"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "726d5f63662e",
+    "title": "Hairmax LaserBand 82 ComfortFlex Review: Putting Down New Roots",
+    "url": "https://www.wired.com/review/hairmax-laserband-82-comfortflex/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-08-08T09:31:00+00:00",
+    "summary": "Hairmax’s LaserBand 82 ComfortFlex took only 90 seconds per treatment, and it produced visible results along my widening part.",
+    "image_url": "https://media.wired.com/photos/6a7699d523a3ccec78db5ea6/master/pass/Review--Hairmax-LaserBand-82-ComfortFlex.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Reviews",
+      "Gear / Products / Beauty",
+      "Shopping",
+      "review"
+    ],
+    "industries": [],
+    "relevance_score": 17
+  },
+  {
+    "id": "53eb9b13e788",
+    "title": "Best Gaming Laptops (2026): Razer, Asus, Dell, and More",
+    "url": "https://www.wired.com/story/best-gaming-laptops/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-08-08T11:01:00+00:00",
+    "summary": "You don’t want any old gaming laptop. Here’s my take on which to get, based on hundreds of hours of testing.",
+    "image_url": "https://media.wired.com/photos/69e668fcab15b90f6c64db2c/master/pass/The-Best-Gaming-Laptops.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Products",
+      "Gear / Products / Computers",
+      "Gear / Buying Guides",
+      "laptops"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
     "id": "d87fad5dba54",
     "title": "Your favorite beauty brands are now also entertainment brands",
     "url": "https://digiday.com/marketing/your-favorite-beauty-brands-are-now-also-entertainment-brands/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -346,6 +494,102 @@
       "consumer"
     ],
     "relevance_score": 39
+  },
+  {
+    "id": "fd8c1d27b0bd",
+    "title": "Xteink X4 Pro Pocket E-Reader Review (2026): Fun but Limited",
+    "url": "https://www.wired.com/review/xteink-x4-pro-e-reader/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-08-08T10:36:00+00:00",
+    "summary": "Xteink’s new X4 Pro e-reader is its best yet, but the lack of an ebook store can be limiting.",
+    "image_url": "https://media.wired.com/photos/6a7697d0de0a40f999466696/master/pass/Review--Xteink-X4-Pro-E-Reader.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Reviews",
+      "Gear / Products / Home Office",
+      "Gear / Products / Tablets",
+      "e-books"
+    ],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "2ed4d4f0e27c",
+    "title": "Papa Johns changes CMOs, ramps up mass marketing amid struggles",
+    "url": "https://www.marketingdive.com/news/papa-johns-changes-cmo-role-ramps-up-mass-marketing-amid-struggles/827203/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-08-06T14:39:00+00:00",
+    "summary": "CMO Jenna Bromberg will depart as the chain appoints a global marketer and plans to rebalance its media mix and continue to invest in marketing co-ops.",
+    "image_url": "https://imgproxy.divecdn.com/vgcvuXSJ91hF77Hv14x0poSVadEu6A_c7msn_Ovm6J0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Ecml2ZXJfZXhpdGluZ19yZXN0YXVyYW50Xy1fQS5qcGVn.webp",
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 56
+  },
+  {
+    "id": "70210ca29cc5",
+    "title": "How to Disable Gemini in Gmail and Google Docs",
+    "url": "https://www.wired.com/story/how-to-disable-the-gemini-ai-features-in-gmail-and-google-docs/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-08-08T10:00:00+00:00",
+    "summary": "New AI toolbars and prompts are showing up in Google Docs and Gmail. If you don’t want Gemini’s help in writing documents and emails, here’s how to turn that stuff off.",
+    "image_url": "https://media.wired.com/photos/6a75b644a7eaec3ecd711279/master/pass/GoolgeNoAI.jpg",
+    "tags": [
+      "Gear",
+      "Gear / How To and Advice",
+      "how-to",
+      "tips",
+      "Change This Setting"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "e4906f055778",
+    "title": "Adobe brings 70+ creative tools to ChatGPT with new plugin - varindia.com",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOY2hLX3kzc3Q1QTNPQnQzNGl3TDlaZ1pGMlhDWWplZlBoeHpRZmRQWElxZFo3TmJHdXJzMUx5VzUzTmc0Rk53YXFlcFZ1Z2lDZDY0djJaUklzblRXMFhvNUNpR3BaUl9VQ2twRjR3VmRMdVl0d3FSd201VXRuY2I1eHVvV3JlZDZBcWZCY1NhMnI?oc=5",
+    "source": "Adobe Products",
+    "source_category": "adobe",
+    "published": "2026-08-08T12:03:31+00:00",
+    "summary": "Adobe brings 70+ creative tools to ChatGPT with new plugin varindia.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 15,
+    "also_covered_by": [
+      "Adobe"
+    ]
+  },
+  {
+    "id": "b82cd19915e6",
+    "title": "My favorite feel-good show is back",
+    "url": "https://www.theverge.com/tech/977084/ted-lasso-bose-tony-installer",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-08-08T12:00:00+00:00",
+    "summary": "Hi, friends! Welcome to Installer No. 139, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, barbecue sauce, and also you can read all the old editions at the Installer homepage.) This week, I've been reading about Johnny Knoxville and...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Installer-139.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "tags": [
+      "Apps",
+      "Gadgets",
+      "Installer",
+      "Tech"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
   },
   {
     "id": "8b98bbf6be2f",
@@ -366,24 +610,28 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
-    "id": "2ed4d4f0e27c",
-    "title": "Papa Johns changes CMOs, ramps up mass marketing amid struggles",
-    "url": "https://www.marketingdive.com/news/papa-johns-changes-cmo-role-ramps-up-mass-marketing-amid-struggles/827203/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-08-06T14:39:00+00:00",
-    "summary": "CMO Jenna Bromberg will depart as the chain appoints a global marketer and plans to rebalance its media mix and continue to invest in marketing co-ops.",
-    "image_url": "https://imgproxy.divecdn.com/vgcvuXSJ91hF77Hv14x0poSVadEu6A_c7msn_Ovm6J0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9Ecml2ZXJfZXhpdGluZ19yZXN0YXVyYW50Xy1fQS5qcGVn.webp",
-    "tags": [],
+    "id": "34140dbde501",
+    "title": "Flock’s Plans for Rideshare Dashcams and Coaching Police, Revealed",
+    "url": "https://www.wired.com/story/flocks-plans-for-rideshare-dashcams-and-coaching-police-revealed/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-08-08T10:30:00+00:00",
+    "summary": "Plus: A judge rules cell tower dumps unconstitutional, water utility hacks spread to a dozen states, a phishing email opens a missile-parts supplier’s inbox, and a ransomware boss gets 16 years.",
+    "image_url": "https://media.wired.com/photos/6a761d7874fba122f8d7a913/master/pass/Security-News-Flock-Rideshare-Spies-Security.jpg",
+    "tags": [
+      "Security",
+      "Security / National Security",
+      "Security / Privacy",
+      "Security / Security News",
+      "security roundup"
+    ],
     "industries": [
-      "media",
-      "tech",
       "industrial"
     ],
-    "relevance_score": 56
+    "relevance_score": 15
   },
   {
     "id": "32877e0cfa04",
@@ -401,40 +649,38 @@
     "relevance_score": 54,
     "also_covered_by": [
       "Agentic Marketing",
-      "Health Tech",
-      "Adobe Marketing Cloud"
+      "Adobe Marketing Cloud",
+      "Telecom 5G"
     ]
   },
   {
-    "id": "b6bdda6b8e07",
-    "title": "MLB Best Home Run Bets For August 8, 2026—Schwarber And Harper",
-    "url": "https://www.forbes.com/sites/joshshepardson/2026/08/08/mlb-best-home-run-bets-for-august-8-2026-schwarber-and-harper/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-08T05:35:52+00:00",
-    "summary": "Find out which two left-handed teammates with a dreamy matchup in their homer-friendly home ballpark have the most appealing home run bets on Saturday’s MLB slate.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a76be80f3e33c8d357a7e62/0x0.jpg?width=960",
+    "id": "dd7fbd3c5a2b",
+    "title": "Sensitive Info Goes Into ‘No Reply’ Emails Constantly. This Guy Sees It All",
+    "url": "https://www.wired.com/story/sensitive-info-goes-into-no-reply-emails-constantly-this-guy-sees-it-all/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-08-08T10:00:00+00:00",
+    "summary": "Two security researchers bought cheap domains—including noreply.net and deleteduser.com—and set up email listening services. Hundreds of companies are sending them corporate secrets.",
+    "image_url": "https://media.wired.com/photos/6a760fe8a02e6ace8c74de98/master/pass/Security_CompaniesAreLeakingSensitiveData.gif",
     "tags": [
-      "Vices",
-      "/vices",
-      "Lifestyle",
-      "/lifestyle",
-      "Vices"
+      "Security",
+      "Security / Privacy",
+      "DefCon",
+      "email",
+      "hackers"
     ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 17
+    "industries": [],
+    "relevance_score": 15
   },
   {
-    "id": "29f5f6462086",
-    "title": "Blakely, Pease Tie In Night One Thriller At 2026 U.S. Gymnastics Championships",
-    "url": "https://www.forbes.com/sites/carolineprice/2026/08/08/blakely-pease-tie-in-night-one-thriller-at-2026-us-gymnastics-championships/",
+    "id": "7af452c12a34",
+    "title": "FC Barcelona’s Expected Rodri Transfer Triggers Two Midfield Exits",
+    "url": "https://www.forbes.com/sites/tomsanderson/2026/08/08/fc-barcelonas-expected-rodri-transfer-triggers-two-midfield-exits/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-08-08T04:50:29+00:00",
-    "summary": "Skye Blakely and Claire Pease tied for the lead on night one at the 2026 U.S. Gymnastics Championships — with Bullock and Rivera close behind — setting up a fierce battle for the title on Sunday in Phoenix.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a76b54b647972dbf2861b8f/0x0.jpg?width=960",
+    "published": "2026-08-08T09:58:18+00:00",
+    "summary": "Manchester City captain Rodri's expected arrival at FC Barcelona is already triggering two exits from Hansi Flick's stacked midfield.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a76f6826c87238907ed924b/0x0.jpg",
     "tags": [
       "SportsMoney",
       "/sportsmoney",
@@ -442,8 +688,151 @@
       "/business",
       "SportsMoney"
     ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "3d6b78e10b3b",
+    "title": "KLA Corporation Has Had a Rough Month: A Wall Street Pro Sees 70% Upside Because of It - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOajg4WF9kQUs3cUdzc3JKdE5qWVdBRUVqV1RrNXV3S1RpT1g5Y0RqRkw3MGNNVUVxVkVyX3hKbExUSzhmd252MU9NRmxiNU9MT3VoMDN1MlVYTWx2WU1RWHdHWU9kOTg1eVJaT2RhZjVraHJfQjFmeHpVLW1qM2JKb0NWOEVhaG9vSTZfY1VNN1Iyd2F4VnZrNHAtNHFqVUpiUDVlUzFRQU1Dd1F5VHAtRXl1UGl2UlgtVXRNd0ZPbFlGTjktNkVZ?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-08-08T12:01:37+00:00",
+    "summary": "KLA Corporation Has Had a Rough Month: A Wall Street Pro Sees 70% Upside Because of It 24/7 Wall St.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "e3159e995559",
+    "title": "Here Are the First Images of the Crater Left on the Moon by SpaceX’s Rocket",
+    "url": "https://www.wired.com/story/first-images-spacex-rocket-moon-crater/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-08-08T12:00:00+00:00",
+    "summary": "The Korea Aerospace Research Institute shared images that show the gash on the surface. It’s pretty small.",
+    "image_url": "https://media.wired.com/photos/6a7651c98a575c891a2cf22e/master/pass/HPBHQIZbAAA0Y1q.jpeg",
+    "tags": [
+      "Science",
+      "Science / Space",
+      "moon",
+      "SpaceX",
+      "craters"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "60cccfc6c5ad",
+    "title": "Atletico Madrid Decision On FC Barcelona Target Alvarez Revealed By Simeone",
+    "url": "https://www.forbes.com/sites/tomsanderson/2026/08/08/atletico-madrid-decision-on-fc-barcelona-target-alvarez-revealed-by-simeone/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-08T09:21:28+00:00",
+    "summary": "Atletico Madrid manager Diego Simeone has revealed his club's stance on the future of Julian Alvarez, who has long been linked with a potential move to FC Barcelona.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a76efa019c6c620c49085ac/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "441a7e503c3e",
+    "title": "‘Minions & Monsters’ Streaming Date Nears As Franchise Shows Wear At Box Office",
+    "url": "https://www.forbes.com/sites/timlammers/2026/08/08/minions--monsters-streaming-date-nears-as-franchise-shows-wear-at-box-office/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-08T09:00:00+00:00",
+    "summary": "“Minions & Monsters,” the seventh film in the “Despicable Me” franchise, arrives on digital streaming this week following an underwhelming run at the box office.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a76a2c2527c3c71157c8a19/0x0.jpg?width=960",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "78559773caf5",
+    "title": "Spokane Shows What the New Era of Wildfires Looks Like",
+    "url": "https://www.wired.com/story/spokane-shows-new-era-of-wildfires/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-08-08T09:00:00+00:00",
+    "summary": "With rising temperatures and drier conditions, fires are more likely to explode. And with more people living next to forests, the results can be catastrophic.",
+    "image_url": "https://media.wired.com/photos/6a764d20398e814473bb62d8/master/pass/GettyImages-2288271543.jpg",
+    "tags": [
+      "Science",
+      "Science / Environment",
+      "wildfires",
+      "extreme weather",
+      "disasters"
+    ],
     "industries": [],
-    "relevance_score": 17
+    "relevance_score": 15
+  },
+  {
+    "id": "f233c7465d48",
+    "title": "WhatsApp Gets a Handy @all Feature for Group Chats",
+    "url": "https://www.wired.com/story/whatsapp-gets-a-handy-all-feature-for-group-chats/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-08-08T09:00:00+00:00",
+    "summary": "A new software update builds on WhatsApp’s group chat chops by adding anonymous polls and introducing an easier way to start a smaller private chat away from the larger group.",
+    "image_url": "https://media.wired.com/photos/6a7514f3c44a52857403c1d1/master/pass/English_WhatsApp_better-polls-and-@all.png",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "WhatsApp",
+      "chat",
+      "software"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "f337fabfb33d",
+    "title": "Cubs’ Kevin Gausman Sends Retirement Message After Blue Jays Exit",
+    "url": "https://www.forbes.com/sites/peterchawaga/2026/08/08/cubs-kevin-gausman-sends-retirement-message-after-blue-jays-exit/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-08T11:00:00+00:00",
+    "summary": "The Toronto Blue Jays castoff addressed the end of his career after being traded to the Chicago Cubs.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a60da59d293be49a86d5293/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 14
   },
   {
     "id": "1c3059fb7886",
@@ -466,25 +855,25 @@
     "relevance_score": 49
   },
   {
-    "id": "d8bfc9320f3c",
-    "title": "Human Exceptionalism Aims To Be Waylaid Due To Artificial General Intelligence And ASI",
-    "url": "https://www.forbes.com/sites/lanceeliot/2026/08/08/human-exceptionalism-aims-to-be-waylaid-due-to-artificial-general-intelligence-and-asi/",
+    "id": "b6bdda6b8e07",
+    "title": "MLB Best Home Run Bets For August 8, 2026—Schwarber And Harper",
+    "url": "https://www.forbes.com/sites/joshshepardson/2026/08/08/mlb-best-home-run-bets-for-august-8-2026-schwarber-and-harper/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-08-08T07:15:00+00:00",
-    "summary": "Human exceptionalism is a belief that humans reign supreme as apex predators. The top spot might not last. AI reaching levels of AGI and ASI could put us in 2nd place.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/67f9a9a12d47bd01de74ce0f/0x0.jpg?width=960",
+    "published": "2026-08-08T05:35:52+00:00",
+    "summary": "Find out which two left-handed teammates with a dreamy matchup in their homer-friendly home ballpark have the most appealing home run bets on Saturday’s MLB slate.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a76be80f3e33c8d357a7e62/0x0.jpg?width=960",
     "tags": [
-      "AI",
-      "/ai",
-      "Innovation",
-      "/innovation",
-      "AI"
+      "Vices",
+      "/vices",
+      "Lifestyle",
+      "/lifestyle",
+      "Vices"
     ],
     "industries": [
-      "industrial"
+      "tech"
     ],
-    "relevance_score": 15
+    "relevance_score": 16
   },
   {
     "id": "98dfd855cdb6",
@@ -504,41 +893,44 @@
     "relevance_score": 48
   },
   {
-    "id": "db24e546843f",
-    "title": "Nitecore’s latest power bank is the lightest and most compact yet",
-    "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-08-08T07:00:00+00:00",
-    "summary": "There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking, bikepacking, and trail running. So imagine my delight when Nitecore released a new...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_3219.jpeg?quality=90&amp;strip=all&amp;crop=0%2C15.095986038394%2C100%2C69.808027923211&amp;w=1200",
+    "id": "29f5f6462086",
+    "title": "Blakely, Pease Tie In Night One Thriller At 2026 U.S. Gymnastics Championships",
+    "url": "https://www.forbes.com/sites/carolineprice/2026/08/08/blakely-pease-tie-in-night-one-thriller-at-2026-us-gymnastics-championships/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-08T04:50:29+00:00",
+    "summary": "Skye Blakely and Claire Pease tied for the lead on night one at the 2026 U.S. Gymnastics Championships — with Bullock and Rivera close behind — setting up a fierce battle for the title on Sunday in Phoenix.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a76b54b647972dbf2861b8f/0x0.jpg?width=960",
     "tags": [
-      "Accessory Reviews",
-      "Energy",
-      "Reviews",
-      "Science",
-      "Tech"
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
     ],
-    "industries": [
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 15
+    "industries": [],
+    "relevance_score": 16
   },
   {
-    "id": "0bf393a720db",
-    "title": "Marketing winners and losers of the week - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXJCa1NjMTBTcFl5MFdueVFZbThiQ1R0R1FwQm5jdDE5dlQyMThYR3JZcDdReDVzOUstYzNRX2c2aHlXR0pfQjFKVFJXMVR3cnVyWTRfTDhqaEhtYnpvRnBnd01IS0tielpfLWREamZvclo2WXEwdjBPOFhsRHpLTHgxdmIwNlBiWkVTWlZ3?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-08-07T09:00:00+00:00",
-    "summary": "Marketing winners and losers of the week Ad Age",
+    "id": "fa8796d5498e",
+    "title": "Best Solar Generators for Off-Grid Trips, RVs, and Home Backup",
+    "url": "https://www.wired.com/story/best-solar-generators/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-08-08T09:00:00+00:00",
+    "summary": "If you want to capture the sun’s power with solar panels, these are the best solar generators I’ve tested.",
     "image_url": null,
-    "tags": [],
+    "tags": [
+      "Gear",
+      "Gear / Products / Outdoor",
+      "Gear / Products / Home",
+      "Shopping",
+      "battery"
+    ],
     "industries": [
       "industrial"
     ],
-    "relevance_score": 28
+    "relevance_score": 14
   },
   {
     "id": "ff224f06aa9e",
@@ -562,26 +954,6 @@
     "relevance_score": 47
   },
   {
-    "id": "2c8d15586148",
-    "title": "Stop looking for the perfect attribution model",
-    "url": "https://martech.org/stop-looking-for-the-perfect-attribution-model/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-08-06T12:20:00+00:00",
-    "summary": "No attribution model can answer every business question. Successful B2B marketers combine attribution, MMM, and experimentation instead. The post Stop looking for the perfect attribution model appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/04/sign-post-with-many-conflicting-street-signs-with-marketing-related-ideas-on-them-800x450.png",
-    "tags": [
-      "B2B marketing",
-      "Customer journey orchestration",
-      "Marketing attribution"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 50
-  },
-  {
     "id": "f9ddcdc733ff",
     "title": "A CMO’s guide to machine relations",
     "url": "https://www.marketingdive.com/news/a-cmos-guide-to-machine-relations/826421/",
@@ -600,6 +972,69 @@
     ]
   },
   {
+    "id": "d8bfc9320f3c",
+    "title": "Human Exceptionalism Aims To Be Waylaid Due To Artificial General Intelligence And ASI",
+    "url": "https://www.forbes.com/sites/lanceeliot/2026/08/08/human-exceptionalism-aims-to-be-waylaid-due-to-artificial-general-intelligence-and-asi/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-08T07:15:00+00:00",
+    "summary": "Human exceptionalism is a belief that humans reign supreme as apex predators. The top spot might not last. AI reaching levels of AGI and ASI could put us in 2nd place.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/67f9a9a12d47bd01de74ce0f/0x0.jpg?width=960",
+    "tags": [
+      "AI",
+      "/ai",
+      "Innovation",
+      "/innovation",
+      "AI"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "db24e546843f",
+    "title": "Nitecore’s latest power bank is the lightest and most compact yet",
+    "url": "https://www.theverge.com/tech/976506/nitecore-nb10000-gen4-review-adventure-battery",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-08-08T07:00:00+00:00",
+    "summary": "There's two things you should know about me, your intrepid reviewer: I hate the feature creep associated with modern power banks, and I love shaving grams off the gear I carry when backpacking, bikepacking, and trail running. So imagine my delight when Nitecore released a new...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/IMG_3219.jpeg?quality=90&amp;strip=all&amp;crop=0%2C15.095986038394%2C100%2C69.808027923211&amp;w=1200",
+    "tags": [
+      "Accessory Reviews",
+      "Energy",
+      "Reviews",
+      "Science",
+      "Tech"
+    ],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "2c8d15586148",
+    "title": "Stop looking for the perfect attribution model",
+    "url": "https://martech.org/stop-looking-for-the-perfect-attribution-model/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-08-06T12:20:00+00:00",
+    "summary": "No attribution model can answer every business question. Successful B2B marketers combine attribution, MMM, and experimentation instead. The post Stop looking for the perfect attribution model appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/04/sign-post-with-many-conflicting-street-signs-with-marketing-related-ideas-on-them-800x450.png",
+    "tags": [
+      "B2B marketing",
+      "Customer journey orchestration",
+      "Marketing attribution"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 47
+  },
+  {
     "id": "5bf85c5da0d1",
     "title": "Bout Order For UFC 330: Makhachev Vs. Machado Garry Fight Card",
     "url": "https://www.forbes.com/sites/trentreinsmith/2026/08/07/bout-order-for-ufc-330-makhachev-vs-machado-garry-fight-card/",
@@ -616,7 +1051,7 @@
       "SportsMoney"
     ],
     "industries": [],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "25e5f8aebc8f",
@@ -635,27 +1070,22 @@
       "Gaming"
     ],
     "industries": [],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
-    "id": "771410a48968",
-    "title": "The biggest bottleneck in market research isn’t the research",
-    "url": "https://martech.org/the-biggest-bottleneck-in-market-research-isnt-the-research/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-08-06T12:16:00+00:00",
-    "summary": "Survey design and analysis aren't the problem. The delays happen between them. AI-native platforms are designed to eliminate that friction. The post The biggest bottleneck in market research isn’t the research appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/08/data-bottleneck-800x450.png",
-    "tags": [
-      "Marketing management",
-      "Marketing technology"
-    ],
+    "id": "0bf393a720db",
+    "title": "Marketing winners and losers of the week - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPUXJCa1NjMTBTcFl5MFdueVFZbThiQ1R0R1FwQm5jdDE5dlQyMThYR3JZcDdReDVzOUstYzNRX2c2aHlXR0pfQjFKVFJXMVR3cnVyWTRfTDhqaEhtYnpvRnBnd01IS0tielpfLWREamZvclo2WXEwdjBPOFhsRHpLTHgxdmIwNlBiWkVTWlZ3?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-08-07T09:00:00+00:00",
+    "summary": "Marketing winners and losers of the week Ad Age",
+    "image_url": null,
+    "tags": [],
     "industries": [
-      "media",
-      "tech",
       "industrial"
     ],
-    "relevance_score": 45
+    "relevance_score": 24
   },
   {
     "id": "438547dd172a",
@@ -675,25 +1105,6 @@
     ],
     "industries": [],
     "relevance_score": 17
-  },
-  {
-    "id": "dd254bf0270a",
-    "title": "‘Baahubali: The Eternal War’ Taps Annapurna Studios’ A&M MoCap Lab For Previsualization",
-    "url": "https://www.forbes.com/sites/hannahabraham/2026/08/07/baahubali-the-eternal-war-taps-annapurna-studios-am-mocap-lab-for-previsualization/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-08T03:30:00+00:00",
-    "summary": "EXCLUSIVE: In a chat with Hannah Abraham, Annapurna Studios execs Akkineni Nagarjuna, Akkineni Naga Chaitanya and C.V. Rao chat about the joint venture mo-cap facility.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a74ecae001c8577e6046589/0x0.jpg?width=960&precrop=960%2C720%2Cx0%2Cy46",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [],
-    "relevance_score": 14
   },
   {
     "id": "e7986c82d57c",
@@ -771,6 +1182,26 @@
     "relevance_score": 41
   },
   {
+    "id": "771410a48968",
+    "title": "The biggest bottleneck in market research isn’t the research",
+    "url": "https://martech.org/the-biggest-bottleneck-in-market-research-isnt-the-research/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-08-06T12:16:00+00:00",
+    "summary": "Survey design and analysis aren't the problem. The delays happen between them. AI-native platforms are designed to eliminate that friction. The post The biggest bottleneck in market research isn’t the research appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/08/data-bottleneck-800x450.png",
+    "tags": [
+      "Marketing management",
+      "Marketing technology"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 42
+  },
+  {
     "id": "b41f3e0d6a52",
     "title": "Lilly’s women’s sports push gets assist from WNBA on Prime campaign",
     "url": "https://www.marketingdive.com/news/lillys-womens-sports-push-gets-assist-from-wnba-on-prime-campaign/827059/",
@@ -803,6 +1234,25 @@
     "relevance_score": 38
   },
   {
+    "id": "dd254bf0270a",
+    "title": "‘Baahubali: The Eternal War’ Taps Annapurna Studios’ A&M MoCap Lab For Previsualization",
+    "url": "https://www.forbes.com/sites/hannahabraham/2026/08/07/baahubali-the-eternal-war-taps-annapurna-studios-am-mocap-lab-for-previsualization/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-08T03:30:00+00:00",
+    "summary": "EXCLUSIVE: In a chat with Hannah Abraham, Annapurna Studios execs Akkineni Nagarjuna, Akkineni Naga Chaitanya and C.V. Rao chat about the joint venture mo-cap facility.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a74ecae001c8577e6046589/0x0.jpg?width=960&precrop=960%2C720%2Cx0%2Cy46",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [],
+    "relevance_score": 13
+  },
+  {
     "id": "35a51aeec487",
     "title": "UFC Announces Full 13-Fight Card For UFC 331",
     "url": "https://www.forbes.com/sites/trentreinsmith/2026/08/07/ufc-announces-full-13-fight-card-for-ufc-331/",
@@ -822,44 +1272,17 @@
     "relevance_score": 15
   },
   {
-    "id": "082f9f98c136",
-    "title": "The Good, Bad And Ugly From The Green Bay Packers’ Family Night",
-    "url": "https://www.forbes.com/sites/robreischel/2026/08/07/the-good-bad-and-ugly-from-the-green-bay-packers-family-night/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-08T02:51:01+00:00",
-    "summary": "The Green Bay Packers had a bevy of highs and lows during their annualy Family Night scrimmage Friday.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a7113834b9adcb5f1899755/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "fc8d4e939e3c",
-    "title": "The Red Sox 8th Straight Win Was The Craziest Game Of The Year",
-    "url": "https://www.forbes.com/sites/danfreedman/2026/08/07/the-red-sox-8th-straight-win-was-the-craziest-game-of-the-year/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-07T19:34:39+00:00",
-    "summary": "The Red Sox have won 31 of 36 games, including their current eight-game winning streak, but none was as crazy as last night's 13-inning victory over the White Sox",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a76327c0c366a6afde0a081/0x0.jpg?width=960",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
+    "id": "619b59caa430",
+    "title": "Elevator giant Otis wants to be a defensive play in an volatile market. It has to prove itself first - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE12VmxudGl5djRIdHBLNVNQMTJGYnd6MjhZbndEMjhJelFkTDMtTHlPZ3JDM0lEX2F1OVFwRGNxRXV0dWdsV2prOUxpbVltU2VBY2hKOXRMa1YzR3ZjVjNvZWhfb0laUDg0a2NPZGJFX1pzZExzM0pPTnVYclMtLW_SAYQBQVVfeXFMUDhPaEkxMnlJUlZVSnVSZ0NJUmg2RzFfczlUZlJpVnBNZm8tR0N3WWN1ME9OTE5PejR5eEZrbENpZTBMN29aUjljZ0NjSTROMFVUNGFsMjN1aXVFVjFGdUNfWF9pYS1pMUlQSzllMkFkeUhxbmNLdGd2cW9KZFB5Qmt5SnNT?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-08-08T12:00:01+00:00",
+    "summary": "Elevator giant Otis wants to be a defensive play in an volatile market. It has to prove itself first CNBC",
+    "image_url": null,
+    "tags": [],
     "industries": [],
-    "relevance_score": 16
+    "relevance_score": 10
   },
   {
     "id": "0a5676c75556",
@@ -885,12 +1308,12 @@
   },
   {
     "id": "9d5842681aa7",
-    "title": "Adobe integrates Photoshop, Firefly, and Acrobat into ChatGPT - adgully.com",
+    "title": "Adobe integrates Photoshop, Firefly, and Acrobat into ChatGPT - Adgully.com",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxOQ0QtNWJGeUVoNTJmXzJZcFVHanA3Q3FXeVNVbVBRdkxiUVJ2TWlvOHZod1d0dWJnNF95eGFTYjZpYVZLYnlyZ1B2cWZOSTdfNjRJaXpQeU8wZ0ZMdk43OTNSMjljdFBJOFdlV0tVNXJtT3pGUk5RdHVLdGE4S1hxc0RDVGF6WHRIVkgyNXVidkJUNlFqWjMwZXNn?oc=5",
     "source": "Adobe Products",
     "source_category": "adobe",
     "published": "2026-08-08T04:25:00+00:00",
-    "summary": "Adobe integrates Photoshop, Firefly, and Acrobat into ChatGPT adgully.com",
+    "summary": "Adobe integrates Photoshop, Firefly, and Acrobat into ChatGPT Adgully.com",
     "image_url": null,
     "tags": [],
     "industries": [],
@@ -913,75 +1336,41 @@
     "relevance_score": 14
   },
   {
-    "id": "597b2077c0c0",
-    "title": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets - CoinDesk",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxNLTVmQmNiWEdhOHJsdVlBT3pZXzdfLTlLR041SUZBSEVfWjVXNHBxbVVhSkVaYzR4RUw1TUhqc3E0X0x4U2pEMDRkXzlRbk1VQ2ZjMFNZdTdfcGozaFo4cGlVV0Y3MXhIUkcwV2t1cnlmY2Z5WDdyVU44S0Z2Q0tpN2M0Z2tORktDMmMxM2VyRktscE10RktscVUteTlyN3ZqS0Z5T3RhM1RSVElFb0ZGN0h2SFdBZHhKUWh6OA?oc=5",
+    "id": "3f6a2521af92",
+    "title": "Trump Orders Leak Probe After Venting About Media Coverage of Munitions Stockpile - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS200d1UtaHFSNlJYdjVReHViMUFJQ042S2YweUJERjZTaDhCN1pFNzFVbmhlQVMyOEJlMGYxWWM1YTdpdHpQUUIyUkp3anBSbWxuTnhCZXJiQlRKZV8ycnZtRUVxX01YanRidlFLMENHX0liczFxUlRmbG9PTkFrVFB0WlI1cFJ5bk5qZDhXZ1NreTJDS3R3QUpVbVNqREdTTUlrMU1IRjFlYXltNzgxdzVKc013czl1OFIwQnJwUUlJTjRsZkpmaVMtaWxid3otSTNv?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-08-08T03:30:00+00:00",
-    "summary": "New XRP Ledger amendments target $530 million in tokenized Wall Street assets CoinDesk",
+    "published": "2026-08-08T09:10:45+00:00",
+    "summary": "Trump Orders Leak Probe After Venting About Media Coverage of Munitions Stockpile WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
-      "retail",
-      "industrial",
-      "financial"
+      "media",
+      "industrial"
     ],
-    "relevance_score": 12
+    "relevance_score": 10
   },
   {
-    "id": "fbf02f3683ff",
-    "title": "JAY B Kicks Off 2026 Tape: Roots US Tour This September In Los Angeles",
-    "url": "https://www.forbes.com/sites/laurasirikul/2026/08/07/jay-b-kicks-off-2026-tape-roots-us-tour-this-september-in-los-angeles/",
+    "id": "082f9f98c136",
+    "title": "The Good, Bad And Ugly From The Green Bay Packers’ Family Night",
+    "url": "https://www.forbes.com/sites/robreischel/2026/08/07/the-good-bad-and-ugly-from-the-green-bay-packers-family-night/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-08-07T19:33:17+00:00",
-    "summary": "Fresh off his EP, TR.EE, Jay B, announced his 2026 tape: roots US Tour, heading to Los Angeles, San Francisco, Tacoma, New York City, Dallas, and Chicago in September.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a76323b4ae4ced8da1af8d4/0x0.jpg?width=960&precrop=1200%2C900%2Cx0%2Cy161",
+    "published": "2026-08-08T02:51:01+00:00",
+    "summary": "The Green Bay Packers had a bevy of highs and lows during their annualy Family Night scrimmage Friday.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a7113834b9adcb5f1899755/0x0.jpg",
     "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
+      "SportsMoney",
+      "/sportsmoney",
       "Business",
       "/business",
-      "Hollywood & Entertainment"
+      "SportsMoney"
     ],
     "industries": [
       "industrial"
     ],
-    "relevance_score": 15
-  },
-  {
-    "id": "85258c29cfcf",
-    "title": "Sundaram Alternates Names Mandar Shirke As CMO - BW Marketing World",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTlRIZjdnTDhZUWxnNHVQTGpLdVYtRHo3SWZaUFhMbEhiSjFXanZ6WEJ4c1hMejRvYlNMaGdrNTBGYzNMYkdwM1Z5WWd6UTRLd3FGc0EycVpxY281UUFQb2hoMG92cllMeWlpN2oyV1VzY0t2ZkpsckVOT0dlX0RyUHFjY0JnYXFVLVBBR2lJZHBRUUI4Q3Z3d09R?oc=5",
-    "source": "Marketing Strategy",
-    "source_category": "marketing",
-    "published": "2026-08-06T08:26:37+00:00",
-    "summary": "Sundaram Alternates Names Mandar Shirke As CMO BW Marketing World",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 41
-  },
-  {
-    "id": "282ea561e584",
-    "title": "Grab the entire Lord of the Rings trilogy on 4K Blu-ray for $50",
-    "url": "https://www.theverge.com/gadgets/976792/lord-of-the-rings-trilogy-4k-uhd-blu-ray-deal-sale",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-08-07T16:58:18+00:00",
-    "summary": "Looking to spend a weekend inside with a good binge? Gruv has The Lord of the Rings trilogy on 4K Blu-ray marked down to $49.99, just below Amazon’s price and only a little bit higher than the all-time low we usually see around Black Friday. This version includes both the...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/9605339/fellowshipofthering.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 16
+    "relevance_score": 12
   },
   {
     "id": "be14a2322dfb",
@@ -1003,55 +1392,32 @@
     "relevance_score": 14
   },
   {
-    "id": "000d109e65dc",
-    "title": "Wall Street week ahead: inflation, retail sales updates - WRAL",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM0FnNDV4c09WeHpQQjU2YzQxaEhSeWFyd1VocW45SVV1aHBMeFZhNzF4MHNlNHl0ZXFEcXpLNEptRXJlc3g3VEtaTllldVZFRHI1R1Zqd21yZmdCWEdiRF9UOXVlakZKNjhOTVNEUUp6cnhYYTVPN1VUdEFxc1hObzR3Y3NxdmE0Wk16eTJUNDl1ajA?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-08-08T08:15:11+00:00",
-    "summary": "Wall Street week ahead: inflation, retail sales updates WRAL",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "3546a247bcbe",
-    "title": "Exclusive | FAA Investigates Marine One Safety Incident in Washington - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNMXp6aGVCUkNpR3BxcEFNcHVTR0xPQVZFLXhLcWNhWkxZWW5JUDAyZjVwc01QVDhtWWNSY0M5WVNVRHVMM3JHRlJ6VW5helJGU1lTQUh3WEhBQjJ1OHN6SlpfM25JYlZGdnNxRnRKRHlSTU5td29mRzNKUXZ1Yi0xVnU2NGVVNTdGN0g2WUVOd0gxcndtMFVuUkd1MnBpenZWQzNLMHZpR2NCZW8xWlZSaFdPUQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-08-08T08:12:16+00:00",
-    "summary": "Exclusive | FAA Investigates Marine One Safety Incident in Washington WSJ",
+    "id": "7ef82fdd4be5",
+    "title": "AI can analyze your poop. Should it? - businessinsider.com",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQSTk0MW9VaFk0U1VQV05HcC10UkRTWG9ITWlEeldYdnJhNldYYlFjOXMtX2ItYUFpS2FwRnQyMnNfQ2Z3ZzlkV2d0YlM0blRJenpqZnQ2cS01QnMwdXFXbHBXelVicE1JR0pDR1BXdlZjM0F3T3ZERXFFVVU2NUNtcUdSTXZxRFo2VC13Zmo1UzNXVXI5U2c?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-08T09:02:25+00:00",
+    "summary": "AI can analyze your poop. Should it? businessinsider.com",
     "image_url": null,
     "tags": [],
     "industries": [],
     "relevance_score": 10
   },
   {
-    "id": "fd98875c0ff4",
-    "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
-    "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-08-07T17:43:34+00:00",
-    "summary": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58 extensions on the Edge Add-On Store \"with any...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385268/STK148_Microsoft_Edge_1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Microsoft",
-      "News",
-      "Tech",
-      "Web"
-    ],
+    "id": "ae18781be0f4",
+    "title": "The National Payment Switch Returns to Service: A Strategic Step Towards Rebuilding Sudan's Digital Payments Ecosystem - Sudan Horizon",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPdUtCYmxIai1GQ3B0VFB5SjRVcW1JVF9DSk1yS1l0TjYwZmNqVmtJVTdKUHNIMnBmMmtTRGtZeGRYUmVMcFR4QlBoRGcwN3ItMmhkdmM4alpnYnlqbWkwaEdOMW10RDM5dU9hRjNZcFd1clNua2w1RUxHQnllbi1OVjJ2bmV4bXlyNmtaRGdWMDlTWTFxRGo4ckh1UGlpam9JaXJHa2diY2NwUnNueWpDakd0ZmFMMUlGX0FySHFDbjRyZVhVUTBvUlVSczI1bzhWMlQ1VkZrYW9iUQ?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-08-08T08:49:46+00:00",
+    "summary": "The National Payment Switch Returns to Service: A Strategic Step Towards Rebuilding Sudan's Digital Payments Ecosystem Sudan Horizon",
+    "image_url": null,
+    "tags": [],
     "industries": [
-      "tech",
-      "retail",
-      "industrial"
+      "financial"
     ],
-    "relevance_score": 15
+    "relevance_score": 10
   },
   {
     "id": "aed05e41900c",
@@ -1113,31 +1479,6 @@
     "relevance_score": 13
   },
   {
-    "id": "44c68453ba87",
-    "title": "What’s behind the Google AI shake-up",
-    "url": "https://www.theverge.com/podcast/976784/google-deepmind-ai-race-vergecast",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-08-07T16:45:14+00:00",
-    "summary": "Some of the biggest names on Google's AI team got new jobs this week. In some cases, including for legendary Googler Jeff Dean, those jobs are no longer at Google. Given that Google's models seem to be behind the best of what's coming out of anthropic and OpenAI, is this a...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/VRG_VST080726_Site.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "AI",
-      "Google",
-      "Podcasts",
-      "Tech",
-      "Vergecast"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15,
-    "also_covered_by": [
-      "MIT Technology Review"
-    ]
-  },
-  {
     "id": "bff172991029",
     "title": "Triple Crown Changes Expose Divisions In Horse Racing",
     "url": "https://www.forbes.com/sites/nicolekraft/2026/08/07/triple-crown-changes-expose-divisions-in-horse-racing/",
@@ -1156,7 +1497,76 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 13
+    "relevance_score": 13,
+    "also_covered_by": [
+      "Wall Street"
+    ]
+  },
+  {
+    "id": "85258c29cfcf",
+    "title": "Sundaram Alternates Names Mandar Shirke As CMO - BW Marketing World",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQTlRIZjdnTDhZUWxnNHVQTGpLdVYtRHo3SWZaUFhMbEhiSjFXanZ6WEJ4c1hMejRvYlNMaGdrNTBGYzNMYkdwM1Z5WWd6UTRLd3FGc0EycVpxY281UUFQb2hoMG92cllMeWlpN2oyV1VzY0t2ZkpsckVOT0dlX0RyUHFjY0JnYXFVLVBBR2lJZHBRUUI4Q3Z3d09R?oc=5",
+    "source": "Marketing Strategy",
+    "source_category": "marketing",
+    "published": "2026-08-06T08:26:37+00:00",
+    "summary": "Sundaram Alternates Names Mandar Shirke As CMO BW Marketing World",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 38
+  },
+  {
+    "id": "fd98875c0ff4",
+    "title": "Microsoft Edge is about to lock out older ad blockers, just like Chrome did",
+    "url": "https://www.theverge.com/tech/976880/microsoft-edge-extensions-ad-blockers-mv2-mv3",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-08-07T17:43:34+00:00",
+    "summary": "Microsoft Edge is ending support for the Manifest V2 extensions platform, which will cut off the uBlock Origin adblocker and others like it, just like Google Chrome did earlier this year. According to Microsoft, there are only 58 extensions on the Edge Add-On Store \"with any...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24385268/STK148_Microsoft_Edge_1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Microsoft",
+      "News",
+      "Tech",
+      "Web"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "641248edfcad",
+    "title": "The Latest Scary-Sounding AI Milestone: A Brand-New Virus - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjFockNBNGMxMkZQQlNjdHQ4VWFzTFV2Z0Z0N1Eza2xiWjYyZjVxVnNZQ0FISmh4Y3hsSTVOaEZ6STV4WC0xLWludk1vWmNYQUZtVUdCSmZJcEdjMVdZcGs1cnB3dE1NUmxsMUN4dXZaODhEcWNwZnQzN3RKNHV4MktzVXN6dDFtZmdFQ0ZMTG1UbnY5czFyVw?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-08-07T01:50:00+00:00",
+    "summary": "The Latest Scary-Sounding AI Milestone: A Brand-New Virus WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "consumer"
+    ],
+    "relevance_score": 22
+  },
+  {
+    "id": "0f31ae4e17b0",
+    "title": "Wall Street week ahead: inflation, retail sales updates - AP News",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNWVlqNWRqOFllWTBtYUcwU0FBcmRSVUx4Yl9MQWx1dmxvb0sxb3VMU1RQSDlyZEI0MzdfRF9fZF9qZkZZcWNsZGV1M0ZlaDI5ZWVVbHZjbXdCYWJGVy0zNm14WmZweVBna0MtTjY5Z1dPd2szN2hZMW5PQTN5bVU2NkNRUGRiMEZ0Y1RNWFR2d2g?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-08-08T08:00:00+00:00",
+    "summary": "Wall Street week ahead: inflation, retail sales updates AP News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "financial"
+    ],
+    "relevance_score": 9
   },
   {
     "id": "d78aeab37b7f",
@@ -1177,243 +1587,7 @@
       "media",
       "tech"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "557e0bfc0113",
-    "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-08-07T18:40:34+00:00",
-    "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face....",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "AI",
-      "News",
-      "OpenAI",
-      "Security",
-      "Tech"
-    ],
-    "industries": [],
-    "relevance_score": 14
-  },
-  {
-    "id": "9dd767bbe127",
-    "title": "Max Miller Rally Cancelled Over ‘Threats’ Amid Abuse Allegations And Calls For His Resignation",
-    "url": "https://www.forbes.com/sites/saradorn/2026/08/07/max-miller-rally-cancelled-over-threats-amid-abuse-allegations-and-calls-for-his-resignation/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-07T20:46:06+00:00",
-    "summary": "At least six Republican senators have called for Rep. Max Miller, R-Ohio, to resign from Congress.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a7643036a7cac5185f362c5/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [],
     "relevance_score": 13
-  },
-  {
-    "id": "6c23cb7723df",
-    "title": "Results: Saudi Telecom Company Exceeded Expectations And The Consensus Has Updated Its Estimates - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ3hDcFN4S0Z4cTI5OGx6cVZTQTdha3pxN2dnemloWlhmMDlWV2Q0UkdlTGR5bHFfVkt5TjRLTms2dFRDOTdBS3o4YXFRbDEwbGRVLTlSY25ZRkVZRFdXWldDQzJyTUh6bDRQRXpYMDJERUtCV1JzOTNuUDNnc3lFTFEtT0VEVnBHdklySU5fbm1qVXc4S0xsOTM4VWhxSXFSeHRRNjdWM1FWSmg4TFlxSFp6STZ0Wm1YLWc3WW1VcEp6OWRnYVBUMS1fc3Y0S00x0gHWAUFVX3lxTFBXMDdSR1pXLWpaaEkxcHVtSW84LVVjTk5zTzU1U3R2TVJXbkpaOElodmpLbXJkcDdDcUdTUEJqXzJUR1VDRUVfbUVKeWhZVExFaTVCcUtFM0tERXdyWEt4ZDQxMmRRMEVnR2V1X2FuWk9zZjlHc3NuVUpEUUxZdHJXb0xuT0JYVjlDamw4b0Mxa1puZEtESjhZbHNrR19wNVE2U0JHWjNENGc5NVU0TnFvcEJuSV9PdXBIZjczX2xQWGZiVi1aSG1ZbjRpbUFJd0NSdjVXeWc?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-08-08T05:45:45+00:00",
-    "summary": "Results: Saudi Telecom Company Exceeded Expectations And The Consensus Has Updated Its Estimates simplywall.st",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "62ba67439a1d",
-    "title": "Dayoung And Jay Park Get ‘FLIRTY’ With Their Summer Collaboration",
-    "url": "https://www.forbes.com/sites/laurasirikul/2026/08/07/dayoung-and-jay-park-get-flirty-with-their-summer-collaboration/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-07T20:36:10+00:00",
-    "summary": "In their first official collaboration together, Dayoung and Jay Park have released their collaborated song of the summer, \"FLIRTY.\"",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a764075e5e8195acb4b3041/0x0.jpg",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "efd2f28ca8cf",
-    "title": "Tyga On Becoming $TARFACE: The Album Where Artist Meets Alter Ego",
-    "url": "https://www.forbes.com/sites/desjahaltvater/2026/08/07/tyga-on-becoming-tarface-the-album-where-artist-meets-alter-ego/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-07T20:35:39+00:00",
-    "summary": "Tyga discusses $TARFACE, the cinematic album behind his alter ego, exploring Scarface inspiration, 1980s influences, and the creation of a universe beyond music.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a76309be5e8195acb4b3039/0x0.jpg?width=960",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [],
-    "relevance_score": 13
-  },
-  {
-    "id": "432b1d489c31",
-    "title": "The Kremlin Is Bullying More Russians Into Fighting in Ukraine - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMzJVSWFQWFZXcHVITHRqdUE5QVdRdFJIZG1SNGRWQllVei00UEozRmVEU0l0V3VhYXpYRGtsQ3hONmhhQmpNRjlHdjYtZTJTSHg4UVM5b1JMSzNaejN1ZHlLMUhiblhNTF85RG1WVHJzX0lCSVpjYlI0cEFaajUtUzVPV21aUU5Da1VvY0V6Y3ZPZTktZzI2a2tzMFlqb1BfTTc2cHJYUQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-08-08T05:40:42+00:00",
-    "summary": "The Kremlin Is Bullying More Russians Into Fighting in Ukraine WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 10
-  },
-  {
-    "id": "d9ddea0a57e0",
-    "title": "Ticker: David Ellison Believes CNN Plays a Role in Paramount-WBD Merger Delay",
-    "url": "https://www.adweek.com/tvnewser/ticker-david-ellison-believes-cnn-plays-a-role-in-paramount-wbd-merger-delay/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-08-07T17:56:12+00:00",
-    "summary": "A court date has been set in 2027 for the cases seeking to block the Paramount Skydance-Warner Bros. Discovery merger",
-    "image_url": null,
-    "tags": [
-      "CBS",
-      "CNBC",
-      "CNN",
-      "NBC",
-      "Networks"
-    ],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "488a42dca96d",
-    "title": "Disney Plus tries a new AI-powered search",
-    "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-08-07T17:53:44+00:00",
-    "summary": "Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disney Plus, like other streaming services, can recommend shows to watch based on...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-docs-image-4.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
-    "tags": [
-      "Disney",
-      "News",
-      "Streaming"
-    ],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "5b8c2027b9d3",
-    "title": "KATSEYE Down To Four As Leader Sophia Laforteza Announces Hiatus",
-    "url": "https://www.forbes.com/sites/hannahabraham/2026/08/07/katseye-down-to-four-as-leader-sophia-laforteza-announces-hiatus/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-07T20:14:06+00:00",
-    "summary": "After Manon's indefinite absence and Lexie's departure, HYBExGeffen runs into more turbulence with KATSEYE's Sophia announcing a \"temporary hiatus\".",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a763c1e773b0cb63a2d1d9d/0x0.jpg?width=960",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "44502cc079a8",
-    "title": "Adobe (ADBE) Q1 2026 Earnings Call Transcript - fortune.com",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVanZHLTc4MEdXNmdKaWVlNVBHNElGWlFPVXRuLWNBR2gzSVhvV1RybUpVeGdpREIydnJhbHFGakFwYVp0NGNQemk2Y0VOdUdSRWxqRkFDenZZTlA1QWJaOU1ycHNkNThMOExV?oc=5",
-    "source": "Adobe Marketing Cloud",
-    "source_category": "adobe",
-    "published": "2026-08-07T17:32:57+00:00",
-    "summary": "Adobe (ADBE) Q1 2026 Earnings Call Transcript fortune.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 14
-  },
-  {
-    "id": "641248edfcad",
-    "title": "The Latest Scary-Sounding AI Milestone: A Brand-New Virus - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdjFockNBNGMxMkZQQlNjdHQ4VWFzTFV2Z0Z0N1Eza2xiWjYyZjVxVnNZQ0FISmh4Y3hsSTVOaEZ6STV4WC0xLWludk1vWmNYQUZtVUdCSmZJcEdjMVdZcGs1cnB3dE1NUmxsMUN4dXZaODhEcWNwZnQzN3RKNHV4MktzVXN6dDFtZmdFQ0ZMTG1UbnY5czFyVw?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-08-07T01:50:00+00:00",
-    "summary": "The Latest Scary-Sounding AI Milestone: A Brand-New Virus WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "consumer"
-    ],
-    "relevance_score": 22
-  },
-  {
-    "id": "e7082108221b",
-    "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-08-07T20:01:51+00:00",
-    "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&amp;strip=all&amp;crop=0,23.821989528796,100,52.356020942408",
-    "tags": [
-      "AI",
-      "Entertainment",
-      "Music",
-      "News"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "dcddd1b0012a",
-    "title": "The 7 Best TV Shows to Stream This Month",
-    "url": "https://www.wired.com/story/the-7-best-shows-to-stream-right-now/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-08-07T16:48:21+00:00",
-    "summary": "Lanterns, Dark Matter, and the original Star Trek are just a few of the TV shows you should be watching right now.",
-    "image_url": "https://media.wired.com/photos/6a751477b127f3f26cdcc5c3/master/pass/Show-Guide-Lanterns-Culture-aaron-pierre-kyle-chandler.jpg",
-    "tags": [
-      "Culture",
-      "Culture / TV",
-      "TV",
-      "streaming",
-      "Netflix"
-    ],
-    "industries": [],
-    "relevance_score": 14
   },
   {
     "id": "3b62b7394d77",
@@ -1433,6 +1607,22 @@
     "relevance_score": 12
   },
   {
+    "id": "e547baf41f04",
+    "title": "Tested: Wall Street's appetite for sandwiches - Axios",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE5QaEhSMDZwNnhEem55TlNEMTQwemExeExqTzZEWFR3Rl9xNk9UaUFWQk5LZFV2T2ZnVXZjajNGaEFraE93TWNHU1VsT3E2bm95SEJLQzBWYXplMjBsQWdVYWlWSndIX0ZNNS1r?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-08-08T07:40:09+00:00",
+    "summary": "Tested: Wall Street's appetite for sandwiches Axios",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "0504015a9086",
     "title": "OpenAI brings product carousels to ChatGPT ads",
     "url": "https://digiday.com/marketing/openai-brings-product-carousels-to-chatgpt-ads/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -1449,27 +1639,6 @@
       "retail"
     ],
     "relevance_score": 40
-  },
-  {
-    "id": "5febaae02df3",
-    "title": "The Chinese Philosopher Americans Can’t Stop Fighting About",
-    "url": "https://www.wired.com/story/the-chinese-philosopher-americans-cant-stop-fighting-about/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-08-07T18:54:04+00:00",
-    "summary": "Yiyang Zhuge was already an intellectual celebrity in China. Her viral interview with Christopher Nolan made her famous in the US—and quickly turned her into a political Rorschach test.",
-    "image_url": "https://media.wired.com/photos/6a73a1931940912fe3731ad5/master/pass/Made-In-China-Christopher-Nolan-Interview-That-Broke-Chinese-Internet-Business.jpg",
-    "tags": [
-      "Business",
-      "Made in China",
-      "China",
-      "Christopher Nolan",
-      "Movies"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
   },
   {
     "id": "0c3dd9246811",
@@ -1510,20 +1679,20 @@
     "relevance_score": 12
   },
   {
-    "id": "ada7a6134a1a",
-    "title": "Meet HYBE’s New Girl Group ‘TUIDE’ With Pre-Debut Introduction Video",
-    "url": "https://www.forbes.com/sites/laurasirikul/2026/08/07/meet-hybes-new-girl-group-tuide-with-pre-debut-video/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-07T18:52:39+00:00",
-    "summary": "HYBE's new girl group TUIDE, from the company's new label ABD, released their pre-debut single and music video introducing themselves. TUIDE is set to debut on August 24.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a76283d19fe6fc357a25488/0x0.jpg",
+    "id": "557e0bfc0113",
+    "title": "OpenAI puts the brakes on a new model because it’s supposedly too powerful",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976948/openai-astra-model-pause-critical-cyber-capabilities",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-08-07T18:40:34+00:00",
+    "summary": "OpenAI says it is pausing \"internal activities\" around an in-development AI model, Astra, because it doesn't yet meet new security standards the company is putting in place. The announcement follows its recent disclosure that OpenAI models accidentally hacked Hugging Face....",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK155_OPEN_AI_CVirginia_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
     "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
+      "AI",
+      "News",
+      "OpenAI",
+      "Security",
+      "Tech"
     ],
     "industries": [],
     "relevance_score": 13
@@ -1542,27 +1711,6 @@
     "relevance_score": 11
   },
   {
-    "id": "4dbeacfc6031",
-    "title": "The only instant cameras worth your money",
-    "url": "https://www.theverge.com/23133103/best-instant-cameras-fujifilm-polaroid-kodak",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-08-07T18:04:08+00:00",
-    "summary": "There’s something magical about using instant cameras that smartphones can’t match. You can capture a moment, print it out, and then give the photo as a gift or hold onto it. Image quality won’t be all that good, but imperfections are part of the allure. We tested instant...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268681_The_best_instant_cameras_you_can_buy_right_now_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Buying Guides",
-      "Camera Reviews",
-      "Cameras",
-      "Gadgets",
-      "Reviews"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
     "id": "4dcca0dfea6f",
     "title": "Shopping App Whatnot Valued at $20 Billion in New Funding - WSJ",
     "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNZS1zMDhpZE5hM2dNQTRMQS1zWVF1T3lNRklOUVVJQjEyX0RzMWlnenFCZ2RyYzlkcEN4ZG1nRVJHWTFib0ljOU9DUzFENDdGT25GZVRWbGdVVjhTWGpzY2QwN3hvaC1uSnNZSkZSTjdhUXJwYTBZS0lPb0NKV1F5WklwN1AtSTdqMjJXR1RBOVlaZm9hSlYyR0dn?oc=5",
@@ -1579,24 +1727,79 @@
     "relevance_score": 12
   },
   {
-    "id": "afd417c1a8c4",
-    "title": "Stanford is running 37,000 AI agents as a virtual biotech — and one of its drug designs got independently confirmed by Merck",
-    "url": "https://venturebeat.com/orchestration/stanford-is-running-37-000-ai-agents-as-a-virtual-biotech-and-one-of-its-drug-designs-got-independently-confirmed-by-merck",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-08-07T17:05:52+00:00",
-    "summary": "For developers, the operating assumption has been one engineer, one agent — the model Claude Code and similar tools. At VB Transform 2026 , James Zou, associate professor of biomedical data science at Stanford University, argued that assumption is about to break: the next...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/6WOK1urRrBAamMyKo3aZbn/7415fe29ed000de43f54362259b77b5e/2026-VB-Transform-Hotel-Nia-0543.jpg?w=300&q=30",
+    "id": "d9ddea0a57e0",
+    "title": "Ticker: David Ellison Believes CNN Plays a Role in Paramount-WBD Merger Delay",
+    "url": "https://www.adweek.com/tvnewser/ticker-david-ellison-believes-cnn-plays-a-role-in-paramount-wbd-merger-delay/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-08-07T17:56:12+00:00",
+    "summary": "A court date has been set in 2027 for the cases seeking to block the Paramount Skydance-Warner Bros. Discovery merger",
+    "image_url": null,
     "tags": [
-      "Orchestration",
-      "VB Transform"
+      "CBS",
+      "CNBC",
+      "CNN",
+      "NBC",
+      "Networks"
     ],
     "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
+      "media",
+      "industrial"
     ],
     "relevance_score": 13
+  },
+  {
+    "id": "488a42dca96d",
+    "title": "Disney Plus tries a new AI-powered search",
+    "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-08-07T17:53:44+00:00",
+    "summary": "Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disney Plus, like other streaming services, can recommend shows to watch based on...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-docs-image-4.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "tags": [
+      "Disney",
+      "News",
+      "Streaming"
+    ],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "44502cc079a8",
+    "title": "Adobe (ADBE) Q1 2026 Earnings Call Transcript - fortune.com",
+    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBVanZHLTc4MEdXNmdKaWVlNVBHNElGWlFPVXRuLWNBR2gzSVhvV1RybUpVeGdpREIydnJhbHFGakFwYVp0NGNQemk2Y0VOdUdSRWxqRkFDenZZTlA1QWJaOU1ycHNkNThMOExV?oc=5",
+    "source": "Adobe Marketing Cloud",
+    "source_category": "adobe",
+    "published": "2026-08-07T17:32:57+00:00",
+    "summary": "Adobe (ADBE) Q1 2026 Earnings Call Transcript fortune.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 13
+  },
+  {
+    "id": "e7082108221b",
+    "title": "Fenix Flexin isn’t even denying using AI to make ‘Rubberz’ anymore",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/976801/fenix-flexin-rubberz-ai-song-treblo",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-08-07T20:01:51+00:00",
+    "summary": "It took long enough, but now LA rapper Fenix Flexin appears to have admitted using AI for the 80s synth pop-themed song \"Rubberz.\" His comments follow the producer Medasin's videos claiming that an AI tool called Treblo (formerly Sonauto) was used to make the song, and the...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/artworks-WsdIgVXV8NOV-0-t1080x1080.jpg?quality=90&amp;strip=all&amp;crop=0,23.821989528796,100,52.356020942408",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Music",
+      "News"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 12
   },
   {
     "id": "61461aed94c7",
@@ -1615,15 +1818,36 @@
     "relevance_score": 14
   },
   {
-    "id": "afb5c3f62b78",
-    "title": "Will people pay more for Under Armour?",
-    "url": "https://www.retaildive.com/news/will-people-pay-more-under-armour-discounts-full-price/827321/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-08-07T16:51:00+00:00",
-    "summary": "Flouting signs of soft demand, CEO Kevin Plank on Friday said that “consumers are going to choose Under Armour at a premium.”",
-    "image_url": "https://imgproxy.divecdn.com/cfXdCQdvEAsO4Pvb_TBv-7soSJ23symzNyWPfTkCoq0/g:nowe:0:88/c:4031:2277/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUctMTM3NC5qcGc=.webp",
+    "id": "6c23cb7723df",
+    "title": "Results: Saudi Telecom Company Exceeded Expectations And The Consensus Has Updated Its Estimates - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQ3hDcFN4S0Z4cTI5OGx6cVZTQTdha3pxN2dnemloWlhmMDlWV2Q0UkdlTGR5bHFfVkt5TjRLTms2dFRDOTdBS3o4YXFRbDEwbGRVLTlSY25ZRkVZRFdXWldDQzJyTUh6bDRQRXpYMDJERUtCV1JzOTNuUDNnc3lFTFEtT0VEVnBHdklySU5fbm1qVXc4S0xsOTM4VWhxSXFSeHRRNjdWM1FWSmg4TFlxSFp6STZ0Wm1YLWc3WW1VcEp6OWRnYVBUMS1fc3Y0S00x0gHWAUFVX3lxTFBXMDdSR1pXLWpaaEkxcHVtSW84LVVjTk5zTzU1U3R2TVJXbkpaOElodmpLbXJkcDdDcUdTUEJqXzJUR1VDRUVfbUVKeWhZVExFaTVCcUtFM0tERXdyWEt4ZDQxMmRRMEVnR2V1X2FuWk9zZjlHc3NuVUpEUUxZdHJXb0xuT0JYVjlDamw4b0Mxa1puZEtESjhZbHNrR19wNVE2U0JHWjNENGc5NVU0TnFvcEJuSV9PdXBIZjczX2xQWGZiVi1aSG1ZbjRpbUFJd0NSdjVXeWc?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-08-08T05:45:45+00:00",
+    "summary": "Results: Saudi Telecom Company Exceeded Expectations And The Consensus Has Updated Its Estimates simplywall.st",
+    "image_url": null,
     "tags": [],
+    "industries": [
+      "telecom"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "dcddd1b0012a",
+    "title": "The 7 Best TV Shows to Stream This Month",
+    "url": "https://www.wired.com/story/the-7-best-shows-to-stream-right-now/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-08-07T16:48:21+00:00",
+    "summary": "Lanterns, Dark Matter, and the original Star Trek are just a few of the TV shows you should be watching right now.",
+    "image_url": "https://media.wired.com/photos/6a751477b127f3f26cdcc5c3/master/pass/Show-Guide-Lanterns-Culture-aaron-pierre-kyle-chandler.jpg",
+    "tags": [
+      "Culture",
+      "Culture / TV",
+      "TV",
+      "streaming",
+      "Netflix"
+    ],
     "industries": [],
     "relevance_score": 13
   },
@@ -1647,196 +1871,5 @@
       "tech"
     ],
     "relevance_score": 14
-  },
-  {
-    "id": "853d890229e7",
-    "title": "New Mexico court orders Meta to pay additional $567M in child safety case",
-    "url": "https://techcrunch.com/2026/08/07/new-mexico-court-orders-meta-to-pay-additional-567m-in-child-safety-case/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-08-07T11:40:37+00:00",
-    "summary": "Meta's total fine has racked up to $942 million in this case.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/02/zuckerberg-LA-trial-2026-GettyImages-2261841364.jpg?w=1024",
-    "tags": [
-      "AI",
-      "child safety",
-      "Meta"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "feb8ac710d54",
-    "title": "Our Favorite Fans Are on Sale to Help With Summer Heat Waves (2026)",
-    "url": "https://www.wired.com/story/fan-deals-august-2026/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-08-07T13:56:51+00:00",
-    "summary": "We’re still in the dog days of summer—keep your cool with deals on the best fans we’ve tested for on the go and at home.",
-    "image_url": "https://media.wired.com/photos/6a7565b678bea608b59e660b/master/pass/Our-Favorite-Fans-Are-Discounted.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "Gear / Products / Lifestyle",
-      "Deals",
-      "cooling"
-    ],
-    "industries": [],
-    "relevance_score": 14
-  },
-  {
-    "id": "736bf894fc23",
-    "title": "Ralph Lauren is on a winning streak",
-    "url": "https://www.retaildive.com/news/ralph-lauren-winning-streak-q1-north-america-china/827312/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-08-07T16:18:00+00:00",
-    "summary": "The company’s revenue was up 14% in the first quarter, led by 13% growth in North America and 40% growth in China.",
-    "image_url": "https://imgproxy.divecdn.com/K7oVR8ueC6-i8TC9V2Zx1Sq1qBKTgqTyQDm06INxY1Y/g:nowe:0:68/c:916:517/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wOTI3MjNfVG9yb250b09wZW5pbmcuanBn.webp",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 13
-  },
-  {
-    "id": "66165609f5f2",
-    "title": "Cloudflare launches Kitesurf, a browser built for AI agents",
-    "url": "https://techcrunch.com/2026/08/07/cloudflare-launches-kitesurf-a-browser-built-for-ai-agents/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-08-07T16:16:09+00:00",
-    "summary": "Kitesurf is a cloud-hosted browser designed for AI agents instead of people. It uses less computing power than Chromium for common automation tasks, helping developers build browser-based AI agents more efficiently.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/kitesurf.webp?resize=1200,640",
-    "tags": [
-      "AI",
-      "Apps",
-      "AI agents",
-      "cloudflare"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "530250dbae4e",
-    "title": "Why Adobe Systems (ADBE) Outpaced the Stock Market Today - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNYjhKaU9SLXNaWU5fR1RlRDlmRlhoMFBnLUdkLURBNU9sMDV2elNBVnJ4RWlfZkdVMmYxX0pYTWI5Qm5wZGhkNmJVR3pyS0Y5RmxsUGF3QzlCRGw5Mk5KU1dRSEQzbUw3TzdxV0hmSDZQbWM2X3NxbGUwNEFlbl9tUkVvcEJNUG90ZzlNcmpuWk5hQzFiWTVmRUc3LTE?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-08-07T21:45:01+00:00",
-    "summary": "Why Adobe Systems (ADBE) Outpaced the Stock Market Today Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 11,
-    "also_covered_by": [
-      "Adobe"
-    ]
-  },
-  {
-    "id": "a1a65efc5a03",
-    "title": "Woo, Sue, and ARPU: What Publisher Earnings Reveal About Their AI Strategies",
-    "url": "https://www.adweek.com/media/woo-sue-arpu-publisher-earnings-reveal-ai-strategies/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-08-07T08:43:48+00:00",
-    "summary": "The New York Times, News Corp, USA Today Co. and People Inc. reported this week, each of which is grappling with AI-driven pressure on traffic.",
-    "image_url": null,
-    "tags": [
-      "Earnings Reports",
-      "Media News",
-      "Premium"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "eb7a6151936c",
-    "title": "QVC Group exits Chapter 11, CEO steps down",
-    "url": "https://www.retaildive.com/news/qvc-exits-chapter-11-ceo-steps-down/827314/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-08-07T15:45:00+00:00",
-    "summary": "Mike George, who once led the company when it was Qurate Retail Group, has been named interim chief executive officer.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "13fc50f4b850",
-    "title": "Spirit Halloween parent company to acquire Hot Topic",
-    "url": "https://www.retaildive.com/news/spencer-spirit-holdings-acquire-hot-topic-halloween/827283/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-08-07T15:37:00+00:00",
-    "summary": "Hot Topic and its subsidiaries will continue to operate independently and will maintain their headquarters in California.",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 13
-  },
-  {
-    "id": "f9ab3b75b26b",
-    "title": "Adobe Launches Free ChatGPT Plugin Routing Photoshop and Premiere Automatically - Tech Times",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNeERfcnBjT3R1QUlZZjlaSzNmVFRkY2dEaGdqbFNNc0hFMXd4WFhVYkpYN3JiUXZCc3A4ME5uMy1XR2JLbEhSX0ZjRWtVWmF6OHB5RVNKdmpLdHIzcWx4eDZ3eXdHNm1ILU5CX2FXblhLUXYwNnFiQlNKVFhOX1ExSXpVODg0M3AzUXVnY2dKdy1DZGQ3N2RnclJraEFrbHNMTFQtSjcyYzNtenJhUXlXUTV1cFNYWEI3d0FaZUl1SXVXaUR3VkxyLUVR?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-08-07T18:20:37+00:00",
-    "summary": "Adobe Launches Free ChatGPT Plugin Routing Photoshop and Premiere Automatically Tech Times",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 12,
-    "also_covered_by": [
-      "Adobe Products"
-    ]
-  },
-  {
-    "id": "1f0f43235da1",
-    "title": "5 AI Service Report Insights for Growing Businesses",
-    "url": "https://www.salesforce.com/blog/small-business/state-of-service-report-insights-for-growing-businesses/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-08-07T13:00:00+00:00",
-    "summary": "The latest State of Service report is packed with data on how AI is reshaping customer service — here's what it means for your lean team.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/image_86d9d1.png",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "4416708350f7",
-    "title": "Ranking the Best Smart Glasses: Meta, Viture, & More (2026)",
-    "url": "https://www.wired.com/gallery/best-smart-glasses/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-08-07T10:30:00+00:00",
-    "summary": "This burgeoning wearable tech lets you talk to an AI assistant, listen to music, or check out a display screen from the comfort of your very own face.",
-    "image_url": "https://media.wired.com/photos/6a74ce6cc44a52857403bf0a/master/pass/The-Best-Smart-Glasses-That-Aren%E2%80%99t-Just-a-Gimmick.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Buying Guides",
-      "Gear / Products / Augmented and Virtual Reality",
-      "Gear / Products / Lifestyle",
-      "Wearables"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
   }
 ]

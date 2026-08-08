@@ -54,26 +54,6 @@
     "relevance_score": 46
   },
   {
-    "id": "771410a48968",
-    "title": "The biggest bottleneck in market research isn’t the research",
-    "url": "https://martech.org/the-biggest-bottleneck-in-market-research-isnt-the-research/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-08-06T12:16:00+00:00",
-    "summary": "Survey design and analysis aren't the problem. The delays happen between them. AI-native platforms are designed to eliminate that friction. The post The biggest bottleneck in market research isn’t the research appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/08/data-bottleneck-800x450.png",
-    "tags": [
-      "Marketing management",
-      "Marketing technology"
-    ],
-    "industries": [
-      "media",
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 45
-  },
-  {
     "id": "de335e27832f",
     "title": "The gaming site sponsored by Walmart lays off its editorial staff",
     "url": "https://www.theverge.com/games/977056/restart-gaming-site-walmart-moonrock-layoffs",
@@ -93,6 +73,26 @@
       "consumer"
     ],
     "relevance_score": 45
+  },
+  {
+    "id": "771410a48968",
+    "title": "The biggest bottleneck in market research isn’t the research",
+    "url": "https://martech.org/the-biggest-bottleneck-in-market-research-isnt-the-research/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-08-06T12:16:00+00:00",
+    "summary": "Survey design and analysis aren't the problem. The delays happen between them. AI-native platforms are designed to eliminate that friction. The post The biggest bottleneck in market research isn’t the research appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/08/data-bottleneck-800x450.png",
+    "tags": [
+      "Marketing management",
+      "Marketing technology"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 42
   },
   {
     "id": "d87fad5dba54",
@@ -162,7 +162,10 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 26
+    "relevance_score": 26,
+    "also_covered_by": [
+      "Health Tech"
+    ]
   },
   {
     "id": "0a5676c75556",
@@ -187,67 +190,25 @@
     "relevance_score": 15
   },
   {
-    "id": "488a42dca96d",
-    "title": "Disney Plus tries a new AI-powered search",
-    "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-08-07T17:53:44+00:00",
-    "summary": "Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disney Plus, like other streaming services, can recommend shows to watch based on...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-docs-image-4.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
-    "tags": [
-      "Disney",
-      "News",
-      "Streaming"
-    ],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "d9ddea0a57e0",
-    "title": "Ticker: David Ellison Believes CNN Plays a Role in Paramount-WBD Merger Delay",
-    "url": "https://www.adweek.com/tvnewser/ticker-david-ellison-believes-cnn-plays-a-role-in-paramount-wbd-merger-delay/",
-    "source": "Adweek",
+    "id": "441a7e503c3e",
+    "title": "‘Minions & Monsters’ Streaming Date Nears As Franchise Shows Wear At Box Office",
+    "url": "https://www.forbes.com/sites/timlammers/2026/08/08/minions--monsters-streaming-date-nears-as-franchise-shows-wear-at-box-office/",
+    "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-08-07T17:56:12+00:00",
-    "summary": "A court date has been set in 2027 for the cases seeking to block the Paramount Skydance-Warner Bros. Discovery merger",
-    "image_url": null,
+    "published": "2026-08-08T09:00:00+00:00",
+    "summary": "“Minions & Monsters,” the seventh film in the “Despicable Me” franchise, arrives on digital streaming this week following an underwhelming run at the box office.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a76a2c2527c3c71157c8a19/0x0.jpg?width=960",
     "tags": [
-      "CBS",
-      "CNBC",
-      "CNN",
-      "NBC",
-      "Networks"
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
     ],
     "industries": [
-      "media",
-      "industrial"
+      "media"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "d78aeab37b7f",
-    "title": "Watching Roku’s AI channel is like eating from a trough",
-    "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-08-07T18:59:46+00:00",
-    "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-07-at-2.40.34-PM.png?quality=90&amp;strip=all&amp;crop=0%2C2.3735501218774%2C100%2C95.252899756245&amp;w=1200",
-    "tags": [
-      "AI",
-      "Entertainment",
-      "Streaming",
-      "TV Shows"
-    ],
-    "industries": [
-      "media",
-      "tech"
-    ],
-    "relevance_score": 14
+    "relevance_score": 15
   },
   {
     "id": "40bce1d4ca93",
@@ -271,25 +232,65 @@
     ]
   },
   {
-    "id": "45abb77c85a3",
-    "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
-    "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
-    "source": "Wired",
+    "id": "488a42dca96d",
+    "title": "Disney Plus tries a new AI-powered search",
+    "url": "https://www.theverge.com/streaming/976881/disney-plus-ai-recommendation-espn-search",
+    "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-08-07T10:00:00+00:00",
-    "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
-    "image_url": "https://media.wired.com/photos/6a74accfee5313e488f8fb05/master/pass/080726-Guy-Running-Chatbot-By-Hand-Business.jpg",
+    "published": "2026-08-07T17:53:44+00:00",
+    "summary": "Disney is testing a new AI-powered tool for Disney Plus that uses a natural language search, a voice query, or a suggested prompt to create a customized row of show and movie recommendations. Disney Plus, like other streaming services, can recommend shows to watch based on...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/google-docs-image-4.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
     "tags": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "chatbots",
-      "art",
-      "artificial intelligence"
+      "Disney",
+      "News",
+      "Streaming"
     ],
     "industries": [
       "media",
-      "tech",
       "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "d9ddea0a57e0",
+    "title": "Ticker: David Ellison Believes CNN Plays a Role in Paramount-WBD Merger Delay",
+    "url": "https://www.adweek.com/tvnewser/ticker-david-ellison-believes-cnn-plays-a-role-in-paramount-wbd-merger-delay/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-08-07T17:56:12+00:00",
+    "summary": "A court date has been set in 2027 for the cases seeking to block the Paramount Skydance-Warner Bros. Discovery merger",
+    "image_url": null,
+    "tags": [
+      "CBS",
+      "CNBC",
+      "CNN",
+      "NBC",
+      "Networks"
+    ],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "d78aeab37b7f",
+    "title": "Watching Roku’s AI channel is like eating from a trough",
+    "url": "https://www.theverge.com/entertainment/976939/roku-fairground-ai-fast-channel",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-08-07T18:59:46+00:00",
+    "summary": "The appeal of free ad-supported streaming television (FAST) channels has always been the way they make it easier to (re)discover classic films and series. But Roku's latest experiment in the FAST space has less to do with traditionally produced entertainment and is entirely...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-07-at-2.40.34-PM.png?quality=90&amp;strip=all&amp;crop=0%2C2.3735501218774%2C100%2C95.252899756245&amp;w=1200",
+    "tags": [
+      "AI",
+      "Entertainment",
+      "Streaming",
+      "TV Shows"
+    ],
+    "industries": [
+      "media",
+      "tech"
     ],
     "relevance_score": 13
   },
@@ -391,6 +392,62 @@
     "relevance_score": 11
   },
   {
+    "id": "45abb77c85a3",
+    "title": "The Hottest New AI Chatbot Is Just a Guy Answering Your Questions",
+    "url": "https://www.wired.com/story/this-chatbot-is-just-a-random-guy-lol/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-08-07T10:00:00+00:00",
+    "summary": "WIRED spoke with Tucker Bryant, an artist and former Google employee who created ChatTJB to get people to reflect on the “strange moment” we’re in.",
+    "image_url": "https://media.wired.com/photos/6a74accfee5313e488f8fb05/master/pass/080726-Guy-Running-Chatbot-By-Hand-Business.jpg",
+    "tags": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "chatbots",
+      "art",
+      "artificial intelligence"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "231d83771782",
+    "title": "Salesforce’s Agentforce 360 platform approved for sensitive Defense Department data - SC Media",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOREp2RmNnWHdJejdHVUtMQW5zY05KSGJiS3JtU04xVW1qZ2xFdGI3dXVKTV9NRkVPX0poekVFbDRLWDdydHdyeFI4NFlvYnFneWJmeE12VHpyNERvUXRMb2lPa2pYQjVFWUhSbGVPcXRCZHd2RkZBb1pqNzlTYnZaT204V3Q3OE1rNlZMSjR1ZHc0bWFkSW92aVlSOUY0T0ZfY2Y4UDRsYkkwRW4wekFpOHZR?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-08-06T15:08:09+00:00",
+    "summary": "Salesforce’s Agentforce 360 platform approved for sensitive Defense Department data SC Media",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "3f6a2521af92",
+    "title": "Trump Orders Leak Probe After Venting About Media Coverage of Munitions Stockpile - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS200d1UtaHFSNlJYdjVReHViMUFJQ042S2YweUJERjZTaDhCN1pFNzFVbmhlQVMyOEJlMGYxWWM1YTdpdHpQUUIyUkp3anBSbWxuTnhCZXJiQlRKZV8ycnZtRUVxX01YanRidlFLMENHX0liczFxUlRmbG9PTkFrVFB0WlI1cFJ5bk5qZDhXZ1NreTJDS3R3QUpVbVNqREdTTUlrMU1IRjFlYXltNzgxdzVKc013czl1OFIwQnJwUUlJTjRsZkpmaVMtaWxid3otSTNv?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-08-08T09:10:45+00:00",
+    "summary": "Trump Orders Leak Probe After Venting About Media Coverage of Munitions Stockpile WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "575e54620191",
     "title": "Sony is scaling up its Playstation advertising ambitions",
     "url": "https://digiday.com/media-buying/sony-is-scaling-up-its-playstation-advertising-ambitions/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -408,18 +465,34 @@
     "relevance_score": 9
   },
   {
-    "id": "3f6a2521af92",
-    "title": "Trump Orders Leak Probe After Venting About Media Coverage of Munitions Stockpile - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPS200d1UtaHFSNlJYdjVReHViMUFJQ042S2YweUJERjZTaDhCN1pFNzFVbmhlQVMyOEJlMGYxWWM1YTdpdHpQUUIyUkp3anBSbWxuTnhCZXJiQlRKZV8ycnZtRUVxX01YanRidlFLMENHX0liczFxUlRmbG9PTkFrVFB0WlI1cFJ5bk5qZDhXZ1NreTJDS3R3QUpVbVNqREdTTUlrMU1IRjFlYXltNzgxdzVKc013czl1OFIwQnJwUUlJTjRsZkpmaVMtaWxid3otSTNv?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-08-06T23:30:00+00:00",
-    "summary": "Trump Orders Leak Probe After Venting About Media Coverage of Munitions Stockpile WSJ",
+    "id": "526e0d0e2eeb",
+    "title": "Johnson Health Tech Trading Agrees to Pay $16.875 Million Civil Penalty for Failure to Immediately Report Fall Hazard with Horizon T101-05 Treadmills - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOazYyemc2ZV9OM2hFQ1NsWjR4aEM3NzBnSmtkRDB2b0Uxa0tkako0ZXc5Q3gzUzI0eG96QzBHMExUTl9jWGtuaHBydFgzVTMxbEhxSjEwb3d0eS13WXVWVU04dm9uWllpSXgwWmQxbXRLNUJWX2RHeUlfdzFQdWt1Uy1Nd1JNYmlnTm9CYWcwSm5JSzFYb0x1WGNNNA?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-04T14:51:00+00:00",
+    "summary": "Johnson Health Tech Trading Agrees to Pay $16.875 Million Civil Penalty for Failure to Immediately Report Fall Hazard with Horizon T101-05 Treadmills Yahoo Finance",
     "image_url": null,
     "tags": [],
     "industries": [
       "media",
-      "industrial"
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "6a4bdac3071c",
+    "title": "Charlotte health-tech accelerator opens applications nationally for second cohort - The Business Journals",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNVW4xWXlmaUktS2dGUEcyRG1ISXl2dk9aeEd3ZmdCQVc5b1hxbkRlSUpPQXFITjdpNXhJWV95QmViNzMwUmU2bU5RaWNPbHUxOWwxQ29KRXlyNVhhUkd4cm1aQkJTSXVxRTc4VlBnc21YcExDTjE0WXVSb09Tb1hJM1dzY0FKNG9lRTVzRjhEa3ZtamNlUlE?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-07T12:05:00+00:00",
+    "summary": "Charlotte health-tech accelerator opens applications nationally for second cohort The Business Journals",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "tech"
     ],
     "relevance_score": 6
   }
