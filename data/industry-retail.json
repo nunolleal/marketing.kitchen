@@ -14,7 +14,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 45
+    "relevance_score": 42
   },
   {
     "id": "d8c7b3447d38",
@@ -29,7 +29,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 42
+    "relevance_score": 39
   },
   {
     "id": "be694b7d9589",
@@ -60,7 +60,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 33
+    "relevance_score": 30
   },
   {
     "id": "247df1140cc8",
@@ -103,7 +103,26 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
+  },
+  {
+    "id": "c98107d0470a",
+    "title": "Costco’s great Switch 2 console bundle includes over $100 in free stuff",
+    "url": "https://www.theverge.com/gadgets/977489/costco-switch-2-microsd-express-switch-online-expansion-deal-sale",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-08-10T19:14:27+00:00",
+    "summary": "The cost of the Nintendo Switch 2 is going up by $50 on September 1st, 2026, resulting in a $499.99 price tag for just the console. We’re just weeks away, but Costco is offering a fantastic $499.99 bundle for its members that includes a Nintendo Switch 2, a 256GB microSD...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/12/Nintendo-Switch-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 17
   },
   {
     "id": "096ff16b1ade",
@@ -125,7 +144,7 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "94c60a7bab80",
@@ -143,29 +162,45 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
-    "id": "a8da6d41b163",
-    "title": "The first rival Android app store just arrived in the US Play Store",
-    "url": "https://www.theverge.com/tech/977269/google-play-store-third-party-app-aptoide-games",
-    "source": "The Verge",
+    "id": "a7e2c26896ee",
+    "title": "Planned Amazon data center could become the biggest climate polluter in the US",
+    "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
+    "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-08-10T11:30:32+00:00",
-    "summary": "Following the latest twist in Google's legal battles with Epic, US Android users are now able to open Google's Play Store and download a third-party digital store with its own selection of apps. Aptoide, a store specializing in mobile games, is the first to become available....",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/aptoide-games-google-play-store-us.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.725958525488%2C100%2C78.548082949024&amp;w=1200",
+    "published": "2026-08-08T21:24:02+00:00",
+    "summary": "AI has already had a significant impact on Amazon’s carbon emissions, which it reported were up 16% last year — the wrong direction for a company that pledged to eliminate its carbon emissions by 2040.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-692150220.jpeg?resize=1200,800",
     "tags": [
-      "Android",
-      "Apps",
-      "Google",
-      "News",
-      "Tech"
+      "AI",
+      "Climate",
+      "Amazon",
+      "In Brief"
     ],
     "industries": [
-      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "51021a548b9c",
+    "title": "AWS Continuum integrates with OpenAI Codex and Anthropic Claude Code in major AI security push",
+    "url": "https://venturebeat.com/security/aws-continuum-integrates-with-openai-codex-and-anthropic-claude-code-in-major-ai-security-push",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-08-10T20:00:00+00:00",
+    "summary": "Amazon Web Services is threading its AI-powered security infrastructure directly into the coding environments built by two of its fiercest rivals — and in doing so, it is making a bold bet that controlling the security layer matters more than controlling the model. AWS...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/SAOvzFCJxyQFsjBGFCsXx/c67bfe956f9794e39ca73523992245a1/Nuneybits_Vector_art_of_exploding_software_flaws_collapsing_int_98286e9a-3e7b-462e-bde7-1d600cce5a2d.webp?w=300&q=30",
+    "tags": [
+      "Security"
+    ],
+    "industries": [
       "retail"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "d5a1d98a3a76",
@@ -181,7 +216,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "e12a7ce5766d",
@@ -197,7 +232,7 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "a47908d23506",
@@ -212,7 +247,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "a8fb4f9d389b",
@@ -226,45 +261,6 @@
     "tags": [],
     "industries": [
       "retail"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "86e87f3868f0",
-    "title": "A California Program Is Bringing Down the Cost of Heat Pumps by Buying Bulk",
-    "url": "https://www.wired.com/story/california-group-buy-bringing-down-heat-pump-costs/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-08-10T11:00:00+00:00",
-    "summary": "The approach is like a Costco for heat pumps, and it’s helping make installations more accessible as heat waves worsen.",
-    "image_url": "https://media.wired.com/photos/6a7655fee85ba359de1ff2c1/master/pass/Science_How%20Heat%20Pump%20Group-Buys%20Are%20Bringing%20Down%20the%20Cost%20of%20Heating%20and%20Cooling_v1.jpg",
-    "tags": [
-      "Science",
-      "Science / Environment",
-      "heat pumps",
-      "Heating",
-      "cooling"
-    ],
-    "industries": [
-      "tech",
-      "retail"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "a509b09ef538",
-    "title": "What Are Wall Street Analysts' Target Price for Adobe Stock? - barchart.com",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZF8td3BqVlpiNWV5ajdKVUJBQk1TZUJMNndZSEI3c0tsT1I5VUhWQjRpbnI3OGhZRWlhSkhoaVM0aDE3dEJ5R2s4b214Y183allJUnIyaWh5WktMX1JCM0FXemlmako1akxnZEU0ODEtbENpOEhDNjVDa3V5ejZRTWJQb2VvaExKWi1Lc0hhMndDa0VEYVJxVDlIbUZnMTk2bFQzcw?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-08-10T14:46:38+00:00",
-    "summary": "What Are Wall Street Analysts' Target Price for Adobe Stock? barchart.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "financial"
     ],
     "relevance_score": 13
   },
@@ -285,38 +281,24 @@
     "relevance_score": 12
   },
   {
-    "id": "a7e2c26896ee",
-    "title": "Planned Amazon data center could become the biggest climate polluter in the U.S.",
-    "url": "https://techcrunch.com/2026/08/08/planned-amazon-data-center-could-become-the-biggest-climate-polluter-in-the-u-s/",
-    "source": "TechCrunch AI",
+    "id": "86e87f3868f0",
+    "title": "A California Program Is Bringing Down the Cost of Heat Pumps by Buying Bulk",
+    "url": "https://www.wired.com/story/california-group-buy-bringing-down-heat-pump-costs/",
+    "source": "Wired",
     "source_category": "ai",
-    "published": "2026-08-08T21:24:02+00:00",
-    "summary": "As part of a planned Texas data center, Amazon is investing in an on-site power plant that could reportedly become the largest source of climate pollution in the United States.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/08/GettyImages-692150220.jpeg?resize=1200,800",
+    "published": "2026-08-10T11:00:00+00:00",
+    "summary": "The approach is like a Costco for heat pumps, and it’s helping make installations more accessible as heat waves worsen.",
+    "image_url": "https://media.wired.com/photos/6a7655fee85ba359de1ff2c1/master/pass/Science_How%20Heat%20Pump%20Group-Buys%20Are%20Bringing%20Down%20the%20Cost%20of%20Heating%20and%20Cooling_v1.jpg",
     "tags": [
-      "AI",
-      "Climate",
-      "Amazon"
+      "Science",
+      "Science / Environment",
+      "heat pumps",
+      "Heating",
+      "cooling"
     ],
     "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "1fd1373e566e",
-    "title": "AI is becoming retail’s operating system",
-    "url": "https://www.retaildive.com/spons/ai-is-becoming-retails-operating-system/826765/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-08-10T09:00:00+00:00",
-    "summary": "Retail's AI advantage won't come from chatbots. It will come from connected decisions.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
+      "tech",
+      "retail"
     ],
     "relevance_score": 12
   },
@@ -383,85 +365,19 @@
     "relevance_score": 11
   },
   {
-    "id": "137769c9ece9",
-    "title": "B2B ecommerce is eating industrial sales faster than most distributors are ready for - MarketScale",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPWEtiZkNiSDBVb0ZMNC1oWGUxNG1HZWpyODNqWnQ4bjZYWEFham0zLU9fTFlJNHVLb3l3NTBwbl9Fc1NhUTlUaEJId2hsRGlzYkMtUFdhSFYwSW9RQ1VQUHNGUlNDUy03YVN1U3RKR0d0ZkFCOTdrbGJsN0p0WnhjVUF2UlN4TDBDcFU4S3AtSVg1c2FhMnZ6ZEtVVkRUSGd5MlhDZlAteDlOWjlQeUZJQUp4QzVXOUJrUnJvWmNQU3g0N3h4WGdQMGdsQkRSZEtCX1VFV3h5c2w?oc=5",
-    "source": "Industrial B2B",
-    "source_category": "industry_industrial",
-    "published": "2026-08-10T01:07:00+00:00",
-    "summary": "B2B ecommerce is eating industrial sales faster than most distributors are ready for MarketScale",
+    "id": "1fd1373e566e",
+    "title": "AI is becoming retail’s operating system",
+    "url": "https://www.retaildive.com/spons/ai-is-becoming-retails-operating-system/826765/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-08-10T09:00:00+00:00",
+    "summary": "Retail's AI advantage won't come from chatbots. It will come from connected decisions.",
     "image_url": null,
     "tags": [],
     "industries": [
       "retail",
       "industrial"
     ],
-    "relevance_score": 10
-  },
-  {
-    "id": "faed0da99d59",
-    "title": "Verizon cellular and internet service restored after fiber line vandalism caused widespread outage for SoCal customers - ABC7 Los Angeles",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQdDVNSWdKVnYxUDZKSngtbkJrUUJJWFBadm5aUW1nbXdTN2hnZlVJNEYwUGxuUG1pRGdJd0FNUEJ3d2tlNHkwRkh3dHJiVXpBRUNWSHVZdGt5SWhid2NCbnV1blA5VExxTGM1Nk9CMUJHX2VzWW1LYmZUVVROQVpXWDktMlUybExrMmNQUHVtdkRaNngwTkpwRjZlSXlUcVFpZmdQNVUzZVNtTlJzTGFEVjlEcTFOMlJNMTdxeXkzZGrSAcYBQVVfeXFMTmUyM3BtUV9nckdlR0wweGdEU09GaWlFb0JFZnF4X0U5ZkEzdU41bFk1TXF5U1JXN3FwMlFFY1JBLUNlY2diQ2l4VnBRY2x2cGZLaE1PSkFkcHJ0TnZUR2ZXdFVZMUdnSFlGTWUwYVlDa1VKT1pLZXR6YjQ3c3V3VUJIMVlOUy13d3VOdEFZWXRaS1lLUFphcXZXUFBjd1U1QnhzclpvcDN1cGZPMC1fLW1mOFB0NnFRUWk5OEtneHRMN1lRVkN3?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-08-10T02:48:04+00:00",
-    "summary": "Verizon cellular and internet service restored after fiber line vandalism caused widespread outage for SoCal customers ABC7 Los Angeles",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "14171b7b7094",
-    "title": "The Wild History of the Russian Online Retail Giant Being Bombarded by Ukraine - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQQ1FITkNGYWg1R0FfWlZmUGZiYThTN1BMTGlhMTdsdnpKekE0OGVpelBtWmE4Nm1mSlpTWi1RSmljSEcxWEVtOGRQejJETFl0aGVmNEltblU5QktiQktrcmoxQ0hnT3g3WHB2VWZiUkVUOUdXMzRpbGd2Y3FESVl2NnZJOEhZUlVhQzVqSVJSTDBFX1pqb3dFU2FYR3BZQ2dvWmFXcmpTZm9DZU9aNlFmOVdtVG9qNTRqTm4wUg?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-08-10T15:31:31+00:00",
-    "summary": "The Wild History of the Russian Online Retail Giant Being Bombarded by Ukraine WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "e8fd206014bb",
-    "title": "SpaceX Targets T-Mobile, Verizon With Terrestrial Network - The Tech Buzz",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNT19VMkt1NTAtM1B5bDlFOWYwNXNtbWNESEN2a0Q4cXZHSDNUT24zck5Za2xfZWZIX2tQZEpySS1GNXhKNWJTNEpvOEFYS0UyZjFxMVFjc3ZHTklXanI4V0VWVF9SOW52anNuV3Q0NlFDd1F1OEN6Ul9vOXRoYUxib2ZZQjFFOXdoOU9sZ3lYYW56R3c?oc=5",
-    "source": "Fierce Telecom",
-    "source_category": "industry_telecom",
-    "published": "2026-08-05T07:43:00+00:00",
-    "summary": "SpaceX Targets T-Mobile, Verizon With Terrestrial Network The Tech Buzz",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "db422be7e5a0",
-    "title": "PayPay (PAYP) Unveils Capital Alliance To Link Digital Payments With Store Shopping - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX0pDdGlDT1JPY2ROekpvXzlGMzNJcGZBQV9PLUxVMHhIeXhmektOLTF0cnNsLUtCbWJyUXBxZTRJaDA5SFVacUoyUUlZbVQwSHJtNlVNaU5WVlQ3ZHlnMDdPU05Sby1LTmJVWWJwZkFIc3g4TFpFYTE5Y1JncDYxYWRrejBKTFVmcVFxcGVuSFpRb1JYS3F1WHRzb0FuaWw4RTYw?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-08-07T08:13:03+00:00",
-    "summary": "PayPay (PAYP) Unveils Capital Alliance To Link Digital Payments With Store Shopping Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "financial"
-    ],
-    "relevance_score": 5
+    "relevance_score": 11
   }
 ]
