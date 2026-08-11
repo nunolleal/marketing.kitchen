@@ -6,14 +6,14 @@
     "source": "Healthcare Dive",
     "source_category": "industry_lifesciences",
     "published": "2026-08-10T15:42:23+00:00",
-    "summary": "The sector added 22,000 jobs in July, well below the past year's monthly average. Still, healthcare buoyed what was otherwise a weaker-than-expected report for the economy overall.",
+    "summary": "The sector added 22,000 jobs in July, well below the monthly average of 36,000 new jobs added in the past year. Still, healthcare buoyed what was otherwise a weaker-than-expected report for the economy overall.",
     "image_url": "https://imgproxy.divecdn.com/SkdfxzgxqNQ5aae5ngkwAwmc860d307k94ifVttGNHo/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjc5NjUwMjk3LmpwZw==.webp",
     "tags": [],
     "industries": [
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "94c60a7bab80",
@@ -31,7 +31,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "9ca6eea2b4b7",
@@ -101,37 +101,6 @@
     "relevance_score": 11
   },
   {
-    "id": "2308d81aa875",
-    "title": "Winning the AI Decision Layer in Hospitality: From AI Discovery to Agentic Booking - Hospitality Net",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWUpXMElZYTRKQnVTZU13aFpTQkctQTFvcmEyYlRQYzV4b21EZDVFcno2SnNXUUhnalZ4UXpSQkRTUkdaT2NKRlZFS2lTU1R6ZnpQY0QwQWp0UVNkejBJcWdPdk9iMGdwcWhKOTFmc2Z5bWd3SjRCXzhkTXQxeHFHZE9TTnRzajB2N1RTMW9Ld0N3cXlialFianFIR1l3WTNWOHZZRU9sb3BiZDJhMHpGR1RvU1pPRl9DR2x2ZUZKMHBwWVZ2RG4w?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-08-10T21:29:06+00:00",
-    "summary": "Winning the AI Decision Layer in Hospitality: From AI Discovery to Agentic Booking Hospitality Net",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "9b3819e71494",
-    "title": "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-bets-big-hospital-enterprise-ai-platforms-it-ramps-tech-investment",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-10T08:05:00+00:00",
-    "summary": "Doximity's push to be the leading AI digital assistant for docs",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "32ec05a701fa",
     "title": "The next challenge for AI in healthcare isn’t adoption. It’s connection.",
     "url": "https://www.healthcaredive.com/spons/the-next-challenge-for-ai-in-healthcare-isnt-adoption-its-connection/826435/",
@@ -173,6 +142,22 @@
     "image_url": null,
     "tags": [],
     "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "2308d81aa875",
+    "title": "Winning the AI Decision Layer in Hospitality: From AI Discovery to Agentic Booking - Hospitality Net",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWUpXMElZYTRKQnVTZU13aFpTQkctQTFvcmEyYlRQYzV4b21EZDVFcno2SnNXUUhnalZ4UXpSQkRTUkdaT2NKRlZFS2lTU1R6ZnpQY0QwQWp0UVNkejBJcWdPdk9iMGdwcWhKOTFmc2Z5bWd3SjRCXzhkTXQxeHFHZE9TTnRzajB2N1RTMW9Ld0N3cXlialFianFIR1l3WTNWOHZZRU9sb3BiZDJhMHpGR1RvU1pPRl9DR2x2ZUZKMHBwWVZ2RG4w?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-08-10T21:29:06+00:00",
+    "summary": "Winning the AI Decision Layer in Hospitality: From AI Discovery to Agentic Booking Hospitality Net",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 10
@@ -226,13 +211,43 @@
     "relevance_score": 9
   },
   {
+    "id": "9b3819e71494",
+    "title": "Doximity bets big on hospital adoption of enterprise AI as it ramps up tech spending",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/doximity-bets-big-hospital-enterprise-ai-platforms-it-ramps-tech-investment",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-10T08:05:00+00:00",
+    "summary": "Doximity's push to be the leading AI digital assistant for docs",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2252942172.jpg?VersionId=PIkDSHpkZMht7aoWCjEDCYzNHszlNXYe",
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "467759443309",
+    "title": "Patent Cliffs Meets the GLP-1 Liquidity Wave: Is Pharma the new exit route for Digital Health? - healthcare.digital",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPQldfWTUyeHRaZThILUs5N1hJSnVYQkdmVzBHLTRxc2Zsa1dRRjZaWWNiellxM095ZnFWYVROR3J6NjRJVGhFQzJobjJGVDFMQXJzWDI4TGlGT2F5dG1UOHh2YWVuZ2JQNU03bng0eFFuaGNwUk9pTk1TbXQ2clJUVlRBV3RILTlpN204eEJLWWtEZXVhZm1qNzVfbkptU3kyNDBHN0tkQm1Zc1hOVHRyajJrN3AxVzVuTGJCRUl6OHlPQ3dHSFVuUTV2RzV6NnNV?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-10T13:39:47+00:00",
+    "summary": "Patent Cliffs Meets the GLP-1 Liquidity Wave: Is Pharma the new exit route for Digital Health? healthcare.digital",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "241424d72c03",
-    "title": "Louisiana fires up rural health innovation with new federal funding - Healthcare IT News",
+    "title": "Louisiana fires up rural health innovation with new federal funding - healthcareitnews.com",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOcnJmUk5yRGJ3RHhTR0VPY0U1ZU4zM1ZLSHZsMnAyMEFXczB6b0lXMVdHSFlIbjcwY3lOcDRjcF95SzBhc1p2QlJYNWJYcnRwZTlsQ19mbGxObXotcHpIMTJkeXc1cVdVenBrMVdqV2t4VVdGQzVJS1NPUVdjUDNxS3kzQTJ2Nm9MS3ZqWnZZY0xkX2RiMmlxR1hfTlBCdw?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
     "published": "2026-08-10T19:49:15+00:00",
-    "summary": "Louisiana fires up rural health innovation with new federal funding Healthcare IT News",
+    "summary": "Louisiana fires up rural health innovation with new federal funding healthcareitnews.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -284,22 +299,6 @@
     "tags": [],
     "industries": [
       "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "64733af2815e",
-    "title": "Labcorp nabs FDA green light for BRAF melanoma diagnostic - Fierce Biotech",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYi1PcXJoNUc3M1M0STQwNE5iVFVZRV9IVEFHMDBfcmhBTDJEQVlwUGFtUGJNb1RKRHB3em9lSnVYeVFwbEdKOC1vWXBRREo3a1dtRE9CdHhNbmg2RFVneHl2a19TbHlPbXdoVnIwUnJUZEc4VXJXMWMyamNqQUxHLUxRX3dlZ2ExYW1QVEdVTzhONjRWbnc?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-10T13:28:52+00:00",
-    "summary": "Labcorp nabs FDA green light for BRAF melanoma diagnostic Fierce Biotech",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 8
@@ -371,6 +370,22 @@
     "relevance_score": 7
   },
   {
+    "id": "64733af2815e",
+    "title": "Labcorp nabs FDA green light for BRAF melanoma diagnostic - Fierce Biotech",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPYi1PcXJoNUc3M1M0STQwNE5iVFVZRV9IVEFHMDBfcmhBTDJEQVlwUGFtUGJNb1RKRHB3em9lSnVYeVFwbEdKOC1vWXBRREo3a1dtRE9CdHhNbmg2RFVneHl2a19TbHlPbXdoVnIwUnJUZEc4VXJXMWMyamNqQUxHLUxRX3dlZ2ExYW1QVEdVTzhONjRWbnc?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-10T13:28:52+00:00",
+    "summary": "Labcorp nabs FDA green light for BRAF melanoma diagnostic Fierce Biotech",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
     "id": "8de1e8399932",
     "title": "Vital Signs: Digital Health Law Update | Spring/Summer 2026 - Jones Day",
     "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQbEN4cVJmNXFrREJTZEotZ2daNmVLMF8xSjg3NjE5NmN3VkRSVHFycEtsUk1rVW8xVGtOdlZpV0RwelhhVUVadHU3YjZNMFZTLW96Sm81Sk1wbjNHWk1QeXc0WGx5UG1PZ3JmNGZIVkRKSGFrWkxNVlh6M3A2NnlRLVdUc1gyeldmTmFTeC1RR2NEREVDOGRTUUtSRXFrOXNURzhleUlGY0NEeWc?oc=5",
@@ -402,12 +417,12 @@
   },
   {
     "id": "caba5050c096",
-    "title": "What does FDA's proposed DTC advertising rule mean for pharma? - pharmaphorum.com",
+    "title": "What does FDA's proposed DTC advertising rule mean for pharma? - pharmaphorum",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2t4MThEVVpsNm1Ock1vaGJIc3g1bDdVRzVSTUw3cV9tZWs1ckZjOWh6YlIxYVBGY1c3M0prcDF0UzJ1RDZNVzRFMmRMVGhWS21fZkR0MV9QbzVRY0NpRDlCMHhIcnlnUW5CRW5OLVBDSW1TMzY3Y2ZmN1JyTVVlYjYwR0lzRGF1bDVIRm95R1ZaeThwUnJIYjRSc1pkZw?oc=5",
     "source": "Pharma Marketing",
     "source_category": "industry_lifesciences",
     "published": "2026-08-04T18:04:35+00:00",
-    "summary": "What does FDA's proposed DTC advertising rule mean for pharma? pharmaphorum.com",
+    "summary": "What does FDA's proposed DTC advertising rule mean for pharma? pharmaphorum",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -527,12 +542,12 @@
   },
   {
     "id": "e46700eb9523",
-    "title": "FDA Approves First-in-Class Narcolepsy Drug - Labroots",
+    "title": "FDA Approves First-in-Class Narcolepsy Drug - labroots.com",
     "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY0tnUVAtMUZRdDBKanpIODhOME15Z3hFNWhRcDFZczU3Tnd0aXNHbVNxYnJJd2Zkb1BuUHhCWUoteXNHX2NRa1pvQUl4dWNwdG9SaDktNlREQXkza3JXTVRSNFZiSk13S2QxUGd1eWo3amo2WGRJVUx0RTdHYl95MjZoTUFxelh2blVfYVlYNDNUWXZiS0F5cElmcDBUTkd2Qy12dw?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
     "published": "2026-08-07T16:07:00+00:00",
-    "summary": "FDA Approves First-in-Class Narcolepsy Drug Labroots",
+    "summary": "FDA Approves First-in-Class Narcolepsy Drug labroots.com",
     "image_url": null,
     "tags": [],
     "industries": [
