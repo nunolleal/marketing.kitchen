@@ -14,7 +14,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 70
+    "relevance_score": 67
   },
   {
     "id": "28c224c60aa1",
@@ -35,29 +35,27 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 60
+    "relevance_score": 57
   },
   {
-    "id": "7fcba2304590",
-    "title": "Roger Federer Is No Longer A Billionaire After Sneaker Brand Shares Slump",
-    "url": "https://www.forbes.com/sites/zacharyfolk/2026/08/11/roger-federer-is-no-longer-a-billionaire-after-sneaker-brand-shares-slump/",
-    "source": "Forbes Business",
+    "id": "a7a7a5d44586",
+    "title": "Disney Continues Marketing Moves, Joss Hastings to Lead Consumer Products Marketing",
+    "url": "https://www.adweek.com/convergent-tv/disney-marketing-moves-joss-hastings-to-lead-consumer-products-marketing/",
+    "source": "Adweek",
     "source_category": "marketing",
-    "published": "2026-08-11T15:11:23+00:00",
-    "summary": "Federer’s net worth fell below $1 billion as the share price for On Holding fell 19% after missing net sales expectations.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a7b3b0850f216b7df71723e/0x0.jpg?width=960",
+    "published": "2026-08-11T15:00:00+00:00",
+    "summary": "Disney taps Hastings as svp of marketing for Disney Consumer Products globally.",
+    "image_url": null,
     "tags": [
-      "Breaking News",
-      "/news",
-      "Business",
-      "/business",
-      "Breaking News"
+      "General",
+      "Premium",
+      "Revolving Door"
     ],
     "industries": [
-      "consumer",
-      "industrial"
+      "media",
+      "consumer"
     ],
-    "relevance_score": 54
+    "relevance_score": 55
   },
   {
     "id": "f5f74f8fc776",
@@ -78,7 +76,7 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 53
+    "relevance_score": 50
   },
   {
     "id": "4337885695a0",
@@ -94,7 +92,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 52,
+    "relevance_score": 49,
     "also_covered_by": [
       "Adweek"
     ]
@@ -115,25 +113,7 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 51
-  },
-  {
-    "id": "efdc39032d48",
-    "title": "Experian retires the Audigent brand, folding it into Experian Marketing Services",
-    "url": "https://digiday.com/media-buying/experian-retires-the-audigent-brand-folding-it-into-experian-marketing-services/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-08-11T04:01:00+00:00",
-    "summary": "The Audigent brand is gone. So, increasingly, is the idea of curation as a category.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/07/AI-creative-digiday.jpg",
-    "tags": [
-      "Media Buying"
-    ],
-    "industries": [
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 47
+    "relevance_score": 48
   },
   {
     "id": "55076dcfa912",
@@ -172,37 +152,45 @@
     "relevance_score": 45
   },
   {
-    "id": "0fde739e0fde",
-    "title": "Signet names new leadership for Zales, Blue Nile",
-    "url": "https://www.retaildive.com/news/signet-names-leadership-zales-blue-nile/827534/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-08-11T16:00:00+00:00",
-    "summary": "The jewelry company appointed veterans from Mattel and Tiffany & Co. as it continues to push its Grow Brand Love strategy.",
-    "image_url": "https://imgproxy.divecdn.com/bO1O-xRc-Zdmnx32TRmJZT9Rikm6XD4fNwWv1BprPao/g:nowe:0:42/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTlRfMF8tX0Zyb250X0ZhY2FkZV9vZl9TdG9yZS5qcGc=.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "consumer"
+    "id": "efdc39032d48",
+    "title": "Experian retires the Audigent brand, folding it into Experian Marketing Services",
+    "url": "https://digiday.com/media-buying/experian-retires-the-audigent-brand-folding-it-into-experian-marketing-services/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-08-11T04:01:00+00:00",
+    "summary": "The Audigent brand is gone. So, increasingly, is the idea of curation as a category.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/07/AI-creative-digiday.jpg",
+    "tags": [
+      "Media Buying"
     ],
-    "relevance_score": 45
-  },
-  {
-    "id": "865150c6a125",
-    "title": "Gymshark names new chief supply chain officer",
-    "url": "https://www.retaildive.com/news/gymshark-names-chief-supply-chain-officer/827201/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-08-11T13:00:00+00:00",
-    "summary": "Matt Rogers joined the fitness apparel brand in 2023 and previously held the role of global supply chain director.",
-    "image_url": "https://imgproxy.divecdn.com/8mYFeFQgfajQt6Y3yOtWbyQQYN1hH1sssKyGEI28sT0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIyOTAyMjIzX3lZenljaEguanBn.webp",
-    "tags": [],
     "industries": [
-      "tech",
       "consumer",
       "industrial"
     ],
-    "relevance_score": 43
+    "relevance_score": 44
+  },
+  {
+    "id": "2e4adf8d5373",
+    "title": "AI Helps Retailers Get Clicks, But Humans Win Customers",
+    "url": "https://www.forbes.com/sites/gregpetro/2026/08/11/ai-helps-retailers-get-clicks-but-humans-win-customers/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-11T16:53:57+00:00",
+    "summary": "Shoppers are embracing AI-driven “conversational commerce,” but it’s still the human touch that earns brand loyalty.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a7b530bd5d8cac356342d4b/0x0.jpg?width=960&precrop=3845%2C2161%2Cx0%2Cy149",
+    "tags": [
+      "Investing",
+      "/investing",
+      "Money",
+      "/money",
+      "Investing"
+    ],
+    "industries": [
+      "retail",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 44
   },
   {
     "id": "1689b1fe67eb",
@@ -215,6 +203,22 @@
     "image_url": null,
     "tags": [],
     "industries": [
+      "consumer"
+    ],
+    "relevance_score": 42
+  },
+  {
+    "id": "0fde739e0fde",
+    "title": "Signet names new leadership for Zales, Blue Nile",
+    "url": "https://www.retaildive.com/news/signet-names-leadership-zales-blue-nile/827534/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-08-11T16:00:00+00:00",
+    "summary": "The jewelry company appointed veterans from Mattel and Tiffany & Co. as it continues to push its Grow Brand Love strategy.",
+    "image_url": "https://imgproxy.divecdn.com/bO1O-xRc-Zdmnx32TRmJZT9Rikm6XD4fNwWv1BprPao/g:nowe:0:42/c:2500:1412/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTlRfMF8tX0Zyb250X0ZhY2FkZV9vZl9TdG9yZS5qcGc=.webp",
+    "tags": [],
+    "industries": [
+      "tech",
       "consumer"
     ],
     "relevance_score": 42
@@ -240,6 +244,23 @@
     "relevance_score": 40
   },
   {
+    "id": "865150c6a125",
+    "title": "Gymshark names new chief supply chain officer",
+    "url": "https://www.retaildive.com/news/gymshark-names-chief-supply-chain-officer/827201/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-08-11T13:00:00+00:00",
+    "summary": "Matt Rogers joined the fitness apparel brand in 2023 and previously held the role of global supply chain director.",
+    "image_url": "https://imgproxy.divecdn.com/8mYFeFQgfajQt6Y3yOtWbyQQYN1hH1sssKyGEI28sT0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDIyOTAyMjIzX3lZenljaEguanBn.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 40
+  },
+  {
     "id": "7a1280fd1c00",
     "title": "P&G’s Always Discreet fights incontinence stigma with NFL campaign",
     "url": "https://www.marketingdive.com/news/how-pgs-always-discreet-normalizes-incontinence-with-nfl-campaign/827309/",
@@ -257,24 +278,6 @@
     "relevance_score": 39
   },
   {
-    "id": "fc818d172380",
-    "title": "Why AI-driven purchase intent so rarely becomes a completed sale",
-    "url": "https://venturebeat.com/technology/why-ai-driven-purchase-intent-so-rarely-becomes-a-completed-sale",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-08-11T15:00:00+00:00",
-    "summary": "Presented by Rezolve Ai When an AI assistant recommends a product or brand, it generates something valuable: a purchase-ready consumer with high intent and low friction in their decision. That consumer has already compared options, asked follow-up questions, and arrived at a...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2rNA1MUoPpYaHqSbQDH7lO/8babc736e93899827c7440a692332b47/AdobeStock_536581972.jpeg?w=300&q=30",
-    "tags": [
-      "Technology"
-    ],
-    "industries": [
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 38
-  },
-  {
     "id": "f16547ba6c62",
     "title": "Foot Locker reinforces role in sneaker culture with new brand platform",
     "url": "https://www.marketingdive.com/news/foot-locker-role-in-sneaker-culture-with-new-brand-platform/827210/",
@@ -290,6 +293,24 @@
       "industrial"
     ],
     "relevance_score": 36
+  },
+  {
+    "id": "fc818d172380",
+    "title": "Why AI-driven purchase intent so rarely becomes a completed sale",
+    "url": "https://venturebeat.com/technology/why-ai-driven-purchase-intent-so-rarely-becomes-a-completed-sale",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-08-11T15:00:00+00:00",
+    "summary": "Presented by Rezolve Ai When an AI assistant recommends a product or brand, it generates something valuable: a purchase-ready consumer with high intent and low friction in their decision. That consumer has already compared options, asked follow-up questions, and arrived at a...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2rNA1MUoPpYaHqSbQDH7lO/8babc736e93899827c7440a692332b47/AdobeStock_536581972.jpeg?w=300&q=30",
+    "tags": [
+      "Technology"
+    ],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 35
   },
   {
     "id": "d87fad5dba54",
@@ -392,21 +413,5 @@
       "industrial"
     ],
     "relevance_score": 20
-  },
-  {
-    "id": "caba5050c096",
-    "title": "What does FDA's proposed DTC advertising rule mean for pharma? - pharmaphorum",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQT2t4MThEVVpsNm1Ock1vaGJIc3g1bDdVRzVSTUw3cV9tZWs1ckZjOWh6YlIxYVBGY1c3M0prcDF0UzJ1RDZNVzRFMmRMVGhWS21fZkR0MV9QbzVRY0NpRDlCMHhIcnlnUW5CRW5OLVBDSW1TMzY3Y2ZmN1JyTVVlYjYwR0lzRGF1bDVIRm95R1ZaeThwUnJIYjRSc1pkZw?oc=5",
-    "source": "Pharma Marketing",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-04T18:04:35+00:00",
-    "summary": "What does FDA's proposed DTC advertising rule mean for pharma? pharmaphorum",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "consumer",
-      "lifesciences"
-    ],
-    "relevance_score": 5
   }
 ]
