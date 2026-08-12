@@ -27,7 +27,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 42
+    "relevance_score": 39
   },
   {
     "id": "7bf315f9bce0",
@@ -59,7 +59,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "ced1f5722803",
@@ -121,21 +121,6 @@
     "relevance_score": 12
   },
   {
-    "id": "c1af3afe9c7b",
-    "title": "Build a Salesforce Center of Excellence That Keeps Pace with AI",
-    "url": "https://www.salesforce.com/blog/center-of-excellence-ai-governance/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-08-11T20:35:57+00:00",
-    "summary": "Create a Center of Excellence built to manage technical debt, strengthen adoption, and support continuous change.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/Blog-Images-7.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
     "id": "28f4e75e8a64",
     "title": "Why Headless Architecture Is the Future of ITSM (and Why CIOs Are Choosing Buy + Build)",
     "url": "https://www.salesforce.com/blog/headless-itsm/",
@@ -149,6 +134,21 @@
       "industrial"
     ],
     "relevance_score": 12
+  },
+  {
+    "id": "c1af3afe9c7b",
+    "title": "Build a Salesforce Center of Excellence That Keeps Pace with AI",
+    "url": "https://www.salesforce.com/blog/center-of-excellence-ai-governance/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-08-11T20:35:57+00:00",
+    "summary": "Create a Center of Excellence built to manage technical debt, strengthen adoption, and support continuous change.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/Blog-Images-7.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 11
   },
   {
     "id": "73132e6850f6",
@@ -271,12 +271,12 @@
   },
   {
     "id": "0dde239f576d",
-    "title": "Salesforce Says Agentforce Adoption Is Accelerating but Enterprise CX Readiness Remains in Question - cxtoday.com",
+    "title": "Salesforce Says Agentforce Adoption Is Accelerating but Enterprise CX Readiness Remains in Question - CX Today",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPRGVEcEppVjh5eGdGZnlqX2Q1MUdYblVuMGtaTE1sYVlHREVaZDl3aUZOWS14VGZDbXVkaU9zcFZ2bU9Qb1ByZmFQdG5JNVpOcTdBNGhHZHhQTUhhcXJLRy0wX1NzU3JMdHdBRFJ5QlVwVzVsOWFhNy1pNF9XMWlpQWxCN2RWMFZwN3k2WXlvai10NUJDMTAxd0F0NGRUd0JGdUZOTEFGaFhkdlhZMFd3dWRTa2NhM0daS2J4VU1zd1F4bGJrVGdR?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
     "published": "2026-08-10T16:22:46+00:00",
-    "summary": "Salesforce Says Agentforce Adoption Is Accelerating but Enterprise CX Readiness Remains in Question cxtoday.com",
+    "summary": "Salesforce Says Agentforce Adoption Is Accelerating but Enterprise CX Readiness Remains in Question CX Today",
     "image_url": null,
     "tags": [],
     "industries": [
