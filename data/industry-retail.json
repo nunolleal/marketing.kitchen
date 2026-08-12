@@ -14,7 +14,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 67
+    "relevance_score": 64
   },
   {
     "id": "a7809214ffdc",
@@ -44,7 +44,7 @@
     "source": "Marketing Dive",
     "source_category": "marketing",
     "published": "2026-08-12T12:50:00+00:00",
-    "summary": "The high-energy spot is part of the “Back-To-Campus” brand platform and comes as the retailer continuous to set its sights on Gen Z.",
+    "summary": "The high-energy spot is part of the “Back-To-Campus” brand platform and comes as the retailer continues to set its sights on Gen Z.",
     "image_url": "https://imgproxy.divecdn.com/wUwgSI0-ZbYAhpJoGPxv2Cb7rO6kVVCAhmNR-BZGzQY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CVFNfQUxMVE9HRVRIRVJOT1dfREFZXzNfU1RBRElVTV8zLmpwZw==.webp",
     "tags": [],
     "industries": [
@@ -53,23 +53,6 @@
       "retail",
       "consumer",
       "industrial"
-    ],
-    "relevance_score": 48
-  },
-  {
-    "id": "e42d2ce98ddf",
-    "title": "Walmart finally lets advertisers exclude certain search terms",
-    "url": "https://digiday.com/marketing/walmart-finally-lets-advertisers-exclude-certain-search-terms/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-08-12T04:01:00+00:00",
-    "summary": "Walmart Connect said it would give advertisers the ability to exclude specific search terms for sponsored-products campaigns through “negative keywords.”",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/11/brands-ai-positioning-digiday.jpg",
-    "tags": [
-      "Marketing"
-    ],
-    "industries": [
-      "retail"
     ],
     "relevance_score": 45
   },
@@ -90,29 +73,87 @@
     "relevance_score": 45
   },
   {
-    "id": "3d7512e82c8b",
-    "title": "Walmart Promo Codes: Up to 65% Off for August 2026",
-    "url": "https://www.wired.com/story/top-walmart-promo-codes/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-08-12T05:00:00+00:00",
-    "summary": "Score $10 off with our Walmart promo codes and coupon, and shop flash deals up to 65% off today.",
-    "image_url": "https://media.wired.com/photos/66ea077015aa1d8092e99428/master/pass/WIRED-Coupons-6.jpg",
+    "id": "e42d2ce98ddf",
+    "title": "Walmart finally lets advertisers exclude certain search terms",
+    "url": "https://digiday.com/marketing/walmart-finally-lets-advertisers-exclude-certain-search-terms/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-08-12T04:01:00+00:00",
+    "summary": "Walmart Connect said it would give advertisers the ability to exclude specific search terms for sponsored-products campaigns through “negative keywords.”",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/11/brands-ai-positioning-digiday.jpg",
     "tags": [
-      "Gear",
-      "coupons",
-      "Shopping",
-      "Coupons"
+      "Marketing"
     ],
     "industries": [
       "retail"
     ],
-    "relevance_score": 17,
-    "also_covered_by": [
-      "Adobe",
-      "Adobe Inc",
-      "Biotech"
-    ]
+    "relevance_score": 42
+  },
+  {
+    "id": "3e81ffa08b27",
+    "title": "Amazon gets out of the MMO game",
+    "url": "https://www.theverge.com/tech/979070/amazon-mmo-throne-and-liberty-lost-ark-live-operations",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-08-12T16:46:05+00:00",
+    "summary": "Amazon is fully stepping back from MMOs. After saying last year that it would be halting \"a significant amount\" of its work on first-party AAA games, \"specifically around MMOs,\" Amazon will be handing over live operations of Throne and Liberty and Lost Ark in the West to...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/ss_c4789527b9087517504af18aeec0e2df769a54db.1920x1080.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "tags": [
+      "Amazon",
+      "Entertainment",
+      "Gaming",
+      "News",
+      "Tech"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "da3ea3dbc9d0",
+    "title": "Twitch streamers can now opt out from training Amazon’s AI",
+    "url": "https://www.theverge.com/tech/979112/twitch-streamers-can-now-opt-out-from-training-amazons-ai",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-08-12T17:29:10+00:00",
+    "summary": "Twitch users can now opt out of allowing their content to be used to train Amazon's generative AI models. Opting out means that \"your streams, VODs, clips, stream chats, and pictures and text on your channel\" won't be used in \"future training\" of an Amazon AI model \"whose...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK044_VRG_Illo_N_Barclay_1_twitch.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "AI",
+      "Creators",
+      "News",
+      "Tech",
+      "Twitch"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "e1abf93b3900",
+    "title": "Iron Vs Carbon: Funds Surge For Makers Of Batteries That Store Power For Days",
+    "url": "https://www.forbes.com/sites/alanohnsman/2026/08/12/iron-vs-carbon-funds-surge-for-makers-of-batteries-that-store-power-for-days/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-12T18:17:16+00:00",
+    "summary": "Form Energy raised $750 million to boost output of iron-based batteries that hold power for over 100 hours, on the heels of Antora raising $550 million for thermal batteries made from carbon",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a7cb720b7744c306fb92492/0x0.jpg?width=960",
+    "tags": [
+      "Transportation",
+      "/transportation",
+      "Innovation",
+      "/innovation",
+      "Transportation"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 16
   },
   {
     "id": "74e31fb15fd0",
@@ -131,28 +172,7 @@
       "media",
       "retail"
     ],
-    "relevance_score": 16
-  },
-  {
-    "id": "ed52a5ee1676",
-    "title": "Chirp Discount Codes: Save Up to 67%",
-    "url": "https://www.wired.com/story/chirp-discount-code/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-08-12T05:00:00+00:00",
-    "summary": "Use these verified Chirp coupon codes and shopping tips to score up to 67% off wheels, up to 50% off refurbished products, and more.",
-    "image_url": "https://media.wired.com/photos/66ea076e56fd4954a7f91e0c/master/pass/WIRED-Coupons-17.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "0675fd45ee77",
@@ -176,25 +196,26 @@
     "relevance_score": 15
   },
   {
-    "id": "7b9c7c21692a",
-    "title": "What The Common Cents Act Means For Retail",
-    "url": "https://www.forbes.com/sites/briandelp/2026/08/12/what-the-common-cents-act-means-for-retail/",
+    "id": "c835793cd9b1",
+    "title": "The Retail Trading Industry Is Finally Measuring The Wrong Thing Correctly",
+    "url": "https://www.forbes.com/sites/forbesbooksauthors/2026/08/12/the-retail-trading-industry-is-finally-measuring-the-wrong-thing-correctly/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-08-12T13:15:00+00:00",
-    "summary": "The House and Senate have passed similar versions of the Common Cents Act. What its rounding rules, safe harbor and state compliance gaps mean for retailers.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a760f84b99f3b89730cac71/0x0.jpg",
+    "published": "2026-08-12T16:24:12+00:00",
+    "summary": "Retail trading has built an engine exceptionally good at generating activity, but until recently has failed to ask whether activity is the same thing as health.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a7c9d08a90ee0e4010f81c0/0x0.jpg",
     "tags": [
-      "Retail",
-      "/retail",
       "Business",
       "/business",
-      "Retail"
+      "Business",
+      "/business",
+      "business"
     ],
     "industries": [
-      "retail"
+      "retail",
+      "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "87c402b476d0",
@@ -210,7 +231,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "e870da662628",
@@ -225,7 +246,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "a8f0949d8ce3",
@@ -242,7 +263,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "9c5c4998069a",
@@ -257,7 +278,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "2f109e8fba79",
@@ -272,7 +293,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "e98962d404c3",
@@ -286,23 +307,6 @@
     "tags": [],
     "industries": [
       "retail"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "ceeff4e4185a",
-    "title": "Startup plans hiring surge as it targets $10M in sales from helping employers manage GLP-1 costs - The Business Journals",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPOURaSzJpWmt5cXREdlJEa3dtMUE3aFJyUWRuaHNIR05KVHF2bmFTelRzSTFuUDJzOFZqazJ0dEhYSW9TbkNPbXZFenlYUXJMVlQxbGFqZDg1T2JUVjVLenpZM1NyTVNzLURjOHN0eGJVQTIwVWFCS3pKWF9MT1NPSHhRejMzcUNfRDBHRmYyTlN1SjZSc2VSWktuSW9ZTDBBZk1IYndFM0lTeGxVUHM0?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-12T01:26:00+00:00",
-    "summary": "Startup plans hiring surge as it targets $10M in sales from helping employers manage GLP-1 costs The Business Journals",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
     ],
     "relevance_score": 10
   },
@@ -323,21 +327,21 @@
     "relevance_score": 7
   },
   {
-    "id": "59b68c488cbd",
-    "title": "Adobe's Firefly-driven AI-first ARR has tripled, signaling a shift from disruption target to monetization platform - MarketScale",
-    "url": "https://news.google.com/rss/articles/CBMihgJBVV95cUxQSjkwZ2N4RlNlLTUxRjZnWnNBM3ZFXzBHaG1jRXdUeTBialZWeWtFVldiUmFSdHRmWDFjOEM4SXJTeTRQWmp1X2VfTk1aM2xQYVlSRUFORXJ4bHlBd1lRdlRaTVJrVGxJdllkUU5iSTlPYW4yNFhPX0FEY2pBTHZnMnZzSkRJMFgtZWpqdC05SGNwQzQ1c2hyMGhNUWFoYVJBUU5maUx1SkZvX0kxZDFuOFA1R0xESUlLdjluWWtQb0hPVzlzWjBQcVp0OFd2cW1HU1BkSDN1dkNiR0dDaHhLdE54VlYyb3FUVE5SU0FUZHNwZnpjZzZHRWNORGRHQVdqUllseHJn?oc=5",
-    "source": "Adobe Marketing Cloud",
+    "id": "cf85a84cdc76",
+    "title": "What Are Wall Street Analysts' Target Price for Adobe Stock? - finance.yahoo.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOVA1a0Fia283aUNNNU04STUxazNTN0NHeXVGREZqdXhUR2N0MFRLaTJmRHFpajVWUFhINUstTU80ZngybmlMcVhtSTRiamxvcVZrcUpVNVpncXFTaFdRMjctWnB2YkJIOGVkMjM4a3F4VUx5THc0Nmk0b1U2X2toM2h1aFBxdjNZMDRWb1phVERRQ2VyMXdQSDZZTmQzbGs?oc=5",
+    "source": "Adobe",
     "source_category": "adobe",
-    "published": "2026-08-06T01:04:00+00:00",
-    "summary": "Adobe's Firefly-driven AI-first ARR has tripled, signaling a shift from disruption target to monetization platform MarketScale",
+    "published": "2026-08-10T14:46:38+00:00",
+    "summary": "What Are Wall Street Analysts' Target Price for Adobe Stock? finance.yahoo.com",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
       "retail",
-      "industrial"
+      "industrial",
+      "financial"
     ],
-    "relevance_score": 6
+    "relevance_score": 7
   },
   {
     "id": "3f1c4fa9a726",
@@ -356,35 +360,35 @@
     "relevance_score": 6
   },
   {
-    "id": "fbf33ff25ba6",
-    "title": "Verizon rep restores customer memory | About Verizon - verizon.com",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd3VRelVLa3ppUjk1aEhHMXJXRlA2ODFUcWp3eUdDM251OEhYaGFSRTdudnludGlvOHdlRnZJVHFGM2V1ZXVhalF2QnhWMnVtcmxCM1pSVkhtbzAyZWMxSjF4ZUlyTzVYMVZLdVNOSXc5N3cwYnR2aEROWVhPTXBsbA?oc=5",
-    "source": "Telecom",
-    "source_category": "industry_telecom",
-    "published": "2026-08-10T16:49:36+00:00",
-    "summary": "Verizon rep restores customer memory | About Verizon verizon.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "retail"
-    ],
-    "relevance_score": 6
-  },
-  {
     "id": "db422be7e5a0",
-    "title": "PayPay (PAYP) Unveils Capital Alliance To Link Digital Payments With Store Shopping - Yahoo Finance",
+    "title": "PayPay (PAYP) Unveils Capital Alliance To Link Digital Payments With Store Shopping - finance.yahoo.com",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX0pDdGlDT1JPY2ROekpvXzlGMzNJcGZBQV9PLUxVMHhIeXhmektOLTF0cnNsLUtCbWJyUXBxZTRJaDA5SFVacUoyUUlZbVQwSHJtNlVNaU5WVlQ3ZHlnMDdPU05Sby1LTmJVWWJwZkFIc3g4TFpFYTE5Y1JncDYxYWRrejBKTFVmcVFxcGVuSFpRb1JYS3F1WHRzb0FuaWw4RTYw?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
     "published": "2026-08-07T08:13:03+00:00",
-    "summary": "PayPay (PAYP) Unveils Capital Alliance To Link Digital Payments With Store Shopping Yahoo Finance",
+    "summary": "PayPay (PAYP) Unveils Capital Alliance To Link Digital Payments With Store Shopping finance.yahoo.com",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
       "retail",
       "financial"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "fbf33ff25ba6",
+    "title": "Verizon rep restores customer memory | About Verizon - Verizon",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPd3VRelVLa3ppUjk1aEhHMXJXRlA2ODFUcWp3eUdDM251OEhYaGFSRTdudnludGlvOHdlRnZJVHFGM2V1ZXVhalF2QnhWMnVtcmxCM1pSVkhtbzAyZWMxSjF4ZUlyTzVYMVZLdVNOSXc5N3cwYnR2aEROWVhPTXBsbA?oc=5",
+    "source": "Telecom",
+    "source_category": "industry_telecom",
+    "published": "2026-08-10T16:49:36+00:00",
+    "summary": "Verizon rep restores customer memory | About Verizon Verizon",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "telecom",
+      "retail"
     ],
     "relevance_score": 5
   }
