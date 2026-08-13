@@ -14,7 +14,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 64
+    "relevance_score": 61
   },
   {
     "id": "f81228d47dbb",
@@ -50,56 +50,34 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 59
+    "relevance_score": 56
   },
   {
-    "id": "da40c54dd81a",
-    "title": "Everything announced at Made by Google ’26: Pixel 11, Pixel Watch 5, Pixel Tag, and tons of Gemini features",
-    "url": "https://techcrunch.com/2026/08/12/google-unveils-pixel-11-lineup-new-airtag-rival-and-gemini-features-at-made-by-google-2026/",
-    "source": "TechCrunch AI",
+    "id": "5d2a2655194f",
+    "title": "Pixel 11 event live blog: Let’s watch Trevor Noah introduce Google’s new phones",
+    "url": "https://www.theverge.com/tech/979241/made-by-google-2026-live-blog-pixel-11-trevor-noah",
+    "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-08-12T14:20:33+00:00",
-    "summary": "From the Pixel 11 series and a brand new competitor to Apple’s AirTag, here are all the announcements from the Made by Google 2026 event.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Portfolio-3-1.png?resize=1200,675",
+    "published": "2026-08-12T21:30:00+00:00",
+    "summary": "It's almost time for the Made by Google keynote, where the company will show off the brand-new Pixel hardware it announced today. Like last year, it'll be a celebrity-packed live show, though Trevor Noah is hosting instead of Jimmy Fallon. If the 2025 show was any indication,...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Hot-pink.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.731298651824%2C100%2C78.537402696352&amp;w=1200",
     "tags": [
-      "AI",
       "Gadgets",
-      "Hardware",
-      "gemini",
-      "Google"
+      "Google",
+      "Google Pixel",
+      "Mobile",
+      "News"
     ],
     "industries": [
       "tech",
-      "consumer",
-      "industrial"
+      "consumer"
     ],
-    "relevance_score": 56,
+    "relevance_score": 54,
     "also_covered_by": [
+      "TechCrunch AI",
       "Wired",
       "Telecom"
     ]
-  },
-  {
-    "id": "8526514b99dc",
-    "title": "When marketers should ignore the data",
-    "url": "https://martech.org/when-marketers-should-ignore-the-data/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-08-12T15:18:11+00:00",
-    "summary": "Not every change in a marketing metric deserves a response. Marketers need to separate temporary fluctuations from signals worth acting on. The post When marketers should ignore the data appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/08/the-right-data-800x450.png",
-    "tags": [
-      "Digital transformation",
-      "Marketing analytics",
-      "Marketing automation",
-      "Marketing management",
-      "Marketing operations (MOps)"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 53
   },
   {
     "id": "167300995a53",
@@ -118,23 +96,6 @@
       "consumer"
     ],
     "relevance_score": 52
-  },
-  {
-    "id": "6822178e14e0",
-    "title": "Netcore is now Netcore.ai - agentic marketing platform to share accountability - Exchange4Media",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON2JuUk9IUjYzaFhFRDR1Y1pycDU2NVVnUkZyNVE2U1hmLWJyRlhucUVWSExSNmkyS29Jek5fTzhTR0xjOG56a2twM0I2bkVnd2cwRDUwaDhmV1NIODFhZ1RNY3RmTnRyVXpzVG5uUWhRZFVFZkJXTzVBWk4wenF2U2pncnc3UmhPd0tjWWdCM0RXQnFZbnoyQjY4em1ySzY4REFYX1hKY2M4ZDByMGdqSmNiUjJrT2ZVd0Z6N1JiaFk3dXZjV2wwS0NUc0VpTktrc0NCaTc0R2s?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-08-12T06:58:43+00:00",
-    "summary": "Netcore is now Netcore.ai - agentic marketing platform to share accountability Exchange4Media",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 51
   },
   {
     "id": "a5ee82c79c76",
@@ -166,6 +127,28 @@
     ],
     "industries": [
       "tech"
+    ],
+    "relevance_score": 50
+  },
+  {
+    "id": "8526514b99dc",
+    "title": "When marketers should ignore the data",
+    "url": "https://martech.org/when-marketers-should-ignore-the-data/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-08-12T15:18:11+00:00",
+    "summary": "Not every change in a marketing metric deserves a response. Marketers need to separate temporary fluctuations from signals worth acting on. The post When marketers should ignore the data appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/08/the-right-data-800x450.png",
+    "tags": [
+      "Digital transformation",
+      "Marketing analytics",
+      "Marketing automation",
+      "Marketing management",
+      "Marketing operations (MOps)"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 50
   },
@@ -228,6 +211,23 @@
     "relevance_score": 48
   },
   {
+    "id": "6822178e14e0",
+    "title": "Netcore is now Netcore.ai - agentic marketing platform to share accountability - Exchange4Media",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxON2JuUk9IUjYzaFhFRDR1Y1pycDU2NVVnUkZyNVE2U1hmLWJyRlhucUVWSExSNmkyS29Jek5fTzhTR0xjOG56a2twM0I2bkVnd2cwRDUwaDhmV1NIODFhZ1RNY3RmTnRyVXpzVG5uUWhRZFVFZkJXTzVBWk4wenF2U2pncnc3UmhPd0tjWWdCM0RXQnFZbnoyQjY4em1ySzY4REFYX1hKY2M4ZDByMGdqSmNiUjJrT2ZVd0Z6N1JiaFk3dXZjV2wwS0NUc0VpTktrc0NCaTc0R2s?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-08-12T06:58:43+00:00",
+    "summary": "Netcore is now Netcore.ai - agentic marketing platform to share accountability Exchange4Media",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 48
+  },
+  {
     "id": "28c224c60aa1",
     "title": "How AI, publishers, and social media are rewriting product discovery",
     "url": "https://martech.org/how-ai-publishers-and-social-media-are-rewriting-product-discovery/",
@@ -268,47 +268,6 @@
     "relevance_score": 46
   },
   {
-    "id": "ff7b3b295f0e",
-    "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
-    "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-08-12T16:57:58+00:00",
-    "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/android_header.webp?resize=1200,854",
-    "tags": [
-      "AI",
-      "Apps",
-      "android apps",
-      "Automattic",
-      "mesh"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 46
-  },
-  {
-    "id": "2adb8420e9dc",
-    "title": "Urban Outfitters embraces campus life in first CTV commercial",
-    "url": "https://www.marketingdive.com/news/urban-outfitters-embraces-campus-life-in-first-ctv-commercial/827619/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-08-12T12:50:00+00:00",
-    "summary": "The high-energy spot is part of the “Back-To-Campus” brand platform and comes as the retailer continues to set its sights on Gen Z.",
-    "image_url": "https://imgproxy.divecdn.com/wUwgSI0-ZbYAhpJoGPxv2Cb7rO6kVVCAhmNR-BZGzQY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CVFNfQUxMVE9HRVRIRVJOT1dfREFZXzNfU1RBRElVTV8zLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "media",
-      "tech",
-      "retail",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 45
-  },
-  {
     "id": "55076dcfa912",
     "title": "How to manage AI prompt governance and costs",
     "url": "https://martech.org/how-to-manage-ai-prompt-governance-and-costs/",
@@ -346,6 +305,25 @@
     "relevance_score": 42
   },
   {
+    "id": "2adb8420e9dc",
+    "title": "Urban Outfitters embraces campus life in first CTV commercial",
+    "url": "https://www.marketingdive.com/news/urban-outfitters-embraces-campus-life-in-first-ctv-commercial/827619/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-08-12T12:50:00+00:00",
+    "summary": "The high-energy spot is part of the “Back-To-Campus” brand platform and comes as the retailer continues to set its sights on Gen Z.",
+    "image_url": "https://imgproxy.divecdn.com/wUwgSI0-ZbYAhpJoGPxv2Cb7rO6kVVCAhmNR-BZGzQY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CVFNfQUxMVE9HRVRIRVJOT1dfREFZXzNfU1RBRElVTV8zLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "retail",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 42
+  },
+  {
     "id": "659af1032e98",
     "title": "Big Tech Wants to Harvest Your Thoughts",
     "url": "https://www.wired.com/story/book-excerpt-the-vanishing-earth-james-crawford-brain-mining/",
@@ -367,6 +345,28 @@
     "relevance_score": 41
   },
   {
+    "id": "ff7b3b295f0e",
+    "title": "Mesh, Automattic’s CRM for everyone, comes to Android",
+    "url": "https://techcrunch.com/2026/08/12/mesh-automattics-crm-for-everyone-comes-to-android/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-08-12T16:57:58+00:00",
+    "summary": "Mesh, an AI-powered contacts app and relationship manager from Automattic, is now an Android app.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/android_header.webp?resize=1200,854",
+    "tags": [
+      "AI",
+      "Apps",
+      "android apps",
+      "Automattic",
+      "mesh"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 40
+  },
+  {
     "id": "4811ba224266",
     "title": "On’s revenue disappoints — is currency change to blame?",
     "url": "https://www.retaildive.com/news/on-misses-analyst-revenue-expectations-currency-change-q2-earnings/827559/",
@@ -383,28 +383,6 @@
       "financial"
     ],
     "relevance_score": 38
-  },
-  {
-    "id": "105d715feea3",
-    "title": "Gap Hits Pause on Its Classic Dance Ads in Quest to Win Gen Z",
-    "url": "https://www.adweek.com/creativity/gap-hits-pause-on-its-classic-dance-ads-in-quest-to-win-gen-z/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-08-11T09:00:00+00:00",
-    "summary": "Gap took a fresh creative approach for its Fall denim campaign starring Malcolm Todd and Inde Navarrette.",
-    "image_url": null,
-    "tags": [
-      "Creative Advertising",
-      "Creativity x Culture",
-      "Library",
-      "Premium",
-      "Retail News"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 36
   },
   {
     "id": "0fde739e0fde",
@@ -453,6 +431,21 @@
     "relevance_score": 24
   },
   {
+    "id": "1279f467df7b",
+    "title": "PulsePoint Wins “Programmatic Marketing Platform of the - globenewswire.com",
+    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNbURna0Q4TklTWGRvQmxuUGJmbzlfenBMWUo4NE1pS2dMNmxlSWU5eG1MQUZNT1VkbzZ4dFBVTjRVMXhtUlNYclQ5YVluTzJQMF92dXpKVVNFLWpfRTJaTmo5N245ZDB0cDI4VWk0eUd1cEV5YzQ3S0NRTGsxSU55SXQ5MVh5bEdFUm1uWVdlTUx1dENCVVJlYnotc3VSUjFfVGFvNmFzU3lFUmFuRmNwQ1dsRFV5eV8yZG92SHFQZGpBU0J5Z3ItLUhIU1VDWlhfVkdFVzJrZERxVWI0X2czaGRlN0REajViWkluR3hsS0dETFdLOFdFN0FHMU5mZTF5WHo1dW12QUJUd1NHc2ViYzNKeW1BNzlKQXZvdlFMVEJFLUtiTVE?oc=5",
+    "source": "MarTech",
+    "source_category": "martech",
+    "published": "2026-08-06T14:00:00+00:00",
+    "summary": "PulsePoint Wins “Programmatic Marketing Platform of the globenewswire.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 20
+  },
+  {
     "id": "0ca2451ab6b8",
     "title": "It looks like Apple’s iPhone 18 really will skip the fall launch this year",
     "url": "https://www.theverge.com/tech/979231/apple-base-iphone-18-launch-delayed",
@@ -470,21 +463,6 @@
     ],
     "industries": [
       "media",
-      "tech"
-    ],
-    "relevance_score": 21
-  },
-  {
-    "id": "1279f467df7b",
-    "title": "PulsePoint Wins “Programmatic Marketing Platform of the - GlobeNewswire",
-    "url": "https://news.google.com/rss/articles/CBMipgJBVV95cUxNbURna0Q4TklTWGRvQmxuUGJmbzlfenBMWUo4NE1pS2dMNmxlSWU5eG1MQUZNT1VkbzZ4dFBVTjRVMXhtUlNYclQ5YVluTzJQMF92dXpKVVNFLWpfRTJaTmo5N245ZDB0cDI4VWk0eUd1cEV5YzQ3S0NRTGsxSU55SXQ5MVh5bEdFUm1uWVdlTUx1dENCVVJlYnotc3VSUjFfVGFvNmFzU3lFUmFuRmNwQ1dsRFV5eV8yZG92SHFQZGpBU0J5Z3ItLUhIU1VDWlhfVkdFVzJrZERxVWI0X2czaGRlN0REajViWkluR3hsS0dETFdLOFdFN0FHMU5mZTF5WHo1dW12QUJUd1NHc2ViYzNKeW1BNzlKQXZvdlFMVEJFLUtiTVE?oc=5",
-    "source": "MarTech",
-    "source_category": "martech",
-    "published": "2026-08-06T14:00:00+00:00",
-    "summary": "PulsePoint Wins “Programmatic Marketing Platform of the GlobeNewswire",
-    "image_url": null,
-    "tags": [],
-    "industries": [
       "tech"
     ],
     "relevance_score": 20
@@ -509,7 +487,7 @@
       "tech",
       "financial"
     ],
-    "relevance_score": 20
+    "relevance_score": 19
   },
   {
     "id": "238db4ffd1f5",
@@ -529,7 +507,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 19
+    "relevance_score": 18
   },
   {
     "id": "478abdc997f5",
@@ -546,51 +524,6 @@
       "Startups",
       "TC",
       "cognition"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 19
-  },
-  {
-    "id": "d2d1e989c41a",
-    "title": "4 New Camera Tricks on Google’s Latest Pixel 11 Smartphones",
-    "url": "https://www.wired.com/story/new-camera-tricks-on-google-latest-pixel-11-smartphones/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-08-12T14:00:00+00:00",
-    "summary": "From Magic Capture and Instant Night Sight to a built-in teleprompter, here’s a look at a few camera features on Google’s new Pixel 11 series.",
-    "image_url": "https://media.wired.com/photos/6a7b42c0e3ffed826d9fc63e/master/pass/Google%20Pixel%2011%20in%20Hibiscus%20SOURCE%20Julian%20Chokkattu.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Phones",
-      "phones",
-      "smartphones"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 18,
-    "also_covered_by": [
-      "The Verge"
-    ]
-  },
-  {
-    "id": "55e5617618d1",
-    "title": "How the Pixel 11 Pro Fold compares to the Galaxy Z Fold 8",
-    "url": "https://www.theverge.com/tech/972498/google-pixel-11-pro-fold-samsung-galaxy-z-fold-8-ultra-specs-comparison",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-08-12T16:00:00+00:00",
-    "summary": "Google wasn't first to make a foldable Android phone, but the company's Pixel Fold series is now an established player with unique traits compared to its competitors. For one, it popularized the passport-style design years ago, being more wide than tall - something that...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-Fold-closed-in-hands.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.73125271425%2C100%2C78.5374945715&amp;w=1200",
-    "tags": [
-      "Foldable Phones",
-      "Gadgets",
-      "Google",
-      "Google Pixel",
-      "Mobile"
     ],
     "industries": [
       "tech"
@@ -615,25 +548,6 @@
     "industries": [
       "tech",
       "industrial"
-    ],
-    "relevance_score": 17
-  },
-  {
-    "id": "b0d1f7af4de4",
-    "title": "Google aims for influencers with the Pixel 11 Creator Suite",
-    "url": "https://www.theverge.com/tech/977888/pixel-creator-suite-influencer-camera-features",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-08-12T14:30:00+00:00",
-    "summary": "Google knows creators are a big audience. The occupation is growing fast, and landing some influential names could be a major turning point for the Pixel's market share. This year, Google is building features directly into its new Pixel lineup that it says can help creators...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Creator-Suite-2.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.731298651824%2C100%2C78.537402696352&amp;w=1200",
-    "tags": [
-      "Google",
-      "Google Pixel",
-      "Tech"
-    ],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 17
   },
@@ -675,20 +589,46 @@
     "relevance_score": 16
   },
   {
-    "id": "1e3768985947",
-    "title": "Agentforce closes $2.7 million in revenue for SaaStr with a 72% email open rate - MarketScale",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRlFKeXVZNUhPXzF2LUJLanVza2lYRnQzaDJWalRnOXpuWG96YUoyN3I1QUdaOVhFWGh1TkRCcGcwa01fQVVZa3FoS1MydkZJcDNJX1ZOTEhlX0FndTZLaE5NS3RXbG5DMDluNHNtNkFHM0hhYm5OZmRnYTdiX3BTVVlVQWkxN044d2xJWnJSMlFkZ2c4eXZNNXBKNmZHZU9sbWVVRV95ZW1nSjBkWVNHYlQ5MFFxMEFsLXNpX2RLNC1HUmFvbG80Ul9B?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-08-12T06:39:19+00:00",
-    "summary": "Agentforce closes $2.7 million in revenue for SaaStr with a 72% email open rate MarketScale",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
+    "id": "e8ca677343d1",
+    "title": "The White House Is Going to Expand Its AI Policy",
+    "url": "https://www.wired.com/story/the-white-house-is-going-to-expand-its-ai-policy/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-08-12T21:00:00+00:00",
+    "summary": "Open models may soon be added to an updated AI framework, sources tell WIRED, as the White House continues to grapple with how to regulate a technology it has tried not to regulate.",
+    "image_url": "https://media.wired.com/photos/6a7bbf68f5d2df0bb3e19f91/master/pass/politics_white_house_ai_policy.jpg",
+    "tags": [
+      "Politics",
+      "Politics / Politics News",
+      "Inner Loop",
+      "politics",
+      "government"
     ],
-    "relevance_score": 15
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "bb630b70eb4e",
+    "title": "Boeing’s Wisk Deal to Archer Highlights Strategic Focus",
+    "url": "https://www.forbes.com/sites/alexkrutz/2026/08/12/boeings-wisk-deal-to-archer-highlights-strategic-focus/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-12T21:06:55+00:00",
+    "summary": "Boeing’s planned sale of Wisk, Insitu, and SkyGrid demonstrates the value of aligning capital, leadership, and operational capacity with core production priorities.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a7cdb9d1269adcebb0b6f78/0x0.jpg?width=960",
+    "tags": [
+      "Aerospace & Defense",
+      "/aerospace-defense",
+      "Business",
+      "/business",
+      "Aerospace & Defense"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 16
   },
   {
     "id": "e945ed427d65",
@@ -731,128 +671,6 @@
     "relevance_score": 15
   },
   {
-    "id": "b1b513c1f1c6",
-    "title": "Home Depot appoints interim CEO leadership as Ted Decker takes medical leave",
-    "url": "https://www.retaildive.com/news/home-depot-interim-ceo-ted-decker-medical-leave/827682/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-08-12T15:33:00+00:00",
-    "summary": "Senior Executive Vice President Ann-Marie Campbell and CFO Richard McPhail will oversee CEO duties for the next few months in Decker’s absence.",
-    "image_url": "https://imgproxy.divecdn.com/cPt0sh55YfPG-pKqlGneRVvmpHclT4TwxjHEgqTl0zU/g:nowe:0:319/c:1199:677/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UZWRfRGVja2VyX0hvbWVfRGVwb3QuanBn.webp",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15,
-    "also_covered_by": [
-      "Wall Street"
-    ]
-  },
-  {
-    "id": "2ba371d618af",
-    "title": "Doctors Push Back Against Trump’s Vaccine Order",
-    "url": "https://www.forbes.com/sites/innovationrx/2026/08/12/doctors-push-back-against-trumps-vaccine-order/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-12T16:00:15+00:00",
-    "summary": "In this week’s edition of InnovationRx, we look at the potential impact of Trump’s executive order on vaccines, the healthcare dynamos on Forbes 50 Over 50, a Swiss startup focused on a rare bleeding disorder, and more.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a7b9d84ead8db00ac8df18c/0x0.jpg?width=960",
-    "tags": [
-      "Newsletters",
-      "/newsletters-old",
-      "Newsletters",
-      "/newsletters-old",
-      "Innovation"
-    ],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "65fbc36cba8c",
-    "title": "MAGA Influencer Coined ‘The Zapper’ By Conspiracists Shuts Down Claims She’s Keeping Trump Awake",
-    "url": "https://www.forbes.com/sites/saradorn/2026/08/12/maga-influencer-coined-the-zapper-by-conspiracists-shuts-down-claims-shes-keeping-trump-awake/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-12T16:33:51+00:00",
-    "summary": "Franklin said she held her hands on her stomach during a recent event with Trump because she’s pregnant, not because she was pressing a “zapper” to wake him up.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a7c9f72d37986bc061f0ae7/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "ba210dcd32a4",
-    "title": "Scaling AI agents with trustworthy data",
-    "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-08-12T16:51:57+00:00",
-    "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on...",
-    "image_url": null,
-    "tags": [
-      "Artificial intelligence",
-      "sponsored"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "6b1e9c035b2a",
-    "title": "DirecTV’s Gemini Seeks To Answer The Question ‘What Do We Watch Now?’",
-    "url": "https://www.forbes.com/sites/rickellis/2026/08/12/directvs-gemini-seeks-to-answer-the-question-what-do-we-watch-now/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-12T18:08:52+00:00",
-    "summary": "The DirecTV Gemini streaming device is designed to help subscribers integrate their live television and streaming app programming into one package.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a7c246af3c82eea1b73eaa8/0x0.jpg",
-    "tags": [
-      "Media",
-      "/media",
-      "Business",
-      "/business",
-      "Media"
-    ],
-    "industries": [
-      "media",
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "2d8ffe6168b8",
-    "title": "Scientists just created female clones of male mice",
-    "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-08-12T18:59:48+00:00",
-    "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice. “No one has done this before,” says Monika Ward, a...",
-    "image_url": null,
-    "tags": [
-      "Biotechnology and health",
-      "App",
-      "Summary"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
     "id": "4a3a16344e7f",
     "title": "General Catalyst leads $1.1B round into 2-month-old River AI",
     "url": "https://techcrunch.com/2026/08/11/general-catalyst-leads-1-1b-round-into-2-month-old-river-ai/",
@@ -874,17 +692,18 @@
     "relevance_score": 14
   },
   {
-    "id": "76191c71c354",
-    "title": "Microsoft and Adobe Patch Tuesday, August 2026 Security Update Review - Qualys",
-    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcXllNGV4Y0U2ZHJWWFJzZnVvX1R3WEFra1ItbFJyWF8wdXBFVXV6c1N4X3BiZTRueEZMNDVsQ2RXWFR6Q3FYc21hWEp5LW5pWUpkclZDRUlQcFUwSFB6WjQ1eWY0N3UyWjR3OGJ2RXJrVTRyZ0NpaUMyYndNZUVYdlRST095M29odzVWNERrZ3RrQ2lFak9YNGZxWHYyOGJJa3Z5eDdvSzNPRm13QWpWWVJZMXczUmVYWTB0WERtU3FmSjhKVmVpQmMyZ0xTbm9BS3BWMkJR?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-08-12T08:44:31+00:00",
-    "summary": "Microsoft and Adobe Patch Tuesday, August 2026 Security Update Review Qualys",
+    "id": "1e3768985947",
+    "title": "Agentforce closes $2.7 million in revenue for SaaStr with a 72% email open rate - MarketScale",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPRlFKeXVZNUhPXzF2LUJLanVza2lYRnQzaDJWalRnOXpuWG96YUoyN3I1QUdaOVhFWGh1TkRCcGcwa01fQVVZa3FoS1MydkZJcDNJX1ZOTEhlX0FndTZLaE5NS3RXbG5DMDluNHNtNkFHM0hhYm5OZmRnYTdiX3BTVVlVQWkxN044d2xJWnJSMlFkZ2c4eXZNNXBKNmZHZU9sbWVVRV95ZW1nSjBkWVNHYlQ5MFFxMEFsLXNpX2RLNC1HUmFvbG80Ul9B?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-08-12T06:39:19+00:00",
+    "summary": "Agentforce closes $2.7 million in revenue for SaaStr with a 72% email open rate MarketScale",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech"
+      "tech",
+      "industrial"
     ],
     "relevance_score": 14
   },
@@ -907,83 +726,101 @@
     "relevance_score": 14
   },
   {
-    "id": "01764e60fff3",
-    "title": "New Cato report excoriates certificate of need laws",
-    "url": "https://www.healthcaredive.com/news/cato-certificate-of-need-con-law-takedown-analysis-healthcare/827575/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-12T13:57:44+00:00",
-    "summary": "The libertarian think tank analyzed almost 130 studies digging into the controversial laws, which require providers to get state approval before building facilities or adding new services. What it found wasn’t good.",
-    "image_url": "https://imgproxy.divecdn.com/E2GCSChl_Kjubah2Wxw5gqAJatP0sqhsdgbT1B5wiL4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjMzODc1NzkwLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "fff77efda2b1",
-    "title": "Adobe vs. AppLovin: Which Technology Stock Is a Better Buy in 2026? - fool.com",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNNGdIaGx2M0hBVFdCQUdXT1owSTV0c1I2dzVkV1U5emNuSTZwR25TTDZzc3F2b1k0cmw4VVdMYU1UUnA3RTBtVm1MTnBXRno5M0drY0tzSTYyc0VvWWFGZllrLV9hcDl6Yzd4OEM5Tm10UGdIS0dlVWhRX1F3RFlVc2FzWUZpcU9pZWl6NFY5QlVURlo2Q3N4c1R4Zno1d3o5VGN1S2JodFluUjNjYTRPYThOd21Kak1Q?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-08-12T16:00:00+00:00",
-    "summary": "Adobe vs. AppLovin: Which Technology Stock Is a Better Buy in 2026? fool.com",
-    "image_url": null,
+    "id": "b1b513c1f1c6",
+    "title": "Home Depot appoints interim CEO leadership as Ted Decker takes medical leave",
+    "url": "https://www.retaildive.com/news/home-depot-interim-ceo-ted-decker-medical-leave/827682/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-08-12T15:33:00+00:00",
+    "summary": "Senior Executive Vice President Ann-Marie Campbell and CFO Richard McPhail will oversee CEO duties for the next few months in Decker’s absence.",
+    "image_url": "https://imgproxy.divecdn.com/cPt0sh55YfPG-pKqlGneRVvmpHclT4TwxjHEgqTl0zU/g:nowe:0:319/c:1199:677/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UZWRfRGVja2VyX0hvbWVfRGVwb3QuanBn.webp",
     "tags": [],
     "industries": [
       "tech"
     ],
     "relevance_score": 14,
     "also_covered_by": [
-      "Adobe Inc",
-      "Adobe Products"
+      "Wall Street"
     ]
   },
   {
-    "id": "dbe20577ed39",
-    "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
-    "url": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-08-12T18:44:50+00:00",
-    "summary": "Visa's president of technology, Rajat Taneja, walked the VB Transform 2026 audience through aiming Anthropic's Mythos at Visa's own payment network . The model stitched minor weaknesses into working exploit chains, and Visa open-sourced the harness that governed the hunt....",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5n5rmnYkbIGSFc4nayFtGc/e24edab926693c1f72335107e86c0c2c/hero.png?w=300&q=30",
+    "id": "6b1e9c035b2a",
+    "title": "DirecTV’s Gemini Seeks To Answer The Question ‘What Do We Watch Now?’",
+    "url": "https://www.forbes.com/sites/rickellis/2026/08/12/directvs-gemini-seeks-to-answer-the-question-what-do-we-watch-now/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-12T18:08:52+00:00",
+    "summary": "The DirecTV Gemini streaming device is designed to help subscribers integrate their live television and streaming app programming into one package.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a7c246af3c82eea1b73eaa8/0x0.jpg",
     "tags": [
-      "Security"
+      "Media",
+      "/media",
+      "Business",
+      "/business",
+      "Media"
     ],
     "industries": [
+      "media",
       "tech",
-      "industrial",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "2d8ffe6168b8",
+    "title": "Scientists just created female clones of male mice",
+    "url": "https://www.technologyreview.com/2026/08/12/1141768/scientists-just-created-female-clones-of-male-mice/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-08-12T18:59:48+00:00",
+    "summary": "Scientists have deliberately turned male mouse embryos into females for the first time. A team based in Japan used a CRISPR-based approach to remove the Y chromosome from male cells and create female clones of male mice. “No one has done this before,” says Monika Ward, a...",
+    "image_url": null,
+    "tags": [
+      "Biotechnology and health",
+      "App",
+      "Summary"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "20d3d8dbdb2c",
+    "title": "Opinion: Nvidia, Intel, Google: Wall Street is partying like it’s 1999 - MarketWatch",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLWU0S29QT3F4cWdFRWk1dERSTkt6cVNfMWJtRjdzWVl6a1dINk55dHp0TTZsLXVKSXE5YU5SaVN0bjFGaGxHSkxBcW4xYlExOFk0dUhxNkVPQUxSWlJsem5SQUxSRmt1bk9OdzBjaG5yTjlZalRKZUJmOUJoZlVBanlrMXJWYXBValp6Y29mTmVZVUZwaFUwNV9KQ25lX1A3Tmc?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-08-12T21:03:00+00:00",
+    "summary": "Opinion: Nvidia, Intel, Google: Wall Street is partying like it’s 1999 MarketWatch",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
       "financial"
     ],
     "relevance_score": 14
   },
   {
-    "id": "6fee90248fac",
-    "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
-    "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-08-12T18:45:00+00:00",
-    "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
-    "image_url": "https://media.wired.com/photos/6a7b77e36e37f6db6a06a372/master/pass/AI-Lab-Why-Are-AI-Agents-So-Naughty-Business.jpg",
+    "id": "74ef3fa1246e",
+    "title": "Senate Committee Voted To Hold Fauci In Contempt Over Pleading The Fifth—What Happens Next?",
+    "url": "https://www.forbes.com/sites/forbestv/2026/08/12/senate-committee-voted-to-hold-fauci-in-contempt-over-pleading-the-5th-whats-next/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-12T22:21:48+00:00",
+    "summary": "Dr. Anthony Fauci invoked his Fifth Amendment right during the hearing over 100 times.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a7cf1a733d7ae3e2af427ea/0x0.jpg?width=960",
     "tags": [
       "Business",
-      "Business / Artificial Intelligence",
-      "AI Lab",
-      "artificial intelligence",
-      "cybersecurity"
+      "/business",
+      "Business",
+      "/business",
+      "standard"
     ],
     "industries": [
-      "tech",
-      "industrial"
+      "tech"
     ],
-    "relevance_score": 14,
-    "also_covered_by": [
-      "VentureBeat"
-    ]
+    "relevance_score": 14
   },
   {
     "id": "7036df1cc378",
@@ -1066,6 +903,66 @@
     "relevance_score": 13
   },
   {
+    "id": "01764e60fff3",
+    "title": "New Cato report excoriates certificate of need laws",
+    "url": "https://www.healthcaredive.com/news/cato-certificate-of-need-con-law-takedown-analysis-healthcare/827575/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-12T13:57:44+00:00",
+    "summary": "The libertarian think tank analyzed almost 130 studies digging into the controversial laws, which require providers to get state approval before building facilities or adding new services. What it found wasn’t good.",
+    "image_url": "https://imgproxy.divecdn.com/E2GCSChl_Kjubah2Wxw5gqAJatP0sqhsdgbT1B5wiL4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjMzODc1NzkwLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "ba210dcd32a4",
+    "title": "Scaling AI agents with trustworthy data",
+    "url": "https://www.technologyreview.com/2026/08/12/1141032/scaling-ai-agents-with-trustworthy-data/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-08-12T16:51:57+00:00",
+    "summary": "Business and technology leaders need no convincing that the time of agentic AI is here. Organizations are rapidly adopting agents, and few executives doubt the technology’s potential to transform work. But many organizations find that realizing the desired return on...",
+    "image_url": null,
+    "tags": [
+      "Artificial intelligence",
+      "sponsored"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "6fee90248fac",
+    "title": "Rogue AI Agents Aren’t Evil. They’re Just Eager to Please",
+    "url": "https://www.wired.com/story/rogue-ai-is-just-misunderstood/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-08-12T18:45:00+00:00",
+    "summary": "AI agents that break free and hack into other systems are only trying to make us happy.",
+    "image_url": "https://media.wired.com/photos/6a7b77e36e37f6db6a06a372/master/pass/AI-Lab-Why-Are-AI-Agents-So-Naughty-Business.jpg",
+    "tags": [
+      "Business",
+      "Business / Artificial Intelligence",
+      "AI Lab",
+      "artificial intelligence",
+      "cybersecurity"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 13,
+    "also_covered_by": [
+      "VentureBeat"
+    ]
+  },
+  {
     "id": "4291e5ec2162",
     "title": "WPP’s streamlined strategy secures new business as revenue declines narrow",
     "url": "https://www.marketingdive.com/news/wpps-streamlined-strategy-secures-new-business-as-revenue-declines-narrow/827443/",
@@ -1120,50 +1017,35 @@
     "relevance_score": 12
   },
   {
-    "id": "a8f0949d8ce3",
-    "title": "Target taps Lowe’s executive as first chief AI officer",
-    "url": "https://www.retaildive.com/news/target-taps-lowes-chandhu-nair-chief-ai-officer/827630/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-08-12T14:30:00+00:00",
-    "summary": "For Chandhu Nair, collaboration will be essential as the retailer focuses on how technology can elevate user experience.",
-    "image_url": "https://imgproxy.divecdn.com/zkqrnOspDB16c0N_PMqEB3-P7X-zhfk85J48sP3zEUU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90YXJnZXRfSVljUWpLZi5qcGc=.webp",
+    "id": "76191c71c354",
+    "title": "Microsoft and Adobe Patch Tuesday, August 2026 Security Update Review - Qualys",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxNcXllNGV4Y0U2ZHJWWFJzZnVvX1R3WEFra1ItbFJyWF8wdXBFVXV6c1N4X3BiZTRueEZMNDVsQ2RXWFR6Q3FYc21hWEp5LW5pWUpkclZDRUlQcFUwSFB6WjQ1eWY0N3UyWjR3OGJ2RXJrVTRyZ0NpaUMyYndNZUVYdlRST095M29odzVWNERrZ3RrQ2lFak9YNGZxWHYyOGJJa3Z5eDdvSzNPRm13QWpWWVJZMXczUmVYWTB0WERtU3FmSjhKVmVpQmMyZ0xTbm9BS3BWMkJR?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-08-12T08:44:31+00:00",
+    "summary": "Microsoft and Adobe Patch Tuesday, August 2026 Security Update Review Qualys",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
-      "retail",
-      "industrial"
+      "tech"
     ],
     "relevance_score": 12
   },
   {
-    "id": "20d3d8dbdb2c",
-    "title": "Opinion: Nvidia, Intel, Google: Wall Street is partying like it’s 1999 - MarketWatch",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOLWU0S29QT3F4cWdFRWk1dERSTkt6cVNfMWJtRjdzWVl6a1dINk55dHp0TTZsLXVKSXE5YU5SaVN0bjFGaGxHSkxBcW4xYlExOFk0dUhxNkVPQUxSWlJsem5SQUxSRmt1bk9OdzBjaG5yTjlZalRKZUJmOUJoZlVBanlrMXJWYXBValp6Y29mTmVZVUZwaFUwNV9KQ25lX1A3Tmc?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-08-12T16:00:00+00:00",
-    "summary": "Opinion: Nvidia, Intel, Google: Wall Street is partying like it’s 1999 MarketWatch",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
+    "id": "dbe20577ed39",
+    "title": "Four of five enterprises that secured AI agent identities still can't contain one that goes rogue",
+    "url": "https://venturebeat.com/security/four-of-five-enterprises-that-secured-ai-agent-identities-still-cant-contain-one-that-goes-rogue",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-08-12T18:44:50+00:00",
+    "summary": "Visa's president of technology, Rajat Taneja, walked the VB Transform 2026 audience through aiming Anthropic's Mythos at Visa's own payment network . The model stitched minor weaknesses into working exploit chains, and Visa open-sourced the harness that governed the hunt....",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5n5rmnYkbIGSFc4nayFtGc/e24edab926693c1f72335107e86c0c2c/hero.png?w=300&q=30",
+    "tags": [
+      "Security"
     ],
-    "relevance_score": 12
-  },
-  {
-    "id": "1fc6d3a35861",
-    "title": "Modern Treasury Adds Physical and Digital Check Payments to Its Unified Payments API - 01net.it",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOQlFtcFNDRlJYWFpnaldtWEp0aGNlMXNlcjJOSXZVd1M3Ry1WV3JzbFRsYnR0eUlNVnhkcW83Y2ptSGkyancwaUxrUEJRTGtZX0pZR1lKaXgteW5PdFExX1BYYW9lTUFOUUpONFlibDFTcVkyYmZSenRBNWtDMTNFV3l0eGRRME9QMzJzOGxnQXBsMWJiSGVHeU0xM2JEcDdZM1gyM2FRWE5OZw?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-08-12T19:00:00+00:00",
-    "summary": "Modern Treasury Adds Physical and Digital Check Payments to Its Unified Payments API 01net.it",
-    "image_url": null,
-    "tags": [],
     "industries": [
       "tech",
+      "industrial",
       "financial"
     ],
     "relevance_score": 12
@@ -1210,13 +1092,13 @@
     "relevance_score": 11
   },
   {
-    "id": "e49d38f80a08",
-    "title": "Exclusive | Energy Startup Raises $750 Million for Rust-Powered Batteries - wsj.com",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQWXJEZEIwZ19wWjM3MXJtaVZrT3lhUlpUQnhJR2k0YjRpVkRIcTE3NEtqVmZiLUZRcmxUZU0tRWVSSFUxbDN2cjRCdGhpSjRVTU8yVzV3cExfclJJSmtzT3FQRUR6SzhMYktkUXY1WlFHRFBNOFZxMVRHVDVCRVoyb09walpHX1l2ZktWbFBJXzlMQlFhdGZab1dIUkJHZEJuSFA0UTJsNHhzUXRQYVE?oc=5",
+    "id": "5f28351c9273",
+    "title": "Exclusive | Vibe-Coding Startup Lovable Hits $13 Billion Valuation - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPMzhlbTNQV0YwRFpUM0k4eUZZV0o5Y3hpUENqUm9EbVhtWWtqU1hTOXBlczR0czZvYkVQRzFVQ0tndnRjbE1zU3ljdndHVm9ENjV1d3lIdE5FdHhxWnZzTHRyd0xXTEt3MGYwQnBOazdvWG8wM3lYdmRxeVR1R1NPaFRMeUY2QWl1UWFfUmZVLW9GNFBxbU90LXBhQ0NyblJ5RTI5VXlGaTIwaWRU?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-08-12T10:00:00+00:00",
-    "summary": "Exclusive | Energy Startup Raises $750 Million for Rust-Powered Batteries wsj.com",
+    "published": "2026-08-12T09:30:00+00:00",
+    "summary": "Exclusive | Vibe-Coding Startup Lovable Hits $13 Billion Valuation WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1225,19 +1107,67 @@
     "relevance_score": 11
   },
   {
-    "id": "2762f5fce7f1",
-    "title": "UPMC, KLAS Research study examines AI adoption trends, governance barriers",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/upmc-klas-research-study-examines-ai-adoption-trends-governance-barriers",
+    "id": "a8f0949d8ce3",
+    "title": "Target taps Lowe’s executive as first chief AI officer",
+    "url": "https://www.retaildive.com/news/target-taps-lowes-chandhu-nair-chief-ai-officer/827630/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-08-12T14:30:00+00:00",
+    "summary": "For Chandhu Nair, collaboration will be essential as the retailer focuses on how technology can elevate user experience.",
+    "image_url": "https://imgproxy.divecdn.com/zkqrnOspDB16c0N_PMqEB3-P7X-zhfk85J48sP3zEUU/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS90YXJnZXRfSVljUWpLZi5qcGc=.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "4ae493c32a33",
+    "title": "Appeals court tosses methodology for calculating NSA qualifying payment amounts",
+    "url": "https://www.fiercehealthcare.com/regulatory/appeals-court-tosses-methodology-calculating-nsa-qualifying-payment-amounts",
     "source": "Fierce Healthcare",
     "source_category": "industry_lifesciences",
-    "published": "2026-08-07T10:28:00+00:00",
-    "summary": "More than 90% of respondents reported deploying AI tools, but only 44% said they have a dedicated data platform for testing.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1263537797.jpg?VersionId=j8n9Wqfxvmt7YZ_y6IlLw2ibAZV2gPhl",
+    "published": "2026-08-12T16:55:00+00:00",
+    "summary": "A federal appeals court has tossed key methodology used to resolve out-of-network claims under the No Surprises Act.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1041224932.jpg?VersionId=h2KKXzuW0WElg8csh7jLHjIUQcsEB4UC",
     "tags": [],
     "industries": [
       "tech"
     ],
-    "relevance_score": 10
+    "relevance_score": 11
+  },
+  {
+    "id": "ab40e8fe07c4",
+    "title": "Exclusive | Apple in Talks to Pay Publishers to Improve AI-Powered Siri - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPZXRadlhiaWpJNTMwVmxUWkhLM3NXTC03VkpqMzFCWHozTUpIRDBTQ2pmUFBibmZFRFQxbkJIV09kZmpiMUxqazU5NmxMSkJoVmR0X3JlRE9XNnA1Zi1KX2x6d3o2elV5WlkyM0phNzhLNC1rQTdxVndFcGpYOWdCSzljZHBqQjhFcHp5UzVPeUI4bDhvSkxCLWw3a0tJMHpzMkdiQnpR?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-08-12T22:30:00+00:00",
+    "summary": "Exclusive | Apple in Talks to Pay Publishers to Improve AI-Powered Siri WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "7a4d72eb5160",
+    "title": "Banglalink Secures Bangladesh Bank Approval to Launch Mukto Pay Digital Payments Service - The Fast Mode",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxOQkJiY0ZsSWp4Wm55Zk44M1NtcTJIZ19GRHNSOWNxSmhKREJBWHhQS2dsUW9qQ1BvNFNQTUJraFNHdmVGYU92SDQ2UUc3dVJxQkpleEpibnU1LTdINjY4YXBEZEtYTFd4Y3dFemlCQzdMRUllV2g4WVI1MzN1NkIyVjJ6UkJHdmV1ejhNcjh4TC1kV2xWYzhheFNRblRDMDc2RkJDdlI0eWp2Y3A5UFprSnlzZmRURjhGU3l0X1dPVzFQM0pkZkFLYnVxRXVrLW5IRlZIOWJyZGY0ZTQ?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-08-13T00:09:36+00:00",
+    "summary": "Banglalink Secures Bangladesh Bank Approval to Launch Mukto Pay Digital Payments Service The Fast Mode",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 11
   },
   {
     "id": "c2f096493729",
@@ -1252,6 +1182,21 @@
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "d883c0588d11",
+    "title": "Msu academic technology earns adobe grant for digital literacy - The Independent Record",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPU2gwb2hiaEdlR3dETHk3WmNCWm9nXzByMkNSR3dqXzZ3bzZvc09xQnRoVjdEX0JkOUNhQi1pa1lscnA2QWJ4RWRGRWdHT3kzclV3S3g1bUt6cjM4dUJsMXVudzQyOWpISFhEVUNkS1JEVDMzWEtjMEJaYmdtTFZkNGZOSEZ1cWlMNmVucnRn?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-08-12T05:00:00+00:00",
+    "summary": "Msu academic technology earns adobe grant for digital literacy The Independent Record",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 10
   },
@@ -1284,22 +1229,6 @@
     "industries": [
       "tech",
       "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "5ce9e113a2b0",
-    "title": "Cycle Pharmaceuticals Selects Forma Life Sciences to Establish U.S. Commercial Supply for FDA-Approved CAVHANZA™ (nilotinib) Orally Disintegrating Tablets - finance.yahoo.com",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNUC1ILWJXMG9LeExSV2pmbHJtQXdJMlUyYTF5TFFWd29ZZUlYbkRyUmZFWXJITDhIYnluSlhJLWFkX1pyUjJ1M25NQk1rbEdEa3VuX1ZXZkh4ZnRLeUQybUgtTmtJdFFRa0lvalhFSFQ0QUFEZ3VvalRxdlBfYUZxNTEzcElQZGZZM2RlbXJqTEZTZlBWYlZTZ2loY2NDRTRYWFBj?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-12T17:00:00+00:00",
-    "summary": "Cycle Pharmaceuticals Selects Forma Life Sciences to Establish U.S. Commercial Supply for FDA-Approved CAVHANZA™ (nilotinib) Orally Disintegrating Tablets finance.yahoo.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
     ],
     "relevance_score": 10
   },
@@ -1357,69 +1286,33 @@
     "relevance_score": 9
   },
   {
-    "id": "7bc8fc84a110",
-    "title": "Healthcare CFOs face growing decision-making expectations. Many say they aren't ready",
-    "url": "https://www.fiercehealthcare.com/finance/healthcare-cfos-face-growing-decision-making-expectations-many-say-they-arent-ready",
-    "source": "Fierce Healthcare",
+    "id": "24888ca83ebf",
+    "title": "Cycle Pharmaceuticals Selects Forma Life Sciences to Establish U.S. Commercial Supply for FDA-Approved CAVHANZA™ (nilotinib) Orally Disintegrating Tablets - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMisgJBVV95cUxQLW5ua29lWWg0R2syb3BsUUtSNFRXdzhuMTNmRlA3c0pzSEZFaU1lSmF2Z1A2eFdORmh2cWhzcGQtYmNXUEQ3Y2ptUERtTDhXUW5XMlQxcU56ZEI1ZUg0MEZQUjhiT1dnaWJJTEQzRmdUNHVTdXJLenlJQzF6amZIbFhyYjYtc1NxcDdNUXFjVVhfVWk0RGozcnl4ZHZGT01CQnY1RDMyNVZqUEVqN2hwOGdsM0VnZ3VoeGlMbVlUQlRpbWd2NEFDbVN2S0tyelktWWFQd2Z0dEpkWll1UEZrcXQ4NVZkZ1pXM2tDVUZNQmJVTHdRZHk0a01wTElFSXgtWjdCakZBNWx5SnFrSV8xRnM3ZF9CZXpUcFVSTmlndnFqc1MwbW5ja19TbnZSXzV2MkE?oc=5",
+    "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-08-11T16:07:00+00:00",
-    "summary": "Healthcare chief financial officers often say they are expected to be substantially involved in a broad range of enterprise decision-making, though many don’t believe they are appropriately equipped to contribute.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2027127656.jpg?VersionId=3aTP_X2B5gsUVABHzqr.9pSgHVYksU0G",
+    "published": "2026-08-12T17:00:00+00:00",
+    "summary": "Cycle Pharmaceuticals Selects Forma Life Sciences to Establish U.S. Commercial Supply for FDA-Approved CAVHANZA™ (nilotinib) Orally Disintegrating Tablets Business Wire",
+    "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 9
   },
   {
-    "id": "20481d63a647",
-    "title": "Libya seeks stronger regional cooperation on digital transformation - The Libya Observer",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONUQzZDYwSEZwVWV4aUxmWXZ1MVFBMWNWTUFHSHRYZzVhRjFac2Y2eEQ5N3VkLUhLSGFlS3NoWUR1RTRFOHh2azNNZUdCTWlPMnRpekdQMWF0elBmcUFJMkJEdGZJMGJnV1dVbTA2TzdoSUo5UUIzbDFPeHpSSUFSVGU4TTdLdHZrM0ZocmJTdDJjaHZMQUhaN0ln?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-08-12T15:56:43+00:00",
-    "summary": "Libya seeks stronger regional cooperation on digital transformation The Libya Observer",
+    "id": "d91ad156d8ac",
+    "title": "Adobe vs. Arista Networks: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPTWJ4SlgwUW8wTDA5T1RVUW52MkJVNmFfbHFXN1RhdDZOSzRXRTdRN29nYTdmakswNU9fckhvSmhCd0VheU5vcDU1ZEdTcDZDZmpDbmJqNlFCWGpHRUY4a3AzYkV5T05qTThtTV9WdlQ2dHMyNFhfYWFmSmMteVdRbVFUa1lTMTVVNDJObXlyTGYwTU9PMENtcHUwdEoxYXJGdWdVUzJMLW5HbTIwa3pDbUV2d3VmNVlTSU9kZ212M281UQ?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-08-10T00:11:00+00:00",
+    "summary": "Adobe vs. Arista Networks: Which Technology Stock Is a Better Buy in 2026? The Motley Fool",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "231d83771782",
-    "title": "Salesforce’s Agentforce 360 platform approved for sensitive Defense Department data - SC Media",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOREp2RmNnWHdJejdHVUtMQW5zY05KSGJiS3JtU04xVW1qZ2xFdGI3dXVKTV9NRkVPX0poekVFbDRLWDdydHdyeFI4NFlvYnFneWJmeE12VHpyNERvUXRMb2lPa2pYQjVFWUhSbGVPcXRCZHd2RkZBb1pqNzlTYnZaT204V3Q3OE1rNlZMSjR1ZHc0bWFkSW92aVlSOUY0T0ZfY2Y4UDRsYkkwRW4wekFpOHZR?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-08-06T15:08:09+00:00",
-    "summary": "Salesforce’s Agentforce 360 platform approved for sensitive Defense Department data SC Media",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "dc0e21395840",
-    "title": "The AI boom could boost Epic's position, health system execs say. Here's where AI startups can still win",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/ai-boom-could-strengthen-epics-position-health-system-execs-say-heres-where",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-07T10:27:00+00:00",
-    "summary": "Clinician-facing AI, imaging AI, patient AI assistants, discharge and care transitions and revenue cycle AI are the categories in which health systems are most willing to look beyond Epic, executives said.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/chatgpt_image_aug_7_2026_11_17_21_am.png?VersionId=3R2LoTxPOF5XPxsW6lf6b7xcpt8Lilwn",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
+      "tech"
     ],
     "relevance_score": 8
   },
@@ -1441,18 +1334,34 @@
     "relevance_score": 8
   },
   {
-    "id": "bcf28256cced",
-    "title": "Envetec Receives California Approval for GENERATIONS® to Treat Biohazardous and Sharps Waste - The Manila Times",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSXYzZ3p0OXFlelJwYXluXzNvOWd6elBfYW1EeHdoQVc5Mmg1a3VFa0x2bDM3MVpkcEpSRmJ0MUpUaUhJa1lEYjE1WTlncTI4TlMwU1AxS3pwQmFSNk1QZGRMNlhnenpYaUdxUGxjNlRQV1FwaW9CQU5CVlpzTTJVSEJteFk1UUlEQUdYblA1cXhpRnRKVlBjYXNza1VLMV9WX0VKX3lWUHY4Y0dFZ25RZVBydzB4Z3hraEpPVGQxUmt6SlZJWjB4VlBYYTVfNkdvMFQ3WmFkdktuMXhDRzNOc3FnZU13NEJYTFdfcS1ZQW5hTjN1dE5ZdtIB_gFBVV95cUxNRXJ5Q2g3Wmt5TkJ0NlV5MmpVSzFnaUgyN0EySEJ5T3FqR0FySFVOSmtBb0FyZk1ST3l2c2xGcWVHRXdrTG5qN2U1MFRMY21RR1A3cU9BVFZVbmFqUVpaWGtXMlFGc0dGZUluamx3bW5oVjlPNkVEV1lPeHJPOEZBSHVqWk4yYnFJdS1DMHlnNU4tSFJmamUyQThjNXA4RHZiRHpoVGdjLUZGVTk0dG00Qms5dHFvYl8yUEM2TzhvdXNlRVdoaEp3ckphWU5DMmtDMVdWTXhPMk5nODEzNURTWDFKX3dYM01OX1R4S2V5LXpuXzNsSGRNdkkxMDNPUQ?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-12T07:15:53+00:00",
-    "summary": "Envetec Receives California Approval for GENERATIONS® to Treat Biohazardous and Sharps Waste The Manila Times",
+    "id": "20481d63a647",
+    "title": "Libya seeks stronger regional cooperation on digital transformation - The Libya Observer",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxONUQzZDYwSEZwVWV4aUxmWXZ1MVFBMWNWTUFHSHRYZzVhRjFac2Y2eEQ5N3VkLUhLSGFlS3NoWUR1RTRFOHh2azNNZUdCTWlPMnRpekdQMWF0elBmcUFJMkJEdGZJMGJnV1dVbTA2TzdoSUo5UUIzbDFPeHpSSUFSVGU4TTdLdHZrM0ZocmJTdDJjaHZMQUhaN0ln?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-08-12T15:56:43+00:00",
+    "summary": "Libya seeks stronger regional cooperation on digital transformation The Libya Observer",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "e287c6d04c52",
+    "title": "Modern Treasury Adds Physical and Digital Check Payments to Its Unified Payments API - Business Wire",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOYnY0NGpqek8xeGtRcm9UU2ZpUi1wNGU0VjlpMk5EbDBrN1g5WnVRX3NRUUlhdDVEYk9NSXF6ZXhNcF90MkVhY0YybmRBVU9PMHAtMEc1X3U1QVQ0alVwRjlWWjJjdjZkRWFqLW5NaFdENndCeEZxTDVFcGlsaElLT3cwWXk3OWlmMVUzSklDN3huT0FXTy03ems0TFN5clQ0U1BEeFhYNnRZVlBYYi1oTmVSV1V2WGNzczNNdWlWc2dma1FySm81RFAyRnZOQWhMZW1DdXBXUFc?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-08-12T16:00:00+00:00",
+    "summary": "Modern Treasury Adds Physical and Digital Check Payments to Its Unified Payments API Business Wire",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
     ],
     "relevance_score": 8
   },
@@ -1469,6 +1378,37 @@
     "industries": [
       "tech",
       "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "9f5fb8ce20a9",
+    "title": "Reliant Payment Appoints Evan Owens as Vice President of Sales, New Verticals & Digital Assets - Newswire.com",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxObUI2Y250VGhrU21Mb0RSQnRxVUNDc0daYTU3UjFFb0swcm16X2ZNUFhwVXU2WnZQUVV2bEJZblR0dGxsWlF5NGlvNUhGOFptcWZaME4xQTZaUmxSN0ZlQjV6TUxwSG9rVTljVUdrMloxWlNMQ1A1aTZVc2dJUUpHMFhSazhYcDFiVENPOUdBYVhWOXpxT3IwaDg3NXR5SEpMZmJzV0RjZHg?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-08-11T14:30:00+00:00",
+    "summary": "Reliant Payment Appoints Evan Owens as Vice President of Sales, New Verticals & Digital Assets Newswire.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "bcf28256cced",
+    "title": "Envetec Receives California Approval for GENERATIONS® to Treat Biohazardous and Sharps Waste - The Manila Times",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxNSXYzZ3p0OXFlelJwYXluXzNvOWd6elBfYW1EeHdoQVc5Mmg1a3VFa0x2bDM3MVpkcEpSRmJ0MUpUaUhJa1lEYjE1WTlncTI4TlMwU1AxS3pwQmFSNk1QZGRMNlhnenpYaUdxUGxjNlRQV1FwaW9CQU5CVlpzTTJVSEJteFk1UUlEQUdYblA1cXhpRnRKVlBjYXNza1VLMV9WX0VKX3lWUHY4Y0dFZ25RZVBydzB4Z3hraEpPVGQxUmt6SlZJWjB4VlBYYTVfNkdvMFQ3WmFkdktuMXhDRzNOc3FnZU13NEJYTFdfcS1ZQW5hTjN1dE5ZdtIB_gFBVV95cUxNRXJ5Q2g3Wmt5TkJ0NlV5MmpVSzFnaUgyN0EySEJ5T3FqR0FySFVOSmtBb0FyZk1ST3l2c2xGcWVHRXdrTG5qN2U1MFRMY21RR1A3cU9BVFZVbmFqUVpaWGtXMlFGc0dGZUluamx3bW5oVjlPNkVEV1lPeHJPOEZBSHVqWk4yYnFJdS1DMHlnNU4tSFJmamUyQThjNXA4RHZiRHpoVGdjLUZGVTk0dG00Qms5dHFvYl8yUEM2TzhvdXNlRVdoaEp3ckphWU5DMmtDMVdWTXhPMk5nODEzNURTWDFKX3dYM01OX1R4S2V5LXpuXzNsSGRNdkkxMDNPUQ?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-12T07:15:53+00:00",
+    "summary": "Envetec Receives California Approval for GENERATIONS® to Treat Biohazardous and Sharps Waste The Manila Times",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 7
   },
@@ -1491,25 +1431,10 @@
     "id": "95a328b8b8f7",
     "title": "Adobe Is Coming for Canva With Expanded ChatGPT Integration - PetaPixel",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPV3NxNFc5b0NhbUZJUTg5TTlWTFBfeE9pLUJWZHpSWk54OWVZaDRnLVdsZHVXMU5pdzBFRjJZVTlpQ05RaEI0TW80QjV5WDIzUDFrWkd1bVdOaVpBWHV6Q3RUdlY5aEREUlp2dnd0b0xyZXR1bmh2aFFsbmR4SWxBY2dFRUU4Mm44b2RUVGc2d0RwR0kwcVdSSQ?oc=5",
-    "source": "Adobe",
+    "source": "Adobe Products",
     "source_category": "adobe",
     "published": "2026-08-07T14:43:33+00:00",
     "summary": "Adobe Is Coming for Canva With Expanded ChatGPT Integration PetaPixel",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "6f4c29e504ef",
-    "title": "Airtel Business, ITI Limited Partner to Accelerate India’s Digital Transformation - The Fast Mode",
-    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOURjN1l1T2E1Z2N1QWhTTFRsdHpYWDctQ0UtUldDTEFfQzdOMGpvWHNOd0l4Rk9HQkNFMlBaM0NZNlo5M215cWZEUWR3VW9tRUVVVkxlTDFxN19KYjV5ZXUzc2tMSHY5V09XWF93MkVrMHU3VHNKMW5KcFRQUnplNkJKMy1WOEI2WHFRYmROZmF2bTV2aGVITlM3YnZWeklrd0kxaXZkUUNKTE13ak45bTJNRUZsWWQyOUU3b2JmUmNialNFYnh4Um9uSUNvS0dF?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-08-11T00:29:10+00:00",
-    "summary": "Airtel Business, ITI Limited Partner to Accelerate India’s Digital Transformation The Fast Mode",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1566,22 +1491,6 @@
     "relevance_score": 6
   },
   {
-    "id": "18b771f23639",
-    "title": "Takeda’s narcolepsy drug approved by the FDA, seen as a boon for new class of treatments - STAT",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQaG9JQnQ5OEhuejZTQkxJSWRKWVNmdzJ1TjluWDZ3RVdOR3NlV3VRbm9FS3lmQlBRVk5DNFMwaUQwWnNyQVFzWE5xd1ZZRHhUMUhENlBBblhQTlZEbHdRUU8xNEhGOF9XOEpYQ2JMMUE5RkU0SmE2SkpQZVVLMjhFXzJvU0szeHFB?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-05T20:44:56+00:00",
-    "summary": "Takeda’s narcolepsy drug approved by the FDA, seen as a boon for new class of treatments STAT",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
     "id": "9c378d6bb790",
     "title": "Two FDA approvals — a new drug and a new vaccine - STAT",
     "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQcUJHN2ZDOHBjQjNCLWhXT3l5UE9yRmNBYlIxT2kteDhtaWFZd19GckpLU0RMS21VRlhGSXFpTGxiY255ZVB3NEdFdEFlVmtLZlc4UXZmTDlnOGlZZ3ZaSEY1N3ZrSno4LVBmTkNqbDEwSzRGNGl0dVZtdzdhYklsbU5mV1hmWHByMUZnU0M0bFp3TDRvRktOV0pnM3Q?oc=5",
@@ -1598,28 +1507,13 @@
     "relevance_score": 5
   },
   {
-    "id": "c669b777dabb",
-    "title": "Adobe Debuts ChatGPT App Featuring All Its Programs - Forbes",
-    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxPTk1PNDQ5N0NOWl9JWWlPbS0tVWZHcUZiN2ZQV0JiblhmY09iRHI1M0lxUjdPS1VRbV9tVWNCeGpHU3ZEWnZYclZNOU1ZYWpuQVowN3ViWlYtMk04QU9sSTFlTFcxVEVsaHFBV2F1ZnNKRldTMTFzUEZpSjdJSTVQS2dLWjVrZEt4R2ttRm9Tb01qdUpTOTJPbENPVnJ1RHkt?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-08-06T17:13:21+00:00",
-    "summary": "Adobe Debuts ChatGPT App Featuring All Its Programs Forbes",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 5
-  },
-  {
     "id": "db422be7e5a0",
-    "title": "PayPay (PAYP) Unveils Capital Alliance To Link Digital Payments With Store Shopping - finance.yahoo.com",
+    "title": "PayPay (PAYP) Unveils Capital Alliance To Link Digital Payments With Store Shopping - Yahoo Finance",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQX0pDdGlDT1JPY2ROekpvXzlGMzNJcGZBQV9PLUxVMHhIeXhmektOLTF0cnNsLUtCbWJyUXBxZTRJaDA5SFVacUoyUUlZbVQwSHJtNlVNaU5WVlQ3ZHlnMDdPU05Sby1LTmJVWWJwZkFIc3g4TFpFYTE5Y1JncDYxYWRrejBKTFVmcVFxcGVuSFpRb1JYS3F1WHRzb0FuaWw4RTYw?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
     "published": "2026-08-07T08:13:03+00:00",
-    "summary": "PayPay (PAYP) Unveils Capital Alliance To Link Digital Payments With Store Shopping finance.yahoo.com",
+    "summary": "PayPay (PAYP) Unveils Capital Alliance To Link Digital Payments With Store Shopping Yahoo Finance",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1630,13 +1524,13 @@
     "relevance_score": 5
   },
   {
-    "id": "075a90989861",
-    "title": "Moderna's mRNA Flu Vaccine Wins FDA Approval - Labroots",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOa3dDTVpCaGowQ0dsOGRTdjRac2Jad0JJYktWQWRSTF9oLUt2V3FDaWp0RWxlMFNPVG5JU1I1cG9HdGFuRlFDazlBMEVRd1NmM1dWVHFvYTNZTHBSYjhXRVgzS0F1eEdaTVJOSnZ0QWt3ckozV252MG1MY3E1cUhucVJrU25YRTRuOGtfWHdLcFNGUXRYa3B1WjJyTlVVNzY4UlFJRGd30gGrAUFVX3lxTE0xdWtHLXNZUDdkNXRtSUtyVWxMLS0yenExeE1EQzJCNG54ajFRS1I4OWJ6LWc1eGF6OEdSMjkzUHlhSkJlOGlqUlMtbzFMdW4ybzk1WHQ1Ym5RdGxzaWNGYWtzdk0yVVY3dEZPeVhMNVk1aDktVlcyZHJLaU9JMXhpZWdPb0twVVc2ZTllTklRTkVRUEpLaGNhd3F1Mmk0WHB0TnAtS0pMMVhPUQ?oc=5",
+    "id": "e46700eb9523",
+    "title": "FDA Approves First-in-Class Narcolepsy Drug - Labroots",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNY0tnUVAtMUZRdDBKanpIODhOME15Z3hFNWhRcDFZczU3Tnd0aXNHbVNxYnJJd2Zkb1BuUHhCWUoteXNHX2NRa1pvQUl4dWNwdG9SaDktNlREQXkza3JXTVRSNFZiSk13S2QxUGd1eWo3amo2WGRJVUx0RTdHYl95MjZoTUFxelh2blVfYVlYNDNUWXZiS0F5cElmcDBUTkd2Qy12dw?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-08-07T15:32:00+00:00",
-    "summary": "Moderna's mRNA Flu Vaccine Wins FDA Approval Labroots",
+    "published": "2026-08-07T16:07:00+00:00",
+    "summary": "FDA Approves First-in-Class Narcolepsy Drug Labroots",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1647,12 +1541,12 @@
   },
   {
     "id": "f5faeb005529",
-    "title": "Apple Tests Chinese Memory Chips as Supply Squeeze Bites - wsj.com",
+    "title": "Apple Tests Chinese Memory Chips as Supply Squeeze Bites - WSJ",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNMlR2QW5JZE9sLXYta285NU5Oa3kwdHhXQUk0WE5nT3lPbGxhSEJXQzlOUndnYnp3VzE3UmZJNzUya2NFS3pGUU1LWEFFbEZIaTVzajRrX09CYnBqRnBTSU1aXzgwSXlDTEVKMXNOc1BpcVA0M3BBSUVaQU1UWGc3NlZTempuTlZ0WDluUjdCZ0xtSm1D?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
     "published": "2026-08-09T10:54:00+00:00",
-    "summary": "Apple Tests Chinese Memory Chips as Supply Squeeze Bites wsj.com",
+    "summary": "Apple Tests Chinese Memory Chips as Supply Squeeze Bites WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1673,6 +1567,21 @@
     "industries": [
       "tech",
       "financial"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "6f4c29e504ef",
+    "title": "Airtel Business, ITI Limited Partner to Accelerate India’s Digital Transformation - The Fast Mode",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxPOURjN1l1T2E1Z2N1QWhTTFRsdHpYWDctQ0UtUldDTEFfQzdOMGpvWHNOd0l4Rk9HQkNFMlBaM0NZNlo5M215cWZEUWR3VW9tRUVVVkxlTDFxN19KYjV5ZXUzc2tMSHY5V09XWF93MkVrMHU3VHNKMW5KcFRQUnplNkJKMy1WOEI2WHFRYmROZmF2bTV2aGVITlM3YnZWeklrd0kxaXZkUUNKTE13ak45bTJNRUZsWWQyOUU3b2JmUmNialNFYnh4Um9uSUNvS0dF?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-08-11T00:29:10+00:00",
+    "summary": "Airtel Business, ITI Limited Partner to Accelerate India’s Digital Transformation The Fast Mode",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 5
   }
