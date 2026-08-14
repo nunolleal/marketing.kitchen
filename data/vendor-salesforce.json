@@ -1,20 +1,5 @@
 [
   {
-    "id": "d307e9d0eb5b",
-    "title": "12 Customer Record Management Tips and Tools",
-    "url": "https://www.salesforce.com/blog/small-business/customer-relationship-management-tips/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-08-13T13:24:04+00:00",
-    "summary": "Are your customer records a mess? Check out these CRM tips and tricks for a more organized business.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/image_fd909f.jpeg",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 37
-  },
-  {
     "id": "79daefbc2a26",
     "title": "Is U.S. Army’s IL5 Agentforce Deployment Altering The Investment Case For Salesforce (CRM)? - simplywall.st",
     "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPZmFjRC1zZ1hGTkpxWWlBR1hNQm9TWjRJWjF4Y1JjQ1lENnRZYzRZS1lsdTFXM2FFWWVlcHlUbUU4MWJLdThCdV9MMFUtcE9GXy1YS1FpRzZoR2w3WGFFNHNaZGMzLTdKbzF0MEN1cFFZZFdwbkJ6WlpnSFNWTEM2dmxFay1lVFMwZ1VFWFczdGplSkEwRjMwTmJWLXhmT0NlNTEwZWtfenJrVXFHUjBJOW1OUG9XcWZkU2J3eDVLczEtcnN3ODhldlV30gHKAUFVX3lxTE9mYWNELXNnWEZOSnFZaUFHWE1Cb1NaNElaMXhjUmNDWUQ2dFljNFlLWWx1MVczYUVZZWVweVRtRTgxYkt1OEJ1X0wwVS1wT0ZfLVhLUWlHNmhHbDdYYUU0c1pkYzMtN0pvMXQwQ3VwUVlkV3BuQnpaWmdIU1ZMQzZ2bEVrLWVUUzBnVUVYVzN0amVKQTBGMzBOYlYteGZPQ2U1MTBla196cmtVcUdSMEk5bU5Qb1dxZmRTYnd4NUtzMS1yc3c4OGV2VXc?oc=5",
@@ -31,6 +16,21 @@
     "relevance_score": 35
   },
   {
+    "id": "d307e9d0eb5b",
+    "title": "12 Customer Record Management Tips and Tools",
+    "url": "https://www.salesforce.com/blog/small-business/customer-relationship-management-tips/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-08-13T13:24:04+00:00",
+    "summary": "Are your customer records a mess? Check out these CRM tips and tricks for a more organized business.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/image_fd909f.jpeg",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 33
+  },
+  {
     "id": "8c3b4bb0e294",
     "title": "The 5 Systems that Power the Headless 360 Architecture",
     "url": "https://www.salesforce.com/blog/systems-headless-360-architecture/",
@@ -43,7 +43,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 33
+    "relevance_score": 30
   },
   {
     "id": "2c9085c818a4",
@@ -61,6 +61,36 @@
     "relevance_score": 26
   },
   {
+    "id": "a3e154bc94ae",
+    "title": "JPMorgan Turns Bullish on Salesforce as the Stock Runs Three Straight Weeks - 24/7 Wall St.",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOUmRQbEY5WndLYXZTWktsNDB5VDJOVWFoRjJtSlNkc05nUERDY2ZrdzZwc2tvOVpuS0lZdDJFbm5MYzlJeTlxWG16T2JhVmVLLTJqdWdJc0x3TU1aNlBuMm50S0lJRmw2RUxuejh6b1V4YjY1SFphNDV2VHlTWkNERjlQa0U5ZTF2dmFmUENLU1RWb2o0VWxPbnRfUmR5ZnBVdXN6V2tsTlNwcndMUXhsVmFIV2pZVmVhSy00?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-08-14T15:30:45+00:00",
+    "summary": "JPMorgan Turns Bullish on Salesforce as the Stock Runs Three Straight Weeks 24/7 Wall St.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "50e4d5465e51",
+    "title": "Scale Customer Support With AI Agents: 5 Service Tips For SMBs",
+    "url": "https://www.salesforce.com/blog/small-business/customer-support-tips-with-ai-agents/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-08-14T13:00:00+00:00",
+    "summary": "Your customers deserve fast, personal service — here's how AI agents are delivering it.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/image_fb7290.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
     "id": "d59ebc34cd89",
     "title": "Scale Agent Development with Salesforce Headless 360",
     "url": "https://www.salesforce.com/blog/agent-development-lifecycle-headless/",
@@ -73,7 +103,22 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
+  },
+  {
+    "id": "12fe77d6148a",
+    "title": "How Is Salesforce Challenging ORCL & MSFT in the Agentic AI Space? - TradingView",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbXRySWpmTHFlaHBwYVBXeUVNeXp0ZXNRR0xGX1FwT3pSbUpGekdFTERyLUdIeEg2ZzRuZWU5OFV3NENxSXUwUjRKWnRZSnBrTV90UC1vVUtFQUp0NU5haXZnZnN5ZWxld0JWVUhzY01vaVNJMGV2aGpLNXpZS0FHdWlneTcyOExVemllaUhnM1NhZ2VqUHpqOHl2ZkZjR2NpRWtES2FLenZnaWt5dFkxS3djR3dBbnpiNk1B?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-08-14T14:50:00+00:00",
+    "summary": "How Is Salesforce Challenging ORCL & MSFT in the Agentic AI Space? TradingView",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 13
   },
   {
     "id": "4b8ac3d64c65",
@@ -88,7 +133,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "ced1f5722803",
@@ -119,19 +164,6 @@
       "industrial"
     ],
     "relevance_score": 11
-  },
-  {
-    "id": "fed6f140d367",
-    "title": "Salesforce to acquire Fin for $3.6bn - Financier Worldwide",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ldWh0UlZmVkxKTWlib3owX1NTVzUxRXNnbGtHNG9JTEpIN1hESXdaN1BIdmVZNzdiS0lxMkJmTWRSOW1HTWh3RzIzZ3lLQi03WXF4eGpqcWd0bk5McmVfZXZGcXgxTHk4NFpKMkVkU1VxeDg2aUE5Mg?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-08-11T14:52:30+00:00",
-    "summary": "Salesforce to acquire Fin for $3.6bn Financier Worldwide",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 10
   },
   {
     "id": "bfb20b1f53bf",
@@ -167,29 +199,14 @@
     "relevance_score": 10
   },
   {
-    "id": "c1af3afe9c7b",
-    "title": "Build a Salesforce Center of Excellence That Keeps Pace with AI",
-    "url": "https://www.salesforce.com/blog/center-of-excellence-ai-governance/",
-    "source": "Salesforce Blog",
+    "id": "fed6f140d367",
+    "title": "Salesforce to acquire Fin for $3.6bn - Financier Worldwide",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ldWh0UlZmVkxKTWlib3owX1NTVzUxRXNnbGtHNG9JTEpIN1hESXdaN1BIdmVZNzdiS0lxMkJmTWRSOW1HTWh3RzIzZ3lLQi03WXF4eGpqcWd0bk5McmVfZXZGcXgxTHk4NFpKMkVkU1VxeDg2aUE5Mg?oc=5",
+    "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-08-11T20:35:57+00:00",
-    "summary": "Create a Center of Excellence built to manage technical debt, strengthen adoption, and support continuous change.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/Blog-Images-7.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "c6d2edc0696b",
-    "title": "How to Make AI a Trusted Business Partner With Anti-Hallucination Practices",
-    "url": "https://www.salesforce.com/blog/small-business/ai-anti-hallucination-practices/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-08-12T13:00:00+00:00",
-    "summary": "Learn how to make AI more reliable for your business with these anti-hallucination strategies.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/image_3d91ca.jpeg",
+    "published": "2026-08-11T14:52:30+00:00",
+    "summary": "Salesforce to acquire Fin for $3.6bn Financier Worldwide",
+    "image_url": null,
     "tags": [],
     "industries": [],
     "relevance_score": 9
@@ -220,6 +237,19 @@
     "industries": [
       "industrial"
     ],
+    "relevance_score": 8
+  },
+  {
+    "id": "c6d2edc0696b",
+    "title": "How to Make AI a Trusted Business Partner With Anti-Hallucination Practices",
+    "url": "https://www.salesforce.com/blog/small-business/ai-anti-hallucination-practices/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-08-12T13:00:00+00:00",
+    "summary": "Learn how to make AI more reliable for your business with these anti-hallucination strategies.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/04/image_3d91ca.jpeg",
+    "tags": [],
+    "industries": [],
     "relevance_score": 8
   },
   {
