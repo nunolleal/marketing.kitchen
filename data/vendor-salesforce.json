@@ -12,7 +12,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 43
+    "relevance_score": 40
   },
   {
     "id": "79daefbc2a26",
@@ -75,7 +75,37 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
+  },
+  {
+    "id": "d59ebc34cd89",
+    "title": "Scale Agent Development with Salesforce Headless 360",
+    "url": "https://www.salesforce.com/blog/agent-development-lifecycle-headless/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-08-13T21:06:25+00:00",
+    "summary": "Take your Agent Development Lifecycle headless with CLI-driven, AI-assisted workflows that help teams build complex agents faster while preserving quality as they scale.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/Blog-Images-8.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "4b8ac3d64c65",
+    "title": "Salesforce Stock at Tested Price Floor: Agentforce AWU Billing Faces August 26 Reckoning - Tech Times",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxOVEoyaXcwNkdRNFRIeWFTNFlDd1RJRjJITHI3VHFmTXJHLUgxdTRtLVU5Zm03YUoxTEIwRDFBTzg3ajJvRGd5TjliY0kwTTlybXFtZ3VKdnJWTVVPcEJ1TThrUzdQV2tPclNLbW5JbndjbEMxMXZpcUpUaGVoc25UTURYY3NuLTZCUm1nYk5FaHRMR1ZnNG1lcGFDOU4tRmp6SEdVcjNaT2NraU1TNTNxZlF6SEdVZjFaMVo2QXhLa1l5UllFR056OXdtZ1BIQ1RsR1dYMmNR?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-08-13T21:08:30+00:00",
+    "summary": "Salesforce Stock at Tested Price Floor: Agentforce AWU Billing Faces August 26 Reckoning Tech Times",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
   },
   {
     "id": "39236f501f0f",
@@ -90,38 +120,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "fe3a574465b9",
-    "title": "Accessibility is the Blueprint for Trustworthy AI",
-    "url": "https://www.salesforce.com/blog/ai-accessibility-builds-trust/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-08-13T18:19:08+00:00",
-    "summary": "AI changes how software behaves, but it doesn't change what people need to trust it. Accessible design is the solution.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/05/global-accessibility-awareness-day.jpg",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
     "relevance_score": 13
-  },
-  {
-    "id": "ced1f5722803",
-    "title": "This Is Who We Are: Celebrating Salesforce’s 2026 Agents of Change",
-    "url": "https://www.salesforce.com/blog/this-is-who-we-are-celebrating-salesforces-2026-agents-of-change/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-08-11T20:59:01+00:00",
-    "summary": "The most extraordinary things often begin in the most ordinary ways. A conversation. A question. An idea shared out loud that invites others in. Along the way, people offer new perspectives, give their…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/Copy-of-FY27-Laulima-Agents-of-Change-2.jpg",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 12
   },
   {
     "id": "1e3768985947",
@@ -140,18 +139,47 @@
     "relevance_score": 12
   },
   {
-    "id": "c1af3afe9c7b",
-    "title": "Build a Salesforce Center of Excellence That Keeps Pace with AI",
-    "url": "https://www.salesforce.com/blog/center-of-excellence-ai-governance/",
+    "id": "fe3a574465b9",
+    "title": "Accessibility is the Blueprint for Trustworthy AI",
+    "url": "https://www.salesforce.com/blog/ai-accessibility-builds-trust/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-08-11T20:35:57+00:00",
-    "summary": "Create a Center of Excellence built to manage technical debt, strengthen adoption, and support continuous change.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/Blog-Images-7.png",
+    "published": "2026-08-13T18:19:08+00:00",
+    "summary": "AI changes how software behaves, but it doesn't change what people need to trust it. Accessible design is the solution.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/05/global-accessibility-awareness-day.jpg",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "ced1f5722803",
+    "title": "This Is Who We Are: Celebrating Salesforce’s 2026 Agents of Change",
+    "url": "https://www.salesforce.com/blog/this-is-who-we-are-celebrating-salesforces-2026-agents-of-change/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-08-11T20:59:01+00:00",
+    "summary": "The most extraordinary things often begin in the most ordinary ways. A conversation. A question. An idea shared out loud that invites others in. Along the way, people offer new perspectives, give their…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/Copy-of-FY27-Laulima-Agents-of-Change-2.jpg",
     "tags": [],
     "industries": [
       "industrial"
     ],
+    "relevance_score": 11
+  },
+  {
+    "id": "fed6f140d367",
+    "title": "Salesforce to acquire Fin for $3.6bn - Financier Worldwide",
+    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9ldWh0UlZmVkxKTWlib3owX1NTVzUxRXNnbGtHNG9JTEpIN1hESXdaN1BIdmVZNzdiS0lxMkJmTWRSOW1HTWh3RzIzZ3lLQi03WXF4eGpqcWd0bk5McmVfZXZGcXgxTHk4NFpKMkVkU1VxeDg2aUE5Mg?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-08-11T14:52:30+00:00",
+    "summary": "Salesforce to acquire Fin for $3.6bn Financier Worldwide",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
     "relevance_score": 10
   },
   {
@@ -172,30 +200,14 @@
     "relevance_score": 10
   },
   {
-    "id": "c2f096493729",
-    "title": "Build Your Future: Dreamforce Tips For Startups and SMBs",
-    "url": "https://www.salesforce.com/blog/small-business/dreamforce-tips-for-startups/",
+    "id": "c1af3afe9c7b",
+    "title": "Build a Salesforce Center of Excellence That Keeps Pace with AI",
+    "url": "https://www.salesforce.com/blog/center-of-excellence-ai-governance/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-08-11T13:00:00+00:00",
-    "summary": "Welcome to three days of the biggest ideas, boldest launches, and real connections — here's how to make every moment count.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/image_195b5d.jpeg",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "28f4e75e8a64",
-    "title": "Why Headless Architecture Is the Future of ITSM (and Why CIOs Are Choosing Buy + Build)",
-    "url": "https://www.salesforce.com/blog/headless-itsm/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-08-11T21:35:29+00:00",
-    "summary": "The question for IT leaders isn’t whether to adopt agentic AI across ITSM operations. It’s how. And getting that architectural decision wrong will cost you. Two failure modes are emerging. On one end:…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/headless-architecture-and-the-future-of-ITSM-1500x844-1.jpg",
+    "published": "2026-08-11T20:35:57+00:00",
+    "summary": "Create a Center of Excellence built to manage technical debt, strengthen adoption, and support continuous change.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/Blog-Images-7.png",
     "tags": [],
     "industries": [
       "industrial"
@@ -226,6 +238,21 @@
     "image_url": null,
     "tags": [],
     "industries": [],
+    "relevance_score": 8
+  },
+  {
+    "id": "28f4e75e8a64",
+    "title": "Why Headless Architecture Is the Future of ITSM (and Why CIOs Are Choosing Buy + Build)",
+    "url": "https://www.salesforce.com/blog/headless-itsm/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-08-11T21:35:29+00:00",
+    "summary": "The question for IT leaders isn’t whether to adopt agentic AI across ITSM operations. It’s how. And getting that architectural decision wrong will cost you. Two failure modes are emerging. On one end:…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/headless-architecture-and-the-future-of-ITSM-1500x844-1.jpg",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
     "relevance_score": 8
   },
   {
