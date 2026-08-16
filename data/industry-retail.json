@@ -20,7 +20,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 39
+    "relevance_score": 36
   },
   {
     "id": "e42d2ce98ddf",
@@ -112,7 +112,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "8239eea66af6",
@@ -136,27 +136,6 @@
     "relevance_score": 13
   },
   {
-    "id": "e6cc2a2222e0",
-    "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
-    "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-08-15T09:00:00+00:00",
-    "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
-    "image_url": "https://media.wired.com/photos/6a7f62de9dba743672684be2/master/pass/GettyImages-1305224058-edited.jpg",
-    "tags": [
-      "Gear",
-      "Gear / How To and Advice",
-      "Twitch",
-      "generative AI",
-      "artificial intelligence"
-    ],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 13
-  },
-  {
     "id": "fe4792dd7da9",
     "title": "Google’s Gemini 3.7 Flash targets coding and agents with a 50% introductory price cut",
     "url": "https://venturebeat.com/technology/googles-gemini-3-7-flash-targets-coding-and-agents-with-a-50-introductory-price-cut",
@@ -172,44 +151,6 @@
       "tech",
       "retail",
       "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "a82fcde90f83",
-    "title": "Xteink’s tiny e-readers are getting access to free books through Libby",
-    "url": "https://www.theverge.com/tech/976390/xteink-x3-x4-x4-pro-e-reader-libby-plug-ins-drm-crosspoint-reader",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-08-15T13:00:00+00:00",
-    "summary": "One of the big tradeoffs with Xteink's pocket-friendly e-readers is a lack of easy access to ebooks. On a Kindle or Kobo you can download tens of thousands of titles through each device's respective online bookstores, but with Xteink's devices you have to source DRM-free...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/xteinklibby1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723165084465%2C100%2C78.55366983107&amp;w=1200",
-    "tags": [
-      "Gadgets",
-      "Hands-on",
-      "News",
-      "Reviews",
-      "Tech"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "703d28cc9c02",
-    "title": "Wall Street week ahead: Home Depot and Walmart report earnings, minutes of Fed meeting are released - AP News",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZnc4dGFfV0hySjFiVzlBX3lneTF3ZlN3MFNBS1FObnNvVEtITFVFVFc2RXpuM2MxeXF5MG1FVjBzRkFCNnFhWnBlWkhnZVM0U1NhdTNNZUtrUTZfOVY1OWdaUGdoYk9Lc0FKb1ljQnVOZjRxNFRPN0xaXzRCRGg4YXRMaFJETUN4a0lyWllRRUE3TEV2R3d0aw?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-08-16T03:35:00+00:00",
-    "summary": "Wall Street week ahead: Home Depot and Walmart report earnings, minutes of Fed meeting are released AP News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "financial"
     ],
     "relevance_score": 12
   },
@@ -261,6 +202,43 @@
     "tags": [],
     "industries": [
       "retail"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "e6cc2a2222e0",
+    "title": "Amazon Can Use Your Twitch Content to Train Its AI—Unless You Opt Out",
+    "url": "https://www.wired.com/story/amazon-uses-your-twitch-content-to-train-its-ai-how-to-opt-out/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-08-15T09:00:00+00:00",
+    "summary": "When Twitch announced that streamers could opt out, thousands of users questioned why their content was being used to train AI models in the first place.",
+    "image_url": "https://media.wired.com/photos/6a7f62de9dba743672684be2/master/pass/GettyImages-1305224058-edited.jpg",
+    "tags": [
+      "Gear",
+      "Gear / How To and Advice",
+      "Twitch",
+      "generative AI",
+      "artificial intelligence"
+    ],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "703d28cc9c02",
+    "title": "Wall Street week ahead: Home Depot and Walmart report earnings, minutes of Fed meeting are released - AP News",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNZnc4dGFfV0hySjFiVzlBX3lneTF3ZlN3MFNBS1FObnNvVEtITFVFVFc2RXpuM2MxeXF5MG1FVjBzRkFCNnFhWnBlWkhnZVM0U1NhdTNNZUtrUTZfOVY1OWdaUGdoYk9Lc0FKb1ljQnVOZjRxNFRPN0xaXzRCRGg4YXRMaFJETUN4a0lyWllRRUE3TEV2R3d0aw?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-08-16T03:35:00+00:00",
+    "summary": "Wall Street week ahead: Home Depot and Walmart report earnings, minutes of Fed meeting are released AP News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "financial"
     ],
     "relevance_score": 11
   },
@@ -397,39 +375,6 @@
       "industrial"
     ],
     "relevance_score": 7
-  },
-  {
-    "id": "cf85a84cdc76",
-    "title": "What Are Wall Street Analysts' Target Price for Adobe Stock? - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOVA1a0Fia283aUNNNU04STUxazNTN0NHeXVGREZqdXhUR2N0MFRLaTJmRHFpajVWUFhINUstTU80ZngybmlMcVhtSTRiamxvcVZrcUpVNVpncXFTaFdRMjctWnB2YkJIOGVkMjM4a3F4VUx5THc0Nmk0b1U2X2toM2h1aFBxdjNZMDRWb1phVERRQ2VyMXdQSDZZTmQzbGs?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-08-10T14:46:38+00:00",
-    "summary": "What Are Wall Street Analysts' Target Price for Adobe Stock? Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "bef060d06779",
-    "title": "Exclusive | Trump Orders Navy to Restore Older Tech on Aircraft Carriers, Costing Billions - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNaFM0a0xDWnQwSUZYOGhyRWhncDBfUXZQZHZoNmw0Vzl1ZG84dVNGbWwxTnN4b0RuS0hIZ09VYl9LZjI2Z19KSTdCSk1VSTZMTXF0c0JnUm1fSFRBbmZ1ZXRkR2kxVmdjVjRqX21HNXE4YXdzZkVzVms3N0VNalg5T2QxNEh1TWhYcjNCOGV4RklRZWU1QlQ3WHFxbjNwQlhHbmNiM3l6QW1xWE8wRjdJVHdYbU10bVB2cnc?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-08-14T00:50:00+00:00",
-    "summary": "Exclusive | Trump Orders Navy to Restore Older Tech on Aircraft Carriers, Costing Billions WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "retail"
-    ],
-    "relevance_score": 6
   },
   {
     "id": "fbf33ff25ba6",
