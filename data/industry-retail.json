@@ -34,7 +34,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 44,
+    "relevance_score": 40,
     "also_covered_by": [
       "Adweek"
     ]
@@ -68,24 +68,6 @@
       "retail",
       "consumer",
       "industrial"
-    ],
-    "relevance_score": 35
-  },
-  {
-    "id": "10673b6f5e60",
-    "title": "Walmart-backed gaming publication lays off editorial team",
-    "url": "https://digiday.com/media/walmart-backed-gaming-publication-lays-off-editorial-team/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-08-13T04:01:00+00:00",
-    "summary": "Brandy Berthelson — who had been Restart’s editor-in-chief — said on Bluesky last Friday that the “entire editorial team” at Restart was laid off.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2023/05/unstable-gaming-conditions-digiday.jpg",
-    "tags": [
-      "Media"
-    ],
-    "industries": [
-      "retail",
-      "consumer"
     ],
     "relevance_score": 32
   },
@@ -133,6 +115,27 @@
     "relevance_score": 17
   },
   {
+    "id": "8dbf1714dbe1",
+    "title": "Meet The Entrepreneur Whose Vision Of Helping Indians See Better Made Him A Billionaire",
+    "url": "https://www.forbes.com/sites/anuraghunathan/2026/08/17/meet-the-entrepreneur-whose-vision-of-helping-indians-see-better-made-him-a-billionaire/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-18T02:38:16+00:00",
+    "summary": "Peyush Bansal becomes India’s latest billionaire, five months after listing Lenskart Solutions, the eyewear retailer he cofounded and runs.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a83ba464022d308f9330cc8/0x0.jpg",
+    "tags": [
+      "Asia",
+      "/asia",
+      "Asia",
+      "/asia",
+      "Billionaires"
+    ],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 16
+  },
+  {
     "id": "248c74532a44",
     "title": "Amazon, which started off selling books, is destroying rare texts to train AI",
     "url": "https://techcrunch.com/2026/08/17/amazon-once-an-online-bookseller-is-destroying-rare-books-to-train-ai-models/",
@@ -150,39 +153,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 15
-  },
-  {
-    "id": "eef565756293",
-    "title": "A new community for the people modernizing complex B2B commerce",
-    "url": "https://www.retaildive.com/spons/a-new-community-for-the-people-modernizing-complex-b2b-commerce/827937/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-08-17T09:00:00+00:00",
-    "summary": "A new commerce leadership community with a bold take on B2B ecommerce.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "5ffb4e7ca43e",
-    "title": "Why retailers are making EDI compliance non-negotiable for vendors in 2026",
-    "url": "https://www.retaildive.com/spons/why-retailers-are-making-edi-compliance-non-negotiable-for-vendors-in-2026/827304/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-08-17T09:00:00+00:00",
-    "summary": "Your vendors' EDI problems are your supply chain problems. Here's what's changing.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 13
+    "relevance_score": 14
   },
   {
     "id": "73f5f2fa3cbf",
@@ -201,19 +172,34 @@
     "relevance_score": 13
   },
   {
-    "id": "dc64f52c6645",
-    "title": "Philippines achieved 2025 digital payments target, BSP says - manilastandard.net",
-    "url": "https://news.google.com/rss/articles/CBMiUEFVX3lxTE5YN0huNzlyRjhaTE1zNWRGNWVENEVBSHJzTWRMeEw3eEtWd3lVX1ZnQzJaTFpLSVBoN2F5eFptaDFwM0w4UlpmbDJrdW5UU1M2?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-08-17T23:37:30+00:00",
-    "summary": "Philippines achieved 2025 digital payments target, BSP says manilastandard.net",
+    "id": "eef565756293",
+    "title": "A new community for the people modernizing complex B2B commerce",
+    "url": "https://www.retaildive.com/spons/a-new-community-for-the-people-modernizing-complex-b2b-commerce/827937/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-08-17T09:00:00+00:00",
+    "summary": "A new commerce leadership community with a bold take on B2B ecommerce.",
     "image_url": null,
     "tags": [],
     "industries": [
       "retail",
-      "industrial",
-      "financial"
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "5ffb4e7ca43e",
+    "title": "Why retailers are making EDI compliance non-negotiable for vendors in 2026",
+    "url": "https://www.retaildive.com/spons/why-retailers-are-making-edi-compliance-non-negotiable-for-vendors-in-2026/827304/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-08-17T09:00:00+00:00",
+    "summary": "Your vendors' EDI problems are your supply chain problems. Here's what's changing.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
     ],
     "relevance_score": 12
   },
@@ -272,36 +258,20 @@
     "relevance_score": 10
   },
   {
-    "id": "2b6e2d6f1f63",
-    "title": "Wall Street indexes slip as oil prices rise, retail results awaited - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-08-17T22:44:27+00:00",
-    "summary": "Wall Street indexes slip as oil prices rise, retail results awaited Reuters",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "38eb13fdd76d",
-    "title": "MoaData Partners with Global Telecom Software Leader Netcracker to Target 'AI Autonomous Operations' Market in Telecom Networks - 아시아경제",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yZExERVpxUmdaUm9jS1FPc1FFMWtWWjhiZFd5eWJ0dXhZWXBpWUJTLUZueDRlRnlVWEd6Q1VNMDFMSkktU2NJLUgtVEsyeXZLX3BLUHNMVHprNEI3M1pKSHBoaGo0LUdESmp2UXVINk9wVHExZHc4UmRTUQ?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-08-17T23:50:20+00:00",
-    "summary": "MoaData Partners with Global Telecom Software Leader Netcracker to Target 'AI Autonomous Operations' Market in Telecom Networks 아시아경제",
+    "id": "6f5673562299",
+    "title": "OncoSil secures FDA approval for targeted bile duct cancer device - BiotechDispatch",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPUWpZbEtYRkw4ZmU1bE82ODhGMGVkckQ2RXVxdWZiSHZjendzMktZa3lrRy1Eb2tLRURWMWlkVWU3T2hUZUVjV2g2RUhNUE1SWHAzZXZMeks1QVUtSWVJemFvU3UycVZIRGxpZ3BkU2pSekFTTkYtV1F2OUdLbF9Jc3d4TnpDTnc0bzFSdEQ2WkZUaWk1WXpLeHNsdWFaZXBIdElN?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-18T01:35:58+00:00",
+    "summary": "OncoSil secures FDA approval for targeted bile duct cancer device BiotechDispatch",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "telecom",
       "retail",
-      "industrial"
+      "industrial",
+      "lifesciences"
     ],
     "relevance_score": 10
   },
@@ -321,17 +291,36 @@
     "relevance_score": 9
   },
   {
-    "id": "1a686fca2e78",
-    "title": "Trump Administration Moves to Restore Felons’ Gun Rights - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTEVQTWxCQmFlQmd0MkJtdDd6VTdPRjF5QUpPbU1yR0FXM0ZZVDVnQ081V2draHZGbzlfaHVJaTduWjRqRC1XMHhZSTVsa3NlZXBRQjJfTC1neWx5X1liaTV5YkxJUkNKejdxMUJhbEZhZ3YxTHl6R3pQTmo1NDRWbkVEQWtZWExGeXg3VEZYcGx5OS1nZkI5TXdNc0JGdmtBVEE?oc=5",
+    "id": "2b6e2d6f1f63",
+    "title": "Wall Street indexes slip as oil prices rise, retail results awaited - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNNmVQMTVLQjc4cmxldlJTQjJiaXFrUFp0cXh6R2xQaGhRS3g2ZGFQbmRwM2pWZTRBQ08yTlhOZHNzVEExVWNVb0tHWmZRU0s5RHhuc3czT19MeXVBeThpejlsZ0puNnJ4UlNCTEg2NjNKYWVObzhDbnJ5UFBaeVFXYjlrZWJnZGhJRHc?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-08-17T16:36:00+00:00",
-    "summary": "Trump Administration Moves to Restore Felons’ Gun Rights WSJ",
+    "published": "2026-08-17T22:44:27+00:00",
+    "summary": "Wall Street indexes slip as oil prices rise, retail results awaited Reuters",
     "image_url": null,
     "tags": [],
     "industries": [
-      "retail"
+      "retail",
+      "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "38eb13fdd76d",
+    "title": "MoaData Partners with Global Telecom Software Leader Netcracker to Target 'AI Autonomous Operations' Market in Telecom Networks - 아시아경제",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE5yZExERVpxUmdaUm9jS1FPc1FFMWtWWjhiZFd5eWJ0dXhZWXBpWUJTLUZueDRlRnlVWEd6Q1VNMDFMSkktU2NJLUgtVEsyeXZLX3BLUHNMVHprNEI3M1pKSHBoaGo0LUdESmp2UXVINk9wVHExZHc4UmRTUQ?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-08-17T23:50:20+00:00",
+    "summary": "MoaData Partners with Global Telecom Software Leader Netcracker to Target 'AI Autonomous Operations' Market in Telecom Networks 아시아경제",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom",
+      "retail",
+      "industrial"
     ],
     "relevance_score": 9
   },
