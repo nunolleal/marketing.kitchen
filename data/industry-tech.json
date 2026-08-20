@@ -17,7 +17,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 53
+    "relevance_score": 50
   },
   {
     "id": "5437e656733a",
@@ -37,7 +37,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 53
+    "relevance_score": 50
   },
   {
     "id": "370ed86bb2f3",
@@ -55,43 +55,6 @@
     "industries": [
       "tech",
       "consumer",
-      "industrial"
-    ],
-    "relevance_score": 49
-  },
-  {
-    "id": "4bfe850050b7",
-    "title": "Turn scattered AI wins into an organizational advantage",
-    "url": "https://martech.org/turn-scattered-ai-wins-into-an-organizational-advantage/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-08-19T12:25:00+00:00",
-    "summary": "Useful AI practices often get trapped in personal docs and Slack threads. Here's how to spread them across the organization. The post Turn scattered AI wins into an organizational advantage appeared first on MarTech .",
-    "image_url": "https://www.youtube.com/embed/BL_ScI_PyEM",
-    "tags": [
-      "Marketing artificial intelligence (AI)",
-      "Marketing management"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 49
-  },
-  {
-    "id": "cd817b059170",
-    "title": "Google gives political email a lane around spam filters",
-    "url": "https://martech.org/google-gives-political-email-a-lane-around-spam-filters/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-08-19T14:30:32+00:00",
-    "summary": "New program shows how Gmail is using sender verification and recipient feedback to decide who gets preferential inbox treatment. The post Google gives political email a lane around spam filters appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/02/clear-path-through-a-maze--800x450.png",
-    "tags": [
-      "Email marketing"
-    ],
-    "industries": [
-      "tech",
       "industrial"
     ],
     "relevance_score": 49
@@ -128,6 +91,43 @@
     "industries": [
       "tech",
       "lifesciences"
+    ],
+    "relevance_score": 46
+  },
+  {
+    "id": "4bfe850050b7",
+    "title": "Turn scattered AI wins into an organizational advantage",
+    "url": "https://martech.org/turn-scattered-ai-wins-into-an-organizational-advantage/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-08-19T12:25:00+00:00",
+    "summary": "Useful AI practices often get trapped in personal docs and Slack threads. Here's how to spread them across the organization. The post Turn scattered AI wins into an organizational advantage appeared first on MarTech .",
+    "image_url": "https://www.youtube.com/embed/BL_ScI_PyEM",
+    "tags": [
+      "Marketing artificial intelligence (AI)",
+      "Marketing management"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 46
+  },
+  {
+    "id": "cd817b059170",
+    "title": "Google gives political email a lane around spam filters",
+    "url": "https://martech.org/google-gives-political-email-a-lane-around-spam-filters/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-08-19T14:30:32+00:00",
+    "summary": "New program shows how Gmail is using sender verification and recipient feedback to decide who gets preferential inbox treatment. The post Google gives political email a lane around spam filters appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/02/clear-path-through-a-maze--800x450.png",
+    "tags": [
+      "Email marketing"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 46
   },
@@ -337,22 +337,6 @@
     "relevance_score": 33
   },
   {
-    "id": "7bbffc0654f3",
-    "title": "Senate eyes a health privacy upgrade for your Apple Watch - Modern Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQR01CU3N4bUNoZklucC1GWW5VNzJsU2ZsSXMtQ3VrUU9HajRNU3JJeElyRFhyYnoyOHBQckRYbW16S1BDaWRSbDc2WUNIanhhYzhvUXR5aGdyMGJXdldyR3JCLVM4ZDl0TTl2c0szaG10ekdFTjQ0TEowMVN0OXVldWhKTHZadEJrcHEydmVlSm0xRzdFRTlNVQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-19T10:00:00+00:00",
-    "summary": "Senate eyes a health privacy upgrade for your Apple Watch Modern Healthcare",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 33
-  },
-  {
     "id": "6943d11970b0",
     "title": "4 Best AI Visibility Agencies for Fintech and SaaS Brands in 2026 - BBN Times",
     "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5zb081TEJzNkwyWFh4OFVWTUI3VDFiNnNSWTBobldaOV83NGhPb3B3MGVWdnpacXNpWHJmZnUzR2YxSWQwdjh3RUFPRHRHcVYxRjctOUlZVWRCZy0xcmN4aVNrNHpZb2ZIcnBSRnpOOEVsSWZYQmdNYzRR?oc=5",
@@ -371,25 +355,25 @@
     "relevance_score": 25
   },
   {
-    "id": "7a3e4bd3ee8c",
-    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
-    "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
-    "source": "TechCrunch AI",
+    "id": "4e621b47d1e8",
+    "title": "20% Off Samsung Promo Code | August 2026",
+    "url": "https://www.wired.com/story/samsung-promo-codes/",
+    "source": "Wired",
     "source_category": "ai",
-    "published": "2026-08-19T21:51:23+00:00",
-    "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024",
+    "published": "2026-08-20T05:00:00+00:00",
+    "summary": "Save 30% or 10% with Samsung coupon codes, up to $1,000 on appliances, plus limited-time deals on the Galaxy Z Fold7, Flip7, and S25.",
+    "image_url": "https://media.wired.com/photos/66ea077251891e6d3cb5d5cf/master/pass/WIRED-Coupons-3.jpg",
     "tags": [
-      "AI",
-      "ai coding",
-      "cognition",
-      "Devin",
-      "Mergers and Acquisitions"
+      "Gear",
+      "coupons",
+      "Samsung",
+      "Shopping",
+      "Coupons"
     ],
     "industries": [
       "tech"
     ],
-    "relevance_score": 18
+    "relevance_score": 19
   },
   {
     "id": "26ef0b285fb9",
@@ -432,25 +416,25 @@
     "relevance_score": 17
   },
   {
-    "id": "4d4fffd97589",
-    "title": "Google Pixel 11 Pro and Pixel 11 Pro XL Review: Smart Software, Small Upgrade",
-    "url": "https://www.wired.com/review/google-pixel-11-pro-and-pixel-11-pro-xl/",
-    "source": "Wired",
+    "id": "7a3e4bd3ee8c",
+    "title": "Cognition CEO denies report that SpaceX tried to acquire the startup",
+    "url": "https://techcrunch.com/2026/08/19/cognition-ceo-denies-report-that-spacex-tried-to-acquire-the-startup/",
+    "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-08-19T16:00:00+00:00",
-    "summary": "Google’s new voice typing is pure magic, but subpar gaming performance and a useless rear LED keep these flagships from true greatness.",
-    "image_url": "https://media.wired.com/photos/6a84b66769f773e1f551bc6c/master/pass/Review--Google-Pixel-11-Pro-and-Pixel-11-Pro-XL_HERO.jpg",
+    "published": "2026-08-19T21:51:23+00:00",
+    "summary": "SpaceX was reportedly in talks to buy AI coding startup Cognition. SpaceX has already acquired Cursor as it races to catch up to rivals like OpenAI and Anthropic in enterprise AI.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/Scott-Wu-of-Cognition.jpg?w=1024",
     "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Reviews",
-      "Gear / Products / Phones",
-      "Pixel"
+      "AI",
+      "ai coding",
+      "cognition",
+      "Devin",
+      "Mergers and Acquisitions"
     ],
     "industries": [
       "tech"
     ],
-    "relevance_score": 16
+    "relevance_score": 17
   },
   {
     "id": "e422db3581b7",
@@ -475,41 +459,23 @@
     "relevance_score": 16
   },
   {
-    "id": "4bdc8ccbb5d8",
-    "title": "Powering AI with Salesforce Data 360 & Unstructured Data",
-    "url": "https://www.salesforce.com/blog/powering-ai-with-salesforce-data-360-unstructured-data/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-08-19T13:23:54+00:00",
-    "summary": "Customer insights rarely reside solely in structured databases in rows and columns. Instead, significant enterprise value remains trapped within unstructured content —such as PDFs, knowledge base articles, email threads, customer interaction transcripts, media…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/image_ad9faf.png",
-    "tags": [],
-    "industries": [
-      "media",
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "9183067acc80",
-    "title": "We reviewed the new Pixel lineup, ask us anything",
-    "url": "https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama",
-    "source": "The Verge",
+    "id": "4d4fffd97589",
+    "title": "Google Pixel 11 Pro and Pixel 11 Pro XL Review: Smart Software, Small Upgrade",
+    "url": "https://www.wired.com/review/google-pixel-11-pro-and-pixel-11-pro-xl/",
+    "source": "Wired",
     "source_category": "ai",
-    "published": "2026-08-19T16:15:00+00:00",
-    "summary": "The embargo has lifted on Google's Pixel 11 series, as well as for its Pixel Watch 5. Now we get to talk smack - just kidding, the new hardware is good. We have four reviews live on the site that you can peruse at your leisure. We're giving subscribers a chance to engage with...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-3-phones.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.734776080358%2C100%2C78.530447839284&amp;w=1200",
+    "published": "2026-08-19T16:00:00+00:00",
+    "summary": "Google’s new voice typing is pure magic, but subpar gaming performance and a useless rear LED keep these flagships from true greatness.",
+    "image_url": "https://media.wired.com/photos/6a84b66769f773e1f551bc6c/master/pass/Review--Google-Pixel-11-Pro-and-Pixel-11-Pro-XL_HERO.jpg",
     "tags": [
-      "Column",
-      "Google",
-      "Google Pixel",
-      "Q&A",
-      "Tech"
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Reviews",
+      "Gear / Products / Phones",
+      "Pixel"
     ],
     "industries": [
-      "tech",
-      "industrial"
+      "tech"
     ],
     "relevance_score": 15
   },
@@ -576,24 +542,6 @@
     "relevance_score": 15
   },
   {
-    "id": "8a2f26df549a",
-    "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
-    "url": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-08-19T23:50:00+00:00",
-    "summary": "Another day, another new AI agent harness is released. Only this time, it's one that aims to solve a growing enterprise problem as AI agents proliferate: enabling greater developer control of agents and tools, while reducing cost. TrueFoundry , a San Francisco B2B machine...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/Zu58wse6Ue2XSH7QjdasT/cab01dedb55805687b566c53a20fd64d/Carl_Franzen_graphic_novel_flat_illustration_in_dominant_purple_b9eee842-b613-4cb0-82b6-f0d39acd0d96.png?w=300&q=30",
-    "tags": [
-      "Orchestration"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
     "id": "3def95de31d4",
     "title": "ChatGPT Is Down, Here’s What OpenAI Says Is Happening",
     "url": "https://www.forbes.com/sites/erikkain/2026/08/19/chatgpt-down-outage-openai-login-issues/",
@@ -630,6 +578,45 @@
     "industries": [
       "tech",
       "retail",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "4bdc8ccbb5d8",
+    "title": "Powering AI with Salesforce Data 360 & Unstructured Data",
+    "url": "https://www.salesforce.com/blog/powering-ai-with-salesforce-data-360-unstructured-data/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-08-19T13:23:54+00:00",
+    "summary": "Customer insights rarely reside solely in structured databases in rows and columns. Instead, significant enterprise value remains trapped within unstructured content —such as PDFs, knowledge base articles, email threads, customer interaction transcripts, media…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/image_ad9faf.png",
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "9183067acc80",
+    "title": "We reviewed the new Pixel lineup, ask us anything",
+    "url": "https://www.theverge.com/tech/981537/pixel-11-pro-fold-watch-5-ama",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-08-19T16:15:00+00:00",
+    "summary": "The embargo has lifted on Google's Pixel 11 series, as well as for its Pixel Watch 5. Now we get to talk smack - just kidding, the new hardware is good. We have four reviews live on the site that you can peruse at your leisure. We're giving subscribers a chance to engage with...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Google-Pixel-11-Pro-3-phones.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.734776080358%2C100%2C78.530447839284&amp;w=1200",
+    "tags": [
+      "Column",
+      "Google",
+      "Google Pixel",
+      "Q&A",
+      "Tech"
+    ],
+    "industries": [
+      "tech",
       "industrial"
     ],
     "relevance_score": 14
@@ -680,38 +667,20 @@
     "relevance_score": 14
   },
   {
-    "id": "c1ec0c083e08",
-    "title": "Why Companies Are Turning to Salesforce as a Customer Success Platform",
-    "url": "https://www.salesforce.com/blog/why-companies-are-turning-to-salesforce-as-a-customer-success-platform/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-08-19T21:24:41+00:00",
-    "summary": "Success teams are increasingly choosing Salesforce over standalone customer success platforms. Here's what Apollo, Superhuman, AppsFlyer, and Sensor Tower learned along the way.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/360-blog_-AI-in-Customer-Success_-Your-Guide-to-Smarter-Metrics-and-Happier-Customers.webp",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "9c3212205413",
-    "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
-    "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
-    "source": "TechCrunch AI",
+    "id": "8a2f26df549a",
+    "title": "TrueFoundry's open source AI agent harness TrueForge boasts 30%-75% cheaper task completion than Claude Managed Agents",
+    "url": "https://venturebeat.com/orchestration/truefoundrys-open-source-ai-agent-harness-trueforge-boasts-30-75-cheaper-task-completion-than-claude-managed-agents",
+    "source": "VentureBeat",
     "source_category": "ai",
-    "published": "2026-08-19T23:32:00+00:00",
-    "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-527013168.jpg?resize=1200,801",
+    "published": "2026-08-19T23:50:00+00:00",
+    "summary": "Another day, another new AI agent harness is released. Only this time, it's one that aims to solve a growing enterprise problem as AI agents proliferate: enabling greater developer control of agents and tools, while reducing cost. TrueFoundry , a San Francisco B2B machine...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/Zu58wse6Ue2XSH7QjdasT/cab01dedb55805687b566c53a20fd64d/Carl_Franzen_graphic_novel_flat_illustration_in_dominant_purple_b9eee842-b613-4cb0-82b6-f0d39acd0d96.png?w=300&q=30",
     "tags": [
-      "AI",
-      "TC",
-      "stripe",
-      "openrouter"
+      "Orchestration"
     ],
     "industries": [
       "tech",
-      "financial"
+      "industrial"
     ],
     "relevance_score": 14
   },
@@ -734,27 +703,6 @@
     "industries": [
       "tech",
       "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "ace90aaaec0d",
-    "title": "Why Is It Absolute Hell to Buy a Movie Ticket Now?",
-    "url": "https://www.wired.com/story/why-is-it-absolute-hell-to-buy-a-movie-ticket-now/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-08-19T14:33:04+00:00",
-    "summary": "Overwhelmed theater apps and a scarcity mindset around exclusive big-screen formats for blockbusters like Dune: Part Three and The Odyssey have led to the “concertification” of movies.",
-    "image_url": "https://media.wired.com/photos/6a84cf4b5fff3cefc910e1b0/master/pass/Summer-of-Movie-Ticket-Concertification-Culture.jpg",
-    "tags": [
-      "Culture",
-      "Culture / Movies",
-      "hollywood",
-      "theater",
-      "Movies"
-    ],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 13
   },
@@ -798,23 +746,37 @@
     "relevance_score": 13
   },
   {
-    "id": "37b6497302c1",
-    "title": "If We Discover Extraterrestrial Life, What Happens Next?",
-    "url": "https://www.forbes.com/sites/chuckbrooks/2026/08/19/if-we-discover-extraterrestrial-life-what-happens-next/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-19T20:51:52+00:00",
-    "summary": "The search for extraterrestrial life has evolved from philosophy to a serious scientific and national security concern",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a8612945ff758de783ebf4b/0x0.jpg",
-    "tags": [
-      "AI",
-      "/ai",
-      "Innovation",
-      "/innovation",
-      "AI"
-    ],
+    "id": "c1ec0c083e08",
+    "title": "Why Companies Are Turning to Salesforce as a Customer Success Platform",
+    "url": "https://www.salesforce.com/blog/why-companies-are-turning-to-salesforce-as-a-customer-success-platform/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-08-19T21:24:41+00:00",
+    "summary": "Success teams are increasingly choosing Salesforce over standalone customer success platforms. Here's what Apollo, Superhuman, AppsFlyer, and Sensor Tower learned along the way.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/360-blog_-AI-in-Customer-Success_-Your-Guide-to-Smarter-Metrics-and-Happier-Customers.webp",
+    "tags": [],
     "industries": [
       "tech"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "9c3212205413",
+    "title": "Stripe didn’t really buy OpenRouter because of the ‘singularity’",
+    "url": "https://techcrunch.com/2026/08/19/stripe-didnt-really-buy-openrouter-because-of-the-singularity/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-08-19T23:32:00+00:00",
+    "summary": "What does a payments giant want with a startup that routes prompts between different AI models? Stripe says it's because of \"the singularity\" but it's really for a far more real and powerful reason.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2019/09/GettyImages-527013168.jpg?resize=1200,801",
+    "tags": [
+      "AI",
+      "openrouter",
+      "stripe"
+    ],
+    "industries": [
+      "tech",
+      "financial"
     ],
     "relevance_score": 13
   },
@@ -946,53 +908,80 @@
     "relevance_score": 12
   },
   {
-    "id": "8ca65718d9f4",
-    "title": "More Wins, Less Admin: Why Startups Need Deal Management Software",
-    "url": "https://www.salesforce.com/blog/small-business/deal-management-software-for-startups/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-08-19T13:00:00+00:00",
-    "summary": "Spend less time guessing and more time closing with these deal management tools.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/image.png",
-    "tags": [],
+    "id": "ace90aaaec0d",
+    "title": "Why Is It Absolute Hell to Buy a Movie Ticket Now?",
+    "url": "https://www.wired.com/story/why-is-it-absolute-hell-to-buy-a-movie-ticket-now/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-08-19T14:33:04+00:00",
+    "summary": "Overwhelmed theater apps and a scarcity mindset around exclusive big-screen formats for blockbusters like Dune: Part Three and The Odyssey have led to the “concertification” of movies.",
+    "image_url": "https://media.wired.com/photos/6a84cf4b5fff3cefc910e1b0/master/pass/Summer-of-Movie-Ticket-Concertification-Culture.jpg",
+    "tags": [
+      "Culture",
+      "Culture / Movies",
+      "hollywood",
+      "theater",
+      "Movies"
+    ],
     "industries": [
-      "tech",
-      "industrial"
+      "tech"
     ],
     "relevance_score": 12
   },
   {
-    "id": "8863e01c1e0c",
-    "title": "Google’s agentic Ads and Analytics dashboards change reporti - MarketScale",
-    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPYUtZejQyTFJJVjdEaEJpbVNjN2duWEFMTGlhbmxHMmxJb0ZMZGhGVDRGaS1YNzN4Z3NHTHI5eXB1Z3ZMM1BpNFdWREZPOThYRFdGb2NhZHBQaDFxOG8zb2k4TVlMZjhWQk00djQ1cXZINFFrd1JBQThPaGI0QUpySGVGT1NaOWlqa2haNXpRbFBma1A5ekZCeHI5cThUdk9pZ29hX0xoT2tpN2ZzemlfRGFjaHhxVkVGX1dSb1ZMUjducDdGSWZsOUJZYzMyc2U3LWZ0djRMcGxYOUN5eWRCLTcxeC1sUzV0WExUVTRuZ1FyaHNvY2JiUmhSNHhGYXVuUkMzY19VR3V0SWtqQ0hYZ0xFbFFTaXlVX1lKaEJB?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-08-19T15:00:15+00:00",
-    "summary": "Google’s agentic Ads and Analytics dashboards change reporti MarketScale",
-    "image_url": null,
-    "tags": [],
+    "id": "37b6497302c1",
+    "title": "If We Discover Extraterrestrial Life, What Happens Next?",
+    "url": "https://www.forbes.com/sites/chuckbrooks/2026/08/19/if-we-discover-extraterrestrial-life-what-happens-next/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-19T20:51:52+00:00",
+    "summary": "The search for extraterrestrial life has evolved from philosophy to a serious scientific and national security concern",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a8612945ff758de783ebf4b/0x0.jpg",
+    "tags": [
+      "AI",
+      "/ai",
+      "Innovation",
+      "/innovation",
+      "AI"
+    ],
     "industries": [
-      "media",
-      "tech",
-      "industrial"
+      "tech"
     ],
     "relevance_score": 12
   },
   {
-    "id": "b83c1d4a05bb",
-    "title": "Exclusive | Carlyle Joins $1 Billion Investment Round in Missile Startup Castelion - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkEtNTZ4VWduNERSd2pFVzR1OHlTeHJaV2xISGVaZ2NuSGhuTTVFYjhJRkNOZEFHUkVzUW5IMm0zSWVBZGgxck5iQkFiSzlEZ1ZZbXBfMHAyem1yNXZhNGlSQ1ptVVpwMjFaUDlhQlU1cFRrN3ZOekVTNWVKOUFCV2VRNHVXbDFjRzNtemlyRjhNLU9Fb2hhWnpSWG1iclMxbXBBMkhDM3pYQUk?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-08-19T23:02:00+00:00",
-    "summary": "Exclusive | Carlyle Joins $1 Billion Investment Round in Missile Startup Castelion WSJ",
+    "id": "228908d62c5c",
+    "title": "Marquis Who's Who Honors Richard Forsht for Leadership in Federal IT, Digital Transformation, Telecommunications, Networking, Cybersecurity, and Mission-Critical Operations - 24-7 Press Release Newswire",
+    "url": "https://news.google.com/rss/articles/CBMiwgJBVV95cUxNQUpRbjFmY3lRNGNNYXNWc0lLWmN5azZCVHFYZlBjaXl5Nnl2OFJVZnhXRm52c2x1bFFtU3JrbU0xSzRodmVQdU9yZDBhZVRSYmdTaVZSb0Jkb2NUdUJpb3IzaWN1Rl90alQzd0dlUkRhWGNXNHhJeUIzTFY0LUVzOUx3VEY0OFVVaVYzcm0yTmdZcUxrWXplcldpeGFTQ1BVQVBfUzhsUHFjTldlXzVoaXF0bzh6Y3dfUTZvTFhYVkJ3RVRSYmQ0bHNNalNKMlBkc2VhQUFsLVBTakRaZHZxRC1weUVQSnpfQ3J2MlFHYTEtVEF3X0l0d0tlT3Z3aDlIYUdZR3VmMUhuVW52aG90MkxyeTBWNUtDTTVKbkI1ZGt3VDlxWlNUTnpBdzF0ektVSUNtU0NSVnBrajZ5OTV0Q2l3?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-08-20T07:05:49+00:00",
+    "summary": "Marquis Who's Who Honors Richard Forsht for Leadership in Federal IT, Digital Transformation, Telecommunications, Networking, Cybersecurity, and Mission-Critical Operations 24-7 Press Release Newswire",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "financial"
+      "telecom"
     ],
     "relevance_score": 12
+  },
+  {
+    "id": "18250ca34991",
+    "title": "Adobe back to school deal knocks 50% off Creative Cloud Pro - Tom's Guide",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQVS1IdXdCUTZxQWw5VVJYdlozV210TDFLOHhjZ1o3WjduTWt4TXUzbjFLd094R3NvOEI5ZF8tTXIzbVlZOEd6RnFfMzhMRHhSOEpkNlFqU2dSMmt2LXJEOV9uOW1ZMWUtOGFrem1zUDVwRndiSHZKMVZxLWRCLXZTdTVjU3k4NnlGbF9ZU3U2bFpUVjY0VUFGUTMtYlpLbkpKWUJsYnRSaDdEb2IydDdB?oc=5",
+    "source": "Adobe Products",
+    "source_category": "adobe",
+    "published": "2026-08-17T16:08:40+00:00",
+    "summary": "Adobe back to school deal knocks 50% off Creative Cloud Pro Tom's Guide",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 11,
+    "also_covered_by": [
+      "Ad Age"
+    ]
   },
   {
     "id": "442734ffe23d",
@@ -1161,23 +1150,6 @@
     "relevance_score": 11
   },
   {
-    "id": "5ca680b1fa08",
-    "title": "Epic expands AI ambitions with agent platform, Cosmos-powered predictions and workflow automation",
-    "url": "https://www.fiercehealthcare.com/health-tech/epic-expands-ai-ambitions-agent-platform-cosmos-powered-predictions-and-deeper-workflow",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-19T06:07:00+00:00",
-    "summary": "As healthcare organizations rapidly adopt artificial intelligence technologies, electronic health record giant Epic aims to be the foundational layer, embedding AI and automation into clinical, operational and administrative workflows.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/ugm2026_executiveaddress_judy_faulkner-resized-to-medium.jpeg?VersionId=TvF2ymwojer18ZEPuK0fMFkCU7VAVe0T",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 11
-  },
-  {
     "id": "2b57487fc3b8",
     "title": "Target scores major sales growth in beauty, hardlines merchandise",
     "url": "https://www.retaildive.com/news/target-scores-sales-growth-beauty-hardlines-merchandise/828196/",
@@ -1212,66 +1184,51 @@
     "relevance_score": 11
   },
   {
-    "id": "5f18f9ca4781",
-    "title": "MacBooks head off to college in Apple’s back-to-school TikTok ads - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9wdG1MbFltS09GdTRSd08tXy1wR3FHczZkcENPQTZtbldOYXZFZ19YNHZYYjZjNE1WTzBWck5FcGIyMFdmOUJtQTFfc2Z6WmFpT3lNYVJJWXFLLUR6dldPMUhrNU9aUlVKR0IyekRBQUF1UlowVTVEWmFnMHZvZw?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-08-19T14:45:00+00:00",
-    "summary": "MacBooks head off to college in Apple’s back-to-school TikTok ads Ad Age",
-    "image_url": null,
+    "id": "8ca65718d9f4",
+    "title": "More Wins, Less Admin: Why Startups Need Deal Management Software",
+    "url": "https://www.salesforce.com/blog/small-business/deal-management-software-for-startups/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-08-19T13:00:00+00:00",
+    "summary": "Spend less time guessing and more time closing with these deal management tools.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/image.png",
     "tags": [],
     "industries": [
       "tech",
       "industrial"
     ],
-    "relevance_score": 11,
-    "also_covered_by": [
-      "Adobe Products"
-    ]
+    "relevance_score": 11
   },
   {
-    "id": "d94495bc532a",
-    "title": "U.S. Eyes Lower Tariffs on Metals and Autos in Canada Trade Deal - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUXBwLTVfNFl3YjZyR1VjMERhd2RzengxRndfYVNtUFpkQU1pTGl6NXpiMVk3bUxhczF5T2l6VWtTbkRSalVIbTlVcExnbEhHUFEyQ2VLTTlDY1laOXRFOHVqX0ZROGpjQUlNWmRQTkdiUjVxc0NiVjZmeGVtd0x2SFhmUkc4cUwwdUJyWERhdzE5aU9VeEVBWWIybWZCazJXTHItM0Ryak92Zw?oc=5",
+    "id": "8863e01c1e0c",
+    "title": "Google’s agentic Ads and Analytics dashboards change reporti - MarketScale",
+    "url": "https://news.google.com/rss/articles/CBMingJBVV95cUxPYUtZejQyTFJJVjdEaEJpbVNjN2duWEFMTGlhbmxHMmxJb0ZMZGhGVDRGaS1YNzN4Z3NHTHI5eXB1Z3ZMM1BpNFdWREZPOThYRFdGb2NhZHBQaDFxOG8zb2k4TVlMZjhWQk00djQ1cXZINFFrd1JBQThPaGI0QUpySGVGT1NaOWlqa2haNXpRbFBma1A5ekZCeHI5cThUdk9pZ29hX0xoT2tpN2ZzemlfRGFjaHhxVkVGX1dSb1ZMUjducDdGSWZsOUJZYzMyc2U3LWZ0djRMcGxYOUN5eWRCLTcxeC1sUzV0WExUVTRuZ1FyaHNvY2JiUmhSNHhGYXVuUkMzY19VR3V0SWtqQ0hYZ0xFbFFTaXlVX1lKaEJB?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-08-19T15:00:15+00:00",
+    "summary": "Google’s agentic Ads and Analytics dashboards change reporti MarketScale",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "b83c1d4a05bb",
+    "title": "Exclusive | Carlyle Joins $1 Billion Investment Round in Missile Startup Castelion - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxOdkEtNTZ4VWduNERSd2pFVzR1OHlTeHJaV2xISGVaZ2NuSGhuTTVFYjhJRkNOZEFHUkVzUW5IMm0zSWVBZGgxck5iQkFiSzlEZ1ZZbXBfMHAyem1yNXZhNGlSQ1ptVVpwMjFaUDlhQlU1cFRrN3ZOekVTNWVKOUFCV2VRNHVXbDFjRzNtemlyRjhNLU9Fb2hhWnpSWG1iclMxbXBBMkhDM3pYQUk?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-08-19T21:23:00+00:00",
-    "summary": "U.S. Eyes Lower Tariffs on Metals and Autos in Canada Trade Deal WSJ",
+    "published": "2026-08-19T23:02:00+00:00",
+    "summary": "Exclusive | Carlyle Joins $1 Billion Investment Round in Missile Startup Castelion WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "a2e6cfa28e5e",
-    "title": "Happy Health Snags $75M to Support Home-Based Care - MedCity News",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdTZjekpyUHc0Vjd0WENuSjNSVVRZRkx1TC1WdnVrekx6V3VsZFNnU3k0VWtkSUY1aWJRRE1YWDVIYS1EdmRabmpTczJWWUQyT3RZRjdqTnBiUi1Jc3lIVFJOVzdNcEdlXzlBejBVbVM5RmVRVGZmalRFYnBjWGFBY080b0k5X3VVaUE?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-19T21:26:35+00:00",
-    "summary": "Happy Health Snags $75M to Support Home-Based Care MedCity News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "cc645ce6f6c5",
-    "title": "How AI is reshaping travel planning. - Adobe for Business",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOemgybFVObGgyX1NsdXQ5bEE3b1p4N2VMV0NSNFVJTkxkTC1sTmt1Y1JyQnJNbEpjY3R5WnZ1OVJIUE1kU1B0a2pTWnQ4SWpnSWNaR2p5OGx5OUMza3pwcGRvUXNKaDA3OG9mLXB6dTFpNHVHZHFnaldWMFY0TGIwWlpCd0d2cnRJY1M0ag?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-08-19T21:47:48+00:00",
-    "summary": "How AI is reshaping travel planning. Adobe for Business",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
+      "tech",
+      "financial"
     ],
     "relevance_score": 11
   },
@@ -1365,33 +1322,64 @@
     "relevance_score": 10
   },
   {
-    "id": "23a894d552e7",
-    "title": "American Heart Association opens applications for 2026 Health Tech Competition - Health Tech World",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbXV1LVY1a0RRUW5mNUlkd0d3Ny1uZGdJTGFsdFVSRnJoWmp6M1BqNVN1c0tseWJwNWRkWE93NnlDblhjUE9sM3R5cUIzZjhnTWFZWHZzbWVUVXVXNjNzdC1tUkhockZkd0tfakRsbldsZkkzeFZGNjlEVUhMM3A5VHctd053eThpSnpib21uQXpBeXJMVnFZS2NXU2stUUVmaWlsYTZCeEpfOVQta2lOZUtOYzVzV2Y1Qk54LVhJN1FUWDNfcWc?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-19T13:00:58+00:00",
-    "summary": "American Heart Association opens applications for 2026 Health Tech Competition Health Tech World",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "b5b193012f58",
-    "title": "Spirit Flight Attendants Fight Google’s Data Bid for AI - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNa2NjaDgwSUMwZzBnRm4yMVFDX0tLLWxrUGtoYkdiQWw1UWlsYk9vRXNqX2JvZnRKY3d0Q01ncnlCSmdsOU53a2U2WXVMY1p5VVdhSzQ4SldlMlExNXhaOGVlMUxRNVNjSHd4TXZQanllMTBGLVRKWFdUcTI5TEg4cWRiM2VPaHB3TVdUcXFCNTdObmxvOEhSOTFwQXBUcTg?oc=5",
+    "id": "d94495bc532a",
+    "title": "U.S. Eyes Lower Tariffs on Metals and Autos in Canada Trade Deal - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQUXBwLTVfNFl3YjZyR1VjMERhd2RzengxRndfYVNtUFpkQU1pTGl6NXpiMVk3bUxhczF5T2l6VWtTbkRSalVIbTlVcExnbEhHUFEyQ2VLTTlDY1laOXRFOHVqX0ZROGpjQUlNWmRQTkdiUjVxc0NiVjZmeGVtd0x2SFhmUkc4cUwwdUJyWERhdzE5aU9VeEVBWWIybWZCazJXTHItM0Ryak92Zw?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-08-19T21:29:00+00:00",
-    "summary": "Spirit Flight Attendants Fight Google’s Data Bid for AI WSJ",
+    "published": "2026-08-19T21:23:00+00:00",
+    "summary": "U.S. Eyes Lower Tariffs on Metals and Autos in Canada Trade Deal WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "a2e6cfa28e5e",
+    "title": "Happy Health Snags $75M to Support Home-Based Care - MedCity News",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNdTZjekpyUHc0Vjd0WENuSjNSVVRZRkx1TC1WdnVrekx6V3VsZFNnU3k0VWtkSUY1aWJRRE1YWDVIYS1EdmRabmpTczJWWUQyT3RZRjdqTnBiUi1Jc3lIVFJOVzdNcEdlXzlBejBVbVM5RmVRVGZmalRFYnBjWGFBY080b0k5X3VVaUE?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-19T21:26:35+00:00",
+    "summary": "Happy Health Snags $75M to Support Home-Based Care MedCity News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "cc645ce6f6c5",
+    "title": "How AI is reshaping travel planning. - Adobe for Business",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOemgybFVObGgyX1NsdXQ5bEE3b1p4N2VMV0NSNFVJTkxkTC1sTmt1Y1JyQnJNbEpjY3R5WnZ1OVJIUE1kU1B0a2pTWnQ4SWpnSWNaR2p5OGx5OUMza3pwcGRvUXNKaDA3OG9mLXB6dTFpNHVHZHFnaldWMFY0TGIwWlpCd0d2cnRJY1M0ag?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-08-19T21:47:48+00:00",
+    "summary": "How AI is reshaping travel planning. Adobe for Business",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "07806e7eb617",
+    "title": "Spineart receives FDA approval for its BAGUERA C cervical disc - Greater Geneva Bern area (GGBa)",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNdlFFMC1wNjdaZHpTc1ZNUUlOT29saWJsNkQxS3BwV04yTjdLb1dCaHBpOENlQUVyZEk1a244eGpNTVhhZUFNcU5UWEdjWlg2cGlQTTRWRi15aUZWZUVfU0oteTZNYlJLa0E4NzdmbXRDbXRXTTdkd0ZZVnlOTm9LNnc5Q3BibkQ0aDVNYmh3?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-20T08:18:37+00:00",
+    "summary": "Spineart receives FDA approval for its BAGUERA C cervical disc Greater Geneva Bern area (GGBa)",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
     ],
     "relevance_score": 10
   },
@@ -1482,18 +1470,34 @@
     "relevance_score": 9
   },
   {
-    "id": "11046f7a80c3",
-    "title": "Alivus Life Sciences Approves 76% Stake Acquisition In IQGen-X Pharma For ₹9.12 Crore - Sahi",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNSk5rTjJfUzNrZ2ZaeThpYXl6MUNlWTBtMzRURE9WY1ZRODNvRWstdndGZFlvWUF3MDEyWUhsekpCOVhsRGJOTS1sY1JYWXJGbXZQT042bUNtRG0xOWJfN3ZXT05faTlKV3NMTXViWFhRMFlIM1p2X0JLR28yQzl6eUhEUlRubWlzQ0VpYWJTZThVOUo0TVA5V2dyRXRMQ1gtY2haNjNwVEQyNWhZZ1M4eTF0ZFZITC1QeWMzUzV6dw?oc=5",
-    "source": "Biotech",
+    "id": "5ca680b1fa08",
+    "title": "Epic expands AI ambitions with agent platform, Cosmos-powered predictions and workflow automation",
+    "url": "https://www.fiercehealthcare.com/health-tech/epic-expands-ai-ambitions-agent-platform-cosmos-powered-predictions-and-deeper-workflow",
+    "source": "Fierce Healthcare",
     "source_category": "industry_lifesciences",
-    "published": "2026-08-18T12:29:19+00:00",
-    "summary": "Alivus Life Sciences Approves 76% Stake Acquisition In IQGen-X Pharma For ₹9.12 Crore Sahi",
-    "image_url": null,
+    "published": "2026-08-19T06:07:00+00:00",
+    "summary": "As healthcare organizations rapidly adopt artificial intelligence technologies, electronic health record giant Epic aims to be the foundational layer, embedding AI and automation into clinical, operational and administrative workflows.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/ugm2026_executiveaddress_judy_faulkner-resized-to-medium.jpeg?VersionId=TvF2ymwojer18ZEPuK0fMFkCU7VAVe0T",
     "tags": [],
     "industries": [
       "tech",
       "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "23a894d552e7",
+    "title": "American Heart Association opens applications for 2026 Health Tech Competition - Health Tech World",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNbXV1LVY1a0RRUW5mNUlkd0d3Ny1uZGdJTGFsdFVSRnJoWmp6M1BqNVN1c0tseWJwNWRkWE93NnlDblhjUE9sM3R5cUIzZjhnTWFZWHZzbWVUVXVXNjNzdC1tUkhockZkd0tfakRsbldsZkkzeFZGNjlEVUhMM3A5VHctd053eThpSnpib21uQXpBeXJMVnFZS2NXU2stUUVmaWlsYTZCeEpfOVQta2lOZUtOYzVzV2Y1Qk54LVhJN1FUWDNfcWc?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-19T13:00:58+00:00",
+    "summary": "American Heart Association opens applications for 2026 Health Tech Competition Health Tech World",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
       "lifesciences"
     ],
     "relevance_score": 9
@@ -1532,38 +1536,6 @@
     "relevance_score": 8
   },
   {
-    "id": "43cf5027ca3a",
-    "title": "Gov. Rhoden Awards Rural Health Transformation Technology and Data Grants - South Dakota State News (.gov)",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR0xhMHgtXy0zcm5mc0FBcElTTVJwNEVtZEE3TUZiT2F6bnJCS3BqS2Q0WEt2V0RPU3lmeUlaT21pLVRvZzFZZndreFhvZlZTVDJUVEVCQXU0RENTaDdubGpiMTRKRnh5NFJsV3A5dWNxMHoyNWhZZF9KUjkyUEVxdUJ5dFl0cWhFMUgybWo5VC1XQQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-19T14:02:45+00:00",
-    "summary": "Gov. Rhoden Awards Rural Health Transformation Technology and Data Grants South Dakota State News (.gov)",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "ce74efc3f045",
-    "title": "T-Mobile Poland opens up MagentaTV app to other operators' customers - Telecompaper",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVGNuOVdNRkJUY0RxMjlNZHJ6b2ZBLW5DQmhYT2g3STdxay1LUU1QNjVpQUxUY3U4ODFuQWVhWl83am13WnZVRGF4aTJCRVNabkw3Y200c05udGxrZnZoNzE4VDRYdzR4ZEJBYzcyTkZfb243QWNwcnZMLV9vYnQ3Vm9oU1pfazNLZVVJTm9PNVo1VmZEblV4YWNKZWhSekQ1NE02UktVSDVRcUxFcXRZ?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-08-19T14:09:43+00:00",
-    "summary": "T-Mobile Poland opens up MagentaTV app to other operators' customers Telecompaper",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "telecom",
-      "industrial"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "6bb5f5140d50",
     "title": "Working with Australia, India should focus on South Asia’s digital transformation - The Strategist | ASPI's analysis and commentary site",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxQZWo2dzZaV1ZEeEFjOXJReUZlMWxGUmFyeXNCVmN5ZE43R19rcnFPejFCdEJyME9pSDlJOTZJSFg4RWRHSW82Q1dYbFUtYVlzYndnX0FLRlpUN0hDbU0xUG9maGRDRFlLRWpxa2FWRVNhVGtxS2FmX2ZRUGhyUmJwYjB1cFhRd3hsc3B5T1BiUmU1RUFTNDFpcTRteEhQZw?oc=5",
@@ -1579,19 +1551,51 @@
     "relevance_score": 8
   },
   {
-    "id": "6b9f58b8e761",
-    "title": "With Tourism Stalled, Hawaii Chases the Startup Wave - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQdFgyeUNGbWtvTFF2RmwzN090aHA3Y2dDRkFxSUotbEdWTHE5a1Qxb3lQeWlmUzZMZ0h3cHg2STBseThTZzhaNFlLRGctOU9qdzNESDZZMFphMzlyRW9QQXhlbDVPaEsxWXZZY2JLRlJ0ZzdESnZ5ZEJiMjVPUmZ3VFdtdk84Zw?oc=5",
+    "id": "6df1f30a38bf",
+    "title": "The Tiny Spanish Territory of Ceuta Is Grappling With a New Migrant Crisis - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOV3FPVDk2Rl8zTm81Rm83Q1d1VFhINmozRDhrcTByeC1YalphdDFKbkRPd19OTkJQclY5MG1PaXFzaWVZb0NzOC14OUd3R2Jtd2NqaHFmSFpVUmFON3E4MTE3N2ZlaUJpVno5cVJCQWcySW5GRkxkWk1VTjhiSWVrX0ZmbEZLZURScUpaQU9INzlxZlduWm45UmVqaU5Mc3cyWFBSQ2QwWGRabVhxQVE?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-08-19T20:18:17+00:00",
-    "summary": "With Tourism Stalled, Hawaii Chases the Startup Wave WSJ",
+    "published": "2026-08-19T20:57:00+00:00",
+    "summary": "The Tiny Spanish Territory of Ceuta Is Grappling With a New Migrant Crisis WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech"
     ],
     "relevance_score": 8
+  },
+  {
+    "id": "4b9494cceab3",
+    "title": "Inside Big Tech’s Frantic Race to Quell the Growing Backlash to AI - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOd0ZMN28xd2NTdzNCbllaLVFGVkVDaGJlMkZOOU1xMlplVjR6ZnpoRVcxT0ZYMFdDcDJCN3p1SHdYT00waFVkT0loNGxMcXN0NFpyVzZJbzE5R3hsaHhTM2xZWUREOTdyN0R3RmJ3ajNzd2lFRGlUOVlZckVzQTRUYVJzeWFVZEwwSzY1QW84NGJfM3B4OWNMWkpFZHBiS3NI?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-08-19T21:34:37+00:00",
+    "summary": "Inside Big Tech’s Frantic Race to Quell the Growing Backlash to AI WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "b79a3cbef1bc",
+    "title": "Atlassian vs. Salesforce: Which Cloud Software Stock Has an Edge? - Zacks Investment Research",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQc1I3UDdOcUhZVHNuNGhKVTNVQmFKeDNrVkJxeUxnWVl5ZktWbVdjQUpQNkRabWY1a1U4amtaem5DUDdaVjdjSVUwczkya0tkZzhNY2t2bGFmdGZaWENpT3NuTHF4UzRINEpkN2RXd1Q5VERuU2pjN3RwMkxCU1lIWDB6eDFtYTl2clRzTktRcVF5MDExQUlzcE82RjBZYzNVMFd6SEl3?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-08-17T12:59:24+00:00",
+    "summary": "Atlassian vs. Salesforce: Which Cloud Software Stock Has an Edge? Zacks Investment Research",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 7
   },
   {
     "id": "716d89247ff5",
@@ -1601,6 +1605,54 @@
     "source_category": "industry_telecom",
     "published": "2026-08-18T12:58:32+00:00",
     "summary": "Lightyear launches agentic AI platform for enterprise telecom procurement Fierce Network",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom",
+      "industrial"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "49d43f12de42",
+    "title": "PayPal Opens Its Platforms to Tuition Payments - PYMNTS.com",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxOX2ZYa0U1M0IyVlNJSlZpWDNIMWt0Zk1LSW0yQkRSUFdnM1lTdnpyLVlsTXhtWW5rWnpNTllfeTVrYjJSaWlUdW8wY1pNUXgtelRlZDQ2TUxmNWZyVFd0RlFxR2pCYlNpOE9hWUJaYVVic1gxQ1ZwSVNyV1lmNVlkVDBFWmozdUtqN29oY2Rn?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-08-19T12:04:27+00:00",
+    "summary": "PayPal Opens Its Platforms to Tuition Payments PYMNTS.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "43cf5027ca3a",
+    "title": "Gov. Rhoden Awards Rural Health Transformation Technology and Data Grants - South Dakota State News (.gov)",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQR0xhMHgtXy0zcm5mc0FBcElTTVJwNEVtZEE3TUZiT2F6bnJCS3BqS2Q0WEt2V0RPU3lmeUlaT21pLVRvZzFZZndreFhvZlZTVDJUVEVCQXU0RENTaDdubGpiMTRKRnh5NFJsV3A5dWNxMHoyNWhZZF9KUjkyUEVxdUJ5dFl0cWhFMUgybWo5VC1XQQ?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-19T14:02:45+00:00",
+    "summary": "Gov. Rhoden Awards Rural Health Transformation Technology and Data Grants South Dakota State News (.gov)",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "ce74efc3f045",
+    "title": "T-Mobile Poland opens up MagentaTV app to other operators' customers - Telecompaper",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxOVGNuOVdNRkJUY0RxMjlNZHJ6b2ZBLW5DQmhYT2g3STdxay1LUU1QNjVpQUxUY3U4ODFuQWVhWl83am13WnZVRGF4aTJCRVNabkw3Y200c05udGxrZnZoNzE4VDRYdzR4ZEJBYzcyTkZfb243QWNwcnZMLV9vYnQ3Vm9oU1pfazNLZVVJTm9PNVo1VmZEblV4YWNKZWhSekQ1NE02UktVSDVRcUxFcXRZ?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-08-19T14:09:43+00:00",
+    "summary": "T-Mobile Poland opens up MagentaTV app to other operators' customers Telecompaper",
     "image_url": null,
     "tags": [],
     "industries": [
