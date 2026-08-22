@@ -28,22 +28,6 @@
     "relevance_score": 26
   },
   {
-    "id": "3b1731e9e6d6",
-    "title": "Data 360 Headless: Extend the Power of Data 360 to Any Agent, App, or Dev Tool",
-    "url": "https://www.salesforce.com/blog/data-360-headless-extend-the-power-of-data-360-to-any-agent-app-or-dev-tool/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-08-20T16:59:01+00:00",
-    "summary": "A couple of months ago, I stood on a stage in Chicago and let Claude talk to a live Salesforce org in front of a room full of practitioners. Real queries, real data.…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/Data-360-Headless-LaunchBlog-1500x844-1.png",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
     "id": "5238dcdd5463",
     "title": "Salesforce Rallies Into Earnings as Agentforce Tops $1 Billion - GuruFocus",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxONkhyVWszNlVmVlk0cU5IV1NfU3ZLcEI4SEw3M2NscXlNUnpWcXdtbExSMHlxbWRVcTJZVHc0NDNlR0tOZjRDamxZTk5aeDZCdGNkZ3AyMmhHeEFxWVJ4RmtleERYd3pmakd5eDVhRXU0VE9tTUlMRUJFQWZCVWpkTUpETjRCSU1UMjVra2phNkRuY2NWVEczMkJmREM0dHNYTmc?oc=5",
@@ -75,27 +59,14 @@
     "relevance_score": 12
   },
   {
-    "id": "e3a794444f11",
-    "title": "The Mobile Worker Crisis: Solving Turnover and Disconnection in the Field",
-    "url": "https://www.salesforce.com/blog/mobile-worker-crisis/",
+    "id": "3b1731e9e6d6",
+    "title": "Data 360 Headless: Extend the Power of Data 360 to Any Agent, App, or Dev Tool",
+    "url": "https://www.salesforce.com/blog/data-360-headless-extend-the-power-of-data-360-to-any-agent-app-or-dev-tool/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-08-20T17:12:29+00:00",
-    "summary": "66% of field service organizations are losing technicians to poor training and disconnection. Here's how 39% are turning the tide—and keeping revenue high.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/state-of-field-service-launch-blog-1500x844-1.jpg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 11
-  },
-  {
-    "id": "ba46d37a3551",
-    "title": "Salesforce Expands AI Agent Platform to Major Clouds - finance.biggo.com",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE8yNU8zZEUzbFJrSlg2RC1laVBoUlo0RnFsUVhDWV9xQ1hpbjJ2cnF5RFVHYy1LeWRfWlF1VkV3aDdpamM1TVR4dGRXbHBHWGpSOUpNTWNsbll1WDBrSnlTVmdRSWEwcWFfT2pkVUZOZ21YVktmS3c?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-08-22T06:05:00+00:00",
-    "summary": "Salesforce Expands AI Agent Platform to Major Clouds finance.biggo.com",
-    "image_url": null,
+    "published": "2026-08-20T16:59:01+00:00",
+    "summary": "A couple of months ago, I stood on a stage in Chicago and let Claude talk to a live Salesforce org in front of a room full of practitioners. Real queries, real data.…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/Data-360-Headless-LaunchBlog-1500x844-1.png",
     "tags": [],
     "industries": [
       "tech",
@@ -131,10 +102,20 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 10,
-    "also_covered_by": [
-      "Salesforce AI"
-    ]
+    "relevance_score": 10
+  },
+  {
+    "id": "e3a794444f11",
+    "title": "The Mobile Worker Crisis: Solving Turnover and Disconnection in the Field",
+    "url": "https://www.salesforce.com/blog/mobile-worker-crisis/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-08-20T17:12:29+00:00",
+    "summary": "66% of field service organizations are losing technicians to poor training and disconnection. Here's how 39% are turning the tide—and keeping revenue high.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/state-of-field-service-launch-blog-1500x844-1.jpg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 10
   },
   {
     "id": "6fb44e9612e7",
@@ -147,39 +128,7 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 10
-  },
-  {
-    "id": "a0bc1d24db8c",
-    "title": "Salesforce Vs. ServiceNow: The Platform Play is On as AI Capital Pivots - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTU8wXzdKYkVobkNlaTEyNUZSc1Y4cEZrUXdwdHhNbDZKRjV5eXhDZGFMRGM1cDg2cmZXRlItTW5QOGhvd0h1amk4ZzlDQmpBdE5kQTBFaEtCMW5SaUh2RTRpVGpHM1pFTWt4Rkx5azh3d1Jab1Q0ZG9LWU1YLUNQaHBWVTFjM055dWtTQWcxU2ZISGx2dHJxSDlyd0NYbGVKNHctTVNHUGJVeUhrZFJ6bVpTSQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-08-21T12:48:31+00:00",
-    "summary": "Salesforce Vs. ServiceNow: The Platform Play is On as AI Capital Pivots 24/7 Wall St.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "75888adbc3d4",
-    "title": "Your Guide to Sustainability at Dreamforce",
-    "url": "https://www.salesforce.com/blog/sustainability-at-dreamforce/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-08-21T18:00:00+00:00",
-    "summary": "Here’s how we’re bringing sustainability to life at Dreamforce — and how you can get involved.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/10/DF25-SF-251015_MA22636.jpg?w=6000",
-    "tags": [
-      "Uncategorized"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 10
+    "relevance_score": 9
   },
   {
     "id": "c1ec0c083e08",
@@ -209,34 +158,6 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 9
-  },
-  {
-    "id": "a8bceb423891",
-    "title": "From Alliance to Apache: The Next Chapter for Open Semantics",
-    "url": "https://www.salesforce.com/blog/alliance-to-apache-next-chapter-for-open-semantics/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-08-20T16:53:57+00:00",
-    "summary": "The Open Semantic Interchange entered the Apache Incubator as Apache Ossie (Incubating), backed by a growing coalition of 50+ data and AI leaders.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/Ossie_blog-list-image.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "da5f1bb96d1b",
-    "title": "Salesforce Faces Favorable Second-Quarter Setup With Upside Potential, Oppenheimer Says - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR1hVazhreXdZVVVTUFZhZUdtV096M3hNU29FUXJVXzRQaXVlTXRWNHRNZGZJVEhkLXhINklONWtQYWhZS0ZWbDJNbldmVTk2dzlXN3BNN2VST0hZNnpqMHpuWk1WcmtZV1R2OUItUGFFM2Z2UDdSZk9sQjd0LTgwZXZTS1JYdlQxUlo0LXE1UEgtbGZ4WkhnSHhpTFE4V1AxY3ZKV3NfeDU0UQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-08-20T19:43:00+00:00",
-    "summary": "Salesforce Faces Favorable Second-Quarter Setup With Upside Potential, Oppenheimer Says Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
     "relevance_score": 9
   },
   {
@@ -283,6 +204,23 @@
     "relevance_score": 9
   },
   {
+    "id": "75888adbc3d4",
+    "title": "Your Guide to Sustainability at Dreamforce",
+    "url": "https://www.salesforce.com/blog/sustainability-at-dreamforce/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-08-21T18:00:00+00:00",
+    "summary": "Here’s how we’re bringing sustainability to life at Dreamforce — and how you can get involved.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/10/DF25-SF-251015_MA22636.jpg?w=6000",
+    "tags": [
+      "Uncategorized"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "40466f4b7458",
     "title": "Requirements Are Not Marching Orders: Read Them Like an Architect",
     "url": "https://www.salesforce.com/blog/read-requirements-like-an-architect/",
@@ -293,6 +231,21 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/Blog-Images-9.png",
     "tags": [],
     "industries": [],
+    "relevance_score": 8
+  },
+  {
+    "id": "a8bceb423891",
+    "title": "From Alliance to Apache: The Next Chapter for Open Semantics",
+    "url": "https://www.salesforce.com/blog/alliance-to-apache-next-chapter-for-open-semantics/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-08-20T16:53:57+00:00",
+    "summary": "The Open Semantic Interchange entered the Apache Incubator as Apache Ossie (Incubating), backed by a growing coalition of 50+ data and AI leaders.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/Ossie_blog-list-image.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
     "relevance_score": 8
   },
   {
