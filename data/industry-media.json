@@ -18,7 +18,7 @@
     "industries": [
       "media"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "3cd0fce72b08",
@@ -38,65 +38,6 @@
     "industries": [
       "media",
       "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "8d9ac4c6981f",
-    "title": "ESPN streaming plans are getting more expensive",
-    "url": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-08-24T15:06:24+00:00",
-    "summary": "ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch, ESPN says its ad-supported Select membership will cost $13.99 instead of $12.99 / month, while...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25594406/STK281_ESPN_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Disney",
-      "Entertainment",
-      "News",
-      "Sports",
-      "Streaming"
-    ],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "fc62d683c8f0",
-    "title": "Gap Inc. taps Walmart alum in ‘fashiontainment’ push",
-    "url": "https://www.retaildive.com/news/gap-inc-entertainment-executive-hire-walmart-alum/828598/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-08-24T16:04:00+00:00",
-    "summary": "Justin Breton is joining the retailer as vice president of development and will report to entertainment chief Pam Kaufman.",
-    "image_url": "https://imgproxy.divecdn.com/JVO-1NoH5E4xIWD-kRZfwz0SCO40cz-xK-_-jKO5yEY/g:nowe:42:15/c:1877:1060/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9KdXN0aW5fQnJldG9uLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "media",
-      "retail"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "7fe1a47d439e",
-    "title": "Disney’s ABC Sues FCC And Can Lean On Decades Of Deregulation",
-    "url": "https://www.forbes.com/sites/howardhomonoff/2026/08/24/disneys-abc-sues-fcc-and-can-lean-on-decades-of-deregulation/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-24T18:36:32+00:00",
-    "summary": "The FCC threats to revoke ABC’s licenses follow decades of efforts to diminish the federal government’s ability to do exactly what the FCC now seems to want.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a8c8cba6c3d29908ffea7d1/0x0.jpg",
-    "tags": [
-      "Media",
-      "/media",
-      "Business",
-      "/business",
-      "Media"
-    ],
-    "industries": [
-      "media"
     ],
     "relevance_score": 14
   },
@@ -118,6 +59,44 @@
     ],
     "industries": [
       "media"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "8d9ac4c6981f",
+    "title": "ESPN streaming plans are getting more expensive",
+    "url": "https://www.theverge.com/streaming/983794/espn-disney-plus-bundles-price-increase",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-08-24T15:06:24+00:00",
+    "summary": "ESPN is hiking the price of its subscription on September 17th, a change that will also impact its bundles with Disney Plus. In a support page spotted earlier by Sports Media Watch, ESPN says its ad-supported Select membership will cost $13.99 instead of $12.99 / month, while...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25594406/STK281_ESPN_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Disney",
+      "Entertainment",
+      "News",
+      "Sports",
+      "Streaming"
+    ],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "fc62d683c8f0",
+    "title": "Gap Inc. taps Walmart alum in ‘fashiontainment’ push",
+    "url": "https://www.retaildive.com/news/gap-inc-entertainment-executive-hire-walmart-alum/828598/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-08-24T16:04:00+00:00",
+    "summary": "Justin Breton is joining the retailer as vice president of development and will report to entertainment chief Pam Kaufman.",
+    "image_url": "https://imgproxy.divecdn.com/JVO-1NoH5E4xIWD-kRZfwz0SCO40cz-xK-_-jKO5yEY/g:nowe:42:15/c:1877:1060/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9KdXN0aW5fQnJldG9uLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "media",
+      "retail"
     ],
     "relevance_score": 13
   },
@@ -178,20 +157,17 @@
     "relevance_score": 10
   },
   {
-    "id": "0bb149e50dfc",
-    "title": "Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted",
-    "url": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-08-24T13:00:00+00:00",
-    "summary": "Anthropic is making a calculated bet that the biggest bottleneck in enterprise AI isn't model intelligence — it's the fact that most people still use AI alone. In an exclusive interview with VentureBeat, Scott White, Anthropic's head of product for enterprise, laid out the...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3hua2YyLpElNb1QMiOYPxZ/886fb488b23b0b7bd6c26326f452caea/Nuneybits_Vector_art_of_a_cubist_CRT_merging_green_code_with_on_17185101-bb2c-4fa9-82b5-2deb42825871.webp?w=300&q=30",
-    "tags": [
-      "Orchestration"
-    ],
+    "id": "c20141a6f43c",
+    "title": "Baby Boomers Are Smoking More Pot. Their Neighbors Are Fuming. - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQcWZVTE0tSjdzWlVLdUk3YzdhdzdvclhJT2VIdng5V1NsNHM1TDZBdmRaTHY3aThKdVJUdFZCV3hRalJNU0VLZ2NRZHlORDVGM0VBZTl5cXNPLUp4QnJLU2xJTm56NTRENTU0akZrMUJTUTJMeG00VmNTNV9PZmtjS2FHZnMtWUEtbVdXUm92MHJsNzlVQzItTC0xRHBWXzlNUW9zOWh1TzI?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-08-25T08:01:22+00:00",
+    "summary": "Baby Boomers Are Smoking More Pot. Their Neighbors Are Fuming. WSJ",
+    "image_url": null,
+    "tags": [],
     "industries": [
-      "media",
-      "industrial"
+      "media"
     ],
     "relevance_score": 10
   },
@@ -211,19 +187,20 @@
     "relevance_score": 9
   },
   {
-    "id": "9a705c380fd4",
-    "title": "PS Digital Entertainment and App-Based Payments: Where Loonio Fits - PlayStation Universe",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOVjBZemJDa3dUMTVPQ1hFcEtjejRKMFpaanl3T2hzSEI2Nm5GcHQtbldlV01UZko3Nm10LVpaTnJrVWJPVm11N3VQSFdBQk5ZbHQ0VXBOa1MyQVhndWdEODhyc1Y3TmFPSVdkak9jV21Lck9KenltOU1WaUZfS1FjNGZiQ3N3dGhQYmRUb0RISEttSlRKU0E?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-08-24T22:29:29+00:00",
-    "summary": "PS Digital Entertainment and App-Based Payments: Where Loonio Fits PlayStation Universe",
-    "image_url": null,
-    "tags": [],
+    "id": "0bb149e50dfc",
+    "title": "Anthropic’s new Claude Tag update lets its Slack agent read the full conversation — and jump in unprompted",
+    "url": "https://venturebeat.com/orchestration/anthropics-new-claude-tag-update-lets-its-slack-agent-read-the-full-conversation-and-jump-in-unprompted",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-08-24T13:00:00+00:00",
+    "summary": "Anthropic is making a calculated bet that the biggest bottleneck in enterprise AI isn't model intelligence — it's the fact that most people still use AI alone. In an exclusive interview with VentureBeat, Scott White, Anthropic's head of product for enterprise, laid out the...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3hua2YyLpElNb1QMiOYPxZ/886fb488b23b0b7bd6c26326f452caea/Nuneybits_Vector_art_of_a_cubist_CRT_merging_green_code_with_on_17185101-bb2c-4fa9-82b5-2deb42825871.webp?w=300&q=30",
+    "tags": [
+      "Orchestration"
+    ],
     "industries": [
       "media",
-      "tech",
-      "financial"
+      "industrial"
     ],
     "relevance_score": 9
   },
