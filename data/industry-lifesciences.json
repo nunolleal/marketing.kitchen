@@ -21,7 +21,7 @@
     "source": "Healthcare Dive",
     "source_category": "industry_lifesciences",
     "published": "2026-08-24T14:44:43+00:00",
-    "summary": "Epic says that the increase in phishing attempts are just cybercriminals taking advantage of the MyChart brand rather than a security concern.",
+    "summary": "Scammers are masquerading as MyChart to trick patients into providing personal information. Epic says that the increase in phishing attempts are just cybercriminals taking advantage of the MyChart brand rather than a security concern.",
     "image_url": "https://imgproxy.divecdn.com/SCjgMHN2kxEVW6f5FQNsZ3C6-CtEd5viHlvkgP9IJRw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTU2OTU1NjQwLmpwZw==.webp",
     "tags": [],
     "industries": [
@@ -48,37 +48,53 @@
     "relevance_score": 33
   },
   {
-    "id": "b3bd0577d48d",
-    "title": "Industry Voices—Hospital AI committees are asking the wrong privacy question",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/industry-voices-hospital-ai-committees-are-asking-wrong-privacy-question",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-18T11:05:00+00:00",
-    "summary": "One-size-fits-all review can under-govern high-risk generative AI models while blocking narrow AI models designed to reduce privacy exposure, write Peter Grantcharov and David Knobel.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1822260908%20%281%29.jpg?VersionId=beFZasyXn8vFe29jkzUCHnOYLZEF7oQp",
-    "tags": [],
+    "id": "871c548d8d6b",
+    "title": "Biotech’s Quest To Eliminate Food Allergies",
+    "url": "https://www.forbes.com/sites/dereknorman/2026/08/25/biotechs-quest-to-eliminate-food-allergies/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-25T12:00:00+00:00",
+    "summary": "Researchers and biotechs are innovating with AI and gene editing to potentially transform treatment for food allergies as well as enable hypoallergenic crops.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a85b356a1357582f2d841cf/0x0.jpg",
+    "tags": [
+      "Food & Drink",
+      "/food-drink",
+      "Business",
+      "/business",
+      "Food & Drink"
+    ],
     "industries": [
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 30
+    "relevance_score": 15
   },
   {
-    "id": "dd5dbc8df6dc",
-    "title": "The Trump Administration’s Quiet Take Down Of Healthcare Safety Agency",
-    "url": "https://www.forbes.com/sites/brucelee/2026/08/24/the-trump-administrations-quiet-take-down-of-healthcare-safety-agency/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-25T02:33:52+00:00",
-    "summary": "The Trump administration has been progressively shrinking AHRQ, the only federal agency focused on supporting research to improve the safety and quality of healthcare.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/63e91c6518c04ff568d77e9c/0x0.jpg",
-    "tags": [
-      "Healthcare",
-      "/healthcare",
-      "Innovation",
-      "/innovation",
-      "Healthcare"
+    "id": "42d5d389a731",
+    "title": "3 digital health sectors seeing less investment - Modern Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZFV0NVF0MlNzdjRMR0hQLVQzdmZhSnJjMXNKV0I1ZkYwTFdlM0RpUExseGJVa0Rpczg0clFSMzNzMHlXcnhBVEU4RThRelk1Tl82U2FEeFVxRGFWTjJ3VmhvN3dpQXFCZGV6cGtvSWRxRzRVc1p1YnNBRFJsNmU3SzdmVmdGVFlnRWc1ZGZCVndpaWtjX1JN?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-25T10:00:00+00:00",
+    "summary": "3 digital health sectors seeing less investment Modern Healthcare",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences",
+      "financial"
     ],
+    "relevance_score": 14
+  },
+  {
+    "id": "f48bdf31a548",
+    "title": "Fullspan Health’s AI agent sees strong early traction with 1.1M views since June launch - Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQT3NMOVlIUmwyVXpiNE5YQUh4RzQ5X2Vxb25qUWtSQmptWUtxZmt4STJfaHREOFJpYXdsU2tFWHB3UjVJWi1Kb2wzT0pJckJFWXB4QXdtOW9OUlhDakIzYkR5dVFtRjJyS213U2g3UHhCSFJNX2l4bWRjY05wa0U3ZUh2eWhHUUtCcVRudTZqVDM1QjNJSndCSUh2a3ZLQUFaNzl1cl81N0tnTkVvNlh4dXVFbUdXNklqMEU2OFQ3LUlNY3JfSXd1b1NR?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-25T11:45:00+00:00",
+    "summary": "Fullspan Health’s AI agent sees strong early traction with 1.1M views since June launch Fierce Healthcare",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "industrial",
       "lifesciences"
@@ -132,6 +148,39 @@
     "relevance_score": 12
   },
   {
+    "id": "2a08bc981c75",
+    "title": "Implantica finally nabs FDA approval 8 years after EU green light for reflux implant - Fierce Biotech",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOckNYb3RiWHhMWTZPMWZNOEY1S095WV83YWp1OGRfSDVqeDM4MkFjNktFUjdOLU1XOXJoQjdZNU9UcUlnS3M5YUsyMjQtTXF2cDA0bUMxRDU0R2hJRWpYdVRzZUxUNm96OVM0a0tEUURwMUdPZFJWNE8tOXZQMFB6aVl2NDhGbkhCbzZDN2lYNFRIMF9uemhsVk5WTjVoS216ZHdpSmZsV0VpQWdyRkJVUERoakZnNkgweHBDcjl0V0xYUQ?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-25T11:48:35+00:00",
+    "summary": "Implantica finally nabs FDA approval 8 years after EU green light for reflux implant Fierce Biotech",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "7802dece771d",
+    "title": "Agentis Health Group acquires Clinical Pharmacist Solutions to strengthen digital healthcare business - Health Tech World",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQWVJ6QUduNDgyMGRwb0NwN1lUaGtyZnRWNGtZOHE0dkRfUnNOV18tY1ZYZkVHMnYxbEloY0tzOGNodmVoc1lkTTFlYktRVldYeUMwUHVlUzZRel9hNTB0SzJoM09GM1dpcm5WX3g1NjZ0VHBReFQtM0U1NVRqVlB1aDJ2Y1JtLTlRZ3UzaHVycTVZT3RuNXB0Y1hobnY4bEFtVVZMbnFiQjRYOVVGTmRLaFBtVTQtelF1clBhV01mczBYdE1ncEdNSlBYUWdjR3IyYXYwVFdmU254amZEMTJPX0Vxaw?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-25T12:03:10+00:00",
+    "summary": "Agentis Health Group acquires Clinical Pharmacist Solutions to strengthen digital healthcare business Health Tech World",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "4568614695cc",
     "title": "Projected healthcare services deal count to be lowest since 2017, PitchBook finds",
     "url": "https://www.fiercehealthcare.com/finance/projected-healthcare-services-deal-count-be-lowest-2017-pitchbook-finds",
@@ -180,21 +229,6 @@
     "relevance_score": 10
   },
   {
-    "id": "6130440dbf71",
-    "title": "Healthcare was built around specialties. Patients experience it as one journey.",
-    "url": "https://www.healthcaredive.com/spons/healthcare-was-built-around-specialties-patients-experience-it-as-one-jour/827855/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-24T09:00:00+00:00",
-    "summary": "Care coordination starts by designing healthcare around people, not disconnected systems.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "4a21fff5c966",
     "title": "Spruce’s successful FDA talks plant seeds for Q4 filing of ultra-rare disease drug - Fierce Biotech",
     "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQcF9iNGNPQzVRNmVyMktGbTE3RGxSNjR1cUF6OW9FcUUwRnB5aUhITWRERzNvTEZtU3VFb09DSXdvTU9GV3hrR1RCa29Wem1PWl80cjloZHVpWUU1RldNYVhsaWJTc042UlNPd0MteU1jUV9ZdXAyajdfSFFycjFJNUxSLTkwUWxRWWdHWWRYS2dpLUE0SmUzLTB5SVF3LTRCeTlFdDdRaDZCcmgzV0ZZalN3?oc=5",
@@ -211,20 +245,64 @@
     "relevance_score": 10
   },
   {
-    "id": "95c9ecc75a36",
-    "title": "How patients write portal messages may decide whether their physician ever sees them - Medical Economics",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNWDAwb0lHb1RHcFpfbFo5R21KNEpYREIxNGs4akZ4SnZtTnRoVjkxMlR0NFlCQkprQVdDQnFUdUlmRTBnNE43Xzl1bnZuMG1kYnVuUTYyWWxpYi1UQWlyOG03NVJiTkF6bVNJenVXNE5WNEgtWHFERGUxRXpfaEVfU0Z4VDkyS1pxWkRfZ19XNHhGMEVNY2d2c1RWX1VIRzFBWWp0TlR0RDA0TlFvek1obHVsbmZjOGRUTlJySEYwOA?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-08-24T19:25:33+00:00",
-    "summary": "How patients write portal messages may decide whether their physician ever sees them Medical Economics",
+    "id": "67f32fee08da",
+    "title": "New body launched to help with safe digital health AI - Health Services Daily",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPV252aGVJUE1tU21SNUQtQXJHNzZ3R2NuS3p1bEYxelRLVktrNjNqZlFkdXd3aU1CVHRVSFlUTVozeVZRWS1YMm5yRUJaZ3hSXzN5QXhYR05fdlBKYUZJc1ZLRkg5cVVEek4wTkdrMVJfYnJSd2tkUUc3MEFLZ0xVVUZuYVNOcDIxUEMxNlBoUmxuV2ZvbEJFRWE5eV9INmM?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-25T05:29:33+00:00",
+    "summary": "New body launched to help with safe digital health AI Health Services Daily",
     "image_url": null,
     "tags": [],
     "industries": [
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 10
+  },
+  {
+    "id": "51202922e0a2",
+    "title": "Digital Health Coffee Time Briefing ☕ - Home | Digital Health",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQUC04a0NqdFZjRTZURV85dnJ2U2phdmM5ejhYY0N1eUlUTEhrWEpCRGNQZTd0RG1kWGZ3NHliT3pNTURpR25TX2JiZEQtTjdoUjh2dmNISGMtTFRPVmdiTTZPUllVd3pkTlpESzhYblI5SG1yMFVzZzBRQVlUelZDcHBPYUR6RWIyTkJlcUY1SUZZdw?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-25T10:35:56+00:00",
+    "summary": "Digital Health Coffee Time Briefing ☕ Home | Digital Health",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "03b6f9cd2007",
+    "title": "Mahama calls for tougher health regulations as AI and digital health expand - Modern Ghana",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZDNfcE5GRDZTdTlKdjByZTh1LXBDRnktT2NORlF1OVlkSGtPd2lXWlFKUDNrZWkxRG1MRUJmNENIbFNZYnhNb2FiZXpOVmtvSXdWR2tSNENUYnlCaFhIR1VCbTJWSXh6T210VURfNTAyUVhHcEJEMnJ2OWdXd0tFanVlWW5sVkFzelJ3dWtWMjZWX0RwQXVr0gGWAUFVX3lxTFBHWkpkS29Uc0haTUJpSGRXSHJ0NXhCZUVUOU1xQndDWlh6clJOeHFEOU5mTXBmak9NeFp4RmI2ZnprZTZNVG9POGlabERhWkxaRW9OUHozd09jOF9xZjVNTVRVRVVsSFJDSUtDbzJPZkxmeW5USDVhZ2stWXE4NlJzdFBPbnpWWnF1Rl8zcVh3SEdVNWlGZw?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-25T11:16:06+00:00",
+    "summary": "Mahama calls for tougher health regulations as AI and digital health expand Modern Ghana",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "6130440dbf71",
+    "title": "Healthcare was built around specialties. Patients experience it as one journey.",
+    "url": "https://www.healthcaredive.com/spons/healthcare-was-built-around-specialties-patients-experience-it-as-one-jour/827855/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-24T09:00:00+00:00",
+    "summary": "Care coordination starts by designing healthcare around people, not disconnected systems.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 9
   },
   {
     "id": "32e6acab21f5",
@@ -239,31 +317,16 @@
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 10
-  },
-  {
-    "id": "d427eaeddd4e",
-    "title": "Reef and Oxford Properties secure consent for £350m Southwark life sciences project - Green Street News",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNUxKRG45OVFLSTVaLWFWbUlub2ZycGY4czhwQVMxZFdvX0dDLWZVTXVDWnZvS3pLWXhaMVNwdjVLaDVOMWpHUWRDVV9sRnBicFZJeTNXcXBSbTJqem5iUnN1NnlhcS1rdFZCOUJKNnpiMUxkV28zZW5TN0xnWWFYcFR1ajl5aXgtUEJ1dVp0bzVrQlEtSE9HaGwxVVdkUGltcWZmcHlveEs0WkR5MU1FUE10WnY2cmxtTWRN?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-24T12:56:42+00:00",
-    "summary": "Reef and Oxford Properties secure consent for £350m Southwark life sciences project Green Street News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
     "relevance_score": 9
   },
   {
-    "id": "a029a66910bf",
-    "title": "Abington Caregivers Inc. offering CoreLink360 Digital Health Companion with sign up for services - Glenside Local",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOUU5RSVlDY2k5aHFMQTNRVzVvdlBNX2tKLTNfYjV5MWxyRHNWSjhFMVZfdlM0ZjdZV1QwY09CTmhSU01rTVR1TkV3dXpkYS1ZTmx2a2l5dUdtRW1rbXFEbXFMZXpNTUZfLTRUb0pvZ090QkNTVUhpZ0RCeDI5NWdJRE5lNFRpbHZEeGJtUlpGa1J3QjhnQ2FZeTc0d0RVY3dFYl9zaWcwbXRYZllVcVlEd1dsbFM4WXNWeEtwN2FRWDhHUQ?oc=5",
+    "id": "26143c70cb5f",
+    "title": "Malaysia MOH, HIMSS announce digital maturity initiative in Perlis - Healthcare IT News",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPSDEyRXZWU2V1OTB3a2JXUGoxd3pEZTZnTHFsVVFxaWpMZW0zaHRZcTBFOTFGQmNCcmkyQXhEbmhrZG1rTkJfektFdURybm84cmNsdGhDNUt0Y2NmZERUQlJuUlh3UGptc0JqWGJnWXhwRW5aVUNkNVB0emtTTFdvRnMtSEtHMlVxRjI0eHpKb2J4SnI2X0ZyV1FHYzNuRkludjR5U3FFN1c?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-08-24T15:27:11+00:00",
-    "summary": "Abington Caregivers Inc. offering CoreLink360 Digital Health Companion with sign up for services Glenside Local",
+    "published": "2026-08-25T08:06:48+00:00",
+    "summary": "Malaysia MOH, HIMSS announce digital maturity initiative in Perlis Healthcare IT News",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -357,31 +420,47 @@
     "relevance_score": 8
   },
   {
-    "id": "a108964815c3",
-    "title": "Hong Kong Applied Science and Technology Research Institute advances AI-enabled biomaterials and digital health innovation - BioSpectrum Asia",
-    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUmNDcHJQY2lEOHExYktzMlp3OUk3RE9aR3hNUktvelZfa2tNMURqNndHV1Y5Z1l6RWpmU2tVSFBEVkI3cFhXRFhTSklGNlBkSXc0cmw0dW53ZG9vak8zb00zOElfSV9QY0ZCT1BRdzNmNWZ4enBUTVhaR1E4MTJhNnNfRzhtUmJXQzgxQW5ualBNNlZSNEI1LXVqRW1TME9iWGxLWGx5Mi1jTEJJYlBnbEVTdkkyQm1mUTRoNk5VdWYxMFpCN1hVTURaZ0lCSFdqLVl6YTM0dXpGRGVvcEVKTFZHaUlzdWxtMExfVGdWVS1POHQwZnNqbFRzeF81X2FaZm9F?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-24T17:49:02+00:00",
-    "summary": "Hong Kong Applied Science and Technology Research Institute advances AI-enabled biomaterials and digital health innovation BioSpectrum Asia",
+    "id": "85d46ae04997",
+    "title": "Google just put agentic hotel booking into testing - Hospitality Net",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPRHVPeFIzRDJvcDdENlZpb293VW5KOVdHbW55aDZHRmJleUlQZWpOeDhBdGdrbnFpYS1TWk5ueFRDZHVUeUh5SmtoUXI5aklPcVVSY2padE93QXhqbVBET095WHBHeC01MUJ0NnJpRkdRNmFNRi1zcDZCRU0zMzY1UGdRblBtY1lfc2lEQ3ZrUUpqUjNQbHV4UHRkaFVJZw?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-08-24T10:47:39+00:00",
+    "summary": "Google just put agentic hotel booking into testing Hospitality Net",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "telecom",
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 8
   },
   {
-    "id": "fa8476828374",
-    "title": "Oracle Health builds out clinical AI agent with coding, chart review tools",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/oracle-health-announces-expansion-clinical-ai-agent-capabilities",
-    "source": "Fierce Healthcare",
+    "id": "3e22070dc5ed",
+    "title": "FDA seeks feedback on generative AI regulations",
+    "url": "https://www.healthcaredive.com/news/fda-seeks-feedback-on-generative-ai-regulations/828581/",
+    "source": "Healthcare Dive",
     "source_category": "industry_lifesciences",
-    "published": "2026-08-19T13:46:00+00:00",
-    "summary": "New capabilities for the clinical AI agent include automated coding, dictation and chart review.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1646106148%20%281%29.jpg?VersionId=xOalZvUp3s8aemxyT_rmWml9t0XnDIIe",
+    "published": "2026-08-19T15:48:33+00:00",
+    "summary": "The agency published a discussion paper this week as it considers the “unique risks” and potential promise of generative AI for patient care.",
+    "image_url": "https://imgproxy.divecdn.com/d2JyuXgmLsPVrlZlLVlPLECICsiII5W1r34tQBQf49c/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjI3NzEwNTIwX0w2OGs1OEwuanBn.webp",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "78084aec7835",
+    "title": "Italian Hospital: advances in patient experience, digital innovation, and sustainability in its 2025-2026 Management Report - Noticias Ambientales",
+    "url": "https://news.google.com/rss/articles/CBMi_AFBVV95cUxNRVVkRXVwd2pJQk1ScHdtM0RodFpCRkhiOWkxSGNMd3dyZWJTUGxZSUNWOGtjeUd4Z0lKUXE2VDJvY0NsTDVybWJWRWtSVGdXbTEtUk01bU1FMS1FT3JpTG9wUlZPOFY2R1NIYVZhZklEeGtxc1BCbGRYZ2lIYlU2eV9wREZjWlo1cU80Z2haQlpWcXRaSXVyZ0djeURyeXpSQk0taUpRYlNKMjRDWG1CcE1RSlJzOEdNZlhkOU9UMV9pZDdZS1VDbzNmTVdBcjhxQUVkWTJLVlhkc0tBd3lyTDkzY1BTanNrTlllaVl2aVhUY3d0T1RWWmI4SE4?oc=5",
+    "source": "Healthcare Digital",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-20T11:06:40+00:00",
+    "summary": "Italian Hospital: advances in patient experience, digital innovation, and sustainability in its 2025-2026 Management Report Noticias Ambientales",
+    "image_url": null,
     "tags": [],
     "industries": [
       "industrial",
@@ -460,38 +539,6 @@
     "relevance_score": 7
   },
   {
-    "id": "ed5a8e7c78d6",
-    "title": "FDA digital health leader promises generative AI regulatory guidance is coming - STAT",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa1dWS2pPNGw0TnJJWW4wM0RXVFk3U3ZrNkw4dVJaUUpyVjRMbDdVdDhOdHRzcjJYQ3J3WW8xdk1aUERqS3Q0R3kzYTBQcVZlUkhnRXhYdFlMbjUtRG45REg4aWhKeFR3MUpkQ1NHblA2SC1yZG9CUTFWbnhEUGZaUG5tb3duT0txYmdFOWRfMFMtUG8?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-24T08:32:57+00:00",
-    "summary": "FDA digital health leader promises generative AI regulatory guidance is coming STAT",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "dd9b515bd443",
-    "title": "Regenxbio gene therapy refiling plan derailed by FDA hold over spine MRI findings - Fierce Biotech",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNnZsN2E3NUh1Rkl1SmVsc0lTODZ4SElQcGttWnAxYzJCWGtiQm9jaW5sNGpWY0VoSjFwLU52anhlZVNjeDRBU0xSeXFVc1lNZUxhOFdVQmF2Z2FDOFZneXBLa3FHMzVVdFhKTkY0bkY0azFkRWNmMFMzRzJORnB2a1dvcDlXc2hLRklJNzJaSDB4RDZ2ckpEVTJEWDZjVkFKU3c?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-24T11:51:15+00:00",
-    "summary": "Regenxbio gene therapy refiling plan derailed by FDA hold over spine MRI findings Fierce Biotech",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 7
-  },
-  {
     "id": "5b27ad11b4e9",
     "title": "Future Trends in Digital Health - Mirage News",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5OczVaX2lUcF9NWVk3WXNsRUZpZ2xrVzFlVm1wcFotdF9WQTlZOE14eDBYQXBpZWRRWGpmMXVLZlU4bE1hOEo0LUxpcG1NUHQ2OGF6ZHpKTGZib3d2S1NubDlmRC1DRXF6ZE1SWmF3djBNZDNKb0E?oc=5",
@@ -523,6 +570,23 @@
     "relevance_score": 7
   },
   {
+    "id": "a108964815c3",
+    "title": "Hong Kong Applied Science and Technology Research Institute advances AI-enabled biomaterials and digital health innovation - BioSpectrum Asia",
+    "url": "https://news.google.com/rss/articles/CBMigwJBVV95cUxPUmNDcHJQY2lEOHExYktzMlp3OUk3RE9aR3hNUktvelZfa2tNMURqNndHV1Y5Z1l6RWpmU2tVSFBEVkI3cFhXRFhTSklGNlBkSXc0cmw0dW53ZG9vak8zb00zOElfSV9QY0ZCT1BRdzNmNWZ4enBUTVhaR1E4MTJhNnNfRzhtUmJXQzgxQW5ualBNNlZSNEI1LXVqRW1TME9iWGxLWGx5Mi1jTEJJYlBnbEVTdkkyQm1mUTRoNk5VdWYxMFpCN1hVTURaZ0lCSFdqLVl6YTM0dXpGRGVvcEVKTFZHaUlzdWxtMExfVGdWVS1POHQwZnNqbFRzeF81X2FaZm9F?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-24T17:49:02+00:00",
+    "summary": "Hong Kong Applied Science and Technology Research Institute advances AI-enabled biomaterials and digital health innovation BioSpectrum Asia",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom",
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
     "id": "743d652e071b",
     "title": "FDA Approves First Orexin Agonist for Narcolepsy Type 1 - The American Journal of Managed Care",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOWVdjZ3d6Y2lhY29OMHdDREpWOXJ1V3MzZ1NnUW9kc0NpSkxuaDV5UkdHbWdkbDFzMWM0MGFBRU1YeFo0RU5sdTFuRllZaUw2MkVUbC0wUElUcE16WDIxdTlfam5zUHdMRG5rSS12NUhoVG1Ndm0wR29OZllLVFdJY1h4Yw?oc=5",
@@ -540,6 +604,38 @@
     "relevance_score": 6
   },
   {
+    "id": "ed5a8e7c78d6",
+    "title": "FDA digital health leader promises generative AI regulatory guidance is coming - STAT",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPa1dWS2pPNGw0TnJJWW4wM0RXVFk3U3ZrNkw4dVJaUUpyVjRMbDdVdDhOdHRzcjJYQ3J3WW8xdk1aUERqS3Q0R3kzYTBQcVZlUkhnRXhYdFlMbjUtRG45REg4aWhKeFR3MUpkQ1NHblA2SC1yZG9CUTFWbnhEUGZaUG5tb3duT0txYmdFOWRfMFMtUG8?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-24T08:32:57+00:00",
+    "summary": "FDA digital health leader promises generative AI regulatory guidance is coming STAT",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "dd9b515bd443",
+    "title": "Regenxbio gene therapy refiling plan derailed by FDA hold over spine MRI findings - Fierce Biotech",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQNnZsN2E3NUh1Rkl1SmVsc0lTODZ4SElQcGttWnAxYzJCWGtiQm9jaW5sNGpWY0VoSjFwLU52anhlZVNjeDRBU0xSeXFVc1lNZUxhOFdVQmF2Z2FDOFZneXBLa3FHMzVVdFhKTkY0bkY0azFkRWNmMFMzRzJORnB2a1dvcDlXc2hLRklJNzJaSDB4RDZ2ckpEVTJEWDZjVkFKU3c?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-24T11:51:15+00:00",
+    "summary": "Regenxbio gene therapy refiling plan derailed by FDA hold over spine MRI findings Fierce Biotech",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 6
+  },
+  {
     "id": "c9c167efbd4c",
     "title": "Global health tech competition aims to accelerate innovation improving cardiovascular and brain health - www.heart.org",
     "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOdl9rWjUyQVhVTERYV21BSmNEelR1THJoMnBmeFA3dzc0bHRCdk1XaWlubGFaRktsM2hiMllxTUxtcHlzS2wyZVhaVUJEMWJDcWJnaE9nZF8yOF95LUlTcHJ3elRQc2VNbWFVb25QMEVranM3d1BLNlo5aHZ5cGltSjhEQkQxellKLWp0d0djdVZTbDRxMXotbm8yTEtVZ1RCY1FleHYyS1pEa0JHZnY0WHBiOVRTbTlHdFB2ZGJQaGZENzZCYkplN2ZsYTBjeFk?oc=5",
@@ -547,21 +643,6 @@
     "source_category": "industry_lifesciences",
     "published": "2026-08-18T17:32:54+00:00",
     "summary": "Global health tech competition aims to accelerate innovation improving cardiovascular and brain health www.heart.org",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "a97751e2bfdc",
-    "title": "FDA Weighs in on the Development and Use of Digitally Derived Measures for Clinical Investigations - fda.gov",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxQUjEtTFRHdWoyR0dOc05Cb3lCYjVVSWdldWJSMEs3T3dNQjVrWW5LYWZjMFlQOFg3djctSnZLWi1aTTNsSTloRU1SMURMdFhjOGl0TVF0MjdDTFVQOVdlTGJkNkNtMnRmU0lnZjYzUE5RMmFzUWF6YWdLX254QWFlTDN2MzlKWDRHZFROZmVUMVNuZWxvd1lEOFUzQTZqZUsxcnFVUVRzaERyd3o4S0YydTFJc2p0U3RLNUhYZk1pc2pWZw?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-20T00:00:00+00:00",
-    "summary": "FDA Weighs in on the Development and Use of Digitally Derived Measures for Clinical Investigations fda.gov",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -665,21 +746,6 @@
     "tags": [],
     "industries": [
       "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "0b4b9b615672",
-    "title": "Weekly Rundown: Survey reveals top healthcare IT concerns - Fierce Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQZ3NiYXJXNXRlbzJ2ZzFrMUNYQy1vcGMwcUdDUEh1RXFHUmNzUkh1WDRjc1VWUG1RRTgyc0xxRnVIQWJKVWVBTGt2NnczNWpMYTloaXpzYzM3c1FWRzZUWHhEQmppOEtQVmJIb3dzblB4NUhBZGhQLTA0UmlXU1dqUWtOVUNsYUg3S2E5Zlh6OEpyQUQ5RkZpU29sYUFpX25JZG5YRTQ3NzhET21KZHBGTFFEREVCZnNMQmcwOHRwWE9zNDZ4U1NFQU9R?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-21T14:53:09+00:00",
-    "summary": "Weekly Rundown: Survey reveals top healthcare IT concerns Fierce Healthcare",
-    "image_url": null,
-    "tags": [],
-    "industries": [
       "lifesciences"
     ],
     "relevance_score": 5
