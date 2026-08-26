@@ -31,6 +31,27 @@
     "relevance_score": 24
   },
   {
+    "id": "da57ae0d0d46",
+    "title": "Trump is upping the price of Big Tech’s favorite visa",
+    "url": "https://www.theverge.com/policy/984723/trump-h1b-fee-asylum-legal-immigration",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-08-25T21:45:00+00:00",
+    "summary": "In the span of a few hours on Monday, the Department of Homeland Security announced that it would be implementing a fee of over $103,000 on H-1B visas, and news broke that the State Department plans on revoking the visas of up to 200,000 asylum seekers - which, according to...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/257976_h1b_visa_chaos__CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Analysis",
+      "Policy",
+      "Politics",
+      "Report"
+    ],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 16
+  },
+  {
     "id": "0c164cd3bfff",
     "title": "Trump administration proposes new $103K H-1B visa fee",
     "url": "https://www.fiercehealthcare.com/regulatory/trump-administration-proposes-new-103k-h-1b-visa-fee",
@@ -43,15 +64,15 @@
     "industries": [
       "financial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
-    "id": "62dfa427a213",
-    "title": "Billionaire Stanley Druckenmiller’s Op-Ed Criticizing Bessent Used AI",
-    "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/25/billionaire-stanley-druckenmillers-op-ed-criticizing-bessent-used-ai/",
+    "id": "2bd995903978",
+    "title": "Wall Street Journal Defends Publishing Billionaire’s AI-Generated Op-Ed Criticizing Bessent",
+    "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/08/25/wall-street-journal-defends-publishing-billionaires-ai-generated-op-ed-criticizing-bessent/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-08-25T18:21:52+00:00",
+    "published": "2026-08-25T20:19:10+00:00",
     "summary": "Druckenmiller blasted Treasury Secretary Scott Bessent’s bond buyback expansion in an op-ed published in the Wall Street Journal.",
     "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a8ddd29a964795a0c01e9fc/0x0.jpg?width=960",
     "tags": [
@@ -63,9 +84,13 @@
     ],
     "industries": [
       "media",
+      "industrial",
       "financial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15,
+    "also_covered_by": [
+      "Wall Street"
+    ]
   },
   {
     "id": "827a876e5725",
@@ -80,10 +105,7 @@
     "industries": [
       "financial"
     ],
-    "relevance_score": 14,
-    "also_covered_by": [
-      "Health Tech"
-    ]
+    "relevance_score": 14
   },
   {
     "id": "a2a3f76ef0e0",
@@ -96,28 +118,6 @@
     "image_url": null,
     "tags": [],
     "industries": [
-      "financial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "fc86cf3e9da1",
-    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
-    "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-08-25T00:23:12+00:00",
-    "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/us-securities-and-exchange-commission-sec-logo.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "TC",
-      "In Brief",
-      "SEC",
-      "situational awareness"
-    ],
-    "industries": [
-      "industrial",
       "financial"
     ],
     "relevance_score": 12
@@ -159,21 +159,6 @@
     ]
   },
   {
-    "id": "c6fa3afbec73",
-    "title": "Oura and Dunkin’ Eye Offerings as Wall Street’s IPO Boom Builds | The 10-Point for Aug. 25 - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPR0cwZ3Z4SnJ6cnNMSE51VTg3YW9zdHdzOVB4elFSMlY2SzNSbWpXS25LVGlzYU9nODNibXIxTVZ6bEItSldiU0NWNXFBR25ybW0zb3E5RjFxY3VOQU54NlA1XzJ3b2pMV2NQaG5pdGNEM3d0cmdySVphQllsT2ZmOWJWSkRKN2ZEeV9tRGtmVXZSV3hhQm5lY2VMNF9KT1FUaFdjVFRnRGg?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-08-25T09:59:00+00:00",
-    "summary": "Oura and Dunkin’ Eye Offerings as Wall Street’s IPO Boom Builds | The 10-Point for Aug. 25 WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 11
-  },
-  {
     "id": "42d5d389a731",
     "title": "3 digital health sectors seeing less investment - Modern Healthcare",
     "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQZFV0NVF0MlNzdjRMR0hQLVQzdmZhSnJjMXNKV0I1ZkYwTFdlM0RpUExseGJVa0Rpczg0clFSMzNzMHlXcnhBVEU4RThRelk1Tl82U2FEeFVxRGFWTjJ3VmhvN3dpQXFCZGV6cGtvSWRxRzRVc1p1YnNBRFJsNmU3SzdmVmdGVFlnRWc1ZGZCVndpaWtjX1JN?oc=5",
@@ -190,13 +175,44 @@
     "relevance_score": 11
   },
   {
-    "id": "fe9bed19abf8",
-    "title": "Wall Street hopes Nvidia can keep carrying the AI trade with another 'rock solid' earnings report - Business Insider",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxOMlY3ZHR5WHRlb3cxQW92R2ZoNDZMMEw0aEd1cWRIalZhcVB1cFk3TlRKWGVFRy1WbncxX2dxY2FqRV9RNHgyS0NMNDdnTGxQOFV6LWxTN21pM2hDSURzcFB1M0xRcUtSZ003RWtlUFRwcnRtcEVfOTVGOWkxT2JLREk3Z181bW9Vb3VfSy0yQ24yVkMyQjBnOVN5VQ?oc=5",
-    "source": "Wall Street",
+    "id": "89f553a52845",
+    "title": "UPI Turns 10: How India Built the World's Digital Payments Powerhouse | Vantage - Firstpost",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYkZIRVhYWjAwX2dMNFlJY2phYnVJWmRNOXZXN1NUb25CWTFzdDRoN2RxTDFYcmNuT0EwOGlnREJmYm55dVNjZ3FNc1hfMVctMndfczhWQjJFeHpRRnZzLTZaQkQ1N3dIOU4zb0s1cmdWLWNmc3hfNmZlRU54LVpkY2hvSU9yTEludnZKbW1TUkVpUGh3R2w3Z1JQakNCUzRXR2Z4UHRfWFFMdlRIejVzZC1mOVhOQ0lqNW5uZtIBwgFBVV95cUxOQjhfVzR5UnRXZEJPQ190ZTVVWHZMWUNha3lxWkExMmREQXpUX09oZjNEaU50X04tZWdxM2Y3azdYbVFfU2JmbXZQS0Znd2tSeFFDcjdPbDNreV80SmRtY2lKRGlGMWhfQ2hJSWlocUpqUVE5U0xtRVJkQ2IzQnVCSWYxbGZKNjF0V3E5OFh2UE04UDJNY0o1WVlTWkZzdnpQTEpXZTFMemhhd0hnLVk4RjZFSTN6UzFtejljUTFSZ0M2UQ?oc=5",
+    "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-08-25T16:12:00+00:00",
-    "summary": "Wall Street hopes Nvidia can keep carrying the AI trade with another 'rock solid' earnings report Business Insider",
+    "published": "2026-08-25T18:15:42+00:00",
+    "summary": "UPI Turns 10: How India Built the World's Digital Payments Powerhouse | Vantage Firstpost",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "19e623d65c5e",
+    "title": "Syria Adopts New Framework for Electronic Payments - Syria Report",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxNMGlhQldSRTRLVzY1cXRuMHNLTFMtdWNOUW52NU5veGdoY3BoZ3JHc3o1X0Y1ZkdCeXZNWWRJS0VobDdtOUdmMFpoRXFCNEhwaG9xa1VqMl8xZTEzTjlzcklpeHIxS0pxajFEQ0lYVUoyZUhEZ1RUN1hPUXZkdmJDOFdR?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-08-25T21:41:11+00:00",
+    "summary": "Syria Adopts New Framework for Electronic Payments Syria Report",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "49e0750a162f",
+    "title": "Bluefin and Visa team up on card-present payments - FinTech Global",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPdnJGWGctV1c2czZ3YXhoU2xvb0xZT0tKMDVBUWtfQUxRTHpvaERhRDRvcnlEQ2hRUzdvOXhUX19HMGpiSWgwNGhDUVNXbkxBdnl1WjduZlVyem1TNDV4Y19YNFcyY3cycUM4N29UbkJIRkk3cWt3bGdmS0tzX3NnSWRKY19EMHBnVXdQdw?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-08-25T22:26:11+00:00",
+    "summary": "Bluefin and Visa team up on card-present payments FinTech Global",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -221,6 +237,28 @@
     "relevance_score": 10
   },
   {
+    "id": "fc86cf3e9da1",
+    "title": "Situational Awareness, star AI hedge fund that nearly imploded, now being probed by the SEC",
+    "url": "https://techcrunch.com/2026/08/24/situational-awareness-star-ai-hedge-fund-that-nearly-imploded-now-being-probed-by-the-sec/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-08-25T00:23:12+00:00",
+    "summary": "The AI hedge fund went from \"the talk of Wall Street\" to \"subject of federal subpoenas\" faster than you can say \"diversify your portfolio.\"",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/10/us-securities-and-exchange-commission-sec-logo.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "TC",
+      "In Brief",
+      "SEC",
+      "situational awareness"
+    ],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "0f239e217931",
     "title": "Airtel Money brings digital school fee payments to over 800 schools in Tanzania - Telecompaper",
     "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNTlhjTUxwUWZHeUdGcmJ1WFRLRGhfTlVoaTRoT3F0WlBpS0NKdG1KdzN0WGEzNjdGejVPbTQxNnNJZlI1NmNhQ0pGQXZ5NTZFY3pxbmJBY0FXUmo0Z1hmeXgyN1BYWDhQVUgyb0Q0d0Qwb2dmU1RvUDAybmV0MkFhal81RG0wSTl5QmhRbUpQdk5tT1hOT2NfZGFWV3pJaWdGSElPVVhXYVlDQ0pwTFlXNGRIYi12dmx3ZnVvdmZxOA?oc=5",
@@ -237,75 +275,60 @@
     "relevance_score": 10
   },
   {
-    "id": "ead36efeb87b",
-    "title": "Kurv Launches Kurv Agent, An All-In-One Digital Portal Built to Enhance the Agent and ISOs Payments Experience - Morningstar",
-    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObTNqU0RrSXQ0ZElMNVh5RC1ucGdkRWVERFFOd09YVlBSd3hyc1NDVnoxQzVVLWwzS1pUMUN2dTRIbWxiRXhoUk9VQ2pnSmh3YjQ0T1lfelZGaDNwZDJrb0Y0aFVvZ21nVlU2ZENVQ2I1WXRyRTFqbk9hTFl5d1ZTSEpRTFZ3VnduakxsaTloTk4zX3JTZUMtVmtITUpJeVBFTUYzMDkyWHFPN3Bvc2ZMWDFWREptOGV2ZV9CZ0ZCcjlvNGZEbHBCQzR6MEwxdWlfVUdKVjZzSUpqOTZqMEl5S0VOUzAyQVl1ckk5c2ZzT3dlVzdPV2tybE5nU2swa2M?oc=5",
+    "id": "e9e040148006",
+    "title": "Forum: Bank customers making digital payments reminded to be vigilant - The Straits Times",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQM0ZQbDhiUl8xUEcyMFNwYnJpZ3kzbERtZU13UGtXdkM4dmtRclVNTkgtXzNPb2lZeGxUaGdUTTVXOWxmMXhsY3lSR2hnZ0xyWV81RnNGSGt1SThKZEtlZEExNFNJNl9Cbjg1cUZqdWk3ZnYxYnZaR0IwZDVPdDNTM180QUhlMnV2QWRHay1iRWVCZW9HeHJWUzhxbjRHQ2pnOHFkNklOakxFQTZFN3BGdw?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-08-25T15:07:00+00:00",
-    "summary": "Kurv Launches Kurv Agent, An All-In-One Digital Portal Built to Enhance the Agent and ISOs Payments Experience Morningstar",
+    "published": "2026-08-25T21:00:00+00:00",
+    "summary": "Forum: Bank customers making digital payments reminded to be vigilant The Straits Times",
     "image_url": null,
     "tags": [],
     "industries": [
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "aea3e1acea7d",
+    "title": "MTN considers banking licences as Africa’s biggest telecom operator moves closer to becoming a lender - Business Insider Africa",
+    "url": "https://news.google.com/rss/articles/CBMi1gFBVV95cUxPVWJyMkNGT19zd3hqX3d2WEF1QTZPSnppaEZyT3dtOWhVX294T3paX2JZWVBsMjgwYW5mcTV6VkRNSF9naFk5SkctRUE3Q0lma0gxYkpQdThHdXJBRkNsbTdUU3hnRXBDRWVIRHBRV0ZEV2JVMXJ2TWNMZFpqWmNmMUhveWVWRTdIMnYtckQ3d0FZcUFtQXFOLXFsYVlObnVFTTA3MWtiTzZNSnRfaVpoQTZTZVJhWkJqamdYZVE2dEI2OTdtbkIxcjZHRTQzVXFXNUo5OU5n?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-08-25T21:36:21+00:00",
+    "summary": "MTN considers banking licences as Africa’s biggest telecom operator moves closer to becoming a lender Business Insider Africa",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "telecom",
       "industrial",
       "financial"
     ],
     "relevance_score": 10
   },
   {
-    "id": "ffcd6d93a5e2",
-    "title": "ShardLab bets on StoreHub to expand SEA payments - FinTech Global",
-    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTjlMWThPcGhVUGdwRWN4UTloZl85Y0NVb3lyOGpjaWdISmUzZk8xYVg2eF9JT29iNXlpUVBjYzA0dDZIeURaQ2lkV3MzeUpQTDBzNUJZY0pIcUZvUU1qWlZRY251bkhMUGxTZGozMjB4NjE4amYtRTU4NnhiUFlQcElqSGx5VDNzTGVF?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-08-25T16:23:45+00:00",
-    "summary": "ShardLab bets on StoreHub to expand SEA payments FinTech Global",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "fe6b9b795ae5",
-    "title": "Wall Street Keeps Minting Box ETFs Despite Treasury Scrutiny - Bloomberg",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQalU5VnJScVdteWQ2RnFKbmZPSFdUZ0hNVzQ5dU1LNVRBdTdPODlaWmp4MmVLRmNsNGxiS09JVURBMWRHY3h4QVRnaWM1Y18yNk1sVzJ1TG55UEx1V2J1cUZFUk5FeEFyR3Y1eFBQTE1DMWg3N0JKanZELU1PUXc4NXJMbUpHc2RudTNPQ2gxdmJKV2hib2pfcFprWHBxaGhKaEZNS3VqUEhaZkJydEhRY083MVdrdw?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-08-25T16:30:50+00:00",
-    "summary": "Wall Street Keeps Minting Box ETFs Despite Treasury Scrutiny Bloomberg",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "ea8e10b153e8",
-    "title": "UPI completes a decade, making India global leader in digital payments - News On AIR",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQLXlKOE9qMm96NjlLRnBuc2o5dmU5TnZqMkViSzU5blZaWDZKajBoalY1Y1FsR2M5X1lJQ01BSzBhSmwzeUxQenlwNk5MaEtqbXlVTFhYZEdHNHozVEZUaHpuLWF1c2g1SDFMTVZUaFBfS2M1bk83Y19hWWRQb21CamxUamoySXRTeHh4NHl6SWJnbkR5VHgwMlFEQnN6bmswSEtta1BHUmJ5bHdBOThKc1BwNnJrYWpw?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-08-25T16:56:24+00:00",
-    "summary": "UPI completes a decade, making India global leader in digital payments News On AIR",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "25946ce6bf22",
-    "title": "Wall Street rises as tech bounces back before Nvidia results, bond yields drop - Reuters",
+    "title": "Wall Street ends higher as tech rebounds before Nvidia results - Reuters",
     "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOdmhxOE10Q2J5RzR6U1lxZjRCX0FUYmdxdkl5SE5fT1N2SG5RSmMxb0xPekZ2eDNjbVhyVE54N0FIOTByZEdrMFUtSmp0U3A0R2RLVldRczJ2aW5PU2QzUzZ6Y0FYUThQU01jdEJOdzdtbndvdThwXzhUbDAzQ2lHeVIwbHE4dkZITlhxZ0JLLWVEVHdzZmcxYTdub3dWRjh1QnRNUzRhU0V3bnJZV2c?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-08-25T18:36:17+00:00",
-    "summary": "Wall Street rises as tech bounces back before Nvidia results, bond yields drop Reuters",
+    "published": "2026-08-25T23:14:21+00:00",
+    "summary": "Wall Street ends higher as tech rebounds before Nvidia results Reuters",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "33844ef50ad6",
+    "title": "The World’s Craziest Stock Market Has Turned Into a Fright Ride - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOUHc1cktvMF9zTEkxYm0tVVhfR1doLVVORmZTZGdjanhnbEJTdEtnWEVFb3ZhT3ZTcnRrYXo1MjJDc0tMdmNwTHMyRnRFYnctZEtrVE9BWFNQRVZpOTJPZS1Gc3R2UjZzSFpkSDdOSkhZSk5pLXU2d2p3S1EwMUl2b0lCRQ?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-08-25T23:33:42+00:00",
+    "summary": "The World’s Craziest Stock Market Has Turned Into a Fright Ride WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -336,22 +359,6 @@
     "relevance_score": 9
   },
   {
-    "id": "82ae8b71f566",
-    "title": "Beyond payment acceptance: Webinar to explore back-office challenge behind PH’s digital payments growth - Manila Standard",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxNbTg4VkZQR3B6UUgwNThjdTNOQWtnbl9YQ2Ixdk9PczVpQXhxeUt1RUtBanpWMDYydnpUMldMb2U0M2VTWkQ0MUJ0WVRxbUVEZVJqSDA4X0MzcDhJX203bnM0cm1KMm1yU3NhQXJMVVZCOGxCWTNkTEJtOTRoaWs3TTFDWUZybE9wRUdhMmcyTU1LYlE2TUIxaVdpVmlRRU83dUdLZDdPdmgxYjhvMEVLT0VTbUFYZXFuV3JDUlc1RU9rSEg3dEZ3ekRNS1JiUXRpeHlDbzNseDYzdUp1Mk9SQURB?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-08-25T06:09:20+00:00",
-    "summary": "Beyond payment acceptance: Webinar to explore back-office challenge behind PH’s digital payments growth Manila Standard",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 9
-  },
-  {
     "id": "a7ab13aa1531",
     "title": "ShardLab invests in StoreHub, launches payments JV - Electronic Payments International",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNdWttci1oY0hCZ21qM0xlSnVmOWF6cjdBaWNMaFJQNXpmOTFmQ1M2RXNxQ0FkWk9tNXVwZE43X3J3NEdSWkZZZTRKb3JlQzZlc1o4VFVYUVBDWDdLemJmTkdoX0Z0alBCajQ3dUE0dXNwN1JxbXc3YTBFbGZOVm9nTWZ3aVp4NUlna08xZy0wTEhyM2NWVDd0a2NyM2pGRGo0bTV1YTJB?oc=5",
@@ -368,48 +375,17 @@
     "relevance_score": 9
   },
   {
-    "id": "3a392bc160eb",
-    "title": "Alacriti Names Michael Lovell CFO as Payments Fintech Scales Following Investment - citybiz",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRHVIN0g2N2tsMnJ3VTd0VWFrX3lrdzZTV211Z2RReS1mbkFnMEhSVm5xaUlnaXZSV3FCOUEwSjB0bGIzY1NWcHBEcUdOWXVaNjRza0FjeFE5WnNuYjVZMWxfVTV0TjVJS3I5S2MwMlhZUGRSQkJSc2NIUURoaHRaSEtsdTd3SEpUc3ZFckpZOTRpNkRJN1cwWWpCbVZ0a2NWT3VaMnZ4bENnTF9TUTEtaEdhZ1pWRHhMeUVzdw?oc=5",
+    "id": "ead36efeb87b",
+    "title": "Kurv Launches Kurv Agent, An All-In-One Digital Portal Built to Enhance the Agent and ISOs Payments Experience - Morningstar",
+    "url": "https://news.google.com/rss/articles/CBMi_wFBVV95cUxObTNqU0RrSXQ0ZElMNVh5RC1ucGdkRWVERFFOd09YVlBSd3hyc1NDVnoxQzVVLWwzS1pUMUN2dTRIbWxiRXhoUk9VQ2pnSmh3YjQ0T1lfelZGaDNwZDJrb0Y0aFVvZ21nVlU2ZENVQ2I1WXRyRTFqbk9hTFl5d1ZTSEpRTFZ3VnduakxsaTloTk4zX3JTZUMtVmtITUpJeVBFTUYzMDkyWHFPN3Bvc2ZMWDFWREptOGV2ZV9CZ0ZCcjlvNGZEbHBCQzR6MEwxdWlfVUdKVjZzSUpqOTZqMEl5S0VOUzAyQVl1ckk5c2ZzT3dlVzdPV2tybE5nU2swa2M?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-08-25T13:12:03+00:00",
-    "summary": "Alacriti Names Michael Lovell CFO as Payments Fintech Scales Following Investment citybiz",
+    "published": "2026-08-25T15:07:00+00:00",
+    "summary": "Kurv Launches Kurv Agent, An All-In-One Digital Portal Built to Enhance the Agent and ISOs Payments Experience Morningstar",
     "image_url": null,
     "tags": [],
     "industries": [
-      "financial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "446323ffbb6b",
-    "title": "Azercell starts carrier billing for Steam credit - Telecompaper",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVWVNR0h4UFhvZk83ekkxbW1FWXpVaWdFbVZnTVRZYUZXSU9zRnl1RWt2MnBxSmU5RkJ5SGVGX3JZRHpRZ3YzTkJpeTRNMzZWZzlaenpBTGZWNjZkcHR2c24wa1o2dEdmQURCOTkyOXowQUF0US1McWlPQy1MOUVZU1RkRmI5eWxVM0tONHVBeDhWNlBaalE?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-08-25T14:46:37+00:00",
-    "summary": "Azercell starts carrier billing for Steam credit Telecompaper",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "financial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "04b567886d0d",
-    "title": "Why payment data is changing how unattended retail operates - Electronic Payments International",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQdHpwTjRXTFQ1Y2lRbk9STno5VjM3Ry1YQXlFSXdnMHRBcGhsSTlmV3hhOWdrSkxuYnd4NHp4MUNOLTdlLWcyTC0wbG5CUmoxa3RrR3I4VGdPejVNVjU3dVBhZTZLME1ldmVUV0JXRXRJbmNZZlhVRlpHY2k2ZGM0QWRwNExnYlZSeWZ4MEljMWpJcmV2Tno5SnBuckR4N25Zbk1VcjY2OVVaUWs1SFBscU1qcw?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-08-25T15:32:18+00:00",
-    "summary": "Why payment data is changing how unattended retail operates Electronic Payments International",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
+      "industrial",
       "financial"
     ],
     "relevance_score": 9
@@ -425,28 +401,6 @@
     "image_url": "https://imgproxy.divecdn.com/rnZNGbn13XtWEI9eiootqrhWQ3lRXXxAaSzsQPrb_1s/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTYyODk1NjEyLmpwZw==.webp",
     "tags": [],
     "industries": [
-      "industrial",
-      "lifesciences",
-      "financial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "7d948202e470",
-    "title": "When AI designs a drug, who gets the credit?",
-    "url": "https://www.technologyreview.com/2026/08/21/1142627/when-ai-designs-a-drug-who-gets-the-credit/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-08-21T09:00:00+00:00",
-    "summary": "When the biotech company Insilico Medicine used its computer models to propose a promising drug for pulmonary fibrosis, it enthusiastically claimed in a press release that the molecule had been “discovered by” its generative AI platform. Insilico leads a pack of companies...",
-    "image_url": null,
-    "tags": [
-      "Biotechnology and health",
-      "App",
-      "The Checkup"
-    ],
-    "industries": [
-      "tech",
       "industrial",
       "lifesciences",
       "financial"
@@ -471,6 +425,21 @@
     "relevance_score": 8
   },
   {
+    "id": "3dab80288e5d",
+    "title": "Fort Worth’s Crestline Raises $625 Million for European Investment Fund - Fort Worth Inc.",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxQNm5QUV90VGEwU3ByU2ZsNUk5aXhGQUdabWthdEVJTXZzY3J0cHhQc1JQZFhFendYUFdRRzFuZWlvb2VTck85ZlNRS3VnQ0xLWU9rb29TUno1Z0dxVGpVNVZvVldYN2pnNm83RUt6bjllR244VWVobWR0UDNwQ1FNbmoxcDl3QXdBUUp5X0RidVJLRHhyNWg0UzRaai13eTR3?oc=5",
+    "source": "Adobe Inc",
+    "source_category": "adobe",
+    "published": "2026-08-21T20:51:20+00:00",
+    "summary": "Fort Worth’s Crestline Raises $625 Million for European Investment Fund Fort Worth Inc.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "ca3480bf85f9",
     "title": "Indian payments platform Navi raises $100m from Prosus - FinTech Futures",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNZWxvd0hTa1hPeVR4dUZsR0JnaFhNT1VaXzdwSkN6Z0JXN1hDaUtHVWJHb2VyazdINEZlV2VBTmFaSDRFUkQ4UFR6NnNYSU1wRU92NHYzSGhwRU51dm43QmVlSWR2aVJjaWRtazZOZWFGbGZCTEF3MVVOaUxLWW5ZUldVdm51SHlFNWc?oc=5",
@@ -487,28 +456,13 @@
     "relevance_score": 8
   },
   {
-    "id": "617bbdebf16b",
-    "title": "Government Proposes New Six-Figure Fee for H1-B Visas - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPa1NiUEl0Wm5ESGtKQWxDVjd6bzNoWl9MeF95V0pBT3FYTVRhekozVmZFY25iU0Y2SXhZc1dVaWxENzlBbGxraVdQVm5CYlV4N1Z6OUZOaFhhOUFTSzhPcjV0Uzd5RVJETGI2cEkzVFRwTG90MlVrbzgxY2ljbDg2SEVYRkx4Wjc3Ty00U19fTDZjX19mcEVvLTRmVEEyUHM?oc=5",
+    "id": "c14c931b97ff",
+    "title": "Nvidia Has Become a Banker to the AI Boom, Putting It on Dangerous Ground - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxON0p5ZXowMVJPS3l0NldhTGVtVHlZeER1YjVQZUJreEpXV2NEVzJmWmFsSE9lZFBhTWMxSlY4bFZianBSUkYxXzYtRkFLaGNHbnRDWlRFREkzNlExQUVWVW8zQXR1X3NHdU80U0dkdUVaUk9SaEl0UGdLYVNrc2oxQS1haVJVZDRyTXA2WWZ0Tk1TYzlROFBrTjhHdFppQ2ZoVzZ2UEdRdFoxd2tQS0E?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-08-24T16:50:00+00:00",
-    "summary": "Government Proposes New Six-Figure Fee for H1-B Visas WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "60c9207257c4",
-    "title": "Mobile Payments Rise in Switzerland While Card Usage Loses Ground - FintechNews CH",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOMDRteFJ6X1RPbTI2MkdTSU0zek5hR3RCYV9tX1NESU1YYmV5OThTeVV6cnVtX1hUOTItbUY0dEM0Rzc0ZTNmMzhDaDVROFB2SVFiRHBrbWNsXzY2bFozSzNRT2paYklRY0xPd0lKcV9LckFWdUwtbV9tVzd3MkVfS2F3V2FDWkhyU1ZoTjhnN213X1ZVNGRCZE4xOGd0YjhaSTZValg5cw?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-08-25T06:29:29+00:00",
-    "summary": "Mobile Payments Rise in Switzerland While Card Usage Loses Ground FintechNews CH",
+    "published": "2026-08-25T09:30:00+00:00",
+    "summary": "Nvidia Has Become a Banker to the AI Boom, Putting It on Dangerous Ground WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -518,39 +472,51 @@
     "relevance_score": 8
   },
   {
-    "id": "8bbcb50138de",
-    "title": "Humana taps physician executive as new chief medical officer",
-    "url": "https://www.healthcaredive.com/news/humana-new-chief-medical-officer-shantanu-nundy/828370/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-20T14:04:03+00:00",
-    "summary": "Dr. Shantanu Nundy is joining the Kentucky-based insurer from health navigation firm Accolade. He’s had a varied career — advising the FDA on AI, teaching, working for the World Bank, practicing medicine and more.",
-    "image_url": "https://imgproxy.divecdn.com/SkxgiNKrWl2RfPkgRRIUUX6H4jh3jJx_IrxTxRozNXQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMTc3MjUwODcxX0h1bWFuYV9yZXNpemVkLmpwZw==.webp",
+    "id": "3a392bc160eb",
+    "title": "Alacriti Names Michael Lovell CFO as Payments Fintech Scales Following Investment - citybiz",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPRHVIN0g2N2tsMnJ3VTd0VWFrX3lrdzZTV211Z2RReS1mbkFnMEhSVm5xaUlnaXZSV3FCOUEwSjB0bGIzY1NWcHBEcUdOWXVaNjRza0FjeFE5WnNuYjVZMWxfVTV0TjVJS3I5S2MwMlhZUGRSQkJSc2NIUURoaHRaSEtsdTd3SEpUc3ZFckpZOTRpNkRJN1cwWWpCbVZ0a2NWT3VaMnZ4bENnTF9TUTEtaEdhZ1pWRHhMeUVzdw?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-08-25T13:12:03+00:00",
+    "summary": "Alacriti Names Michael Lovell CFO as Payments Fintech Scales Following Investment citybiz",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "lifesciences",
       "financial"
     ],
-    "relevance_score": 7
+    "relevance_score": 8
   },
   {
-    "id": "5401c907dd8c",
-    "title": "The Download: threats from space mirrors and credit for AI drugs",
-    "url": "https://www.technologyreview.com/2026/08/21/1142762/the-download-space-mirrors-threats-ai-designed-drugs-credit/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-08-21T12:10:00+00:00",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. This company’s plans to deploy space mirrors could jeopardize the night sky for many A company that plans to beam sunlight from space to...",
+    "id": "446323ffbb6b",
+    "title": "Azercell starts carrier billing for Steam credit - Telecompaper",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQVWVNR0h4UFhvZk83ekkxbW1FWXpVaWdFbVZnTVRZYUZXSU9zRnl1RWt2MnBxSmU5RkJ5SGVGX3JZRHpRZ3YzTkJpeTRNMzZWZzlaenpBTGZWNjZkcHR2c24wa1o2dEdmQURCOTkyOXowQUF0US1McWlPQy1MOUVZU1RkRmI5eWxVM0tONHVBeDhWNlBaalE?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-08-25T14:47:14+00:00",
+    "summary": "Azercell starts carrier billing for Steam credit Telecompaper",
     "image_url": null,
-    "tags": [
-      "The Download"
-    ],
+    "tags": [],
     "industries": [
-      "tech",
-      "lifesciences",
+      "telecom",
       "financial"
     ],
-    "relevance_score": 7
+    "relevance_score": 8
+  },
+  {
+    "id": "ffcd6d93a5e2",
+    "title": "ShardLab bets on StoreHub to expand SEA payments - FinTech Global",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxPTjlMWThPcGhVUGdwRWN4UTloZl85Y0NVb3lyOGpjaWdISmUzZk8xYVg2eF9JT29iNXlpUVBjYzA0dDZIeURaQ2lkV3MzeUpQTDBzNUJZY0pIcUZvUU1qWlZRY251bkhMUGxTZGozMjB4NjE4amYtRTU4NnhiUFlQcElqSGx5VDNzTGVF?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-08-25T16:23:45+00:00",
+    "summary": "ShardLab bets on StoreHub to expand SEA payments FinTech Global",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "financial"
+    ],
+    "relevance_score": 8
   },
   {
     "id": "e1e475609238",
@@ -568,9 +534,9 @@
     "relevance_score": 7
   },
   {
-    "id": "2841aee2e392",
+    "id": "1665f8a05bd4",
     "title": "Wells Fargo and Citigroup have room to buy a big bank. These 5 regionals fit the bill - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTVhsWXdGR2I5Z0NwYmZ1dHBNem9xNXFPSXNqMjF0VEtiOElVSjBGMTQwbm8yXzZQRFVtU05nOE9EY1lFRDNrOEhqUEx5bTlEbjZwN0w4d3FYOUVoZmo2SElVbzhnWWV4SEFuM3ZvYm9EcFU1OG9BVUVoa1liWUdld0xZazRoZ9IBiwFBVV95cUxNSlUwT25NdHEzZXZwVlVIU3FVbFhSdG10Y3pnUlZ2OWVMMmdwN19WbEl0aGxiOHlZdFpUVHZLbW1mSkhoUHVtSWFKUEhrQ0lVbTVCb0pHOFE4Ml83NXd4b1lVbFk4TXN2MHhneE84aUdJcUZ5Z0tBSFVQS1R0My1VWUpRLXdUWVBLZmZn?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNTVhsWXdGR2I5Z0NwYmZ1dHBNem9xNXFPSXNqMjF0VEtiOElVSjBGMTQwbm8yXzZQRFVtU05nOE9EY1lFRDNrOEhqUEx5bTlEbjZwN0w4d3FYOUVoZmo2SElVbzhnWWV4SEFuM3ZvYm9EcFU1OG9BVUVoa1liWUdld0xZazRoZw?oc=5",
     "source": "Banking",
     "source_category": "industry_financial",
     "published": "2026-08-23T12:00:01+00:00",
@@ -590,6 +556,21 @@
     "source_category": "industry_financial",
     "published": "2026-08-24T05:01:15+00:00",
     "summary": "BofA, Wells Fargo and JPMorgan lead post-quantum security patent race TheBanker.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "abc95b5c3336",
+    "title": "Why Big Banks Are Pouring Billions Into Reviving the Housing Market - Realtor.com",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNcjJjQ3B0MGxodlJDODZiMmozbENMOGNZcXpIbTlzUEZoU2xDSlAtbEdWNi16RWpIT0N1QmEyakhiZXFXQjFPZjh5Yy1IdTZjbThDekM3Rlhyc1UzWjI3dkhiMFBna2JwSlFVU1dwckFmVVh1Qm15cEp6ck5IdVl0WVlqUks3MmpvWUY1ejNn?oc=5",
+    "source": "Banking",
+    "source_category": "industry_financial",
+    "published": "2026-08-24T09:00:00+00:00",
+    "summary": "Why Big Banks Are Pouring Billions Into Reviving the Housing Market Realtor.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -629,6 +610,21 @@
     "relevance_score": 7
   },
   {
+    "id": "315626137fcf",
+    "title": "Mastercard Study Finds Digital Payment Demand Outpaces Acceptance in Puerto Rico - Mastercard",
+    "url": "https://news.google.com/rss/articles/CBMiggJBVV95cUxQYXotV2NmaDRkWlZEcmp2ZnZPbURfOUE2cWNlV25rTlV3RUk5WTlfWlloZzcwUEpPM3FHWEU2TXlfZ1VfTlNFb2JLNkNMUnlvamphZ1FTVU1GdEZLM2NDVFhDRTdoYjdORFlrV1dEa2tlck5yaUVxZV9EajJSdGY5YzFmZEtGUnJhSkQyVzhJTlV1cGtMZFlickE0N1ZOSXhHM20tTy1LV3d3RTctaXMtS3p0ellWVW1yUkFpbWZNbHVQZWN1QXZLSXV2TE5wejh3OXdqdFMxb2FuZlZkUW1XTnQxNGtraUlScG15bWtjTEZneFM2UWRNbmlPMTZQNXRiOGc?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-08-19T19:14:47+00:00",
+    "summary": "Mastercard Study Finds Digital Payment Demand Outpaces Acceptance in Puerto Rico Mastercard",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 6
+  },
+  {
     "id": "de09e8515a6b",
     "title": "Which Big Bank Stock Has Dominated in 2026: Bank of America, Wells Fargo, or Bank of New York Mellon Corp.? - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNNlp6Rm5WTzI3QUEzQldSOUZHN29SeVg3cXBqVzhEXzRHNjRWYXdYbkxMTmdtdVdsRjQ5VXlYSUh1SENJRW9faTh0dW9fVG5NbGpJVWRacExhTGxwNWNhaWlQU0FFNzM1aXkybnJwZmFBSDA4Zll1T2wzZ3FBcWpWMHBmYXhEaVEzX3pjekI3dU5lQkRQUEg1R2lvaGtJQUdzR3VIQUk2bllQMGxUV29aV3llSWpHdzRZV2JOOUhUbUk0Mm1Wc0V0eWpHaHl2VlFiQmpXQ2xxcTNxNXdMLWNF?oc=5",
@@ -639,38 +635,6 @@
     "image_url": null,
     "tags": [],
     "industries": [
-      "financial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "d71b619b5283",
-    "title": "Jim Cramer Continued To Complain About JPMorgan Chase & Co. (NYSE:JPM) & Wells Fargo’s Multiple - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc1cxRmFqSkY2cWNHRWpQTzVTdk5XNHlUREZaVmRSa2JISXdDd1pMNWFmaG5NdzBmblNJZUFSV0VNX09tWFNMNFhJOXpDX0ZjMWlYSy1uamJQVmphS0V4Tmk0UDRzS1ZOOFBQRFd2YVBLbl9jRWJtb05FNDVZOFVPS1haNG9zaHZSUGFSMXRSN3hDVGRCbG1ndWdybm9HRmtONWYtN1d3?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-08-23T00:00:00+00:00",
-    "summary": "Jim Cramer Continued To Complain About JPMorgan Chase & Co. (NYSE:JPM) & Wells Fargo’s Multiple Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "c1e792779b91",
-    "title": "Chinese Fintech Lianlian DigiTech Targets Agentic Payments With AI-Powered Wallet - Crowdfund Insider",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxNVDh2V21jTkpoN1RDdmxhVU5HRTR2UHdIeDdVMHA2ekpBeWw2OFRibFNJY2E2b1FHOEZjR0Ric01Qb21CT2JWbHVLcV9VVFcxVnRndk1TeW1TVzJKVEp5NmpJeEpHUWFqakRMaUsxdTVWQ2lWd3k3eDZWX3lFTFR2Nkx1cWd3RDVSQWFyOHYxV3dJRWlqSXNyTVZodG1ITWtmdWVFb3hEWkhJMFBHaE5SUnpvWlhyd2RDaXBJVnJ5RmhzeWNOUFh1YlZR?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-08-23T21:36:17+00:00",
-    "summary": "Chinese Fintech Lianlian DigiTech Targets Agentic Payments With AI-Powered Wallet Crowdfund Insider",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
       "financial"
     ],
     "relevance_score": 6
@@ -722,21 +686,6 @@
     "relevance_score": 6
   },
   {
-    "id": "fb45fed18973",
-    "title": "Wells Fargo makes aggressive JPMorgan prediction - thestreet.com",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNQTBXZzVCSWhZUzhoZW1NNkdzeV95eVlSemNoUGljX3hxNGc4Uk5XMVN2TzhCUGEydHVJNXY4c09hY0tBYmloMVV3bi1lRWs5Vlh1RjJfV2dybTdYRGdmMktOZWVPNm90T29XNXZ0cGIzUUhjd2JuZHpyLUgzTndNSDcyTm1JSHlHU3R2OURPbHRtLWpsOTRVc3RycW0?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-08-18T20:22:32+00:00",
-    "summary": "Wells Fargo makes aggressive JPMorgan prediction thestreet.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 5
-  },
-  {
     "id": "988cfa08af13",
     "title": "Standard Chartered and HSBC Complete First Transaction on Swift Blockchain Ledger - PYMNTS.com",
     "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxOdFZPSzRHeU01Zl94N09ZT3Y0RXFJczRSR21ETXBZdzVSWWxTMzQ5amctSExtdGJlUnp6ODVOZTM2MGJRU3hCZnJjT0RIcmtkYUl1QXBWSmxfNkk1SUNFZjBhUnktWFhxZHk3V0JYcl93RGQ5Wmo2TEREd3JkRjZRVXQwQ0cxTE11QmFGYlQ3LVhDOUpzekFaMTBOTFlTOUNWeEZUMWJRdDhobjdvVEJvcENhbTdBbUwycDNOUG5fakxNajhjUEtCZF9rclVpOGkxUDJpNQ?oc=5",
@@ -753,13 +702,13 @@
     "relevance_score": 5
   },
   {
-    "id": "35795a61c6c4",
-    "title": "As Popularity of Digital Payments Rise, Advocates Fight To Preserve Cash Payment Options - The New York Sun",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNdzM5bUpFTkI5N2FnTkdwNjdXc1ZSUjhiWXVkdm9SaEltaTgwa3F6NGhyWldmNEtnRGsxZEF6TnNXaGJDUWNFcm1TdVE0YXJNZmJEMzF3QldiTWFtN1hfV3RjVDEzMXRtNUxNcHlhZ3MwbkxPb00tZ25BTXpROHVWa201MUxiZzNIRHM2Zkx5ZjhsZW9vaF9jWTFJeS13eG8tYXNPOWpmOS16OFQxeW00WUxuUlM2dE5s?oc=5",
-    "source": "Fintech",
+    "id": "d71b619b5283",
+    "title": "Jim Cramer Continued To Complain About JPMorgan Chase & Co. (NYSE:JPM) & Wells Fargo’s Multiple - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPc1cxRmFqSkY2cWNHRWpQTzVTdk5XNHlUREZaVmRSa2JISXdDd1pMNWFmaG5NdzBmblNJZUFSV0VNX09tWFNMNFhJOXpDX0ZjMWlYSy1uamJQVmphS0V4Tmk0UDRzS1ZOOFBQRFd2YVBLbl9jRWJtb05FNDVZOFVPS1haNG9zaHZSUGFSMXRSN3hDVGRCbG1ndWdybm9HRmtONWYtN1d3?oc=5",
+    "source": "Banking",
     "source_category": "industry_financial",
-    "published": "2026-08-22T08:00:00+00:00",
-    "summary": "As Popularity of Digital Payments Rise, Advocates Fight To Preserve Cash Payment Options The New York Sun",
+    "published": "2026-08-23T00:00:00+00:00",
+    "summary": "Jim Cramer Continued To Complain About JPMorgan Chase & Co. (NYSE:JPM) & Wells Fargo’s Multiple Yahoo Finance",
     "image_url": null,
     "tags": [],
     "industries": [
