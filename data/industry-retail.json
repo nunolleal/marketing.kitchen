@@ -1,43 +1,26 @@
 [
   {
-    "id": "d6ad773fef82",
-    "title": "Amazon’s Marketing Takeover for Back-to-School Includes Gatorade, SharkNinja, and Michael Kors",
-    "url": "https://www.adweek.com/commerce/amazon-marketing-takeover-back-to-school-gatorade-sharkninja-michael-kors/",
+    "id": "1dc920d42b83",
+    "title": "Don’t Let Retail Media Tell You It’s Brand Building",
+    "url": "https://www.adweek.com/commerce/dont-let-retail-media-tell-you-its-brand-building/",
     "source": "Adweek",
     "source_category": "marketing",
-    "published": "2026-08-27T06:00:00+00:00",
-    "summary": "The e-commerce giant aims to reach Gen Z, including a block party and concert at the University of Wisconsin.",
+    "published": "2026-08-27T17:10:02+00:00",
+    "summary": "Retail media is a valuable channel—but it's not a reason to upend your budget.",
     "image_url": null,
     "tags": [
       "CPG News",
-      "Ecommerce News",
-      "Gen Z",
-      "Generational Marketing",
-      "Premium"
+      "Retail Media Networks",
+      "Retail News",
+      "Voice"
     ],
     "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 49
-  },
-  {
-    "id": "f54c73e43656",
-    "title": "Sociable: Meta removes option to exclude ad placements",
-    "url": "https://www.marketingdive.com/news/sociable-meta-removes-option-to-exclude-ad-placements/828941/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-08-27T14:28:00+00:00",
-    "summary": "The company will use an automated system to target display options, and brands will no longer be able to decide which apps receive promotions.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
+      "media",
       "retail",
       "consumer",
       "industrial"
     ],
-    "relevance_score": 48
+    "relevance_score": 46
   },
   {
     "id": "74872c74b70d",
@@ -60,6 +43,24 @@
     "relevance_score": 45
   },
   {
+    "id": "f54c73e43656",
+    "title": "Sociable: Meta removes option to exclude ad placements",
+    "url": "https://www.marketingdive.com/news/sociable-meta-removes-option-to-exclude-ad-placements/828941/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-08-27T14:28:00+00:00",
+    "summary": "The company will use an automated system to target display options, and brands will no longer be able to decide which apps receive promotions.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 45
+  },
+  {
     "id": "252a71ebd706",
     "title": "B2C Commerce August Release: Custom Apps and Omnichannel Innovations",
     "url": "https://www.salesforce.com/blog/b2c-commerce-august-26-release/",
@@ -67,31 +68,13 @@
     "source_category": "salesforce",
     "published": "2026-08-26T15:35:46+00:00",
     "summary": "Ecommerce teams spend hours every week clicking through menus, searching for deeply buried tools, and manually reconciling product data across channels. The August 2026 release fixes that frustration by handing you the keys…",
-    "image_url": null,
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/agentforce-commerce-innovations-b2c-asset-1-1920-1080_146aee.webp",
     "tags": [],
     "industries": [
       "tech",
       "retail"
     ],
     "relevance_score": 42
-  },
-  {
-    "id": "3f6ef8bcf2e4",
-    "title": "The case for and against the ‘programmatic-ification’ of the creator economy",
-    "url": "https://digiday.com/marketing/the-case-for-and-against-the-programmatic-ification-of-the-creator-economy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-08-27T04:01:00+00:00",
-    "summary": "Creator marketing is racing toward AI ad-stack automation, but risks turning trust into inventory.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/08/creator-scrutiny-digiday.jpg",
-    "tags": [
-      "Marketing"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 40
   },
   {
     "id": "b93efea57f26",
@@ -109,26 +92,22 @@
     "relevance_score": 38
   },
   {
-    "id": "ec672e6e963f",
-    "title": "FBI Disrupts Chinese Proxy Tools Used in Mass Hacking of US Agencies and Infrastructure",
-    "url": "https://www.wired.com/story/fbi-disrupts-chinese-proxy-tools-used-in-mass-hacking-of-us-agencies-and-infrastructure/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-08-26T17:57:06+00:00",
-    "summary": "China’s hacking campaign targeted NASA, the Federal Reserve, the US Senate, the Justice Department, and more, according to the DOJ.",
-    "image_url": "https://media.wired.com/photos/6a8f11191780b42ea223901b/master/pass/FBIChinaHack.jpg",
+    "id": "3f6ef8bcf2e4",
+    "title": "The case for and against the ‘programmatic-ification’ of the creator economy",
+    "url": "https://digiday.com/marketing/the-case-for-and-against-the-programmatic-ification-of-the-creator-economy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-08-27T04:01:00+00:00",
+    "summary": "Creator marketing is racing toward AI ad-stack automation, but risks turning trust into inventory.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/08/creator-scrutiny-digiday.jpg",
     "tags": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "China",
-      "FBI",
-      "department of justice"
+      "Marketing"
     ],
     "industries": [
       "retail",
       "industrial"
     ],
-    "relevance_score": 32
+    "relevance_score": 37
   },
   {
     "id": "665a9256a8ee",
@@ -145,28 +124,6 @@
       "industrial"
     ],
     "relevance_score": 26
-  },
-  {
-    "id": "af962c0f3937",
-    "title": "Why ‘Mutiny’ Box Office Struggle Is About More Than Its Amazon Leak",
-    "url": "https://www.forbes.com/sites/sophiamorano/2026/08/27/why-mutiny-box-office-struggle-is-about-more-than-its-amazon-leak/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-27T17:00:00+00:00",
-    "summary": "'Mutiny' had a lackluster start to its theatrical run. Though some have blamed 'Mutiny’s' poor performance on its Amazon Prime leak, the bigger picture is more complex.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a8f8a2c38c63d0f31c725bd/0x0.jpg",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 16
   },
   {
     "id": "d949d26fe875",
@@ -186,7 +143,48 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
+  },
+  {
+    "id": "59282631a97e",
+    "title": "Corewell Health unveils $1.7B plan to build 2 new hospital towers",
+    "url": "https://www.fiercehealthcare.com/providers/corewell-health-unveils-17b-plan-build-2-new-hospital-towers",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-27T14:57:00+00:00",
+    "summary": "The Michigan nonprofit system is targeting 2030 for new builds at its Grand Rapids and Troy hospital campuses.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/butterworth_troy.jpg?VersionId=Mbz_NS9eP2nZzDvMGlai8MDaVzCeCpFg",
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "7af0da585504",
+    "title": "Google tells Android app developers to cool it on memory use, or else",
+    "url": "https://www.theverge.com/tech/985679/google-play-android-17-memory-limit",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-08-27T18:33:11+00:00",
+    "summary": "Google will start policing memory-hungry Android apps as a direct response to the RAM crisis. Spotted by TechCrunch, the company yesterday published a memo addressing the Play Store's role in enforcing new memory-usage restrictions. The post emphasizes the importance of...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/05/acastro_STK112_android_01.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Android",
+      "Google",
+      "Mobile",
+      "Tech"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 14
   },
   {
     "id": "29c243946949",
@@ -197,70 +195,6 @@
     "published": "2026-08-27T16:01:00+00:00",
     "summary": "The retail veteran shares his journey with Apple, the infamous stint with J.C. Penney and more ahead of the release of his memoir, “Shop Different.”",
     "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "dd67f5aba630",
-    "title": "Sempo Processes More Than $15 Million in Payments in July, Targets $30 Million in Q4 2026 - بوابة التكنولوجيا المالية",
-    "url": "https://news.google.com/rss/articles/CBMiREFVX3lxTE9TalE0cmZKQzNyN3JSZmJ0X3NTU0tSNjZ0ckN3d2I0Z0FRdVpiUXdVZ01ScWVkbUtmWTlESUVfTjl4bEJ6?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-08-27T13:17:33+00:00",
-    "summary": "Sempo Processes More Than $15 Million in Payments in July, Targets $30 Million in Q4 2026 بوابة التكنولوجيا المالية",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "d90e959f4b28",
-    "title": "Sur La Table launches peer-to-peer marketplace",
-    "url": "https://www.retaildive.com/news/sur-la-table-launches-peer-to-peer-resale-marketplace/828800/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-08-27T15:39:00+00:00",
-    "summary": "The kitchenware retailer is partnering with resale technology platform Archive to power its Second Servings venture.",
-    "image_url": "https://imgproxy.divecdn.com/g1STDeBQ_CbLCnfjWTdjZfqSkHcB1C0sgCbzgy-NPyI/g:nowe:0:175/c:1280:723/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjY2Mi5qcGVn.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "e6df3d9c8859",
-    "title": "Bath & Body Works e-commerce returns to growth",
-    "url": "https://www.retaildive.com/news/bath-body-works-e-commerce-returns-growth/828882/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-08-27T17:06:00+00:00",
-    "summary": "The retailer expects to see continued gains in the channel in the back half of the year through 2027.",
-    "image_url": "https://imgproxy.divecdn.com/dqk9Sb_rZLGzVJmJXbtTpsitYQcqbg4QqBaM00tmERA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iYndfc3RvcmUuanBn.webp",
-    "tags": [],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "fd5e889f0b3d",
-    "title": "Kohl’s expands home assortment with Martha Stewart, Bobby Flay",
-    "url": "https://www.retaildive.com/news/kohls-expands-home-assortment-with-martha-stewart-bobby-flay/828708/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-08-27T14:23:00+00:00",
-    "summary": "The retailer will offer cookware and kitchen appliances from the two household names with an eye toward value, functionality and design.",
-    "image_url": "https://imgproxy.divecdn.com/2gJrYaxzTyAiHIAYLdZkZTj93-znc5PC0TRw_ivlD3Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJ0aGFTdGV3YXJ0MS53ZWJw.webp",
     "tags": [],
     "industries": [
       "tech",
@@ -284,6 +218,91 @@
     "industries": [
       "tech",
       "retail"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "1b4ee1e8f69f",
+    "title": "Sword Health to acquire Headspace in all-cash deal",
+    "url": "https://www.fiercehealthcare.com/digital-health/sword-health-acquire-headspace-all-cash-deal",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-26T12:30:00+00:00",
+    "summary": "The virtual physical therapy and mental health platforms are targeting a September close, per a regulatory filing. A price tag was not disclosed, but is being reported to land between $200 million and $300 million.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1408214543.jpg?VersionId=uoIkikC2leHIjPHePhExjmCAKh93tcDw",
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 12,
+    "also_covered_by": [
+      "Healthcare Dive",
+      "Health Tech"
+    ]
+  },
+  {
+    "id": "fd5e889f0b3d",
+    "title": "Kohl’s expands home assortment with Martha Stewart, Bobby Flay",
+    "url": "https://www.retaildive.com/news/kohls-expands-home-assortment-with-martha-stewart-bobby-flay/828708/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-08-27T14:23:00+00:00",
+    "summary": "The retailer will offer cookware and kitchen appliances from the two household names with an eye toward value, functionality and design.",
+    "image_url": "https://imgproxy.divecdn.com/2gJrYaxzTyAiHIAYLdZkZTj93-znc5PC0TRw_ivlD3Q/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9NYXJ0aGFTdGV3YXJ0MS53ZWJw.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "d90e959f4b28",
+    "title": "Sur La Table launches peer-to-peer marketplace",
+    "url": "https://www.retaildive.com/news/sur-la-table-launches-peer-to-peer-resale-marketplace/828800/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-08-27T15:39:00+00:00",
+    "summary": "The kitchenware retailer is partnering with resale technology platform Archive to power its Second Servings venture.",
+    "image_url": "https://imgproxy.divecdn.com/g1STDeBQ_CbLCnfjWTdjZfqSkHcB1C0sgCbzgy-NPyI/g:nowe:0:175/c:1280:723/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjY2Mi5qcGVn.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "e6df3d9c8859",
+    "title": "Bath & Body Works e-commerce returns to growth",
+    "url": "https://www.retaildive.com/news/bath-body-works-e-commerce-returns-growth/828882/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-08-27T17:06:00+00:00",
+    "summary": "The retailer expects to see continued gains in the channel in the back half of the year through 2027.",
+    "image_url": "https://imgproxy.divecdn.com/dqk9Sb_rZLGzVJmJXbtTpsitYQcqbg4QqBaM00tmERA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9iYndfc3RvcmUuanBn.webp",
+    "tags": [],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "30c6eba91c9a",
+    "title": "Appistoki, Salesforce target practical AI adoption in PH - InsiderPH",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxORTFJbDdILVRhVTlsSjZKaTdZUGZBcUo5V0JtMVExSXVxRE9YczNJbU04OWpUUmFGMHR1bGQwRjlKdDJiRVpDemx6enhnRE9Vb3lTNGRCalpIb2tGY1l1eDl5azdrdFAtMEpocHpwWFVCa3puS21EczA5U2otVnRXTHZlSQ?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-08-27T23:49:53+00:00",
+    "summary": "Appistoki, Salesforce target practical AI adoption in PH InsiderPH",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
     ],
     "relevance_score": 12
   },
@@ -321,6 +340,22 @@
     "relevance_score": 10
   },
   {
+    "id": "b58f73b41bff",
+    "title": "Exclusive | U.S. Servicemember, KPMG Employee Are Targets of Prediction Markets Crackdown - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTjFYaWtXakpJMUtVbjBjVVdwOVVxWXdLWS1UUFI0ZEJ0bXFBU0lxX0ZkelVTUWNTV0lka3FJMjZmbUFnRkNiZERCeVVGMTJOWFg2Q0lDTmpKOVhlVUxDVm03eXd5MVZvNWNxYk9FenBEZXQtQ0dRTEVKdEd2MXlFeV9IV0RxT0JEOWNENVNkSGYwV1Z5VVZNel8ySDhfZ05YOWlHUzBKbmFLaFVobG4yNENETDNZbGdid2NLZ3BCbEc?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-08-28T00:00:00+00:00",
+    "summary": "Exclusive | U.S. Servicemember, KPMG Employee Are Targets of Prediction Markets Crackdown WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "4e32623e338d",
     "title": "FDA targets faster generic approvals in drive to slash drug prices - Life Sciences IP Review",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNMDFYUGk2Yl9TUTh3Wl9uay1YaTBXbUREd1YxUmVWTk5BamF0TWdFXzJ3N3RUa3BWTjYwRk4wNV9wYXVKcjlrVzVBUGxORDJqU1RYVE00cklWSG9yX0xneFpKRURCU2lyRUd2d1IxY3cxVDZVeWxYQ2V5bFl4M2hkNlBKRHpWTThfSkRsTmJObThqNldRYmR1VW8ySUpDUFA0SEFNWHJ1Q1QtWVRWTGpyT3NDSG0xZ2NfTno5QlhPQzFZRUFodGc?oc=5",
@@ -336,22 +371,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 10
-  },
-  {
-    "id": "8b7fa79ca171",
-    "title": "Take a look inside the new Barnes & Noble in Chicago",
-    "url": "https://www.retaildive.com/news/take-a-look-inside-the-new-barnes-noble-in-chicago/828738/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-08-26T15:54:00+00:00",
-    "summary": "As the retailer builds out its store footprint, a location in the heart of the Illinois city is keeping readers in The Loop.",
-    "image_url": "https://imgproxy.divecdn.com/9EsFHa40aRESx2nVjj5FC2BjinyJGIzrdtVVwJp1nvg/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ibl9zdG9yZS5qcGc=.webp",
-    "tags": [],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 9
+    "relevance_score": 8
   },
   {
     "id": "bbe8ebc7a4b1",
