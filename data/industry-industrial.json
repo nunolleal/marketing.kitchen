@@ -60,7 +60,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 48
+    "relevance_score": 45
   },
   {
     "id": "78c29ac9f797",
@@ -323,21 +323,6 @@
     "relevance_score": 35
   },
   {
-    "id": "c9d0c45d1b4e",
-    "title": "How Dr Pepper’s ‘Fansville’ campaign stays relevant and drives outcomes",
-    "url": "https://www.marketingdive.com/news/how-dr-peppers-fansville-campaign-stays-relevant-and-drives-outcomes/828824/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-08-27T14:00:00+00:00",
-    "summary": "Keurig Dr Pepper marketer Derek Dabrowski digs into how the college football campaign, now in its ninth season, is lifting sales through personalization.",
-    "image_url": "https://imgproxy.divecdn.com/5GEz2VARTXC9Yce-7qksF5W4pfoc4-qwaco0JVM-nqc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9GYW5kb21fTmV2ZXJfU2xlZXBzLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 35
-  },
-  {
     "id": "f54c73e43656",
     "title": "Sociable: Meta removes option to exclude ad placements",
     "url": "https://www.marketingdive.com/news/sociable-meta-removes-option-to-exclude-ad-placements/828941/",
@@ -351,6 +336,21 @@
       "tech",
       "retail",
       "consumer",
+      "industrial"
+    ],
+    "relevance_score": 35
+  },
+  {
+    "id": "c69f90ca2bb3",
+    "title": "Williams-Sonoma AI assistants drive customer engagement — and conversions - Customer Experience Dive",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQRWNKR29KUzdzY2lCTDYtZ2FJXy1sam9pRVIxbXJTSjlJVVQzNWVMdUpYN3l3ejZMUEhVVndXX09nQkNFTF9zakRTcTlLcWpJakd6SjZ2UmtKUkZRQTVncEk0M3ZMMDZnM3drOFNLMmhDWjU2QmtmYTRTMkdaM05STXhpc3c2dXF4Y3N3SHJHLUNILTFsOWN3NnZtQVNfdi00bWl0alVJRVZna29kejRSb0I4WXJzVFp6di1TN0tzQ2I?oc=5",
+    "source": "AI Personalization",
+    "source_category": "ai_marketing",
+    "published": "2026-08-27T17:50:23+00:00",
+    "summary": "Williams-Sonoma AI assistants drive customer engagement — and conversions Customer Experience Dive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
       "industrial"
     ],
     "relevance_score": 35
@@ -424,21 +424,6 @@
     "relevance_score": 32
   },
   {
-    "id": "d2befb3431be",
-    "title": "LTK adds agentic AI to creator marketing - ContentGrip",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ncDBrNkVMb3M5TnA2ZXVZM2JHcmJVVlpLVGhUNHJlbnBPMWdjcVc1NUFBbVIzMWFsMTVJU1FBdmw2bi1HQTBYWHdhZWlUMXg4bC1BZVRoTTBYYlVNcjNSQ2JXY0JsQ3FZdFE?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-08-29T03:48:42+00:00",
-    "summary": "LTK adds agentic AI to creator marketing ContentGrip",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 31
-  },
-  {
     "id": "3f6ef8bcf2e4",
     "title": "The case for and against the ‘programmatic-ification’ of the creator economy",
     "url": "https://digiday.com/marketing/the-case-for-and-against-the-programmatic-ification-of-the-creator-economy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -475,21 +460,19 @@
     ]
   },
   {
-    "id": "24acf5eb58d0",
-    "title": "What Does Salesforce Do?",
-    "url": "https://www.salesforce.com/blog/what-does-salesforce-do/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-08-27T21:51:58+00:00",
-    "summary": "From your first customer conversation to your next big win, Salesforce's #1 agentic CRM helps you build stronger relationships, work smarter with AI agents, and transform your business into an agentic enterprise.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/DF25-SF-251016-AS109155.jpg?w=5666",
-    "tags": [
-      "Uncategorized"
-    ],
+    "id": "d2befb3431be",
+    "title": "LTK adds agentic AI to creator marketing - ContentGrip",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE9ncDBrNkVMb3M5TnA2ZXVZM2JHcmJVVlpLVGhUNHJlbnBPMWdjcVc1NUFBbVIzMWFsMTVJU1FBdmw2bi1HQTBYWHdhZWlUMXg4bC1BZVRoTTBYYlVNcjNSQ2JXY0JsQ3FZdFE?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-08-29T03:48:42+00:00",
+    "summary": "LTK adds agentic AI to creator marketing ContentGrip",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "industrial"
     ],
-    "relevance_score": 29
+    "relevance_score": 28
   },
   {
     "id": "b9550c61b72c",
@@ -522,17 +505,18 @@
     "relevance_score": 26
   },
   {
-    "id": "7ffa3bba1e31",
-    "title": "Callaway controversy reveals gaps in how brands review creator ads - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQbFhhZlE1YlFPQzRrOVd3WDFpZGdBU2JFTVptMkxudnhITUZuNV9NNjVORzFNLWluamhaTjBSb1pYdnp0UktiNWZQNFFEbDBVbEp2NEk2RU43LUxpc3VDdWlxdTYtanl3aktRVkFOZEt4QUY2YzlqNFZ6NFhabnRlQUJNUk1CYllOYXJHS1ppUlU1U1NndXZkc3VIa3d2eUl4dzlBVnNnSWw?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-08-28T13:01:00+00:00",
-    "summary": "Callaway controversy reveals gaps in how brands review creator ads Ad Age",
-    "image_url": null,
-    "tags": [],
+    "id": "24acf5eb58d0",
+    "title": "What Does Salesforce Do?",
+    "url": "https://www.salesforce.com/blog/what-does-salesforce-do/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-08-27T21:51:58+00:00",
+    "summary": "From your first customer conversation to your next big win, Salesforce's #1 agentic CRM helps you build stronger relationships, work smarter with AI agents, and transform your business into an agentic enterprise.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/DF25-SF-251016-AS109155.jpg?w=5666",
+    "tags": [
+      "Uncategorized"
+    ],
     "industries": [
-      "consumer",
       "industrial"
     ],
     "relevance_score": 26
@@ -628,7 +612,10 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 22
+    "relevance_score": 22,
+    "also_covered_by": [
+      "Adobe"
+    ]
   },
   {
     "id": "9a216127d3eb",
@@ -681,7 +668,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
     "id": "1c359d226297",
@@ -703,7 +690,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
     "id": "6c9a58e09d29",
@@ -724,7 +711,22 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
+  },
+  {
+    "id": "6198b95a8b1c",
+    "title": "Salesforce Shares Surge 23%. This Is Why the Stock Looks Like It Has a Lot More Upside Ahead. - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi_gFBVV95cUxQMGVvOEZwQTR1N0VvOTJ6QWpUOVJUcUN2Wmx3MWwxUTJ2SDc3QnhjalpMZjBlcUJ3enEwbkZ4dGdmdkhJVW9DR2k2dFBJa1h3QUctaEVOVnVlWEkyTE00cFRHdnR0T05jMzRVNURSQXUyZGVxRDU2VmpsNVpFMWlyUnRlb1NnZTB5SDY0bGVGeDFzZ2NMNmxVb2VTX3VEUm12STM1b2Z2M2pVSGFIUmZhQTROVFRfVTNLMUZMdng2LTNCRWE1Mmt1V0JlOTh0Nll3amswbWRRS0M5Y2dURDJHN3hlcVZuZzRBMlUzQzNwR2tkaGlUVkQzTXZOVVdxUQ?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-08-29T18:35:36+00:00",
+    "summary": "Salesforce Shares Surge 23%. This Is Why the Stock Looks Like It Has a Lot More Upside Ahead. The Globe and Mail",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 16
   },
   {
     "id": "ddf8ba8f44ba",
@@ -743,32 +745,17 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
-    "id": "f346f98a4450",
-    "title": "Salesforce Shares Surge 23%. This Is Why the Stock Looks Like It Has a Lot More Upside Ahead. - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMihwJBVV95cUxQckpiT1VJS3U5MGRkcHZpU1RzZnZ5WDhKaEdadDJhZ0daNGszaVFaVUdrR2JoazlyR2M0SVQ3LWlFNlRaYlhJTHpfd3pITkwyOXJpVTQ3a3JXcG5CYS1PdlVBMVlRaG9mek5nTkIzaEYteWRyNWswS2FyS3pNNV9GSTJ4NUFXOFlzZW1DNzBuSnFYNmxNZHRiRHVPUXhIM2ZydWVVTldmTXdBY29JRmdmbGxSckVqSkRjeXM3dXNGM1VSZ05CV1YyRXo3OUlYNWpGR0VwQUhuLWJKU0Y0V0pVV2lHdDdBX3hROTVibkZrQVFZaUg0YUVsRHI2Nm83UW9sT28tYmpaYw?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-08-29T18:05:35+00:00",
-    "summary": "Salesforce Shares Surge 23%. This Is Why the Stock Looks Like It Has a Lot More Upside Ahead. The Globe and Mail",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "07f86d97cc55",
-    "title": "Yankees Skipper Sends 3-Word George Lombard Jr Message Amid Record Error Streak",
-    "url": "https://www.forbes.com/sites/peterchawaga/2026/08/29/yankees-skipper-sends-3-word-george-lombard-jr-message-amid-record-error-streak/",
+    "id": "384b995b05d7",
+    "title": "MLB Players Who Can Change Their Seasons With Strong Finishes",
+    "url": "https://www.forbes.com/sites/danfreedman/2026/08/29/mlb-players-who-can-change-their-seasons-with-strong-finishes/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-08-29T11:00:00+00:00",
-    "summary": "New York Yankees manager Aaron Boone offered a brief response on the rookie shortstop’s historic struggles.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a09493032b689a8f2c8c9ca/0x0.jpg?width=960&precrop=2409%2C1355%2Cx0%2Cy62",
+    "published": "2026-08-29T19:41:52+00:00",
+    "summary": "Many players have played below expectations so far this season, but they can reverse all of the negativity, and truly help their team's chances with a strong September.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a9331b5cc1104a30da9ed7b/0x0.jpg?width=960&precrop=2006%2C1128%2Cx0%2Cy216",
     "tags": [
       "SportsMoney",
       "/sportsmoney",
@@ -782,46 +769,44 @@
     "relevance_score": 15
   },
   {
-    "id": "8ebcd9d7e736",
-    "title": "Billionaire Tim Draper Selling His Private Island In Tanzania—Wants Offers By Email",
-    "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/29/billionaire-tim-draper-selling-his-private-island-in-tanzania-wants-offers-by-email/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-29T15:52:44+00:00",
-    "summary": "Lupita Island can sleep up to 26 people in 10 cottages.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a92ff8b4d06ca14ac4bd565/0x0.jpg?width=960",
+    "id": "94db180b35f0",
+    "title": "Vicariously hike the Appalachian in the gorgeous A Trail Tale",
+    "url": "https://www.theverge.com/entertainment/986461/hike-appalachian-trail-pixel-art-a-trail-tale",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-08-29T20:59:26+00:00",
+    "summary": "I used to be an avid hiker and would try to go backpacking a few times a year. I always dreamed of thru-hiking the Appalachian Trail, but life kind of got in the way. (Turns out jobs, wives, and children aren't thrilled with the idea of you disappearing for three months.) But...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/Screenshot-2026-08-29-at-4.57.57-PM.png?quality=90&amp;strip=all&amp;crop=0.51847977684798%2C0%2C98.963040446304%2C100&amp;w=1200",
     "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
+      "Column",
+      "Entertainment",
+      "Tech",
+      "Web"
     ],
     "industries": [
-      "media",
+      "tech",
       "industrial"
     ],
     "relevance_score": 15
   },
   {
-    "id": "2356b399b0c8",
-    "title": "Private Equity’s Zombie Problem Is A Challenge For Banks",
-    "url": "https://www.forbes.com/sites/mayrarodriguezvalladares/2026/08/29/private-equitys-zombie-problem-is-a-challenge-for-banks/",
+    "id": "02915701d28a",
+    "title": "The Intricacies Of Artificial General Intelligence And Curing Disease",
+    "url": "https://www.forbes.com/sites/saibala/2026/08/29/the-intricacies-of-artificial-general-intelligence-and-curing-disease/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-08-29T16:48:55+00:00",
-    "summary": "Private equity's growing exit backlog is transforming from an investor issue into a significant banking system concern, potentially impacting the wider economy",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a93075b750ae2d0c56c0a31/0x0.jpg",
+    "published": "2026-08-29T21:47:19+00:00",
+    "summary": "Artificial general intelligence (AGI) may enable human-level reasoning and critical thinking across multiple cognitive domains.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a934ee855bfeaed51cbb297/0x0.jpg",
     "tags": [
-      "Banking & Insurance",
-      "/banking-insurance",
-      "Money",
-      "/money",
-      "Banking & Insurance"
+      "Healthcare",
+      "/healthcare",
+      "Innovation",
+      "/innovation",
+      "Healthcare"
     ],
     "industries": [
-      "industrial",
-      "financial"
+      "industrial"
     ],
     "relevance_score": 15
   },
@@ -868,27 +853,6 @@
     "relevance_score": 14
   },
   {
-    "id": "b7176f501527",
-    "title": "Xbox CEO calls Project Helix a ‘family of devices’",
-    "url": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-08-28T22:03:13+00:00",
-    "summary": "According to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's \"next generation console\" - phrasing that seemingly implied a singular device - will actually be a \"family\" of devices.\" \"We've been hard at work on a great next...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Entertainment",
-      "Gaming",
-      "News",
-      "Xbox"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
     "id": "d0e5614bdcb4",
     "title": "Google further buries search results under AI mode",
     "url": "https://www.theverge.com/tech/986364/google-search-ai-overviews-auto-expand",
@@ -904,70 +868,6 @@
     ],
     "industries": [
       "tech",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "4ed9a280c24d",
-    "title": "Musicians-turned-detectives are hunting for AI grifters",
-    "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-08-29T12:00:00+00:00",
-    "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C11.150136769481%2C85.33125%2C67.014037093516&amp;w=1200",
-    "tags": [
-      "AI",
-      "Creators",
-      "Entertainment",
-      "Music",
-      "Spotify"
-    ],
-    "industries": [
-      "media",
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "43163a3bf60d",
-    "title": "Sabrina Carpenter Will Celebrate On The Charts Two Weeks In A Row",
-    "url": "https://www.forbes.com/sites/hughmcintyre/2026/08/29/sabrina-carpenter-will-celebrate-on-the-charts-two-weeks-in-a-row/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-29T12:45:00+00:00",
-    "summary": "Sabrina Carpenter's breakout album 'Short n' Sweet' is the singer's first collection to hit 104 weeks — two years — on the Billboard 200.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a91fe40afd920b24bebbfff/0x0.jpg?width=960&precrop=2324%2C1307%2Cx0%2Cy174",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "a85aa69b831b",
-    "title": "Nvidia’s AI advantage is moving beyond the GPU",
-    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-08-29T13:00:00+00:00",
-    "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
-    "tags": [
-      "TC",
-      "AI",
-      "nvidia",
-      "GPU"
-    ],
-    "industries": [
       "industrial"
     ],
     "relevance_score": 14
@@ -990,6 +890,50 @@
     ],
     "industries": [
       "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "8ebcd9d7e736",
+    "title": "Billionaire Tim Draper Selling His Private Island In Tanzania—Wants Offers By Email",
+    "url": "https://www.forbes.com/sites/maryroeloffs/2026/08/29/billionaire-tim-draper-selling-his-private-island-in-tanzania-wants-offers-by-email/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-29T15:52:44+00:00",
+    "summary": "Lupita Island can sleep up to 26 people in 10 cottages.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a92ff8b4d06ca14ac4bd565/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "2356b399b0c8",
+    "title": "Private Equity’s Zombie Problem Is A Challenge For Banks",
+    "url": "https://www.forbes.com/sites/mayrarodriguezvalladares/2026/08/29/private-equitys-zombie-problem-is-a-challenge-for-banks/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-08-29T16:48:55+00:00",
+    "summary": "Private equity's growing exit backlog is transforming from an investor issue into a significant banking system concern, potentially impacting the wider economy",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a93075b750ae2d0c56c0a31/0x0.jpg",
+    "tags": [
+      "Banking & Insurance",
+      "/banking-insurance",
+      "Money",
+      "/money",
+      "Banking & Insurance"
+    ],
+    "industries": [
+      "industrial",
+      "financial"
     ],
     "relevance_score": 14
   },
@@ -1038,23 +982,44 @@
     "relevance_score": 13
   },
   {
-    "id": "40f68b946d69",
-    "title": "Real Madrid Boss Mourinho Slams Ballon d’Or Criteria And Supports Mbappe",
-    "url": "https://www.forbes.com/sites/tomsanderson/2026/08/29/real-madrid-boss-mourinho-slams-ballon-dor-winner-criteria/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-08-29T10:31:36+00:00",
-    "summary": "Real Madrid manager Jose Mourinho slammed the criteria for winning the Ballon d'Or during a press conference to preview his team's Sunday afternoon clash against Malaga.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a92b239bbaccfd473394f62/0x0.jpg",
+    "id": "4ed9a280c24d",
+    "title": "Musicians-turned-detectives are hunting for AI grifters",
+    "url": "https://www.theverge.com/entertainment/985866/h4rris-nihil-young-edm-suno-ai",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-08-29T12:00:00+00:00",
+    "summary": "As audio-focused generative tools and platforms have gotten more sophisticated, the internet has become increasingly filled with AI-generated music whose melodies and vocals are algorithmically derived from the work of human artists. While some of the people pumping out this...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/268714_finding_and_shaming_AI_grifters_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C11.150136769481%2C85.33125%2C67.014037093516&amp;w=1200",
     "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
+      "AI",
+      "Creators",
+      "Entertainment",
+      "Music",
+      "Spotify"
     ],
     "industries": [
+      "media",
       "tech",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "a85aa69b831b",
+    "title": "Nvidia’s AI advantage is moving beyond the GPU",
+    "url": "https://techcrunch.com/2026/08/29/nvidias-ai-advantage-is-moving-beyond-the-gpu/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-08-29T13:00:00+00:00",
+    "summary": "The new generation of data center systems is increasing efficiency with smarter traffic control instead of just more processor cycles.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/08/jense-nvidi-chip-GettyImages-2266485392.jpg?resize=1200,800",
+    "tags": [
+      "TC",
+      "AI",
+      "nvidia",
+      "GPU"
+    ],
+    "industries": [
       "industrial"
     ],
     "relevance_score": 13
@@ -1205,6 +1170,27 @@
     "relevance_score": 12
   },
   {
+    "id": "b7176f501527",
+    "title": "Xbox CEO calls Project Helix a ‘family of devices’",
+    "url": "https://www.theverge.com/games/986337/xbox-ceo-asha-sharma-project-helix-family-of-devices",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-08-28T22:03:13+00:00",
+    "summary": "According to Xbox CEO Asha Sharma, Project Helix, which she announced in March as a codename for Microsoft's \"next generation console\" - phrasing that seemingly implied a singular device - will actually be a \"family\" of devices.\" \"We've been hard at work on a great next...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/02/268364_Inside_Microsofts_big_Xbox_leadership_shakeup_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Entertainment",
+      "Gaming",
+      "News",
+      "Xbox"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
     "id": "afcc3306405a",
     "title": "TDI01 Elicits Responses With Manageable Safety in Moderate-to-Severe cGVHD - OncLive",
     "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNRHNtWG5acWZSTEhCRF81WG1kYU43UlhUZk9nUWVWQUt6R3RRUllpb2kwMWhpNkp3azlja0lfbGdtVFRIZ2tpTV9yTk5uSXRGNktzYkFoNkxnQnlCR2gyZEVZY2lGZUQwZ09yU1BzSlMxc3E0bHRvdXVTa1VpUEt5QXNSMlJJWXdTMUhzVUZMdmZyY2RPUS1mNFNBNUMwM2FuMlVHNFJ3?oc=5",
@@ -1216,23 +1202,6 @@
     "tags": [],
     "industries": [
       "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "f08696d4b981",
-    "title": "Forget GLP-1 stocks, baldness drugs are Wall Street’s next goldmine - Fortune",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2tFR01HUWx1eks2bWNfdGFjXzFPb0p3a1dWeElBdnhXcFRFM3NBUDFHakRudW00cmZlZ2kzY1pZZzBmU1NUbTdkQ09YNDNDLXpZbnYycVBCRnFEOXp4bEUyWS03blIzb1A2VElPazI3Z1c2QkNvWWtCendUUjk1cTVQcmRucWlTUnpjd1k1Nk5nb3BlM2lzWmluZlJIdw?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-08-29T15:11:00+00:00",
-    "summary": "Forget GLP-1 stocks, baldness drugs are Wall Street’s next goldmine Fortune",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences",
-      "financial"
     ],
     "relevance_score": 12
   },
@@ -1268,26 +1237,6 @@
       "tech",
       "industrial",
       "lifesciences"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "be20cc599a8c",
-    "title": "The inside story on why OpenAI agents hacked Hugging Face",
-    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-08-26T19:00:00+00:00",
-    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a...",
-    "image_url": null,
-    "tags": [
-      "Artificial intelligence",
-      "App",
-      "artificial intelligence",
-      "Summary"
-    ],
-    "industries": [
-      "industrial"
     ],
     "relevance_score": 11
   },
@@ -1497,17 +1446,18 @@
     "relevance_score": 11
   },
   {
-    "id": "c53aea496a5f",
-    "title": "Adobe Inc. Tokenized Stock (Robinhood) to Japanese Yen Price Today | Live ADBE to JPY Converter & Exchange Rate - CryptoRank",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBTQlFYaFRDT21lenlFenl2VVRVNXRtaTFUV2cwclFwZXI4VmVfeW5FYnN3bF84bnFIN3ZoMC11ZEk5b1NGUy1QTkxKeWNmODQtemFETmxnelVpQXp6Nk9jbFdZekpWQ0xQQVlqNUpOOHVJRC1IVVE?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-08-29T08:01:26+00:00",
-    "summary": "Adobe Inc. Tokenized Stock (Robinhood) to Japanese Yen Price Today | Live ADBE to JPY Converter & Exchange Rate CryptoRank",
+    "id": "f08696d4b981",
+    "title": "Forget GLP-1 stocks, baldness drugs are Wall Street’s next goldmine - Fortune",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPU2tFR01HUWx1eks2bWNfdGFjXzFPb0p3a1dWeElBdnhXcFRFM3NBUDFHakRudW00cmZlZ2kzY1pZZzBmU1NUbTdkQ09YNDNDLXpZbnYycVBCRnFEOXp4bEUyWS03blIzb1A2VElPazI3Z1c2QkNvWWtCendUUjk1cTVQcmRucWlTUnpjd1k1Nk5nb3BlM2lzWmluZlJIdw?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-08-29T15:11:00+00:00",
+    "summary": "Forget GLP-1 stocks, baldness drugs are Wall Street’s next goldmine Fortune",
     "image_url": null,
     "tags": [],
     "industries": [
       "industrial",
+      "lifesciences",
       "financial"
     ],
     "relevance_score": 11
@@ -1531,6 +1481,27 @@
     "relevance_score": 10
   },
   {
+    "id": "1b4ee1e8f69f",
+    "title": "Sword Health to acquire Headspace in all-cash deal",
+    "url": "https://www.fiercehealthcare.com/digital-health/sword-health-acquire-headspace-all-cash-deal",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-26T12:30:00+00:00",
+    "summary": "The virtual physical therapy and mental health platforms are targeting a September close, per a regulatory filing. A price tag was not disclosed, but is being reported to land between $200 million and $300 million.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1408214543.jpg?VersionId=uoIkikC2leHIjPHePhExjmCAKh93tcDw",
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 10,
+    "also_covered_by": [
+      "Healthcare Dive",
+      "Health Tech"
+    ]
+  },
+  {
     "id": "c3f9ff59d084",
     "title": "Employers face ‘existential reckoning’ as health costs surge",
     "url": "https://www.healthcaredive.com/news/employers-2027-health-costs-bgh-survey/828734/",
@@ -1542,6 +1513,26 @@
     "tags": [],
     "industries": [
       "media",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "be20cc599a8c",
+    "title": "The inside story on why OpenAI agents hacked Hugging Face",
+    "url": "https://www.technologyreview.com/2026/08/26/1143013/the-inside-story-on-why-openai-agents-hacked-hugging-face/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-08-26T19:00:00+00:00",
+    "summary": "The models responsible for last month’s agent hack of Hugging Face had been inadvertently trained to cheat and to communicate with each other, according to an OpenAI technical report released today. The hack, which a group of agents undertook to find solutions for a...",
+    "image_url": null,
+    "tags": [
+      "Artificial intelligence",
+      "App",
+      "artificial intelligence",
+      "Summary"
+    ],
+    "industries": [
       "industrial"
     ],
     "relevance_score": 10
@@ -1674,47 +1665,6 @@
     "relevance_score": 10
   },
   {
-    "id": "175088e7bd00",
-    "title": "A startup claims it’s found a drug to make your blood young",
-    "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-08-27T19:48:13+00:00",
-    "summary": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1...",
-    "image_url": null,
-    "tags": [
-      "Biotechnology and health",
-      "App"
-    ],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "da7930999380",
-    "title": "AI Agents Are Hacking Systems. Could That Push the US and China to Cooperate?",
-    "url": "https://www.wired.com/story/ai-agents-hacking-systems-could-push-the-us-and-china-to-cooperate/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-08-27T21:08:34+00:00",
-    "summary": "This week on “Uncanny Valley,” senior writer Will Knight talks his recent visit to China and the future of AI collaboration.",
-    "image_url": "https://media.wired.com/photos/6a8f6fdecc498c3752a8bb2c/master/pass/Uncanny-Valley-China-US-AI-Race-Business-2286901730.jpg",
-    "tags": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Uncanny Valley Podcast",
-      "podcasts",
-      "artificial intelligence"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "7a4b70b9027d",
     "title": "A Judge Has Blocked the Pentagon’s Attempt to Blacklist Anthropic",
     "url": "https://www.wired.com/story/a-judge-has-blocked-the-pentagons-attempt-to-blacklist-anthropic/",
@@ -1784,27 +1734,6 @@
     "relevance_score": 10
   },
   {
-    "id": "7750fe415e7d",
-    "title": "Trump’s EPA wants to let data centers hide their air pollution",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/986176/data-center-pollution-epa-rule-change-air-permit",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-08-28T16:28:40+00:00",
-    "summary": "Just as new data centers face growing backlash from neighboring communities, the US Environmental Protection Agency (EPA) is about to make it harder for people to weigh in on any pollution those centers create. The EPA plans to toss out a federal rule requiring public notice...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "AI",
-      "Energy",
-      "Environment",
-      "Science"
-    ],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "fea5f6e87ebd",
     "title": "Open-weight AI companies are the Valley’s hottest acquisition targets",
     "url": "https://techcrunch.com/2026/08/28/open-weight-ai-companies-are-the-valleys-hottest-acquisition-targets/",
@@ -1828,28 +1757,12 @@
     "relevance_score": 10
   },
   {
-    "id": "39cd3e97d1ac",
-    "title": "5 Phone Carriers Owned By Verizon - SlashGear",
-    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFBOUTBkNUVBdlRZZGZBSXgzeFVLTmlnbElXUjFjOFRxdF9EeENjQWlwTDlUN1E1ZVpieFNEOUtSYVotS1gtSmdMMEpnYkNsd21Va0YyZ3E0OVNLVW94WkRlUnRDU0pnZ2VIVWFBUzZTX05rclhV?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-08-29T04:45:00+00:00",
-    "summary": "5 Phone Carriers Owned By Verizon SlashGear",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "7792d4682034",
     "title": "This Right-Wing Stronghold in Brazil Is Getting Pummeled by Trump’s Tariffs - WSJ",
     "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxOY1dsZE1xdS1NaHQ3R1FqOEVDcHpIRS1oVmRMOTVreldIOEwtUm50U2JFUFFOMWxqcDFpUE9jVnFVTDVUY001akRrdXYzNU8zU0p2Qm5wSHBibzJ2NVFJQ3c2MVhKY3psUDB2TVg4TUJza1hpekkxcW9jQU5BRkl3MDhwZjUzSXpucUtEMTEtUnlyY21kMnZfNUh1VDZOd1F3M0kwbHkwZFdaUkdsYUVGaTZORm40eElZRXc?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-08-29T17:00:00+00:00",
+    "published": "2026-08-29T20:30:50+00:00",
     "summary": "This Right-Wing Stronghold in Brazil Is Getting Pummeled by Trump’s Tariffs WSJ",
     "image_url": null,
     "tags": [],
@@ -1857,5 +1770,90 @@
       "industrial"
     ],
     "relevance_score": 10
+  },
+  {
+    "id": "6be4f08a791f",
+    "title": "Monogram Health to pay $2.4M to settle Medicare Advantage upcoding allegations",
+    "url": "https://www.healthcaredive.com/news/monogram-health-pay-24-million-settle-medicare-advantage-upcoding/828808/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-26T13:12:13+00:00",
+    "summary": "Monogram, a home health company, overcharged Medicare through contracts with Cigna and Humana by inflating diagnostic codes, according to the Justice Department.",
+    "image_url": "https://imgproxy.divecdn.com/cD7FFHtqK_isS-cTzpt0OChKWmYAk2xOKmhgD2sA-zM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDUwODgxNzI0LmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "ac695e7714b0",
+    "title": "US Attorney's Office scandal yields favorable deal for ex-hospital CEO charged with embezzlement",
+    "url": "https://www.fiercehealthcare.com/providers/us-attorneys-office-scandal-yields-favorable-deal-ex-hospital-ceo-charged-embezzlement",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-26T17:26:00+00:00",
+    "summary": "\"You got lucky here,\" a federal judge told George Miller, who was CEO of Loretto Hospital from 2017 to 2022.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2165663502.jpg?VersionId=bRHkAfJ2udDglZzvCMsyawk_HBwEbJyM",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "03fbe90eea41",
+    "title": "Adobe Photoshop adds optional ‘AI Assisted Editor’ mode for fully prompt-based image editing - 9to5Mac",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNZ25hdl8zUUFWWC01Uy0zRVRUNzcxYkZkbG5wS3M2bFFQaFZ1QmJUMjdpcUtKUzd0SDZzV0Nqd2ZXY1N4SVJVM2xUVERLQXM0bWt3eko4Zk9vbWhVajBSb0g5QWlHazlVTWs2VjRDdGxQOUdrdEZrd1ZiMkgwMUZ4M3ZReHc2UjBkQnpsSmpjZm1Pd19yVUN6di1CX1FqeWgwYmYtRHY5X2NQV2R0UzBicWpJZGhkeThUTmhqRzNhMA?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-08-27T13:00:00+00:00",
+    "summary": "Adobe Photoshop adds optional ‘AI Assisted Editor’ mode for fully prompt-based image editing 9to5Mac",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 9,
+    "also_covered_by": [
+      "Adobe Products"
+    ]
+  },
+  {
+    "id": "3269e673c8a6",
+    "title": "Eli Lilly study aims to bolster case for long-term Zepbound benefits",
+    "url": "https://www.fiercehealthcare.com/payers/eli-lilly-study-aims-bolster-case-long-term-zepbound-benefits",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-27T14:49:00+00:00",
+    "summary": "As Medicare's GLP-1 Bridge program gets underway in earnest and questions remain about the long-term use of these drugs, Eli Lilly is offering a new look at how older adults fare on its medication, Zepbound.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/zepboundkwikpens.jpg?VersionId=GoKDHX1TAjAcDUe3FfH8pbC099Z7fmO1",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "175088e7bd00",
+    "title": "A startup claims it’s found a drug to make your blood young",
+    "url": "https://www.technologyreview.com/2026/08/27/1143037/startup-claims-its-found-a-drug-to-make-your-blood-young/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-08-27T19:48:13+00:00",
+    "summary": "I knew I’d officially become a “longevity influencer” this month when a company called Generation Lab reached out to offer me the chance to write about—and even receive—their new rejuvenation treatment, an injectable combination of two existing drugs which they call 1...",
+    "image_url": null,
+    "tags": [
+      "Biotechnology and health",
+      "App"
+    ],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 9
   }
 ]
