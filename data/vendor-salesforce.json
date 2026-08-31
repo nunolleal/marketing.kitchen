@@ -10,7 +10,10 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 43
+    "relevance_score": 39,
+    "also_covered_by": [
+      "Adobe Marketing Cloud"
+    ]
   },
   {
     "id": "252a71ebd706",
@@ -121,6 +124,19 @@
     "relevance_score": 23
   },
   {
+    "id": "e748987c373a",
+    "title": "Claudeforce Could Put Anthropic's AI in Front of Millions of Salesforce Users - Memeburn",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOYzlGMGV3YTZwaGNCUXpUN2w1WDAtdDJqcVBYbURzTTFPdU9FMDdCUFFRal81c2xWZEVLX0pHQURkNWNiMkJZb3dCYmsxWE9PR0gzeFRrZjVXc2YxanlWczdyZGZUU0pqbmcxbTdVQWk2YVN3TGthRlFlVEwzTUVkaDY5UDlCYnhUVmt2amg4YWhtcnM4MWtheVZGTGNwQjQ?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-08-31T03:11:10+00:00",
+    "summary": "Claudeforce Could Put Anthropic's AI in Front of Millions of Salesforce Users Memeburn",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 13
+  },
+  {
     "id": "d025dbd996b2",
     "title": "Salesforce Q2 revenue jumps 11%, launches Claudeforce - No Jitter",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOdlBnVUpyeWFYRnYzc1pWbXdZUHdRRG9KVmhCOEloNEZvbTVkYW9VNFJTOXA4NlFQOEg2QWFPTTVoUWYwU29WVGlMVGpJTjNvZG1VdHg3ZGtabDBuczlrN1dTTVp1azYwd0diZ2FPQkxfd2Jlc19iLU9BUUx0aG5Ybjg1Y3pDU0xBbGQ0S3pqMTh6SmNqZkVBY01aXzRYZE0?oc=5",
@@ -148,21 +164,6 @@
       "industrial"
     ],
     "relevance_score": 12
-  },
-  {
-    "id": "37e27ab83b51",
-    "title": "Salesforce raises fiscal 2027 forecast as Agentforce ARR tops $1.5 billion - MLQ.ai",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmFyOVNoMDRWUmtJWHlTdHBic2NybF9LamY4QVM5V3drNmxSWDFOUUxiX0ROU0RYYUstM3gyZ2hLVHpEa1dVMy1TMzBsVE1iWE9Ld1h5NnlYQ0ZoY0Y5aE1tNklwZTBJVjljSTZSekI3d2RORVZkZHh2U0dkNHhtNXZLYXVDVHdUQ2FQc1BLN2lLU2RNM3N1eQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-08-28T10:09:04+00:00",
-    "summary": "Salesforce raises fiscal 2027 forecast as Agentforce ARR tops $1.5 billion MLQ.ai",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 11
   },
   {
     "id": "4ab71b825ccc",
@@ -221,17 +222,17 @@
     "relevance_score": 10
   },
   {
-    "id": "11b19af8e8ec",
-    "title": "Salesforce Just Forced a 22% Repricing of the AI Software Scare - Money Morning",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQU9iTnFHSVlqUjRiUVBhRVo2RjVzX3JHUkJWOEJUVGxCREU0MFBXanR6ODhadGRXQl96ME9lOHkyX2xWQ0tVQkpMaFQ5QjE0VGVLeEVYNDV4OTZjbV83NWdnNmdQeGE5WmhBb3hNc2d0UXFGbGhhUU1kT3FkSVB6X1JWc3gtcGRpd1BjN2FOWC1pNUJ1RERJTHdyWnFZc1hIWjdj?oc=5",
+    "id": "37e27ab83b51",
+    "title": "Salesforce raises fiscal 2027 forecast as Agentforce ARR tops $1.5 billion - MLQ.ai",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxOZmFyOVNoMDRWUmtJWHlTdHBic2NybF9LamY4QVM5V3drNmxSWDFOUUxiX0ROU0RYYUstM3gyZ2hLVHpEa1dVMy1TMzBsVE1iWE9Ld1h5NnlYQ0ZoY0Y5aE1tNklwZTBJVjljSTZSekI3d2RORVZkZHh2U0dkNHhtNXZLYXVDVHdUQ2FQc1BLN2lLU2RNM3N1eQ?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-08-28T07:56:17+00:00",
-    "summary": "Salesforce Just Forced a 22% Repricing of the AI Software Scare Money Morning",
+    "published": "2026-08-28T10:09:04+00:00",
+    "summary": "Salesforce raises fiscal 2027 forecast as Agentforce ARR tops $1.5 billion MLQ.ai",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech"
+      "industrial"
     ],
     "relevance_score": 10
   },
@@ -260,6 +261,21 @@
     "tags": [],
     "industries": [
       "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "11b19af8e8ec",
+    "title": "Salesforce Just Forced a 22% Repricing of the AI Software Scare - Money Morning",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQU9iTnFHSVlqUjRiUVBhRVo2RjVzX3JHUkJWOEJUVGxCREU0MFBXanR6ODhadGRXQl96ME9lOHkyX2xWQ0tVQkpMaFQ5QjE0VGVLeEVYNDV4OTZjbV83NWdnNmdQeGE5WmhBb3hNc2d0UXFGbGhhUU1kT3FkSVB6X1JWc3gtcGRpd1BjN2FOWC1pNUJ1RERJTHdyWnFZc1hIWjdj?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-08-28T07:56:17+00:00",
+    "summary": "Salesforce Just Forced a 22% Repricing of the AI Software Scare Money Morning",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 9
   },
@@ -322,19 +338,6 @@
     "relevance_score": 8
   },
   {
-    "id": "80f0507417bd",
-    "title": "Salesforce Earnings: Strong Bookings, Second-Half Reacceleration, Positive Anthropic Announcement - Morningstar",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxOTWttOUJ3YkZhejQ5X1RaT1pVdEt1R1JUMzgxQkhFVFlsNWpPSjBCRFJyT1E5MTJMY1NoNFJwSmVNY1Nqa05laXgxZERBWVVXQjIyU1BFS011T3dlc2VGTGQ0cHhCd0xRYTRXa2F3end1dVV0LU1yREJjeVRadWRIRGs5ODQ0WTZPbXhJbzJoMnFNcUNTX3hMV3l4QUYxY2VRa19iZFJwN2U1TEhqS291eXdrYmZORmc2d3hXMFlFVjJsZ0lERTUzeA?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-08-28T14:40:12+00:00",
-    "summary": "Salesforce Earnings: Strong Bookings, Second-Half Reacceleration, Positive Anthropic Announcement Morningstar",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 8
-  },
-  {
     "id": "dd4fedbd6017",
     "title": "Three Perfect Days at Dreamforce — A Marketer’s Guide",
     "url": "https://www.salesforce.com/blog/three-perfect-days-at-dreamforce-a-marketers-guide/",
@@ -345,6 +348,22 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/10/DF25-SF-251015_MA22636.jpg?w=6000",
     "tags": [],
     "industries": [],
+    "relevance_score": 8
+  },
+  {
+    "id": "bffbc1efd8db",
+    "title": "Salesforce, Workday Rack Up AI Contracts by Blending Subscription Fees With Usage-Based Pricing - finance.biggo.com",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5vU2tOeDlTbWhDbUNwWlZDWXFXZUhpT1JzRFJfd3hvZnNlYzZEZEFPTjZ1N250TWJTVU1nN0xqRENTdWxHUUdRbVVCenJDTXhXaGNBWktLNkllazhQUEMxTjI2QU1yTS1vZ3VoNTAyc251SzdTUkE?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-08-29T22:55:00+00:00",
+    "summary": "Salesforce, Workday Rack Up AI Contracts by Blending Subscription Fees With Usage-Based Pricing finance.biggo.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
     "relevance_score": 8
   },
   {
