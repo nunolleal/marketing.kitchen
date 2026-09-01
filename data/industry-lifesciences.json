@@ -28,7 +28,7 @@
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "5c7b0f928f34",
@@ -44,7 +44,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "331c07d03ab2",
@@ -60,26 +60,10 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 15,
+    "relevance_score": 14,
     "also_covered_by": [
       "Biotech"
     ]
-  },
-  {
-    "id": "8978e39047b3",
-    "title": "McKesson confirms cybersecurity incident as hackers claim millions of patient records stolen",
-    "url": "https://www.fiercehealthcare.com/health-tech/mckesson-confirms-cybersecurity-incident-hackers-claim-millions-patient-records-stolen",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-31T17:08:00+00:00",
-    "summary": "Healthcare giant McKesson Corporation confirmed on Friday that it was investigating a cybersecurity incident tied to third-party applications that led to unauthorized access and theft of data.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/data.jpg?VersionId=Lv.wGqC8H1BlZ.8m3wu7_1ssgXLG7zUB",
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 14
   },
   {
     "id": "efbb8d38a28c",
@@ -97,19 +81,26 @@
     "relevance_score": 14
   },
   {
-    "id": "cb102a001fba",
-    "title": "The first 14 days: How specialty programs set patients up for success",
-    "url": "https://www.healthcaredive.com/spons/the-first-14-days-how-specialty-programs-set-patients-up-for-success/828558/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-31T09:00:00+00:00",
-    "summary": "As specialty medicines play a growing role in healthcare, the patient journey that follows is equally critical.",
-    "image_url": null,
-    "tags": [],
+    "id": "11ce8aad832d",
+    "title": "Patients Are Getting Sicker At Younger Ages, And It May Not Slow Down",
+    "url": "https://www.forbes.com/sites/saibala/2026/08/31/patients-are-getting-sicker-at-younger-ages-and-it-may-not-slow-down/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-09-01T00:00:00+00:00",
+    "summary": "Rates of sickness and chronic illness are rising globally.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a942f0a3dba5c6727c1be27/0x0.jpg",
+    "tags": [
+      "Healthcare",
+      "/healthcare",
+      "Innovation",
+      "/innovation",
+      "Healthcare"
+    ],
     "industries": [
+      "industrial",
       "lifesciences"
     ],
-    "relevance_score": 13
+    "relevance_score": 14
   },
   {
     "id": "c5a5ed13b607",
@@ -122,6 +113,22 @@
     "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1629139443/GettyImages-936765434.jpg/GettyImages-936765434.jpg?VersionId=IjhZExfMV6yM0LPR8ruxUTCNMF31odGR",
     "tags": [],
     "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "8978e39047b3",
+    "title": "McKesson confirms cybersecurity incident as hackers claim millions of patient records stolen",
+    "url": "https://www.fiercehealthcare.com/health-tech/mckesson-confirms-cybersecurity-incident-hackers-claim-millions-patient-records-stolen",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-31T17:08:00+00:00",
+    "summary": "Healthcare giant McKesson Corporation confirmed on Friday that it was investigating a cybersecurity incident tied to third-party applications that led to unauthorized access and theft of data.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/data.jpg?VersionId=Lv.wGqC8H1BlZ.8m3wu7_1ssgXLG7zUB",
+    "tags": [],
+    "industries": [
+      "tech",
       "lifesciences"
     ],
     "relevance_score": 13
@@ -143,6 +150,21 @@
     ],
     "industries": [
       "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "cb102a001fba",
+    "title": "The first 14 days: How specialty programs set patients up for success",
+    "url": "https://www.healthcaredive.com/spons/the-first-14-days-how-specialty-programs-set-patients-up-for-success/828558/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-31T09:00:00+00:00",
+    "summary": "As specialty medicines play a growing role in healthcare, the patient journey that follows is equally critical.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
       "lifesciences"
     ],
     "relevance_score": 12
@@ -179,27 +201,12 @@
     "relevance_score": 11
   },
   {
-    "id": "8b4bf678047a",
-    "title": "Health Canada Grants Medical Device License to Route 92 Medical’s Neurovascular Tech - Medical Product Outsourcing",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUxSaXdPNGdRVGN5UWVEOWpveG5CX0F4b0FFcEo3YW90cGxqWldjRVVzT2NaVE1LSGhYVWlncXdhUmQ1Z1VEdExvdWNEYzlHcWNvM1p2NXVFU29zbUtWOFk1cHl3TTlXcUkxRXluMTB6R3JscDRlN2NsMFFVeE5zQ1Q5eExCb0dkdGlraUFvSThzTjg2YjQtWGY4WVltVHNfOXNNRnVpbjl4MnptZHg2SURvRVk3OXZQZm5qVVFVOA?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-31T15:55:42+00:00",
-    "summary": "Health Canada Grants Medical Device License to Route 92 Medical’s Neurovascular Tech Medical Product Outsourcing",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 11
-  },
-  {
     "id": "237bc6cf5452",
     "title": "2026 FDA Approvals: Infectious Disease Vaccines - Contagion Live",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbjFJS0lyN3QtNm8yb1pSVGhENkJzOHJMMzNaNllrWEpMOHVRR1hLOXJpa1dVMDM0RmVHVnpadVZvQWlhNHJiM3VabDdJR1h3dS1MNkhyMF9IelBQWUFWX0dqdC1UVjJKX0JyLWR2azVJa1dJUGNrYkh0TjVtSVQxbHV0Zm5kUGdD?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-08-31T19:03:02+00:00",
+    "published": "2026-08-31T20:48:41+00:00",
     "summary": "2026 FDA Approvals: Infectious Disease Vaccines Contagion Live",
     "image_url": null,
     "tags": [],
@@ -259,6 +266,21 @@
     "relevance_score": 10
   },
   {
+    "id": "8b4bf678047a",
+    "title": "Health Canada Grants Medical Device License to Route 92 Medical’s Neurovascular Tech - Medical Product Outsourcing",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQYUxSaXdPNGdRVGN5UWVEOWpveG5CX0F4b0FFcEo3YW90cGxqWldjRVVzT2NaVE1LSGhYVWlncXdhUmQ1Z1VEdExvdWNEYzlHcWNvM1p2NXVFU29zbUtWOFk1cHl3TTlXcUkxRXluMTB6R3JscDRlN2NsMFFVeE5zQ1Q5eExCb0dkdGlraUFvSThzTjg2YjQtWGY4WVltVHNfOXNNRnVpbjl4MnptZHg2SURvRVk3OXZQZm5qVVFVOA?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-31T15:55:42+00:00",
+    "summary": "Health Canada Grants Medical Device License to Route 92 Medical’s Neurovascular Tech Medical Product Outsourcing",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "ac695e7714b0",
     "title": "US Attorney's Office scandal yields favorable deal for ex-hospital CEO charged with embezzlement",
     "url": "https://www.fiercehealthcare.com/providers/us-attorneys-office-scandal-yields-favorable-deal-ex-hospital-ceo-charged-embezzlement",
@@ -306,10 +328,7 @@
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 9,
-    "also_covered_by": [
-      "Health Tech"
-    ]
+    "relevance_score": 9
   },
   {
     "id": "5f73510a717d",
@@ -463,21 +482,6 @@
     "relevance_score": 8
   },
   {
-    "id": "bb6eec378dbf",
-    "title": "Health systems redesign hospitals with new tech, AI - Modern Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMVpLMjdDcFRVN2tTMl9YTHpuVHdNb3dpb0hxZjFZOTB5RHh0czl2VjdpUkhyM21qUmVfZTQwZVJFVUNEWGlnTzd0UU56ZDRaUy1ReW9ocWxtUkthWk9DMHVOQVJUTUNMSGZpTmc4QXhwRXVxcU9DMDJsZ2dxN2tUeWFnWUtBcnROd1Ezd2ZtdVN1VGlUSEE?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-31T10:00:00+00:00",
-    "summary": "Health systems redesign hospitals with new tech, AI Modern Healthcare",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "9d4715b22188",
     "title": "How to Build Digital Health Platforms in Emerging Markets (SSIR) - Stanford Social Innovation Review",
     "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE9nSmY3Z1JTMDBxakZ0UmVxVDRsSGg1ZnQwbUk0enlqM09oWTdtdFoycUNobTE3NXFNUXYzUml5MTJOSzZFRC1fRmpBQ21HWVdqR3hoLUZUT0FFbXE0cU5McjduLWxqOFRJS0tjQlBVT3pmejZSQTRzVU11NGE?oc=5",
@@ -501,21 +505,6 @@
     "source_category": "industry_lifesciences",
     "published": "2026-08-31T12:15:00+00:00",
     "summary": "How digital health can strengthen breastfeeding support Philips",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "fedf68523734",
-    "title": "On the 'cusp,' PharmaEssentia gains FDA label expansion for Besremi - Fierce Pharma",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNNm5rVkRhdFBDMUtPV054U3Q0ODVURlRPSG5lUzA0dVdJZkVZcVlTWUJmejRIN2ktWm8zbl9ja2VWVE5wWk15VE14R1VXU2dFTUZkUy04bXFGRnZTLWtfVnR3VTdBd3BvdkJqQTZWdzJCYVEzalVOTFV5QmdmV1pWOVNIQm1KMXdaRjRQU0RqWHp5b28?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-31T12:25:00+00:00",
-    "summary": "On the 'cusp,' PharmaEssentia gains FDA label expansion for Besremi Fierce Pharma",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -610,12 +599,12 @@
   },
   {
     "id": "f46d6e95fddc",
-    "title": "Takeda Secures FDA Approval of MIMRYLO for Polycythemia Vera Treatment - worldbusinessoutlook.com",
+    "title": "Takeda Secures FDA Approval of MIMRYLO for Polycythemia Vera Treatment - World Business Outlook",
     "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxQOVJoTlFMVzI3bWFmTkFwMzVJVVNBMm10VmJfbGIzdHp3OV82SHRqQ1U2bnFFLS1vWXAtRnEzRUFfZUhxZGJXb29vdU5makQ0eUNVaW9zNDBURHlxdnA3ZDZGWFl4YllUbDdEUDgzRDRxWktIbWR3WXNPTkZUV0ZCYlM2U205OTdUZWJmejBCWFQwdzBpMEdRRGtwbTVRbmN5bTlKc1N6Yw?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
     "published": "2026-08-31T07:08:07+00:00",
-    "summary": "Takeda Secures FDA Approval of MIMRYLO for Polycythemia Vera Treatment worldbusinessoutlook.com",
+    "summary": "Takeda Secures FDA Approval of MIMRYLO for Polycythemia Vera Treatment World Business Outlook",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -632,6 +621,21 @@
     "source_category": "industry_lifesciences",
     "published": "2026-08-31T07:15:37+00:00",
     "summary": "Docs Want AI Comp, Oura in the Hot Seat, and the Evidence on OpenEvidence Digital Health Wire",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "bb6eec378dbf",
+    "title": "Health systems redesign hospitals with new tech, AI - Modern Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOMVpLMjdDcFRVN2tTMl9YTHpuVHdNb3dpb0hxZjFZOTB5RHh0czl2VjdpUkhyM21qUmVfZTQwZVJFVUNEWGlnTzd0UU56ZDRaUy1ReW9ocWxtUkthWk9DMHVOQVJUTUNMSGZpTmc4QXhwRXVxcU9DMDJsZ2dxN2tUeWFnWUtBcnROd1Ezd2ZtdVN1VGlUSEE?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-31T10:00:00+00:00",
+    "summary": "Health systems redesign hospitals with new tech, AI Modern Healthcare",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -687,21 +691,6 @@
     "relevance_score": 6
   },
   {
-    "id": "acb858ab4ed5",
-    "title": "Taiwan to launch Health Coins as new digital health governance model - Digital Watch Observatory",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHR6WHFvZVFKeGhvTmlTMmZZRjZMVlZ2cXQwMkpYRUFOeHlNMVprWEZ0OGlaNnpmbWI1LXFHMVZIMTR0VWV1NjJFSURzVmhOSEllMEtscGVjdlFONWk3ZFlJaVhVT3VtSlkzWnZkMVg4REpTdk5EOENzLWx4LVRQWVBweXczVERsTFp4YTFmNF8zMGVRRGREZU5R?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-29T01:24:00+00:00",
-    "summary": "Taiwan to launch Health Coins as new digital health governance model Digital Watch Observatory",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 6
-  },
-  {
     "id": "b41d01887090",
     "title": "FDA approves daraxonrasib for patients with metastatic pancreatic cancer - News-Medical",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSmNBT2M1dDZJcnVEQjRWY3VpaE85SHRya1I4TTJkc2F0MFBySGpFNVdSSmhEa1IxWlY5dlRZamxTZTF1Zy1jVnJtX1lEOG1ZZnlUbk9pSjIxcHBac1pZWi01ODJrTXN1VFFJVHhvTjcxeGJsOHA1eGNWRkZCczlJdkE4Vmt6N3c5MGZ3aWF1WnZkbkR2TjJzbDNPaXFOdTJaZFRENGVqRExlak9RSldqNS1BYk11MzBpT0ZqNg?oc=5",
@@ -734,12 +723,12 @@
   },
   {
     "id": "51dd368384dc",
-    "title": "FDA approves Protagonist and Takeda’s drug for rare blood cancer - STAT",
+    "title": "FDA approves Protagonist and Takeda’s drug for rare blood cancer - statnews.com",
     "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNHRRVlBCaXcwOFZaQk52OVdtOGE5OXo4ZVA2RGJyeWVmcXdCbHFQaENRYm1JWFVlVDNyZ1p5LVZNX3ZUZjNDOW5iekcwSlBMX1hJdU41MkxoVzVGYXFsM0txbHBPT2RBSFdxeFZMb05NblE0VVdYY2NDTTh2TFZ3WDdtcmF3V0hHMHVJSFlzU0ZEbi1EX2pSTWc1VDRJeVlLb1Z2a2tmbURnM1Jw?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
     "published": "2026-08-30T19:26:15+00:00",
-    "summary": "FDA approves Protagonist and Takeda’s drug for rare blood cancer STAT",
+    "summary": "FDA approves Protagonist and Takeda’s drug for rare blood cancer statnews.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -750,12 +739,12 @@
   },
   {
     "id": "b3c1046ad069",
-    "title": "FDA promises new AI guidance, and what happened at Epic’s UGM - STAT",
+    "title": "FDA promises new AI guidance, and what happened at Epic’s UGM - statnews.com",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNd3dVTExxNVJSM0I3bWQ3TE1XOU9tRHdkSVdCNXdXNnZ5bkMwRDktM0g0cFRqYzZFa0ZEeXZfYzA3aVYtaVlzZVFYUFVWU3Y0bERGTWJsaWljbzVNVGF1YVdjVnowMG5oRVdTdHg5Tlp6MnktMV8xbUlJYjBJR3RTZ1pBejBTZDFXbWwycW1raw?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
     "published": "2026-08-25T15:50:44+00:00",
-    "summary": "FDA promises new AI guidance, and what happened at Epic’s UGM STAT",
+    "summary": "FDA promises new AI guidance, and what happened at Epic’s UGM statnews.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -783,6 +772,22 @@
     "relevance_score": 5
   },
   {
+    "id": "f97707af4f2a",
+    "title": "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNcDFUdlNabS1QTHFtUXBVNTVmczg5dmFGYVMzSlViVFRWRG1sTzZ1YWg4RnFyZndPZVBlUDhLZ1NMbHZSSTNGUmFmSmpmNVlhc1V0ZXhVbGdrWVVVOUY2dTFkU1VLMjNpN1lPbjNsN3BQcHVLczhaTDVsUnBfQnd5b21nYWxjZlMxdkc0SFdWVU0?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-26T15:23:53+00:00",
+    "summary": "F.D.A. Approves Drug Poised to Transform Care for Pancreatic Cancer The New York Times",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
     "id": "e233791ae527",
     "title": "FDA Approves RASONQUE™ (daraxonrasib) - Pancreatic Cancer Action Network",
     "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTFBXVTEyUmZaMXRsRDdaclU0M01vSjVlcTIweWNpcDdoc3Z5YUJGa015UXNIRlBZcGx1SEVITzAtZlhsWGNBcl81WDZwWDljd291VWg5Tkg4S19jNGNFRm1lbzJ6THQtTVdZelVN?oc=5",
@@ -794,23 +799,6 @@
     "tags": [],
     "industries": [
       "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "27f030b03eb6",
-    "title": "Roche nabs expanded FDA approval for diagnostic tied to Jazz’s cancer drug - Fierce Biotech",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM3pCV3htUk9FeUROWDBFMnRiN1M3M2lieHRrTEZ4akUzaVRvamRWRGhIWFk1REc2WFBwbTI5QnViQS1ETFF5RWdnbGxwSjhDWnRxYnRRTExVNGRia19hZmZra0VzeDk1THpJaHJ1b0c1eTJDaGFCSl9NMHJqeWcteGRvUlRENUxJbFZFNjFTa3hJalR2Q0JrN0Q5MkVzUW1OZzBFbTZNdU9TZw?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-27T12:00:00+00:00",
-    "summary": "Roche nabs expanded FDA approval for diagnostic tied to Jazz’s cancer drug Fierce Biotech",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 5
@@ -863,17 +851,16 @@
     "relevance_score": 5
   },
   {
-    "id": "31322c05d35d",
-    "title": "FDA Approves Rusfertide for Polycythemia Vera - OncLive",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MYkRhTm81VlpWTDljV00tUTRydkVqcWJpN2tpejQ1NjNvZXZrcTVINmI3WE81MUdUSlRWY2k2TkxJOVU1WlhvVV80VW5EcnhJY01XbFFXT2VIM29LTkJJcVJNRGNhN2VSX2VFNXVMZFRkRF91dzROY09DSmZJdW8?oc=5",
-    "source": "Biotech",
+    "id": "acb858ab4ed5",
+    "title": "Taiwan to launch Health Coins as new digital health governance model - Digital Watch Observatory",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNeHR6WHFvZVFKeGhvTmlTMmZZRjZMVlZ2cXQwMkpYRUFOeHlNMVprWEZ0OGlaNnpmbWI1LXFHMVZIMTR0VWV1NjJFSURzVmhOSEllMEtscGVjdlFONWk3ZFlJaVhVT3VtSlkzWnZkMVg4REpTdk5EOENzLWx4LVRQWVBweXczVERsTFp4YTFmNF8zMGVRRGREZU5R?oc=5",
+    "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-08-29T01:42:13+00:00",
-    "summary": "FDA Approves Rusfertide for Polycythemia Vera OncLive",
+    "published": "2026-08-29T01:24:00+00:00",
+    "summary": "Taiwan to launch Health Coins as new digital health governance model Digital Watch Observatory",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
       "lifesciences"
     ],
     "relevance_score": 5
