@@ -222,25 +222,8 @@
     ],
     "relevance_score": 34,
     "also_covered_by": [
-      "Adobe",
-      "Telecom Digital"
+      "Adobe"
     ]
-  },
-  {
-    "id": "6683b68ca213",
-    "title": "Marketing technology platforms need to balance AI with human expertise - The Media Online",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQWHVkYUZ2SzYtTkZuUTVDUGQ2SGRIR2JVdjAzMmVhaGV5RzB6c2FoSndYRWsyaklUN3ExdVFHWVVXS0Z2UlhfTFZiT1lOb3Y2dnJCRG53QjAwTUJOVFFkcThRSGluR2VOVUVPLU1jR09kM2NiY1pVa05LQWFXQzhLejZUQ0IxVXRWRHJZMWlUeXRXVFRrR0pqX2c1cmZYb05hUDUwRjM0Z1VaWVZh?oc=5",
-    "source": "MarTech",
-    "source_category": "martech",
-    "published": "2026-08-27T04:45:45+00:00",
-    "summary": "Marketing technology platforms need to balance AI with human expertise The Media Online",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "tech"
-    ],
-    "relevance_score": 32
   },
   {
     "id": "62c63c7c9aa0",
@@ -305,8 +288,9 @@
     "image_url": "https://techcrunch.com/wp-content/uploads/2023/10/GettyImages-1569337822.jpg?resize=1200,800",
     "tags": [
       "AI",
-      "TC",
-      "Venture"
+      "Venture",
+      "In Brief",
+      "Y Combinator"
     ],
     "industries": [
       "tech"
@@ -331,7 +315,29 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 19
+    "relevance_score": 18
+  },
+  {
+    "id": "d90573234ae3",
+    "title": "Google needs Hollywood more than the studios need AI",
+    "url": "https://www.theverge.com/tech/987429/google-needs-hollywood-more-than-the-studios-need-ai",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-09-01T22:50:29+00:00",
+    "summary": "Google has reportedly been reaching out to a number of Hollywood's biggest studios, hoping to strike licensing agreements that would allow it to train its AI models on copyrighted material in exchange for massive piles of cash. In theory, these deals would be a win-win: a...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/ai-label-3.jpg?quality=90&amp;strip=all&amp;crop=0%2C12.885618424569%2C100%2C74.228763150863&amp;w=1200",
+    "tags": [
+      "AI",
+      "Analysis",
+      "Disney",
+      "Entertainment",
+      "Film"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 18
   },
   {
     "id": "7680bcf78a62",
@@ -353,7 +359,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
     "id": "1c88dc715df6",
@@ -374,51 +380,31 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 18
-  },
-  {
-    "id": "367c267d82ad",
-    "title": "Apple Maps follows Google in renaming Lake Ontario",
-    "url": "https://www.theverge.com/tech/987784/apple-maps-lake-america-renaming",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-09-01T21:22:56+00:00",
-    "summary": "Apple Maps has officially changed the name of Lake Ontario to Lake America, as reported earlier by Bloomberg. The company joins Google in re-labeling the Great Lake following an executive order signed by President Donald Trump in the midst of a trade dispute with Canada. The...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/apple-maps-lake-america.png?quality=90&amp;strip=all&amp;crop=0%2C2.9046318795561%2C100%2C94.190736240888&amp;w=1200",
-    "tags": [
-      "Apple",
-      "Apps",
-      "News",
-      "Policy",
-      "Politics"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 18
-  },
-  {
-    "id": "e4c6ad084054",
-    "title": "Google’s Android update tackles motion sickness, accessibility, and more",
-    "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-09-01T20:53:05+00:00",
-    "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/MotionAssist-Google.png?w=1200",
-    "tags": [
-      "AI",
-      "Apps",
-      "Hardware",
-      "Android",
-      "Google"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
     "relevance_score": 17
+  },
+  {
+    "id": "6dba7e078442",
+    "title": "Apple Maps Joins Google Maps In Renaming Lake Ontario ‘Lake America’",
+    "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/09/01/apple-maps-joins-google-maps-in-renaming-lake-ontario-lake-america/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-09-01T22:04:59+00:00",
+    "summary": "President Donald Trump signed an executive order last week renaming Lake Ontario to “Lake America” amid a trade war with Canada.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a974bc5c5e0f5911fe59101/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 17,
+    "also_covered_by": [
+      "The Verge"
+    ]
   },
   {
     "id": "4e621b47d1e8",
@@ -464,120 +450,20 @@
     "relevance_score": 16
   },
   {
-    "id": "c6d1166e74fa",
-    "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
-    "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+    "id": "e4c6ad084054",
+    "title": "Google’s Android update tackles motion sickness, accessibility, and more",
+    "url": "https://techcrunch.com/2026/09/01/googles-android-update-tackles-motion-sickness-accessibility-and-more/",
     "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-09-01T15:45:51+00:00",
-    "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Yair-Saban-and-Niv-Hoffman.-Credit-Netanel-Tobias.jpeg?resize=1200,798",
-    "tags": [
-      "AI",
-      "Security",
-      "Startups",
-      "AI agents",
-      "ai security"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "239e2a8c2c65",
-    "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
-    "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-09-01T16:31:04+00:00",
-    "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1273058761.jpg?resize=1200,844",
-    "tags": [
-      "AI",
-      "Enterprise",
-      "Startups",
-      "Sequoia Capital",
-      "SREs"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "49d8f8bb06ff",
-    "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
-    "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-09-01T17:35:37+00:00",
-    "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/google-pics.webp?resize=1200,675",
+    "published": "2026-09-01T20:53:05+00:00",
+    "summary": "While some of the features see Google playing catch-up to Apple, which already offers similar features for iPhone users, others specifically leverage Gemini to provide various improvements.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/MotionAssist-Google.png?w=1200",
     "tags": [
       "AI",
       "Apps",
-      "canva",
-      "Google"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "baa2e5da7661",
-    "title": "Google Find Hub will soon help you locate things without a tracker",
-    "url": "https://www.theverge.com/tech/987339/google-september-android-drop-motion-assist-gemini-find-hub",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-09-01T18:00:00+00:00",
-    "summary": "Google announced new features coming to Android devices as part of this month's feature drop update. Among the highlights are the introduction of Motion Assist - Android's version of Apple's Motion Cues feature, which tries to reduce motion sickness by overlaying dots on your...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/findhub.jpg?quality=90&amp;strip=all&amp;crop=0,10.732984293194,100,78.534031413613",
-    "tags": [
+      "Hardware",
       "Android",
-      "Google",
-      "News",
-      "Tech"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "78f5b18132c5",
-    "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-09-01T19:02:54+00:00",
-    "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "Security",
-      "Tech"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "968a1c0e78d2",
-    "title": "Frontier models can recover up to 65% of facts they can't directly recall — just by thinking longer",
-    "url": "https://venturebeat.com/orchestration/frontier-models-can-recover-up-to-65-of-facts-they-cant-directly-recall-just-by-thinking-longer",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-09-01T19:20:09+00:00",
-    "summary": "When large language models (LLMs) hallucinate, developers typically assume the model lacks the required facts. Engineering teams diagnose the error as missing knowledge. The standard response is to increase model size, expand training data, or build complex retrieval...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2hiACWj4cDtrruFD5zWlbH/bf30942d847e90d079cf3c9cb02273fc/Lost_keys_and_empty_shelves.jpg?w=300&q=30",
-    "tags": [
-      "Orchestration"
+      "Google"
     ],
     "industries": [
       "tech",
@@ -586,42 +472,15 @@
     "relevance_score": 16
   },
   {
-    "id": "51eb33c1e5a7",
-    "title": "The Iconic Huey Helicopter Is Disappearing. Enter The Agile Grey Wolf.",
-    "url": "https://www.forbes.com/sites/zitaballingerfletcher/2026/09/01/the-iconic-huey-helicopter-is-disappearing-enter-the-agile-grey-wolf/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-09-01T19:38:03+00:00",
-    "summary": "The U.S. Air Force Global Strike Command is replacing Vietnam-era Hueys with the ultramodern Grey Wolf helicopter as the U.S. overhauls key nuclear missile launch sites.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a95cae17ce780f8ffe82e20/0x0.jpg",
-    "tags": [
-      "Aerospace & Defense",
-      "/aerospace-defense",
-      "Business",
-      "/business",
-      "Aerospace & Defense"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "17bfc284e643",
-    "title": "On first listen, the Sonos Beam Ultra sounds great",
-    "url": "https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-09-01T20:08:38+00:00",
-    "summary": "Sonos unveiled a bunch of new stuff today at its open house event. There's the $699 Beam Ultra soundbar and the $449 Ace Ultra headphones, plus several under-the-hood app updates (some coming sooner than others). While the show floor was a less than ideal venue to judge audio...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/beamultra1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.737798197289%2C100%2C78.524403605422&amp;w=1200",
-    "tags": [
-      "Hands-on",
-      "Reviews",
-      "Sonos",
-      "Speakers",
-      "Tech"
-    ],
+    "id": "6f03fae21e32",
+    "title": "Operational Intelligence: Turning Enterprise Data Into Enterprise Decisions with AI",
+    "url": "https://www.salesforce.com/blog/operational-intelligence/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-09-01T23:53:58+00:00",
+    "summary": "Back when I joined Salesforce, one of the first things that struck me was the sheer ambition of our engineering organization. Fifteen thousand engineers shipping software across a portfolio of products that millions…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/225378C9-FC43-4805-9278-1A7DEDBD26B4.png",
+    "tags": [],
     "industries": [
       "tech",
       "industrial"
@@ -768,6 +627,185 @@
     "relevance_score": 15
   },
   {
+    "id": "c6d1166e74fa",
+    "title": "AIR raises $50M to help companies vet the skills and add-ons AI agents use",
+    "url": "https://techcrunch.com/2026/09/01/air-raises-50m-to-help-companies-vet-the-skills-and-add-ons-ai-agents-use/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-09-01T15:45:51+00:00",
+    "summary": "AIR's platform can discover agents running at a company, continuously vets any skills and add-ons they use, and blocks any unwanted behavior.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Yair-Saban-and-Niv-Hoffman.-Credit-Netanel-Tobias.jpeg?resize=1200,798",
+    "tags": [
+      "AI",
+      "Security",
+      "Startups",
+      "AI agents",
+      "ai security"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "239e2a8c2c65",
+    "title": "Sequoia-incubated Empirik launches with $21M to predict outages before they happen",
+    "url": "https://techcrunch.com/2026/09/01/sequoia-incubated-empirik-launches-with-21m-to-predict-outages-before-they-happen/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-09-01T16:31:04+00:00",
+    "summary": "The startup wants to do for IT infrastructure what Cursor did for software engineering.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/08/GettyImages-1273058761.jpg?resize=1200,844",
+    "tags": [
+      "AI",
+      "Enterprise",
+      "Startups",
+      "Sequoia Capital",
+      "SREs"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "49d8f8bb06ff",
+    "title": "Google’s answer to Canva is an AI tool where you prompt instead of design",
+    "url": "https://techcrunch.com/2026/09/01/googles-answer-to-canva-is-an-ai-tool-where-you-prompt-instead-of-design/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-09-01T17:35:37+00:00",
+    "summary": "With Google Pics, Google is pushing deeper into the creative software market dominated by Canva and Adobe, but with a distinctly AI-first approach.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/google-pics.webp?resize=1200,675",
+    "tags": [
+      "AI",
+      "Apps",
+      "canva",
+      "Google"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "78f5b18132c5",
+    "title": "The rise of AI ‘civilizations’ and the fall of corporate responsibility",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/987566/ai-civilizations-opeai-hugging-face-hack",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-09-01T19:02:54+00:00",
+    "summary": "Depending on who you ask, developer platform Hugging Face was recently attacked by OpenAI - after it lost control of its own AI tools - or by a succession of AI \"civilizations.\" Welcome to the linguistic battlefield of AI safety, where word choices can shift responsibility...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318435/akrales_220309_4977_0232.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "Security",
+      "Tech"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "968a1c0e78d2",
+    "title": "Frontier models can recover up to 65% of facts they can't directly recall — just by thinking longer",
+    "url": "https://venturebeat.com/orchestration/frontier-models-can-recover-up-to-65-of-facts-they-cant-directly-recall-just-by-thinking-longer",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-09-01T19:20:09+00:00",
+    "summary": "When large language models (LLMs) hallucinate, developers typically assume the model lacks the required facts. Engineering teams diagnose the error as missing knowledge. The standard response is to increase model size, expand training data, or build complex retrieval...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/2hiACWj4cDtrruFD5zWlbH/bf30942d847e90d079cf3c9cb02273fc/Lost_keys_and_empty_shelves.jpg?w=300&q=30",
+    "tags": [
+      "Orchestration"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "51eb33c1e5a7",
+    "title": "The Iconic Huey Helicopter Is Disappearing. Enter The Agile Grey Wolf.",
+    "url": "https://www.forbes.com/sites/zitaballingerfletcher/2026/09/01/the-iconic-huey-helicopter-is-disappearing-enter-the-agile-grey-wolf/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-09-01T19:38:03+00:00",
+    "summary": "The U.S. Air Force Global Strike Command is replacing Vietnam-era Hueys with the ultramodern Grey Wolf helicopter as the U.S. overhauls key nuclear missile launch sites.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a95cae17ce780f8ffe82e20/0x0.jpg",
+    "tags": [
+      "Aerospace & Defense",
+      "/aerospace-defense",
+      "Business",
+      "/business",
+      "Aerospace & Defense"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "17bfc284e643",
+    "title": "On first listen, the Sonos Beam Ultra sounds great",
+    "url": "https://www.theverge.com/tech/987574/sonos-beam-ultra-first-listen",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-09-01T20:08:38+00:00",
+    "summary": "Sonos unveiled a bunch of new stuff today at its open house event. There's the $699 Beam Ultra soundbar and the $449 Ace Ultra headphones, plus several under-the-hood app updates (some coming sooner than others). While the show floor was a less than ideal venue to judge audio...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/beamultra1.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.737798197289%2C100%2C78.524403605422&amp;w=1200",
+    "tags": [
+      "Hands-on",
+      "Reviews",
+      "Sonos",
+      "Speakers",
+      "Tech"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "e39df0351ea9",
+    "title": "Adobe Camera Raw 18.6 adds a Glow tool with diffusion, bloom and halation – applied to Raw images - Yahoo Tech",
+    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQMlk0aVM3NzdYZDR2elY1OWYtajlIMGxDMzZ5TVlzRV9QaVQ3cThqWGd1UWdNTW1Zay0tYS1INmg1LUMtZGxzMmJZMjg4dTVsZ0NTLV9KelpYUTBDVjdVRGZoMHZiVjNnQTJkdjRGbXpNeV90Sml5S1lfczhoVUhsRG9B?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-09-01T23:07:20+00:00",
+    "summary": "Adobe Camera Raw 18.6 adds a Glow tool with diffusion, bloom and halation – applied to Raw images Yahoo Tech",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "903a0e2a78bf",
+    "title": "Q2 Rundown: Adobe (NASDAQ:ADBE) Vs Other Design Software Stocks - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQTGgyT21yNEQ2cXFaM3hlenVfdG50QnVncHhmTjY3ZGVLT0dTRG93RzVmQkxnNEpWUUh1LU9YNlZ6X25Kcl9WRlk1czlqY3BwVmZ4SUFzZWlpZGIxbndjaDUtTG1qcU1HY3NpTE1LZWFmU0hFaHZwWUNlSGZsVmg5bnVRcW4xTWdnTlUxWUNTcHNJVnZ3QkNLLQ?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-09-01T16:42:20+00:00",
+    "summary": "Q2 Rundown: Adobe (NASDAQ:ADBE) Vs Other Design Software Stocks Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 14,
+    "also_covered_by": [
+      "Adobe Inc"
+    ]
+  },
+  {
     "id": "f4b6b9ea91c5",
     "title": "Bank Of America Vice President Fatally Stabbed In Times Square—What We Know",
     "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/09/01/bank-of-america-vice-president-fatally-stabbed-in-times-square-what-we-know/",
@@ -789,7 +827,10 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14,
+    "also_covered_by": [
+      "Wall Street"
+    ]
   },
   {
     "id": "682bbe391b4e",
@@ -805,7 +846,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "62f70290f12b",
@@ -823,76 +864,17 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 15
-  },
-  {
-    "id": "b0ee4c6fde08",
-    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
-    "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-09-01T00:13:00+00:00",
-    "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2255009714.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Apple",
-      "OpenAI"
-    ],
-    "industries": [
-      "tech"
-    ],
     "relevance_score": 14
   },
   {
-    "id": "ada24a04a77b",
-    "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
-    "url": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-09-01T14:40:00+00:00",
-    "summary": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in.",
-    "image_url": "https://media.wired.com/photos/6a95b91888d28650c3255bcd/master/pass/Sonos%20Ace%20Ultra%201.JPG",
-    "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Headphones",
-      "Gear / Products / Speakers",
-      "Gear / Products / Audio"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "00472318ce4b",
-    "title": "Your files stay put: Perplexity’s hybrid AI keeps confidential data off the cloud",
-    "url": "https://venturebeat.com/orchestration/your-files-stay-put-perplexitys-hybrid-ai-keeps-confidential-data-off-the-cloud",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-09-01T15:00:00+00:00",
-    "summary": "Perplexity today launched hybrid compute for its agentic platform, Computer , a system that lets a single AI agent split its work between frontier models running in the cloud and smaller open-weight models running locally on Apple silicon Macs — routing sensitive data to the...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5dDOCpRyaFusHgFd5h9h8a/4b634ce6049baafe49c72614ace3a8a8/Nuneybits_Vector_art_of_lone_figure_confronting_fragmented_clou_e6f1c924-f33c-4829-8924-c3ff7fdd95c1.webp?w=300&q=30",
-    "tags": [
-      "Orchestration"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "9ee78700480d",
-    "title": "Adobe just released a Premiere beta for Android, but Googlebook will need much more - Chrome Unboxed",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSjBZYzl3TGVwQ1RjbE5xV1NDelItSms0ZFdHME5rdlJnWk5adDhTTzBQQVU0UDM4T1VDUmgxTVUwd0t2NzlhRXZiR1REZFdKNVI2b1B2YTB2REVEd2kwN09wazNyMlRRaThSLUY3VHlZc1VFT0tnTzViSnhHTEdzWUVUUzlNbUdFMHZzOVZhSTZBN1N1bnFiaDFHajlkQ09JblVIV1hsR1pOYlk2eHc?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-09-01T18:47:13+00:00",
-    "summary": "Adobe just released a Premiere beta for Android, but Googlebook will need much more Chrome Unboxed",
-    "image_url": null,
+    "id": "b3053c143d85",
+    "title": "From Adoption to Business Value: What Customer Success Really Means",
+    "url": "https://www.salesforce.com/blog/customer-success-business-value/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-09-01T22:45:42+00:00",
+    "summary": "You have invested in technology. Your teams have been trained. Your platform is live. So, how do you know whether you are actually successful? That is where Customer Success comes in. Customer Success…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/AdobeStock_1529236120.jpg",
     "tags": [],
     "industries": [
       "tech"
@@ -976,6 +958,43 @@
     "relevance_score": 13
   },
   {
+    "id": "ada24a04a77b",
+    "title": "Sonos Ace Ultra, Beam Ultra, Sonos Fabric, and a New App: Everything Sonos Just Announced",
+    "url": "https://www.wired.com/story/sonos-has-new-devices-a-new-os-and-yes-a-new-app/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-09-01T14:40:00+00:00",
+    "summary": "Sonos is cramming AI into its software because it’s “very hot these days.” The new features, which include agentic automation, are opt-in.",
+    "image_url": "https://media.wired.com/photos/6a95b91888d28650c3255bcd/master/pass/Sonos%20Ace%20Ultra%201.JPG",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Headphones",
+      "Gear / Products / Speakers",
+      "Gear / Products / Audio"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "8f281508b9d9",
+    "title": "European Commission Approves T-DXd Plus Pertuzumab for First-Line HER2+ Metastatic Breast Cancer - OncLive",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxNNENScVdyaVozTHZFN1Y2aHFHZExLWGQ2UWFBamtxUVQwYXdmN2EzSFZRS1JnZHhzYzdFMmM0bUVNaVE1LTdHM1Fad3M4T1NVSjZ4LWhZY2FDVC1hR1FZRTNwdXdVbVpkVmtZa0w1VHVic3plWVRabjBIa1dtMVM1Q1FFX0hYVVVUMVJvN2JNcmRxZUVMREtqVURpYWpaTDVvWS1zVjl0aldyOXpKS05WblBHVWRRcm9aenhRR3BzQXExUQ?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-09-01T16:26:59+00:00",
+    "summary": "European Commission Approves T-DXd Plus Pertuzumab for First-Line HER2+ Metastatic Breast Cancer OncLive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 13
+  },
+  {
     "id": "77e651c0246f",
     "title": "The Pentagon now has its own version of ChatGPT and Grok",
     "url": "https://techcrunch.com/2026/08/31/the-pentagon-now-has-its-own-version-of-chatgpt-and-grok/",
@@ -996,50 +1015,56 @@
     "relevance_score": 12
   },
   {
-    "id": "51f016b37f8b",
-    "title": "LEAP 2026 Discusses Future of Financial Technology, Its Role in Digital Economy Growth - وكالة الأنباء السعودية",
-    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAwY3NFRTIwZ2ZUeld2M1dRUmtTV2hKLTk0eUlzRWNldlFTM1pjZ3BUQy1MQkN4S2tIaDlPaE94S0dQTjlETTAtMnVn?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-09-01T15:23:44+00:00",
-    "summary": "LEAP 2026 Discusses Future of Financial Technology, Its Role in Digital Economy Growth وكالة الأنباء السعودية",
-    "image_url": null,
-    "tags": [],
+    "id": "b0ee4c6fde08",
+    "title": "Apple shares ‘shocking evidence’ against former employee accused of stealing company data for OpenAI",
+    "url": "https://techcrunch.com/2026/08/31/apple-shares-shocking-evidence-against-former-employee-accused-of-stealing-company-data-for-openai/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-09-01T00:13:00+00:00",
+    "summary": "Apple says it has evidence that a former employee destroyed evidence of data theft after learning he was under investigation.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/04/GettyImages-2255009714.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Apple",
+      "OpenAI"
+    ],
     "industries": [
       "tech"
     ],
     "relevance_score": 12
   },
   {
-    "id": "ca4375f44d9d",
-    "title": "Meet Google Pics, a new tool to rival Canva, Adobe Express, and Microsoft Designer - neowin.net",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcW5CMHRLc3ZDeWo4b1lvUHlXWFNacXVGMks2M1huZldlUTk4aFZBd3VVN1cwcGN3MGxIN0Jvc1doSGFsWmNTZGU0NFF0emhIMWNyR2VQeE9Sd0FaaGlZRzFEcHFuZ3BmQmNkNTFNdjJUX2RJVkJFQVpvTVFvTV9LMTBRbWVqNGhVR01nUG5VenRwZW5yQnpudEd1X0FULUxXUXpUN3I0RTRQeF9f?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-09-01T17:20:00+00:00",
-    "summary": "Meet Google Pics, a new tool to rival Canva, Adobe Express, and Microsoft Designer neowin.net",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
+    "id": "00472318ce4b",
+    "title": "Your files stay put: Perplexity’s hybrid AI keeps confidential data off the cloud",
+    "url": "https://venturebeat.com/orchestration/your-files-stay-put-perplexitys-hybrid-ai-keeps-confidential-data-off-the-cloud",
+    "source": "VentureBeat",
+    "source_category": "ai",
+    "published": "2026-09-01T15:00:00+00:00",
+    "summary": "Perplexity today launched hybrid compute for its agentic platform, Computer , a system that lets a single AI agent split its work between frontier models running in the cloud and smaller open-weight models running locally on Apple silicon Macs — routing sensitive data to the...",
+    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5dDOCpRyaFusHgFd5h9h8a/4b634ce6049baafe49c72614ace3a8a8/Nuneybits_Vector_art_of_lone_figure_confronting_fragmented_clou_e6f1c924-f33c-4829-8924-c3ff7fdd95c1.webp?w=300&q=30",
+    "tags": [
+      "Orchestration"
     ],
-    "relevance_score": 12
-  },
-  {
-    "id": "978a276a2ebf",
-    "title": "Salesforce Stock Soars 23% on Real Agentforce Growth, Not Just Anthropic Gains - startupfortune.com",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOby1sMjZQM1cxQmFzWmpoWVBBdVc4eF9nVHZ5UDNpUXc1bGVDS1owM09UVXN2d056R3g3ODRXbG5JTlJzVER2cUZGZGVXY0RoODhUMTdXYmhkbXZxV2lsd1dlUFBEVjlNUnQ5VlMxMmo2S05nMmRfQ1JfLVBWa2ZzYWl2RkNJYXk2Yk9wZzRZMFFGRmFGNk1VRGFvU0NreHlibmpLLTBGOA?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-08-29T22:53:26+00:00",
-    "summary": "Salesforce Stock Soars 23% on Real Agentforce Growth, Not Just Anthropic Gains startupfortune.com",
-    "image_url": null,
-    "tags": [],
     "industries": [
       "tech",
       "industrial"
     ],
-    "relevance_score": 11
+    "relevance_score": 12
+  },
+  {
+    "id": "9ee78700480d",
+    "title": "Adobe just released a Premiere beta for Android, but Googlebook will need much more - Chrome Unboxed",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSjBZYzl3TGVwQ1RjbE5xV1NDelItSms0ZFdHME5rdlJnWk5adDhTTzBQQVU0UDM4T1VDUmgxTVUwd0t2NzlhRXZiR1REZFdKNVI2b1B2YTB2REVEd2kwN09wazNyMlRRaThSLUY3VHlZc1VFT0tnTzViSnhHTEdzWUVUUzlNbUdFMHZzOVZhSTZBN1N1bnFiaDFHajlkQ09JblVIV1hsR1pOYlk2eHc?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-09-01T18:47:13+00:00",
+    "summary": "Adobe just released a Premiere beta for Android, but Googlebook will need much more Chrome Unboxed",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 12
   },
   {
     "id": "dd118be5bdc6",
@@ -1075,30 +1100,28 @@
     "relevance_score": 11
   },
   {
-    "id": "e6275cbc6be4",
-    "title": "Citi raises Adobe stock price target on software multiples - Investing.com",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU0VodDhWUzhWOGJpZmgwR2JxVWNGWkRFcjVORjNueVV4aFRKRm9Hc3psOEx6SFllS3p2dXZDSVMxcXlMYTZyVVU5TlRvMENnb1BPQ3V2WHMwWmRnc2RuRENmZEdEejBpY05CR2Y4ck00WktfSVkxWGYzM0dESGJqb2Fya09mU1hXd2xldkxlanZ5TFpBaW03QW5lYkhSLXFDVzRrMm5ZUV9ESTlCS2RqNHlMSWY5X3p4LXc?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-09-01T09:03:49+00:00",
-    "summary": "Citi raises Adobe stock price target on software multiples Investing.com",
+    "id": "51f016b37f8b",
+    "title": "LEAP 2026 Discusses Future of Financial Technology, Its Role in Digital Economy Growth - وكالة الأنباء السعودية",
+    "url": "https://news.google.com/rss/articles/CBMiSkFVX3lxTFAwY3NFRTIwZ2ZUeld2M1dRUmtTV2hKLTk0eUlzRWNldlFTM1pjZ3BUQy1MQkN4S2tIaDlPaE94S0dQTjlETTAtMnVn?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-09-01T15:23:44+00:00",
+    "summary": "LEAP 2026 Discusses Future of Financial Technology, Its Role in Digital Economy Growth وكالة الأنباء السعودية",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
-      "retail",
-      "industrial"
+      "tech"
     ],
     "relevance_score": 11
   },
   {
-    "id": "71f83f4f76d4",
-    "title": "The Apple Empire That John Ternus Inherits—By the Numbers - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE5wQ0xoSFh3S2pUWERfRXUwNXlNdm04Nlg5czcxY29IX0tqUHBIazZENFVPbVRjM1YxTTRiUFlYVHJ0WElVZmRTS3JDek9UUnZkUERmVmpCdTNrY2IyYjUyVnAwcUFENG5vMzY3Mk82MA?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-09-01T19:50:00+00:00",
-    "summary": "The Apple Empire That John Ternus Inherits—By the Numbers WSJ",
+    "id": "ca4375f44d9d",
+    "title": "Meet Google Pics, a new tool to rival Canva, Adobe Express, and Microsoft Designer - Neowin",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQcW5CMHRLc3ZDeWo4b1lvUHlXWFNacXVGMks2M1huZldlUTk4aFZBd3VVN1cwcGN3MGxIN0Jvc1doSGFsWmNTZGU0NFF0emhIMWNyR2VQeE9Sd0FaaGlZRzFEcHFuZ3BmQmNkNTFNdjJUX2RJVkJFQVpvTVFvTV9LMTBRbWVqNGhVR01nUG5VenRwZW5yQnpudEd1X0FULUxXUXpUN3I0RTRQeF9f?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-09-01T17:20:00+00:00",
+    "summary": "Meet Google Pics, a new tool to rival Canva, Adobe Express, and Microsoft Designer Neowin",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1125,6 +1148,22 @@
     "relevance_score": 10
   },
   {
+    "id": "978a276a2ebf",
+    "title": "Salesforce Stock Soars 23% on Real Agentforce Growth, Not Just Anthropic Gains - Startup Fortune",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOby1sMjZQM1cxQmFzWmpoWVBBdVc4eF9nVHZ5UDNpUXc1bGVDS1owM09UVXN2d056R3g3ODRXbG5JTlJzVER2cUZGZGVXY0RoODhUMTdXYmhkbXZxV2lsd1dlUFBEVjlNUnQ5VlMxMmo2S05nMmRfQ1JfLVBWa2ZzYWl2RkNJYXk2Yk9wZzRZMFFGRmFGNk1VRGFvU0NreHlibmpLLTBGOA?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-08-29T22:53:26+00:00",
+    "summary": "Salesforce Stock Soars 23% on Real Agentforce Growth, Not Just Anthropic Gains Startup Fortune",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "8978e39047b3",
     "title": "McKesson confirms cybersecurity incident as hackers claim millions of patient records stolen",
     "url": "https://www.fiercehealthcare.com/health-tech/mckesson-confirms-cybersecurity-incident-hackers-claim-millions-patient-records-stolen",
@@ -1141,18 +1180,19 @@
     "relevance_score": 10
   },
   {
-    "id": "04d5494cfcf8",
-    "title": "What Does BioNTech (BNTX) FDA Approval Mean For Its 2026 COVID Vaccine? - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTnZ0OEhldnNNUzFtVnJBQ1dlR3Y2SmZrWDRsUVo2Q0JWWHlzMHJNZFFNQkc0UnJIWUpyZkVNNmtUMUNKSm9fT0ZBakNPaXcyeDh3cWNLQjI3UDNabXNpX3hNOTh6Q0MyclVsMEZ0R0Q0VmhpNUJqeWxTVVNBblVDQ29Gc21SOHEtejNkM3NaTkQtM2o1MExyQ0Y4V2hNNkdSbkpkUXVxUjdOSk5wOHhXNHFHTG42UTQwak9FaWVlQ1RWSnU2X0puS0E5cUF6OF9jYThvZ19aVVpEd9IB3wFBVV95cUxQTTREcC1wa3pHUEwxdWdQbldya1JEa1JwVmJFLTNES0dCa1BNaGZYMVR4dWd6T3YyQ0VXbUJmR3QtQVAwb3h0R3BfRFo5Uk14ZTkwU3RoSGZXNzR0YVFkRDJTeGpUR1Y1eUZtS1d1U2RNcEd5ekxJbG5nOVI5MW9qMHNDekZTUHZIN3YzWHBPMUUzN1hPdmFwcEU4MXJOeFpfdUkwUU1mMTdlaWdUV3czclZKS2wydlJnMWY0aWZSZ2hHTlF0RFI0OXVYSVVqb0pnc0VpOGxQdG53WXRBRnV3?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-01T09:32:50+00:00",
-    "summary": "What Does BioNTech (BNTX) FDA Approval Mean For Its 2026 COVID Vaccine? simplywall.st",
+    "id": "e6275cbc6be4",
+    "title": "Citi raises Adobe stock price target on software multiples - Investing.com",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPU0VodDhWUzhWOGJpZmgwR2JxVWNGWkRFcjVORjNueVV4aFRKRm9Hc3psOEx6SFllS3p2dXZDSVMxcXlMYTZyVVU5TlRvMENnb1BPQ3V2WHMwWmRnc2RuRENmZEdEejBpY05CR2Y4ck00WktfSVkxWGYzM0dESGJqb2Fya09mU1hXd2xldkxlanZ5TFpBaW03QW5lYkhSLXFDVzRrMm5ZUV9ESTlCS2RqNHlMSWY5X3p4LXc?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-09-01T09:03:49+00:00",
+    "summary": "Citi raises Adobe stock price target on software multiples Investing.com",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "lifesciences"
+      "retail",
+      "industrial"
     ],
     "relevance_score": 10
   },
@@ -1169,6 +1209,21 @@
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "e9cdcb55c2a7",
+    "title": "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPemN2WTNNcVZ4QnRJT2IzQzNqZXR4NGlhY3R4UXhvbEptNDcxcUJ5X3hrbnRkcjRaalNkQmVuN3N3MXFjQzRkN2pXSU83OThtT0xPOU81aEIxaWlxUTlZX1Y3eFpFX2IyWU5sM0I3ajF1d0pmSTBfTGFvbGpzUmxXdDZMR25hekZFbjlLQmhNenZrcV9yRmVBZA?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-09-01T21:05:00+00:00",
+    "summary": "Exclusive | New Google AI Model Said to Narrow Gap on Coding Ability WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 10
   },
@@ -1191,12 +1246,12 @@
   },
   {
     "id": "11b19af8e8ec",
-    "title": "Salesforce Just Forced a 22% Repricing of the AI Software Scare - Money Morning",
+    "title": "Salesforce Just Forced a 22% Repricing of the AI Software Scare - moneymorning.com",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQQU9iTnFHSVlqUjRiUVBhRVo2RjVzX3JHUkJWOEJUVGxCREU0MFBXanR6ODhadGRXQl96ME9lOHkyX2xWQ0tVQkpMaFQ5QjE0VGVLeEVYNDV4OTZjbV83NWdnNmdQeGE5WmhBb3hNc2d0UXFGbGhhUU1kT3FkSVB6X1JWc3gtcGRpd1BjN2FOWC1pNUJ1RERJTHdyWnFZc1hIWjdj?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
     "published": "2026-08-28T07:56:17+00:00",
-    "summary": "Salesforce Just Forced a 22% Repricing of the AI Software Scare Money Morning",
+    "summary": "Salesforce Just Forced a 22% Repricing of the AI Software Scare moneymorning.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1225,33 +1280,18 @@
     "relevance_score": 9
   },
   {
-    "id": "70ab02a18492",
-    "title": "FDA clears Stryker’s ‘surgical cockpit’ that uses Apple’s VR headset, Vision Pro - STAT",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSEltcmZnTlZjZzJHM3pJMGR5Um41RTU5Y1hDZkVvejF4bkZvNWlqTjNlMEM4ZHRpbEcyN1RGLWxaWFVDenRwMjVNcElOaXNNVGN0LXlIWHlfMnJFeWhFc2lRb05raUdkZkx5bEhUbmlWUXdpUk9DSW1jOVRZM21uMXJ4bDJfUzJza21waUtaSUVkYjN3MjBkR0dR?oc=5",
-    "source": "Health Tech",
+    "id": "04d5494cfcf8",
+    "title": "What Does BioNTech (BNTX) FDA Approval Mean For Its 2026 COVID Vaccine? - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTnZ0OEhldnNNUzFtVnJBQ1dlR3Y2SmZrWDRsUVo2Q0JWWHlzMHJNZFFNQkc0UnJIWUpyZkVNNmtUMUNKSm9fT0ZBakNPaXcyeDh3cWNLQjI3UDNabXNpX3hNOTh6Q0MyclVsMEZ0R0Q0VmhpNUJqeWxTVVNBblVDQ29Gc21SOHEtejNkM3NaTkQtM2o1MExyQ0Y4V2hNNkdSbkpkUXVxUjdOSk5wOHhXNHFHTG42UTQwak9FaWVlQ1RWSnU2X0puS0E5cUF6OF9jYThvZ19aVVpEd9IB3wFBVV95cUxQTTREcC1wa3pHUEwxdWdQbldya1JEa1JwVmJFLTNES0dCa1BNaGZYMVR4dWd6T3YyQ0VXbUJmR3QtQVAwb3h0R3BfRFo5Uk14ZTkwU3RoSGZXNzR0YVFkRDJTeGpUR1Y1eUZtS1d1U2RNcEd5ekxJbG5nOVI5MW9qMHNDekZTUHZIN3YzWHBPMUUzN1hPdmFwcEU4MXJOeFpfdUkwUU1mMTdlaWdUV3czclZKS2wydlJnMWY0aWZSZ2hHTlF0RFI0OXVYSVVqb0pnc0VpOGxQdG53WXRBRnV3?oc=5",
+    "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-09-01T13:14:56+00:00",
-    "summary": "FDA clears Stryker’s ‘surgical cockpit’ that uses Apple’s VR headset, Vision Pro STAT",
+    "published": "2026-09-01T09:32:50+00:00",
+    "summary": "What Does BioNTech (BNTX) FDA Approval Mean For Its 2026 COVID Vaccine? simplywall.st",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
       "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "9abaa116b8a2",
-    "title": "Hypnotherapist, bomb tech, Rotary Club team up for first responder mental health - Coral Springs News",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Qa3B5ZmxxRkcxR0JOVEhRYUZCWFVGNkNJb3ljOUM0OFA2Sm4yNDlaanJobTgtNmNWU1dlWXBSblhxXzdkbXE0UnpnSEpHZ2dRbk9KSElpcld2RC1ocHp1Rl9LUWdWTzlmaXJ2MUZzUDFDaW5kS1E?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-01T17:10:50+00:00",
-    "summary": "Hypnotherapist, bomb tech, Rotary Club team up for first responder mental health Coral Springs News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 9
   },
@@ -1344,12 +1384,12 @@
   },
   {
     "id": "c5bd13ffbf5c",
-    "title": "SHA Gives Hospitals One More Month to Meet Digital Health Rules - capitalfm.africa",
+    "title": "SHA Gives Hospitals One More Month to Meet Digital Health Rules - Capital FM Africa",
     "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNM0VOV3RjWDNVeUZPRDd1b2UyN1RsVlRuZnNqa3h0bnhSTFg2SGJWNGFaQXdTMjNlTDBzWFgxUlJTYUFvaWE4NTJ1YmJRdFVuX1dDc3Yxa2xVRE5HWkEyNS10SEh6bHhKV2lZandEeW8ySHFOMEhQQVotdl9la2s0UENBT2N0cy1ZNHFFTWdJVXdJbnM?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
     "published": "2026-09-01T09:50:17+00:00",
-    "summary": "SHA Gives Hospitals One More Month to Meet Digital Health Rules capitalfm.africa",
+    "summary": "SHA Gives Hospitals One More Month to Meet Digital Health Rules Capital FM Africa",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1359,18 +1399,33 @@
     "relevance_score": 8
   },
   {
-    "id": "a10e42d23f43",
-    "title": "Romania begins phased rollout of new national digital health platform - Business Review",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPd2lqVm1yYlZCOEV5bzJ0VlI3cUVmNGlWRVF3dUFuckFrYjM0ZTdyOWluMm9OZmdhR2xOOHhBZ1NRRm9HREprVU9qTURDbmZjYTdBY093ZWFNZndxcGxoamdkUXRMelY4a2ttV3ZNLUM0RjFabVRITzY1b29fc0o4U2hqZTJVd1NMUHd1VkhoUFNGTGVybHZCWjZ1TDl6QjFGbmpyS1dHenBtLXQ2bzE3ekFxaGRWZUZBWGkybUEtZTU?oc=5",
-    "source": "Health Tech",
+    "id": "1b1c41de265e",
+    "title": "FDA approves Stelara for pediatric ulcerative colitis - The Pharma Letter",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNeWlRNnFuR3R6MEhvWjFOM3FxU2V1TzF1SEM4d1pGeXhGR0ZtSS1fdDBJM1hzT2RqM3g1WXNQanRnTmVpQzB1MDNTSExfdXBVNDhqcW5QQVZRSV9Rd2I5ajlxMHhxZUpfWTVrb1NYRzMzX3F6aUZSZ3BtMFJlS20zX2FhR3ZsSmlUd081MEJuU2tOR3hrZlR5NVJnTmJOek0?oc=5",
+    "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-09-01T10:18:42+00:00",
-    "summary": "Romania begins phased rollout of new national digital health platform Business Review",
+    "published": "2026-09-01T14:24:16+00:00",
+    "summary": "FDA approves Stelara for pediatric ulcerative colitis The Pharma Letter",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
       "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "9abaa116b8a2",
+    "title": "Hypnotherapist, bomb tech, Rotary Club team up for first responder mental health - Coral Springs News",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1Qa3B5ZmxxRkcxR0JOVEhRYUZCWFVGNkNJb3ljOUM0OFA2Sm4yNDlaanJobTgtNmNWU1dlWXBSblhxXzdkbXE0UnpnSEpHZ2dRbk9KSElpcld2RC1ocHp1Rl9LUWdWTzlmaXJ2MUZzUDFDaW5kS1E?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-01T17:10:50+00:00",
+    "summary": "Hypnotherapist, bomb tech, Rotary Club team up for first responder mental health Coral Springs News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 8
   },
@@ -1407,22 +1462,6 @@
       "tech",
       "industrial",
       "lifesciences"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "78efe65093a1",
-    "title": "Exclusive | SEC Presses Investment Firms to Prove They Have Access to Shares in Hot Startups - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxQc2UtRk1UR2hqNnY3RnNEMTRPN1pja0t0SVo0S1J1UFdhbVhJLUhsbVlQODhJZ2hjSnVHWU14b3RteUdUNFEwWjJXdXRFWDNtaUVvb1pXaTF6aEozSmU3S0JjMFRNUXkwZjFBd1VuNm13TWROVnZUVjJFcmwyQnFmYURZLVVGc1dnTU9Tb1luQnA1Sl9vYXN1aVdEREFZM0JRLTM2ckdmYzVYRFBJcVJ4NDJSbFpoVnFJNXVLTnJXanFORWFCejZF?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-09-01T00:00:00+00:00",
-    "summary": "Exclusive | SEC Presses Investment Firms to Prove They Have Access to Shares in Hot Startups WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
     ],
     "relevance_score": 7
   },
@@ -1491,18 +1530,34 @@
     "relevance_score": 6
   },
   {
-    "id": "c3dcf4e5ab46",
-    "title": "FDA approves Protagonist and Takeda’s drug for rare blood cancer - The Boston Globe",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxOSG16aFg1MGtlSG5jdzdxc0k0Yk9hWHNoNkYxNVg2amFIaGFCNmVTa0N1QWN6WU4wT2JVNFg0Wnp1ejA2d3d1MF9XQVBrYko4ak9ZM00zNE9HSmI5Y2RYaHJGWC1lc1hGODNxTUlqRnpfOFpYTkdyc2w0Z2NIWlJIcVdfYTJzRWNyQlluUWlLN3FKTm9KVmQ0LTJlcFl5eG8tLVhwel9n?oc=5",
-    "source": "Biotech",
+    "id": "72429bfc89c4",
+    "title": "Women’s health technology market faces new questions about capacity - Digital Journal",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNeGJwTEJkV1BzUEpEX3dUOEJIWThYd0ZGYkJjLVYxdWlzTUxxYmR6Q2hSX1JaNlJLT1RhTUFEVXBDNWcwcy1BZS1RRTJzNzZBSF85NWdLWFZPeTlHcTVONlJrVXdXYk1IeW9fVXdNWWhETnVYaUp1ZGlOcmdDSjh6TFNVLUVTblVtOXBzNUNaWTNXdl96WkkwWVVSMFJpWWh3dFNqZVpUdUZUQQ?oc=5",
+    "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-08-31T22:06:53+00:00",
-    "summary": "FDA approves Protagonist and Takeda’s drug for rare blood cancer The Boston Globe",
+    "published": "2026-08-31T19:08:43+00:00",
+    "summary": "Women’s health technology market faces new questions about capacity Digital Journal",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
       "lifesciences"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "a3127d7b332f",
+    "title": "FV Bank deploys embedded banking infrastructure for digital payment platforms - Portal ERP",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNb25mWldxOXZNWFl6d3luYUo3RFI0ZlBBR1IzVmRKRnFRUVpyNmUwdllTaTdIamdXWjlsazJ3SEo1ODVJRi1fZUdRYkVIZE9mY0gzb2lSenlSbTBwR2V5cGtuWm1USDhuREQ2Q1otX3BSZ0VoMDNTQVRsODlhUWZseWlzeXlIeXdZWmxjcTZISzRSelM2VW5oekFKM3R2WXB3OFlGel9RYWREVDA?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-08-31T21:31:55+00:00",
+    "summary": "FV Bank deploys embedded banking infrastructure for digital payment platforms Portal ERP",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
     ],
     "relevance_score": 6
   },
@@ -1539,13 +1594,46 @@
     "relevance_score": 5
   },
   {
+    "id": "27f030b03eb6",
+    "title": "Roche nabs expanded FDA approval for diagnostic tied to Jazz’s cancer drug - Fierce Biotech",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOM3pCV3htUk9FeUROWDBFMnRiN1M3M2lieHRrTEZ4akUzaVRvamRWRGhIWFk1REc2WFBwbTI5QnViQS1ETFF5RWdnbGxwSjhDWnRxYnRRTExVNGRia19hZmZra0VzeDk1THpJaHJ1b0c1eTJDaGFCSl9NMHJqeWcteGRvUlRENUxJbFZFNjFTa3hJalR2Q0JrN0Q5MkVzUW1OZzBFbTZNdU9TZw?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-27T12:00:00+00:00",
+    "summary": "Roche nabs expanded FDA approval for diagnostic tied to Jazz’s cancer drug Fierce Biotech",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "614486cb1b79",
+    "title": "The Insight Series: AI & Digital Health with Kelly Huang - AdvaMed® - Advanced Medical Technology Association®",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPSkdydktlZi1NSHlic004RnR0bE1kUUVBR09kTHgzMktlMUhUTXNCTjR6Y1ZTTFZiSzRaQ3dkWVh2THkyN2k2bXh6LUtYd2V0STBYVnZRcDlvaDlhTkhMZFlIWEFLV2ZOeC1pZTkzV1lVek9wN3djbkJTOEZ5bTE1M0VLWFJCQXNzRU44eXI2clFzMUE?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-27T18:45:17+00:00",
+    "summary": "The Insight Series: AI & Digital Health with Kelly Huang AdvaMed® - Advanced Medical Technology Association®",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
     "id": "b41d01887090",
-    "title": "FDA approves daraxonrasib for patients with metastatic pancreatic cancer - News-Medical",
+    "title": "FDA approves daraxonrasib for patients with metastatic pancreatic cancer - news-medical.net",
     "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQSmNBT2M1dDZJcnVEQjRWY3VpaE85SHRya1I4TTJkc2F0MFBySGpFNVdSSmhEa1IxWlY5dlRZamxTZTF1Zy1jVnJtX1lEOG1ZZnlUbk9pSjIxcHBac1pZWi01ODJrTXN1VFFJVHhvTjcxeGJsOHA1eGNWRkZCczlJdkE4Vmt6N3c5MGZ3aWF1WnZkbkR2TjJzbDNPaXFOdTJaZFRENGVqRExlak9RSldqNS1BYk11MzBpT0ZqNg?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
     "published": "2026-08-29T18:40:00+00:00",
-    "summary": "FDA approves daraxonrasib for patients with metastatic pancreatic cancer News-Medical",
+    "summary": "FDA approves daraxonrasib for patients with metastatic pancreatic cancer news-medical.net",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1567,6 +1655,22 @@
     "industries": [
       "tech",
       "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "51dd368384dc",
+    "title": "FDA approves Protagonist and Takeda’s drug for rare blood cancer - STAT",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQNHRRVlBCaXcwOFZaQk52OVdtOGE5OXo4ZVA2RGJyeWVmcXdCbHFQaENRYm1JWFVlVDNyZ1p5LVZNX3ZUZjNDOW5iekcwSlBMX1hJdU41MkxoVzVGYXFsM0txbHBPT2RBSFdxeFZMb05NblE0VVdYY2NDTTh2TFZ3WDdtcmF3V0hHMHVJSFlzU0ZEbi1EX2pSTWc1VDRJeVlLb1Z2a2tmbURnM1Jw?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-30T19:26:15+00:00",
+    "summary": "FDA approves Protagonist and Takeda’s drug for rare blood cancer STAT",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
       "lifesciences"
     ],
     "relevance_score": 5
