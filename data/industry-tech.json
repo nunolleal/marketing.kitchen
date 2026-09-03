@@ -17,7 +17,7 @@
       "media",
       "tech"
     ],
-    "relevance_score": 69
+    "relevance_score": 66
   },
   {
     "id": "1c3059fb7886",
@@ -36,7 +36,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 66
+    "relevance_score": 63
   },
   {
     "id": "eaabdaa4703b",
@@ -72,6 +72,7 @@
     "relevance_score": 57,
     "also_covered_by": [
       "Adobe",
+      "Adobe Inc",
       "TechCrunch AI"
     ]
   },
@@ -96,26 +97,6 @@
     "relevance_score": 55
   },
   {
-    "id": "86aa60d7ee5d",
-    "title": "Rapid AI changes mean GEO is a weekly job now",
-    "url": "https://martech.org/rapid-ai-changes-mean-geo-is-a-weekly-job-now/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-09-03T12:54:00+00:00",
-    "summary": "AI answers keep changing, so PR, SEO, and content need a shared view of what buyers ask, which sources get cited, and what moves each week. The post Rapid AI changes mean GEO is a weekly job now appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/07/shopping-buying-search-intent-demand-800x450.png",
-    "tags": [
-      "Content marketing",
-      "Marketing artificial intelligence (AI)",
-      "Search marketing"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 53
-  },
-  {
     "id": "0de6d9e211c7",
     "title": "OpenAI’s audacious ad revenue claim",
     "url": "https://martech.org/openais-audacious-claim-about-ad-revenue/",
@@ -135,6 +116,26 @@
     "relevance_score": 51
   },
   {
+    "id": "86aa60d7ee5d",
+    "title": "Rapid AI changes mean GEO is a weekly job now",
+    "url": "https://martech.org/rapid-ai-changes-mean-geo-is-a-weekly-job-now/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-09-03T12:54:00+00:00",
+    "summary": "AI answers keep changing, so PR, SEO, and content need a shared view of what buyers ask, which sources get cited, and what moves each week. The post Rapid AI changes mean GEO is a weekly job now appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/07/shopping-buying-search-intent-demand-800x450.png",
+    "tags": [
+      "Content marketing",
+      "Marketing artificial intelligence (AI)",
+      "Search marketing"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 50
+  },
+  {
     "id": "42a1c17a58be",
     "title": "What’s next in content operations? Agents (what else?)",
     "url": "https://martech.org/whats-next-in-content-operations-agents-what-else/",
@@ -151,7 +152,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 49
+    "relevance_score": 45
   },
   {
     "id": "dae4242575db",
@@ -168,7 +169,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 48
+    "relevance_score": 45
   },
   {
     "id": "ac23454a59a6",
@@ -205,7 +206,10 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 42
+    "relevance_score": 42,
+    "also_covered_by": [
+      "MarTech"
+    ]
   },
   {
     "id": "59f32f5d52a0",
@@ -270,22 +274,36 @@
     "relevance_score": 39
   },
   {
-    "id": "cdc8a6b19ae0",
-    "title": "The AI visibility gap: Why great brands disappear from AI answers",
-    "url": "https://venturebeat.com/technology/the-ai-visibility-gap-why-great-brands-disappear-from-ai-answers",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-09-03T14:00:00+00:00",
-    "summary": "Presented by Contentful Most marketing teams still measure visibility the same way they always have: rankings, click-through rates, and organic traffic. But buyers have moved on. Search tools and AI engines now synthesize answers directly on the screen, creating a world of...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5DV6rgp5qKQrjQ6swx3UzH/517d0e7677aa278718c2e6b8a3d7c857/AdobeStock_266206768__1_.jpeg?w=300&q=30",
-    "tags": [
-      "Technology"
-    ],
+    "id": "742f90a208fe",
+    "title": "Tesco hires ex-Microsoft chief to spearhead agentic AI - DecisionMarketing",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPZGRLdDBwREMwVXdlUGdDZ0FRVy1rX2dPaTVjUTItMzFaRG9qQmNiMzZsb3B6VU9XSVBocFBPU2xJREVpbnJ5QzBsOF9vM093cDBkU3ZMQXBUQ3BiNVd3YVZzTFhJTldtYXdYTkQtTml1dFNTdzZHZVVSRnlTeXkwbVlsa3p1TE9XcFNNdy1qcjh3cWlTTHR5VjB2RHl3bmNRY1E?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-09-03T07:44:00+00:00",
+    "summary": "Tesco hires ex-Microsoft chief to spearhead agentic AI DecisionMarketing",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "tech",
-      "consumer"
+      "industrial"
     ],
     "relevance_score": 39
+  },
+  {
+    "id": "8f6b603c67ab",
+    "title": "MARKETING TECHNOLOGY OUTLOOK—Sales Outreach Has Entered the Agentic Era—But Human Judgement Still Wins - WhatTheyThink",
+    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPQ0RYYVlTa1UzNXFtcGpnaVBKbDR4akh3TzBlOWJ5OEk0UWw3cnVac2s2Vjl1MDRuXzRzazduckFNYlBDbmt2OW15RzQ5a3JsbXUyUTdNaWZ3MWgxSTVFX1BfMFhYa2JzTWRDbkVlaGktY1FITEZIVjVHekh0WXdGZExZcUFlSkx5RkJPQjIyalkxMjNvVXZuUjV2WFBMVUc4MlNfQ2dIYXBNQTJ2V2Y4Q0Z0SVc5eVFtdkFXRTB5d2lwN2YzeDY0Nmo1M0pQbFFyYmc?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-09-02T03:04:09+00:00",
+    "summary": "MARKETING TECHNOLOGY OUTLOOK—Sales Outreach Has Entered the Agentic Era—But Human Judgement Still Wins WhatTheyThink",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 38
   },
   {
     "id": "88723c9d0c09",
@@ -325,6 +343,23 @@
       "tech",
       "industrial",
       "financial"
+    ],
+    "relevance_score": 35
+  },
+  {
+    "id": "4e20517066ab",
+    "title": "Ohio Telecom Association rebrands as the Ohio Broadband & Technology Association - Lightwave Online",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNOUEteWdpS01icXoxd0pOM2FFbzlYc3dGY0VESVk4aVJ0ZVY3eFVDVXlMekRPNE1xNWpHd3p3eEU4UlV2NnBpYm9iVmJReldBejR3WFd6S1k5M1RRTTM3X1JwTzRFbmdyR1JzN2FydUNEdW9GQkpNSlg1ODRIU01QM0JDS2x5aVpCQllNM2MzV0Y3WU9TdGNqZjBmYzVMc0l0RU5KaVYzWm80U1lueEdnWXBBUVBNaE5tT3NXb1ZDeFd5blZXQTNxZQ?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-09-03T18:58:21+00:00",
+    "summary": "Ohio Telecom Association rebrands as the Ohio Broadband & Technology Association Lightwave Online",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom",
+      "consumer"
     ],
     "relevance_score": 35
   },
@@ -369,6 +404,27 @@
     "relevance_score": 22
   },
   {
+    "id": "ff1868da76fb",
+    "title": "Accel reportedly in talks to lead $1B round for Thinking Machines at $40B valuation",
+    "url": "https://techcrunch.com/2026/09/03/accel-reportedly-in-talks-to-lead-1b-round-for-thinking-machines-at-40b-valuation/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-09-03T19:36:29+00:00",
+    "summary": "The high-profile startup's annual revenue run rate stands at over $100 million.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Mira-Murati-at-Bloomberg.jpg?w=1024",
+    "tags": [
+      "AI",
+      "Startups",
+      "Accel",
+      "In Brief",
+      "Mira Murati"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 19
+  },
+  {
     "id": "53bf8b9c6a5b",
     "title": "OpenAI Cut Off a Billion-Dollar Customer to Avoid Elon Musk",
     "url": "https://www.wired.com/story/openai-elon-musk-cursor-billion-revenue/",
@@ -387,50 +443,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 19
-  },
-  {
-    "id": "d29dea85d7ae",
-    "title": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
-    "url": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-09-03T17:00:00+00:00",
-    "summary": "Microsoft is announcing some major changes to Xbox Cloud Gaming today, less than a year after opening up cloud gaming to its Xbox Game Pass Premium and Essential tiers. While all Game Pass plans have included unlimited cloud gaming over the past year, from November this will...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
-    "tags": [
-      "Gaming",
-      "Microsoft",
-      "News",
-      "Tech",
-      "Xbox"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
     "relevance_score": 18
-  },
-  {
-    "id": "c3647cb2482a",
-    "title": "We-Vibe Discount Codes and Deals: Up to 60% Off",
-    "url": "https://www.wired.com/story/we-vibe-discount-code/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-09-03T05:00:00+00:00",
-    "summary": "Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure.",
-    "image_url": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 17
   },
   {
     "id": "6570cc42f2bf",
@@ -456,17 +469,78 @@
     "relevance_score": 17
   },
   {
-    "id": "213f6b4506ec",
-    "title": "How marketers can navigate machine bias as AI takes over media",
-    "url": "https://www.marketingdive.com/news/how-marketers-can-navigate-machine-bias-as-ai-takes-over-media/829315/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-09-03T13:00:00+00:00",
-    "summary": "As 80% of U.S. ad spending is expected to flow through AI-powered platforms by 2028, marketers must work harder to preserve their autonomy.",
-    "image_url": "https://imgproxy.divecdn.com/57j6s7i5VYbKomGfjXZrNVrKnqD68Jb-S4KHkQ-oamY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEzMTc5NDMyX0JnMlZ1U0QuanBn.webp",
+    "id": "d29dea85d7ae",
+    "title": "Microsoft slashes Xbox Cloud Gaming to just 15 hours a month for Ultimate subscribers",
+    "url": "https://www.theverge.com/news/989166/microsoft-xbox-cloud-gaming-hourly-limits-changes",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-09-03T17:00:00+00:00",
+    "summary": "Microsoft is announcing some major changes to Xbox Cloud Gaming today, less than a year after opening up cloud gaming to its Xbox Game Pass Premium and Essential tiers. While all Game Pass plans have included unlimited cloud gaming over the past year, from November this will...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25283724/STK048_XBOX_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+    "tags": [
+      "Gaming",
+      "Microsoft",
+      "News",
+      "Tech",
+      "Xbox"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "47f26530e003",
+    "title": "5 Interesting Learnings from Salesforce at $45 Billion ARR: 14% cRPO Growth, 6% Organic Growth, and $2.53 of EPS From Its Anthropic Stake - saastr.com",
+    "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxNRHdpekZDVUw3UnpMWmI5UUJGUzBzXzk5cFFsc1o4NjdfdVhqdjItVi12bjZCV3Y5ajk5bl9iSndsNGlTU0dDYjEzX2cxS1VfSWowYXdVaXBrLU5tc24yc3kwbHdhNFBLYzdoeVkyNHQwTVk4Q2NGMEk0MTNlUWd1cUszOWRlMkF6ZGxKOHRPenZpZGh0Wmp5VExOSU5FR3dLUW1BYTRMOU42U2dyYm43TU5RMy16a2JrR2o1UFB4M2xqaGV5RGpkQ18xZHRYYy1ka2d0SnpfLUt4blMxN3hsVE5hWEpCdkVEVWc?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-09-03T17:40:15+00:00",
+    "summary": "5 Interesting Learnings from Salesforce at $45 Billion ARR: 14% cRPO Growth, 6% Organic Growth, and $2.53 of EPS From Its Anthropic Stake saastr.com",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "media",
+      "tech"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "82c75f7fe9e1",
+    "title": "Meta is paying to peek at how you use their latest AI model",
+    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-09-03T18:19:56+00:00",
+    "summary": "For its new Muse Spark model, intended for operating coding and other agents, Meta is offering an explicit discount averaging out to about 95% for users who \"contribute\" to the development of future models by sharing their prompts and model outputs.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
+    "tags": [
+      "AI",
+      "Meta"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "c3647cb2482a",
+    "title": "We-Vibe Discount Codes and Deals: Up to 60% Off",
+    "url": "https://www.wired.com/story/we-vibe-discount-code/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-09-03T05:00:00+00:00",
+    "summary": "Save on We-Vibe, including app-controlled bestsellers and popular gift sets designed for couples, connection, and shared pleasure.",
+    "image_url": "https://media.wired.com/photos/67b63b98fb14553f0ebd9ffd/master/pass/WIRED-Coupons-R2_15.png",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ],
+    "industries": [
       "tech"
     ],
     "relevance_score": 16
@@ -490,40 +564,6 @@
     "relevance_score": 16
   },
   {
-    "id": "b206cb4fd74a",
-    "title": "Multi-Cart Collaboration: Turn B2B Buying into a Real-Time Team Sport",
-    "url": "https://www.salesforce.com/blog/b2b-multi-cart-collaboration/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-09-03T15:24:36+00:00",
-    "summary": "In consumer shopping, each cart belongs to one person. But when it comes to B2B, purchasing is almost always a team sport. Traditional ecommerce platforms force business buying groups into a single-user box.…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/innovations-page-b2b-asset-4-620x413-1.jpg",
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "f8581eedd6cf",
-    "title": "Meta says Muse Spark 1.3 has frontier performance — but its best results come from a model developers can’t broadly use yet",
-    "url": "https://venturebeat.com/technology/meta-says-muse-spark-1-3-has-frontier-performance-but-its-best-results-come-from-a-model-developers-cant-broadly-use-yet",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-09-03T16:19:49+00:00",
-    "summary": "Meta’s newest AI model Muse Spark 1.3, unveiled yesterday , is faster and more performant on third-party benchmarks than its predecessor — with a caveat. \"Muse Spark 1.3 is rolling out today with frontier performance almost too cheap to meter,\" Meta co-founder and CEO Mark...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/3njXWwdtKNGR2ej5bHdbB2/4422b6b8afba67920f5aa8a86b110635/ChatGPT_Image_Sep_3__2026__11_37_04_AM.png?w=300&q=30",
-    "tags": [
-      "Technology"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 16
-  },
-  {
     "id": "d309bdab2a0a",
     "title": "OpenAI’s next big AI model has ‘entered the AGI era’",
     "url": "https://www.theverge.com/ai-artificial-intelligence/989601/openai-gpt-6-astra-release",
@@ -538,25 +578,6 @@
       "News",
       "OpenAI",
       "Report"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "82c75f7fe9e1",
-    "title": "Meta is paying to peek at how you use their latest AI model",
-    "url": "https://techcrunch.com/2026/09/03/meta-is-paying-to-peek-at-how-you-use-their-latest-ai-model/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-09-03T18:19:56+00:00",
-    "summary": "Most AI tools allow you to opt out of sharing your usage with the model provider to improve future versions. Meta has taken that idea and put a price tag on it. For its new Muse Spark model, intended for operating coding and other agents, it is offering an explicit discount...",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/GettyImages-2173579488.jpg?resize=1200,799",
-    "tags": [
-      "AI",
-      "Meta"
     ],
     "industries": [
       "tech",
@@ -587,34 +608,17 @@
     "relevance_score": 15
   },
   {
-    "id": "8dc258702a0f",
-    "title": "Why Google’s ad business escaped a breakup",
-    "url": "https://digiday.com/media-buying/whats-behind-the-latest-decision-to-leave-googles-ad-business-intact/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-09-03T04:01:00+00:00",
-    "summary": "The reasoning behind the latest decision to spare Google a breakup",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/08/google-trial-decision-digiday.jpg",
-    "tags": [
-      "Media Buying",
-      "Google"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "ac8b41a3c2c7",
-    "title": "KitchenAid Promo Codes: Save Up to 20%",
-    "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+    "id": "9f3a5aacb8ed",
+    "title": "Lowe’s Promo Codes and Deals: Up to $300 Off Appliances",
+    "url": "https://www.wired.com/story/lowes-promo-code/",
     "source": "Wired",
     "source_category": "ai",
     "published": "2026-09-03T05:00:00+00:00",
-    "summary": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.",
-    "image_url": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg",
+    "summary": "Find the latest Lowe’s promo codes and offers, including up to $300 off select major appliances and $5 off $50 with sign-up, here at WIRED.",
+    "image_url": "https://media.wired.com/photos/67b63b995a505b018b67ed92/master/pass/WIRED-Coupons-R2_10.png",
     "tags": [
       "Gear",
+      "Gear / Deals",
       "coupons",
       "Shopping",
       "Coupons"
@@ -625,37 +629,53 @@
     "relevance_score": 15
   },
   {
-    "id": "a644c2e01c7a",
-    "title": "Microsoft AI’s MAI-Transcribe-2 undercuts OpenAI, Google and ElevenLabs on price and speed",
-    "url": "https://venturebeat.com/infrastructure/microsoft-ais-mai-transcribe-2-undercuts-openai-google-and-elevenlabs-on-price-and-speed",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-09-03T14:00:00+00:00",
-    "summary": "Microsoft AI on Thursday released MAI-Transcribe-2 , a speech-recognition model the company says is faster, more accurate, and cheaper than anything OpenAI , Google , or ElevenLabs currently sells. Then it priced the thing at 10 cents per hour of audio. That figure deserves a...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/74mRbyllMKSqqyJ4WTpDaO/0dc1d862811bc1ef32ba55711d89d0ab/Nuneybits_Vector_art_of_retro_desktop_glowing_Windows_CRT_trans_77211f4b-8cf5-4e28-b682-15e4f68a3525.webp?w=300&q=30",
-    "tags": [
-      "Infrastructure"
-    ],
+    "id": "213f6b4506ec",
+    "title": "How marketers can navigate machine bias as AI takes over media",
+    "url": "https://www.marketingdive.com/news/how-marketers-can-navigate-machine-bias-as-ai-takes-over-media/829315/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-09-03T13:00:00+00:00",
+    "summary": "As 80% of U.S. ad spending is expected to flow through AI-powered platforms by 2028, marketers must work harder to preserve their autonomy.",
+    "image_url": "https://imgproxy.divecdn.com/57j6s7i5VYbKomGfjXZrNVrKnqD68Jb-S4KHkQ-oamY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjEzMTc5NDMyX0JnMlZ1U0QuanBn.webp",
+    "tags": [],
     "industries": [
+      "media",
       "tech"
     ],
     "relevance_score": 15
   },
   {
-    "id": "56c7f77a4d5e",
-    "title": "Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme",
-    "url": "https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-09-03T16:00:00+00:00",
-    "summary": "Using Frore’s air-cooling technology, Lenovo’s Project AeroBlade Concept is an ultralightweight laptop with efficient heat management.",
-    "image_url": "https://media.wired.com/photos/6a9976cfd5c3390915dc9f8d/master/pass/comerce%20.jpg",
+    "id": "b206cb4fd74a",
+    "title": "Multi-Cart Collaboration: Turn B2B Buying into a Real-Time Team Sport",
+    "url": "https://www.salesforce.com/blog/b2b-multi-cart-collaboration/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-09-03T15:24:36+00:00",
+    "summary": "In consumer shopping, each cart belongs to one person. But when it comes to B2B, purchasing is almost always a team sport. Traditional ecommerce platforms force business buying groups into a single-user box.…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/innovations-page-b2b-asset-4-620x413-1.jpg",
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "ad1bd49e5169",
+    "title": "Selling Your Business Without Losing Your Identity",
+    "url": "https://www.forbes.com/sites/forbesbooksauthors/2026/09/03/selling-your-business-without-losing-your-identity/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-09-03T18:21:09+00:00",
+    "summary": "Selling your business will change how you see yourself. There’s no way around that. To preserve your identity, make sure change happens with some intention behind it.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a99b98eb94787584158c43a/0x0.jpg",
     "tags": [
-      "Gear",
-      "Gear / Products",
-      "Gear / Gear News and Events",
-      "Gear / Products / Computers",
-      "Lenovo"
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "business"
     ],
     "industries": [
       "tech",
@@ -664,66 +684,17 @@
     "relevance_score": 15
   },
   {
-    "id": "f368301bc097",
-    "title": "This Music Platform Is Helping Artists Find Unclaimed Money",
-    "url": "https://www.forbes.com/sites/matthewleimkuehler/2026/09/03/this-music-platform-is-helping-artists-find-unclaimed-money/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-09-03T16:16:41+00:00",
-    "summary": "Notes.fm has help identified unclaimed royalties on songs from Zach Bryan, Mt. Joy, James Blake and more. Here’s how the platform works.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a982bda7d0ab21606e47554/0x0.jpg",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
+    "id": "0f1e83b5be91",
+    "title": "Can Pro Bono Volunteers Solve the Nonprofit AI Gap?",
+    "url": "https://www.salesforce.com/blog/nonprofit-ai-pro-bono-volunteers/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-09-03T19:41:11+00:00",
+    "summary": "Our pro bono fellowship is where Salesforce talent apply their skills for the greater good — here's why it works.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/AdobeStock_580676965-e1788395054118.jpeg",
+    "tags": [],
     "industries": [
       "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "860245ba159d",
-    "title": "Noah Kahan Mounts A Comeback With Multiple Hits Returning To The Charts",
-    "url": "https://www.forbes.com/sites/hughmcintyre/2026/09/03/noah-kahan-mounts-a-comeback-with-multiple-hits-returning-to-the-charts/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-09-03T16:30:51+00:00",
-    "summary": "Noah Kahan dominates several Billboard charts months after ‘The Great Divide’ debuted, with 13 of his songs appearing on at least one ranking this week.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a9987a90c9a767e99ac1bf0/0x0.jpg?width=960&precrop=1214%2C682%2Cx251%2Cy149",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "f1fcee6eeaa5",
-    "title": "Trump’s Approval Rating Gets Rare Boost In One Poll—But Stays At Record Low In Another",
-    "url": "https://www.forbes.com/sites/saradorn/2026/09/03/trumps-approval-rating-gets-rare-boost-in-one-poll-but-stays-at-record-low-in-another/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-09-03T16:44:58+00:00",
-    "summary": "Trump had a 44% approval rating in the latest poll released Wednesday.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6932ef30ce4d95a104172573/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
     ],
     "relevance_score": 15
   },
@@ -773,52 +744,86 @@
     ]
   },
   {
-    "id": "b4e434ba3922",
-    "title": "La Caisse acquires 24% stake in India's Altius telecom tower platform for INR 121 billion - telecompaper.com",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxQTDdfWVZ4elFvbTBWWDZCcGk0a01MWkkzdHhJQlgwLXVyQ0x3QjRSOWxEaFptQTg2ZGJPWE1VcF9VRXhoTzc0cS0zbHpZNWVsT2NkQldtZ2hyMXBVbm92Q2V3X0ZZMnJpT2VEUWFFZ09ueUlqaTZrd0lQeEFRdk5YUlpzWnNFUENrN19qckllR0Q3ZDFMRkdxdEd3S04tRVR2Wm5JQlUwZFZnTkRwM1hwX2d5YW5lbTh4LTZrb3FLWFJuM2lmR09GMmdR?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-09-03T09:19:13+00:00",
-    "summary": "La Caisse acquires 24% stake in India's Altius telecom tower platform for INR 121 billion telecompaper.com",
-    "image_url": null,
-    "tags": [],
+    "id": "8dc258702a0f",
+    "title": "Why Google’s ad business escaped a breakup",
+    "url": "https://digiday.com/media-buying/whats-behind-the-latest-decision-to-leave-googles-ad-business-intact/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-09-03T04:01:00+00:00",
+    "summary": "The reasoning behind the latest decision to spare Google a breakup",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/08/google-trial-decision-digiday.jpg",
+    "tags": [
+      "Media Buying",
+      "Google"
+    ],
     "industries": [
-      "tech",
-      "telecom"
+      "tech"
     ],
     "relevance_score": 14
   },
   {
-    "id": "e04570573a8b",
-    "title": "How AI is powering Target’s back-to-school push",
-    "url": "https://www.retaildive.com/news/target-back-to-school-push-AI/829468/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-09-03T16:46:00+00:00",
-    "summary": "The mass retailer is utilizing AI for wish lists and recommended actions on its e-commerce site, Target’s senior vice president of technology told Retail Dive.",
-    "image_url": "https://imgproxy.divecdn.com/FrS8G4NE-taUckYD4tlEF0-NT9lwTW1HxHsDhPHT_UA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UYXJnZXRfQmFja3RvU2Nob29sQ29sbGVnZV8yMDI2XzAxLnBuZw==.webp",
-    "tags": [],
+    "id": "ac8b41a3c2c7",
+    "title": "KitchenAid Promo Codes: Save Up to 20%",
+    "url": "https://www.wired.com/story/exclusive-kitchenaid-promo-code/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-09-03T05:00:00+00:00",
+    "summary": "Save on every purchase with top KitchenAid coupons from WIRED, including up to 20% off countertop appliances.",
+    "image_url": "https://media.wired.com/photos/66ea076ea6cbbaa16c12af30/master/pass/WIRED-Coupons-12.jpg",
+    "tags": [
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "56c7f77a4d5e",
+    "title": "Lenovo’s Project AeroBlade Fanless Laptop Takes Thin and Light to the Extreme",
+    "url": "https://www.wired.com/story/lenovo-project-aeroblade-ifa-2026/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-09-03T16:00:00+00:00",
+    "summary": "Using Frore’s air-cooling technology, Lenovo’s Project AeroBlade Concept is an ultralightweight laptop with efficient heat management.",
+    "image_url": "https://media.wired.com/photos/6a9976cfd5c3390915dc9f8d/master/pass/comerce%20.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Products",
+      "Gear / Gear News and Events",
+      "Gear / Products / Computers",
+      "Lenovo"
+    ],
     "industries": [
       "tech",
-      "retail",
       "industrial"
     ],
     "relevance_score": 14
   },
   {
-    "id": "145d401b144e",
-    "title": "Students Can Save Over 75% on Adobe’s Powerful Creative Cloud Pro - PCMag",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNTG9wZGRXSUQ2OFpROTFaaHV6RWVGdVhQNlpuM3FqQVNReW1nczVyMy14OWZTNDJCOUFlWkRYaVZ4UlBBVFF1OXVnQzh4dGJfc1JVODFNTTVsbGFXZGZ4VjRnRzJKQmxJWlhqQTR1SjNjaE5KU3ZXNnJoNGg0cHdWWTFoN1I1U2pxbW1TMVFadmQ1YUMtbnc?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-09-02T20:12:33+00:00",
-    "summary": "Students Can Save Over 75% on Adobe’s Powerful Creative Cloud Pro PCMag",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
+    "id": "f1fcee6eeaa5",
+    "title": "Trump’s Approval Rating Gets Rare Boost In One Poll—But Stays At Record Low In Another",
+    "url": "https://www.forbes.com/sites/saradorn/2026/09/03/trumps-approval-rating-gets-rare-boost-in-one-poll-but-stays-at-record-low-in-another/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-09-03T16:44:58+00:00",
+    "summary": "Trump had a 44% approval rating in the latest poll released Wednesday.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6932ef30ce4d95a104172573/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
     ],
-    "relevance_score": 13
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
   },
   {
     "id": "4aa8b01362dd",
@@ -843,35 +848,19 @@
     "relevance_score": 13
   },
   {
-    "id": "c69c41a1123b",
-    "title": "The Download: rethinking child safety and fossil-fueled farming",
-    "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-09-03T12:10:00+00:00",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re...",
-    "image_url": null,
-    "tags": [
-      "The Download"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "ff31309249d4",
-    "title": "Why AI scribes are a malpractice risk, according to experts",
-    "url": "https://www.healthcaredive.com/news/why-ai-scribes-malpractice-risk/829541/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-03T13:15:37+00:00",
-    "summary": "The technology can make clinical documentation mistakes that can be hard to detect, leading to potential medical errors and lawsuits as health systems increase their use.",
-    "image_url": "https://imgproxy.divecdn.com/8tDp3FYimw6iTRRiXKf-eSGSrRz7cw3R4sIG7Xb0iAs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDA3OTAwMjY2LmpwZw==.webp",
+    "id": "e04570573a8b",
+    "title": "How AI is powering Target’s back-to-school push",
+    "url": "https://www.retaildive.com/news/target-back-to-school-push-AI/829468/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-09-03T16:46:00+00:00",
+    "summary": "The mass retailer is utilizing AI for wish lists and recommended actions on its e-commerce site, Target’s senior vice president of technology told Retail Dive.",
+    "image_url": "https://imgproxy.divecdn.com/FrS8G4NE-taUckYD4tlEF0-NT9lwTW1HxHsDhPHT_UA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UYXJnZXRfQmFja3RvU2Nob29sQ29sbGVnZV8yMDI2XzAxLnBuZw==.webp",
     "tags": [],
     "industries": [
       "tech",
-      "lifesciences"
+      "retail",
+      "industrial"
     ],
     "relevance_score": 13
   },
@@ -892,53 +881,35 @@
     "relevance_score": 12
   },
   {
-    "id": "9d310b87512a",
-    "title": "Meta prices Muse Voice Transcribe at $0.18 an hour, with real-time diarization for 20+ speakers: a steal for enterprises?",
-    "url": "https://venturebeat.com/technology/meta-prices-muse-voice-transcribe-at-0-18-an-hour-with-real-time-diarization-for-20-speakers-a-steal-for-enterprises",
-    "source": "VentureBeat",
+    "id": "c69c41a1123b",
+    "title": "The Download: rethinking child safety and fossil-fueled farming",
+    "url": "https://www.technologyreview.com/2026/09/03/1143385/the-download-rethinking-child-safety-online-fossil-fuels-farming/",
+    "source": "MIT Technology Review",
     "source_category": "ai",
-    "published": "2026-09-02T21:32:59+00:00",
-    "summary": "Meta is entering the increasingly competitive real-time speech-to-text market with Muse Voice Transcribe, a new audio perception model that combines streaming transcription, endpoint detection and speaker diarization for more than 20 speakers — at a public API price of just...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/5FR94X4R98sZhZIkcHODYE/09fff33c23551f1b0b79cc55366b5d0c/ChatGPT_Image_Sep_2__2026__05_32_05_PM.png?w=300&q=30",
+    "published": "2026-09-03T12:10:00+00:00",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Child-monitoring apps might need a reboot Digital harms have become the defining fear of American parents. In response, they’re...",
+    "image_url": null,
     "tags": [
-      "Technology"
+      "The Download"
     ],
     "industries": [
-      "media",
       "tech"
     ],
     "relevance_score": 12
   },
   {
-    "id": "d57d4edab5ec",
-    "title": "Google’s Gemini 3.8 Flash is built for agents, while its Cyber twin hunts vulnerabilities",
-    "url": "https://venturebeat.com/security/googles-gemini-3-8-flash-is-built-for-agents-while-its-cyber-twin-hunts-vulnerabilities",
-    "source": "VentureBeat",
-    "source_category": "ai",
-    "published": "2026-09-03T00:02:18+00:00",
-    "summary": "Google keeps cranking out Flash models: the company on Wednesday announced two versions of a new 3.8 Flash . The variants include a standard Flash, a “workhorse” model for agentic tasks, software development, and multi-step reasoning, and Flash Cyber optimized for...",
-    "image_url": "https://images.ctfassets.net/jdtwqhzvc2n1/793zCnQpOvoBw5BJi4WMEg/17ad5955da7de9e22394bccfb75c0c91/upscalemedia-transformed.png?w=300&q=30",
-    "tags": [
-      "Security"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "f1305216c9c6",
-    "title": "Analysts’ Top Technology Picks: Palo Alto Networks (PANW), Adobe (ADBE) - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxNM2RCdzBWWUQycjdaOUFTcERfZnhCUnFDbUc0ZHUtN2xaOU9zUUV3M0tQOFJxYzN1WkdBaVVsNnZoY0ViM1ZEUk9mM1FZQ2VLMzJ1SERSZnk2Q20zMV9oeVpCS0poWGxycFA0NFVBcmxmbGRMVk9yM0NKbUtQcEdrZFhSUUNuTFlVVkhKbmtOQ0lWcEF1LWlpVmJ1U3lSeWltOHdNVEE2UEc0R054MVdDUW1TQ3pRd3NrdWtfT2hfQ19SUTZhcEd3TGR5dEZGNFQ3c2I0Nnk3cThBVnRlWWRoT2VHaw?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-09-03T11:36:05+00:00",
-    "summary": "Analysts’ Top Technology Picks: Palo Alto Networks (PANW), Adobe (ADBE) The Globe and Mail",
-    "image_url": null,
+    "id": "ff31309249d4",
+    "title": "Why AI scribes are a malpractice risk, according to experts",
+    "url": "https://www.healthcaredive.com/news/why-ai-scribes-malpractice-risk/829541/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-03T13:15:37+00:00",
+    "summary": "The technology can make clinical documentation mistakes that can be hard to detect, leading to potential medical errors and lawsuits as health systems increase their use.",
+    "image_url": "https://imgproxy.divecdn.com/8tDp3FYimw6iTRRiXKf-eSGSrRz7cw3R4sIG7Xb0iAs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMDA3OTAwMjY2LmpwZw==.webp",
     "tags": [],
     "industries": [
-      "tech"
+      "tech",
+      "lifesciences"
     ],
     "relevance_score": 12
   },
@@ -957,20 +928,16 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 11,
-    "also_covered_by": [
-      "Health Tech",
-      "Fintech"
-    ]
+    "relevance_score": 11
   },
   {
-    "id": "4a85bd53868e",
-    "title": "Adobe appears on track to report Q3 beat and raise: Citi - Seeking Alpha",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNT3VVWGlJMlNEZkttclFHYzE0NUZhd1FySHFraDNHMUhMcTlEeFV3bUtUUXNmVlp0UmtraDEtMHBDUnl5dk82UmhPMjVNS1hlZ0NGeC1OWk9lSkhYVnVJc29YYXZ0Y05pbmRtQ1ZnTzgtenE2djkzX2hWZHJnMnpyZHNDYXdoUk5vM3VjNUJkSDBDY0M4ZUJzSg?oc=5",
+    "id": "f7bc0f868d7f",
+    "title": "Analysts’ Top Technology Picks: Palo Alto Networks (PANW), Adobe (ADBE) - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxQd05NeFlQWXFGMkIza241c3VmV0FySW5OOVJYdlFRSkRsVE1felpBLWctcjNpRTJmNWR2bVdSc0pDaERZbVlJMHpuTHRDa2FrdVY2WDhJbTBKZVN6WWNmWUxVem9pSFVQeUdYVWc3YzEtc1hzY0hGSHR2amwzYnBjZlFkUG1Kb1lIUzN0UTdyUm8wRk5wbHp1em9EUzM2UGNHQTA2VDcxSjFVM0FhbjZtTExoSDdYR2RZZHhBMV8xc2dwZFdOWlc5YXAyV2ZZZlBfbTBSdm40ZzJZdWRKQ1N3TjNwUQ?oc=5",
     "source": "Adobe Inc",
     "source_category": "adobe",
-    "published": "2026-09-01T13:20:24+00:00",
-    "summary": "Adobe appears on track to report Q3 beat and raise: Citi Seeking Alpha",
+    "published": "2026-09-03T11:17:50+00:00",
+    "summary": "Analysts’ Top Technology Picks: Palo Alto Networks (PANW), Adobe (ADBE) The Globe and Mail",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -979,20 +946,35 @@
     "relevance_score": 11
   },
   {
-    "id": "978a276a2ebf",
-    "title": "Salesforce Stock Soars 23% on Real Agentforce Growth, Not Just Anthropic Gains - Startup Fortune",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOby1sMjZQM1cxQmFzWmpoWVBBdVc4eF9nVHZ5UDNpUXc1bGVDS1owM09UVXN2d056R3g3ODRXbG5JTlJzVER2cUZGZGVXY0RoODhUMTdXYmhkbXZxV2lsd1dlUFBEVjlNUnQ5VlMxMmo2S05nMmRfQ1JfLVBWa2ZzYWl2RkNJYXk2Yk9wZzRZMFFGRmFGNk1VRGFvU0NreHlibmpLLTBGOA?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-08-29T22:53:26+00:00",
-    "summary": "Salesforce Stock Soars 23% on Real Agentforce Growth, Not Just Anthropic Gains Startup Fortune",
+    "id": "74dafe08e8cd",
+    "title": "Patient-software maker raises $30M for expansion - Crain's Chicago Business",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNYzhkQ3JsWElKSFFqektscXY5NW9xOXdua0JHR2NuNDE0ekk0dFhOQ2RBLWtJVzlXb05aN2JXVGFxWjVmaVl2ZDQ5YjlhcDZjU19IUnhsRVdkME03aThuTmlMSFg2cVJhbkM2NkJWdzRHbUR3S0s3OUNRSFEyMEJxOTNyZnQ1TjlTVXJNOHhrc01BRWla?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-03T17:03:00+00:00",
+    "summary": "Patient-software maker raises $30M for expansion Crain's Chicago Business",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "industrial"
+      "lifesciences"
     ],
-    "relevance_score": 10
+    "relevance_score": 11
+  },
+  {
+    "id": "af564551e7fc",
+    "title": "Orlando health-tech firm Outcomes acquired by H.I.G. Capital - The Business Journals",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOX3N0WWcwMVNHTm5PajBHc3hCM3FoeXlhd0EwN25IeTkwSTVnWjZyOWk0NjJoZE1jbUJMTDNWREFYa0w3ekxyajJqT1AzZXphYTFCM2EyVFVqUUNCczAyRkkzMnE2SHhhdm5zV3JtREJxR081SmkzVHpkY1hrcW5IUWw0X2psZHFlZV8zOTZFTEVJbWczb09HMnluODJ2and3?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-03T21:33:00+00:00",
+    "summary": "Orlando health-tech firm Outcomes acquired by H.I.G. Capital The Business Journals",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 11
   },
   {
     "id": "a4c533e3b94e",
@@ -1031,46 +1013,13 @@
     "relevance_score": 10
   },
   {
-    "id": "9105e072dbfc",
-    "title": "My Adult Doctor™ Launches Nationwide Virtual Healthcare Platform Expanding 24/7 Urgent Care, Primary Care, Wellness, and Advanced Digital and AI Health Services Across All 50 States, Puerto Rico, and Guam - Morningstar",
-    "url": "https://news.google.com/rss/articles/CBMi9AJBVV95cUxNU2lrWGVjSlV2dUFJVy1iRGhDOU1WdHNyQXIwTFNEVjVwUHVmNEdBNWNDYy1VZkFGZmw5SXFYNFNicEYxbG96QlFETms3LXF6RFZzQ1Z4WkxGemI5RnV0TExGRHZTaE4xaENITU5CQllSX3lKRHBhMmdWUjJNcEVJZDFOcnlWLVIyS0NYQlBkQVFYdWpoWjJmcUlPbWdLbHZEQy1QNjN2VVBVSWcwSXljc2JxMUlzeXM2Zlgza3J2T0VYQmx1VGgzd3Zhckp4a0lXblBiVE9Id2JxV3VtV01lZllyUHNqdldxTmVjX3ZYdE9Zd1pKQ2R1OVc2RDlzR1NQUDdPNXRFaWQzbkJLa2R3ZV9lS0pyOWJUd1JmUWdkajRUVGhSY0Q5bU5seXdibzh2d3dpTXQ3OExQMmN5SUM1Ul9XQW4tNFdHbU0xSUNPQlB2VlBVbXMzRTFSMjNVVkl3M1U3eDI1X3FvYk5HaG1WYmVNdkU?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-02T15:08:13+00:00",
-    "summary": "My Adult Doctor™ Launches Nationwide Virtual Healthcare Platform Expanding 24/7 Urgent Care, Primary Care, Wellness, and Advanced Digital and AI Health Services Across All 50 States, Puerto Rico, and Guam Morningstar",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "04ae70becee4",
-    "title": "Webflow unveils agentic platform, Source by Webflow - AiThority",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxObkRlTlJtRmJDYWNxOGlCZ1VheHo0US1tREttR2JzQi1Fdms0LXlESHEyUm9EWXZGWHA1R3U3SzV2dFpJSVd0dTg3VUxuUFhXSHY0M3Q0Tkk1Mno2RVBEcG9pVk10U1kzZm9iMWdpejRsdWZpSUdDc3RzRDhyV3BQTkJzVVhMZGF3dlNIc3pqblM1YnRx?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-09-03T08:24:20+00:00",
-    "summary": "Webflow unveils agentic platform, Source by Webflow AiThority",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "50ba95f75479",
-    "title": "Electronic Payments and Lifelong Launch Integrated Payments Platform for Kava Bars Nationwide - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZEo2b0JydzNBUWJtRGRadkp5Q2loMXdhWXI2QmxFUU9CeFIxb29mYmRCVWxIS1F3VHFrTUd5YW5CY2tHYTNyZzdab0pmQVprYi1JV2VrYk9yeFVFdUtEdGwtQmtpVFhGR3hrYlZRNzlRX1VWcl9OYXFrM2xjellKa1kwQTE2cThPOE4yc0MxSml2b2RKSVZkM3pTaWJhN0hldXBMZEZDOWV3YWFrNW9DRA?oc=5",
-    "source": "Fintech",
+    "id": "a8861557778b",
+    "title": "Robinhood Stock Soars Thanks to Wall Street Upgrades, Platform Expansion - Barron's",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1VUGVURGtkNDdTTWtIaUZsN3NuOWx3X3BJdUVKb3Zlb2FBT0hmMENzMFlJeHdGRDc2ZjhfMUtDZ0ZjeWJTM0ZjTzEwY253N1lDV1pLWUtMdnhBQkhEUTJsNzhzUFdSelFkZmJmeXBaSnJRc2NFSWQzSVFwbw?oc=5",
+    "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-09-03T12:08:00+00:00",
-    "summary": "Electronic Payments and Lifelong Launch Integrated Payments Platform for Kava Bars Nationwide Yahoo Finance",
+    "published": "2026-09-03T20:28:00+00:00",
+    "summary": "Robinhood Stock Soars Thanks to Wall Street Upgrades, Platform Expansion Barron's",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1080,17 +1029,18 @@
     "relevance_score": 10
   },
   {
-    "id": "9221bc0a48d9",
-    "title": "Hollywood’s New Shows Take Aim at Big Tech - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQQTBGdmpQRXNTcWtJT251YlVHQmRFVU5zYW5iRUpTc3hfUlhHVEZYc0FFQjltWS1wQ0ZmcGI2WVZfNG9TWkpqRkVXQVB6bXVBeGJBMGo3UE5zTmN2aGZxdGNEekRnWmdFT1RVVWpSblNSM0F5a3h5RDZjVUtaNk50bUZDanlvazY5dnVxTDZB?oc=5",
+    "id": "e2f958b69a1c",
+    "title": "Volkswagen Board Approves Doubling Job Cuts, Restructuring in Surprise Move - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQN0NZNUlaaEhnLTgxaWwzS05va1BjUXd5OXhIcGFNQVFMbklaVnVYNjBRU21lbjkwQl85YXdJZWQtb0VKM3M0c3UxTzZyWW1vajBaVTF1Z3BGb2pYUmtwSjlwYTVQbTNQdHA3czZHbXA3WVNoc1MtSGQ1S0x6ck9QNTZ1M3d2N3JTREdxQV9XdzJJblgwWHpXYlRIX0ZNYU5uZ3JyTjEyMGpBMjA?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-09-03T15:24:00+00:00",
-    "summary": "Hollywood’s New Shows Take Aim at Big Tech WSJ",
+    "published": "2026-09-03T21:16:00+00:00",
+    "summary": "Volkswagen Board Approves Doubling Job Cuts, Restructuring in Surprise Move WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech"
+      "tech",
+      "industrial"
     ],
     "relevance_score": 10
   },
@@ -1186,21 +1136,6 @@
     "relevance_score": 9
   },
   {
-    "id": "d4cded6b5231",
-    "title": "Activate Your Central Business Platform With The Right Integrations",
-    "url": "https://www.salesforce.com/blog/small-business/central-business-platform/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-09-02T13:00:00+00:00",
-    "summary": "Your business platform is only as powerful as the tools connected to it — here's how to build a system that works for you.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/image_1a4328.jpeg",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 9
-  },
-  {
     "id": "6afcece2c335",
     "title": "McKesson confirms data theft in cyberattack involving third-party apps",
     "url": "https://www.healthcaredive.com/news/mckesson-confirms-data-theft-cyberattack-involving-third-party-apps/829435/",
@@ -1217,18 +1152,18 @@
     "relevance_score": 9
   },
   {
-    "id": "4e2bbbebe702",
-    "title": "Salam evolves from telecom provider to digital transformation partner - TahawulTech.com",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNWd1djk0RWUzeDZmRGkwX1ZXTmdzWXdGMkc4NjkxeUNCSW56S3RndWlMMGM1QjNrNHhoQUVEQ3VWWnFZNzNrUFI4aHZLZk05VVgxYnFPSjd2OV9YZlNGejl1MmRfVUtvbGpZczBRRG1DTHp4NDd5aGJkblFZNmZSNVJJSllvVzJMdEJfdGR3TlJsNWpYbm0wRXpXY1BIa3FzczdBcG16WWRkMXFUMlE?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-09-03T12:31:44+00:00",
-    "summary": "Salam evolves from telecom provider to digital transformation partner TahawulTech.com",
+    "id": "50ba95f75479",
+    "title": "Electronic Payments and Lifelong Launch Integrated Payments Platform for Kava Bars Nationwide - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPZEo2b0JydzNBUWJtRGRadkp5Q2loMXdhWXI2QmxFUU9CeFIxb29mYmRCVWxIS1F3VHFrTUd5YW5CY2tHYTNyZzdab0pmQVprYi1JV2VrYk9yeFVFdUtEdGwtQmtpVFhGR3hrYlZRNzlRX1VWcl9OYXFrM2xjellKa1kwQTE2cThPOE4yc0MxSml2b2RKSVZkM3pTaWJhN0hldXBMZEZDOWV3YWFrNW9DRA?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-09-03T12:08:00+00:00",
+    "summary": "Electronic Payments and Lifelong Launch Integrated Payments Platform for Kava Bars Nationwide Yahoo Finance",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "telecom"
+      "financial"
     ],
     "relevance_score": 9
   },
@@ -1249,28 +1184,31 @@
     "relevance_score": 9
   },
   {
-    "id": "d443676286a5",
-    "title": "AI Isn’t Eating SaaS: Why Salesforce and ServiceNow Finally Exploded Upward - 247wallst.com",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxNTExoNmlES0JDbWZld2xqUUhTTmxqRHNxaGZ6dGtteDFpbm5PbUozMmFYZHJVMHM0R0ZkWVBxRGpwcFd1T1VYTHZ4QnJ4ZTQ3TjFfaVktLXc0QUN5RWdOajQtU3Qyd0lOdGs1V3B3b1FOLVpNM2gtUXJXQ0dWZVh2bEp3LUlwQ0phXy1mQ3JxM1M2Q2V4R1BzRTZ2RjNVMkI5QTJQbERGbmQ5bFFYTTdCd3ZEcXBWd21y?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-08-28T13:24:00+00:00",
-    "summary": "AI Isn’t Eating SaaS: Why Salesforce and ServiceNow Finally Exploded Upward 247wallst.com",
+    "id": "b15419cffe47",
+    "title": "CAMTEL and ANIPES sign agreement to accelerate digital transformation in Cameroon’s private higher education - Tech Review Africa",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxPTGpyenZ5eldXSVc4MjN6SjBxbnlRTWZqN3JUaDUtNDRPZHVUcmE0bDljbUJ4aHZkTGRxTGQ5VTZWUGs5Y2xKN2dUMFhEN0Z0U0YxMVN2ZVlmM2V5ek1YZU1ZTDdxc2VOMXp3NU9KMDZYbG0tbEE1V2I3d0hhTzdLQW44S0ZrMzhEdlR1SktTRGdfb0V5VzFJQlVqNFNONXJjTV9TaDdSOXlZNHJySk1BOEQ4S1QwZERlQ3BZUlY2LUlaTDhJc3d6bk1tNmlLYVNLVHpOdW01WURYcG4zd3JN?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-09-03T14:03:32+00:00",
+    "summary": "CAMTEL and ANIPES sign agreement to accelerate digital transformation in Cameroon’s private higher education Tech Review Africa",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech"
     ],
-    "relevance_score": 8
+    "relevance_score": 9,
+    "also_covered_by": [
+      "Fintech"
+    ]
   },
   {
     "id": "491fb784bdc4",
-    "title": "ServiceNow Vs. Salesforce: Who’s Better Positioned to Capitalize on AI? - 247wallst.com",
+    "title": "ServiceNow Vs. Salesforce: Who’s Better Positioned to Capitalize on AI? - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNR2RuRzJVdGgtWHZ2NUtTUGxSM0hoci1CT083cEo0R1dHY2hIaHE5aVNoNVZBa0tGN0RIZE9Jc3BKbDV6aVkySkRfck1hQWZ3aVFHZWtwS2pYRWRFMGRvM0VYcUlRV0p3ZlpXM2dhYkxEWk5aVHk0cGFkVFpqN1VHb0JYTENuNFdwSVRHcXVwSEMzdVdlLWw4T0wyUmlmVjlVU2VaUGs5bm1obkNBaFE4NA?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
     "published": "2026-08-31T12:42:00+00:00",
-    "summary": "ServiceNow Vs. Salesforce: Who’s Better Positioned to Capitalize on AI? 247wallst.com",
+    "summary": "ServiceNow Vs. Salesforce: Who’s Better Positioned to Capitalize on AI? 24/7 Wall St.",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1279,35 +1217,17 @@
     "relevance_score": 8
   },
   {
-    "id": "8978e39047b3",
-    "title": "McKesson confirms cybersecurity incident as hackers claim millions of patient records stolen",
-    "url": "https://www.fiercehealthcare.com/health-tech/mckesson-confirms-cybersecurity-incident-hackers-claim-millions-patient-records-stolen",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-08-31T17:08:00+00:00",
-    "summary": "Healthcare giant McKesson Corporation confirmed on Friday that it was investigating a cybersecurity incident tied to third-party applications that led to unauthorized access and theft of data.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/data.jpg?VersionId=Lv.wGqC8H1BlZ.8m3wu7_1ssgXLG7zUB",
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "71275d9681e5",
-    "title": "Digital health vendor BeeHealthy taps Nokia's number verification API to check patient IDs - telecompaper.com",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxNZXFNck42dUpUYzY5bWdKLW04c0s3OGdOZ0RGRU5qMnk5bkVvaWhwMkxHQXMyX0hjVmlHd2hhM0MzVWdYOEFIMXpuMVI3aUFtUE11TEJtbXI1bzhpeXE4NDNaTzZYTFgwaWVsWGFRMFhlVzMzVUtCdjhJbjhDS2YzU3VYOFdZU0lobi1lLTRxYVMtTm5HeXFVV1F4bTlVNDZwUmFSUjdLNUxkS3p2am1LVHQ0RG5hcF8tMU9CMnJxRmRSaFhjaF9VM1BNdEQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-03T08:31:09+00:00",
-    "summary": "Digital health vendor BeeHealthy taps Nokia's number verification API to check patient IDs telecompaper.com",
+    "id": "9ee78700480d",
+    "title": "Adobe just released a Premiere beta for Android, but Googlebook will need much more - Chrome Unboxed",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSjBZYzl3TGVwQ1RjbE5xV1NDelItSms0ZFdHME5rdlJnWk5adDhTTzBQQVU0UDM4T1VDUmgxTVUwd0t2NzlhRXZiR1REZFdKNVI2b1B2YTB2REVEd2kwN09wazNyMlRRaThSLUY3VHlZc1VFT0tnTzViSnhHTEdzWUVUUzlNbUdFMHZzOVZhSTZBN1N1bnFiaDFHajlkQ09JblVIV1hsR1pOYlk2eHc?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-09-01T18:47:13+00:00",
+    "summary": "Adobe just released a Premiere beta for Android, but Googlebook will need much more Chrome Unboxed",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
-      "telecom",
-      "lifesciences"
+      "tech"
     ],
     "relevance_score": 8
   },
@@ -1329,17 +1249,49 @@
   },
   {
     "id": "655889b54c68",
-    "title": "How Mollie & GoCardless are Reshaping SME Payments in Europe - FinTech Magazine",
+    "title": "How Mollie & GoCardless are Reshaping SME Payments in Europe - fintechmagazine.com",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNaWkyOW1QZ0FZS2RYbGR0S2oyVkQyc1lnU1ViXzkwMkJzY25hbTZicXc4ZGFRY1otR29HSXFXcGZQMTcxeUl1UXQwZVpWa0YzRUpXLVJrYWM1NndLY1JnbkYxWVdBX1pJX0o3UGpCMnpySnlMVzNmbmtUZmdlLTVDbU80bzdmUTZMNm4xN2dwdzZJeTRxd1E?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
     "published": "2026-09-03T10:06:46+00:00",
-    "summary": "How Mollie & GoCardless are Reshaping SME Payments in Europe FinTech Magazine",
+    "summary": "How Mollie & GoCardless are Reshaping SME Payments in Europe fintechmagazine.com",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
       "financial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "1471cd12c2a9",
+    "title": "An enterprise-wide approach to digital transformation may be the better way forward - healthcareitnews.com",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQNmZoSHZ2cEZBcThYbmdRUUVvVTQ4TTVfR0RwQ0JpLVZ0ODNBTXNUczRTU21FRWN1UDNpRXRKek14b0dJVXMzMlNMeFl4dkdxSHVsQU9kNE5GVTBRX2tjWldqSk52TW14OWh3enUtSk9EdGdWVEdWM1lOd0h5OUVRbFZzOWhYZDltdjRSMlZOWlZKb0tIWlg2WWtzcGVvWEpmUTl0bHRDMHVqb3VMMjQ1cg?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-03T12:23:40+00:00",
+    "summary": "An enterprise-wide approach to digital transformation may be the better way forward healthcareitnews.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "4e2bbbebe702",
+    "title": "Salam evolves from telecom provider to digital transformation partner - TahawulTech.com",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNWd1djk0RWUzeDZmRGkwX1ZXTmdzWXdGMkc4NjkxeUNCSW56S3RndWlMMGM1QjNrNHhoQUVEQ3VWWnFZNzNrUFI4aHZLZk05VVgxYnFPSjd2OV9YZlNGejl1MmRfVUtvbGpZczBRRG1DTHp4NDd5aGJkblFZNmZSNVJJSllvVzJMdEJfdGR3TlJsNWpYbm0wRXpXY1BIa3FzczdBcG16WWRkMXFUMlE?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-09-03T12:31:44+00:00",
+    "summary": "Salam evolves from telecom provider to digital transformation partner TahawulTech.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom"
     ],
     "relevance_score": 8
   },
@@ -1359,63 +1311,116 @@
     "relevance_score": 7
   },
   {
-    "id": "9f33bcb02825",
-    "title": "Adobe Stock and Two AI Software Names Investors May Want to Watch - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQZVFkcm5scDd3Z3gtejV4MkJWYnFJZ2dnQ2JtUlVwSktPX0Y1YjhNT095RUk4bzRMZF9IcnZ6U21rS2hDbS1FYjdNaGlXZzJoQU1nb1E0eHR4ajJlMEtJYlAtaW1WWC1ZVEQ5WlVaY3FXR0xKaVB2U2c3aEJDSVh4UkgwbWpoY19CRHNvX2NFMHVRX0FpaGc?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-08-28T22:14:21+00:00",
-    "summary": "Adobe Stock and Two AI Software Names Investors May Want to Watch Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "b6b7b406308a",
-    "title": "QUALCOMM Incorporated : Adobe Becomes First Global Software Company to Migrate AI Workloads onto HUMAIN Platform, Accelerated by Qualcomm - marketscreener.com",
-    "url": "https://news.google.com/rss/articles/CBMi5gFBVV95cUxPQ1VWQWpodzBnSTBKdFNiVWdWNGlYWkwxb3MxaGs3MGwtSjJycTRKblVSOFZBZXdwNk00MVNoUV9OcGpWMnJCbmc3SU5qOE16SnlzN2pkMW5NVmZhQklpcWhUNGZnME9wZUdlZG1TNlhneW5OZ1BkcFhVUG9NTmljY2VwRF9XekxFS3RFWmNHbzdkVXFnbl9zU3M3dGNtb0dxWDdYcVQzQ095NnpzLThjTE9KeEVPSTBRSWQwYzZRb3pyYzk3bS0tR0tqT19sSU9xQURSZ3ZtYmtLZFh5OVJkNGl0MnR3QQ?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-08-31T15:53:36+00:00",
-    "summary": "QUALCOMM Incorporated : Adobe Becomes First Global Software Company to Migrate AI Workloads onto HUMAIN Platform, Accelerated by Qualcomm marketscreener.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "9d6a31383c75",
-    "title": "Winter Is Approaching and Europe Is Running Low on Natural Gas - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQNVB0UnVzUThXVzk1VzQwTWlVMWlvOVlidGFYZWxjSGdheUJJMzBGRzd4cTJpWkxYRWhtMWNXZDVPaXh5Szc1Tm54Skl4Q3BucXZOXzJrcTllVmRGNDljZzRTa3A5a2hIMGtIMWhxckZwbTlESzJxSTRMa1FRV1ptazdZMVR3bHVVeDllTV9faTlWdjdiRTJrSUVyQV9BY1VGYTN6bndJYlcyNkR4WU50SFlVU091WGt6WHMw?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-09-02T18:39:00+00:00",
-    "summary": "Winter Is Approaching and Europe Is Running Low on Natural Gas WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "81ba964f6b5a",
-    "title": "Bank of America, Wells Fargo and Santander Plan a Joint Stablecoin - Startup Fortune",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQaEtPWWE3NUlEc1ZxR0V0RU9wU3ltZVFldTdHaGpKVVl5X0NvNlYtLVNuUHhqelBwbDNpU2N0M1lnUnRaUmhiQ3RSV0JJT1d1SEVBOWtldGhtMTdCczY2bTU0STlFZ3dzZTV1VjhhNHl5Q1Z5blZjcmtBSGJMNHVTWG5lSjhtMUw1UjcxOUd6WUVnb0RERTBlcg?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-08-29T03:56:07+00:00",
-    "summary": "Bank of America, Wells Fargo and Santander Plan a Joint Stablecoin Startup Fortune",
+    "id": "04d5494cfcf8",
+    "title": "What Does BioNTech (BNTX) FDA Approval Mean For Its 2026 COVID Vaccine? - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPTnZ0OEhldnNNUzFtVnJBQ1dlR3Y2SmZrWDRsUVo2Q0JWWHlzMHJNZFFNQkc0UnJIWUpyZkVNNmtUMUNKSm9fT0ZBakNPaXcyeDh3cWNLQjI3UDNabXNpX3hNOTh6Q0MyclVsMEZ0R0Q0VmhpNUJqeWxTVVNBblVDQ29Gc21SOHEtejNkM3NaTkQtM2o1MExyQ0Y4V2hNNkdSbkpkUXVxUjdOSk5wOHhXNHFHTG42UTQwak9FaWVlQ1RWSnU2X0puS0E5cUF6OF9jYThvZ19aVVpEd9IB3wFBVV95cUxQTTREcC1wa3pHUEwxdWdQbldya1JEa1JwVmJFLTNES0dCa1BNaGZYMVR4dWd6T3YyQ0VXbUJmR3QtQVAwb3h0R3BfRFo5Uk14ZTkwU3RoSGZXNzR0YVFkRDJTeGpUR1Y1eUZtS1d1U2RNcEd5ekxJbG5nOVI5MW9qMHNDekZTUHZIN3YzWHBPMUUzN1hPdmFwcEU4MXJOeFpfdUkwUU1mMTdlaWdUV3czclZKS2wydlJnMWY0aWZSZ2hHTlF0RFI0OXVYSVVqb0pnc0VpOGxQdG53WXRBRnV3?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-01T09:32:50+00:00",
+    "summary": "What Does BioNTech (BNTX) FDA Approval Mean For Its 2026 COVID Vaccine? simplywall.st",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "financial"
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "45de3ae9023b",
+    "title": "Clinical Impacts of New FDA-Approved Oveporexton for Narcolepsy Type 1: Sara Sarkey, PhD - Neurology Live",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPSGdCOGZMV0NsZU9ETVN6R1VfakxWTEJ4czdGRGwxNXVTdTRyZVpUR3dfTG9JOGNTZmROMzlYOWZKUFFYT1lKZnEyemVkQ0xTTDdWZTAtYkZxSkpSREtQRzU5bko1Qm1qelJ3cTdtLVNXYllSQTd2bTJVOWtGYXNmeGM5eDg2a0VJRDRuUzhOemMwU1cxd1luYW5ISzY1bXFDcHZsdGoyZURCTXBIa1pr?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-28T19:54:14+00:00",
+    "summary": "Clinical Impacts of New FDA-Approved Oveporexton for Narcolepsy Type 1: Sara Sarkey, PhD Neurology Live",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "70ab02a18492",
+    "title": "FDA clears Stryker’s ‘surgical cockpit’ that uses Apple’s VR headset, Vision Pro - STAT",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNSEltcmZnTlZjZzJHM3pJMGR5Um41RTU5Y1hDZkVvejF4bkZvNWlqTjNlMEM4ZHRpbEcyN1RGLWxaWFVDenRwMjVNcElOaXNNVGN0LXlIWHlfMnJFeWhFc2lRb05raUdkZkx5bEhUbmlWUXdpUk9DSW1jOVRZM21uMXJ4bDJfUzJza21waUtaSUVkYjN3MjBkR0dR?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-01T13:14:56+00:00",
+    "summary": "FDA clears Stryker’s ‘surgical cockpit’ that uses Apple’s VR headset, Vision Pro STAT",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "56bbd393d331",
+    "title": "UniQure files for FDA, UK approval of first gene therapy for Huntington’s disease - BioSpace",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNbEl1dEpPdGljV0l3eVRQallPNkU2ZmxIZHFFM3A0ZXQ4VzI1eG5NYVNDQ285QUotTVFPMzU0T29xWVRwaGVzRnVmRWo5WThUd0paU3VTRUpNd1lDU1FNYWlxS3pNR0FVLUV3bXdPRk9mQU4xXzRENndpeG02c3ptclZENlkwWVhTQk5tTENQclFnNS1JUDdpTFBJZkpWRVNjdGRqYW9ZYi0zem56?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-02T13:25:50+00:00",
+    "summary": "UniQure files for FDA, UK approval of first gene therapy for Huntington’s disease BioSpace",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "cd9c1d8ac5e2",
+    "title": "Insights from FDA complete response letters: Preventing costly drug approval delays - The Real Economy Blog",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPank1NXVNVldneC1sZmVPVHhkV3M2dzQxSWhmX1dWSmwyb19OOEtBelNqbV94bTJ1aGptbXlGWUpjYlBMeDdCdkZiYm9oWHlpcXR3T2NEaUNmQW5wVGc0eEhCZENzT21XMmh4dktGU2hVd2NCRloyNVlJRUVibGNZZ0xnRHhVVDJMbW9PRXdQXzhhVFhmcGZvejNCa3lvRkxxd0ZNOTdXYWdZM25qN1FlSlowQQ?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-02T21:40:20+00:00",
+    "summary": "Insights from FDA complete response letters: Preventing costly drug approval delays The Real Economy Blog",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "6b8d4d06e098",
+    "title": "FDA approves Roivant therapy for rare autoimmune disease - STAT",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPS2d5NHlEQ192RXJRd0x6cnFUS3ZZRl8yRlk2aHh3a3hkWW55bzBzS1VseW9mZDNUQTlSRHc4ek5VNUFzdmFHMFkzWkpyVDNfYVd4c1l5LWM2Vm56c0RNT1dtRk5SbThjQUZBZVNpZ2hoVUhPVEN0MkdGMFJON1dESnBSTlQ3LVloaUtUM0dYZVR0TGw5bmdIUQ?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-28T01:27:32+00:00",
+    "summary": "FDA approves Roivant therapy for rare autoimmune disease STAT",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "8a76af2c026b",
+    "title": "FDA Approves Brepocitinib as First Oral Drug for Dermatomyositis - The American Journal of Managed Care",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOek5KR1dpS2xuVVlNNk5zbkxreUJXU3ZjMXNoVzV4RG5pend4cmJkMjNTTDM5VHpmVGdzSUFYTjFoSExRTDllallDY2ZUd3hLUFpiMU55UTVBUkVuWkljRV9nZFU3SHZVb1Vvb1FqenRnTkZIU3dpTFdVc2tNMklWendjb01tejRxZFdLY2lnZDdnQmo4?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-28T06:36:36+00:00",
+    "summary": "FDA Approves Brepocitinib as First Oral Drug for Dermatomyositis The American Journal of Managed Care",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
     ],
     "relevance_score": 5
   },
@@ -1436,18 +1441,34 @@
     "relevance_score": 5
   },
   {
-    "id": "1793fc89eee3",
-    "title": "ICE invests in tZERO, names second digital transfer agent for NYSE tokenized platform - ledgerinsights.com",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQSk1EYlNQU21CLWVxTkFlUG1vY3J5dHVtR1AyTzNVcS1OWTEwZXVDQjNQVm9PZXZmTW1mcFVhV3Fpa0dhaDZVbTNiYjlRa0FvLU1pQ2hPVlhRaENTanpZUUtuZ1M5M3B0eWJEV251blV2WUFGN2xfZi04SUhCWElDNzF3QmxmS2pYbnJCYldMRWJaZHZOMURWMkJVZEFtSmVUNGU5cjVTYjUzZ2owVDRVN1FMemhmdVk?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-08-31T16:38:30+00:00",
-    "summary": "ICE invests in tZERO, names second digital transfer agent for NYSE tokenized platform ledgerinsights.com",
+    "id": "c5eefbd7484c",
+    "title": "FDA Approves BESREMi for Adults with Essential Thrombocythemia - Oncology Nursing News",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNT3dCRnZZdUJYcU4tbVVGYnR5cEJINmFkTUJvd3VGUkkyV0RreHotM3VVZmwtaUlaeXpVZGhCdTR6cHMyOFVId2ZHMEttWU1uUFNSaUxWTzRLenJNcTN2T29rbVZORDEwTDJucXRsbHZEZ3Niak8tME5KVDhYYWI1NFdFRXBMLVNrQktSLU1Odzd6SUtWRUhIOWtZSDFXREk?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-08-31T14:00:09+00:00",
+    "summary": "FDA Approves BESREMi for Adults with Essential Thrombocythemia Oncology Nursing News",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "industrial"
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "fb1e73af878d",
+    "title": "Crypto firm Ethena expands into digital banking with new savings and payments app on Avalanche - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxONGxST0c0X0xkQldqUlJKM3c4enFjZVJieWFJZVBuVWNvcjljXzhpcVRKUmQyWnphd3RGeEo3MDg5RWJyZ0VJeXM4UV9Ma2Zrc0xaa0ZaMXhDczBILVJPTEZLdm12UjBmMjlIVHZHdHgzWVQxck8ycXRCTjJ1VUpSMGQ3NjFDN3VhY3JWQjZJc2U4X1pkM1hjV2ZLaXlVTHNNSHBXQ2tzeHVKMzlmLTRvTW9ETVBjQ25lcmIycnluMEdYc2FFZXpfaHhSTjhORUxB?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-09-01T13:15:35+00:00",
+    "summary": "Crypto firm Ethena expands into digital banking with new savings and payments app on Avalanche CoinDesk",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
     ],
     "relevance_score": 5
   }
