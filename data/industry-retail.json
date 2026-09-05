@@ -31,7 +31,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 44
+    "relevance_score": 40
   },
   {
     "id": "c44569c01ea5",
@@ -46,23 +46,6 @@
     "industries": [
       "retail",
       "consumer"
-    ],
-    "relevance_score": 33
-  },
-  {
-    "id": "b6b2cb97e4b7",
-    "title": "Ulta’s use of Flock technology causes upset online",
-    "url": "https://www.retaildive.com/news/ulta-flock-technology-backlash/829623/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-09-04T15:26:00+00:00",
-    "summary": "The retailer drew attention on social media this week for its use of automated license plate readers at some locations as the technology has drawn widespread public criticism.",
-    "image_url": "https://imgproxy.divecdn.com/muNQwdo95h0sd72hbGRPkPPsE3e13bOaTkg9A-ShhnM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9VbHRhLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "media",
-      "tech",
-      "retail"
     ],
     "relevance_score": 33
   },
@@ -87,6 +70,23 @@
     "relevance_score": 32
   },
   {
+    "id": "b6b2cb97e4b7",
+    "title": "Ulta’s use of Flock technology causes upset online",
+    "url": "https://www.retaildive.com/news/ulta-flock-technology-backlash/829623/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-09-04T15:26:00+00:00",
+    "summary": "The retailer drew attention on social media this week for its use of automated license plate readers at some locations as the technology has drawn widespread public criticism.",
+    "image_url": "https://imgproxy.divecdn.com/muNQwdo95h0sd72hbGRPkPPsE3e13bOaTkg9A-ShhnM/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9VbHRhLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "retail"
+    ],
+    "relevance_score": 29
+  },
+  {
     "id": "6cddcb3497ac",
     "title": "LG CNS Targets U.S. Ad Market with Agentic AI-Powered Marketing Solution - Yahoo Finance",
     "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNRWVESkhHZ2syMUwwOGlaMHNWd2tzSEQ5Rm9GV3BPSEc2V1UwZkk4bnRtVEFCU3o4dm9yX3B0NFNpS2llbVVIZzFKX0RPR3JqVzFwQy1vQ2xpUUVrX1BhQi1oMTZ1Z3VINjNPVXBrME1fTVNsNkhWd0FXNWM1bFJacG9tekE3RmRYWHhmR2d0RU8?oc=5",
@@ -100,27 +100,11 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 20
-  },
-  {
-    "id": "5b1308781068",
-    "title": "OpenAI admits to German wiki ‘incident’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-09-05T11:15:55+00:00",
-    "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "Tech"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 17
+    "relevance_score": 20,
+    "also_covered_by": [
+      "Adobe Products",
+      "Adobe Inc"
+    ]
   },
   {
     "id": "6dc294c265b0",
@@ -145,19 +129,24 @@
     "relevance_score": 16
   },
   {
-    "id": "9aca8d241a4e",
-    "title": "Lululemon pulls back store plans as sales plummet",
-    "url": "https://www.retaildive.com/news/lululemon-pulls-back-store-plans-sales-plummet-q2/829660/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-09-04T16:13:00+00:00",
-    "summary": "Even sales of leggings fell 20% in Q2. Incoming CEO Heidi O’Neill, the former Nike exec who arrives next week, has her work cut out for her.",
-    "image_url": "https://imgproxy.divecdn.com/9Zu240Ng60FS-g6OFi6-aHvAKKkZGP_6Bw90l6930tI/g:nowe:0:174/c:1280:723/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjY5My5qcGVn.webp",
-    "tags": [],
-    "industries": [
-      "retail"
+    "id": "5b1308781068",
+    "title": "OpenAI admits to German wiki ‘incident’",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-09-05T11:15:55+00:00",
+    "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "Tech"
     ],
-    "relevance_score": 15
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 16
   },
   {
     "id": "4ee4a6906a27",
@@ -181,18 +170,17 @@
     "relevance_score": 14
   },
   {
-    "id": "9be02ffcadb7",
-    "title": "Amazon Prime members now get free Alexa+ access",
-    "url": "https://www.retaildive.com/news/amazon-adds-perks-prime-free-alexa-access/829610/",
+    "id": "9aca8d241a4e",
+    "title": "Lululemon pulls back store plans as sales plummet",
+    "url": "https://www.retaildive.com/news/lululemon-pulls-back-store-plans-sales-plummet-q2/829660/",
     "source": "Retail Dive",
     "source_category": "industry_retail",
-    "published": "2026-09-04T15:48:00+00:00",
-    "summary": "The new perk follows a quarter of double-digit growth in Prime membership as Amazon and rivals emphasize the importance of their paid membership programs.",
-    "image_url": "https://imgproxy.divecdn.com/INjiPlFbHYkRInGEK0Gaq-m3nCXr7eWA_PNKV_dnCfc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbGV4YV9wbHVzLmpwZw==.webp",
+    "published": "2026-09-04T16:13:00+00:00",
+    "summary": "Even sales of leggings fell 20% in Q2. Incoming CEO Heidi O’Neill, the former Nike exec who arrives next week, has her work cut out for her.",
+    "image_url": "https://imgproxy.divecdn.com/9Zu240Ng60FS-g6OFi6-aHvAKKkZGP_6Bw90l6930tI/g:nowe:0:174/c:1280:723/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfMjY5My5qcGVn.webp",
     "tags": [],
     "industries": [
-      "retail",
-      "industrial"
+      "retail"
     ],
     "relevance_score": 14
   },
@@ -242,6 +230,22 @@
     "relevance_score": 12
   },
   {
+    "id": "9be02ffcadb7",
+    "title": "Amazon Prime members now get free Alexa+ access",
+    "url": "https://www.retaildive.com/news/amazon-adds-perks-prime-free-alexa-access/829610/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-09-04T15:48:00+00:00",
+    "summary": "The new perk follows a quarter of double-digit growth in Prime membership as Amazon and rivals emphasize the importance of their paid membership programs.",
+    "image_url": "https://imgproxy.divecdn.com/INjiPlFbHYkRInGEK0Gaq-m3nCXr7eWA_PNKV_dnCfc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbGV4YV9wbHVzLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
     "id": "c3e21c886ba5",
     "title": "Ace Hardware adds weather-triggered programmatic ads to retail media strategy",
     "url": "https://digiday.com/marketing/ace-hardware-adds-weather-triggered-programmatic-ads-to-retail-media-strategy/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -279,23 +283,6 @@
     "relevance_score": 11
   },
   {
-    "id": "9c1baf2e3641",
-    "title": "Dollar General deploys AI across distribution centers, stores",
-    "url": "https://www.retaildive.com/news/dollar-general-ai-distribution-centers-stores/829201/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-09-04T14:27:00+00:00",
-    "summary": "The retailer is using Relex Solutions’ supply chain platform to manage ordering schedules, lead times, supplier coordination and fulfillment methods.",
-    "image_url": "https://imgproxy.divecdn.com/omDUoQqftnNa4NDoi-zn9ga94wPUWiJA2XEgVlcMlxw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yUkY1RUhKLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
     "id": "ccc39a248f59",
     "title": "WTF is the Amazon ad surcharge lawsuit?",
     "url": "https://digiday.com/media-buying/wtf-is-the-amazon-ad-surcharge-lawsuit/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -327,7 +314,24 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 10
+    "relevance_score": 9
+  },
+  {
+    "id": "9c1baf2e3641",
+    "title": "Dollar General deploys AI across distribution centers, stores",
+    "url": "https://www.retaildive.com/news/dollar-general-ai-distribution-centers-stores/829201/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-09-04T14:27:00+00:00",
+    "summary": "The retailer is using Relex Solutions’ supply chain platform to manage ordering schedules, lead times, supplier coordination and fulfillment methods.",
+    "image_url": "https://imgproxy.divecdn.com/omDUoQqftnNa4NDoi-zn9ga94wPUWiJA2XEgVlcMlxw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yUkY1RUhKLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 9
   },
   {
     "id": "e04570573a8b",
@@ -344,7 +348,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 9
+    "relevance_score": 8
   },
   {
     "id": "e5cff17161d8",
