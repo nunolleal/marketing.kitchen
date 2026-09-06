@@ -103,6 +103,30 @@
     "relevance_score": 20
   },
   {
+    "id": "0f88b0f3ab82",
+    "title": "An Amazon cargo plane crashed at Miami International Airport",
+    "url": "https://www.theverge.com/tech/990918/amazon-cargo-plane-crashed-miami",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-09-06T20:56:38+00:00",
+    "summary": "A plane bearing an Amazon logo overran the runway at Miami International Airport on Sunday during landing, crashing into vehicles and resulting in multiple injuries. The extent of the damage or the seriousness of the injuries was not clear at the time of publication. In the...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2293852643.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Amazon",
+      "News",
+      "Tech"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 16,
+    "also_covered_by": [
+      "Forbes Business",
+      "Wall Street"
+    ]
+  },
+  {
     "id": "6dc294c265b0",
     "title": "Retail Roundup: Amazon’s $20 Billion Lawsuit, and Commerce Media’s First Upfronts",
     "url": "https://www.adweek.com/commerce/retail-roundup-amazons-20-billion-lawsuit-and-commerce-medias-first-upfronts/",
@@ -201,27 +225,6 @@
     "relevance_score": 11
   },
   {
-    "id": "0ad643f5c5f7",
-    "title": "Ethio Telecom sets 295 billion birr revenue target, allocates 8.1 billion birr to disaster fund - Capital Newspaper",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX3BaMm5YTWNoZzRWOE51djlSeGFkMWRRQThwN1Z3MmNzS0RnZ09fdW5NR0pjbGxpWWxYZW43Z2tfU0Fpc0t2ZC1leDlyYkN4cEVqNjNaQzNqcjVPUjlIcVpYYVBCNDc4NkJIVUFfZGdEN2dFdHByamcyUllwdjNLUWVvNTI0N3NtdmFBTGV3dW0weU1iQkVxNW1TWXRJXzhVdFRDTzNOa19kY3ZUZ3lIUHY5czZrUjU0UExsZTZxb3NmdFlDdVRnNGpPWDctVGM?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-09-05T22:45:00+00:00",
-    "summary": "Ethio Telecom sets 295 billion birr revenue target, allocates 8.1 billion birr to disaster fund Capital Newspaper",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "telecom",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 11,
-    "also_covered_by": [
-      "Telecom Digital"
-    ]
-  },
-  {
     "id": "ccc39a248f59",
     "title": "WTF is the Amazon ad surcharge lawsuit?",
     "url": "https://digiday.com/media-buying/wtf-is-the-amazon-ad-surcharge-lawsuit/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -260,20 +263,24 @@
     "relevance_score": 10
   },
   {
-    "id": "f25019cde1fc",
-    "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores - The Hacker News",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRElYVkJJV0RlODVzcXNkWDFYWlp5VmJTZ0EzTFA4NjFuajdMeFJSMldHb3dIMWRMXzRncFJwOVlnMGVOWV9xOWZfbmVNd1dzNG9EMHRrT2piY2E5X1FJOFBCaDNQdFRHdDA2RDZrYU51Y3NadzJOWXNmS054aktnYQ?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-09-05T20:14:00+00:00",
-    "summary": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores The Hacker News",
+    "id": "cabe64e64efa",
+    "title": "Ethio Telecom Targets 96.2 Million Customers, ETB 295 Billion Revenue in 2026/27 - TechAfrica News",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPYXBSU3lTWFBReHRGUHhNT3NhUk9ZdmhCbXhpOVRXUllNcW1mU3VTTE9QS1RmMWozQzhxbTBKVHhRT0puNUZhOUVrc0c3ejU1VGluMF85LXVuREM5RWFnMjZOcld1MDJfdzkzUnNUT1lVUVlNUjlEWGlJYUMtUkw2YUxIMTVzRTJtN01BbTNSSUhKbmlfaUp1RDctclRVNEwzX01nTVd1dmQ4VzBwdnpXM3FoUFZPekhLMnc?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-09-04T10:46:30+00:00",
+    "summary": "Ethio Telecom Targets 96.2 Million Customers, ETB 295 Billion Revenue in 2026/27 TechAfrica News",
     "image_url": null,
     "tags": [],
     "industries": [
+      "telecom",
       "retail",
       "industrial"
     ],
-    "relevance_score": 10
+    "relevance_score": 10,
+    "also_covered_by": [
+      "Telecom Digital"
+    ]
   },
   {
     "id": "a58951591a34",
@@ -309,6 +316,22 @@
     "relevance_score": 8
   },
   {
+    "id": "f25019cde1fc",
+    "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores - thehackernews.com",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRElYVkJJV0RlODVzcXNkWDFYWlp5VmJTZ0EzTFA4NjFuajdMeFJSMldHb3dIMWRMXzRncFJwOVlnMGVOWV9xOWZfbmVNd1dzNG9EMHRrT2piY2E5X1FJOFBCaDNQdFRHdDA2RDZrYU51Y3NadzJOWXNmS054aktnYQ?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-09-05T20:14:00+00:00",
+    "summary": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores thehackernews.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "48d310add513",
     "title": "Bank of America joins 21 banks forming stablecoin venture targeting 2027 launch - The Business Journals",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPem9IalBmOGJ6NDByb183TFI4WVhCazZ4S2ZSbTlSOHlMd3hwR0ZCazJjbjFhMTBGS2ladXFKQlA5UHhIdFRhUU83UTBYRzZrYW1PWmNOdldRS0RVbFhPY0J0alk0R3hnV1N4OHUydFpZaXFyUFN4a01XX2pSSnlySTVhVzBXOENIUmZhdzVGZkZOUWpPZ2I0X0l5T3NrNDBhTy04RDNmTkxvUQ?oc=5",
@@ -337,6 +360,23 @@
     "tags": [],
     "industries": [
       "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "e5cff17161d8",
+    "title": "Africa’s Oldest Telecom Operator Targets 7.4trln Birr in Telebirr Transactions - FSX Business",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTFBxdVdRMXRlWVdtVjlqYzQxelhQT3V1SW1XZzhlWF9oQVo3TTFhXzBVbjBYVjJ3YkwxTkdFWkU0MHBGMGVXWkNzQnhmSktPX3lnMHd0S0JiVlBuRE56VlpsSjZNYlk4ZWtKdjc1WklB?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-09-04T09:24:04+00:00",
+    "summary": "Africa’s Oldest Telecom Operator Targets 7.4trln Birr in Telebirr Transactions FSX Business",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "telecom",
       "retail",
       "industrial"
     ],
