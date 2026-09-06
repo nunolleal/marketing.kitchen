@@ -31,7 +31,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 40
+    "relevance_score": 37
   },
   {
     "id": "c44569c01ea5",
@@ -84,7 +84,7 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 29
+    "relevance_score": 26
   },
   {
     "id": "6cddcb3497ac",
@@ -100,11 +100,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 20,
-    "also_covered_by": [
-      "Adobe Products",
-      "Adobe Inc"
-    ]
+    "relevance_score": 20
   },
   {
     "id": "6dc294c265b0",
@@ -141,64 +137,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "9be02ffcadb7",
-    "title": "Amazon Prime members now get free Alexa+ access",
-    "url": "https://www.retaildive.com/news/amazon-adds-perks-prime-free-alexa-access/829610/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-09-04T15:48:00+00:00",
-    "summary": "The new perk follows a quarter of double-digit growth in Prime membership as Amazon and rivals emphasize the importance of their paid membership programs.",
-    "image_url": "https://imgproxy.divecdn.com/INjiPlFbHYkRInGEK0Gaq-m3nCXr7eWA_PNKV_dnCfc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbGV4YV9wbHVzLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
     "relevance_score": 12
-  },
-  {
-    "id": "5b1308781068",
-    "title": "OpenAI admits to German wiki ‘incident’",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-09-05T11:15:55+00:00",
-    "summary": "OpenAI says it needs to overhaul how and when it reports instances of AI models attacking real-world targets. The acknowledgement comes as the company manages the fallout from reports that a swarm of its out-of-control agents hijacked a German wiki site. Regarding the \"'wiki...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D_54a015.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
-    "tags": [
-      "AI",
-      "OpenAI",
-      "Tech"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "0ad643f5c5f7",
-    "title": "Ethio Telecom sets 295 billion birr revenue target, allocates 8.1 billion birr to disaster fund - Capital Newspaper",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX3BaMm5YTWNoZzRWOE51djlSeGFkMWRRQThwN1Z3MmNzS0RnZ09fdW5NR0pjbGxpWWxYZW43Z2tfU0Fpc0t2ZC1leDlyYkN4cEVqNjNaQzNqcjVPUjlIcVpYYVBCNDc4NkJIVUFfZGdEN2dFdHByamcyUllwdjNLUWVvNTI0N3NtdmFBTGV3dW0weU1iQkVxNW1TWXRJXzhVdFRDTzNOa19kY3ZUZ3lIUHY5czZrUjU0UExsZTZxb3NmdFlDdVRnNGpPWDctVGM?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-09-05T22:45:00+00:00",
-    "summary": "Ethio Telecom sets 295 billion birr revenue target, allocates 8.1 billion birr to disaster fund Capital Newspaper",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "telecom",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 12,
-    "also_covered_by": [
-      "Telecom Digital"
-    ]
   },
   {
     "id": "6570cc42f2bf",
@@ -246,6 +185,43 @@
     "relevance_score": 11
   },
   {
+    "id": "9be02ffcadb7",
+    "title": "Amazon Prime members now get free Alexa+ access",
+    "url": "https://www.retaildive.com/news/amazon-adds-perks-prime-free-alexa-access/829610/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-09-04T15:48:00+00:00",
+    "summary": "The new perk follows a quarter of double-digit growth in Prime membership as Amazon and rivals emphasize the importance of their paid membership programs.",
+    "image_url": "https://imgproxy.divecdn.com/INjiPlFbHYkRInGEK0Gaq-m3nCXr7eWA_PNKV_dnCfc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbGV4YV9wbHVzLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "0ad643f5c5f7",
+    "title": "Ethio Telecom sets 295 billion birr revenue target, allocates 8.1 billion birr to disaster fund - Capital Newspaper",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxOX3BaMm5YTWNoZzRWOE51djlSeGFkMWRRQThwN1Z3MmNzS0RnZ09fdW5NR0pjbGxpWWxYZW43Z2tfU0Fpc0t2ZC1leDlyYkN4cEVqNjNaQzNqcjVPUjlIcVpYYVBCNDc4NkJIVUFfZGdEN2dFdHByamcyUllwdjNLUWVvNTI0N3NtdmFBTGV3dW0weU1iQkVxNW1TWXRJXzhVdFRDTzNOa19kY3ZUZ3lIUHY5czZrUjU0UExsZTZxb3NmdFlDdVRnNGpPWDctVGM?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-09-05T22:45:00+00:00",
+    "summary": "Ethio Telecom sets 295 billion birr revenue target, allocates 8.1 billion birr to disaster fund Capital Newspaper",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 11,
+    "also_covered_by": [
+      "Telecom Digital"
+    ]
+  },
+  {
     "id": "ccc39a248f59",
     "title": "WTF is the Amazon ad surcharge lawsuit?",
     "url": "https://digiday.com/media-buying/wtf-is-the-amazon-ad-surcharge-lawsuit/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -285,12 +261,12 @@
   },
   {
     "id": "f25019cde1fc",
-    "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores - thehackernews.com",
+    "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores - The Hacker News",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRElYVkJJV0RlODVzcXNkWDFYWlp5VmJTZ0EzTFA4NjFuajdMeFJSMldHb3dIMWRMXzRncFJwOVlnMGVOWV9xOWZfbmVNd1dzNG9EMHRrT2piY2E5X1FJOFBCaDNQdFRHdDA2RDZrYU51Y3NadzJOWXNmS054aktnYQ?oc=5",
     "source": "Adobe",
     "source_category": "adobe",
     "published": "2026-09-05T20:14:00+00:00",
-    "summary": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores thehackernews.com",
+    "summary": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores The Hacker News",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -310,23 +286,6 @@
     "image_url": "https://imgproxy.divecdn.com/QcUwinxbDYTPVNWvIiX4Kucysxpzk07lvcgB9UH0Tts/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS93YWxtYXJ0X2R1bmtpbi5qcGc=.webp",
     "tags": [],
     "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "e04570573a8b",
-    "title": "How AI is powering Target’s back-to-school push",
-    "url": "https://www.retaildive.com/news/target-back-to-school-push-AI/829468/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-09-03T16:46:00+00:00",
-    "summary": "The mass retailer is utilizing AI for wish lists and recommended actions on its e-commerce site, Target’s senior vice president of technology told Retail Dive.",
-    "image_url": "https://imgproxy.divecdn.com/FrS8G4NE-taUckYD4tlEF0-NT9lwTW1HxHsDhPHT_UA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UYXJnZXRfQmFja3RvU2Nob29sQ29sbGVnZV8yMDI2XzAxLnBuZw==.webp",
-    "tags": [],
-    "industries": [
-      "tech",
       "retail",
       "industrial"
     ],
@@ -367,20 +326,21 @@
     "relevance_score": 7
   },
   {
-    "id": "bde1bdfedbb7",
-    "title": "Amazon sued by FTC over claims it misled advertisers on pricing - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPX1A1cm1EbHhRUWhXWVllZGVCSlRaTU94NFJ0cHJfZDMycWFVT3E2eExRdGZIQlhfd3JQVUlOZ0pFemNOZ0JYZ1d4cnVUVnZkZndUWXd6cUt1Y1VacjNBajRlQWFiUzlXbURpZXJIN09YTXF2cHVPUTZrWEhBVjlUZjNCZmNWZ3JUUXZWMw?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-08-31T19:39:00+00:00",
-    "summary": "Amazon sued by FTC over claims it misled advertisers on pricing Ad Age",
-    "image_url": null,
+    "id": "e04570573a8b",
+    "title": "How AI is powering Target’s back-to-school push",
+    "url": "https://www.retaildive.com/news/target-back-to-school-push-AI/829468/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-09-03T16:46:00+00:00",
+    "summary": "The mass retailer is utilizing AI for wish lists and recommended actions on its e-commerce site, Target’s senior vice president of technology told Retail Dive.",
+    "image_url": "https://imgproxy.divecdn.com/FrS8G4NE-taUckYD4tlEF0-NT9lwTW1HxHsDhPHT_UA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9UYXJnZXRfQmFja3RvU2Nob29sQ29sbGVnZV8yMDI2XzAxLnBuZw==.webp",
     "tags": [],
     "industries": [
+      "tech",
       "retail",
       "industrial"
     ],
-    "relevance_score": 6
+    "relevance_score": 7
   },
   {
     "id": "1316a8195273",
@@ -394,22 +354,6 @@
     "tags": [],
     "industries": [
       "retail"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "59946005bf02",
-    "title": "Adobe in Slack: Access content, production tools from Slackbot - TechTarget",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQXzFJRFE3RjdDUlZWVGp2UjVFR0JUVjBzRHQ3Y1dMU3hZVTdEeUZ2bE5ZVjdVSFAzb3FSY0hzOTZGbHZHUnNubWNiSGhlYVduUk9WYWI5WmItLW1qZjdwUVR4UXFuV20tcDhWdTNTZ2RDRDRlbWdoWl9XVjZGMTBwVnAyYkxrT2Z5MVBKcHY2UVUtbkJORk9tUmZMV3RwOFFxWnBPZFdJMlNrQXkzS2ZOZks3dWZVLS1pVmpVYTEtRdIBxwFBVV95cUxOQUhsUnVocTN5aXcxWU5tcUhzV1VWamdWTnB3T3AyUUx5cWJBaXJhWkxGb0dsYzRVUnItR21kaFlxVlp3RUZqNTFSV2x4dkhVbzZ5NjJGV2JtQmZ0d1I1SVhsZC1nX1VTcUZ1ejVJcDEtb0V6VVNOek5ESDNtZS1nbGhjbVNxQmZZazNZZ3JrY1N4SXVMQS1ZQkxUVy1lSHFtYl9MQUVLNmtxQnEwek1JT3FINnRwYmV5b0s1VUQ2M3d0dk10N2JB?oc=5",
-    "source": "Adobe Products",
-    "source_category": "adobe",
-    "published": "2026-09-02T13:09:25+00:00",
-    "summary": "Adobe in Slack: Access content, production tools from Slackbot TechTarget",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
     ],
     "relevance_score": 6
   }
