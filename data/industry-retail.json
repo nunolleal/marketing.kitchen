@@ -100,7 +100,11 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 20
+    "relevance_score": 20,
+    "also_covered_by": [
+      "Adobe Products",
+      "Adobe Inc"
+    ]
   },
   {
     "id": "6dc294c265b0",
@@ -140,6 +144,22 @@
     "relevance_score": 14
   },
   {
+    "id": "9be02ffcadb7",
+    "title": "Amazon Prime members now get free Alexa+ access",
+    "url": "https://www.retaildive.com/news/amazon-adds-perks-prime-free-alexa-access/829610/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-09-04T15:48:00+00:00",
+    "summary": "The new perk follows a quarter of double-digit growth in Prime membership as Amazon and rivals emphasize the importance of their paid membership programs.",
+    "image_url": "https://imgproxy.divecdn.com/INjiPlFbHYkRInGEK0Gaq-m3nCXr7eWA_PNKV_dnCfc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbGV4YV9wbHVzLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
     "id": "5b1308781068",
     "title": "OpenAI admits to German wiki ‘incident’",
     "url": "https://www.theverge.com/ai-artificial-intelligence/990773/openai-german-wiki-incident",
@@ -153,88 +173,6 @@
       "OpenAI",
       "Tech"
     ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "6570cc42f2bf",
-    "title": "Google Dodged a Breakup, but Experts Say Alternatives Are Misdirected",
-    "url": "https://www.adweek.com/media/google-dodged-a-breakup-but-experts-say-alternatives-are-misdirected/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-09-03T14:05:15+00:00",
-    "summary": "Google won't be forced to spin off its ad exchange or publisher ad server, but industry leaders are split on whether the court’s behavioral remedies will actually restore competition.",
-    "image_url": null,
-    "tags": [
-      "Ad Tech Industry News",
-      "AI News",
-      "Artificial Intelligence",
-      "Dealroom",
-      "General"
-    ],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "4ee4a6906a27",
-    "title": "Dermstore Coupons: 25% Off for September 2026",
-    "url": "https://www.wired.com/story/dermstore-promo-code/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-09-04T05:00:00+00:00",
-    "summary": "Score major savings on premium skincare, hair care, and cosmetics with these verified Dermstore discount codes and rewards offers.",
-    "image_url": "https://media.wired.com/photos/67b63b919468ebbf8f0cbc7b/master/pass/WIRED-Coupons-R2_6.png",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "coupons",
-      "Shopping",
-      "Coupons"
-    ],
-    "industries": [
-      "retail"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "c5b01af9fb3d",
-    "title": "ICE Wants to Know Everyone Who Bought a Certain Green Beanie From REI in the Last 2 Years",
-    "url": "https://www.wired.com/story/ice-wants-to-know-who-bought-a-certain-green-beanie-from-rei-in-the-last-2-years/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-09-04T10:30:00+00:00",
-    "summary": "Homeland Security Investigations agents hit the outdoor retailer with a controversial subpoena as part of a dragnet search for the identities of protesters who entered a Minnesota church in March.",
-    "image_url": "https://media.wired.com/photos/6a9a00ee5d2ca173f400bbc9/master/pass/Security_ICE%20Wants%20to%20Know%20Who%20Bought%20a%20Certain%20Green%20Beanie%20From%20REI%20in%20the%20Last%202%20Years_v1.jpg",
-    "tags": [
-      "Security",
-      "Security / Privacy",
-      "immigration",
-      "Immigration and Customs Enforcement",
-      "Department of Homeland Security"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "9be02ffcadb7",
-    "title": "Amazon Prime members now get free Alexa+ access",
-    "url": "https://www.retaildive.com/news/amazon-adds-perks-prime-free-alexa-access/829610/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-09-04T15:48:00+00:00",
-    "summary": "The new perk follows a quarter of double-digit growth in Prime membership as Amazon and rivals emphasize the importance of their paid membership programs.",
-    "image_url": "https://imgproxy.divecdn.com/INjiPlFbHYkRInGEK0Gaq-m3nCXr7eWA_PNKV_dnCfc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9BbGV4YV9wbHVzLmpwZw==.webp",
-    "tags": [],
     "industries": [
       "retail",
       "industrial"
@@ -263,15 +201,44 @@
     ]
   },
   {
-    "id": "f25019cde1fc",
-    "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores - The Hacker News",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRElYVkJJV0RlODVzcXNkWDFYWlp5VmJTZ0EzTFA4NjFuajdMeFJSMldHb3dIMWRMXzRncFJwOVlnMGVOWV9xOWZfbmVNd1dzNG9EMHRrT2piY2E5X1FJOFBCaDNQdFRHdDA2RDZrYU51Y3NadzJOWXNmS054aktnYQ?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-09-05T20:14:00+00:00",
-    "summary": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores The Hacker News",
+    "id": "6570cc42f2bf",
+    "title": "Google Dodged a Breakup, but Experts Say Alternatives Are Misdirected",
+    "url": "https://www.adweek.com/media/google-dodged-a-breakup-but-experts-say-alternatives-are-misdirected/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-09-03T14:05:15+00:00",
+    "summary": "Google won't be forced to spin off its ad exchange or publisher ad server, but industry leaders are split on whether the court’s behavioral remedies will actually restore competition.",
     "image_url": null,
-    "tags": [],
+    "tags": [
+      "Ad Tech Industry News",
+      "AI News",
+      "Artificial Intelligence",
+      "Dealroom",
+      "General"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "c5b01af9fb3d",
+    "title": "ICE Wants to Know Everyone Who Bought a Certain Green Beanie From REI in the Last 2 Years",
+    "url": "https://www.wired.com/story/ice-wants-to-know-who-bought-a-certain-green-beanie-from-rei-in-the-last-2-years/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-09-04T10:30:00+00:00",
+    "summary": "Homeland Security Investigations agents hit the outdoor retailer with a controversial subpoena as part of a dragnet search for the identities of protesters who entered a Minnesota church in March.",
+    "image_url": "https://media.wired.com/photos/6a9a00ee5d2ca173f400bbc9/master/pass/Security_ICE%20Wants%20to%20Know%20Who%20Bought%20a%20Certain%20Green%20Beanie%20From%20REI%20in%20the%20Last%202%20Years_v1.jpg",
+    "tags": [
+      "Security",
+      "Security / Privacy",
+      "immigration",
+      "Immigration and Customs Enforcement",
+      "Department of Homeland Security"
+    ],
     "industries": [
       "retail",
       "industrial"
@@ -290,22 +257,6 @@
     "tags": [
       "Media Buying"
     ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "57853a9a21bf",
-    "title": "Adobe Stock: Citi Sees 'Achievable Set-Up' Ahead Of Q3 Earnings, Raises Price Target - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNRU9tQ3JCanNRQ3hYQUVaNURsUHpEQ25RcFZmWm9JOGpkeTRMZmRUR0txbXpoSG8ydUZVLWh1eW1rRmJRejFibUMyUWFlaEowT2hBZ3EyREhsc1U1cDFMVzlNZlk0Sl90UnR2RFVSNWpEb2FzYkQzOWxwX2pzb2JJQWNydFZIMFZ5YjFCUm1mRWJuSHowRGhvV3hHVGNSdw?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-09-02T05:19:00+00:00",
-    "summary": "Adobe Stock: Citi Sees 'Achievable Set-Up' Ahead Of Q3 Earnings, Raises Price Target Yahoo Finance",
-    "image_url": null,
-    "tags": [],
     "industries": [
       "retail",
       "industrial"
@@ -333,6 +284,22 @@
     "relevance_score": 10
   },
   {
+    "id": "f25019cde1fc",
+    "title": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores - thehackernews.com",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxNRElYVkJJV0RlODVzcXNkWDFYWlp5VmJTZ0EzTFA4NjFuajdMeFJSMldHb3dIMWRMXzRncFJwOVlnMGVOWV9xOWZfbmVNd1dzNG9EMHRrT2piY2E5X1FJOFBCaDNQdFRHdDA2RDZrYU51Y3NadzJOWXNmS054aktnYQ?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-09-05T20:14:00+00:00",
+    "summary": "Unpatched Magento and Adobe Commerce Zero-Day Exploited to Backdoor Online Stores thehackernews.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "a58951591a34",
     "title": "Walmart shoppers can now get Dunkin’ delivered alongside orders",
     "url": "https://www.retaildive.com/news/walmart-shoppers-dunkin-delivery-coffee/829560/",
@@ -347,40 +314,6 @@
       "industrial"
     ],
     "relevance_score": 9
-  },
-  {
-    "id": "9c1baf2e3641",
-    "title": "Dollar General deploys AI across distribution centers, stores",
-    "url": "https://www.retaildive.com/news/dollar-general-ai-distribution-centers-stores/829201/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-09-04T14:27:00+00:00",
-    "summary": "The retailer is using Relex Solutions’ supply chain platform to manage ordering schedules, lead times, supplier coordination and fulfillment methods.",
-    "image_url": "https://imgproxy.divecdn.com/omDUoQqftnNa4NDoi-zn9ga94wPUWiJA2XEgVlcMlxw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yUkY1RUhKLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "48d310add513",
-    "title": "Bank of America joins 21 banks forming stablecoin venture targeting 2027 launch - The Business Journals",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPem9IalBmOGJ6NDByb183TFI4WVhCazZ4S2ZSbTlSOHlMd3hwR0ZCazJjbjFhMTBGS2ladXFKQlA5UHhIdFRhUU83UTBYRzZrYW1PWmNOdldRS0RVbFhPY0J0alk0R3hnV1N4OHUydFpZaXFyUFN4a01XX2pSSnlySTVhVzBXOENIUmZhdzVGZkZOUWpPZ2I0X0l5T3NrNDBhTy04RDNmTkxvUQ?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-09-03T11:04:00+00:00",
-    "summary": "Bank of America joins 21 banks forming stablecoin venture targeting 2027 launch The Business Journals",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 8
   },
   {
     "id": "e04570573a8b",
@@ -400,17 +333,36 @@
     "relevance_score": 8
   },
   {
-    "id": "3eb8d08b7d98",
-    "title": "Calls of the Day: Adobe, Costco and Uber - cnbc.com",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxQSXN6UzFlNVk2X0NKeTdGaUV0UndYVjNMRjZBVVZBdHhhSlQxeGFqOVlFWml1Y1BtOFBKSXNUUElRX0Y0MFNycVZ3eTdVMDNZa0sxek5GeE51dDZNMjRWUWFueEtndVZMaF8wSkVUd1MzRnZ6LWFuX0YxWXIxdTJxSnczVGF5ODR1?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-09-03T17:13:00+00:00",
-    "summary": "Calls of the Day: Adobe, Costco and Uber cnbc.com",
+    "id": "9c1baf2e3641",
+    "title": "Dollar General deploys AI across distribution centers, stores",
+    "url": "https://www.retaildive.com/news/dollar-general-ai-distribution-centers-stores/829201/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-09-04T14:27:00+00:00",
+    "summary": "The retailer is using Relex Solutions’ supply chain platform to manage ordering schedules, lead times, supplier coordination and fulfillment methods.",
+    "image_url": "https://imgproxy.divecdn.com/omDUoQqftnNa4NDoi-zn9ga94wPUWiJA2XEgVlcMlxw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8yUkY1RUhKLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "48d310add513",
+    "title": "Bank of America joins 21 banks forming stablecoin venture targeting 2027 launch - The Business Journals",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxPem9IalBmOGJ6NDByb183TFI4WVhCazZ4S2ZSbTlSOHlMd3hwR0ZCazJjbjFhMTBGS2ladXFKQlA5UHhIdFRhUU83UTBYRzZrYW1PWmNOdldRS0RVbFhPY0J0alk0R3hnV1N4OHUydFpZaXFyUFN4a01XX2pSSnlySTVhVzBXOENIUmZhdzVGZkZOUWpPZ2I0X0l5T3NrNDBhTy04RDNmTkxvUQ?oc=5",
+    "source": "Banking",
+    "source_category": "industry_financial",
+    "published": "2026-09-03T11:04:00+00:00",
+    "summary": "Bank of America joins 21 banks forming stablecoin venture targeting 2027 launch The Business Journals",
     "image_url": null,
     "tags": [],
     "industries": [
-      "retail"
+      "retail",
+      "industrial",
+      "financial"
     ],
     "relevance_score": 7
   },
@@ -422,6 +374,37 @@
     "source_category": "marketing",
     "published": "2026-08-31T19:39:00+00:00",
     "summary": "Amazon sued by FTC over claims it misled advertisers on pricing Ad Age",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "1316a8195273",
+    "title": "14 Customer Retention Strategies for Ecommerce (2026) - Shopify",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE5kNVlBVTVRajVPT1pEQ0JyTHJ4Y1dPNnBlM2x4bVJ5TVJVYldtOVRxakZHZlRPWHItQnlSanA2TUlobUtwdjdsdkpHbGtGbW5ZTkhTekZEVGVORWlVYUV6OFZiUWpHN2sxbzJjNHhn?oc=5",
+    "source": "Retail Marketing",
+    "source_category": "industry_retail",
+    "published": "2026-09-01T07:00:00+00:00",
+    "summary": "14 Customer Retention Strategies for Ecommerce (2026) Shopify",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "59946005bf02",
+    "title": "Adobe in Slack: Access content, production tools from Slackbot - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQXzFJRFE3RjdDUlZWVGp2UjVFR0JUVjBzRHQ3Y1dMU3hZVTdEeUZ2bE5ZVjdVSFAzb3FSY0hzOTZGbHZHUnNubWNiSGhlYVduUk9WYWI5WmItLW1qZjdwUVR4UXFuV20tcDhWdTNTZ2RDRDRlbWdoWl9XVjZGMTBwVnAyYkxrT2Z5MVBKcHY2UVUtbkJORk9tUmZMV3RwOFFxWnBPZFdJMlNrQXkzS2ZOZks3dWZVLS1pVmpVYTEtRdIBxwFBVV95cUxOQUhsUnVocTN5aXcxWU5tcUhzV1VWamdWTnB3T3AyUUx5cWJBaXJhWkxGb0dsYzRVUnItR21kaFlxVlp3RUZqNTFSV2x4dkhVbzZ5NjJGV2JtQmZ0d1I1SVhsZC1nX1VTcUZ1ejVJcDEtb0V6VVNOek5ESDNtZS1nbGhjbVNxQmZZazNZZ3JrY1N4SXVMQS1ZQkxUVy1lSHFtYl9MQUVLNmtxQnEwek1JT3FINnRwYmV5b0s1VUQ2M3d0dk10N2JB?oc=5",
+    "source": "Adobe Products",
+    "source_category": "adobe",
+    "published": "2026-09-02T13:09:25+00:00",
+    "summary": "Adobe in Slack: Access content, production tools from Slackbot TechTarget",
     "image_url": null,
     "tags": [],
     "industries": [
