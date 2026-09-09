@@ -34,7 +34,7 @@
       "media",
       "tech"
     ],
-    "relevance_score": 53
+    "relevance_score": 50
   },
   {
     "id": "c9f71fc290d9",
@@ -51,7 +51,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 51
+    "relevance_score": 48
   },
   {
     "id": "80c7cae2f00a",
@@ -66,56 +66,6 @@
     "industries": [
       "media",
       "consumer",
-      "industrial"
-    ],
-    "relevance_score": 45
-  },
-  {
-    "id": "be0d9816e061",
-    "title": "ReBid adds ChatGPT Ads activation and analytics to Agentic AI marketing platform - MediaNews4U",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPMGo1VGtUZU15QkhXSjJhdGU3WkpkZUc4c1pPc2gyY1A4RTlWeGRFZzd6bFlxaUxrQ3FaTWxCZFpuZFBvVFdsSURFVUdQWnQ5QWVHSVBBZzFxcG9CWk1uT0RWbl9JdE9XSGhEWlhmbVZOaXBleFJwUFV5Mm1wOXMzZTFTaDhtUGRTQ3M0TGNkbzBzV3c5NzRGbk9IU3RUXzQ4eTRqVW4zdzhQSmVqSUE?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-09-07T03:45:51+00:00",
-    "summary": "ReBid adds ChatGPT Ads activation and analytics to Agentic AI marketing platform MediaNews4U",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 44
-  },
-  {
-    "id": "160cbec62398",
-    "title": "Ace Hardware: ‘We’re in the business of building national brands’",
-    "url": "https://www.retaildive.com/news/ace-hardware-were-in-the-business-of-building-national-brands/829757/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-09-08T15:49:00+00:00",
-    "summary": "The retailer introduced new ways brands can build awareness through its retail media network at its inaugural Upfront event in Chicago.",
-    "image_url": "https://imgproxy.divecdn.com/sZfkLkLsgOQzXiMikuVtSbIQVvZjolUkpkpZvVwb-34/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDktMDhfMDg1NTMzLnBuZw==.webp",
-    "tags": [],
-    "industries": [
-      "media",
-      "retail",
-      "consumer"
-    ],
-    "relevance_score": 42
-  },
-  {
-    "id": "5565b3810d27",
-    "title": "Why Has Salesforce (NYSE:CRM) Staged Such A Sharp Comeback? - Kalkine Media",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNb0pGUnZDMUJ3bDdBTlJ1TkJCTjVQZDZPTXl6bGdReGhGYmdOWDQtck9ucFJCajNUTGljNU1SeW5xbFFFLUpBYkFaRjFiOWIxR3ZOMTRiVVdyUWo3SVNpbGtJMVZvVHB0QVBGaVcwOTd4ZUxGbDBjcVJIRmtXbllfclNRYUtSUWJnSXVwdGxRbEhkMENIcjRXekMzaktoYTN5bkxz?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-09-08T21:03:00+00:00",
-    "summary": "Why Has Salesforce (NYSE:CRM) Staged Such A Sharp Comeback? Kalkine Media",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
       "industrial"
     ],
     "relevance_score": 42
@@ -157,6 +107,23 @@
     "relevance_score": 39
   },
   {
+    "id": "160cbec62398",
+    "title": "Ace Hardware: ‘We’re in the business of building national brands’",
+    "url": "https://www.retaildive.com/news/ace-hardware-were-in-the-business-of-building-national-brands/829757/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-09-08T15:49:00+00:00",
+    "summary": "The retailer introduced new ways brands can build awareness through its retail media network at its inaugural Upfront event in Chicago.",
+    "image_url": "https://imgproxy.divecdn.com/sZfkLkLsgOQzXiMikuVtSbIQVvZjolUkpkpZvVwb-34/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TY3JlZW5zaG90XzIwMjYtMDktMDhfMDg1NTMzLnBuZw==.webp",
+    "tags": [],
+    "industries": [
+      "media",
+      "retail",
+      "consumer"
+    ],
+    "relevance_score": 39
+  },
+  {
     "id": "b6b2cb97e4b7",
     "title": "Ulta’s use of Flock technology causes upset online",
     "url": "https://www.retaildive.com/news/ulta-flock-technology-backlash/829623/",
@@ -193,7 +160,7 @@
       "media",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "91a0d6e6254c",
@@ -215,35 +182,14 @@
       "media",
       "tech"
     ],
-    "relevance_score": 16,
+    "relevance_score": 15,
     "also_covered_by": [
       "Wall Street"
     ]
   },
   {
-    "id": "b20ee5d6d5c5",
-    "title": "‘Practical Magic 2’ Rotten Tomatoes Reviews Splatter Bullock And Kidman Sequel",
-    "url": "https://www.forbes.com/sites/timlammers/2026/09/08/practical-magic-2-rotten-tomatoes-reviews-rip-bullock-and-kidman-sequel/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-09-08T16:35:01+00:00",
-    "summary": "\"Practical Magic 2’s\" Rotten Tomatoes reviews are in and things are not looking good for Sandra Bullock and Nicole Kidman’s sequel to the 1998 film.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6aa02a91751cffcdf6a7c2bd/0x0.jpg?width=960",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 16
-  },
-  {
     "id": "7107fe893f7b",
-    "title": "Rivian’s Also apologizes for delays in shipping futuristic e-bikes",
+    "title": "Rivian spinout Also apologizes for delays in shipping futuristic e-bikes",
     "url": "https://www.theverge.com/transportation/991707/rivian-also-tmb-ebike-delay-apology",
     "source": "The Verge",
     "source_category": "ai",
@@ -261,7 +207,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "b0e6124241b0",
@@ -282,33 +228,11 @@
     "industries": [
       "media"
     ],
-    "relevance_score": 15
-  },
-  {
-    "id": "7948068f14bf",
-    "title": "How Extreme Heat And Storms Are Reshaping The School Year",
-    "url": "https://www.forbes.com/sites/billfrist/2026/09/08/how-extreme-heat-and-storms-are-reshaping-the-school-year/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-09-08T16:10:47+00:00",
-    "summary": "Hotter days mean hotter bus rides to and from school, cancelled recess and sports practices, and, in some cases, it can even mean a return to remote learning.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6aa02aacca5aa7ee113c51da/0x0.jpg?width=960",
-    "tags": [
-      "Policy",
-      "/policy",
-      "Business",
-      "/business",
-      "Policy"
-    ],
-    "industries": [
-      "media",
-      "tech"
-    ],
     "relevance_score": 14
   },
   {
     "id": "391ff6d8427f",
-    "title": "‘Supergirl’ Shifts To Streaming On HBO Max This Week After Crashing At Box Office",
+    "title": "‘Supergirl’ Shifts To HBO Max This Week In Wake Of Box Office Crash (But It’s Not The End For The Character)",
     "url": "https://www.forbes.com/sites/timlammers/2026/09/08/supergirl-shifts-to-streaming-on-hbo-max-this-week-after-crashing-at-box-office/",
     "source": "Forbes Business",
     "source_category": "marketing",
@@ -325,22 +249,7 @@
     "industries": [
       "media"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "58a3dc8e2c8d",
-    "title": "Trinity Health to slash 557 workers at Livonia headquarters - Detroit Free Press - Breaking news, sports, business, entertainment",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPUVlxUDFoWkV2aTg2Y1pCMlY0ZkNhSW5ydWZ0SGpSdV9HVGk0cnNOM0RfNzNFSmQ2MTFnNkFoTW41bVNKVV9reE9sVVoxekRHMmZyc3J1YTFfSVFwQ21jMXN3ZHJaR0gwazFfYjFId19XYzVtcDZVV1BuYXhTYVVGY3B5dUtnX3hZa245c3d0Rm9jc0V4cXpLbWh5al9HUQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-08T21:49:00+00:00",
-    "summary": "Trinity Health to slash 557 workers at Livonia headquarters Detroit Free Press - Breaking news, sports, business, entertainment",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "f15f20261f92",
@@ -437,38 +346,6 @@
     "relevance_score": 10
   },
   {
-    "id": "c92528d7f26f",
-    "title": "Wells Fargo (NYSE:WFC): Does the Asset-Cap Removal Still Matter as Rate-Hike Odds Climb? - Kalkine Media",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSU9UbHVfRDhnMXZWcHhLcXJ6Z2hxdnJ3aEdkSXhGZE5QalZlM084VFV4U1lTSlBiZC00WjM3VDd0UnhSQVU0TGl4SVpqanJDRnp2cFB2SkQxS01qNnNsOXI1UThiRW9ENWFUQ0RpX1VtOUF2djhRT0NYeXdRVDlhM2hNTEdxb0ZaSXJBaEE2VGtnN0RaMjRkVEhZZllWekxwVEwtcmNITUFndjE4ZGxRM29qMmdhTzJNWVlDd1g4LVo3NC1JMUdv?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-09-08T18:53:00+00:00",
-    "summary": "Wells Fargo (NYSE:WFC): Does the Asset-Cap Removal Still Matter as Rate-Hike Odds Climb? Kalkine Media",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "6098d4cb2930",
-    "title": "Tech, Media & Telecom Roundup: Market Talk - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQUWZzczdmZDNxVzBRY2lncmFJcXEyeTRKWFRXOWZ2dGlQLWtmeG41UER0dHczWU1MWjRscjdtRVZXT3c3Z0cwZl9Ya0JLVUo2RVdwM1RFQndlTld5SVFHTllUUExyZjdWeXU5RGZXRWhlWkQwX2IxUmN5OXBFVFZ2RTVB?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-09-08T21:18:00+00:00",
-    "summary": "Tech, Media & Telecom Roundup: Market Talk WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "telecom"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "aac785f0ff2b",
     "title": "Media agencies build audit tools to prevent AI agents from overcharging",
     "url": "https://digiday.com/media-buying/media-agencies-build-audit-tools-to-prevent-ai-agents-from-overcharging/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -483,6 +360,22 @@
     "industries": [
       "media",
       "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "c92528d7f26f",
+    "title": "Wells Fargo (NYSE:WFC): Does the Asset-Cap Removal Still Matter as Rate-Hike Odds Climb? - Kalkine Media",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPSU9UbHVfRDhnMXZWcHhLcXJ6Z2hxdnJ3aEdkSXhGZE5QalZlM084VFV4U1lTSlBiZC00WjM3VDd0UnhSQVU0TGl4SVpqanJDRnp2cFB2SkQxS01qNnNsOXI1UThiRW9ENWFUQ0RpX1VtOUF2djhRT0NYeXdRVDlhM2hNTEdxb0ZaSXJBaEE2VGtnN0RaMjRkVEhZZllWekxwVEwtcmNITUFndjE4ZGxRM29qMmdhTzJNWVlDd1g4LVo3NC1JMUdv?oc=5",
+    "source": "Banking",
+    "source_category": "industry_financial",
+    "published": "2026-09-08T18:53:00+00:00",
+    "summary": "Wells Fargo (NYSE:WFC): Does the Asset-Cap Removal Still Matter as Rate-Hike Odds Climb? Kalkine Media",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "financial"
     ],
     "relevance_score": 9
   },
