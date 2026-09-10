@@ -13,7 +13,7 @@
       "tech",
       "lifesciences"
     ],
-    "relevance_score": 38
+    "relevance_score": 35
   },
   {
     "id": "e3d2645d5704",
@@ -66,7 +66,7 @@
       "lifesciences",
       "financial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "7e9f1c8bff18",
@@ -87,19 +87,23 @@
     "relevance_score": 15
   },
   {
-    "id": "5fa5bd194585",
-    "title": "Increases in healthcare spending the largest driver behind premium growth: Yale study",
-    "url": "https://www.fiercehealthcare.com/payers/increases-healthcare-spending-largest-driver-behind-premium-growth-yale-study",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-09T12:06:00+00:00",
-    "summary": "As insurance premiums continue to rise, a new study finds that escalating healthcare spending is the leading factor behind the trend.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202024-07-29T153211.808.jpg?VersionId=kLInGB1X.eJYa3HlYar7uiDobwCfSa9O",
-    "tags": [],
+    "id": "880314cb53e0",
+    "title": "Twenty Thousand Breaths A Day: How The Environment Shapes The Health Within Us",
+    "url": "https://www.forbes.com/sites/billfrist/2026/09/10/twenty-thousand-breaths-a-day-how-the-environment-shapes-the-health-within-us/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-09-10T05:15:00+00:00",
+    "summary": "Environmental quality is a personal health issue. And it should shape how physicians, communities, and policymakers respond.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/69f8e5fc73b814240f6d64b8/0x0.jpg",
+    "tags": [
+      "Policy",
+      "/policy",
+      "Business",
+      "/business",
+      "Policy"
+    ],
     "industries": [
-      "industrial",
-      "lifesciences",
-      "financial"
+      "lifesciences"
     ],
     "relevance_score": 15
   },
@@ -123,20 +127,21 @@
     ]
   },
   {
-    "id": "d6e12d2c0704",
-    "title": "UnitedHealthcare expects to be ‘very competitive’ in Medicare Advantage next year, CFO says",
-    "url": "https://www.healthcaredive.com/news/unitedhealthcare-medicare-advantage-2027-market-competitive/829889/",
-    "source": "Healthcare Dive",
+    "id": "5fa5bd194585",
+    "title": "Increases in healthcare spending the largest driver behind premium growth: Yale study",
+    "url": "https://www.fiercehealthcare.com/payers/increases-healthcare-spending-largest-driver-behind-premium-growth-yale-study",
+    "source": "Fierce Healthcare",
     "source_category": "industry_lifesciences",
-    "published": "2026-09-09T12:55:59+00:00",
-    "summary": "The insurer is still working on strategies to ensure its MA markets remain as profitable as possible, but it’s confident in its posture heading into 2027 open enrollment, Wayne DeVeydt said Wednesday.",
-    "image_url": "https://imgproxy.divecdn.com/Wrdm6nhOueqkB2t5QKxZDKYyJBv-EFaLWx6rYw3Xg5A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS91bml0ZWRfaGVhbHRoX2dyb3VwLmpwZWc=.webp",
+    "published": "2026-09-09T12:06:00+00:00",
+    "summary": "As insurance premiums continue to rise, a new study finds that escalating healthcare spending is the leading factor behind the trend.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202024-07-29T153211.808.jpg?VersionId=kLInGB1X.eJYa3HlYar7uiDobwCfSa9O",
     "tags": [],
     "industries": [
       "industrial",
-      "lifesciences"
+      "lifesciences",
+      "financial"
     ],
-    "relevance_score": 13
+    "relevance_score": 14
   },
   {
     "id": "467aae6ed4c2",
@@ -152,7 +157,10 @@
       "tech",
       "lifesciences"
     ],
-    "relevance_score": 12
+    "relevance_score": 12,
+    "also_covered_by": [
+      "Health Tech"
+    ]
   },
   {
     "id": "17eaea8e89e4",
@@ -165,6 +173,22 @@
     "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/podnosis-white_background_1.png?VersionId=wFsiB8XbnhXJC8A.TRbRVCWc1ewl6kJw",
     "tags": [],
     "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "d6e12d2c0704",
+    "title": "UnitedHealthcare expects to be ‘very competitive’ in Medicare Advantage next year, CFO says",
+    "url": "https://www.healthcaredive.com/news/unitedhealthcare-medicare-advantage-2027-market-competitive/829889/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-09T12:55:59+00:00",
+    "summary": "The insurer is still working on strategies to ensure its MA markets remain as profitable as possible, but it’s confident in its posture heading into 2027 open enrollment, Wayne DeVeydt said Wednesday.",
+    "image_url": "https://imgproxy.divecdn.com/Wrdm6nhOueqkB2t5QKxZDKYyJBv-EFaLWx6rYw3Xg5A/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS91bml0ZWRfaGVhbHRoX2dyb3VwLmpwZWc=.webp",
+    "tags": [],
+    "industries": [
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 12
@@ -185,43 +209,28 @@
     "relevance_score": 11
   },
   {
-    "id": "bcbe398390df",
-    "title": "Exclusive: System raises $12.6M to acquire compounding pharmacies - Axios",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNOHp1OGIxdklFU3V2RGNOVHVkb2d5WW9MWDZubXNZLWNzUkVjQ2I5VUx1VUJZTEx2MHlVMUVHVGZMcktxR1JsdTVQcTdMbVNzY1ZaZEFHZXprX0xaaDFPd055X2NsWEVwVzdTb1dWYngwYW9DcnlCNnAzQnB1a0Y0b25HWWJPYk5J?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-09T10:17:27+00:00",
-    "summary": "Exclusive: System raises $12.6M to acquire compounding pharmacies Axios",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "55dfa9ee0c4a",
-    "title": "Health tech company invests $1.6 million into Mifflin County facility - fox43.com",
-    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPLXBhQThmSHlJdk1HS3l0SkZNenRCRkkyTThoc05YeV9nS29fdFBheU1qV09HUG16QXJsZDE4Ml9WMG5PczNWM1ZSREdPSXRlS2JpQjd6aGwzR2VoU25kNlJHVTFJdzl4ZC1ZMkQwTXl5YVlqd1poQjFaZFhGWUFjRG4taVNOanJCb2I2cUswemQ1ZHZ3bUVkMWIta2g0bkNiYnBlVGEtUXQtallCS0kzWUY5TDMtYi1ETXptY0xsSk1vNFpKc2N5U0hiSWhNOGQ3eE9rQ3kwb3htSVZyUXJobzY3YURGazhzcTg4M0lnd1owOFpKdkdN?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-09T14:26:00+00:00",
-    "summary": "Health tech company invests $1.6 million into Mifflin County facility fox43.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 11
-  },
-  {
     "id": "29088143eaa1",
-    "title": "ARPA-H to invest $62 million to develop FDA-authorized AI to help treat heart failure - statnews.com",
+    "title": "ARPA-H to invest $62 million to develop FDA-authorized AI to help treat heart failure - STAT",
     "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPNHVpZlJUYWs3WnA4RHJjY1BuTC1vYnNiN2gxb3dwUVp3c0Nfd1hIMjRVc2NJbW5IcEJiU0dDRUhHWVJtVEtUNzN2ZDFzOEdZOHR2TVBnM1N2bkw3eFBzeGM1ZnFQWkp4MUUyc2plMEUxV29sUnpubW9yU3U4NWpMYmlueTJfMGpkMDFCZE91b3dUelVrMmY0c01EdDk4dw?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
     "published": "2026-09-09T16:44:28+00:00",
-    "summary": "ARPA-H to invest $62 million to develop FDA-authorized AI to help treat heart failure statnews.com",
+    "summary": "ARPA-H to invest $62 million to develop FDA-authorized AI to help treat heart failure STAT",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "39d4df59204c",
+    "title": "MHRA and Manchester NHS launch sandbox to test AI and health tech - THINK Digital Partners",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOaDl1VFNBa1F2WG9kOUpOaVIyaGViSFR6eHFnLUtKQUR4MDRod0hBb25JTDNmQVlIUkRsS0c1YURoaE4zZ0JNR2hkc3l4WXVYbkY1V2l1aUlWam1jLXFNeXNHRHVTZTZ5dWYwaEUyakVYZWpPczdPclRuXzhMZUF2VWlFMExJUzFTNGNKMkxpMjExejFvXzd6QjFSaWsyOXBHTk9qTk11Mk10ZEszLWw5SElDU19tc2lQUUhN?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-10T05:49:33+00:00",
+    "summary": "MHRA and Manchester NHS launch sandbox to test AI and health tech THINK Digital Partners",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -262,13 +271,43 @@
     "relevance_score": 10
   },
   {
-    "id": "2b1350066aca",
-    "title": "Hospitals can keep an emergency blood-vessel graft for 36 months, up from 18 - stocktitan.net",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeWN5Ukt2YzRkajN6cmU5SzJaWXJqUlBhSnU5U3FjNmdTZVZYVFFRQlBna1pZMkY0cXZ4bWoxMnhjM0JqWjlfVGZ6M1M2Q0lrSHVCbUFDTTdLU295bXVwVkF0bmxxMHVKV2pnMWg0b3VfaFpQX01kYnFDS2NISXNudEdhcDRKZzFMTXlSazVrcFVxLW85ZFlPenlWNjlZOEt0X3M0XzBkSllnbTFaaW5YR2xlVWRpLXRNX0hDOVFpcWk?oc=5",
-    "source": "Biotech",
+    "id": "55dfa9ee0c4a",
+    "title": "Health tech company invests $1.6 million into Mifflin County facility - fox43.com",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxPLXBhQThmSHlJdk1HS3l0SkZNenRCRkkyTThoc05YeV9nS29fdFBheU1qV09HUG16QXJsZDE4Ml9WMG5PczNWM1ZSREdPSXRlS2JpQjd6aGwzR2VoU25kNlJHVTFJdzl4ZC1ZMkQwTXl5YVlqd1poQjFaZFhGWUFjRG4taVNOanJCb2I2cUswemQ1ZHZ3bUVkMWIta2g0bkNiYnBlVGEtUXQtallCS0kzWUY5TDMtYi1ETXptY0xsSk1vNFpKc2N5U0hiSWhNOGQ3eE9rQ3kwb3htSVZyUXJobzY3YURGazhzcTg4M0lnd1owOFpKdkdN?oc=5",
+    "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-09-09T12:04:16+00:00",
-    "summary": "Hospitals can keep an emergency blood-vessel graft for 36 months, up from 18 stocktitan.net",
+    "published": "2026-09-09T14:26:00+00:00",
+    "summary": "Health tech company invests $1.6 million into Mifflin County facility fox43.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "1894521101c4",
+    "title": "Banned 1970s party drug quaaludes resurfaces after box office hit - NewsNation",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxObkRqWjVET29jU0NuR2VJcFpOa2pzcmNKUURjS2h4MWxMZEd1M3VDbDV3XzljYVZHR1hQb21MMmxmVmZHbndfOVFsVnQ0TWF6Y1RRLThtTmU2S0xCLUVtcmRGWWdtSWhZTUhadEhZdUZXejZ4cXJNem5weFRZVDZlOWFJVkh0VEdDSVFKWFRSb9IBlAFBVV95cUxOX25VekVlcEQ1bnQzN1dpdHFJazNvejlWZXFkRnZaN0tEb0p6WlcwWDhIVFlaMVVGbjFhMDVhZVlsQUhGTGZLbzNzT0ptNUFnd1hYdWdnbFljNjVqcXBNTTFfa2c2NEQ3UFlKR1lCb1FIUnA2MkpoeUF3dW9GU2dwLUJ5ZzVxc19YZmQ0Rl9TeS05Mnp0?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-09-10T00:10:53+00:00",
+    "summary": "Banned 1970s party drug quaaludes resurfaces after box office hit NewsNation",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "0178c068c29b",
+    "title": "Malaysia invests in digital health; Australasia forms assurance body - coingeek.com",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxQT3Bfa0xFal9walJuczl5ZEJfSUljd2NwbHZfT0V4cWNmYm9SSXlveU9sSU9wSGozVUR1d0M3S2tqREdIdUVFOXI1SWc4QXNUZnNCQzBsRmk0QVlla0pIMVdUWnR6VFlaY1lOSTE4eXVucWcyaERoT0J2QXVYS0tUUHpvdTVkc0NfM1lMRzZuNzdhTTg?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-10T05:00:00+00:00",
+    "summary": "Malaysia invests in digital health; Australasia forms assurance body coingeek.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -278,16 +317,17 @@
     "relevance_score": 10
   },
   {
-    "id": "4299ca40919e",
-    "title": "A70Max by Shanghai Rongtai Health Tech. Corp. Ltd Wins Gold in A' Sporting Goods Awards - EIN News",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSWlvcGFEU1BaRHFoVEJDeWhNSXpUWmlZRXNIZW1iY1kwMUpsd3UtblpiZWstdl9Ja2M0bzF4RTVEOTVqVGxpRmMzYVdocmYta2lEVm53UUpDdHdRd3J3WUFVNjYzU1B4MVotWk9fU3RDbVBwSlRVNVdoUHBoZmtTTVZmajhDZkRZUjdyZ1piLVJYYW15Y1VxT1p0eTVTTzVKWEhUaVdEQjdQOHV3bmFmRTBnd3FXQTRueXVfOVhqbTNRVF9W?oc=5",
+    "id": "e8802f5f00a1",
+    "title": "PLAN-B NET ZERO signs second platform customer, eyes health tech - TechBullion",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNX2UwWThQbWxaLTRnSDluRzZKaTZRSWlQUWhJMjBPR2xPdm5UekJsdy1wYU9BMTJSOXJ5QjQxY2thaUNYVXlzUEtVX05kR1MyLXJ3NkloOUd6djNnWlhMRVNKQmxXMVRMS2VOQWQ5NU1NRmxLYzBmVlJQc2ZSeEd1Q2U4MFFIOW1WMnRPaXdiZVlZZw?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-09-09T12:54:00+00:00",
-    "summary": "A70Max by Shanghai Rongtai Health Tech. Corp. Ltd Wins Gold in A' Sporting Goods Awards EIN News",
+    "published": "2026-09-10T05:45:34+00:00",
+    "summary": "PLAN-B NET ZERO signs second platform customer, eyes health tech TechBullion",
     "image_url": null,
     "tags": [],
     "industries": [
+      "tech",
       "lifesciences"
     ],
     "relevance_score": 10
@@ -341,13 +381,29 @@
     "relevance_score": 9
   },
   {
-    "id": "19702149131d",
-    "title": "Pharma Future Through Digital Innovation - Mexico Business News",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPUm5UQkFpdlJ5MGJlNW4zNkRTNjNLdFZQNmx4V1B0UUZuZXNkZG5wejZnX3pTcGJTd0ZtN0NUdkJvVWdVN2EyRVNvVlRETVRtYWx3WWFHc1hMZVVKVzdRQXRSa3VSekRqb2pLWUZjNmVpR0ZGdXVMYUtnSFlGdDZRYXFRcWFISkE?oc=5",
+    "id": "2b1350066aca",
+    "title": "Hospitals can keep an emergency blood-vessel graft for 36 months, up from 18 - Stock Titan",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxOeWN5Ukt2YzRkajN6cmU5SzJaWXJqUlBhSnU5U3FjNmdTZVZYVFFRQlBna1pZMkY0cXZ4bWoxMnhjM0JqWjlfVGZ6M1M2Q0lrSHVCbUFDTTdLU295bXVwVkF0bmxxMHVKV2pnMWg0b3VfaFpQX01kYnFDS2NISXNudEdhcDRKZzFMTXlSazVrcFVxLW85ZFlPenlWNjlZOEt0X3M0XzBkSllnbTFaaW5YR2xlVWRpLXRNX0hDOVFpcWk?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-09T12:04:16+00:00",
+    "summary": "Hospitals can keep an emergency blood-vessel graft for 36 months, up from 18 Stock Titan",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "4299ca40919e",
+    "title": "A70Max by Shanghai Rongtai Health Tech. Corp. Ltd Wins Gold in A' Sporting Goods Awards - einnews.com",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxOSWlvcGFEU1BaRHFoVEJDeWhNSXpUWmlZRXNIZW1iY1kwMUpsd3UtblpiZWstdl9Ja2M0bzF4RTVEOTVqVGxpRmMzYVdocmYta2lEVm53UUpDdHdRd3J3WUFVNjYzU1B4MVotWk9fU3RDbVBwSlRVNVdoUHBoZmtTTVZmajhDZkRZUjdyZ1piLVJYYW15Y1VxT1p0eTVTTzVKWEhUaVdEQjdQOHV3bmFmRTBnd3FXQTRueXVfOVhqbTNRVF9W?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-09-09T21:34:56+00:00",
-    "summary": "Pharma Future Through Digital Innovation Mexico Business News",
+    "published": "2026-09-09T12:54:00+00:00",
+    "summary": "A70Max by Shanghai Rongtai Health Tech. Corp. Ltd Wins Gold in A' Sporting Goods Awards einnews.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -403,36 +459,6 @@
     "relevance_score": 8
   },
   {
-    "id": "c2b4127c1de5",
-    "title": "Health Tech World reveals shortlist for Most Improve Patient Outcomes award - Health Tech World",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaWNpLXZsWjZZU2g3Zl9xX25pRWxIejBoTkdlSXFyRElUa01LM28yTWk3RmxVZkZrdEZhcVFPbnZvVlhOWEpybHNkNC1OS19LVUY1NE0yQ3VkY0xpMnU1ckc4MmxncENuYzlvN25VX2xITWtjb2VPWUs3R3EzNmZhamhWZkl3U0ZWbi1kRFFLWkY2MXhpcldYdHNvZFhNMDFFWXF6YTc3aUNUN2tjcTlmWDFRR2s0bm5iYnk0dWxwU0NIclZ4RE43LXlkVVdlclM5OUlScHI2N1Y?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-09T14:09:47+00:00",
-    "summary": "Health Tech World reveals shortlist for Most Improve Patient Outcomes award Health Tech World",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "36d23fbbc558",
-    "title": "Policy vs. Practice: Digitizing Mexico's Healthcare Ecosystem - Mexico Business News",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNR1ZNOHN1Y3NRRVlBWjdEMmwwLWZuRkR2SFFBbzhpMEJVTXI5NUdaSUVTQjVEOVRxRjlUSGNBOU1xOUFUY1JkYUd6aXctc2I5RkZXVUlkTTRKUWVVcWw3NzlndlpiQ0dOSHU1Wk5ReGZ2T1dSSnZvbjJWZ3Q0dnZrZjhHMkpjZlVtcVFMcEVRUk85djFxQzh0ZFpUT0IzUFk?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-09T16:48:34+00:00",
-    "summary": "Policy vs. Practice: Digitizing Mexico's Healthcare Ecosystem Mexico Business News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "ff31309249d4",
     "title": "Why AI scribes are a malpractice risk, according to experts",
     "url": "https://www.healthcaredive.com/news/why-ai-scribes-malpractice-risk/829541/",
@@ -480,6 +506,21 @@
     "relevance_score": 7
   },
   {
+    "id": "c2b4127c1de5",
+    "title": "Health Tech World reveals shortlist for Most Improve Patient Outcomes award - Health Tech World",
+    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxOaWNpLXZsWjZZU2g3Zl9xX25pRWxIejBoTkdlSXFyRElUa01LM28yTWk3RmxVZkZrdEZhcVFPbnZvVlhOWEpybHNkNC1OS19LVUY1NE0yQ3VkY0xpMnU1ckc4MmxncENuYzlvN25VX2xITWtjb2VPWUs3R3EzNmZhamhWZkl3U0ZWbi1kRFFLWkY2MXhpcldYdHNvZFhNMDFFWXF6YTc3aUNUN2tjcTlmWDFRR2s0bm5iYnk0dWxwU0NIclZ4RE43LXlkVVdlclM5OUlScHI2N1Y?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-09T14:09:47+00:00",
+    "summary": "Health Tech World reveals shortlist for Most Improve Patient Outcomes award Health Tech World",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
     "id": "4242762821b1",
     "title": "'Wonderfully Weird': Breztri's AI-Created Llama Ads Break Pharma Tropes 09/04/2026 - MediaPost",
     "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNSV9qeUdBZjBETWZoVkJfSkRjMC1RT3NvNy0tdW8xcDBfS2pEeDdfLXBGejhGeUp6YlNwbUpxSTdLY3FzVHdjSGo1Q1pLdFo5enFqNVlzTFNTUmhBUnlEN0VBRExaMWFuY2JWZXNjd2RzQ0tVa0ZWb0NHaHVkaFV1ajVXNXpZZHAxUjE0dXdmQzdYb21DRU5seUlZMDFqY3ROYW1BX19FcUw?oc=5",
@@ -496,28 +537,13 @@
     "relevance_score": 6
   },
   {
-    "id": "c30636fd55be",
-    "title": "A look inside the University of Houston’s digital health hub - Modern Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSllOa1FhZmY5YWE2cDZYR0cwajFiRWpGbVJQODlYMWtyQmFoR3FPLUZTMnRSc0RST3dzUlRRZERkUVNLb1FuSTFuMTZFSl9MeGZhdk9OQlpPSUtQcExoazVobGh0RUNVNUhrWXBxUjU5WDItNWI4VWkwMUhDcFR2eXZpXzJfNVBWU2toVXNvdU9sOGdUX0pLM1ZfT3JCNWdZaG4w?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-08T10:00:00+00:00",
-    "summary": "A look inside the University of Houston’s digital health hub Modern Healthcare",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 6
-  },
-  {
     "id": "0d804c545b63",
-    "title": "Why consumer apps set their sights on patient health records - endpoints.news",
+    "title": "Why consumer apps set their sights on patient health records - Endpoints News",
     "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPN0xHZkJRUWRZZmd2Rk5NQmx2UWVtWHlnSmoyUXdHci1CVE42UHVXQU5aWnN6UlpNdHRRaFhOZDVnQUliSTNOOTVKQVVKeXFaOFhDTnVKWFIxcXB0U1Bhc2pLcnlTSDBMc1lKNXpzU2lZQ3h2RXVTTnVQS3FnbzZhNEhLcGpQRFZqaFVmMA?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
     "published": "2026-09-08T13:04:35+00:00",
-    "summary": "Why consumer apps set their sights on patient health records endpoints.news",
+    "summary": "Why consumer apps set their sights on patient health records Endpoints News",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -560,12 +586,12 @@
   },
   {
     "id": "a7c1e1e46615",
-    "title": "Ionis wins FDA approval for first drug for Alexander disease, a rare and deadly neurological disorder - statnews.com",
+    "title": "Ionis wins FDA approval for first drug for Alexander disease, a rare and deadly neurological disorder - STAT",
     "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOV0VQWnZUdDA5UDNzYk83Q052bXFFWURoQUs0TDJXaFJ3aGJRVG5CZGFyX0tfS0lrenUzMjk3Zk1PYmpOM0tjS2ttRlM2Y0h6Yno0dU1NeG9MSkVvWEs4QlRmSlR6by1CV3lQSm5YdUNENGtQVUl5WEZlLXFyWVRjLUpqcWZaUURQTlZj?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
     "published": "2026-09-03T20:47:26+00:00",
-    "summary": "Ionis wins FDA approval for first drug for Alexander disease, a rare and deadly neurological disorder statnews.com",
+    "summary": "Ionis wins FDA approval for first drug for Alexander disease, a rare and deadly neurological disorder STAT",
     "image_url": null,
     "tags": [],
     "industries": [
