@@ -13,7 +13,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 60
+    "relevance_score": 57
   },
   {
     "id": "7b94285a4890",
@@ -35,7 +35,7 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 52
+    "relevance_score": 49
   },
   {
     "id": "5f931584742e",
@@ -50,7 +50,7 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 51
+    "relevance_score": 48
   },
   {
     "id": "42749f8f9912",
@@ -67,29 +67,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 46
-  },
-  {
-    "id": "548edb3d91ee",
-    "title": "Why the current tech backlash feels different",
-    "url": "https://www.theverge.com/podcast/992141/decoder-mailbag-ai-backlash-surveillance-midterms-data-centers",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-09-10T14:00:00+00:00",
-    "summary": "This interview has been lightly edited for length and clarity. Nick Statt: Hello and welcome to Decoder, Nilay’s show about big ideas and other problems. This is Nick Statt, senior producer. And I’m joined by our brand-new supervising producer, Greg Ott. Greg Ott: Good day,...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/DCD_Mailbag.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "AI",
-      "Decoder",
-      "Podcasts",
-      "Policy",
-      "Politics"
-    ],
-    "industries": [
-      "media",
-      "consumer"
-    ],
-    "relevance_score": 42
+    "relevance_score": 43
   },
   {
     "id": "6b99391d61dc",
@@ -121,7 +99,10 @@
       "consumer",
       "financial"
     ],
-    "relevance_score": 38
+    "relevance_score": 38,
+    "also_covered_by": [
+      "Adobe Inc"
+    ]
   },
   {
     "id": "02c354d77929",
@@ -158,25 +139,6 @@
     "relevance_score": 33
   },
   {
-    "id": "aeb642d5e865",
-    "title": "Marketers face dilemma around rising bot and AI web traffic",
-    "url": "https://digiday.com/media-buying/marketers-face-dilemma-around-rising-bot-and-ai-web-traffic/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-09-08T04:01:00+00:00",
-    "summary": "Bot traffic is rising for e-commerce brands and interfering with retargeting strategies. But marketers are split on whether they should remain open to AI visitors or work harder to block.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/06/ai-beauty-digiday_fef0f1.webp",
-    "tags": [
-      "Media Buying"
-    ],
-    "industries": [
-      "retail",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 32
-  },
-  {
     "id": "160cbec62398",
     "title": "Ace Hardware: ‘We’re in the business of building national brands’",
     "url": "https://www.retaildive.com/news/ace-hardware-were-in-the-business-of-building-national-brands/829757/",
@@ -211,7 +173,7 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
     "id": "0f44728fe831",

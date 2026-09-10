@@ -12,7 +12,7 @@
     "industries": [
       "financial"
     ],
-    "relevance_score": 47
+    "relevance_score": 44
   },
   {
     "id": "f90a627132f2",
@@ -29,7 +29,10 @@
       "consumer",
       "financial"
     ],
-    "relevance_score": 38
+    "relevance_score": 38,
+    "also_covered_by": [
+      "Adobe Inc"
+    ]
   },
   {
     "id": "47cd74959722",
@@ -82,32 +85,50 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
-    "id": "4dc86d0fc07b",
-    "title": "Canada's Next Frontier: Turning Technology Advantage Into Investable Growth",
-    "url": "https://www.forbes.com/sites/riskmap/2026/09/10/canadas-next-frontier-turning-technology-advantage-into-investable-growth/",
+    "id": "8fb57aac0d1e",
+    "title": "Trump’s $500 Obamacare ‘Rebate Checks’ Announced Thursday—But Who Qualifies Is Murky",
+    "url": "https://www.forbes.com/sites/saradorn/2026/09/10/trumps-500-obamacare-rebate-checks-announced-thursday-but-who-qualifies-is-murky/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-09-10T16:19:10+00:00",
-    "summary": "Canada’s technology strengths offer significant investment opportunities, but turning innovation into growth will depend on execution.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a84669df2ead3f4c24f516c/0x0.jpg?width=960&precrop=2477%2C1160%2Cx0%2Cy243",
+    "published": "2026-09-10T19:59:17+00:00",
+    "summary": "The White House said the payments will go out starting in October.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6aa30b19b5e0d9a45fdd3ecf/0x0.jpg?width=960",
     "tags": [
       "Business",
       "/business",
       "Business",
-      "standard"
+      "/business",
+      "Breaking"
     ],
     "industries": [
-      "tech",
+      "financial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "dc68857321a4",
+    "title": "Jensen Huang Suggests AI Cybersecurity Concerns Could Create Opportunities",
+    "url": "https://www.forbes.com/sites/zacharyfolk/2026/09/10/jensen-huang-suggests-ai-cybersecurity-concerns-could-create-opportunities/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-09-10T20:09:25+00:00",
+    "summary": "“What better way to create demand than to create a problem,” Huang told a crowd at a Goldman Sachs tech conference on Thursday.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a99734da79d3bff24c9de94/0x0.jpg?width=960",
+    "tags": [
+      "Breaking News",
+      "/news",
+      "Business",
+      "/business",
+      "Breaking News"
+    ],
+    "industries": [
       "industrial",
       "financial"
     ],
-    "relevance_score": 16,
-    "also_covered_by": [
-      "Fintech"
-    ]
+    "relevance_score": 15
   },
   {
     "id": "7e9f1c8bff18",
@@ -148,42 +169,12 @@
     "relevance_score": 14
   },
   {
-    "id": "7149b1c2757e",
-    "title": "Mastercard and IFC Launch $500M Facility to Drive Digital Payments in Emerging Markets - FF News",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNajBSZDJCZk9lakhHeExLR3g0eHVGNmJucmttRGMzTWQ4WXczLWRIbWZ2WHJEbmhTQjF1R3JheUtNNGI2SzhCb2NOaUgzQWM0SDRkUTZXb1lsbk1wUlZWa25FMXB2bTRPcjhGSS1KNFA5OFpHVHlsTlcxd2NWVVR6VThFUzIzMzRTN09LVF9rSVlybUlsRER2clBiaWREMUFOVUkxRENlNEhQZEUtRzlBNl95bw?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-09-10T11:34:27+00:00",
-    "summary": "Mastercard and IFC Launch $500M Facility to Drive Digital Payments in Emerging Markets FF News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "ea5302051af8",
-    "title": "Mastercard Sees Digital Wallet Users Exceeding 6 Billion by 2030 - PYMNTS.com",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFpNRjNkMWJvRXZtZll4NVNVeFlwNVRYNlBlRVJ3aWI2dUhSanJfRVM3Q1JuSlF1c2trcEFaU20zWFBGYXRjX2hfREpSWm9WaDJ5b3dhbGltN1BBanJWX2FfeU9sZmlDOTltSFBZc0pPRU5ueV83UTM0ekJmRHoxOHpnaTVxSEMzOWFlZkFIQWFBRVUxOGEtZFFhQXVydWI3UXRnSEtySQ?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-09-10T13:15:33+00:00",
-    "summary": "Mastercard Sees Digital Wallet Users Exceeding 6 Billion by 2030 PYMNTS.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 14
-  },
-  {
     "id": "3be97e7fb19f",
     "title": "About 56% Of Fintech Leaders See Agentic Payments As Most Disruptive Trend In Indian Payments Landscape - BW Disrupt",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxQcW5sc1VaVFhpUC1CNUJCUEJMY2M4ajg4Z2ZxYkxwS2x5a2FTam5lbnp5eVFnNTM0cUlCa1dOVEdUdk5FTzYxSFQ1NzFfTlNmTXBjWjAwS2FYemhRMVptVHBrendXbUxvSUZFdExCUFpHNnRENUdXbHU3OXlCY1F1OXhVa3NzTXREdzdYTjYyeDVPUmVRSmlxUnB2STNyNG1VbDlZemU0WTRxX2hwMWppWjl2cXhhUnQ4aGlmTjhSSUo3aUEwbnhaVU5EUU9HSE5jSUo2LXF0YmJ5em8?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-09-10T18:12:52+00:00",
+    "published": "2026-09-10T18:27:33+00:00",
     "summary": "About 56% Of Fintech Leaders See Agentic Payments As Most Disruptive Trend In Indian Payments Landscape BW Disrupt",
     "image_url": null,
     "tags": [],
@@ -194,22 +185,54 @@
     "relevance_score": 14
   },
   {
-    "id": "022e3eb5160e",
-    "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
-    "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-09-10T12:10:00+00:00",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was...",
+    "id": "6d5aab24bd28",
+    "title": "India’s Next Growth Frontier: B2B Commerce, Payments, and Credit - Bain & Company",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNeU5PNmh0VXRwRTUwMDBkU2UtNlRGV1NLM2hQLTlsem52ZDFseF9YTjAwOWxpU21kNzBsaVBwZTMzQnNob3ZiZVc3N1FDMld1aFpTSDEtUzVpYXNMYjRHd180cU9FZVdjdC1LbnFJNWlzUFJpTzd3aG5GSHdJbWo1bWNKck13MTI2Wk5kQnpTYXl2N0RCNnc?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-09-10T19:44:18+00:00",
+    "summary": "India’s Next Growth Frontier: B2B Commerce, Payments, and Credit Bain & Company",
     "image_url": null,
-    "tags": [
-      "The Download"
+    "tags": [],
+    "industries": [
+      "industrial",
+      "financial"
     ],
+    "relevance_score": 14
+  },
+  {
+    "id": "7b59cfe3b1e0",
+    "title": "Adobe’s latest earnings leave Wall Street wanting more - MarketWatch",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOM1hSSUljb09faGxVU2w3bGdZZzNhMTgzclJ6eWRIbFVhNlRZcjE0S3hyNE40M1ZHRF9jdFpPRDZwbDlVUFFJMXZ1ME8wSXJhVDNEd1JyQmlwc09TdUhlOE9tbTE1T0V2UmlIR0ZKdEdNU0NLcW01RXpoRnV5TFJINzhJNkVteWVuN1JEMnZOT25Gb0xOQmhRS2VTbjA?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-09-10T20:53:00+00:00",
+    "summary": "Adobe’s latest earnings leave Wall Street wanting more MarketWatch",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 14,
+    "also_covered_by": [
+      "Wall Street"
+    ]
+  },
+  {
+    "id": "8ca3c14eae7a",
+    "title": "Wall Street analysts predict Apple iPhone Duo will be a top seller, despite being heavy and costing up to $3,200 - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOdkhNaDY1bEcxV0dCRWRHRjNoUWRGVDc5eHlBM01PUVh5Z2FFZVowQ1ZEbWtYRlMtNlUyNG9ZZjR0RVhZbjkxN0tLWXdyS0hXVXE2TnFXaUl5UTA0Ym5vMlYxT2tJRjBJYVQzbjdPa1M4V1JaWUVTdHpVUWJIT2FxRWpmSVZ2dG9oU3kzUmFreThEdm16QVZMWk55dWZ3bzVM?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-09-10T21:30:00+00:00",
+    "summary": "Wall Street analysts predict Apple iPhone Duo will be a top seller, despite being heavy and costing up to $3,200 Yahoo Finance",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "tech",
       "financial"
     ],
-    "relevance_score": 13
+    "relevance_score": 14
   },
   {
     "id": "5fa5bd194585",
@@ -261,13 +284,13 @@
     "relevance_score": 12
   },
   {
-    "id": "f2fa64e8d478",
-    "title": "OpenAI launches ChatGPT for Financial Services for Wall Street - qz.com",
-    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE5SOGYwNnJkcDNxQVVLcXk1T0VtVTExREdXdGd6QW80b0docVBodDR4MjBobjBBVVV1Mi1TZHBQWHhFTWNtRmw1MG5aU3RFRGdRRjRRb3NXR2h2LWpZa0lNT0M1STlHTUtGdzJiWXVtODBNMXl3bEQ3Rmpn?oc=5",
-    "source": "Wall Street",
+    "id": "7149b1c2757e",
+    "title": "Mastercard and IFC Launch $500M Facility to Drive Digital Payments in Emerging Markets - FF News",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNajBSZDJCZk9lakhHeExLR3g0eHVGNmJucmttRGMzTWQ4WXczLWRIbWZ2WHJEbmhTQjF1R3JheUtNNGI2SzhCb2NOaUgzQWM0SDRkUTZXb1lsbk1wUlZWa25FMXB2bTRPcjhGSS1KNFA5OFpHVHlsTlcxd2NWVVR6VThFUzIzMzRTN09LVF9rSVlybUlsRER2clBiaWREMUFOVUkxRENlNEhQZEUtRzlBNl95bw?oc=5",
+    "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-09-10T17:42:22+00:00",
-    "summary": "OpenAI launches ChatGPT for Financial Services for Wall Street qz.com",
+    "published": "2026-09-10T11:34:27+00:00",
+    "summary": "Mastercard and IFC Launch $500M Facility to Drive Digital Payments in Emerging Markets FF News",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -276,18 +299,49 @@
     "relevance_score": 12
   },
   {
-    "id": "9483f1e1dba6",
-    "title": "Wells Fargo & Co. stock gains as Goldman Sachs lifts price target to USD 111 - ad-hoc-news.de",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM1JHd1RzbjhCNFpfOHNMVjB4eHlFckpyek9mR05CZTV3UlotOTJKZ3g0QUZtRWtWTVVKbXd3anF3NjhoQ0J3Q19jRlFwMFFQX0pFMW9UaU16ZHlhTmN4RHp5NDl2NWJ0ZFNnYWI0NkdDbVI5Q3l2VVFGU0tZTlV0cW5TSTlUaXlUYTI3QzVMblNjcTVtYTZDc1Q0dF9iNVI3czY3dnJpYTAtRmhSS2szaEUxbjVQbnN0MndCWGdubTFQaWRRZHI0VU5xVXA?oc=5",
-    "source": "Banking",
+    "id": "022e3eb5160e",
+    "title": "The Download: a “God-driven” cryptocurrency and a solar engineering roadmap",
+    "url": "https://www.technologyreview.com/2026/09/10/1143828/the-download-christian-cryptocurrency-scandal-solar-engineering-roadmap/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-09-10T12:10:00+00:00",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. God told them to sell crypto. Their investors lost everything. When Eli Regalado first heard God speak to him, he wondered whether he was...",
+    "image_url": null,
+    "tags": [
+      "The Download"
+    ],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "ea5302051af8",
+    "title": "Mastercard Sees Digital Wallet Users Exceeding 6 Billion by 2030 - PYMNTS.com",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxOcFpNRjNkMWJvRXZtZll4NVNVeFlwNVRYNlBlRVJ3aWI2dUhSanJfRVM3Q1JuSlF1c2trcEFaU20zWFBGYXRjX2hfREpSWm9WaDJ5b3dhbGltN1BBanJWX2FfeU9sZmlDOTltSFBZc0pPRU5ueV83UTM0ekJmRHoxOHpnaTVxSEMzOWFlZkFIQWFBRVUxOGEtZFFhQXVydWI3UXRnSEtySQ?oc=5",
+    "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-09-10T17:57:09+00:00",
-    "summary": "Wells Fargo & Co. stock gains as Goldman Sachs lifts price target to USD 111 ad-hoc-news.de",
+    "published": "2026-09-10T13:15:33+00:00",
+    "summary": "Mastercard Sees Digital Wallet Users Exceeding 6 Billion by 2030 PYMNTS.com",
     "image_url": null,
     "tags": [],
     "industries": [
-      "retail",
-      "industrial",
+      "financial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "dbe3c8b4ae9f",
+    "title": "OpenAI launches financial tool for Wall Street bankers - American Banker",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPdDItak5zaXJFOEVSeHJzN01lbHNreGxXM1lKQmRkOHVxekNNSXA3enNIZTJHV2JTLVk4V2FQX3N5Q080dUFPdWpYT3hWRjJDVDBiZXFZd2tibTg1dlpkbFhfMWU1MHhIYmQwTGhIdFM2Vjg3QUF0VHczTWtUejNBUFMtMG5NaWx3dEdiUUJJWXBLbGg5?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-09-10T21:30:00+00:00",
+    "summary": "OpenAI launches financial tool for Wall Street bankers American Banker",
+    "image_url": null,
+    "tags": [],
+    "industries": [
       "financial"
     ],
     "relevance_score": 12
@@ -310,16 +364,34 @@
     "relevance_score": 11
   },
   {
-    "id": "2d265bc88026",
-    "title": "Why Wall Street Is Buying Navan’s Post-Earnings Selloff - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNcEFqUGJMWkoxa0QybnV1S24tSWhsNlgzU0FQd3d2eEZFLXpncTJzaWZzOUF2VzRKWUNTMW9NNFA2QWx3UFNMRkV0c3hkV3c5NXNQa3JJbmFfRXkyWF9MeVJBNk5wTWcxUFNtRHpJV0NSOGRWV1pXdHBRN0tId1N0SUNMYmR2dw?oc=5",
-    "source": "Wall Street",
+    "id": "9483f1e1dba6",
+    "title": "Wells Fargo & Co. stock gains as Goldman Sachs lifts price target to USD 111 - ad-hoc-news.de",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOM1JHd1RzbjhCNFpfOHNMVjB4eHlFckpyek9mR05CZTV3UlotOTJKZ3g0QUZtRWtWTVVKbXd3anF3NjhoQ0J3Q19jRlFwMFFQX0pFMW9UaU16ZHlhTmN4RHp5NDl2NWJ0ZFNnYWI0NkdDbVI5Q3l2VVFGU0tZTlV0cW5TSTlUaXlUYTI3QzVMblNjcTVtYTZDc1Q0dF9iNVI3czY3dnJpYTAtRmhSS2szaEUxbjVQbnN0MndCWGdubTFQaWRRZHI0VU5xVXA?oc=5",
+    "source": "Banking",
     "source_category": "industry_financial",
-    "published": "2026-09-10T17:09:00+00:00",
-    "summary": "Why Wall Street Is Buying Navan’s Post-Earnings Selloff Barron's",
+    "published": "2026-09-10T17:57:09+00:00",
+    "summary": "Wells Fargo & Co. stock gains as Goldman Sachs lifts price target to USD 111 ad-hoc-news.de",
     "image_url": null,
     "tags": [],
     "industries": [
+      "retail",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "20b24c6de488",
+    "title": "Wells Fargo (NYSE:WFC) Moves With Financial Sector As Yield Curve Steepens - Kalkine Media",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNTFJXci1NUmFnZExYR3pOQ0Z1U3lmOEdkcnlJZEhkb3ZaaS1iRVRObGdBZWxBWGRXWGg2eTIwMXhjdDJ1NHdmcGsyTTAyRk5xVGV2TW9JcjkzRjhPLWQxRkpfOFRHWXEwQXVhTFlJbXdwanUzSHVxWUZMZ1ZmZmREazJvRU9rNEFEYllXUFBNay04RXIyVjFGRVV4Qm05bkNBTjFveldONGE5UTZGalB5cXNSQkxRWEE?oc=5",
+    "source": "Banking",
+    "source_category": "industry_financial",
+    "published": "2026-09-10T20:01:00+00:00",
+    "summary": "Wells Fargo (NYSE:WFC) Moves With Financial Sector As Yield Curve Steepens Kalkine Media",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
       "financial"
     ],
     "relevance_score": 11
@@ -341,12 +413,12 @@
   },
   {
     "id": "f523ca629b1c",
-    "title": "Türkiye tops Europe with 142M credit cards as digital payments boom - Türkiye Today",
+    "title": "Türkiye tops Europe with 142M credit cards as digital payments boom - turkiyetoday.com",
     "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPTUc2NUxQeW1MY0JiOUJUdjlSYXRVc21aUXhYN2xMU1ByaUhNWFRCY2VOajY1Qk10cDBxNFFmMFRMVGJWZVhmYmZhYkRJV2U2RlpFR1ZPOHo5MldtVjRCWU4zSmxPYTkyUTU4eGNVTmJoNDlycFhSUHhkVkxFOXJBNFNoSnZGOF9xRDFmb0JDMDdocnVhVk1WSmZKc08wcnZlMExjNVMxWnBOTk1pTlBmbDZCMA?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
     "published": "2026-09-10T08:33:32+00:00",
-    "summary": "Türkiye tops Europe with 142M credit cards as digital payments boom Türkiye Today",
+    "summary": "Türkiye tops Europe with 142M credit cards as digital payments boom turkiyetoday.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -370,76 +442,45 @@
     "relevance_score": 10
   },
   {
-    "id": "bfccc6036b04",
-    "title": "Beazley Launches Digital Health Report - - Insurance Edge",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxNbktyTnJub2tkSWtOWkdsSTgxS294YjBhS2VJWFRjckFaSTRLVXh0amVtWmRRWkZHdFpsaktLbnZQZ3FDMWFjeUVCTnN6TEU1WW9ETUtQeU1ickJKeHRCMzdyXzRyeVdia0ZkWi1WRVpzMlJ0OXBLLTh6MzktU3VuNHNxQQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-10T10:22:24+00:00",
-    "summary": "Beazley Launches Digital Health Report - Insurance Edge",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "a6b2aeabd158",
-    "title": "Mexico’s draft Digital Payments Law: Identity, acceptance and cash-free sectors - White & Case LLP",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcG45OEtJZTFITEVOSktOQUF1TTNwTzIyN3dfa1N1YWdDVEFLclJpWWoxV1oyZEQyeTJyZ29HdlRwWklvWTZYeE9hdUtXc25MRkVHMVJtSUNiUmJ1SFdsMm1FWVNMMFRKZGRYd1AwM1dEU3BPdUlPS0lEVmJZa28zb3dqN2NBMUhic29KcWtFbC1ST2pMQVg3MmlGZ0owMElGTEd0Q1ByckMwNGJ6Y2JELUF1NzBLdEE?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-09-10T12:00:00+00:00",
-    "summary": "Mexico’s draft Digital Payments Law: Identity, acceptance and cash-free sectors White & Case LLP",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "67b3c2797d06",
-    "title": "Digital health AI adoption is outpacing the policies covering it - Insurance Business",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObmNGN3lfWGtVZEtmVTZfQWltY3RDUTlNbTVKeldJYXBaaUVYX2lzTjhNNzJMZzRxMHg2a2kxeTlJQWUxQ0llV21nQ0NGOFVCeWxjV1RucjRNZ3NEYXVBaEMyTGctZXZqMVZBRkU4U3ViNFZ4ZVNVb1BReWRFTlN3bEp3dHFlS1h0SEhnVlZ0dVhSR0F1VTlCWXZPSW5yQVozVUNxc1Zud29UNHVZYXI5YjBIa2xkaWprTnpsbmYyQzFMbGVzREN3NVpBVFBOVkNpUTJFbF9qb0R6d1N0?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-10T15:00:02+00:00",
-    "summary": "Digital health AI adoption is outpacing the policies covering it Insurance Business",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "a0436c72ef0b",
-    "title": "PM Shehbaz stresses digital payments, polio eradication in meeting with Gates Foundation team - The Express Tribune",
-    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUGptOV9VZnZnWVV5cmFPRF8tYkFYT2oxb1UyMDJiM0xPeXFLSUFWeGFKT3NhbW5GZDlHVXRKRWpDZE93S1JuWndfMEk1S3lZMlotMmlCbDE3TFV4SG5hN1JlVUVWQXJWY1Z5NU15OUdLa1dHZm5vY1BCdnhkYWs2MUR5R2xTZ3FGZjVkb3dENl9nVjRSU0xvOW1YcHNmLUdLMWtoR0twX2F2UV9hQjVXV1hOX0QtZU5ZNk5rUkIycGVBbWI5VUlITA?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-09-10T16:39:51+00:00",
-    "summary": "PM Shehbaz stresses digital payments, polio eradication in meeting with Gates Foundation team The Express Tribune",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "f82552b43ee7",
-    "title": "Exclusive | South Korea Nears Agreement on Billions in U.S. Investments, a Win for Trump - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQUy10cDBublphQmRWMzBUdzZrejdIVm5qUkl6Y1dFN0N3NWhqX3lxLVFOVnBIOGFDaE5xWFBkZjZScXJNeWs0blBrN21uREJpNmFpVmJWeFpIZFN3U0o4dzlBa2YyWDc4ZExYQzhCTWJ6bks4b0hMc25aT0JtVVBqMEFEcGplU2tzNXlFNzZMUVJlc04ycHotV0ZkVU96aDUtelFPek5ISThfTFlCSzRQNXlUZHA?oc=5",
+    "id": "d6bccb6bfded",
+    "title": "Wall Street dips as Treasury yields rise and investors fret about inflation - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPVUNZS2ZwczJmM0x1aEM5ZFJMbUhWckRSOE54a1NyTFZjb1NaNFNCZDFwOFJiMk40b1RJelZsVnhKOVNObGNGenNkZzVhUWtZRlktVzhTWk9Qc1EybkRweDk4RFRRUjh2bk1TU0lJazBncUFnUlcwcTlPVWY3NjBzdWVUd3JGTDlLeF9EMU1aTnEzSDctTVcxZVdzT1RZclZjanRhbkl3?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-09-10T06:40:00+00:00",
-    "summary": "Exclusive | South Korea Nears Agreement on Billions in U.S. Investments, a Win for Trump WSJ",
+    "published": "2026-09-10T18:20:18+00:00",
+    "summary": "Wall Street dips as Treasury yields rise and investors fret about inflation Reuters",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "0737ee4dcc14",
+    "title": "Mexico eyes changes in spectrum costs and digital payments – why it matters - BNamericas",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQeDFjOGtHRXExOEdMeUhyQUJEamNJTGEzS01YWVVkWGRwS09QLU5hY0ozbXRLYlJMdXkzWWxpZFhpc2lSdXhXUVRGb0RQSnF4cXhCNlhQVkl3TzI1MGU5Ny1ISFBOUXM4dUVNenA4bkZXY0tQVUQ1R1EydUp4ZkpiUTZreFlSUDlFd2NGdzZKMXRoczROUl82anBjckVUeVdMNDg2ZGhIR0dmM1U2UUNfQXFVNA?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-09-10T20:48:45+00:00",
+    "summary": "Mexico eyes changes in spectrum costs and digital payments – why it matters BNamericas",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "telecom",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "83f5928b140a",
+    "title": "Mastercard Launches Wallet Pay to Scale Digital Wallets Worldwide - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOZWpiYUFIRkp2SGtGQ0JKb0RNNHFmdVlCTFpOLVpST2JmU3RnTE1zeS00SlpFbzM4bHN6UFpmMlZTUGZiSlRORnBQbENva1NyUHlBQUwyS2piVjZpTWVpWVhoQ2EzZ0VEcDNsYmpXeGNUYlBfSnEySTh5d2NYb0NMcGxYR3dHeXQyX3hqdzhsVktPYi1RZzhRTFRGTllEUm9Nbk40?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-09-10T02:15:00+00:00",
+    "summary": "Mastercard Launches Wallet Pay to Scale Digital Wallets Worldwide Yahoo Finance",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -463,113 +504,62 @@
     "relevance_score": 9
   },
   {
-    "id": "b00dee857113",
-    "title": "Exclusive | Wall Street’s Favorite AI Startup Sets Its Sights on Wealth Management - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQeG9GSFJtQUx6dnUtNUt3NFVsbnctaVE2N2tTa1lvYnJDc2Z5WHlTMHRieFlWR0E3NDd4SzFfby1WSVhZVVBlOE1RakR4dGh4cHhNeEtUODBMY2h6elA2cDdpdDhQZU5PcFFuN085YkVSeDQ0VVFwMjVpX2E4TW90SE1yNkpaV1lLb3VoSWVuQ0Jpdl9MQWQ0SFNXNWJiUXdIN2JCNG02bFdSUWhsYW5wSXRDQVM?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-09-10T11:00:00+00:00",
-    "summary": "Exclusive | Wall Street’s Favorite AI Startup Sets Its Sights on Wealth Management WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "3f3046b7193c",
-    "title": "Technology in financial services: where’s the return? - Electronic Payments International",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNm9Sd0pZUVdDMEVSbERMRGppeHJYT0dxM3p1bUEteVlzQ1NJdEl5ZmJrM3VtcVlieXY2cTNRLUhsVGxBcW5LYkRBbG5VMVNZN1FCcDVabGlqeFdLM2stSHZjcWtvMGZvU3ZDV1p0bFk2Z1pwcU1TQjhFWW9iVTRUWVYzcGlwQmhVMmJDNlJ1SFpPcVZIdno0TE1LNlFhdk9iWXlqcXh4ZjhOb1RxN3c?oc=5",
+    "id": "a6b2aeabd158",
+    "title": "Mexico’s draft Digital Payments Law: Identity, acceptance and cash-free sectors - White & Case LLP",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNcG45OEtJZTFITEVOSktOQUF1TTNwTzIyN3dfa1N1YWdDVEFLclJpWWoxV1oyZEQyeTJyZ29HdlRwWklvWTZYeE9hdUtXc25MRkVHMVJtSUNiUmJ1SFdsMm1FWVNMMFRKZGRYd1AwM1dEU3BPdUlPS0lEVmJZa28zb3dqN2NBMUhic29KcWtFbC1ST2pMQVg3MmlGZ0owMElGTEd0Q1ByckMwNGJ6Y2JELUF1NzBLdEE?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-09-10T11:19:44+00:00",
-    "summary": "Technology in financial services: where’s the return? Electronic Payments International",
+    "published": "2026-09-10T12:00:00+00:00",
+    "summary": "Mexico’s draft Digital Payments Law: Identity, acceptance and cash-free sectors White & Case LLP",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
       "financial"
     ],
     "relevance_score": 9
   },
   {
-    "id": "23a99c530fc4",
-    "title": "A booming business on Wall Street would love more biotechs to quietly die - BioPharma Dive",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZnBDQ1VNUk9qOFVNZHpwNFNKM0xadDI2YjlHbFBIdG45T2djTVJQRWZGX3FFam5zTHRvcVVrWENDOXA2NDJjaHdoZm9RNzZXNVpma0hvTWtVNkRhZUV3ampCTEsxTC1iYmR5WHNxZ3lldktRVUNOTnVlWjRwQXBpZ2ZMcmxfTFgzaEJsS1RB?oc=5",
+    "id": "745ad4917437",
+    "title": "Wall Street firm believes the AI stock market boom is 'nearing an end.' Here's why - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxNOTZYQ2dRWWw0SGluZzZuYVN2RDZlOGJHWnk0ZTE1UjVkeE9jY3lIY3dSMnRuX2FydGhtSWQ4eHl1ODlaNjdRSVZzXzdjQ1psMWR3dmE5Mms2RGxLYS0ya2ZVNmtNQ3JEdVBCYkpIWjdaUGJXVGcxOXRNQ09pa2dZc3hsYUZBRXVDaU94d05vdDk0SHNURjU0STkyaS16NFJLOWFQc3VxNkt5S21wdmc0MEluaDdDdw?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-09-10T11:46:27+00:00",
-    "summary": "A booming business on Wall Street would love more biotechs to quietly die BioPharma Dive",
+    "published": "2026-09-10T14:27:40+00:00",
+    "summary": "Wall Street firm believes the AI stock market boom is 'nearing an end.' Here's why CNBC",
     "image_url": null,
     "tags": [],
     "industries": [
-      "industrial",
+      "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "67b3c2797d06",
+    "title": "Digital health AI adoption is outpacing the policies covering it - Insurance Business",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObmNGN3lfWGtVZEtmVTZfQWltY3RDUTlNbTVKeldJYXBaaUVYX2lzTjhNNzJMZzRxMHg2a2kxeTlJQWUxQ0llV21nQ0NGOFVCeWxjV1RucjRNZ3NEYXVBaEMyTGctZXZqMVZBRkU4U3ViNFZ4ZVNVb1BReWRFTlN3bEp3dHFlS1h0SEhnVlZ0dVhSR0F1VTlCWXZPSW5yQVozVUNxc1Zud29UNHVZYXI5YjBIa2xkaWprTnpsbmYyQzFMbGVzREN3NVpBVFBOVkNpUTJFbF9qb0R6d1N0?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-10T15:00:02+00:00",
+    "summary": "Digital health AI adoption is outpacing the policies covering it Insurance Business",
+    "image_url": null,
+    "tags": [],
+    "industries": [
       "lifesciences",
       "financial"
     ],
     "relevance_score": 9
   },
   {
-    "id": "d27ee187838c",
-    "title": "Goldman Sachs Sticks to Their Buy Rating for Bank of America (BAC) - theglobeandmail.com",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUTVKRzZycTI4SW9IaUFscDJNQkt1dDcxazhkYWlGSEhLSUI1SnNVbjV3YTFlSlV0TmFuU2g4X1JHZjNYc1pwLTM0Ylc1MUo5YTBlOHctMHNlektBUy1xQ29CSFJBMmhndlVoREVkRWVaTGVubFd3enR5N29fNHRHcW42ZjRqZS1fMVUtNnhVS2E3U1RrejVkV0Q0OE55a2tSQWdGM1d6dU5oVmhEeFdwYmNCeGkwQVRha2ZDc2VWQWJ4a200SjkwcDQtS3ZqbkpGS0UwMk5BYkVoakptZHFzV0p3?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-09-10T12:19:04+00:00",
-    "summary": "Goldman Sachs Sticks to Their Buy Rating for Bank of America (BAC) theglobeandmail.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "58d3e2ad1d0b",
-    "title": "Can Wallet Pay solve digital wallets’ interoperability gap? - FinTech Global",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQUjlJdHh3QVU3UVJsNXV5RTk0ODBLWU84MGZEQXdvMDZOdXNKTndPSWRCeUx4ZlR6cWJxT0RDcGZGU3RCOHRpYUM5M0J6NEFvX29Mei1RQ3NFcXZpb3VYLVBOWi1zem1rYzZsSmNaeWw2V0FseEhRQUgxLTIzM2pKaHZOaGJFWllOVnVZVVRsZS1NMDAwaDhF?oc=5",
+    "id": "a0436c72ef0b",
+    "title": "PM Shehbaz stresses digital payments, polio eradication in meeting with Gates Foundation team - The Express Tribune",
+    "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNUGptOV9VZnZnWVV5cmFPRF8tYkFYT2oxb1UyMDJiM0xPeXFLSUFWeGFKT3NhbW5GZDlHVXRKRWpDZE93S1JuWndfMEk1S3lZMlotMmlCbDE3TFV4SG5hN1JlVUVWQXJWY1Z5NU15OUdLa1dHZm5vY1BCdnhkYWs2MUR5R2xTZ3FGZjVkb3dENl9nVjRSU0xvOW1YcHNmLUdLMWtoR0twX2F2UV9hQjVXV1hOX0QtZU5ZNk5rUkIycGVBbWI5VUlITA?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-09-10T12:51:00+00:00",
-    "summary": "Can Wallet Pay solve digital wallets’ interoperability gap? FinTech Global",
+    "published": "2026-09-10T16:39:51+00:00",
+    "summary": "PM Shehbaz stresses digital payments, polio eradication in meeting with Gates Foundation team The Express Tribune",
     "image_url": null,
     "tags": [],
     "industries": [
-      "financial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "3a206b563c30",
-    "title": "Bankak outages disrupt Sudan’s digital payments and markets - dabangasudan.org",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYkJ0eDFrX2N2Nm9xTDNOTEZGbV9FY1UyNlgzSXR3a3hBeW9ya1NpYVAwNDhsMmQ0RThmOXRFdjdfVThsM1ZTREtNdVZBWlhiS3poWmNMRzBKYUxDTFl1aDg5Z3ZfeUtLTlZMelFDc1FMckEzSVliWThjdXVzekxRcHNkR3A1OUxyX3E5bVo0ckR5R2VJQlRZXzQ3ZDlyYTNoUHZmTTR3ZXFBdFE?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-09-10T13:23:29+00:00",
-    "summary": "Bankak outages disrupt Sudan’s digital payments and markets dabangasudan.org",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "f7911d56f760",
-    "title": "Oil prices jump back to where they were in May and weigh on Wall Street - spectrumlocalnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQREpWV1pfWGZfdjdOS1FZN3V1V18xWXgxOGlKUDNRV3FIcm1wUHlwUC1SaXNscXhzYjFGbFJ3M0J3NG5hbU1qeEpUb0NkTVI2c0ZwZ2VZcGtINEJENWNLVlp6WjdMelVDWEhCR01mRzBZQ0t1ZVljbEFlV016TWlxTHI0Z05vUU4ybUdJTFVZQkx2czBaSVdRNDZyamlyOXZHWFhUS25TcS1rQQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-09-10T13:57:00+00:00",
-    "summary": "Oil prices jump back to where they were in May and weigh on Wall Street spectrumlocalnews.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
       "financial"
     ],
     "relevance_score": 9
@@ -607,13 +597,108 @@
     "relevance_score": 8
   },
   {
+    "id": "3f3046b7193c",
+    "title": "Technology in financial services: where’s the return? - Electronic Payments International",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQNm9Sd0pZUVdDMEVSbERMRGppeHJYT0dxM3p1bUEteVlzQ1NJdEl5ZmJrM3VtcVlieXY2cTNRLUhsVGxBcW5LYkRBbG5VMVNZN1FCcDVabGlqeFdLM2stSHZjcWtvMGZvU3ZDV1p0bFk2Z1pwcU1TQjhFWW9iVTRUWVYzcGlwQmhVMmJDNlJ1SFpPcVZIdno0TE1LNlFhdk9iWXlqcXh4ZjhOb1RxN3c?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-09-10T11:19:44+00:00",
+    "summary": "Technology in financial services: where’s the return? Electronic Payments International",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "23a99c530fc4",
+    "title": "A booming business on Wall Street would love more biotechs to quietly die - BioPharma Dive",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPZnBDQ1VNUk9qOFVNZHpwNFNKM0xadDI2YjlHbFBIdG45T2djTVJQRWZGX3FFam5zTHRvcVVrWENDOXA2NDJjaHdoZm9RNzZXNVpma0hvTWtVNkRhZUV3ampCTEsxTC1iYmR5WHNxZ3lldktRVUNOTnVlWjRwQXBpZ2ZMcmxfTFgzaEJsS1RB?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-09-10T11:46:27+00:00",
+    "summary": "A booming business on Wall Street would love more biotechs to quietly die BioPharma Dive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences",
+      "financial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "d27ee187838c",
+    "title": "Goldman Sachs Sticks to Their Buy Rating for Bank of America (BAC) - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxQUTVKRzZycTI4SW9IaUFscDJNQkt1dDcxazhkYWlGSEhLSUI1SnNVbjV3YTFlSlV0TmFuU2g4X1JHZjNYc1pwLTM0Ylc1MUo5YTBlOHctMHNlektBUy1xQ29CSFJBMmhndlVoREVkRWVaTGVubFd3enR5N29fNHRHcW42ZjRqZS1fMVUtNnhVS2E3U1RrejVkV0Q0OE55a2tSQWdGM1d6dU5oVmhEeFdwYmNCeGkwQVRha2ZDc2VWQWJ4a200SjkwcDQtS3ZqbkpGS0UwMk5BYkVoakptZHFzV0p3?oc=5",
+    "source": "Banking",
+    "source_category": "industry_financial",
+    "published": "2026-09-10T12:19:04+00:00",
+    "summary": "Goldman Sachs Sticks to Their Buy Rating for Bank of America (BAC) The Globe and Mail",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "3a206b563c30",
+    "title": "Bankak outages disrupt Sudan’s digital payments and markets - Dabanga Radio TV Online",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNYkJ0eDFrX2N2Nm9xTDNOTEZGbV9FY1UyNlgzSXR3a3hBeW9ya1NpYVAwNDhsMmQ0RThmOXRFdjdfVThsM1ZTREtNdVZBWlhiS3poWmNMRzBKYUxDTFl1aDg5Z3ZfeUtLTlZMelFDc1FMckEzSVliWThjdXVzekxRcHNkR3A1OUxyX3E5bVo0ckR5R2VJQlRZXzQ3ZDlyYTNoUHZmTTR3ZXFBdFE?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-09-10T13:25:41+00:00",
+    "summary": "Bankak outages disrupt Sudan’s digital payments and markets Dabanga Radio TV Online",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "f7911d56f760",
+    "title": "Oil prices jump back to where they were in May and weigh on Wall Street - spectrumlocalnews.com",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQREpWV1pfWGZfdjdOS1FZN3V1V18xWXgxOGlKUDNRV3FIcm1wUHlwUC1SaXNscXhzYjFGbFJ3M0J3NG5hbU1qeEpUb0NkTVI2c0ZwZ2VZcGtINEJENWNLVlp6WjdMelVDWEhCR01mRzBZQ0t1ZVljbEFlV016TWlxTHI0Z05vUU4ybUdJTFVZQkx2czBaSVdRNDZyamlyOXZHWFhUS25TcS1rQQ?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-09-10T13:57:00+00:00",
+    "summary": "Oil prices jump back to where they were in May and weigh on Wall Street spectrumlocalnews.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "telecom",
+      "financial"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "7aeba319b023",
-    "title": "noon payments enables Jaywan acceptance through Mastercard Gateway - mastercard.com",
+    "title": "noon payments enables Jaywan acceptance through Mastercard Gateway - Mastercard",
     "url": "https://news.google.com/rss/articles/CBMi5AFBVV95cUxPcWtrZWpyc1BVOEhPU3ZvSXZkak5qTnN4ckVOTkF6VmFjVEQ1VUJFTXFsZ01KUG9rb2tMdFBfMkJTWlVoTlpmS0ppNlRRSDBwUmxjdkVLVE4xNEJJdV9Nb0E0aEI1bTREakF6dmM0WWtsT3FvZmVjc2FDYk1WYVloVjVfUHRxbk1iNWJZY3FZY0I3UHFxNjdvS0NNVGdFV0NxUUl2LUgyUlZHUE01WjNmZjkyRjU1c29jRHJCMkhDUllaSGNJbzI2NktsVjFMLVlnYmV6V2ktQWgwUDRKOF8xejg5UVo?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
     "published": "2026-09-09T14:29:06+00:00",
-    "summary": "noon payments enables Jaywan acceptance through Mastercard Gateway mastercard.com",
+    "summary": "noon payments enables Jaywan acceptance through Mastercard Gateway Mastercard",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "877f8fc7cd0b",
+    "title": "India Favors Central Bank Digital Currencies for BRICS Payments - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQWExwTjRYYTgwazhvX19QNDR6Q1VvT0Iyb2p4QWpMMkdvcHozUWtWRlU5QmxGTUZFNDFLaUMwMWVCWThlWmZIMEx1OEV3ak5KWi05eVBCbjhhTTF0a0tuN2Y3SGdnSl9DMUFNVXlsVzdMekYtSFZjRmFoOHp3OVZVM2I4dURFaDFUcFZER2lkaXRPMGczTVdhYkZfelFvVkVvdHgyU2hjWEs0dzVHX21TaVdqazE?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-09-10T04:21:00+00:00",
+    "summary": "India Favors Central Bank Digital Currencies for BRICS Payments Bloomberg.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -684,21 +769,6 @@
     "relevance_score": 6
   },
   {
-    "id": "ef9454f87b66",
-    "title": "Regional Interoperability Spotlight: Cross-Border Payments in the Middle East - Thunes",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTE9ULVZUX3pQUkZPOEZsYUdpVV9BRW5TREJ2SGVNaWdUOVBhXzA3T253ZTQ5RzF6MjhfUUFCNWtvMzZlYXhtRWhoWTNUdUJiUzBoZmFOb3ppWk9CR1pMdlBldkhOVERQUmFPdGNxbkdiS0x1UGxsdTF3?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-09-09T09:55:22+00:00",
-    "summary": "Regional Interoperability Spotlight: Cross-Border Payments in the Middle East Thunes",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 6
-  },
-  {
     "id": "ced355c6fbd5",
     "title": "Visa builds business abroad - Payments Dive",
     "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9jZkZsLWVpTlpueTZEQUJ1em9ZREd3ODRQeS1vZDUteGJPMmRSaHFCUW5xdFdSRi1USG54bG9NdzViR2VuR0R5SC1RNGZpZTZOcGp6aHZWSEw3R0dGdjhMc0JlaVZ1ZTQyUnRZalV1bE5SMEN6S284Ug?oc=5",
@@ -712,20 +782,5 @@
       "financial"
     ],
     "relevance_score": 6
-  },
-  {
-    "id": "aa1f135dbae2",
-    "title": "India Eyes AI for Next Finance Leap After Digital Payments Boom - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPRzNXUFdPVC1QYjF1dTU2N19UMHBnWDJQRzlqWk80cVB2MV9nNW9qcGZiUV9wWTgyMjUwMFdkaGdxMXZDYnFTY2hUQ0tTY21pSF9HUFF1N1VPN0ViQzVuZ01hRG5XUkFOODNUYjZqVmI1VG9GZDBTWXVkM2hXclNOMFJycFVXVHRWQkpJX29Kdzc0ZmRWLUV2Y2owazlDRmxRU1lkd1RUVGpOc1BfdmNVVDBjRGc?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-09-08T08:30:13+00:00",
-    "summary": "India Eyes AI for Next Finance Leap After Digital Payments Boom Bloomberg.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 5
   }
 ]
