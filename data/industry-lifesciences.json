@@ -31,27 +31,6 @@
     "relevance_score": 12
   },
   {
-    "id": "1587a3fbe537",
-    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
-    "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-09-10T21:35:00+00:00",
-    "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675",
-    "tags": [
-      "AI",
-      "Biotech & Health",
-      "Fintech",
-      "Fundraising",
-      "Media & Entertainment"
-    ],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 12
-  },
-  {
     "id": "3dc010003e50",
     "title": "Meet the under-35s shaping the future of biotech",
     "url": "https://www.technologyreview.com/2026/09/11/1143834/meet-the-under-35s-shaping-the-future-of-biotech/",
@@ -108,7 +87,10 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 11
+    "relevance_score": 11,
+    "also_covered_by": [
+      "Health Tech"
+    ]
   },
   {
     "id": "d9b38767fd38",
@@ -123,6 +105,27 @@
     "industries": [
       "tech",
       "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "1587a3fbe537",
+    "title": "Mark Wahlberg is coming to TechCrunch Disrupt 2026, and he wants to talk about your work, not his",
+    "url": "https://techcrunch.com/2026/09/10/mark-wahlberg-is-coming-to-techcrunch-disrupt-2026/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-09-10T21:35:00+00:00",
+    "summary": "Mark Wahlberg joins Bruce K. Lee at Disrupt to discuss investing, entrepreneurship, healthcare, wellness, and building businesses.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/TCD26_Wahlberg-Lee-16x9-Dark.png?resize=1200,675",
+    "tags": [
+      "AI",
+      "Biotech & Health",
+      "Fintech",
+      "Fundraising",
+      "Media & Entertainment"
+    ],
+    "industries": [
       "lifesciences"
     ],
     "relevance_score": 11
@@ -318,38 +321,6 @@
     "relevance_score": 9
   },
   {
-    "id": "1f89f560384b",
-    "title": "GenHealth.ai Raises $16.5M to Automate Healthcare Administrative Tasks - MedCity News",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPVWdOXzNSbElLbFJTR0RHZ0hCS01RZXNIcEVlVEFzZ0ZsTWdaVWpJMFhSdHlPY1FZVlBybkZTRHlCNnVsc1BoVnpoVEtHOG5DVVpCNVQyMlJiX2VMN29ONUwxb1VzdXRJeFZ5aGZsSlAybzRiMndNMUo5XzZGY1lyVTc5b1ZxYVRDMUYtUWlNN0QwZmJDc1ZRa045bWdoUmhNdFQ0eg?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-11T20:55:06+00:00",
-    "summary": "GenHealth.ai Raises $16.5M to Automate Healthcare Administrative Tasks MedCity News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "1be56c3d165c",
-    "title": "5 August FDA Approvals Marked by Novelty, Pushback - ajmc.com",
-    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTDdubUF5RzBDVmU4SlY4R2V1U1dsb3c4SFJlUktuMHQ2V1JHU3dsOWJmZE80eUlLU05tenlGVEotd1pOc2FTZjZ0OUxUcjZBSlVEbTZpcUN1ZXZZQlhfdHFIUWlUN2ZHMDN5ay1zZmNBS0s5a1BxcVF5MTBxZDNZYQ?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-11T21:12:54+00:00",
-    "summary": "5 August FDA Approvals Marked by Novelty, Pushback ajmc.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
     "id": "17eaea8e89e4",
     "title": "How video games are changing medical education",
     "url": "https://www.fiercehealthcare.com/providers/how-video-games-are-changing-medical-education",
@@ -407,6 +378,23 @@
     "image_url": "https://imgproxy.divecdn.com/woFZ4VUoLOVTQr5KNkBDLdunkevN_Tkz55wefOezGog/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yNzE2ODU3LmpwZw==.webp",
     "tags": [],
     "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "1be56c3d165c",
+    "title": "5 August FDA Approvals Marked by Novelty, Pushback - The American Journal of Managed Care",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPTDdubUF5RzBDVmU4SlY4R2V1U1dsb3c4SFJlUktuMHQ2V1JHU3dsOWJmZE80eUlLU05tenlGVEotd1pOc2FTZjZ0OUxUcjZBSlVEbTZpcUN1ZXZZQlhfdHFIUWlUN2ZHMDN5ay1zZmNBS0s5a1BxcVF5MTBxZDNZYQ?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-11T21:12:54+00:00",
+    "summary": "5 August FDA Approvals Marked by Novelty, Pushback The American Journal of Managed Care",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
       "industrial",
       "lifesciences"
     ],
@@ -510,12 +498,12 @@
   },
   {
     "id": "ab8e72d19005",
-    "title": "FDA delays approval decision for Exelixis' tyrosine kinase inhibitor in colorectal cancer - Fierce Biotech",
+    "title": "FDA delays approval decision for Exelixis' tyrosine kinase inhibitor in colorectal cancer - fiercebiotech.com",
     "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxNOHJtRkd2LTg1QU5PTldmcGFBWVdSemtuaUZxOXpCNnpRQ2QzVzI4Qk4xX3B0REIwTnpYVGVncHdVcHdjWWxFeVNFZHlYZ0U5QTNpVDhQS052TzZFRlBwRUV4eEswVnF6UzNrdVlWWlhGZzVBZl9uclpXWjVlR1lINUoyQm9mQkFxNlNrWU5MMGR1MGtFZGphMmo2Y0cwcU02U1lhcGYzM1J0Ulhrbjhnb21wNjFBbWNVdmZmVGI0dTdtQ1p5MGc?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
     "published": "2026-09-11T13:52:01+00:00",
-    "summary": "FDA delays approval decision for Exelixis' tyrosine kinase inhibitor in colorectal cancer Fierce Biotech",
+    "summary": "FDA delays approval decision for Exelixis' tyrosine kinase inhibitor in colorectal cancer fiercebiotech.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -527,12 +515,12 @@
   },
   {
     "id": "c30636fd55be",
-    "title": "A look inside the University of Houston’s digital health hub - modernhealthcare.com",
+    "title": "A look inside the University of Houston’s digital health hub - Modern Healthcare",
     "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxQSllOa1FhZmY5YWE2cDZYR0cwajFiRWpGbVJQODlYMWtyQmFoR3FPLUZTMnRSc0RST3dzUlRRZERkUVNLb1FuSTFuMTZFSl9MeGZhdk9OQlpPSUtQcExoazVobGh0RUNVNUhrWXBxUjU5WDItNWI4VWkwMUhDcFR2eXZpXzJfNVBWU2toVXNvdU9sOGdUX0pLM1ZfT3JCNWdZaG4w?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
     "published": "2026-09-08T10:00:00+00:00",
-    "summary": "A look inside the University of Houston’s digital health hub modernhealthcare.com",
+    "summary": "A look inside the University of Houston’s digital health hub Modern Healthcare",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -542,12 +530,12 @@
   },
   {
     "id": "b2b7720aa88c",
-    "title": "FDA approves AstraZeneca’s Etcamah, opening ctDNA-guided treatment paradigm in breast cancer - Fierce Pharma",
+    "title": "FDA approves AstraZeneca’s Etcamah, opening ctDNA-guided treatment paradigm in breast cancer - fiercepharma.com",
     "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNbmw5TEpNWVZlU2ZrVlA2akR1ck50RHlnNzllRElpUGxQaC1NaTE5SUVjdjlnRlYxb2R1Y281MGRPNVJMZ2NIeVA0YXYtbVVaWDEwaXVFb2NnVGVnenVzX0hVV3FFVm5VS2M3aEVRUFhacnFBLXdhejZqTUFLbW9CRXE4c3lJNFZoNjVNQ3JQOExCSFI2RWJPelBLREU3WHJ3REJ2WFFtMy1hRjVQanFfUFJOMjRFVDJQOGNj?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
     "published": "2026-09-08T14:35:11+00:00",
-    "summary": "FDA approves AstraZeneca’s Etcamah, opening ctDNA-guided treatment paradigm in breast cancer Fierce Pharma",
+    "summary": "FDA approves AstraZeneca’s Etcamah, opening ctDNA-guided treatment paradigm in breast cancer fiercepharma.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -607,13 +595,13 @@
     "relevance_score": 5
   },
   {
-    "id": "a7ecabcffcf8",
-    "title": "AI adoption exposes insurance gaps in digital health - Beinsure",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNNDhReVBlVjhOMVJ4LXJ0SkJxRXhDRERDM0ZnQ1NhYkFRa3FMZWNJeDAwdlVUazZzamhodmk4OWVtYmkzcld2ejlkTjJkMnVJZV9GeU1GOW9LZm93WEFYRTNVOTdTREtsdl9vS2JwWU9JaEVBUk94Z1dZWFlKc2FMSlFLZ1dDZw?oc=5",
+    "id": "67b3c2797d06",
+    "title": "Digital health AI adoption is outpacing the policies covering it - Insurance Business",
+    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxObmNGN3lfWGtVZEtmVTZfQWltY3RDUTlNbTVKeldJYXBaaUVYX2lzTjhNNzJMZzRxMHg2a2kxeTlJQWUxQ0llV21nQ0NGOFVCeWxjV1RucjRNZ3NEYXVBaEMyTGctZXZqMVZBRkU4U3ViNFZ4ZVNVb1BReWRFTlN3bEp3dHFlS1h0SEhnVlZ0dVhSR0F1VTlCWXZPSW5yQVozVUNxc1Zud29UNHVZYXI5YjBIa2xkaWprTnpsbmYyQzFMbGVzREN3NVpBVFBOVkNpUTJFbF9qb0R6d1N0?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-09-10T15:49:11+00:00",
-    "summary": "AI adoption exposes insurance gaps in digital health Beinsure",
+    "published": "2026-09-10T15:00:02+00:00",
+    "summary": "Digital health AI adoption is outpacing the policies covering it Insurance Business",
     "image_url": null,
     "tags": [],
     "industries": [
