@@ -54,7 +54,7 @@
   },
   {
     "id": "a9ca9cfe28f0",
-    "title": "The Weekly Closeout: Bed Bath & Beyond parent plots a credit union and Express goes back to the ’90s",
+    "title": "The Weekly Closeout: Bed Bath & Beyond parent plots a credit union and Express goes back to the ‘90s",
     "url": "https://www.retaildive.com/news/bed-bath-and-beyond-credit-union-express-nineties-nostalgia/830739/",
     "source": "Retail Dive",
     "source_category": "industry_retail",
@@ -69,7 +69,7 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 42
+    "relevance_score": 38
   },
   {
     "id": "009d34cef06b",
@@ -121,12 +121,12 @@
   },
   {
     "id": "9d293a040027",
-    "title": "How to Post on Multiple Social Media Platforms At Once - Metricool",
+    "title": "How to Post on Multiple Social Media Platforms At Once - metricool.com",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTFBhRWRtaTc4N2U1bDFhUzRkMThfYnpUSHpNZWxUVXRXT0x1T2dHM003MU1NbjV4QjVmV002YjJIOFZVSnNvVy1vSl9TZllnWlF1Ql9VVDlzZnF0TWJ5N1pQZnF4a3ZMT2lMX0MyVkZoNA?oc=5",
     "source": "Social Media",
     "source_category": "marketing",
     "published": "2026-09-14T07:00:00+00:00",
-    "summary": "How to Post on Multiple Social Media Platforms At Once Metricool",
+    "summary": "How to Post on Multiple Social Media Platforms At Once metricool.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -134,6 +134,27 @@
       "tech"
     ],
     "relevance_score": 20
+  },
+  {
+    "id": "576463a78c40",
+    "title": "Netflix’s Best New Movie Has A 91% Rotten Tomatoes Audience Score",
+    "url": "https://www.forbes.com/sites/paultassi/2026/09/19/netflixs-best-new-movie-has-a-91-rotten-tomatoes-audience-score/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-09-19T15:06:59+00:00",
+    "summary": "Netflix has just added a fun new action-comedy movie with a bunch of big stars and a 91% audience score. Check it out this weekend.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6aaea46dc3d544aeb514d7ac/0x0.jpg?width=960",
+    "tags": [
+      "Gaming",
+      "/gaming",
+      "Innovation",
+      "/innovation",
+      "Gaming"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 19
   },
   {
     "id": "094e27b490fa",
@@ -156,7 +177,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 19
+    "relevance_score": 18
   },
   {
     "id": "4a4c056c3a22",
@@ -224,22 +245,65 @@
     "relevance_score": 15
   },
   {
-    "id": "a5c8c93d0bf6",
-    "title": "What Hollywood thinks about existential AI warnings",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997358/what-hollywood-thinks-about-existential-ai-warnings",
-    "source": "The Verge",
+    "id": "15f70ac64294",
+    "title": "AI safety conversations have gotten unbelievable",
+    "url": "https://techcrunch.com/2026/09/19/ai-safety-conversations-have-gotten-unbelievable/",
+    "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-09-18T16:35:19+00:00",
-    "summary": "As the tech sector sounds alarms about AI's potential to destroy humanity, entertainment labor groups are urging the public to stay focused on what's already happening. The Verge reached out to Disney, Netflix, Amazon, Lionsgate, and other studios who have started using AI,...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/268764_hollywood_AI_slowdown_CVirginia.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "published": "2026-09-19T15:00:00+00:00",
+    "summary": "This week two conversations about AI safety went viral that demonstrate just how hard it is to discern AI fact from fiction.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/07/GettyImages-1662708140-e1721664527112.jpg?resize=1200,676",
     "tags": [
       "AI",
-      "Entertainment"
+      "TC",
+      "OpenAI",
+      "Anthropic",
+      "alignment"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "0ad866757789",
+    "title": "Anamanaguchi has ‘too goddamn many’ browser tabs open right now",
+    "url": "https://www.theverge.com/entertainment/996855/anamanaguchi-anyway-yeah-i-guess-interview-music",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-09-19T15:00:00+00:00",
+    "summary": "Anamanaguchi, the band consisting of Peter Berkman, James DeVito, Luke Silas, and Ary Warnaar, are most known for their chiptune music. Like me, you might have first heard them in game soundtracks like 2010's Scott Pilgrim vs. the World: The Game or know of their...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/Anamanaguchi-2026-Credit-Joshua-Tarn-hires.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723395278369%2C100%2C78.553209443262&amp;w=1200",
+    "tags": [
+      "Entertainment",
+      "Interview",
+      "Music",
+      "Report"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "e0b8e6e014e2",
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-09-19T17:30:00+00:00",
+    "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+    "tags": [
+      "Security",
+      "AI",
+      "Google",
+      "gemini",
+      "Alphabet"
     ],
     "industries": [
       "media",
       "tech",
-      "retail",
       "industrial"
     ],
     "relevance_score": 15
@@ -263,24 +327,6 @@
     "industries": [
       "media",
       "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "120783d732b8",
-    "title": "CMS restores $12B in frozen supplemental Medicaid funds",
-    "url": "https://www.fiercehealthcare.com/providers/cms-restores-12b-frozen-supplemental-medicaid-funds",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-18T15:38:00+00:00",
-    "summary": "The pause that began Sept. 1 had triggered alarm bells from provider groups and prompted an appeal from Texas Governor Greg Abbott.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Centene%20Texas%20protest%20gguy44.jpg?VersionId=m12fBB1jF5jbq_YvYlkHZuGSFOPVXi36",
-    "tags": [],
-    "industries": [
-      "media",
-      "tech",
-      "retail",
-      "industrial"
     ],
     "relevance_score": 13
   },
@@ -382,18 +428,37 @@
     "relevance_score": 12
   },
   {
-    "id": "4392ee4fc635",
-    "title": "Adobe Announces Photoshop and Premiere Elements 2027 - thurrott.com",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPdW1TOUYtZTFVS0Q2bTBWR29ha3dEd093d3g2SGJaV1pLS2pSVmxXSmxBX29uekw2NTFDNGt2RWppcEtLSHEwZ0tJejVJdkZaeUZqWFFYcHhFTFVKZ0pkb29lUWs2djVwb1dvR1ViUHFaeU9vQW5Fa0xHUXMtUHZEdUdSMjYxRVlrcGhPVGVJMm96TjR5MDJITmNsRGxfa2thaUNaSGRn?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-09-16T13:05:27+00:00",
-    "summary": "Adobe Announces Photoshop and Premiere Elements 2027 thurrott.com",
+    "id": "120783d732b8",
+    "title": "CMS restores $12B in frozen supplemental Medicaid funds",
+    "url": "https://www.fiercehealthcare.com/providers/cms-restores-12b-frozen-supplemental-medicaid-funds",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-18T15:38:00+00:00",
+    "summary": "The pause that began Sept. 1 had triggered alarm bells from provider groups and prompted an appeal from Texas Governor Greg Abbott.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Centene%20Texas%20protest%20gguy44.jpg?VersionId=m12fBB1jF5jbq_YvYlkHZuGSFOPVXi36",
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "38cfe9bcdd43",
+    "title": "Exclusive | Paramount in Advanced Settlement Talks With California’s Attorney General - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNVXQ1QlNoaEJXT3NpSV8yMTZwVThKNlZJZWI4R2xOeVptRVZuWGEwMm1oTWp1TV9DNGNraEtQa2J5djlhbUhwVnhpOEhmR2dLNENPYTB3ZVFwM0RUWmtXaGhVeldOWkZlTDd1VlBDOU4yT1VBZEZqdXVBaklrTS0wMlZYQWxNeUszRnJTZDY2bkJCTG9kd0hvMHVjWEZKb2JyQlplc2dPeTU4T1Q1UWtFTGFDUkxEemc?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-09-18T22:10:00+00:00",
+    "summary": "Exclusive | Paramount in Advanced Settlement Talks With California’s Attorney General WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
-      "media"
+      "media",
+      "industrial"
     ],
-    "relevance_score": 8
+    "relevance_score": 7
   }
 ]

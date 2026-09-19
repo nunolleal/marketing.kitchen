@@ -1,7 +1,7 @@
 [
   {
     "id": "a9ca9cfe28f0",
-    "title": "The Weekly Closeout: Bed Bath & Beyond parent plots a credit union and Express goes back to the ’90s",
+    "title": "The Weekly Closeout: Bed Bath & Beyond parent plots a credit union and Express goes back to the ‘90s",
     "url": "https://www.retaildive.com/news/bed-bath-and-beyond-credit-union-express-nineties-nostalgia/830739/",
     "source": "Retail Dive",
     "source_category": "industry_retail",
@@ -16,30 +16,31 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 42
+    "relevance_score": 38
   },
   {
-    "id": "88391dbee63d",
-    "title": "Security researchers used Claude to help them hack into OpenAI",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997444/openai-hack-claude-heif-heist",
+    "id": "fd29565670e2",
+    "title": "Gemini went rogue, hacked three companies, and Google hid it",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
     "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-09-18T15:30:16+00:00",
-    "summary": "A team of three independent security researchers at Hacktron says it took less than 72 hours for them to hack into OpenAI employee accounts using Anthropic's Claude Opus 4.8 and 5, The Wall Street Journal reports. They were able to access OpenAI's GitHub repository, called...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/STKS533_AI_AGENTS_HACKING_D.png?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+    "published": "2026-09-19T15:25:03+00:00",
+    "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
     "tags": [
       "AI",
-      "Anthropic",
+      "Google",
       "News",
-      "OpenAI",
-      "Security"
+      "Security",
+      "Tech"
     ],
     "industries": [
+      "tech",
+      "industrial",
       "financial"
     ],
-    "relevance_score": 14,
+    "relevance_score": 16,
     "also_covered_by": [
-      "TechCrunch AI",
       "Wall Street"
     ]
   },
@@ -105,40 +106,7 @@
     "industries": [
       "financial"
     ],
-    "relevance_score": 11
-  },
-  {
-    "id": "bfada458f5fe",
-    "title": "Insurance doesn’t protect US adults from medical debt, Commonwealth Fund finds",
-    "url": "https://www.healthcaredive.com/news/insurance-doesnt-protect-us-adults-from-medical-debt-commonwealth-fund/830784/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-18T15:35:00+00:00",
-    "summary": "One-third of privately insured adults have unpaid debt to a healthcare provider, illustrating how medical debt isn't limited to uninsured people or those facing major medical emergencies.",
-    "image_url": "https://imgproxy.divecdn.com/0UKLHQPHIW7LkdUKwUKTitctKdj_tBYWp0t3mskw360/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzMjc4MTkyXzEuanBn.webp",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences",
-      "financial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "c12c7ab595fd",
-    "title": "Longtime Christmas decor retailer files for bankruptcy",
-    "url": "https://www.retaildive.com/news/christmas-decor-retailer-gordon-companies-files-chapter-11-bankruptcy/830777/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-09-18T16:00:00+00:00",
-    "summary": "Gordon Companies Inc. — which operates Christmas Central, Christmas.com and more — filed for Ch. 11 bankruptcy protection just ahead of peak season.",
-    "image_url": "https://imgproxy.divecdn.com/6b2MnwcKoAI8imru8Ek26_F_u0EIj2TZt2pbudR2nzQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQzNDIyNDgwLmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "retail",
-      "financial"
-    ],
-    "relevance_score": 11
+    "relevance_score": 10
   },
   {
     "id": "3bef394916fc",
@@ -153,7 +121,7 @@
     "industries": [
       "financial"
     ],
-    "relevance_score": 11
+    "relevance_score": 10
   },
   {
     "id": "5971ae7ce0df",
@@ -167,21 +135,6 @@
     "tags": [],
     "industries": [
       "tech",
-      "financial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "dc139cd9e6bd",
-    "title": "Warsh’s Fed shows it’s serious about taming inflation. Why Wall Street now believes it. - MarketWatch",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVEF1ZXBKMnRtVWJIMGxkWF9aeFQ1X1hFR0o3YlZnbzFQd0pTNHp3bXo1ZFJLRy0xVHlzRURxaEg2bDl5Q3NSc1ZWZFFWOGpSeDJMMVJOZ1FQbzZtcDR4dFdNQ1NWR210VmJEUlREOGVrcl9mZFlNSDBVVzhGWDNtUEtXYTRFTy1xUXNTYjF4RUFNNjNfM2NhT0RmNEpHcHVPZkFJNHVNTGVNM2U4ZEtKNEFwNlQxeE1oU2NldHFoV2VtZFhJ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-09-19T13:00:00+00:00",
-    "summary": "Warsh’s Fed shows it’s serious about taming inflation. Why Wall Street now believes it. MarketWatch",
-    "image_url": null,
-    "tags": [],
-    "industries": [
       "financial"
     ],
     "relevance_score": 10
@@ -204,6 +157,39 @@
     "relevance_score": 9
   },
   {
+    "id": "bfada458f5fe",
+    "title": "Insurance doesn’t protect US adults from medical debt, Commonwealth Fund finds",
+    "url": "https://www.healthcaredive.com/news/insurance-doesnt-protect-us-adults-from-medical-debt-commonwealth-fund/830784/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-18T15:35:00+00:00",
+    "summary": "One-third of privately insured adults have unpaid debt to a healthcare provider, illustrating how medical debt isn't limited to uninsured people or those facing major medical emergencies.",
+    "image_url": "https://imgproxy.divecdn.com/0UKLHQPHIW7LkdUKwUKTitctKdj_tBYWp0t3mskw360/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xNDgzMjc4MTkyXzEuanBn.webp",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences",
+      "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "c12c7ab595fd",
+    "title": "Longtime Christmas decor retailer files for bankruptcy",
+    "url": "https://www.retaildive.com/news/christmas-decor-retailer-gordon-companies-files-chapter-11-bankruptcy/830777/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-09-18T16:00:00+00:00",
+    "summary": "Gordon Brothers Inc. — which operates Christmas Central, Christmas.com and more — filed for Ch. 11 bankruptcy protection just ahead of peak season.",
+    "image_url": "https://imgproxy.divecdn.com/6b2MnwcKoAI8imru8Ek26_F_u0EIj2TZt2pbudR2nzQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzQzNDIyNDgwLmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "retail",
+      "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "95ae880b66d1",
     "title": "Y Combinator insurance tech alum Angle Health hits $2.7B valuation - TechCrunch",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPSUZmbzR4SDlmTUEzQXNLcmlERDhKVUVQN215RmV6R2NPUlN1Ri1zM1NvRGNDVFhnNnFKTzZlbkU3SGZJbjVwQk1oNnJteXB2Y3hXWHg5bE9UVVhmUFYtNE5icUZ0dm5wNm5hUExpZ2VqRXo4R3JSR05uajhqVFBkNGJ4bFItRkZaaHVILTc2aEtNd3VYRXlFYU9pU1pSSmxQSHc?oc=5",
@@ -219,13 +205,13 @@
     "relevance_score": 9
   },
   {
-    "id": "a5628eb6d966",
-    "title": "Wall Street week ahead: housing market, unemployment updates - lancasteronline.com",
-    "url": "https://news.google.com/rss/articles/CBMi7wFBVV95cUxNcmxNOEFLYmhoeGt0MFd0Y2VpYTE4cERMZldrN3VMTWUyakZlX3laR2xpNlpwWFVkRkk5RFMyOE1wNlZzSkY5V3MtV2MwWmZCS1JrZ3Z4Y2FtSkV6b2REWHFDQ0V5UzctdGxEQVFibUg5a2ZXcm13cVBYQzhYamlPY3M5MkhnX0pxZjZheHpKRUZlaXJndDFrcWl2TlRJeXNrcHYzbGg0T0Z0emYwbWdkSDRXLWtfMEdjdmdwT1dzMFZQdWh6NDBUc2VxU0ZGVTZDTTFwLXBSejVvT2h0NjZvaE40c0JGS1BBT1dUTm5jOA?oc=5",
-    "source": "Wall Street",
+    "id": "0207026f9ef6",
+    "title": "Digital payments – a subsidised pipeline - The Times of India",
+    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxOVzQ3eXMzVUJ4QlFQT1ZXLXdPU1kycmpoUUt6NFloOF93a0FNLS0zR3ZJRjR0MXU1NlB6dE5LUmtHU0YydFlVNE1ndjQ4TlBscUUwWnRDemcxeXhoZ1VZYjRBNnJrcUlRUC1TV1RLZjZBLXpVQzJtSHFIbFJQNUFabEh1bGZ1Y3BjdmFkcmN3NkozYUJHckVmZ3E2cElldW9fdnpDdnZsbHV4bUhjNFliQ3FTMHBnRXNyV0E3X3VFSmtTUdIBxwFBVV95cUxPcWlIbFZjU1o1R0NfWHU0QnZlcEh5dDZnWXhHY0RPMWFDLVJpeDQwcktyb2N3b2VBOTJFeHNQSkFoZXdGY3doNXI4dnQydV9Oa0VQYlJJcElPOGtIZEI3YWN5VzFWVEtTb0s3LWdtck5Dc1hZMzY4RHFLbEZKa3dFLUJ1d1pCZHVjLTVuVjA3RThHN2tpamFXcV9vOXVKaldpRUxsd2xvbXdEZjFMN2YxVTlZOUdQd3N1Q3h1N1o1ckxFX1hpakU4?oc=5",
+    "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-09-19T08:00:09+00:00",
-    "summary": "Wall Street week ahead: housing market, unemployment updates lancasteronline.com",
+    "published": "2026-09-19T10:54:00+00:00",
+    "summary": "Digital payments – a subsidised pipeline The Times of India",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -234,17 +220,16 @@
     "relevance_score": 9
   },
   {
-    "id": "4f652ea10c10",
-    "title": "BJD protests UPI changes, says Centre should fund digital payments - The Times of India",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPZVVKVUdkV1NpZjI4WFhwUGRaNW9BLXJHejBIQnpxTXFjNV9NZUNDNDhmejd2TmhHbExXZ2hjZ2lNU2wyY3dnRjFPRHVEMFlBQ1JEd0I3TWVncW9FWWE0T2FFZ19CZl9WT2k0MXNSdEU0S2FlR05uWk1IaFdRT1FHVlJLOXVCWl9IbmR0Y1JPejQ5TmRzOTVPczhNTkRQRHoyMGlTanF4dFludWwxRzY1VldxejBJZGJBMThXWnJFaHI0R1lnZDdrSTR0cTBCUdIB0wFBVV95cUxNWUxFY2llV2ROYm42UW8tZGhZeHFzRHVma215bGtaVnJhV29vbWpYSEFvcHF3cGhleUZyc3pKTU9TNG1UUEFKNjBmbndjLTNPUzZ2bFhqMEVITjVVYWJKTWItT0xnRnhnMThFVXEyZmdXbXJGVGRZSWgxWmFNQXNKXzZReXhzOXhkOE1WSjdaVW1yWnlQODYydEdtNVY4bTVFLTcyRnYyZEgxdVFpaUh2TnprSklONWlJMVJkVUxuNkxoZ2s5azh6QWtvc3ZaeU1veXRJ?oc=5",
-    "source": "Fintech",
+    "id": "dc139cd9e6bd",
+    "title": "Warsh’s Fed shows it’s serious about taming inflation. Why Wall Street now believes it. - MarketWatch",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQVEF1ZXBKMnRtVWJIMGxkWF9aeFQ1X1hFR0o3YlZnbzFQd0pTNHp3bXo1ZFJLRy0xVHlzRURxaEg2bDl5Q3NSc1ZWZFFWOGpSeDJMMVJOZ1FQbzZtcDR4dFdNQ1NWR210VmJEUlREOGVrcl9mZFlNSDBVVzhGWDNtUEtXYTRFTy1xUXNTYjF4RUFNNjNfM2NhT0RmNEpHcHVPZkFJNHVNTGVNM2U4ZEtKNEFwNlQxeE1oU2NldHFoV2VtZFhJ?oc=5",
+    "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-09-19T10:11:00+00:00",
-    "summary": "BJD protests UPI changes, says Centre should fund digital payments The Times of India",
+    "published": "2026-09-19T13:00:00+00:00",
+    "summary": "Warsh’s Fed shows it’s serious about taming inflation. Why Wall Street now believes it. MarketWatch",
     "image_url": null,
     "tags": [],
     "industries": [
-      "industrial",
       "financial"
     ],
     "relevance_score": 9
@@ -280,17 +265,32 @@
     "relevance_score": 8
   },
   {
-    "id": "903fc88950d7",
-    "title": "Mastercard Joins Visa in Letting AI Bots Do Your Shopping - wsj.com",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXNKRzZlQzdMMmVKeVUyUmxsaVhleXp1V2twcHpuMVBKUnowWG16bk1POVdrNGY1QUFPZTV5bHF2LXVEc2RlNDFGUVU0dE84eW41TFNfRzJuWjhwek5TN3JBWjNxVVV4bDQxamxtTnN1Wi1jVXc3XzdKbm1OQW1Wc2w0ZndiSnFDbHNvbVVfNlBjaFFaektfNHg2SUdxVDI3bmxsWWlDU3pwNXBq?oc=5",
-    "source": "Wall Street",
+    "id": "7b5a22522d31",
+    "title": "Funding, payments and AI reshape Saudi fintech at Money20/20 Middle East - Fast Company Middle East",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWF9mamxSRjJXSFhRRFNKUWRnLTN2TGNzcUE4c3RpakV0NVJ0ejhNRlRJRnJIWDBqaWN2QjVUMGEwSmpHdmx2WVFIS0NIT25EV243VlFqTktGbXpKbF85TkxQTnJ4SXNSUWJQZ1JYcm00amVaaFVIZDNUbDdSYlFWOC05SUd1d1Y1N2VVMmt0RGJ2bElFZmhvVERTUmdjTmxvSHUtUi1B?oc=5",
+    "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-09-17T15:36:00+00:00",
-    "summary": "Mastercard Joins Visa in Letting AI Bots Do Your Shopping wsj.com",
+    "published": "2026-09-17T09:32:11+00:00",
+    "summary": "Funding, payments and AI reshape Saudi fintech at Money20/20 Middle East Fast Company Middle East",
     "image_url": null,
     "tags": [],
     "industries": [
-      "retail",
+      "financial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "9c5895e2c115",
+    "title": "Payments infrastructure provider Fin.com emerges from stealth with $20m in seed funding - FinTech Futures",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxORExwZktOQkYtYjRaYzFKNmF6WjlnS3IwUThWVVlVcWE0X1YxMnN3ci0tREx3b1N3NjZEbDVIbldqM1d4VGpkWEpQeFIxaFZyTWY0Ykt4TFdxWEZ4MklpanlBYUtpSUszMFdiRkZ3OEYxM3oyMmZJWjZpRFJPOXhxZlJtX2dOZGxuRjFMdXdES3hlbkhiN2dkQzNuQUZFNzNCT2dKblF0UkJCRWV6?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-09-17T10:27:41+00:00",
+    "summary": "Payments infrastructure provider Fin.com emerges from stealth with $20m in seed funding FinTech Futures",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
       "financial"
     ],
     "relevance_score": 8
@@ -328,60 +328,13 @@
     "relevance_score": 8
   },
   {
-    "id": "642a3cfe9c2f",
-    "title": "Digital payments target merchant growth - The Express Tribune",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxOTDU0N3ZFallMdzk5TXk3RUc2Y1pwMlZibFlyQ0JlcVoyMGF0eDJfNFJ0MThqeFJRcW1GWWtreDJ3ODYyd2lTYlhiR0dybFFPdmtvdnhwS3MwVzlFVkE0eHBmcTc5RU4wb3JvNFg5M0VHUjhGblZHYzA3T1ZjZGEzTXBR0gGKAUFVX3lxTE1DUEpqb1dPTjBDRzlxWElqUjRXSEhkNk56TE9oWkNiMUh4N0E1VUl1bXFrN0hCamY3NDMyOFBIMHJ1ZUhTd3V2VEh1OS1sTEpENThISjUwX0JmVE52QjhRVFc3OF9Yc0hpWjZBNGtneTZGVG1oRkl6UVVUUncxdVpwRUU0LVN3SkdkQQ?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-09-18T21:13:35+00:00",
-    "summary": "Digital payments target merchant growth The Express Tribune",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "22ee7b5437db",
-    "title": "Social Security to fully transition to electronic payments - theflintcouriernews.com",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdzFxQnM2TjAwTWFoVmYtM1M4bU53bmpWbUUxQUtlODJGb19JVzUxM0wtblZ2ZHFra1d4WFR4ZEZ1QlUtbW96dExjVTFxOEdnN2dPcFdhZXp2LVB0c1dZd3BvazR3cTgxV0pVOHFYaDlJajBib2s3cVZaREtrV3NvOXlkNlZKaGRsZUhFTkluakpYdDd6Snc?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-09-18T23:35:17+00:00",
-    "summary": "Social Security to fully transition to electronic payments theflintcouriernews.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "030d8e7c7192",
-    "title": "Wall Street ends mixed as oil takes a pause - Virginia Business",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9BRmxUbk9XVDdGMXI4azJJX2diZkpYVHc0X0NzSnI0SVN6bjM3NXZyQTNiOTBlTmNyc0cxbGN1ZkgtbFBkLU4zZjg3RURuQlRBeHQ4RjRIQXVkeVJvbjFyRjdNc3UxMUgybEdjTDhUQjN1SGpaUEJ4Sg?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-09-19T00:35:21+00:00",
-    "summary": "Wall Street ends mixed as oil takes a pause Virginia Business",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "9a1dabff57d5",
-    "title": "A new price for digital payments - The Financial World",
+    "title": "A new price for digital payments - thefinancialworld.com",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBfQVhQaUJmYVpzeEQ2ZWVNdV9OOXBseDlKVjBvYVlUSnBGX1BPMFMxV3JpZGVHOUJSbnlMWUFyRUZQMTZjV2RHM3UwZ1BTQ0dpVXJtdzZLcHdsc2MxbUtLMmx4ZEE3WS1iVzdOS2diUDF2eXpUVkE?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
     "published": "2026-09-19T06:00:32+00:00",
-    "summary": "A new price for digital payments The Financial World",
+    "summary": "A new price for digital payments thefinancialworld.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -391,12 +344,12 @@
   },
   {
     "id": "763d0c0b631c",
-    "title": "Wall Street Confronts Prospect of a New Era After Treasury Yield Hits 5% - wsj.com",
+    "title": "Wall Street Confronts Prospect of a New Era After Treasury Yield Hits 5% - WSJ",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPNHhHU3pCcEFwajNHaXNlVXB1a2VPMWc4VTNZVmRrS3locDVzaEYwSlo5SkdGaFAyMm5MYW9aaU1iRXE1cHd0NTlRd1dlN1NFbFQ2bk1mLVVadHRwN0c5MkR4SkFCS2ZOQ2dhNU9fWkMtUlp0VXZ6b014ekE0Y3c1cEl1cmFkRnppaG4tUnF3X2JhRkdVZ1R4SkhNYnJ0TnJlZzRCUDhPeGJkWlY5UVZ3dmh4R19oTEU?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-09-14T21:08:11+00:00",
-    "summary": "Wall Street Confronts Prospect of a New Era After Treasury Yield Hits 5% wsj.com",
+    "published": "2026-09-14T21:06:00+00:00",
+    "summary": "Wall Street Confronts Prospect of a New Era After Treasury Yield Hits 5% WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -468,49 +421,17 @@
     "relevance_score": 7
   },
   {
-    "id": "5b8158cac673",
-    "title": "Mobilise Launches HERO API Suite to Help Fintechs Embed Digital Telecom Services - ffnews.com",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNTNPUDVuX0taMEYzTVdudmg4ZThMWkM1T1l0c3F5NVFFdml1SkVZTU11SGpqcndWOF9lLXM1TUY1bXpLb0JRaGRjaVNoRldIZ1h1WmZMR1drWFR6eFdGbUVYRG9FbnlBM3N6dVZHQXdFNEktMEp6VGFZRHFPVkxwd25iems5Rkx6UmI4elN0aU1sZmpKcVkxeVp1a3hzaFlDeldNdm1GWFZDbWtJMVRTb2ZLOA?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-09-17T15:50:32+00:00",
-    "summary": "Mobilise Launches HERO API Suite to Help Fintechs Embed Digital Telecom Services ffnews.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "telecom",
-      "financial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "2d2df455f510",
-    "title": "Stripe’s wallet embraces AI bots - paymentsdive.com",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTJCdnA5WEpxSlNWZ2dOV0pfTWlNa2l3bE1rV0FwSEpWN3lVSGluOHFMT3JBSnNOUFpVTVdaVWN1eE5iT1dkeUg2OWl6WXBZX1hWMzBCaGE0YUdKcVJHb0pta2FTdmowakQ4UXZtN09sTXRaemY3ay00TXZPd1AxSlRhV0hFekRqVVM0X1ZFd0ZKVk5yUWMyejhSR3VENkdMd081UGNQR28?oc=5",
-    "source": "Fintech",
+    "id": "903fc88950d7",
+    "title": "Mastercard Joins Visa in Letting AI Bots Do Your Shopping - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPZXNKRzZlQzdMMmVKeVUyUmxsaVhleXp1V2twcHpuMVBKUnowWG16bk1POVdrNGY1QUFPZTV5bHF2LXVEc2RlNDFGUVU0dE84eW41TFNfRzJuWjhwek5TN3JBWjNxVVV4bDQxamxtTnN1Wi1jVXc3XzdKbm1OQW1Wc2w0ZndiSnFDbHNvbVVfNlBjaFFaektfNHg2SUdxVDI3bmxsWWlDU3pwNXBq?oc=5",
+    "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-09-18T15:44:24+00:00",
-    "summary": "Stripe’s wallet embraces AI bots paymentsdive.com",
+    "published": "2026-09-17T15:36:00+00:00",
+    "summary": "Mastercard Joins Visa in Letting AI Bots Do Your Shopping WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
-      "financial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "df7fd5e6bff3",
-    "title": "Dormakaba Expands Beyond Hotel Locks With Alliants Acquisition to Add Digital Check-In Payments and Guest Messaging - Hotel Technology News",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUFVRc3UwenR3VXdTWlZ2OW5rekF6S0JxdEh6OWVRQUt5YTN0YWlnbkwtM2pkOWxlVHVURHJ0dEFMTG1WRXpjUDdYbkFqMHZwdW96cks4YUtiaWNhZjVHbjVfVWxpZUcyeC01cTJscVVkVTdGM1pCMUlYUXIxYmM2bmtIbWJJNjFVMjFNTmJ3RXg4X1ZDWW1tMnhCN0dXNXI4blZoeVVURk1zU0E4SDdsMElPMXViOUZSUk90X3ZlOGRqdy1rU3FBM3N3aEhhc1hxNXkzZk5iSDlGT3FrV0tRNXd6VUp2TGgydlZPcQ?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-09-18T16:57:07+00:00",
-    "summary": "Dormakaba Expands Beyond Hotel Locks With Alliants Acquisition to Add Digital Check-In Payments and Guest Messaging Hotel Technology News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
+      "retail",
       "financial"
     ],
     "relevance_score": 7
@@ -531,44 +452,91 @@
     "relevance_score": 7
   },
   {
-    "id": "f6a612f8b049",
-    "title": "Stockholm stock market opens roughly flat, telecom operators slide - marketscreener.com",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPZ0pBZFVNX3hrRmV5dURQOTBERkszYzRhQUNleG5xbmd0OWx4c1AwelBobXJuREhiVmNVbEJtMXNsbUtFLVJwTHFFMWtLTjR1ajk2SmpuaVVuemZ0VXRyelhHYWNzM09pZXpwZE9VRk16MlhOVkxHQlltQkxjczJXNVdad0JybnFCSXIydkVyX0F5RjNpZVc2UEU2amJqWHJYdldaMXZsckVCQ3REcnZRaGw0M3ZrOFV1QWc?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-09-18T07:44:41+00:00",
-    "summary": "Stockholm stock market opens roughly flat, telecom operators slide marketscreener.com",
+    "id": "d6d738c14880",
+    "title": "Wall Street Ends Volatile Week with Quiet Finish - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQMy1YSDBpRC13X2s4bG9Gcnc2aU9DTzVvTWM3VzBfaG9udlpTNVRIZ3dhYWlNNExxZmtZNXlRQl95OS15Qm1iWDlSUnlmRy1PRG15dmVMTW1CMU8zODAtSDA0NlUydWg4X0F4R1FEeERLMmhIRThfN3ZaY0Q4TDhXbEhpOWZxRXBYOVhtSlBGY251WGVvOGhV?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-09-18T21:36:00+00:00",
+    "summary": "Wall Street Ends Volatile Week with Quiet Finish WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
+      "financial"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "b5f47d2944bb",
+    "title": "Cramer’s week ahead: What to watch as Wall Street navigates a tough September - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFB5M0N6RDlLZ25DdFg0MDdUVUxSR1JQLWhrams0ZzhDWDItWEplZXRYYzZoWDJIWE5FakFYZmVjNGNTbHdQQkFCR2tIbkdVOGtMeGlIUDFsY0NzZzVhdXc2cUx6YWFCMWJQUnhKYW5maUVrM2xZRmVzb0RR0gF_QVVfeXFMTUxOakpZQ1VJOXpDSEZ5bnJOc08xQnZmQnBtLTBCZEJqaXUyYTZFUG5qaXpjSGxhREE1VWZ0d0d2XzVmS2JrTW85Y0dyQ3VRZGpkLUhJWlFwSUdtdU5NSXFPSEhtMGJ0WEZhQlNaUW9SLTBpZ2hUVm4zYWJGcmRVRQ?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-09-18T22:17:16+00:00",
+    "summary": "Cramer’s week ahead: What to watch as Wall Street navigates a tough September CNBC",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "22ee7b5437db",
+    "title": "Social Security to fully transition to electronic payments - theflintcouriernews.com",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdzFxQnM2TjAwTWFoVmYtM1M4bU53bmpWbUUxQUtlODJGb19JVzUxM0wtblZ2ZHFra1d4WFR4ZEZ1QlUtbW96dExjVTFxOEdnN2dPcFdhZXp2LVB0c1dZd3BvazR3cTgxV0pVOHFYaDlJajBib2s3cVZaREtrV3NvOXlkNlZKaGRsZUhFTkluakpYdDd6Snc?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-09-18T23:35:17+00:00",
+    "summary": "Social Security to fully transition to electronic payments theflintcouriernews.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "5b8158cac673",
+    "title": "Mobilise Launches HERO API Suite to Help Fintechs Embed Digital Telecom Services - FF News",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNTNPUDVuX0taMEYzTVdudmg4ZThMWkM1T1l0c3F5NVFFdml1SkVZTU11SGpqcndWOF9lLXM1TUY1bXpLb0JRaGRjaVNoRldIZ1h1WmZMR1drWFR6eFdGbUVYRG9FbnlBM3N6dVZHQXdFNEktMEp6VGFZRHFPVkxwd25iems5Rkx6UmI4elN0aU1sZmpKcVkxeVp1a3hzaFlDeldNdm1GWFZDbWtJMVRTb2ZLOA?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-09-17T15:50:32+00:00",
+    "summary": "Mobilise Launches HERO API Suite to Help Fintechs Embed Digital Telecom Services FF News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
       "telecom",
       "financial"
     ],
     "relevance_score": 6
   },
   {
-    "id": "73917acdbc24",
-    "title": "Stable.com connects Polygon wallets directly to bank transfers - FinTech Global",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxORzBFRW5iWEwzbjZlMGVwMTJ1MS1lX1Vwd242M2dJYVV0NjEzcno3SmtFdndqNTBFWGZVYVNpV2QxdkhHUUVHNG85dFFZYl9feXVVc2tNWlgzZXdWcmNBRDR2b2x0ZFhvNGc5RGJ6Q09Uc1F6SkpYZFAxVFJ2YmJiMW1oRG5qXzNRRXVwS284RmE2c2Y4U2hHdmpxMG5Cdw?oc=5",
+    "id": "537577d81458",
+    "title": "The Business of Payments Isn’t Technology - digitaltransactions.net",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeHRkRnROMU85QldMNnM5MWtKSnE2QzlBRXVSTjBjMkl3SFc2eldtZko4bjNFZ0tmYmhTcy0xWkFoTjR4U0VsTFpkckwySEV3NXhrOE9QWWdoUndURHpmaGR3eWIxRGhNcnoxWGZLbVYyNGphZU1lQms5MV9jbURUV1VDQQ?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-09-18T09:08:39+00:00",
-    "summary": "Stable.com connects Polygon wallets directly to bank transfers FinTech Global",
+    "published": "2026-09-18T13:16:44+00:00",
+    "summary": "The Business of Payments Isn’t Technology digitaltransactions.net",
     "image_url": null,
     "tags": [],
     "industries": [
+      "tech",
       "financial"
     ],
     "relevance_score": 6
   },
   {
-    "id": "537577d81458",
-    "title": "The Business of Payments Isn’t Technology - Digital Transactions",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxPeHRkRnROMU85QldMNnM5MWtKSnE2QzlBRXVSTjBjMkl3SFc2eldtZko4bjNFZ0tmYmhTcy0xWkFoTjR4U0VsTFpkckwySEV3NXhrOE9QWWdoUndURHpmaGR3eWIxRGhNcnoxWGZLbVYyNGphZU1lQms5MV9jbURUV1VDQQ?oc=5",
+    "id": "df7fd5e6bff3",
+    "title": "Dormakaba Expands Beyond Hotel Locks With Alliants Acquisition to Add Digital Check-In Payments and Guest Messaging - Hotel Technology News",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxQUFVRc3UwenR3VXdTWlZ2OW5rekF6S0JxdEh6OWVRQUt5YTN0YWlnbkwtM2pkOWxlVHVURHJ0dEFMTG1WRXpjUDdYbkFqMHZwdW96cks4YUtiaWNhZjVHbjVfVWxpZUcyeC01cTJscVVkVTdGM1pCMUlYUXIxYmM2bmtIbWJJNjFVMjFNTmJ3RXg4X1ZDWW1tMnhCN0dXNXI4blZoeVVURk1zU0E4SDdsMElPMXViOUZSUk90X3ZlOGRqdy1rU3FBM3N3aEhhc1hxNXkzZk5iSDlGT3FrV0tRNXd6VUp2TGgydlZPcQ?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-09-18T13:16:44+00:00",
-    "summary": "The Business of Payments Isn’t Technology Digital Transactions",
+    "published": "2026-09-18T16:57:07+00:00",
+    "summary": "Dormakaba Expands Beyond Hotel Locks With Alliants Acquisition to Add Digital Check-In Payments and Guest Messaging Hotel Technology News",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -693,6 +661,36 @@
     "source_category": "industry_financial",
     "published": "2026-09-17T11:21:15+00:00",
     "summary": "India to impose controversial fee for UPI instant payments: Who benefits? Al Jazeera",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "e6ba92a5352b",
+    "title": "Bank of America (BAC) Receives a Buy from Goldman Sachs - theglobeandmail.com",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxQa0d3Mko4SnpFeE81aDRMeDRGZjNib2JaUjdBR3ZZdmowOWhTcURCM3NOS3QzQmtKTjJkUjV2Z2NFUGlyMXJFQzdDZnZ2WWdaYS1sb1JRMkp5OHR6c1hVajZ3bE43WXNnS1VTUUtSd29acjE5bGtUQnVkNmt6UlRieENQd0c5MEw4YXcxMldGOGNQUnFkM2k1WllYMXhENXN0QXJLbGxQNklvN2x0bWtTQVluNW5zYmQ0UVlIVXNpajROaVlJaFdBTllaam9rUEkxT2F3?oc=5",
+    "source": "Banking",
+    "source_category": "industry_financial",
+    "published": "2026-09-17T12:38:53+00:00",
+    "summary": "Bank of America (BAC) Receives a Buy from Goldman Sachs theglobeandmail.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "2d2df455f510",
+    "title": "Stripe’s wallet embraces AI bots - Payments Dive",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQSTJCdnA5WEpxSlNWZ2dOV0pfTWlNa2l3bE1rV0FwSEpWN3lVSGluOHFMT3JBSnNOUFpVTVdaVWN1eE5iT1dkeUg2OWl6WXBZX1hWMzBCaGE0YUdKcVJHb0pta2FTdmowakQ4UXZtN09sTXRaemY3ay00TXZPd1AxSlRhV0hFekRqVVM0X1ZFd0ZKVk5yUWMyejhSR3VENkdMd081UGNQR28?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-09-18T15:44:24+00:00",
+    "summary": "Stripe’s wallet embraces AI bots Payments Dive",
     "image_url": null,
     "tags": [],
     "industries": [
