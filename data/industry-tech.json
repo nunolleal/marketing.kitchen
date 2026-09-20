@@ -54,24 +54,6 @@
     "relevance_score": 51
   },
   {
-    "id": "de9205c55e75",
-    "title": "How to evaluate composable versus packaged CDP",
-    "url": "https://martech.org/how-to-evaluate-composable-versus-packaged-cdp/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-09-18T17:46:00+00:00",
-    "summary": "Evaluating data warehouse readiness, engineering capacity, and real-time execution speeds determines optimal CDP architecture. The post How to evaluate composable versus packaged CDP appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2025/11/mtb-explains-it-all-new.png",
-    "tags": [
-      "MarTechBot"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 51
-  },
-  {
     "id": "1c3059fb7886",
     "title": "The latest AI-powered martech news and releases",
     "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
@@ -89,6 +71,24 @@
       "tech"
     ],
     "relevance_score": 49
+  },
+  {
+    "id": "de9205c55e75",
+    "title": "How to evaluate composable versus packaged CDP",
+    "url": "https://martech.org/how-to-evaluate-composable-versus-packaged-cdp/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-09-18T17:46:00+00:00",
+    "summary": "Evaluating data warehouse readiness, engineering capacity, and real-time execution speeds determines optimal CDP architecture. The post How to evaluate composable versus packaged CDP appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2025/11/mtb-explains-it-all-new.png",
+    "tags": [
+      "MarTechBot"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 48
   },
   {
     "id": "c1200f7a36b2",
@@ -163,46 +163,6 @@
     "relevance_score": 39
   },
   {
-    "id": "9fe389653403",
-    "title": "Why Brands Should Embrace ‘Constellation Thinking’ in Finding Their Purpose",
-    "url": "https://www.adweek.com/brand-marketing/why-brands-should-embrace-constellation-thinking-in-finding-their-purpose/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-09-18T15:04:34+00:00",
-    "summary": "Michael Ventura speaks on a different approach to finding your purpose.",
-    "image_url": null,
-    "tags": [
-      "Brand Purpose",
-      "Brandweek",
-      "People",
-      "Premium"
-    ],
-    "industries": [
-      "tech",
-      "consumer"
-    ],
-    "relevance_score": 39
-  },
-  {
-    "id": "a9ca9cfe28f0",
-    "title": "The Weekly Closeout: Bed Bath & Beyond parent plots a credit union and Express goes back to the ’90s",
-    "url": "https://www.retaildive.com/news/bed-bath-and-beyond-credit-union-express-nineties-nostalgia/830739/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-09-18T15:23:00+00:00",
-    "summary": "Neighborhood Intelligence hopes to simplify home ownership with the move. Meanwhile, the apparel retailer is tapping into nostalgia.",
-    "image_url": "https://imgproxy.divecdn.com/IY7WU-EzNlUNlgL7ksJB_6UU7OgVzVVnRTg78ZNcf6s/g:nowe:0:4/c:960:542/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9leHByZXNzX2FyY2hpdmVfLV8xXzEuanBlZw==.webp",
-    "tags": [],
-    "industries": [
-      "media",
-      "tech",
-      "retail",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 38
-  },
-  {
     "id": "4b12e3012ba9",
     "title": "HubSpot rebuilds its platform around AI agents",
     "url": "https://martech.org/hubspot-rebuilds-its-platform-around-ai-agents/",
@@ -240,6 +200,46 @@
       "industrial"
     ],
     "relevance_score": 36
+  },
+  {
+    "id": "9fe389653403",
+    "title": "Why Brands Should Embrace ‘Constellation Thinking’ in Finding Their Purpose",
+    "url": "https://www.adweek.com/brand-marketing/why-brands-should-embrace-constellation-thinking-in-finding-their-purpose/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-09-18T15:04:34+00:00",
+    "summary": "Michael Ventura speaks on a different approach to finding your purpose.",
+    "image_url": null,
+    "tags": [
+      "Brand Purpose",
+      "Brandweek",
+      "People",
+      "Premium"
+    ],
+    "industries": [
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 36
+  },
+  {
+    "id": "a9ca9cfe28f0",
+    "title": "The Weekly Closeout: Bed Bath & Beyond parent plots a credit union and Express goes back to the ‘90s",
+    "url": "https://www.retaildive.com/news/bed-bath-and-beyond-credit-union-express-nineties-nostalgia/830739/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-09-18T15:23:00+00:00",
+    "summary": "Neighborhood Intelligence hopes to simplify home ownership with the move. Meanwhile, the apparel retailer is tapping into nostalgia.",
+    "image_url": "https://imgproxy.divecdn.com/IY7WU-EzNlUNlgL7ksJB_6UU7OgVzVVnRTg78ZNcf6s/g:nowe:0:4/c:960:542/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9leHByZXNzX2FyY2hpdmVfLV8xXzEuanBlZw==.webp",
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "retail",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 35
   },
   {
     "id": "fec7da2df46c",
@@ -288,7 +288,7 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 32
+    "relevance_score": 29
   },
   {
     "id": "2aaa1a8a01bb",
@@ -304,7 +304,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 28
+    "relevance_score": 25
   },
   {
     "id": "c916538ac0cd",
@@ -384,6 +384,28 @@
       "tech"
     ],
     "relevance_score": 19
+  },
+  {
+    "id": "28390fdcd980",
+    "title": "Kojima Productions disputes reports the studio is in trouble",
+    "url": "https://www.theverge.com/games/997880/hideo-kojima-productions-physint-xbox-sony-playstation",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-09-20T18:15:10+00:00",
+    "summary": "After it was announced that Sony was dropping Hideo Kojima's Physint, and that instead the Metal Gear Solid creator's latest title would be coming to Xbox, there were a flurry of rumors about the falling out. Bloomberg reported that the decision was driven by a number of...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25145145/1831287900.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.8804437222924%2C100%2C80.239112555415&amp;w=1200",
+    "tags": [
+      "Gaming",
+      "News",
+      "PlayStation",
+      "Sony",
+      "Tech"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
   },
   {
     "id": "eb8b2e66f34b",
@@ -467,45 +489,23 @@
     "relevance_score": 15
   },
   {
-    "id": "9ea97c2857a0",
-    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
-    "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
-    "source": "The Verge",
+    "id": "2c549dbb779a",
+    "title": "ScrollEd wants to turn textbooks into TikTok",
+    "url": "https://techcrunch.com/2026/09/20/scrolled-wants-to-turn-textbooks-into-tiktok/",
+    "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-09-20T12:00:00+00:00",
-    "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\"...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "published": "2026-09-20T18:00:00+00:00",
+    "summary": "ScrollEd turns textbooks into a scrollable, Instagram-like feed with video, audio, and quizzes. The Palo Alto startup, founded by student co-founders (and spouses) Utsav Gupta and Rebecca Neff, pitches at TechCrunch Disrupt.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/Socrates-as-Tik-Tok-feed.png?resize=1200,800",
     "tags": [
+      "Startups",
       "AI",
-      "Energy",
-      "Policy",
-      "Science"
+      "Social",
+      "TechCrunch Disrupt",
+      "Startup Battlefield 200"
     ],
     "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "a2d056f96135",
-    "title": "Unless DOT Brings Rail To Waterfront, Navy Buildup Will Not Happen",
-    "url": "https://www.forbes.com/sites/craighooper/2026/09/20/unless-dot-brings-rail-to-waterfront-navy-buildup-will-not-happen/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-09-20T12:16:41+00:00",
-    "summary": "America’s waterfront re-industrialization and Navy buildup will fail without rail. The DOT must encourage rail to support waterfront manufacturing now more than ever.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6aafc80374a788f89e21f71d/0x0.jpg?width=960",
-    "tags": [
-      "Aerospace & Defense",
-      "/aerospace-defense",
-      "Business",
-      "/business",
-      "Aerospace & Defense"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
+      "tech"
     ],
     "relevance_score": 15
   },
@@ -529,44 +529,45 @@
     "relevance_score": 14
   },
   {
-    "id": "6acd537daf0b",
-    "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
-    "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
-    "source": "TechCrunch AI",
+    "id": "9ea97c2857a0",
+    "title": "Humans, not rogue AI, are still the biggest cybersecurity risk to energy systems",
+    "url": "https://www.theverge.com/science/997834/ai-cyberattack-energy-critical-infrastructure",
+    "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-09-18T17:59:53+00:00",
-    "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
+    "published": "2026-09-20T12:00:00+00:00",
+    "summary": "Before recent high-profile hacks raised the specter of AI possibly \"killing all humans,\" our energy systems were already disturbingly vulnerable to cyberattack - and the risk is growing. \"We were always prey. We were just kind of surviving at the appetite of our predators,\"...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/akrales_220309_4977_0292.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
     "tags": [
       "AI",
-      "Media & Entertainment",
-      "TC",
-      "character.ai",
-      "Disney"
+      "Energy",
+      "Policy",
+      "Science"
     ],
     "industries": [
-      "media",
-      "tech"
+      "tech",
+      "industrial"
     ],
     "relevance_score": 14
   },
   {
-    "id": "f6b87433a59f",
-    "title": "All roads lead to cable",
-    "url": "https://www.theverge.com/column/997843/streamers-cable-fast-channels",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-09-20T12:00:00+00:00",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on streaming platforms, FAST channels, and the future of entertainment, follow Charles Pulliam-Moore. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2193473385.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.736030373072%2C100%2C78.527939253857&amp;w=1200",
+    "id": "a2d056f96135",
+    "title": "Unless DOT Brings Rail To Waterfront, Navy Buildup Will Not Happen",
+    "url": "https://www.forbes.com/sites/craighooper/2026/09/20/unless-dot-brings-rail-to-waterfront-navy-buildup-will-not-happen/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-09-20T12:16:41+00:00",
+    "summary": "America’s waterfront re-industrialization and Navy buildup will fail without rail. The DOT must encourage rail to support waterfront manufacturing now more than ever.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6aafc80374a788f89e21f71d/0x0.jpg?width=960",
     "tags": [
-      "Column",
-      "Streaming",
-      "The Stepback"
+      "Aerospace & Defense",
+      "/aerospace-defense",
+      "Business",
+      "/business",
+      "Aerospace & Defense"
     ],
     "industries": [
-      "media",
-      "tech"
+      "tech",
+      "industrial"
     ],
     "relevance_score": 14
   },
@@ -591,32 +592,6 @@
     "relevance_score": 13
   },
   {
-    "id": "fd29565670e2",
-    "title": "Gemini went rogue, hacked three companies, and Google hid it",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-09-19T15:25:03+00:00",
-    "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
-    "tags": [
-      "AI",
-      "Google",
-      "News",
-      "Security",
-      "Tech"
-    ],
-    "industries": [
-      "tech",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 13,
-    "also_covered_by": [
-      "Wall Street"
-    ]
-  },
-  {
     "id": "b4233d80af41",
     "title": "Meta’s Muse is creepy, but maybe not for the reasons you think",
     "url": "https://www.theverge.com/ai-artificial-intelligence/997833/meta-muse-creepy",
@@ -638,6 +613,48 @@
     "relevance_score": 13
   },
   {
+    "id": "f6b87433a59f",
+    "title": "All roads lead to cable",
+    "url": "https://www.theverge.com/column/997843/streamers-cable-fast-channels",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-09-20T12:00:00+00:00",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on streaming platforms, FAST channels, and the future of entertainment, follow Charles Pulliam-Moore. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/gettyimages-2193473385.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.736030373072%2C100%2C78.527939253857&amp;w=1200",
+    "tags": [
+      "Column",
+      "Streaming",
+      "The Stepback"
+    ],
+    "industries": [
+      "media",
+      "tech"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "6acd537daf0b",
+    "title": "Disney’s first CTO led an AI startup it once accused of copying its characters",
+    "url": "https://techcrunch.com/2026/09/18/disneys-first-cto-led-an-ai-startup-it-once-accused-of-copying-its-characters/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-09-18T17:59:53+00:00",
+    "summary": "The former CEO of Character.AI, which Disney previously sent a cease-and-desist letter to, will serve as the company's first-ever chief technology officer.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/10/GettyImages-1387623215.jpg?resize=1200,900",
+    "tags": [
+      "AI",
+      "Media & Entertainment",
+      "TC",
+      "character.ai",
+      "Disney"
+    ],
+    "industries": [
+      "media",
+      "tech"
+    ],
+    "relevance_score": 12
+  },
+  {
     "id": "8401e8e9e2ed",
     "title": "A startup that builds other startups raised $100M and is all-in on physical AI",
     "url": "https://techcrunch.com/2026/09/18/a-startup-that-builds-other-startups-raised-100m-and-is-all-in-on-physical-ai/",
@@ -653,29 +670,6 @@
       "UpLabs"
     ],
     "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "e0b8e6e014e2",
-    "title": "Google’s Gemini is the latest AI model to hack other companies",
-    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-09-19T17:30:00+00:00",
-    "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
-    "tags": [
-      "Security",
-      "AI",
-      "Google",
-      "gemini",
-      "Alphabet"
-    ],
-    "industries": [
-      "media",
       "tech",
       "industrial"
     ],
@@ -769,69 +763,6 @@
     "relevance_score": 11
   },
   {
-    "id": "120783d732b8",
-    "title": "CMS restores $12B in frozen supplemental Medicaid funds",
-    "url": "https://www.fiercehealthcare.com/providers/cms-restores-12b-frozen-supplemental-medicaid-funds",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-18T15:38:00+00:00",
-    "summary": "The pause that began Sept. 1 had triggered alarm bells from provider groups and prompted an appeal from Texas Governor Greg Abbott.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Centene%20Texas%20protest%20gguy44.jpg?VersionId=m12fBB1jF5jbq_YvYlkHZuGSFOPVXi36",
-    "tags": [],
-    "industries": [
-      "media",
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "d64f69aa8264",
-    "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
-    "url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-09-18T16:00:00+00:00",
-    "summary": "TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle.",
-    "image_url": "https://media.wired.com/photos/6aac35420820a9282b5f1721/master/pass/Security_An%20Undercover%20Google%20Researcher%20Infiltrated%20the%20Gang%20Behind%20the%20Worst-Ever%20Supply%20Chain%20Hacking%20Spree_v1.jpg",
-    "tags": [
-      "Security",
-      "Security / Cyberattacks and Hacks",
-      "Google",
-      "cybersecurity",
-      "security"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "985026d999b6",
-    "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
-    "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-09-18T17:33:50+00:00",
-    "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675",
-    "tags": [
-      "AI",
-      "Apps",
-      "Social",
-      "Google",
-      "AI agents"
-    ],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
     "id": "99e5a792de0e",
     "title": "India forces caller-ID apps to feed spam reports to telcos",
     "url": "https://techcrunch.com/2026/09/18/india-forces-caller-id-apps-to-feed-spam-reports-to-telcos/",
@@ -855,6 +786,70 @@
     "also_covered_by": [
       "Telecom 5G"
     ]
+  },
+  {
+    "id": "fd29565670e2",
+    "title": "Gemini went rogue, hacked three companies, and Google hid it",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/997795/google-gemini-rogue-ai-hack",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-09-19T15:25:03+00:00",
+    "summary": "In May, Gemini broke containment and hacked three different companies, but Google didn't disclose the incident until the Wall Street Journal approached the company. The hacks happened during a test of the model's cybersecurity capabilities run by third-party Irregular, which...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290334/STK255_Google_Gemini_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
+    "tags": [
+      "AI",
+      "Google",
+      "News",
+      "Security",
+      "Tech"
+    ],
+    "industries": [
+      "tech",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "e0b8e6e014e2",
+    "title": "Google’s Gemini is the latest AI model to hack other companies",
+    "url": "https://techcrunch.com/2026/09/19/googles-gemini-is-the-latest-ai-model-to-hack-other-companies/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-09-19T17:30:00+00:00",
+    "summary": "Google said Gemini had \"acted appropriately\" by ending each hack immediately.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/gemini-app-GettyImages-2276204472-1.jpg?w=1024",
+    "tags": [
+      "Security",
+      "AI",
+      "Google",
+      "gemini",
+      "Alphabet"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 11,
+    "also_covered_by": [
+      "Wall Street"
+    ]
+  },
+  {
+    "id": "f02d7d80bb72",
+    "title": "Burned Out and Unemployed, Young People in China Are Launching AI Startups - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPaFBhM1lLYVJMVldRN2pBM3BNdjNPckFwQTdOcGdHTUhOclU0V3RESnJmajBHc21EOU1KYUVPYV9yeFF1a2FwM0xuRVQyaFM3SWY4S3RFZUcyTF9peUVqYVhMMHp2UndFSW14bXlhU25SZkUtYkg3YVdCSjA5NnFTME1YWENIS1JvUTh4OUFlaF9qR2hRMXZUTnlGVXBqeWViOWZVbm1uSHduWjR6OFIzdWxobVNKa3JtaWo2MFc1TlhCT2JVMFhJ?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-09-20T16:01:14+00:00",
+    "summary": "Burned Out and Unemployed, Young People in China Are Launching AI Startups WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 11
   },
   {
     "id": "7c5c4fe9e912",
@@ -908,18 +903,65 @@
     "relevance_score": 10
   },
   {
-    "id": "6ba8de716284",
-    "title": "ARPA-H launches SPECTRA program, new autism research initiative",
-    "url": "https://www.fiercehealthcare.com/regulatory/arpa-h-launches-spectra-program-new-autism-research-initiative",
+    "id": "120783d732b8",
+    "title": "CMS restores $12B in frozen supplemental Medicaid funds",
+    "url": "https://www.fiercehealthcare.com/providers/cms-restores-12b-frozen-supplemental-medicaid-funds",
     "source": "Fierce Healthcare",
     "source_category": "industry_lifesciences",
-    "published": "2026-09-17T15:55:00+00:00",
-    "summary": "Researchers will create an end-to-end system to identify ASD risk factors, connect patients to appropriate interventions and accelerate clinical research for new therapies.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2282599511.jpg?VersionId=jdivmu8XsG7wuGJVZ49n7j.IoZISVj0_",
+    "published": "2026-09-18T15:38:00+00:00",
+    "summary": "The pause that began Sept. 1 had triggered alarm bells from provider groups and prompted an appeal from Texas Governor Greg Abbott.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Centene%20Texas%20protest%20gguy44.jpg?VersionId=m12fBB1jF5jbq_YvYlkHZuGSFOPVXi36",
     "tags": [],
     "industries": [
+      "media",
       "tech",
-      "lifesciences"
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "d64f69aa8264",
+    "title": "An Undercover Google Analyst Infiltrated a Notorious Supply-Chain Hacking Gang",
+    "url": "https://www.wired.com/story/an-undercover-google-analyst-infiltrated-a-notorious-supply-chain-hacking-gang/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-09-18T16:00:00+00:00",
+    "summary": "TeamPCP pulled off the worst-ever software supply-chain hacking spree and breached thousands of companies. Now Google’s threat intelligence group says it had a mole inside the hackers’ inner circle.",
+    "image_url": "https://media.wired.com/photos/6aac35420820a9282b5f1721/master/pass/Security_An%20Undercover%20Google%20Researcher%20Infiltrated%20the%20Gang%20Behind%20the%20Worst-Ever%20Supply%20Chain%20Hacking%20Spree_v1.jpg",
+    "tags": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Google",
+      "cybersecurity",
+      "security"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "985026d999b6",
+    "title": "Google’s new ‘CC’ is an AI agent that helps families run their households",
+    "url": "https://techcrunch.com/2026/09/18/googles-new-cc-is-an-ai-agent-that-helps-families-run-their-households/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-09-18T17:33:50+00:00",
+    "summary": "Google is refocusing its CC AI agent on household coordination, letting families share emails, schedules, and tasks so the AI can manage calendars, fill out forms, make shopping lists, plan meals, and more.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/CC_hero.width-2200.format-webp.webp?resize=1200,675",
+    "tags": [
+      "AI",
+      "Apps",
+      "Social",
+      "Google",
+      "AI agents"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
     ],
     "relevance_score": 10
   },
@@ -1096,6 +1138,22 @@
     "relevance_score": 9
   },
   {
+    "id": "6ba8de716284",
+    "title": "ARPA-H launches SPECTRA program, new autism research initiative",
+    "url": "https://www.fiercehealthcare.com/regulatory/arpa-h-launches-spectra-program-new-autism-research-initiative",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-17T15:55:00+00:00",
+    "summary": "Researchers will create an end-to-end system to identify ASD risk factors, connect patients to appropriate interventions and accelerate clinical research for new therapies.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2282599511.jpg?VersionId=jdivmu8XsG7wuGJVZ49n7j.IoZISVj0_",
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "691435fb51b5",
     "title": "CVS Aetna streamlines cancer prior authorizations",
     "url": "https://www.healthcaredive.com/news/cvs-aetna-cancer-prior-authorization-bundles-expansion/830700/",
@@ -1142,52 +1200,6 @@
     ],
     "industries": [
       "tech"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "9ee78700480d",
-    "title": "Adobe just released a Premiere beta for Android, but Googlebook will need much more - Chrome Unboxed",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSjBZYzl3TGVwQ1RjbE5xV1NDelItSms0ZFdHME5rdlJnWk5adDhTTzBQQVU0UDM4T1VDUmgxTVUwd0t2NzlhRXZiR1REZFdKNVI2b1B2YTB2REVEd2kwN09wazNyMlRRaThSLUY3VHlZc1VFT0tnTzViSnhHTEdzWUVUUzlNbUdFMHZzOVZhSTZBN1N1bnFiaDFHajlkQ09JblVIV1hsR1pOYlk2eHc?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-09-19T07:15:56+00:00",
-    "summary": "Adobe just released a Premiere beta for Android, but Googlebook will need much more Chrome Unboxed",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "c9f01aba2c04",
-    "title": "Digital transformation must ensure resilient communication systems during disasters: Minister Dr Timilsina - radionepalonline.com",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SZzEyU0tuNk9wVEZKZ2xMZWNxLVF6cnZfcVlBVjNGZHJJeUQ5QTZveFgzSU1wYTYzS3VBVXlfb0FrUW9BVUp6Q19fQ29jc3g2YkJzQ1VlRFVUS3NtODlCbHVzZjQ?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-09-20T07:12:34+00:00",
-    "summary": "Digital transformation must ensure resilient communication systems during disasters: Minister Dr Timilsina radionepalonline.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "3a7ed200a82d",
-    "title": "How Iraq’s first digital bank is reshaping cash-driven economy - thenationalnews.com",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLXZVWk5MT044QnBZRUJHOUZ2S1hVVGdvWFdTU0pCT01iaGpROUFCUnozdnp2TUJjekE1WndsYkx2ejgtN0Y2eUxoZWs2dWpENlo4ay1wbEFoV2hSOWdxNTJQLXFmeXBIOExscXlyQWJENGt0Zl8xUnVvaExQdXdRZDBCaDFBSWRTVzAtSFZselRPTjF4TEI0a1ZzZ0xObXVRZzV3dmFCbUxDVHdvdHZBLXg5UXBwZw?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-09-20T10:08:31+00:00",
-    "summary": "How Iraq’s first digital bank is reshaping cash-driven economy thenationalnews.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
     ],
     "relevance_score": 9
   },
@@ -1288,6 +1300,37 @@
     ],
     "industries": [
       "tech"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "c9f01aba2c04",
+    "title": "Digital transformation must ensure resilient communication systems during disasters: Minister Dr Timilsina - radionepalonline.com",
+    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9SZzEyU0tuNk9wVEZKZ2xMZWNxLVF6cnZfcVlBVjNGZHJJeUQ5QTZveFgzSU1wYTYzS3VBVXlfb0FrUW9BVUp6Q19fQ29jc3g2YkJzQ1VlRFVUS3NtODlCbHVzZjQ?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-09-20T07:12:34+00:00",
+    "summary": "Digital transformation must ensure resilient communication systems during disasters: Minister Dr Timilsina radionepalonline.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "3a7ed200a82d",
+    "title": "How Iraq’s first digital bank is reshaping cash-driven economy - thenationalnews.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQLXZVWk5MT044QnBZRUJHOUZ2S1hVVGdvWFdTU0pCT01iaGpROUFCUnozdnp2TUJjekE1WndsYkx2ejgtN0Y2eUxoZWs2dWpENlo4ay1wbEFoV2hSOWdxNTJQLXFmeXBIOExscXlyQWJENGt0Zl8xUnVvaExQdXdRZDBCaDFBSWRTVzAtSFZselRPTjF4TEI0a1ZzZ0xObXVRZzV3dmFCbUxDVHdvdHZBLXg5UXBwZw?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-09-20T10:08:31+00:00",
+    "summary": "How Iraq’s first digital bank is reshaping cash-driven economy thenationalnews.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
     ],
     "relevance_score": 8
   },
@@ -1410,32 +1453,17 @@
   },
   {
     "id": "5971ae7ce0df",
-    "title": "Fifth Third, Priority and CSI deals put a premium on payments built into software - marketscale.com",
+    "title": "Fifth Third, Priority and CSI deals put a premium on payments built into software - MarketScale",
     "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPTXVIZG9WR2lOOHcwTmtuZnlUU2tVZEpMWjVLY2pSTEREOVk1RDA2TE5Iby1IZ3I0cnVnSnU0SUZmNjU1VkU1cXRSdzNhMjN4YlkzSzAtaG5VeDJOeHMwSElQUW9iQjNVYzdxOTBhWFhacXlZUFlobWxoTVJQRG51dHc0UzRET09abC1ldmFoRlY1ZnhoelQ3c2g2X0ItNkpnaktxd0pNS0FiZE11ZGRLSENBS1JXSV9UZy1RQ215VWhWX3ZYTW9DZU03cm9abk9TWnIyRm1LcWxxUW8?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
     "published": "2026-09-19T11:18:50+00:00",
-    "summary": "Fifth Third, Priority and CSI deals put a premium on payments built into software marketscale.com",
+    "summary": "Fifth Third, Priority and CSI deals put a premium on payments built into software MarketScale",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
       "financial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "6be982256ba9",
-    "title": "Yemen’s Houthis Claim Attack on Saudi Capital After Fuel Depot Burns at Airport - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPWkNtbFRTbVoxQVUwbktkN2EyMlB2Vm5fcThubEVFbDdIcFY3M25tY3lJOW5Ea3JRbEpMSmRfWVBQYkQ4UThualgxMFNvaGRCemtfVG5qVGd2OXRFeWdVV3VxZTlfVHAySFVTRDhXNWpCZFBSQWtkQlBjakN2SlB0Qk53Nno5VHJ3bWxpd2RHcE5CUjM3QWlSSm81UEl5QS1OY21FN1k5Z2gzcW1k?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-09-19T20:38:00+00:00",
-    "summary": "Yemen’s Houthis Claim Attack on Saudi Capital After Fuel Depot Burns at Airport WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 7
   },
@@ -1455,19 +1483,19 @@
     "relevance_score": 6
   },
   {
-    "id": "5b8158cac673",
-    "title": "Mobilise Launches HERO API Suite to Help Fintechs Embed Digital Telecom Services - FF News",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNTNPUDVuX0taMEYzTVdudmg4ZThMWkM1T1l0c3F5NVFFdml1SkVZTU11SGpqcndWOF9lLXM1TUY1bXpLb0JRaGRjaVNoRldIZ1h1WmZMR1drWFR6eFdGbUVYRG9FbnlBM3N6dVZHQXdFNEktMEp6VGFZRHFPVkxwd25iems5Rkx6UmI4elN0aU1sZmpKcVkxeVp1a3hzaFlDeldNdm1GWFZDbWtJMVRTb2ZLOA?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-09-17T15:50:32+00:00",
-    "summary": "Mobilise Launches HERO API Suite to Help Fintechs Embed Digital Telecom Services FF News",
+    "id": "3a3fbf6f3c6b",
+    "title": "Google expands agentic commerce tools ahead of the holiday shopping rush - searchengineland.com",
+    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxQckxuT2Z1eENYTnZWQ1A2VGlhQ0k3RGRUYXBrOTJ2Rm5tdXlzdXh3b1NYS3BYU2ZOYmtiS1MyMnZpbTJyVW9yMDJVUzZOSGJVc1dqTW43al93b21sSWRyQ1dzWnZtWjI5cXV4bUJvUk9PcnV4alNVdlo5cXl1bzRGNW1PU2k3YUhBaDItWUJZLWNjdkdINWxzQnM3cTdDR09ieVRtQXJtcVVfWXdL?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-09-16T14:30:00+00:00",
+    "summary": "Google expands agentic commerce tools ahead of the holiday shopping rush searchengineland.com",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "telecom",
-      "financial"
+      "retail",
+      "industrial"
     ],
     "relevance_score": 6
   },
@@ -1521,6 +1549,22 @@
     "relevance_score": 5
   },
   {
+    "id": "2c38f6cfd729",
+    "title": "AdvaMed® in Action: A New Chapter for Digital Health Tech at #MTC26 - AdvaMed® - Advanced Medical Technology Association®",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOUVZfS2txcC1fZTl2WXV0Ykk4ZE9MRHUybWdOeVplUzlYTnY4Zjg4UUpNVWFKa19EY1RmQ1FYdS1ob29FX0VJdkxER1dLTXBJbjF6NDJBVF92SXFrMmw3OHRTUHYtYl8tTktLMEpBS0ZSWHVPM3BUZ3dPWmVEYVZXMkU5UzVwX090ODI2VS1ObnRNODRiSmRveDFRczdvOWJCaWc?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-15T11:25:10+00:00",
+    "summary": "AdvaMed® in Action: A New Chapter for Digital Health Tech at #MTC26 AdvaMed® - Advanced Medical Technology Association®",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
     "id": "fb6e4ddb5c17",
     "title": "Cybastion to support Senegal's digital transformation plans - Developing Telecoms",
     "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxQUWxRcm9sWEpNYy1HWUk2LTVfTWllcjhReXBpTk1WWWZQTDFCckNXV3kwYXFuNDFFdDFtMkE1ZGZtQVowRUttczdlNDFTN3Joc3BJVDJLdXdaMThqX3RnQWpoWGVlOWZEc2tDWGszUnprQW5IYVR5UFRZTjBNclhENjlabWFLNXNzNy1kbWh1cFVCVXI4YkxZQXc3cEpFdS1fMElIdWRKLWR6Yk5XMk9LS1VrOERab3JfbHJZSUR0RWtGcm9wT09Yei1XbGlHZ29ZUTZ3SnJOVkowcVl6?oc=5",
@@ -1533,23 +1577,6 @@
     "industries": [
       "tech",
       "telecom"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "d641191a2c73",
-    "title": "ASX biotech expands diagnostics portfolio after FDA approval - Morningstar Australia",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOSEpEZU4td2gwNnIyZW5zNWpfRGFiMjh1VGNGTTZMMWJIcjNzNUlRNG9ETUJsYVNmaXZWelRBaURSNDdORmo5emVtSzNYd0hrTTU5Q1IxYVFTU0hxTU1OX3BfSWt0dHAzbmNtc0xlMDdpajBaNnRoMVVQV3NSWmRjNlpydFQwNTNOTlA0OEtqV1hLcUJleWQ2ZVdCdWczYWM?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-15T21:47:15+00:00",
-    "summary": "ASX biotech expands diagnostics portfolio after FDA approval Morningstar Australia",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
     ],
     "relevance_score": 5
   },
@@ -1587,12 +1614,12 @@
   },
   {
     "id": "bd08976421ac",
-    "title": "What the FDA's Approval of Ameluz PDT Means for Skin Cancer - hcplive.com",
+    "title": "What the FDA's Approval of Ameluz PDT Means for Skin Cancer - HCPLive",
     "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxPRGhGM3BQWmhSWXQ0MHlSaF9rYXRUYkZkVHJka0VtMnJSb1NQMDNrSW82UG5zemJhOWNvVVBSTTNUMldiNTBXOHdfYmhZQmhxSExKV2NmUnV1MVBySzJNeElkNnlwNkhGRmtOS2xLcWlGa0dkRDF0VDVXa3JLSF9pNA?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
     "published": "2026-09-16T23:04:53+00:00",
-    "summary": "What the FDA's Approval of Ameluz PDT Means for Skin Cancer hcplive.com",
+    "summary": "What the FDA's Approval of Ameluz PDT Means for Skin Cancer HCPLive",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1614,6 +1641,23 @@
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "5b8158cac673",
+    "title": "Mobilise Launches HERO API Suite to Help Fintechs Embed Digital Telecom Services - FF News",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPNTNPUDVuX0taMEYzTVdudmg4ZThMWkM1T1l0c3F5NVFFdml1SkVZTU11SGpqcndWOF9lLXM1TUY1bXpLb0JRaGRjaVNoRldIZ1h1WmZMR1drWFR6eFdGbUVYRG9FbnlBM3N6dVZHQXdFNEktMEp6VGFZRHFPVkxwd25iems5Rkx6UmI4elN0aU1sZmpKcVkxeVp1a3hzaFlDeldNdm1GWFZDbWtJMVRTb2ZLOA?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-09-17T15:50:32+00:00",
+    "summary": "Mobilise Launches HERO API Suite to Help Fintechs Embed Digital Telecom Services FF News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom",
+      "financial"
     ],
     "relevance_score": 5
   },
