@@ -41,22 +41,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 31
-  },
-  {
-    "id": "7b92f502922c",
-    "title": "5 Professional Service CRMs To Consider For Your Growing Consulting Firm",
-    "url": "https://www.salesforce.com/blog/small-business/professional-service-crms-for-small-firms/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-09-15T13:00:00+00:00",
-    "summary": "The right professional services CRM keeps your lean team working like a much larger one.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/image_fddac3.jpeg",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 30
+    "relevance_score": 27
   },
   {
     "id": "aebef472f00c",
@@ -88,34 +73,6 @@
     "relevance_score": 25
   },
   {
-    "id": "b01240c8afbe",
-    "title": "AWS and Salesforce Put CRM Data, AI Agents, and Model Choice Into the Tools Teams Use Every Day - Salesforce",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxNRXJQNGFUekR5MGIyZko0UU9WbkRsQk0xbHJYdGlTNkZnaWE1YUp1a24yMHFtMjA3T09Dc1lreFAyUDJCZ3lheEVtTjQxa0ZqYjBPZXg1RTZrZzRrM1loUXpfeGxXTjl2OS1rbmpMMk1VaTFQd1IxZGp6ZnlSUXNoQXlnNGxvdw?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-09-15T12:27:28+00:00",
-    "summary": "AWS and Salesforce Put CRM Data, AI Agents, and Model Choice Into the Tools Teams Use Every Day Salesforce",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 23
-  },
-  {
-    "id": "38a65116eac6",
-    "title": "Announcing Koa: Salesforce’s First CRM Reasoning Model, Built on NVIDIA Nemotron - Salesforce",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPWEZFRTRaU3FBVEVKVi1vYTdhLWJrNlVOaXZINDQ5aWo5dXB2Z3p6UmRiZTlWdWRXSTlEVU52XzJhZXpaaXQ1LUk3NmdMR0hlOTNmS2tROVE5MnVZUjRHWXk2WEJLcERYZVN1NUxqSnVWa2xsVldZMW14Ynk0dzhJaGlLajQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-09-15T13:48:35+00:00",
-    "summary": "Announcing Koa: Salesforce’s First CRM Reasoning Model, Built on NVIDIA Nemotron Salesforce",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 23
-  },
-  {
     "id": "24acf5eb58d0",
     "title": "What Does Salesforce Do?",
     "url": "https://www.salesforce.com/blog/what-does-salesforce-do/",
@@ -133,6 +90,38 @@
     "relevance_score": 23
   },
   {
+    "id": "787fca1663d2",
+    "title": "What’s the Best Way To Follow Up With a Sales Lead?",
+    "url": "https://www.salesforce.com/blog/small-business/how-to-follow-up-with-a-lead/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-09-22T13:00:00+00:00",
+    "summary": "A smart lead follow-up strategy is the difference between a closed deal and a missed opportunity — here's how to get it right.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/image_9baaab.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "f874fea612b2",
+    "title": "Build Agents Your Way with Claude and Commerce Cloud",
+    "url": "https://www.salesforce.com/blog/agentforce-commerce-anthropic-agents/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-09-22T15:10:12+00:00",
+    "summary": "This week, Anthropic launched a blueprint to help build commerce agents on Claude. This new starter kit for developers includes the reference code, guardrails, and best practices needed to build a shopping agent…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/image.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
     "id": "3627ebd68c8e",
     "title": "Adecco Group rolls out Agentforce Coworker to 27,000 staff in 40-plus countries - AI News",
     "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxNZ09yU0hiSkd1SnNXeTVWOUlMdmx0Rk05M19XTEVtQl9NTXB5N1dPek5hLUFtTktXOHZvZ3hJRHNzQ0EzRDB1VHF5Rnh0TzFDX2tSM013QnRTZ1lUcGkxd3hheEdWZFZYa2luOG9OZE1Fdl9LTjQ5Z0MwZ2xmRjFHazhEZmxxQUVQZkphQ1RqdmJLUUtY?oc=5",
@@ -145,7 +134,20 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
+  },
+  {
+    "id": "b8a74036d2e9",
+    "title": "AIforce brings headless capabilities to Claude, Slack, and soon Teams - Techzine Global",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPd2VnRGlJcjZMUDZhVVBTNDIyRTBUbEx1RS1pWjB5NXM1QjdHUzJ3WmpwemlJd2E3TV9IYmpwYnRyc1RiSFQxVjdyZVdBV2VMODlkS25faFpBOU96eHgzQ2hiVEttSEMwM3VoUnhuWEZFVjhaVFpuRjlLWFpYQWlHZExnc3BuYmNwVmJkdzlGVkpBMDZzV1pfUmZNX3RWQnB4NUJ5X1drcmNzQVljaFg2RzFqMDZ6dw?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-09-22T14:42:06+00:00",
+    "summary": "AIforce brings headless capabilities to Claude, Slack, and soon Teams Techzine Global",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 12
   },
   {
     "id": "bf5e9f3213fd",
@@ -156,21 +158,6 @@
     "published": "2026-09-22T06:27:31+00:00",
     "summary": "Telstra deploys Salesforce’s Agentforce for AI-powered customer service boost ARNnet",
     "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "1cfab1847dfb",
-    "title": "Agent Optimizer: A Faster Path to Better Outcomes",
-    "url": "https://www.salesforce.com/blog/agent-optimizer/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-09-21T14:00:24+00:00",
-    "summary": "Agentforce’s agent for building, testing and improving agents accelerates the development loop—from business intent to learning from production—with humans guiding the work.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/AdobeStock_2169240435.jpeg",
     "tags": [],
     "industries": [
       "industrial"
@@ -190,7 +177,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 11
+    "relevance_score": 10
   },
   {
     "id": "8fa57ffe2bd9",
@@ -207,12 +194,12 @@
   },
   {
     "id": "71a3fde45680",
-    "title": "Salesforce researchers took an AI agent from finishing 43.5% of browser tasks to 93% without touching the model - VentureBeat",
+    "title": "Salesforce researchers took an AI agent from finishing 43.5% of browser tasks to 93% without touching the model - venturebeat.com",
     "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxNQmFaQzdnY0hTWEtvelZRaE0wYTRyRVFEUmoyTFdJdVR5SDA4WUZqT0w2dkhSelpvazh1V3IyclJLUjFhZUhCekV2aHlldFdtOEd1YkpmTjFfTlp6aEE2UFBtVkM0MURWMmliMkNhNS1sWElpcm92YlFsN2VMeUUzbUxTYkp5dXk5d044Qjk5S2hELUJtSWVkRnJqVEFYZTZPNmFTN1lTVDhJOEo2empVS2pMNlM0WDlERVR4NkJ2REdLdUhQY3pJTm16cm0ycF9FRmpnNEY2Z1NGc2d1eklXeQ?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
     "published": "2026-09-16T14:53:11+00:00",
-    "summary": "Salesforce researchers took an AI agent from finishing 43.5% of browser tasks to 93% without touching the model VentureBeat",
+    "summary": "Salesforce researchers took an AI agent from finishing 43.5% of browser tasks to 93% without touching the model venturebeat.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -236,19 +223,19 @@
     "relevance_score": 9
   },
   {
-    "id": "027f420cb220",
-    "title": "Adecco Group announces Salesforce's Agentforce Coworker rollout across 40 countries - PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxQM0pOTUM5a2dpVU9GVlhveWV3Y0ZjUEduY3ItNEdsNm9ZWEJwUU5TSmtpOHBwYXdVWFE5YzdoUGQ3M3pkLUI2dXFkWWVuUDNXVGduSlAwcjgxT1FIQm16WVFmWi1ySlpTbGRPWHlRWVpDR3JBSWtDMkFMeWlIaGpVMVZ1NlltOVhWYlY3SzJuOUVGdzI4b3JXcEZOLWo5dkRMaTVmeFk4akhpZ3hMSWNPN1JySTdmOXdRRG5sNjlyMXhCb1B6Tl9KN1ZaTndENFJ5S2c0Wg?oc=5",
-    "source": "Salesforce AI",
+    "id": "1cfab1847dfb",
+    "title": "Agent Optimizer: A Faster Path to Better Outcomes",
+    "url": "https://www.salesforce.com/blog/agent-optimizer/",
+    "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-09-15T15:50:00+00:00",
-    "summary": "Adecco Group announces Salesforce's Agentforce Coworker rollout across 40 countries PR Newswire",
-    "image_url": null,
+    "published": "2026-09-21T14:00:24+00:00",
+    "summary": "Agentforce’s agent for building, testing and improving agents accelerates the development loop—from business intent to learning from production—with humans guiding the work.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/AdobeStock_2169240435.jpeg",
     "tags": [],
     "industries": [
       "industrial"
     ],
-    "relevance_score": 8
+    "relevance_score": 9
   },
   {
     "id": "4bab008dd7d4",
@@ -280,34 +267,20 @@
     "relevance_score": 8
   },
   {
-    "id": "d2a0e7cd7438",
-    "title": "Siemens and Salesforce Deepen AI Partnership to Redefine Industrial Sales and Service - Salesforce",
-    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNczBBbG01TWxXQ0t5VHNmU1BZMnhOd1VvcEF0OVdhY2xUOFVSQzBnZ25Rd0tHX1FNSWl0SGRGai1NbkxFWTZxQng5VHlkdE5aZlFnQ3AzQkxVdlYwYWR6bERfenU5R2JFVUg3d25rNkgzRkFMVDU1OFNVc0FKSEp3TS1QVDFaZG9aN0Z0aUNiN2tQdWpRMjllRmRWZUVLWlR2OGVDRjFNN3NSQ2laQmlINQ?oc=5",
+    "id": "33c89d899540",
+    "title": "Salesforce's Global Outage Hit Right As It Pitched Agentforce At Dreamforce - Startup Fortune",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOZHF4QVZTZnNmejVRODBNRWNzeXQ0WnA4N2VvQU9mRkxPOHhFM3drVW54V3hIQVZ5RXJrTnljMGZKSmNyZTFnY01fWFVQZ1A3WFVnZzIxRDhyUS1aZFR3UDUxYlp1U29HOWpCOG5QN2hzNUpLd1pfQlpMek9McG9LNFJZSE11VDdVMXRMZ2lja1NzWGlucWtXeVlyMFRVd3A2UGZUMQ?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-09-15T12:35:01+00:00",
-    "summary": "Siemens and Salesforce Deepen AI Partnership to Redefine Industrial Sales and Service Salesforce",
+    "published": "2026-09-21T10:50:13+00:00",
+    "summary": "Salesforce's Global Outage Hit Right As It Pitched Agentforce At Dreamforce Startup Fortune",
     "image_url": null,
     "tags": [],
     "industries": [
+      "tech",
       "industrial"
     ],
-    "relevance_score": 7
-  },
-  {
-    "id": "7f19d76996ce",
-    "title": "Get Ready for a Spooktacular Quest: Unravel the Mystery of Campfire Stories",
-    "url": "https://www.salesforce.com/blog/trick-or-trailhead-headless-apis/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-09-15T16:00:00+00:00",
-    "summary": "Learn how headless patterns and AI agents power the ultimate seasonal quest on Trailhead.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/2026_09_Salesforce_TOT2026_banner_Revised.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 7
+    "relevance_score": 8
   },
   {
     "id": "3d3e20ff3a61",
@@ -340,17 +313,18 @@
     "relevance_score": 7
   },
   {
-    "id": "cd1d1837f150",
-    "title": "Salesforce Unveils AIforce, Bringing the Full Power of Its Platform to Any Interface - Salesforce",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9Qc01GelpWdjE1eUZQeDg1NHB0VVNXUHJHTGJSc244b0NCTEc5V3kzWTJxQVlaSm1LOU9SX3VCYldST0dEYkpVZVRtaFdvT0JFbC1HWU1PTElHTVBxdjVlWnY3T2RhZXpqS2dLZWlB?oc=5",
+    "id": "339a31fc35ee",
+    "title": "Fisher & Paykel resolves more appliance issues with Agentforce - Salesforce",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxQVUozQnBJdEh5UUFzeUg2RTR0ZlJMeE1KT09QVGYybkY1eTBBdHI5LVhaeWpmS3hZYTg4UDZSeGM2bVF0amVaM19peldOeVVMNnFJNWlDV1FTaWRoQnhIeDVxdTdWX1VIRkF3TWsyYzVZX3dsUzRTbktCTkxUNE5QbG1MbW4tZDBKNUZz?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-09-15T12:27:29+00:00",
-    "summary": "Salesforce Unveils AIforce, Bringing the Full Power of Its Platform to Any Interface Salesforce",
+    "published": "2026-09-16T02:16:56+00:00",
+    "summary": "Fisher & Paykel resolves more appliance issues with Agentforce Salesforce",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech"
+      "tech",
+      "industrial"
     ],
     "relevance_score": 6
   },
