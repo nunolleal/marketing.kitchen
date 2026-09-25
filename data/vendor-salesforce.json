@@ -28,29 +28,16 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 48
-  },
-  {
-    "id": "bff82dca2372",
-    "title": "Datablazer Roundup: September",
-    "url": "https://www.salesforce.com/blog/datablazer-monthly-roundup/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-09-24T22:04:53+00:00",
-    "summary": "Welcome back to the latest edition of the Datablazer Roundup. Your monthly dose of what Datablazers are reading, writing, watching, building, and talking about. From asking why historical CRM data is worth keeping…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/image1.png",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 39
+    "relevance_score": 45
   },
   {
     "id": "aebef472f00c",
-    "title": "Salesforce after Dreamforce: How the CRM giant can grow beyond its own interface - SiliconANGLE",
+    "title": "Salesforce after Dreamforce: How the CRM giant can grow beyond its own interface - siliconangle.com",
     "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxQakVFMXJ1S1BaLVkyWGZmczNMQkY4UWxOc2NZcGZmejNBQXE1dS1WRUlWZ0dfMENmWWp2cVF3RnRxcnJvT0RtSEY3WDJOSDRuNkV5SlM0cjFuakZQcTRzWmNsSXBqbEJndWFmT2phZ19RaFlBeE0wZWYxdFJNbHRjTFhySzB5amJ2Z21sWjc2VjNhRDdIRTZyRnJhOWJzRE16b2JVbUk5cU9aendVME00c2VqY2psNlU?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
     "published": "2026-09-19T17:38:00+00:00",
-    "summary": "Salesforce after Dreamforce: How the CRM giant can grow beyond its own interface SiliconANGLE",
+    "summary": "Salesforce after Dreamforce: How the CRM giant can grow beyond its own interface siliconangle.com",
     "image_url": null,
     "tags": [],
     "industries": [],
@@ -71,36 +58,6 @@
       "industrial"
     ],
     "relevance_score": 21
-  },
-  {
-    "id": "5a4235257a6b",
-    "title": "Salesforce launches job-ready AI agents for SMBs - ASBN Small Business Network",
-    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fVjdKalZucnlRX2U4ZUllMF9QZnBKWnFKZ3lEZUJ4bGEwQm5FNzQwREFFeGVvOFY3aVF2MldISE53bEhmYmNCWkNQdUI0eEE1d0FV?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-09-24T16:06:33+00:00",
-    "summary": "Salesforce launches job-ready AI agents for SMBs ASBN Small Business Network",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "739ea25c63d1",
-    "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing - Dark Reading",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOckpkRFJyY095NWxnSWZZRlNmeldWQzhDV3BTVF9vWTBzTFFMQS1iQy1Jd3l2WTRXMi1qVU9MNjdXWTJxX2dlTURLNGxVWGtqOWgxR2ZOeS0wc2FjXzQ0SlEzV3B5dlFzSG40SkhUanp1NlZCN3VtOFBpRmxfdGNpb1lOTGdOa29NVUxPVDlHVldBcjlsUjFkbHZMaVNobzZab2RF?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-09-24T21:09:03+00:00",
-    "summary": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing Dark Reading",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
   },
   {
     "id": "284cc9c4c719",
@@ -135,23 +92,49 @@
     "relevance_score": 12
   },
   {
+    "id": "5a4235257a6b",
+    "title": "Salesforce launches job-ready AI agents for SMBs - ASBN Small Business Network",
+    "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE1fVjdKalZucnlRX2U4ZUllMF9QZnBKWnFKZ3lEZUJ4bGEwQm5FNzQwREFFeGVvOFY3aVF2MldISE53bEhmYmNCWkNQdUI0eEE1d0FV?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-09-24T16:06:33+00:00",
+    "summary": "Salesforce launches job-ready AI agents for SMBs ASBN Small Business Network",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "739ea25c63d1",
+    "title": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing - Dark Reading",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOckpkRFJyY095NWxnSWZZRlNmeldWQzhDV3BTVF9vWTBzTFFMQS1iQy1Jd3l2WTRXMi1qVU9MNjdXWTJxX2dlTURLNGxVWGtqOWgxR2ZOeS0wc2FjXzQ0SlEzV3B5dlFzSG40SkhUanp1NlZCN3VtOFBpRmxfdGNpb1lOTGdOa29NVUxPVDlHVldBcjlsUjFkbHZMaVNobzZab2RF?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-09-24T21:09:03+00:00",
+    "summary": "'Salesbleed' Exploits Salesforce Agents to Enable Slack Phishing Dark Reading",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
     "id": "ec1e6bf414fb",
-    "title": "Salesforce Remains Down Over 12 Months: This Wall Street Firm Doubled Down On Its Belief That 70% Returns Await Investors - 24/7 Wall St.",
+    "title": "Salesforce Remains Down Over 12 Months: This Wall Street Firm Doubled Down On Its Belief That 70% Returns Await Investors - 247wallst.com",
     "url": "https://news.google.com/rss/articles/CBMi9gFBVV95cUxQM0JVbkJZNDA4WTFoNE5DR3djUHUxcVZIWUQ4M0JadS1reUpwUWVYOFN1QW9FRXdGLTFqSlRxazk3elRTWU9aRXdVd1pLM0ktSjV3cC1lTmI5aThnRWtma2RnOWxydElheTZOQXdRRmE4Zl84T3dNZGk0cnlFR2M1OGF2cXhETzFZdWE5SW5hcUFkbDE0YmdYQmhQTVF4Nkg4U3l1cE9Kc2psS3RjM3RqVXNYMnJZdDRjam1yc2dZaklPRTVFWkctSjg5eXVjWjNGZG9wTVQteFp6TWtQbkZxcHFGQWMyTy0xMG5EM1BSLWJHN3ZfdWc?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
     "published": "2026-09-23T11:20:00+00:00",
-    "summary": "Salesforce Remains Down Over 12 Months: This Wall Street Firm Doubled Down On Its Belief That 70% Returns Await Investors 24/7 Wall St.",
+    "summary": "Salesforce Remains Down Over 12 Months: This Wall Street Firm Doubled Down On Its Belief That 70% Returns Await Investors 247wallst.com",
     "image_url": null,
     "tags": [],
     "industries": [
       "financial"
     ],
-    "relevance_score": 11,
-    "also_covered_by": [
-      "Adobe",
-      "Adobe Inc"
-    ]
+    "relevance_score": 11
   },
   {
     "id": "926bd9437a9b",
@@ -198,7 +181,10 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 9
+    "relevance_score": 9,
+    "also_covered_by": [
+      "Salesforce AI"
+    ]
   },
   {
     "id": "dd28bc619f63",
@@ -231,28 +217,13 @@
     "relevance_score": 7
   },
   {
-    "id": "df81ae9228c8",
-    "title": "Salesforce Agentforce: Bridging the Enterprise AI Gap from ‘Vibe Coding’ to Battle-Tested Orchestration - MarkTechPost",
-    "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxNSV90alVUSGdwT3Roa3VkWFpaN3BoMVFyWm1NQ0wyS2NER1RHNFV6TDd6aFYtVTBIUHFWYl80MmVCaTBTRnkwVldiTmItRkp5bjlFMnJzQUFfYzdmVk9QTDhGWEhNaXFveXpkVDZsQ0dGNDVQelktOFl0bm5XMVJkRmxfOHdfaVhRbUdIY0EwYUJrcVlUM1Zsb0Z2cjFIZ2w5QnExRHQ5aEhFRzBuVTc4NUl6eXhHWTcyTHNscWpvN05FYjNDbDh1bEEyT015NXRlZU00SVcxSDLSAd4BQVVfeXFMUEh0OTV1LTJqWlMtTUVsQ2VOSXNPM1BZLWhGV20tNm53aExob2JLbEdFUTNMQUxXSVNHbzI3QWp4QVFYaWdlS21vbVlFcEFVWmRqang1WGhDQ2Nta2phNDZuWnBJay1nY1VRaEdBNWtTSnNmNWlsTHZubEMxZW0yczlwNGI1SHJueTYwNDFVYlRRMmdxUGZ0aUJhNGR0a3hmbEZyYU83M1hKc05hY3B5WFhIVkVuQWxYSWROZHVPSWdwVzhZZUFLR0pPdklFSF93RDR5U3dKZUZBaWRSUml3?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-09-18T07:34:06+00:00",
-    "summary": "Salesforce Agentforce: Bridging the Enterprise AI Gap from ‘Vibe Coding’ to Battle-Tested Orchestration MarkTechPost",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "a9bda4f64a1a",
-    "title": "Agentforce Triggers Renewal Surge, Sparking Salesforce AI Boom: Analyst - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMi3gFBVV95cUxObGJaaU5wWjRDZkhFZGJQU2dGMUdJTGRUTlp4aWlyaDJDejRnYTBnRG5rLTdqcXI1dWprYmZtcmU4U1BMMTVodGRUUEZuWUEyajdlSGljMS1FU3JUaVVMTWRiTER5MHhHbml6MmNjSEV6cTYxVWQ2TGRjc2R5cmZYN01ObjdUeWUya3Y2VjhSSkcxWlVaT2xfcmxYVlFFLXR4ZmV4aWp4TDd1Q3lHWllyM3JtaUo2SGRCSEJpcTFHMklKMS0xZHVMZk5zOVNzeEl5UF9ZVVhGei1vamVsYXc?oc=5",
+    "id": "22ee420cf1b9",
+    "title": "Agentforce Triggers Renewal Surge, Sparking Salesforce AI Boom: Analyst - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPWnFWNlE4cXZtRHE1bzhxdlNmZGRTQVU1OXV5YzVNQ3ljY3NyQlB2Z1d3OEl2QldpR3k5S28ta0RvNV9ySGtKX2hOcWpVX0VnTndvaGFmRnRIbnNyNlBrNndkWm1nSVVEUGt6WXUzYTN0UHlqN3doR3Zray0zVUhReDcxWDB0SnhZUXc0b3BUaHBHTFNKMWVrMUJqcGdSM0tsbE92dGdDSElLdnM?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
     "published": "2026-09-18T10:21:17+00:00",
-    "summary": "Agentforce Triggers Renewal Surge, Sparking Salesforce AI Boom: Analyst Benzinga",
+    "summary": "Agentforce Triggers Renewal Surge, Sparking Salesforce AI Boom: Analyst Yahoo Finance",
     "image_url": null,
     "tags": [],
     "industries": [
