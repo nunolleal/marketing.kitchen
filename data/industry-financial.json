@@ -30,7 +30,7 @@
     "industries": [
       "financial"
     ],
-    "relevance_score": 30
+    "relevance_score": 27
   },
   {
     "id": "d867a60b0495",
@@ -45,30 +45,7 @@
     "industries": [
       "financial"
     ],
-    "relevance_score": 29
-  },
-  {
-    "id": "e84613ec08b2",
-    "title": "Mark Zuckerberg Loses $9 Billion In A Day As Goldman Sachs Pours Cold Water On Meta Stock Rally",
-    "url": "https://www.forbes.com/sites/maryroeloffs/2026/09/25/mark-zuckerberg-loses-9-billion-in-a-day-as-goldman-sachs-pours-cold-water-on-meta-stock-rally/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-09-25T19:11:42+00:00",
-    "summary": "Zuckerberg’s $9 billion loss was the biggest single-day drop among any billionaire Friday.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ab6c592e8d50b969c4e826b/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [
-      "tech",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 17
+    "relevance_score": 25
   },
   {
     "id": "1d3e31ad1d0c",
@@ -92,17 +69,22 @@
     "relevance_score": 14
   },
   {
-    "id": "f2b9b1116325",
-    "title": "Salesforce Commits $1 Billion Agentforce Investment to Switzerland - CX Today",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeUZHRTlmamxIbk1BTkljUEUtVWxzeUlpbG5HNzdLQ1R6dHY3d1FKNzhaSE5kYWJBazlOekY4b3hGellnTWZlcUFpUUFXT3lsNXFKRnVIVlg5RFVLWnlkdTFQT3hjQjljMWM5WlhLYWYyV1luSkxPRkl1aDIxNTNtZXhLOFQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-09-25T17:37:22+00:00",
-    "summary": "Salesforce Commits $1 Billion Agentforce Investment to Switzerland CX Today",
-    "image_url": null,
-    "tags": [],
+    "id": "52e73f2b30af",
+    "title": "Old-School Credit Card Scams Are Far From Dead",
+    "url": "https://www.wired.com/story/kernel-panic-old-timey-credit-card-scams/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-09-26T12:00:00+00:00",
+    "summary": "In an era of increasingly sophisticated AI-fueled scams, a retro threat may be lurking in your mailbox.",
+    "image_url": "https://media.wired.com/photos/6ab58bd2c1b44e18bee51f48/master/pass/Kernel-Panic-Credit-Card-Scams-Security.jpg",
+    "tags": [
+      "Security",
+      "Security / Cyberattacks and Hacks",
+      "Kernel Panic",
+      "scams",
+      "Crime"
+    ],
     "industries": [
-      "industrial",
       "financial"
     ],
     "relevance_score": 14
@@ -148,6 +130,38 @@
     "relevance_score": 12
   },
   {
+    "id": "7b2b0a947fb1",
+    "title": "Here's Exactly Why Wall Street Thinks Argenx Stock Could Soar 23% Over the Next 12 Months - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxObHRpTjJjay1JcTYtcHZIT1VtSTJGd05HVEppMm92Z2ZaWWdoVDlsNl8tWmwxcFVoZ2tmamRlRGJRUklNemVxSDF5eThRZjlVY19zeFNJYkQ5MVppNW5TVWpuYjEwcE1OTzhCWE84aHo2ZDJzellyOUdMeHdVaUIyUVgteWRwcEk0V1lwWlRKeFBBZFVQRTRB?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-09-26T09:44:00+00:00",
+    "summary": "Here's Exactly Why Wall Street Thinks Argenx Stock Could Soar 23% Over the Next 12 Months The Motley Fool",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "8b60fe16cec4",
+    "title": "Worn-Out Banknotes in Circulation: Citizens Call for Electronic Payments - 8AM Media",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2Xzcwb0tsTUtiTGM3NUVtMzV0WmR3VkxFdHFvMzMxX3dUbFJMbjBXc2tiRUZGUGxZaVFZb1lQdnkwUDNVVTJDVURNOVdraVA2UzZKdnNELU1RYWhndWZub2JobHFVNVljVF9GX0hiRU9pdWFlVmt1X3NrZk45Zw?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-09-26T13:04:04+00:00",
+    "summary": "Worn-Out Banknotes in Circulation: Citizens Call for Electronic Payments 8AM Media",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "financial"
+    ],
+    "relevance_score": 12
+  },
+  {
     "id": "2e264841bfa8",
     "title": "Health execs want strong returns on IT investments",
     "url": "https://www.healthcaredive.com/news/health-execs-want-strong-returns-on-it-investments/831298/",
@@ -165,13 +179,28 @@
     "relevance_score": 11
   },
   {
+    "id": "2513df19ef99",
+    "title": "Trump Rejects Iranian Peace Proposal, Wall Street Journal Reports - GV Wire",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPMnExWGVRRkNEUm5ybWc4OUQtZHBCWFJDcTF6WjhDYUVsZFVsYzhjX1V5akMwM2hUaVNuc0duWFN0TnJiNTEyUzN2NHdnYlZBUmRULVpzQ1R6YzZsbnJMWXJqb0N4dnlUQTFhVE9ndUZwbUVtcnFLZ3o0WnhZd213VTJURXF5Zk5lRHE2LVp3bnhVcGZ1MFVLN2VTOA?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-09-26T14:20:33+00:00",
+    "summary": "Trump Rejects Iranian Peace Proposal, Wall Street Journal Reports GV Wire",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 11
+  },
+  {
     "id": "9ccaaf9fa934",
-    "title": "Gateway First Bank To Acquire Fort Worth-Based Colonial Savings - Fort Worth Inc.",
+    "title": "Gateway First Bank To Acquire Fort Worth-Based Colonial Savings - fortworthinc.com",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxQdVdaVFVINjA3WWxDYktuVUJRMGZHYk9nZVJ0Mkl4Wlp2MVJMMzU4WWxrZ1dqaEVvb3RsRWxfRzl6LVNaYk5tTU91ZkgzS0Z4NmNCdV9MT3FQeFJySE1ITEtlTUg3MlRSTVp6UHlRZjZjVFlkWHV2OTNZLTJvR19BVUhfWVJ6YXlJUUw4NDlZci1qNmVxblE?oc=5",
     "source": "Adobe Inc",
     "source_category": "adobe",
     "published": "2026-09-25T15:20:04+00:00",
-    "summary": "Gateway First Bank To Acquire Fort Worth-Based Colonial Savings Fort Worth Inc.",
+    "summary": "Gateway First Bank To Acquire Fort Worth-Based Colonial Savings fortworthinc.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -180,43 +209,13 @@
     "relevance_score": 10
   },
   {
-    "id": "0fbc3b4eb91d",
-    "title": "Wall Street’s ‘80/20’ Shift Finds Fresh Fuel in Stock Bounceback - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPVXdvQXdjem1jVGhhdlBMWGNwSUNZOVFsMUtUYVNBaUVVR21GTlYza0ZGdjQ3R0hQLWpiMS0zNTFZVTFXWnBtT0tYWXpFNjB6ZEJBOTVuQy1oWmNHR19tNGJGSEQ3NDNQdXBSTmswNFVBM1ZRT213N2dUMlRBeDM3bFlMR1h6NF9UUno2VUg0VkNnZjk4aEstcVViRjBldm8tVzN6d1pMek9nWEhqUEVzVVVYQQ?oc=5",
+    "id": "aed013981cc1",
+    "title": "Wall Street week ahead: consumer confidence, inflation, employment updates - KSAT",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOMjRkOXJ3WDBfNXZscDZqam9IODJjbFhqVlY0S3NwRHlpZ0sxa1FudEltbk5EcXJXb1B2Y0IydHN6dHVRbFRnWFFrTEt6NWtxUXBtS0wtd3VmT3ctbmU4N3pIZmdpNzVSVEpFMDk0WU5FX2NNbmVic3BLbDdsanJPM1BZU0tXMkRWbUp2NzhESnBNMTE2cnhoQ1JMeXY2bFpmYUZuaHBid3NralRHSWc?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-09-25T20:48:29+00:00",
-    "summary": "Wall Street’s ‘80/20’ Shift Finds Fresh Fuel in Stock Bounceback Bloomberg.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "b6f19ff82bd8",
-    "title": "Visa (V) Expands Cross Border Business Payments With New Digital FX Tools - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRWNabWc0UjMzdE1jTUYtM3NGeDNXZlNIa1l5QUszcVhrRWdtQURTWkFzbFJSdldsZGVxNExrR1dVa0N2c1NkQWc4M0J1WkRRa3pnQ3VJRGc1Q1o4VWR4Q1NuaWtUMFVfWVNSMl9aY1FTRmMwZFJTajdZVnY5UTVzY29YVHdJeGwtUjN2MU4tYWZSUTFfRWhzdDJqa2hEOTdkaTA2U2tJWldzaWhUaXFPRDdmZkpoYVY5MjUzSVRwYVdtdzNZeVJyYmFSdGjSAdIBQVVfeXFMT09OakcwOTYyVF83LW9ocVZ3VlVGYTY5ODJ3QWNnbWpXRkZyNFZSXy1QaW1rdmJmRlM1V1Q3Ujg2WGY5VVFwLU1VUjMtLWluNi1UYlN1M3hSeFpJZDFWRVVsVFpmTGtUMldPb0wtVk1YVklNaDBmOXVvbHp3UU5zaHhSSmQ1MWE0X1NhWVVleEFaMDgyREFrajZCOEhMbnZKNGpveWRLam9tVHBISU9WV2VXN2VUZFd0a3FOTmNFXzVaYkZ5WEgweUlic0Rtd0l1MTVn?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-09-26T01:37:28+00:00",
-    "summary": "Visa (V) Expands Cross Border Business Payments With New Digital FX Tools simplywall.st",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "18a52fdbe06e",
-    "title": "Wall Street week ahead: consumer confidence, inflation, employment updates - AP News",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQT1U1UmFUdU1PQVNoRXBES1c0OXV1aGRMWjB5dEFieDUxRVZQSVR6TWNtNWVSMlYtYkFqeGtXNEUwYzlpTTBMSEpCLU8zVENyVktPMzhHNi1NR216eEZPUHFJYkQ5RFFKeVBRN2JvWUNXZ3lfYlJrMi1JcVNKbkozQjhOSHpOeUJsMDZTc2YtZ01xYzlmdllWbVllbGZ0T0VjcHBDOUdLdGxvZw?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-09-26T08:00:00+00:00",
-    "summary": "Wall Street week ahead: consumer confidence, inflation, employment updates AP News",
+    "published": "2026-09-26T13:19:32+00:00",
+    "summary": "Wall Street week ahead: consumer confidence, inflation, employment updates KSAT",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -241,44 +240,13 @@
     "relevance_score": 9
   },
   {
-    "id": "d7678775904a",
-    "title": "Benjamin Rosen, Who Persuaded Wall Street to Take PCs Seriously, Dies at 93 - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE0zS3dGaC0zV2pTck1NdkItb0JnR3ZSMVREU2NOT2otdDZ6QS04dkxpMDcxNWl5bG9sSjFjVTcwSGVBb0V6NWU4Q2JWRFdpNDBTWFdzY3JsOFA5U1VHRmZOZ1hxOFpDbWo5U0RESTRFYUJTVHNQZDI2QQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-09-25T14:00:00+00:00",
-    "summary": "Benjamin Rosen, Who Persuaded Wall Street to Take PCs Seriously, Dies at 93 WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "da5b3f9585f8",
-    "title": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies - Virginia Business",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE55MWo2aFlqUXpSdTFJdEFPcnhScmRLYzcwWnpCZEF3WnA0YUxaZm9icTM1ek50R0VZSnpMSjhNSV9kbmhWMklfdHh5Y25yU1VlMlJ3SGRoUktPMkoyMTl4d0swT0E1Tk1jVXFBWEY1UFVfb1JmR20zYVpBMTQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-09-25T20:50:20+00:00",
-    "summary": "Wall Street ends higher as investors buy AI stocks; Microsoft rallies Virginia Business",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "108cbf5dcab1",
-    "title": "UK banks complete first live customer transactions using tokenised sterling deposits | Insights - UK Finance",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQT0tDOWE0R2V0d3VMX2xtQ05KeGFOdHRpQ0VQNmlVUGpobUtXd2JkdkctaEhsY0ZiUkdoQldsTzZaZEpHVE9HeEZRRWlTT24yZTJaVjhvTmtsTG5KRlE2ZXNXS0xIcDVrNTAyRmVPdV9Ib2dDQ0dvUU1fVm83S1FhTkdWd2ROLXJNMlIxd2NBTHozVnN1MWk3YjZiOE9FY1lMVGhBVk1jbjd0V0VPemxOcGJWZm5maG9XZGJMNDVoZkFNZkZK?oc=5",
+    "id": "b6f19ff82bd8",
+    "title": "Visa (V) Expands Cross Border Business Payments With New Digital FX Tools - simplywall.st",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQRWNabWc0UjMzdE1jTUYtM3NGeDNXZlNIa1l5QUszcVhrRWdtQURTWkFzbFJSdldsZGVxNExrR1dVa0N2c1NkQWc4M0J1WkRRa3pnQ3VJRGc1Q1o4VWR4Q1NuaWtUMFVfWVNSMl9aY1FTRmMwZFJTajdZVnY5UTVzY29YVHdJeGwtUjN2MU4tYWZSUTFfRWhzdDJqa2hEOTdkaTA2U2tJWldzaWhUaXFPRDdmZkpoYVY5MjUzSVRwYVdtdzNZeVJyYmFSdGjSAdIBQVVfeXFMT09OakcwOTYyVF83LW9ocVZ3VlVGYTY5ODJ3QWNnbWpXRkZyNFZSXy1QaW1rdmJmRlM1V1Q3Ujg2WGY5VVFwLU1VUjMtLWluNi1UYlN1M3hSeFpJZDFWRVVsVFpmTGtUMldPb0wtVk1YVklNaDBmOXVvbHp3UU5zaHhSSmQ1MWE0X1NhWVVleEFaMDgyREFrajZCOEhMbnZKNGpveWRLam9tVHBISU9WV2VXN2VUZFd0a3FOTmNFXzVaYkZ5WEgweUlic0Rtd0l1MTVn?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-09-26T03:44:24+00:00",
-    "summary": "UK banks complete first live customer transactions using tokenised sterling deposits | Insights UK Finance",
+    "published": "2026-09-26T01:37:28+00:00",
+    "summary": "Visa (V) Expands Cross Border Business Payments With New Digital FX Tools simplywall.st",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -287,81 +255,19 @@
     "relevance_score": 9
   },
   {
-    "id": "7c31d3f0d75e",
-    "title": "Bank Earnings Week Is a Three-Engine Stress Test - Money Morning",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZVVDcGJ0WDF4bDhZbWdRVkJSYnZfQ2VpYjZrZzhOdldwd0hObUp2M2QxRVNQRy05ZVpOX3BzNWhlak5vek5vXzNscDVfdVNFOHB0TFdCNHBqYTFQYk1nOGpENmkwQmJJdEpleUxVX0luODVRa0pYWTQ4RlMwVmtleFlQTzdxYUxGOG9WczhVbm01dFNpWXFn?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-09-25T11:34:08+00:00",
-    "summary": "Bank Earnings Week Is a Three-Engine Stress Test Money Morning",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "6c7eaea004b4",
-    "title": "Polymarket Wagers on Bank Failures Trigger FDIC Concerns - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVlpmLURSWGpRTERtU2pjODhrV3R0Wk9KYWJOQ3lRUjA0aXdSdmJGUXRPU0p1UnhWLW40a0NhR0h1a2h1QWQ2SjNJMVA5Ul85dGNLMldTVGEzRmM4Wl9JVkhfQTNqSVpGdXI1d1FMSG04cUFxbENqZnlORHdkeGUybzlTVDZsWUI1ZXZVRDFRVnB0dkxNWkpVYWN1cWJSZzAySjd5a0pTOA?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-09-25T16:58:51+00:00",
-    "summary": "Polymarket Wagers on Bank Failures Trigger FDIC Concerns Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "49564a9ca59b",
-    "title": "Bond market alarms are ringing on Wall Street. Here's what's ahead - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxQQ1I0c09qbWF2dTZaZXpNNU5HNkx5VDA3WUdWbXhPd3RTQjh5djkxUVN1R0V1TDI2azVUZ1ZadG5qNHVvZVRHUnFkVnRvNXRyYUJoREFsOEJTSllYdUctZFVYN3NUbDZpOGI1djU0S1hzMmtTMWp2TjlIYWpfWjJMam1Fc3lzYmZ4X1NEbC1lZWNwYlpC?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-09-25T19:31:11+00:00",
-    "summary": "Bond market alarms are ringing on Wall Street. Here's what's ahead CNBC",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "33afc9104f05",
-    "title": "Prosecutors seize bank accounts of Montana firm linked to Tether - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNU91X3U4cXNRUy1hYk0zOG1OcjZVbVhUTnI0cXljT203dUhNaDhUdjR6VmNRQWRmWmVwb0l1X1BxOC1nU1poTnJQekhKYzV1V2ZjaDFpcnRSQ0o5c05yclFUbmpqMExnMmhzY25zM1k3b3pwMnRESXVMRFlnWUpTUUllQURrVGNYMWhGNHlwemFIb3Z5dWlaZDQxVktnUTZ5MFJOeTY3M3M3MHJKRENvOVBzVGY?oc=5",
-    "source": "Banking",
-    "source_category": "industry_financial",
-    "published": "2026-09-25T20:01:36+00:00",
-    "summary": "Prosecutors seize bank accounts of Montana firm linked to Tether Reuters",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "306aca06e051",
-    "title": "The New Geography Of Payments: Why Cross-Border QR Connectivity Matters For Asia's Future - OpEd - Eurasia Review",
-    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTzJhZFFhQ0FESVNUZ1d3VzBRZzNpTFpoZFplZlJKWlBIZ1BBUTFiRjVUVG54Sl9Ia1lDYjZjS05wZ1ZQbWg2a0NmTmtWM3R3VTlhLU5UeE1NWjhoalIxLV9HVjAyOXdyUlNNT3hfeDVqVlVkeDE3WDFxODJlU3M4cDJnZ2NtalpNWnZSWlBGNTczZTQweGNBSmJBOWRhdFZxSVFUNy11WEZ3bVZpVlpvdEVjWmVsQWNCaDQwZlNGYmpyY01TT2tBSENZS0U?oc=5",
+    "id": "8d9b34e94db6",
+    "title": "REALITY CHECK | Solana is About to Make On-Chain Payments Truly Instant Similar to Traditional Digital Payments - BitKE",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE13cTlHZHNDLXBsOFlWRVlGZmlsM0NVT1FyaXp2MGQ2b1JoLVBQM2o1b1F3aE1uMjFtWHZJSm1zSkNOb3hjX1JXVmtvbzhaaHNhZkNmRE9UY0hraFdLWUVFVTV4QVZDUjJwVVE?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-09-25T22:18:08+00:00",
-    "summary": "The New Geography Of Payments: Why Cross-Border QR Connectivity Matters For Asia's Future - OpEd Eurasia Review",
+    "published": "2026-09-26T08:00:53+00:00",
+    "summary": "REALITY CHECK | Solana is About to Make On-Chain Payments Truly Instant Similar to Traditional Digital Payments BitKE",
     "image_url": null,
     "tags": [],
     "industries": [
-      "industrial",
       "financial"
     ],
-    "relevance_score": 8
+    "relevance_score": 9
   },
   {
     "id": "06d70d4339a2",
@@ -379,13 +285,28 @@
     "relevance_score": 8
   },
   {
-    "id": "f0d1c1a3bebd",
-    "title": "Expert insights: Breaking barriers to agentic AI in banking and financial services - Electronic Payments International",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObG50cVlUaWo1c29leTdDX0trOXh4SE5VNkZ1VmZaRmEtdldsNGJLYUh1alFxVm9QYnk0emV5d3ZleUxidjN4R1kxbWotQmJDc2V6ejVxWWVwdmQzYWx3M3lmd2JkTFdEQVhoU2o0bG1rdk8wRnl6bTA4UF9PMUtLdjVEMVdQdWpMdlR1dFl5V3lwLURPeEw5WGt3dG5NNWxObUNxMldWdHBvOGFUYXY5STZ1LVQzbFlBaW0tYlNtd29iRFFYM05XTzN0clJDTUViYXNiUXBoOA?oc=5",
-    "source": "Fintech",
+    "id": "7c31d3f0d75e",
+    "title": "Bank Earnings Week Is a Three-Engine Stress Test - Money Morning",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPZVVDcGJ0WDF4bDhZbWdRVkJSYnZfQ2VpYjZrZzhOdldwd0hObUp2M2QxRVNQRy05ZVpOX3BzNWhlak5vek5vXzNscDVfdVNFOHB0TFdCNHBqYTFQYk1nOGpENmkwQmJJdEpleUxVX0luODVRa0pYWTQ4RlMwVmtleFlQTzdxYUxGOG9WczhVbm01dFNpWXFn?oc=5",
+    "source": "Banking",
     "source_category": "industry_financial",
-    "published": "2026-09-25T09:51:31+00:00",
-    "summary": "Expert insights: Breaking barriers to agentic AI in banking and financial services Electronic Payments International",
+    "published": "2026-09-25T11:34:08+00:00",
+    "summary": "Bank Earnings Week Is a Three-Engine Stress Test Money Morning",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "6c7eaea004b4",
+    "title": "Polymarket Wagers on Bank Failures Trigger FDIC Concerns - finance.yahoo.com",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNVlpmLURSWGpRTERtU2pjODhrV3R0Wk9KYWJOQ3lRUjA0aXdSdmJGUXRPU0p1UnhWLW40a0NhR0h1a2h1QWQ2SjNJMVA5Ul85dGNLMldTVGEzRmM4Wl9JVkhfQTNqSVpGdXI1d1FMSG04cUFxbENqZnlORHdkeGUybzlTVDZsWUI1ZXZVRDFRVnB0dkxNWkpVYWN1cWJSZzAySjd5a0pTOA?oc=5",
+    "source": "Banking",
+    "source_category": "industry_financial",
+    "published": "2026-09-25T16:58:51+00:00",
+    "summary": "Polymarket Wagers on Bank Failures Trigger FDIC Concerns finance.yahoo.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -395,76 +316,17 @@
     "relevance_score": 7
   },
   {
-    "id": "3a8e9b5841a4",
-    "title": "TIPS TO PROTECT YOUR DIGITAL PAYMENTS AS DIGITAL PAYMENTS GROW IN POPULARITY, TRANSACTION PROTECTION IS MORE IMPORTANT THAN EVER. - insurancenewsnet.com",
-    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPOU5kTFpIbGhSN2tqaEV0NzRFQkVDRjMtVzJqMGZVMUh1bkNpM19FMER3cDdrNVNTYXdXeE9UVEpfdWVzdnFUWWM4N014SENfVzh6Zm5MV2xPOWNtd2owQzJvaVFFWEhid2tqMmp5anlXVzFUZTNUX09fTmFWXzloREpUM0VHYkJ2bzVMdEhtdldBM3k1emRWVVpGQm1yY3A1bEJnblV4MnJqRk1OWExOWUprWS1GY0RkbDByMF9rQ0FSb3lJTHp4QjJ5alpQZFZ5SzNSRzhERGJGeHhnbjY4WFEyWEVKWkxzR2ZhdThIdWk1TGtPTDQwdQ?oc=5",
+    "id": "306aca06e051",
+    "title": "The New Geography Of Payments: Why Cross-Border QR Connectivity Matters For Asia's Future - OpEd - Eurasia Review",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxOTzJhZFFhQ0FESVNUZ1d3VzBRZzNpTFpoZFplZlJKWlBIZ1BBUTFiRjVUVG54Sl9Ia1lDYjZjS05wZ1ZQbWg2a0NmTmtWM3R3VTlhLU5UeE1NWjhoalIxLV9HVjAyOXdyUlNNT3hfeDVqVlVkeDE3WDFxODJlU3M4cDJnZ2NtalpNWnZSWlBGNTczZTQweGNBSmJBOWRhdFZxSVFUNy11WEZ3bVZpVlpvdEVjWmVsQWNCaDQwZlNGYmpyY01TT2tBSENZS0U?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-09-25T10:06:32+00:00",
-    "summary": "TIPS TO PROTECT YOUR DIGITAL PAYMENTS AS DIGITAL PAYMENTS GROW IN POPULARITY, TRANSACTION PROTECTION IS MORE IMPORTANT THAN EVER. insurancenewsnet.com",
+    "published": "2026-09-25T22:18:08+00:00",
+    "summary": "The New Geography Of Payments: Why Cross-Border QR Connectivity Matters For Asia's Future - OpEd Eurasia Review",
     "image_url": null,
     "tags": [],
     "industries": [
-      "financial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "2683054b9a44",
-    "title": "ACI Connetic Powers Solaris SEPA Instant Payment Strategy - fintechmagazine.com",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSjFLaW5uZVNIeXRzZ2lpVFktWW1rOS1oeVlvWDdjMWRFUF9icnIxYUM5YnFGLVJsNTM1LTNBQ0NLa2Z5bkczd0ttb0hxZ1BWdVF2bnR0RXN5UEdJNVdGcTBQZlEwV0NTSVhsV3FzOUZ2VXNzUExCTDBPdXRBb2I0UUZUNFgwUG53SFpSSTJiOFpWMlk1?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-09-25T10:19:30+00:00",
-    "summary": "ACI Connetic Powers Solaris SEPA Instant Payment Strategy fintechmagazine.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "fe66e12407d3",
-    "title": "Denys Boiko on Digital Payments and Financial Inclusion in the GCC - Global Banking & Finance Review",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTTZ1M05taU5fem5Gb2JBN09uVUFidFlWa3BjU2JuclNoa0VGYnNFYTh5NG9qUWlkVTFGSHJfV0JBQTFLeEp5TWZ3NW94MDktUFR0UmJ3M1loeFJxU2huOWxScWJMUk96dmNKb19pUjA4Smw1OEhoNzlEbi05Q1pMdEhnTlYxNXF0WUgwRnA2SGo3S2V2cDN3ZXNjRGNFUWlsTGU4ZzViRmk4cDduME9tV0gxUE5uY1lkT2lETQ?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-09-25T13:00:52+00:00",
-    "summary": "Denys Boiko on Digital Payments and Financial Inclusion in the GCC Global Banking & Finance Review",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "b9fa19d6da66",
-    "title": "Digital Wallets and Personal Responsibility: An Ethical Look at Instant Payments - FāVS News",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxPVTVoZVozcGhIQUR4RVB4TzZrNnZaR2luUUs3bUN0T2ZFSlJaUEhTSmxFcTMxR3RTZkNfRGFtcTZmWlp1dm1idUZ2QlAyUE1xcFdoZnY3bFBqVmFDeENxTGo3dE9NM2t2TWp5V2pZM2tXS2FUOTNxLURRRF9wcGZYYVBuZm54Z25JTGNmM1lVR1NneEpqSHk3bmxhSl9FZExmTHRBaTZBeUkwWE5y?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-09-25T14:04:14+00:00",
-    "summary": "Digital Wallets and Personal Responsibility: An Ethical Look at Instant Payments FāVS News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "9186c1504fd9",
-    "title": "Al-Futtaim Partners with Juspay for Unified Digital Payments - fintechmagazine.com",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRmZENk9zYTR6QjVzMXc0ODlnd2RwUGtWNnpreUlrZUl6WFRXdkJpOEh1OFlDbjd5cXFvWkdzMzBRcGFUTGlEWXdhSjA5UlFqUnphdGEzTkkzb2lRclNCS29xRS1kT2Z6eHdZVld2MEFlRm80ZW5uSnZxU2lDLWk2bERKZU1VZkRmVmc5NzgtQ1lMZ3doU2wyUQ?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-09-25T15:11:02+00:00",
-    "summary": "Al-Futtaim Partners with Juspay for Unified Digital Payments fintechmagazine.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
+      "industrial",
       "financial"
     ],
     "relevance_score": 7
@@ -481,21 +343,6 @@
     "tags": [],
     "industries": [
       "industrial",
-      "financial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "76e30b23526a",
-    "title": "IBM Digital Asset Haven advances tokenized payments and expands deployment flexibility with on-prem - IBM",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUldwcVBEZ0QybElORzVHM0VJS1ZSTFJuQVhZbkhjWTlZdTQ0ampINHRvVFdGLWZoMG1iVmE5eDRXdW54TEs1bmJHdmp2WS1hSjJfQ3YwV2NDaWJmcGsyVjFzUUJHaEc4dGJzMm13S0pCeEJaWFd2OU55TF91NGlVaEdONzF3b1A1MG5kT25PZVFZU0hJaTZrUzFhUUtQZFJhYUJhdzVIYXFFX0JfZjFsaXU4NWxha2piV2pNWG9seFB2ZGp3SzktWTdSMU9DamkxY1ZV?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-09-24T12:16:48+00:00",
-    "summary": "IBM Digital Asset Haven advances tokenized payments and expands deployment flexibility with on-prem IBM",
-    "image_url": null,
-    "tags": [],
-    "industries": [
       "financial"
     ],
     "relevance_score": 6
@@ -518,12 +365,88 @@
   },
   {
     "id": "ba88c60f194f",
-    "title": "Swift and Wells Fargo join Linux Foundation Decentralized Trust - finextra.com",
+    "title": "Swift and Wells Fargo join Linux Foundation Decentralized Trust - Finextra Research",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQd2FpWTB0SDR1RDR1LUJLYUF1SkZMWHFKQVNJZHJNbVVCSWY5QWd6cVFzLUNLVm5fXzN5by13NzhsX3NOZHAwcEVWUXY4dmxENUEyM25zb3V3VzV6U1FzUXVKNElhREpQdlRCV1d1WEpoekd4dm9pVWdvTkNvb0ZvQXFLbEh6UEhBQXJpVUpzYUNIUGhTSDBzeGVObnBCVC1vZHdSQmJJWlhnQQ?oc=5",
     "source": "Banking",
     "source_category": "industry_financial",
     "published": "2026-09-25T00:01:00+00:00",
-    "summary": "Swift and Wells Fargo join Linux Foundation Decentralized Trust finextra.com",
+    "summary": "Swift and Wells Fargo join Linux Foundation Decentralized Trust Finextra Research",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "f0d1c1a3bebd",
+    "title": "Expert insights: Breaking barriers to agentic AI in banking and financial services - Electronic Payments International",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxObG50cVlUaWo1c29leTdDX0trOXh4SE5VNkZ1VmZaRmEtdldsNGJLYUh1alFxVm9QYnk0emV5d3ZleUxidjN4R1kxbWotQmJDc2V6ejVxWWVwdmQzYWx3M3lmd2JkTFdEQVhoU2o0bG1rdk8wRnl6bTA4UF9PMUtLdjVEMVdQdWpMdlR1dFl5V3lwLURPeEw5WGt3dG5NNWxObUNxMldWdHBvOGFUYXY5STZ1LVQzbFlBaW0tYlNtd29iRFFYM05XTzN0clJDTUViYXNiUXBoOA?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-09-25T09:51:31+00:00",
+    "summary": "Expert insights: Breaking barriers to agentic AI in banking and financial services Electronic Payments International",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "3a8e9b5841a4",
+    "title": "TIPS TO PROTECT YOUR DIGITAL PAYMENTS AS DIGITAL PAYMENTS GROW IN POPULARITY, TRANSACTION PROTECTION IS MORE IMPORTANT THAN EVER. - insurancenewsnet.com",
+    "url": "https://news.google.com/rss/articles/CBMi-AFBVV95cUxPOU5kTFpIbGhSN2tqaEV0NzRFQkVDRjMtVzJqMGZVMUh1bkNpM19FMER3cDdrNVNTYXdXeE9UVEpfdWVzdnFUWWM4N014SENfVzh6Zm5MV2xPOWNtd2owQzJvaVFFWEhid2tqMmp5anlXVzFUZTNUX09fTmFWXzloREpUM0VHYkJ2bzVMdEhtdldBM3k1emRWVVpGQm1yY3A1bEJnblV4MnJqRk1OWExOWUprWS1GY0RkbDByMF9rQ0FSb3lJTHp4QjJ5alpQZFZ5SzNSRzhERGJGeHhnbjY4WFEyWEVKWkxzR2ZhdThIdWk1TGtPTDQwdQ?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-09-25T10:06:32+00:00",
+    "summary": "TIPS TO PROTECT YOUR DIGITAL PAYMENTS AS DIGITAL PAYMENTS GROW IN POPULARITY, TRANSACTION PROTECTION IS MORE IMPORTANT THAN EVER. insurancenewsnet.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "2683054b9a44",
+    "title": "ACI Connetic Powers Solaris SEPA Instant Payment Strategy - FinTech Magazine",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxPSjFLaW5uZVNIeXRzZ2lpVFktWW1rOS1oeVlvWDdjMWRFUF9icnIxYUM5YnFGLVJsNTM1LTNBQ0NLa2Z5bkczd0ttb0hxZ1BWdVF2bnR0RXN5UEdJNVdGcTBQZlEwV0NTSVhsV3FzOUZ2VXNzUExCTDBPdXRBb2I0UUZUNFgwUG53SFpSSTJiOFpWMlk1?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-09-25T10:19:30+00:00",
+    "summary": "ACI Connetic Powers Solaris SEPA Instant Payment Strategy FinTech Magazine",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "fe66e12407d3",
+    "title": "Denys Boiko on Digital Payments and Financial Inclusion in the GCC - Global Banking & Finance Review",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxQTTZ1M05taU5fem5Gb2JBN09uVUFidFlWa3BjU2JuclNoa0VGYnNFYTh5NG9qUWlkVTFGSHJfV0JBQTFLeEp5TWZ3NW94MDktUFR0UmJ3M1loeFJxU2huOWxScWJMUk96dmNKb19pUjA4Smw1OEhoNzlEbi05Q1pMdEhnTlYxNXF0WUgwRnA2SGo3S2V2cDN3ZXNjRGNFUWlsTGU4ZzViRmk4cDduME9tV0gxUE5uY1lkT2lETQ?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-09-25T13:00:52+00:00",
+    "summary": "Denys Boiko on Digital Payments and Financial Inclusion in the GCC Global Banking & Finance Review",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "d1d419b52b94",
+    "title": "US prosecutors seize Tether-linked payment firm's bank accounts - FT - Finextra Research",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNSTBfc3RzSlE2ZTlrNV9IV192WXVSUWlZR0JWZE5SaUFBZjI2Sl9zLU5WeWc1MjRQUDdiZHpRTlJKZ3hnODdkVHpMZVBtenVBcUtfcTd5QWVaUEdCQmROSklwOVJxSVZLQVVVaGczNlNhcGNabzNQZGNaRFgwazBMYWhTbWRGeGVHLXZmY1JYVVV2NTRqRi1keEFEQ3l3cy1sWlNVUjBuUVptVy1vbThF?oc=5",
+    "source": "Banking",
+    "source_category": "industry_financial",
+    "published": "2026-09-25T14:41:00+00:00",
+    "summary": "US prosecutors seize Tether-linked payment firm's bank accounts - FT Finextra Research",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -533,59 +456,27 @@
   },
   {
     "id": "08fed58d6b28",
-    "title": "Tokenization: Transforming the future of digital payments - paymentsdive.com",
+    "title": "Tokenization: Transforming the future of digital payments - Payments Dive",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxOWG52WWw3ZkpqczdoRS1OWWJTeS1iRFhfOFZWQWRTTXE0dV9EdHdhdkhhaGIzdjg4VWdEWVBLS1hKOHRfWlhkMHRlTVM3azRCUjFiVnV4SUxiMWNtYl82RlZXd2VQekxEQ1A0TVNENm56WmJFdDlWYWlrbUdTOG5ZVkJyVE5lSndOWVNBMFBuU0FiRU1fU213WVRiMURVU2U0?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
     "published": "2026-09-21T11:53:09+00:00",
-    "summary": "Tokenization: Transforming the future of digital payments paymentsdive.com",
+    "summary": "Tokenization: Transforming the future of digital payments Payments Dive",
     "image_url": null,
     "tags": [],
     "industries": [
-      "financial"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "440d1d6f94af",
-    "title": "India's PhonePe gets initial UAE central bank nod for payment licences - Reuters",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxNZ09TTHlmbG5mMFhMNWFLTEhQQk9vak1aMnRYdzVMZk9ZTWJQQUNoQzFnQTkxaUF6QWNqNC0wNFlqVUVyUjRpR1E0Q001ZmxFOUFJWmRfR21zdEw4SE40V1MwX0tjaGRVVld0ZWtQcGVRQWJYMERUVUFHcTM0MnZ5bkFCNllzbVQwZk1pRGxqa1NVaGJVSWlORVJaQVRubzE5S0d2NG5VYk5DaEkwbmVXZEhwRTdxYzhkemtB?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-09-22T06:53:33+00:00",
-    "summary": "India's PhonePe gets initial UAE central bank nod for payment licences Reuters",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "05c2097357d0",
-    "title": "Walmart (WMT) Reverses Course On In Store Digital Wallet Payments - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPeU5Kc0RSa3paUHdRTU1EblQzT2ZtdGRla2tqZk5DOEprQlpuQTI5cjVROFMwb3NrcXpXVkI3Q01TWE93NUtSNGhFd3E4aGx3ajVRTFMxYVVhdVY4UDlMckpsOTl3Qll1RzI3R2U0bHhHQlR2UlRXSlhBTzJ4aUpaU2xmejVHaFRuNC1oNE1yR1dXNUczd3JCX2x3dUl5cVU?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-09-22T18:14:51+00:00",
-    "summary": "Walmart (WMT) Reverses Course On In Store Digital Wallet Payments Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
       "financial"
     ],
     "relevance_score": 5
   },
   {
     "id": "2ddb2fdccbe5",
-    "title": "Adyen snaps up Klarna CFO - paymentsdive.com",
+    "title": "Adyen snaps up Klarna CFO - Payments Dive",
     "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1mSTVSTkRuRzRuVWZGVmgxbmVpajIzM0JKYjh5Rm54cFJ0UUlRdFdleDhrSHhYaGlMVGhzWjRlLVJxT3FscUtaOC1jU3dYRm82OHlXYV9qZjY5dTJ2aW0xT1Z0Vk01NDZWN2FkT1IzeVpYa3VpV3c?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
     "published": "2026-09-23T04:37:57+00:00",
-    "summary": "Adyen snaps up Klarna CFO paymentsdive.com",
+    "summary": "Adyen snaps up Klarna CFO Payments Dive",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -594,29 +485,28 @@
     "relevance_score": 5
   },
   {
-    "id": "0e07bf751b6f",
-    "title": "Wells Fargo (WFC) Rolls Out Get Money Ready For Digital Money Coaching - simplywall.st",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxNdEtRalBJWm04Y1VMd3dZVlZRV01nWEV3YTVGNHROclVDcGNocE9zY09UR0cwc2c5TjRfSXZwWG9QSzNkLUVwaDlMa0pHeFM1OXNtTXJ1ODlRVFFmX0kyUUlrbFYtVFIxZE9zWkxFaTBUelJ5TFRMcTFUbG9UVHV2ekg1T2x3bllIXzdLYTAzamVqaHl6clFUYzY4WEFyODBZTk4yeUw5VEVZYk52NV9BdUhKTFN6RS12RkRzNGo1T0HSAcYBQVVfeXFMTlZXRlVtaGJfNHlGMWZNa2p5bDdWZGFKaFpyVnpENWk5bU5adjE4ZGNQUURtTWFQdGtPbFRqdUo3dWRteVFQOVB2RHdJb21PNGtYSDlRZklGaUdRLWN3OHVMZW45X2xRT0RuRHJ6Znk4ZVhZRjZOOFF2enFISGQyRVByaUFObnZlMWs1ZFk1SzNHU3hzWDNYcDNyaEF6dXZSMGRYUzA0ajVhZWo5RVhidWhqQVJBTzRIejRuSFg5RVc3QUxGRS13?oc=5",
-    "source": "Banking",
+    "id": "237afb512313",
+    "title": "JPMorgan Payments brings faster cross-border payments to more markets - Electronic Payments International",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxQN3lGekJwUnVrWnBBd3NkYktBYzJJRUlkeE5YVzNoRnBNd0xEVEp0Tk9XMnI0ZWRNXzhjeDJLY25oU0ZPd3BFQ3pKN2o1T3hDV3hhenBQa2lZN1Rrbzdqc3BCSllTZnQ4TkpkTUhqaEFJOGRtSmhvTEQxTWVzMDhLMFRvbWVaVEVDVmNmcnVibFFIV3R6T3RMOXltYlNpQTRzV05DVHdVempnRFQyblI3eEVadw?oc=5",
+    "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-09-23T04:45:25+00:00",
-    "summary": "Wells Fargo (WFC) Rolls Out Get Money Ready For Digital Money Coaching simplywall.st",
+    "published": "2026-09-23T07:47:35+00:00",
+    "summary": "JPMorgan Payments brings faster cross-border payments to more markets Electronic Payments International",
     "image_url": null,
     "tags": [],
     "industries": [
-      "industrial",
       "financial"
     ],
     "relevance_score": 5
   },
   {
     "id": "622de510b0db",
-    "title": "How digital IDs may battle fraud - paymentsdive.com",
+    "title": "How digital IDs may battle fraud - Payments Dive",
     "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE1zcXJZdDhrbms2TVZkZTFoRGF5SzRHRmFPOUtoNWM0R3YyZk1jcXR1eXlCbWNndE1CaE1PTVhlMlQzb092ZmEzN0NhYjFjSUV5TTY4ekRtWmlDdUZhdHV0MzRLQUdKRXpUVjViR25DQVRkeEdhWHdzSUdRXy01SjA?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
     "published": "2026-09-23T14:54:00+00:00",
-    "summary": "How digital IDs may battle fraud paymentsdive.com",
+    "summary": "How digital IDs may battle fraud Payments Dive",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -647,6 +537,21 @@
     "source_category": "industry_financial",
     "published": "2026-09-23T20:21:00+00:00",
     "summary": "Oracle Expands Digital Assets Data Nexus to Help Banks Operationalize Digital Money Morningstar",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "76e30b23526a",
+    "title": "IBM Digital Asset Haven advances tokenized payments and expands deployment flexibility with on-prem - IBM",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxOUldwcVBEZ0QybElORzVHM0VJS1ZSTFJuQVhZbkhjWTlZdTQ0ampINHRvVFdGLWZoMG1iVmE5eDRXdW54TEs1bmJHdmp2WS1hSjJfQ3YwV2NDaWJmcGsyVjFzUUJHaEc4dGJzMm13S0pCeEJaWFd2OU55TF91NGlVaEdONzF3b1A1MG5kT25PZVFZU0hJaTZrUzFhUUtQZFJhYUJhdzVIYXFFX0JfZjFsaXU4NWxha2piV2pNWG9seFB2ZGp3SzktWTdSMU9DamkxY1ZV?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-09-24T12:16:48+00:00",
+    "summary": "IBM Digital Asset Haven advances tokenized payments and expands deployment flexibility with on-prem IBM",
     "image_url": null,
     "tags": [],
     "industries": [
