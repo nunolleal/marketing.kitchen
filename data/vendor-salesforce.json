@@ -43,11 +43,11 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 32,
+    "relevance_score": 29,
     "also_covered_by": [
-      "Agentic Marketing",
-      "Telecom",
-      "Biotech"
+      "Adobe",
+      "Adobe Products",
+      "Telecom"
     ]
   },
   {
@@ -76,7 +76,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "d7be94123b41",
@@ -89,41 +89,6 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/image-2.png?w=5712",
     "tags": [],
     "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "f2b9b1116325",
-    "title": "Salesforce Commits $1 Billion Agentforce Investment to Switzerland - CX Today",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxPeUZHRTlmamxIbk1BTkljUEUtVWxzeUlpbG5HNzdLQ1R6dHY3d1FKNzhaSE5kYWJBazlOekY4b3hGellnTWZlcUFpUUFXT3lsNXFKRnVIVlg5RFVLWnlkdTFQT3hjQjljMWM5WlhLYWYyV1luSkxPRkl1aDIxNTNtZXhLOFQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-09-25T17:37:22+00:00",
-    "summary": "Salesforce Commits $1 Billion Agentforce Investment to Switzerland CX Today",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 11,
-    "also_covered_by": [
-      "Agentic Marketing"
-    ]
-  },
-  {
-    "id": "4480ff13fe06",
-    "title": "3 Must-Haves for Scaling Agentic AI in Health",
-    "url": "https://www.salesforce.com/blog/3-must-haves-for-scaling-agentic-ai-in-health/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-09-25T17:45:03+00:00",
-    "summary": "Learn how to build an Agentic Health Enterprise through trust, context, and action with insights from the Health Keynote at Dreamforce 2026. Healthcare professionals are doing more than ever. Simultaneously, fragmented systems and…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/image-3.png?w=1832",
-    "tags": [],
-    "industries": [
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 11
@@ -142,6 +107,22 @@
       "industrial"
     ],
     "relevance_score": 11
+  },
+  {
+    "id": "4480ff13fe06",
+    "title": "3 Must-Haves for Scaling Agentic AI in Health",
+    "url": "https://www.salesforce.com/blog/3-must-haves-for-scaling-agentic-ai-in-health/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-09-25T17:45:03+00:00",
+    "summary": "Learn how to build an Agentic Health Enterprise through trust, context, and action with insights from the Health Keynote at Dreamforce 2026. Healthcare professionals are doing more than ever. Simultaneously, fragmented systems and…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/image-3.png?w=1832",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 10
   },
   {
     "id": "926bd9437a9b",
@@ -189,19 +170,6 @@
     "relevance_score": 9
   },
   {
-    "id": "5df303d378ae",
-    "title": "Here’s The Actual Reason I Keep Buying Salesforce On Repeat - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxOOGE3X1lsRG1lblcyd3QwMzJaQ2FLSDlTRkhITGZmRjNmQTEydzJRbFk2eVpxajItQnZkTE5JODc3MElYTDhzTlhWRmlidUJWTXF2b2dFUVA5RmtpUllkUEFfRjRscjFPdVNRLV9WMFN6TGtoMVoyaVBWYnZoYUVzazQ2eGp2M3NrMDBzaXF4MGpfVzY4Z1V6Z1NYZW9iSnVCRnlHQw?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-09-25T15:15:00+00:00",
-    "summary": "Here’s The Actual Reason I Keep Buying Salesforce On Repeat 24/7 Wall St.",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 9
-  },
-  {
     "id": "787fca1663d2",
     "title": "What’s the Best Way To Follow Up With a Sales Lead?",
     "url": "https://www.salesforce.com/blog/small-business/how-to-follow-up-with-a-lead/",
@@ -234,52 +202,6 @@
     "relevance_score": 8
   },
   {
-    "id": "3ab60762d541",
-    "title": "Salesforce’s Fin Acquisition Expands Its CX Ambitions Beyond Agentforce | - Opus Research |",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPR0E3dHE5ZUk4Z1dVa2hhbzVpMlBoNmNjQkotWGg0UkNtNDJlVmpmVE1PYUJucjkxeHhmQnJ3d1BzTG1URGIxdGVfS28yT2R0ODNkTFhDQzdMSHM2V0drRzBUcUt6OGZDaHlRemcyRjd2UGV6YlMwZmgyVlFVUFJXNmgzejhkd3gzOUpQVzJkSTVvY0poTkZvdzNMRFdEQ1BxaEVpWFVIUHJmMVk?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-09-25T17:02:28+00:00",
-    "summary": "Salesforce’s Fin Acquisition Expands Its CX Ambitions Beyond Agentforce | Opus Research |",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "75bff561f479",
-    "title": "Salesforce CCaaS to be released globally, adds workforce management - techtarget.com",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOTG5Dc2RTaE0tWmNqanFOM0FKZ2xqZUt6WW9tcmNPaDZfS1U4SDFjUmY2d1pNWlJ1aHlLb0FqSnAxSkt5ZWJ5SHZOMk15WFo2VWNhb3dpZGlkLWhkd1g5ZTJySlRDcktGR3VVaFFRT3dVQ3pUTkVIUHFNVlRfQUxvZUY5azdYY2UxUE80bGFvOXZqcGo4ZDctaXNfVmNuaE5iMWNEZlhYd0g0N0JJbzdRV3NpRWhydFpkS2xDYdIBxAFBVV95cUxORnM1bTJ0aTJXR3pvcFBoMldRUkdQdjh6empMaWZtUkZSNGZPQVQyeGJUYXJDcmcydllhRWpYNHRIT29NNFluNDZYU0RORjFkWmE3dlJNbklPUUVMcWNKa216TC1VYUltOHVENGpkWDlvWW9xakIyamNLTldkVFM1VTRnRU1manB3NVJ2Umx0VXIzLXV3akxmbTdnM0JzVVVVSnJBNEJNLTRaM2N0NW1qVTAyTmVJRVpWZWE5UTl2TjlXdGEy?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-09-25T17:18:11+00:00",
-    "summary": "Salesforce CCaaS to be released globally, adds workforce management techtarget.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "78443695284f",
-    "title": "Attackers Could Abuse SafeBleed in Salesforce Agentforce to Steal Data - Security Boulevard",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbW01MGRHZzNvbE03OG91TWpRejZhWWlfb0xUQ3BGZ2pIcmRVSWtwRmJhR1J2alJWSmRXUU1NWE5EOElXU0xHNU43dGR0NnY5SFJJTUJvemxqcUx2MEU3MGZqZ05XeW9acVZTMG9hcC1GRHRWdkJkeW44bVF2MTlUOURDOG5neFFncE1lV3VhZnUwMmhyVlQzY0swMXhSdDQ2dzNLMnJnTU1QNmhTQ1E?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-09-25T18:26:19+00:00",
-    "summary": "Attackers Could Abuse SafeBleed in Salesforce Agentforce to Steal Data Security Boulevard",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "dd28bc619f63",
     "title": "How Can AI in Slack Help Your Startup? Let Us Count The Ways",
     "url": "https://www.salesforce.com/blog/small-business/ai-in-slack-for-startups/",
@@ -306,6 +228,21 @@
     "tags": [],
     "industries": [
       "tech"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "78443695284f",
+    "title": "Attackers Could Abuse SafeBleed in Salesforce Agentforce to Steal Data - Security Boulevard",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNbW01MGRHZzNvbE03OG91TWpRejZhWWlfb0xUQ3BGZ2pIcmRVSWtwRmJhR1J2alJWSmRXUU1NWE5EOElXU0xHNU43dGR0NnY5SFJJTUJvemxqcUx2MEU3MGZqZ05XeW9acVZTMG9hcC1GRHRWdkJkeW44bVF2MTlUOURDOG5neFFncE1lV3VhZnUwMmhyVlQzY0swMXhSdDQ2dzNLMnJnTU1QNmhTQ1E?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-09-25T18:26:19+00:00",
+    "summary": "Attackers Could Abuse SafeBleed in Salesforce Agentforce to Steal Data Security Boulevard",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
     ],
     "relevance_score": 7
   }
