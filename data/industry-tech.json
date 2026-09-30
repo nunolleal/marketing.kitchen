@@ -13,7 +13,7 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 61
+    "relevance_score": 58
   },
   {
     "id": "e39d13fb96c0",
@@ -22,14 +22,14 @@
     "source": "Marketing Dive",
     "source_category": "marketing",
     "published": "2026-09-29T17:00:00+00:00",
-    "summary": "Chief Growth Officer Mary Beech details how work with brand consultancy Redscout turned consumer insights into campaigns and a way of communicating.",
+    "summary": "Chief Growth Officer Mary Beech details how work with brand consultancy Redscout turned consumer insights into campaigns and a communication style.",
     "image_url": "https://imgproxy.divecdn.com/qO-CmzOcvfegkB5_PdGiYec8n6qWteRsQKmvcTZN7Zc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8wMi10aG9ybmUuanBn.webp",
     "tags": [],
     "industries": [
       "tech",
       "consumer"
     ],
-    "relevance_score": 58
+    "relevance_score": 55
   },
   {
     "id": "227d6b980f38",
@@ -47,65 +47,7 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 56
-  },
-  {
-    "id": "4a8100438997",
-    "title": "How to build a visual SEO strategy for AI search",
-    "url": "https://martech.org/how-to-build-a-visual-seo-strategy-for-ai-search/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-09-29T12:31:00+00:00",
-    "summary": "Move beyond optimizing individual images by connecting visual assets to authoritative entity data and keeping those signals consistent. The post How to build a visual SEO strategy for AI search appeared first on MarTech .",
-    "image_url": "https://martech.org/searchengineland.com/wp-content/seloads/2026/09/two-search-journeys.jpeg",
-    "tags": [
-      "Marketing artificial intelligence (AI)",
-      "Marketing management",
-      "Search marketing"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
     "relevance_score": 53
-  },
-  {
-    "id": "58daa130b3f2",
-    "title": "Braze expands AI from content creation to campaign operations",
-    "url": "https://martech.org/braze-expands-ai-from-content-creation-to-campaign-operations/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-09-29T13:42:52+00:00",
-    "summary": "New tools give marketers easier access to AI decisioning, automate campaign checks, and connect Braze with external LLMs such as Claude. The post Braze expands AI from content creation to campaign operations appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/09/AI-decisioning-800x450.png",
-    "tags": [
-      "Marketing artificial intelligence (AI)",
-      "Marketing technology"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 53
-  },
-  {
-    "id": "e83b294918f8",
-    "title": "Meta Eyes Enterprise Spend With Muse for Small Business Launch",
-    "url": "https://www.adweek.com/social-marketing/meta-muse-for-small-business-enterprise/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-09-29T14:29:33+00:00",
-    "summary": "The new offering aims to put Meta’s new agent to work for the roughly 200 million brands that operate on its platform.",
-    "image_url": null,
-    "tags": [
-      "Artificial Intelligence",
-      "Premium"
-    ],
-    "industries": [
-      "tech",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 52
   },
   {
     "id": "e4dc7b1ef903",
@@ -125,6 +67,64 @@
     "relevance_score": 50
   },
   {
+    "id": "4a8100438997",
+    "title": "How to build a visual SEO strategy for AI search",
+    "url": "https://martech.org/how-to-build-a-visual-seo-strategy-for-ai-search/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-09-29T12:31:00+00:00",
+    "summary": "Move beyond optimizing individual images by connecting visual assets to authoritative entity data and keeping those signals consistent. The post How to build a visual SEO strategy for AI search appeared first on MarTech .",
+    "image_url": "https://martech.org/searchengineland.com/wp-content/seloads/2026/09/two-search-journeys.jpeg",
+    "tags": [
+      "Marketing artificial intelligence (AI)",
+      "Marketing management",
+      "Search marketing"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 50
+  },
+  {
+    "id": "58daa130b3f2",
+    "title": "Braze expands AI from content creation to campaign operations",
+    "url": "https://martech.org/braze-expands-ai-from-content-creation-to-campaign-operations/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-09-29T13:42:52+00:00",
+    "summary": "New tools give marketers easier access to AI decisioning, automate campaign checks, and connect Braze with external LLMs such as Claude. The post Braze expands AI from content creation to campaign operations appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/09/AI-decisioning-800x450.png",
+    "tags": [
+      "Marketing artificial intelligence (AI)",
+      "Marketing technology"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 50
+  },
+  {
+    "id": "e83b294918f8",
+    "title": "Meta Eyes Enterprise Spend With Muse for Small Business Launch",
+    "url": "https://www.adweek.com/social-marketing/meta-muse-for-small-business-enterprise/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-09-29T14:29:33+00:00",
+    "summary": "The new offering aims to put Meta’s new agent to work for the roughly 200 million brands that operate on its platform.",
+    "image_url": null,
+    "tags": [
+      "Artificial Intelligence",
+      "Premium"
+    ],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 49
+  },
+  {
     "id": "2d23a07e8c44",
     "title": "Publicis, Microsoft Partner On Agentic Marketing 04/08/2026 - MediaPost",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxONE9jWnZvdEZxbk5sUW5VN3hHRi1KX2hLRTFsdlBBeU9LanZmNHpRX3Rzc3R4M1pZMmNUS0l1c3dNOEFrRVB1cWRmS3ozOHpzOXUxVlkxTWMydlRBMEgxQUZVcnJFY3lhQldEcDhfcUJyMTdnQ0llaWVXM3U0OGRtSHdsRUZuMkJOWEtfM1BxeDU5YW1XbGJiYk0yWXc2N3FsMlliajhvQ0ZqZw?oc=5",
@@ -137,28 +137,6 @@
     "industries": [
       "media",
       "tech",
-      "industrial"
-    ],
-    "relevance_score": 47
-  },
-  {
-    "id": "64f7ac922beb",
-    "title": "From Heritage to Happy Hour: How Campari Keeps Iconic Brands Moving With Culture",
-    "url": "https://www.adweek.com/brand-marketing/from-heritage-to-happy-hour-how-campari-keeps-iconic-brands-moving-with-culture/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-09-29T14:51:51+00:00",
-    "summary": "Marketing lead Allison Varone on the forces shaping the next era of lifestyle brand building.",
-    "image_url": null,
-    "tags": [
-      "Adweek Podcasts",
-      "Alcohol Industry News",
-      "Generational Marketing",
-      "Legacy Brands"
-    ],
-    "industries": [
-      "tech",
-      "consumer",
       "industrial"
     ],
     "relevance_score": 47
@@ -201,23 +179,6 @@
     "relevance_score": 46
   },
   {
-    "id": "5b6b6898fdfe",
-    "title": "Shoppers will spend more and buy less this holiday season",
-    "url": "https://martech.org/shoppers-will-spend-more-and-buy-less-this-holiday-season/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-09-29T12:49:00+00:00",
-    "summary": "Holiday sales could grow even as consumers trade down, stretch purchases across the season, and use discounts to stock up on essentials. The post Shoppers will spend more and buy less this holiday season appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2025/11/Holiday-christmas-ecommerce-sales-800x452.png",
-    "tags": [
-      "Ecommerce"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 46
-  },
-  {
     "id": "3c86c89a79bc",
     "title": "6 sales alignment plays from ABM leaders at Snowflake, Datadog, and Unisys",
     "url": "https://martech.org/6-sales-alignment-plays-from-abm-leaders-at-snowflake-datadog-and-unisys/",
@@ -231,29 +192,6 @@
     ],
     "industries": [
       "tech"
-    ],
-    "relevance_score": 45
-  },
-  {
-    "id": "c13874c26276",
-    "title": "Largest Podcast Advertiser Is Now Focusing On The International Market",
-    "url": "https://www.forbes.com/sites/frankracioppi/2026/09/29/largest-podcast-advertiser-now-focusing-on-international-market/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-09-29T18:59:43+00:00",
-    "summary": "BetterHelp, the industry's largest advertiser, known for its substantial spending and effective host-read campaigns, has now appointed Media Bodies, a global creator-led agency.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ab793f47ec710bd71a6f8a9/0x0.jpg",
-    "tags": [
-      "Media",
-      "/media",
-      "Business",
-      "/business",
-      "Media"
-    ],
-    "industries": [
-      "media",
-      "tech",
-      "industrial"
     ],
     "relevance_score": 45
   },
@@ -275,6 +213,45 @@
     "relevance_score": 44
   },
   {
+    "id": "64f7ac922beb",
+    "title": "From Heritage to Happy Hour: How Campari Keeps Iconic Brands Moving With Culture",
+    "url": "https://www.adweek.com/brand-marketing/from-heritage-to-happy-hour-how-campari-keeps-iconic-brands-moving-with-culture/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-09-29T14:51:51+00:00",
+    "summary": "Marketing lead Allison Varone on the forces shaping the next era of lifestyle brand building.",
+    "image_url": null,
+    "tags": [
+      "Adweek Podcasts",
+      "Alcohol Industry News",
+      "Generational Marketing",
+      "Legacy Brands"
+    ],
+    "industries": [
+      "tech",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 44
+  },
+  {
+    "id": "5b6b6898fdfe",
+    "title": "Shoppers will spend more and buy less this holiday season",
+    "url": "https://martech.org/shoppers-will-spend-more-and-buy-less-this-holiday-season/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-09-29T12:49:00+00:00",
+    "summary": "Holiday sales could grow even as consumers trade down, stretch purchases across the season, and use discounts to stock up on essentials. The post Shoppers will spend more and buy less this holiday season appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2025/11/Holiday-christmas-ecommerce-sales-800x452.png",
+    "tags": [
+      "Ecommerce"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 43
+  },
+  {
     "id": "c7c9cb9bb9d7",
     "title": "Optimizing content for generative engine search models",
     "url": "https://martech.org/optimizing-content-for-generative-engine-search-models/",
@@ -292,79 +269,6 @@
       "industrial"
     ],
     "relevance_score": 40
-  },
-  {
-    "id": "ef3967309848",
-    "title": "Wayfair ups investment in sports for values-focused brand platform",
-    "url": "https://www.retaildive.com/news/wayfair-ups-investment-in-sports-for-values-focused-brand-platform/831615/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-09-29T15:55:00+00:00",
-    "summary": "The retailer is amplifying its latest effort by increasing advertising investment across the networks airing football games to five times its previous spend.",
-    "image_url": "https://imgproxy.divecdn.com/eKvNR2fs0AehOQiyhUV5wC1btsJ_VsdSjViCfp8DO24/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbWctNjdlYWQyMDUtZjQwYS00OWQxLWE1MzgtYzM4OTYxNDk2OTQ0LnBuZw==.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "consumer",
-      "financial"
-    ],
-    "relevance_score": 39
-  },
-  {
-    "id": "e5685809d2f2",
-    "title": "Why Instacart is focused on reducing item markups to grow its delivery platform",
-    "url": "https://digiday.com/marketing/why-instacart-is-focused-on-reducing-item-markups-to-grow-its-delivery-platform/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-09-25T04:01:00+00:00",
-    "summary": "Instacart CEO Chris Rogers says lower online markups, loyalty perks and cheaper delivery options are crucial to driving more online grocery growth in the coming years.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/04/store-shelf-digiday.jpg",
-    "tags": [
-      "Marketing",
-      "syndicated"
-    ],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 38
-  },
-  {
-    "id": "00b3c78e76bb",
-    "title": "Media Buying Briefing: Stagwell’s chief AI officer explains why Palantir differentiates its data platform from competitors",
-    "url": "https://digiday.com/media-buying/media-buying-briefing-stagwells-chief-ai-officer-explains-why-palantir-differentiates-its-data-platform-from-competitors/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-09-28T04:01:00+00:00",
-    "summary": "John Kahan explains how Palantir lets clients control their own data destiny, and what differential privacy means as a differentiator.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2024/05/computer-data-digiday.png",
-    "tags": [
-      "Media Buying",
-      "Digiday+"
-    ],
-    "industries": [
-      "media",
-      "tech"
-    ],
-    "relevance_score": 38
-  },
-  {
-    "id": "6e68fa6f4975",
-    "title": "Upfluence Turns Its Creator Marketing Platform Fully Agentic, Betting AI Can Run Campaigns End to End - Net Influencer",
-    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQlU5dEVyZWpqbjNaRmgwS3VIMUR5d1V4QVFEc0JuYzJmcHJqM0tGZERUV2RDOUluTTdCS0dEay1KWDZ4QlFIWW05Z0p3NmxMcl9UTmtZOWdjSmVxSHZqQV92SFJmdXFzNmhMLVRzalVOSmVzSGM2QlZNNmdpX2xmZWFiWmFGWTBFc1FDWU8zbVU4MXRsckhTcHAtLUxkZnFCUmFTY3Uta25SbDRHdkZUeTdocFI0Sk9GRTNiQmZoZVJlMlFlMWd5VDN6Zw?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-09-29T11:14:12+00:00",
-    "summary": "Upfluence Turns Its Creator Marketing Platform Fully Agentic, Betting AI Can Run Campaigns End to End Net Influencer",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 37
   },
   {
     "id": "b2a5bdd2eb36",
@@ -405,6 +309,24 @@
     "relevance_score": 36
   },
   {
+    "id": "ef3967309848",
+    "title": "Wayfair ups investment in sports for values-focused brand platform",
+    "url": "https://www.retaildive.com/news/wayfair-ups-investment-in-sports-for-values-focused-brand-platform/831615/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-09-29T15:55:00+00:00",
+    "summary": "The retailer is amplifying its latest effort by increasing advertising investment across the networks airing football games to five times its previous spend.",
+    "image_url": "https://imgproxy.divecdn.com/eKvNR2fs0AehOQiyhUV5wC1btsJ_VsdSjViCfp8DO24/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9pbWctNjdlYWQyMDUtZjQwYS00OWQxLWE1MzgtYzM4OTYxNDk2OTQ0LnBuZw==.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "consumer",
+      "financial"
+    ],
+    "relevance_score": 36
+  },
+  {
     "id": "348b6aecb9ce",
     "title": "Marketing Cloud and Data 360: How They Work - Salesforce",
     "url": "https://news.google.com/rss/articles/CBMickFVX3lxTE14TXZkVHlXSzVTVmtUNUVxV0hMc2dyaFdtektGUDZJMDF4Unhobm1HWTVCTUVoa0FVdEt1bjhiaU56LWNoaTBQN3JnNjktVUhpbHR1N2FsZEJaX0QtUkVvZWY2OGN6Rjl5T1RRWGtsMWdTdw?oc=5",
@@ -415,6 +337,25 @@
     "image_url": null,
     "tags": [],
     "industries": [
+      "tech"
+    ],
+    "relevance_score": 35
+  },
+  {
+    "id": "00b3c78e76bb",
+    "title": "Media Buying Briefing: Stagwell’s chief AI officer explains why Palantir differentiates its data platform from competitors",
+    "url": "https://digiday.com/media-buying/media-buying-briefing-stagwells-chief-ai-officer-explains-why-palantir-differentiates-its-data-platform-from-competitors/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-09-28T04:01:00+00:00",
+    "summary": "John Kahan explains how Palantir lets clients control their own data destiny, and what differential privacy means as a differentiator.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2024/05/computer-data-digiday.png",
+    "tags": [
+      "Media Buying",
+      "Digiday+"
+    ],
+    "industries": [
+      "media",
       "tech"
     ],
     "relevance_score": 35
@@ -435,43 +376,55 @@
     "relevance_score": 35
   },
   {
-    "id": "85099471ec6a",
-    "title": "Future of Marketing Briefing: Imagining the ad business hiding inside Meta’s Muse",
-    "url": "https://digiday.com/marketing/future-of-marketing-briefing-imagining-the-ad-business-hiding-inside-metas-muse/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-09-25T04:01:00+00:00",
-    "summary": "Meta's Muse is ad-free for now. Don’t expect that to last.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2024/02/meta-ai-digiday.jpeg",
-    "tags": [
-      "Marketing",
-      "Digiday+"
-    ],
+    "id": "6e68fa6f4975",
+    "title": "Upfluence Turns Its Creator Marketing Platform Fully Agentic, Betting AI Can Run Campaigns End to End - Net Influencer",
+    "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxQQlU5dEVyZWpqbjNaRmgwS3VIMUR5d1V4QVFEc0JuYzJmcHJqM0tGZERUV2RDOUluTTdCS0dEay1KWDZ4QlFIWW05Z0p3NmxMcl9UTmtZOWdjSmVxSHZqQV92SFJmdXFzNmhMLVRzalVOSmVzSGM2QlZNNmdpX2xmZWFiWmFGWTBFc1FDWU8zbVU4MXRsckhTcHAtLUxkZnFCUmFTY3Uta25SbDRHdkZUeTdocFI0Sk9GRTNiQmZoZVJlMlFlMWd5VDN6Zw?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-09-29T11:14:12+00:00",
+    "summary": "Upfluence Turns Its Creator Marketing Platform Fully Agentic, Betting AI Can Run Campaigns End to End Net Influencer",
+    "image_url": null,
+    "tags": [],
     "industries": [
-      "tech"
+      "tech",
+      "industrial"
     ],
     "relevance_score": 34
   },
   {
-    "id": "d3bd6eb3cfd4",
-    "title": "‘Ted Lasso’ Season 4, Episode 9 Release Time And Preview: Morale Is Low As ‘Mae Rides The Bus’ With The Lady Greyhounds",
-    "url": "https://www.forbes.com/sites/erikkain/2026/09/29/ted-lasso-season-4-episode-9-release-time-preview/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-09-29T22:49:11+00:00",
-    "summary": "Here’s when Ted Lasso Season 4, Episode 9, “Mae Rides the Bus,” comes out on Apple TV, plus release times, a preview and the remaining Season 4 schedule.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6a8de444a964795a0c01e9fe/0x0.jpg?width=960",
+    "id": "9982f65766ac",
+    "title": "Marketing Cloud: Real-Time Features - Salesforce",
+    "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE1YOTJQMjdwN3B4YjV2R0ZveU45ZHFEbWdfd1gzenE2dGx2LWt5dGdWNDR4M3YxYTl6eXhaaU1Fd2Nmd0hraDljTDRTeFo5Nzkycm43ZTl2b2h4MkFTbTR4T2ZDQ0k1MHotRG1ZX2RGZWFycnJq?oc=5",
+    "source": "Salesforce Marketing",
+    "source_category": "salesforce",
+    "published": "2026-09-26T04:32:16+00:00",
+    "summary": "Marketing Cloud: Real-Time Features Salesforce",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 29
+  },
+  {
+    "id": "7f6f73dc3be6",
+    "title": "LG Promo Codes and Coupons for October 2026",
+    "url": "https://www.wired.com/story/lg-promo-code/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-09-30T05:00:00+00:00",
+    "summary": "Save 20% with an LG promo code today, plus up to $1,000 off appliances, 40% off bestselling TVs and monitors.",
+    "image_url": "https://media.wired.com/photos/67b63b985a505b018b67ed90/master/pass/WIRED-Coupons-R2_17.png",
     "tags": [
-      "Gaming",
-      "/gaming",
-      "Innovation",
-      "/innovation",
-      "Gaming"
+      "Gear",
+      "coupons",
+      "Shopping",
+      "Coupons"
     ],
     "industries": [
       "tech"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
     "id": "7ee92a4ebc3b",
@@ -491,27 +444,28 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
-    "id": "d6b003b6ebfa",
-    "title": "Sam Altman says OpenAI won’t go public until its models are safe",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
-    "source": "The Verge",
+    "id": "a430c942bb4c",
+    "title": "7 Best Smartwatch Models: Apple, Google, Garmin (2026)",
+    "url": "https://www.wired.com/story/best-smartwatch/",
+    "source": "Wired",
     "source_category": "ai",
-    "published": "2026-09-30T00:19:13+00:00",
-    "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "published": "2026-09-29T10:39:00+00:00",
+    "summary": "These WIRED-tested wearables reduce your reliance on a phone while keeping you connected.",
+    "image_url": "https://media.wired.com/photos/6abac0e3db7cae3a76703ee7/master/pass/The-Best-Smartwatch-Isn%E2%80%99t-the-Smartest.jpg",
     "tags": [
-      "AI",
-      "OpenAI",
-      "Report"
+      "Gear",
+      "Gear / Buying Guides",
+      "Gear / Products / Watches",
+      "Gear / Products / Lifestyle",
+      "Gear / Products / Health and Fitness"
     ],
     "industries": [
-      "tech",
-      "industrial"
+      "tech"
     ],
-    "relevance_score": 17
+    "relevance_score": 15
   },
   {
     "id": "3d7103a002f7",
@@ -533,7 +487,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "5cb63c2d2afe",
@@ -553,7 +507,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 16,
+    "relevance_score": 15,
     "also_covered_by": [
       "Wired",
       "TechCrunch AI"
@@ -579,7 +533,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "2688204fcb28",
@@ -600,7 +554,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "f7df048676ed",
@@ -622,7 +576,27 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
+  },
+  {
+    "id": "d6b003b6ebfa",
+    "title": "Sam Altman says OpenAI won’t go public until its models are safe",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1002505/sam-altman-openai-ipo-devday-ai-safety",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-09-30T00:19:13+00:00",
+    "summary": "For months, people have wondered when OpenAI will go public. CEO Sam Altman says it won't happen until the company can make better promises about model safety, with no firm timeline in sight. \"We intend to continue with AI progress … but as the models have had this surge...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/04/STK201_SAM_ALTMAN_CVIRGINIA2D_717b98.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "AI",
+      "OpenAI",
+      "Report"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
   },
   {
     "id": "04888ebfb5d3",
@@ -640,28 +614,7 @@
       "media",
       "tech"
     ],
-    "relevance_score": 15
-  },
-  {
-    "id": "a430c942bb4c",
-    "title": "7 Best Smartwatch Models: Apple, Google, Garmin (2026)",
-    "url": "https://www.wired.com/story/best-smartwatch/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-09-29T10:39:00+00:00",
-    "summary": "These WIRED-tested wearables reduce your reliance on a phone while keeping you connected.",
-    "image_url": "https://media.wired.com/photos/6abac0e3db7cae3a76703ee7/master/pass/The-Best-Smartwatch-Isn%E2%80%99t-the-Smartest.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Buying Guides",
-      "Gear / Products / Watches",
-      "Gear / Products / Lifestyle",
-      "Gear / Products / Health and Fitness"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "32a9052e3b73",
@@ -677,7 +630,7 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "132ab5ab67fa",
@@ -697,7 +650,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "4715e6b9f27d",
@@ -718,211 +671,6 @@
     "industries": [
       "tech",
       "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "352a298aea68",
-    "title": "OpenAI’s latest features take direct aim at the app store model",
-    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-09-29T20:15:47+00:00",
-    "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Apps",
-      "TC",
-      "OpenAI"
-    ],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "2f703b5cb62a",
-    "title": "Microsoft tops Forbes' World's Best Employers list; Nvidia, Adobe make top 10 - The Business Journals",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSS1rbEJoY1hkUkJrdjYwU1R5OEplM25wemNsWHNBVnhqbW1Ya0dmdHlsQUgzRFRlbzJkSTIyRW4yWlNzOHgwYjI1cU8yeU90TnNZQm9MRmJpSm51QVFMeDVqUUJoYU1vNUZvSlBrcFNOc1NFdDcwaHFUc3RPeDZjc09fZjFnYzMxWHlsYmhXNkY5NF9oZHIybjBFX0w1YWc?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-09-29T21:31:00+00:00",
-    "summary": "Microsoft tops Forbes' World's Best Employers list; Nvidia, Adobe make top 10 The Business Journals",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "3c67318aa853",
-    "title": "Royal Navy Launches A Heavy U.S. Torpedo From An Underwater Drone",
-    "url": "https://www.forbes.com/sites/zitaballingerfletcher/2026/09/29/royal-navy-launches-a-heavy-us-torpedo-from-an-underwater-drone/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-09-29T21:31:12+00:00",
-    "summary": "A small British undersea drone fired the same type of heavy torpedo that the U.S. used to sink an Iranian warship in a major development for technology and naval tactics.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6abc257155a8b59a5882e5ec/0x0.jpg",
-    "tags": [
-      "Aerospace & Defense",
-      "/aerospace-defense",
-      "Business",
-      "/business",
-      "Aerospace & Defense"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "21aea061ef98",
-    "title": "Elon Musk’s AI-powered Grokipedia is updating again",
-    "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-09-29T21:49:09+00:00",
-    "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "AI",
-      "Elon Musk",
-      "News",
-      "Tech"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "61870e034a13",
-    "title": "Range Rover Sport Electric: Price, Specs, Availability",
-    "url": "https://www.wired.com/story/range-rover-sport-electric-arrives-with-more-for-less/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-09-29T23:01:00+00:00",
-    "summary": "By sharing the same platform, the Sport gets the same specs as the classier Range Rover Electric, but with added torque at a smaller outlay.",
-    "image_url": "https://media.wired.com/photos/6aba6196add005d32caeaf5b/master/pass/Range%20Rover%20Sport%20Electric%2027MY%20Front%20300927.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "SUVs",
-      "Sports cars",
-      "EVs and Hybrids"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "e20d5fb56776",
-    "title": "Lindsay Clancy’s Lawyer Now Questions ‘Where’s The Evidence’ She Killed Her Kids—What Happens Next?",
-    "url": "https://www.forbes.com/sites/forbestv/2026/09/29/lindsay-clancys-lawyer-now-questions-wheres-the-evidence-she-killed-her-kids-what-happens-next/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-09-29T23:01:11+00:00",
-    "summary": "Lindsay Clancy’s attorney, Kevin Reddington, is now claiming there isn’t enough evidence to prove the former labor and delivery nurse killed her three children.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6abc432b21cb010bb5acfe8f/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "standard"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "0e10eadc413c",
-    "title": "Best Apple Watch: Series 12, Ultra 4, and SE 3 (2026)",
-    "url": "https://www.wired.com/story/best-apple-watch/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-09-28T10:36:00+00:00",
-    "summary": "From the latest Ultra to last year’s SE, these are the Apple Watches worth considering.",
-    "image_url": "https://media.wired.com/photos/6ab84ba8c1592ce41c5b6216/master/pass/GettyImages-2293861871.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Buying Guides",
-      "Gear / Products / Health and Fitness",
-      "Gear / Products / Watches",
-      "Apple Watch"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "bb5d8ce20bbb",
-    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
-    "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-09-29T12:45:05+00:00",
-    "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Security",
-      "ai safety",
-      "cybersecurity",
-      "OpenAI"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "055806fbfe75",
-    "title": "Xbox’s Mythic Achievements are here and they’re just like PlayStation Platinum trophies",
-    "url": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-09-29T16:17:01+00:00",
-    "summary": "Microsoft is officially announcing its new Xbox Mythic Achievements today, and they're already available for Xbox Insiders to test. Mythic Achievements work a lot like Sony's PlayStation Platinum trophies and are unlocked once you've earned every original achievement for a...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/1.-Toast-Gears-E-Day-1e689e713ada7e9b3d37.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
-    "tags": [
-      "Gaming",
-      "Microsoft",
-      "News",
-      "Tech",
-      "Xbox"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "0e5c51300664",
-    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
-    "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-09-29T17:15:00+00:00",
-    "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
-    "tags": [
-      "AI",
-      "codex",
-      "OpenAI",
-      "OpenAI DevDay"
-    ],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 14
   },
@@ -947,18 +695,97 @@
     ],
     "relevance_score": 14,
     "also_covered_by": [
-      "MIT Technology Review"
+      "MIT Technology Review",
+      "Wall Street"
     ]
   },
   {
-    "id": "f97fa3b09d0b",
-    "title": "MIT Engineers Design Swimming Robot Powered By Living Muscle Cells",
-    "url": "https://www.forbes.com/sites/conormurray/2026/09/29/mit-engineers-design-swimming-robot-powered-by-living-muscle-cells/",
+    "id": "352a298aea68",
+    "title": "OpenAI’s latest features take direct aim at the app store model",
+    "url": "https://techcrunch.com/2026/09/29/openais-latest-features-take-direct-aim-at-the-app-store-model/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-09-29T20:15:47+00:00",
+    "summary": "OpenAI is building out the pieces of an alternative to the traditional app store model, turning ChatGPT into a place where software can be discovered and used by people and AI agents alike.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Apps",
+      "TC",
+      "OpenAI"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "2f703b5cb62a",
+    "title": "Microsoft tops Forbes' World's Best Employers list; Nvidia, Adobe make top 10 - bizjournals.com",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNSS1rbEJoY1hkUkJrdjYwU1R5OEplM25wemNsWHNBVnhqbW1Ya0dmdHlsQUgzRFRlbzJkSTIyRW4yWlNzOHgwYjI1cU8yeU90TnNZQm9MRmJpSm51QVFMeDVqUUJoYU1vNUZvSlBrcFNOc1NFdDcwaHFUc3RPeDZjc09fZjFnYzMxWHlsYmhXNkY5NF9oZHIybjBFX0w1YWc?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-09-29T21:31:00+00:00",
+    "summary": "Microsoft tops Forbes' World's Best Employers list; Nvidia, Adobe make top 10 bizjournals.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "3c67318aa853",
+    "title": "Royal Navy Launches A Heavy U.S. Torpedo From An Underwater Drone",
+    "url": "https://www.forbes.com/sites/zitaballingerfletcher/2026/09/29/royal-navy-launches-a-heavy-us-torpedo-from-an-underwater-drone/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-09-29T19:45:48+00:00",
-    "summary": "Massachusetts Institute of Technology engineers developed a robot powered by living muscle cells that move in response to flashes of light.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6abc1505058546f96d0d1e0c/0x0.jpg?width=960",
+    "published": "2026-09-29T21:31:12+00:00",
+    "summary": "A small British undersea drone fired the same type of heavy torpedo that the U.S. used to sink an Iranian warship in a major development for technology and naval tactics.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6abc257155a8b59a5882e5ec/0x0.jpg",
+    "tags": [
+      "Aerospace & Defense",
+      "/aerospace-defense",
+      "Business",
+      "/business",
+      "Aerospace & Defense"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "21aea061ef98",
+    "title": "Elon Musk’s AI-powered Grokipedia is updating again",
+    "url": "https://www.theverge.com/tech/1002448/elon-musk-grokipedia-ai-updating-again",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-09-29T21:49:09+00:00",
+    "summary": "Grokipedia, the AI-powered online encyclopedia from SpaceXAI, appears to be updating articles once again after a months-long pause. In August, Lawfare reported that articles on Grokipedia hadn't reviewed edits since April, but the platform's live updates site is now showing...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/04/STK171_VRG_Illo_16_Normand_ElonMusk_16.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "AI",
+      "Elon Musk",
+      "News",
+      "Tech"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "cbaae1e5cd35",
+    "title": "Trump Signs Executive Order Renaming AI To ‘Super Intelligence’—Here’s What It Changes",
+    "url": "https://www.forbes.com/sites/siladityaray/2026/09/30/trump-signs-order-renaming-ai-to-super-intelligence--heres-what-it-says/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-09-30T04:22:31+00:00",
+    "summary": "Dismissing growing concerns about AI safety, Trump has argued that “Artificial Intelligence” was a \"very ineloquent\" name for the technology and makes it sound \"fake.\"",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6abc8dcee88201b813caa344/0x0.jpg?width=960",
     "tags": [
       "Business",
       "/business",
@@ -967,25 +794,67 @@
       "Breaking"
     ],
     "industries": [
-      "tech"
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14,
+    "also_covered_by": [
+      "The Verge"
+    ]
+  },
+  {
+    "id": "316494e91b8e",
+    "title": "OBIO marks $1bn funding milestone for Canadian health tech ventures - Pharmaceutical Technology",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxQRW5yMTN2X1ZTbU8ybU9iNWlVNEF5T1pXNVJOOGZCS0dnT3drOXdBbEp4Q1N2RU91V3RnbG9LY0hSUm5EdjRTNEM5ODVFeVAzUWY0UHVsdVNvRFBTWWE0V0g4Y1diTzZNOUJjMkdpTFVXX2Exczg0eXdFWk9VSnhSbGJjMnEtbmZwOE9rM2x4aw?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-30T09:54:53+00:00",
+    "summary": "OBIO marks $1bn funding milestone for Canadian health tech ventures Pharmaceutical Technology",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
     ],
     "relevance_score": 14
   },
   {
-    "id": "4770a81fbc33",
-    "title": "19 Best Gifts for Plant Lovers and Gardeners (2026)",
-    "url": "https://www.wired.com/story/gifts-for-plant-lovers-and-gardeners-2026/",
-    "source": "Wired",
+    "id": "bb5d8ce20bbb",
+    "title": "OpenAI apologizes to Australia after its AI agents breached government sites",
+    "url": "https://techcrunch.com/2026/09/29/openai-apologizes-to-australia-after-its-ai-agents-breached-government-sites/",
+    "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-09-29T09:15:00+00:00",
-    "summary": "From smart apps and planters to unique tools, these gifts will turn even a black thumb into a next-level plant parent.",
-    "image_url": "https://media.wired.com/photos/6abade905e8dfa64a56abf2d/master/pass/The-19-Best-Gifts-for-Plant-Lovers-and-Gardeners.jpg",
+    "published": "2026-09-29T12:45:05+00:00",
+    "summary": "The company also detailed how some of those breaches had happened, and outlined additional measures it is taking to assess the impact of the events.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/openai-getty.jpg?resize=1200,800",
     "tags": [
-      "Gear",
-      "Gear / Buying Guides",
-      "Gear / Products / Home",
-      "Shopping",
-      "buying guides"
+      "AI",
+      "Security",
+      "ai safety",
+      "cybersecurity",
+      "OpenAI"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "055806fbfe75",
+    "title": "Xbox’s Mythic Achievements are here and they’re just like PlayStation Platinum trophies",
+    "url": "https://www.theverge.com/news/1002099/xbox-mythic-achievement-announcement-feature",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-09-29T16:17:01+00:00",
+    "summary": "Microsoft is officially announcing its new Xbox Mythic Achievements today, and they're already available for Xbox Insiders to test. Mythic Achievements work a lot like Sony's PlayStation Platinum trophies and are unlocked once you've earned every original achievement for a...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/09/1.-Toast-Gears-E-Day-1e689e713ada7e9b3d37.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "tags": [
+      "Gaming",
+      "Microsoft",
+      "News",
+      "Tech",
+      "Xbox"
     ],
     "industries": [
       "tech"
@@ -993,34 +862,40 @@
     "relevance_score": 13
   },
   {
-    "id": "38ea4a402aee",
-    "title": "Best Buy to launch on TikTok Shop",
-    "url": "https://www.retaildive.com/news/best-buy-tiktok-shop-launch/831527/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-09-29T15:04:00+00:00",
-    "summary": "Customers will be able to purchase products directly through the social commerce platform, with orders fulfilled by the retailer.",
-    "image_url": "https://imgproxy.divecdn.com/yUucHuGCiMg1zM9Zwk7T0eO6kB5WB7ffh0y3QqoNNKY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CQlktVGlrVG9rLVNob3AtMS0xLXRoZWdlbS1ibG9nLWRlZmF1bHQuanBn.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "c20493adac5f",
-    "title": "AI-powered app maker Wabi pivots to a messaging experience",
-    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "id": "0e5c51300664",
+    "title": "OpenAI gives Codex reusable cloud environments that work across devices",
+    "url": "https://techcrunch.com/2026/09/29/openai-gives-codex-reusable-cloud-environments-that-work-across-devices/",
     "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-09-29T17:20:00+00:00",
-    "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/wabi-20.jpg?resize=1200,620",
+    "published": "2026-09-29T17:15:00+00:00",
+    "summary": "OpenAI is expanding Codex with reusable cloud development environments, a revamped CLI with voice controls, new code review tools, and a security-focused product for scanning repositories and preparing fixes.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/07/OpenAI-logo-green.jpg?w=1024",
     "tags": [
       "AI",
-      "Apps",
-      "Wabi"
+      "codex",
+      "OpenAI",
+      "OpenAI DevDay"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "61870e034a13",
+    "title": "Range Rover Sport Electric: Price, Specs, Availability",
+    "url": "https://www.wired.com/story/range-rover-sport-electric-arrives-with-more-for-less/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-09-29T23:01:00+00:00",
+    "summary": "By sharing the same platform, the Sport gets the same specs as the classier Range Rover Electric, but with added torque at a smaller outlay.",
+    "image_url": "https://media.wired.com/photos/6aba6196add005d32caeaf5b/master/pass/Range%20Rover%20Sport%20Electric%2027MY%20Front%20300927.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "SUVs",
+      "Sports cars",
+      "EVs and Hybrids"
     ],
     "industries": [
       "tech",
@@ -1029,20 +904,38 @@
     "relevance_score": 13
   },
   {
-    "id": "608b6e4d9141",
-    "title": "Mobile ad giants AppLovin and Unity locked in legal dispute over data collection",
-    "url": "https://digiday.com/marketing/mobile-ad-giants-applovin-and-unity-locked-in-legal-dispute-over-data-collection/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
+    "id": "e20d5fb56776",
+    "title": "Lindsay Clancy’s Lawyer Now Questions ‘Where’s The Evidence’ She Killed Her Kids—What Happens Next?",
+    "url": "https://www.forbes.com/sites/forbestv/2026/09/29/lindsay-clancys-lawyer-now-questions-wheres-the-evidence-she-killed-her-kids-what-happens-next/",
+    "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-09-29T17:31:42+00:00",
-    "summary": "AppLovin seeks court order against Unity claiming improper collection of data generated through its business.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/09/data-lawsuit-digiday.jpg",
+    "published": "2026-09-29T23:01:11+00:00",
+    "summary": "Lindsay Clancy’s attorney, Kevin Reddington, is now claiming there isn’t enough evidence to prove the former labor and delivery nurse killed her three children.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6abc432b21cb010bb5acfe8f/0x0.jpg?width=960",
     "tags": [
-      "Marketing"
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "standard"
     ],
     "industries": [
-      "tech",
-      "industrial"
+      "tech"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "62c6e42065fa",
+    "title": "Market Analysis: Adobe And Competitors In Software Industry - Benzinga",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOdUZLbXM0bWFYS1VYcGpWVFJ3RVdEV2o0MGk3bkR6cVdWdmlBNk52YTRkUW5fYTRsWDZqYTAwQTVFSkRGdExIWnpyOFhJZmJIR2F5S18tOUlwb1pGeW13SDZVWGp0X0swb3JhOERzSWxCODd6TDVoc21iSnpSMHhxSTBDLVhEdG5kOUxPLUFneWFKX2NVQmJkaUZBVnB3OFYtZEE?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-09-30T09:59:18+00:00",
+    "summary": "Market Analysis: Adobe And Competitors In Software Industry Benzinga",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 13
   },
@@ -1093,6 +986,27 @@
     "relevance_score": 12
   },
   {
+    "id": "4770a81fbc33",
+    "title": "19 Best Gifts for Plant Lovers and Gardeners (2026)",
+    "url": "https://www.wired.com/story/gifts-for-plant-lovers-and-gardeners-2026/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-09-29T09:15:00+00:00",
+    "summary": "From smart apps and planters to unique tools, these gifts will turn even a black thumb into a next-level plant parent.",
+    "image_url": "https://media.wired.com/photos/6abade905e8dfa64a56abf2d/master/pass/The-19-Best-Gifts-for-Plant-Lovers-and-Gardeners.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Buying Guides",
+      "Gear / Products / Home",
+      "Shopping",
+      "buying guides"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 12
+  },
+  {
     "id": "39ee71682adb",
     "title": "Making AI an asset, not an expense",
     "url": "https://www.technologyreview.com/2026/09/29/1145186/making-ai-an-asset-not-an-expense/",
@@ -1133,75 +1047,89 @@
     "relevance_score": 12
   },
   {
-    "id": "211aff99b956",
-    "title": "Retailers, consumers both on edge as the holidays approach",
-    "url": "https://www.retaildive.com/news/retailers-consumers-upcoming-holiday-season-what-to-expect/831003/",
+    "id": "3a8356328f5d",
+    "title": "Salesforce Price Prediction: The Cheapest Way to Own AI Software - 247wallst.com",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQZHdhMVZoSWdRcTRiRUViTzlxblJ2VHM0M2RoelpxOHdydE50Q1pRc05UV0Q4VVNiMTIxUG5FdkpaeHJ5ajA1LVR0ejdyUHF1YmlKTmRJZXFSbG4ybW8wSVlOTFVTeERILXNSTnIzN1ZUcnhPY2FSaW9IWE1RWUVGUjBFOXVGZ0poMVp4aGVJN3YyZk9IQ2VRdGZJQnkzTE01V3pDLW4yajdVZTQ?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-09-29T13:00:00+00:00",
+    "summary": "Salesforce Price Prediction: The Cheapest Way to Own AI Software 247wallst.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "38ea4a402aee",
+    "title": "Best Buy to launch on TikTok Shop",
+    "url": "https://www.retaildive.com/news/best-buy-tiktok-shop-launch/831527/",
     "source": "Retail Dive",
     "source_category": "industry_retail",
-    "published": "2026-09-29T11:00:00+00:00",
-    "summary": "Shoppers will find lean inventories this season as they scour stores for the right items at the right price — and the hunt has already begun.",
-    "image_url": "https://imgproxy.divecdn.com/SwezfhI1vK39ZQOmtEbh0uoH1hB4ZOLclWcDNfxlDio/g:nowe:0:130/c:1280:723/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ub3Jkc3Ryb21faG9saWRheV9hbHRfMS5qcGVn.webp",
+    "published": "2026-09-29T15:04:00+00:00",
+    "summary": "Customers will be able to purchase products directly through the social commerce platform, with orders fulfilled by the retailer.",
+    "image_url": "https://imgproxy.divecdn.com/yUucHuGCiMg1zM9Zwk7T0eO6kB5WB7ffh0y3QqoNNKY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CQlktVGlrVG9rLVNob3AtMS0xLXRoZWdlbS1ibG9nLWRlZmF1bHQuanBn.webp",
     "tags": [],
     "industries": [
       "tech",
-      "retail",
-      "industrial"
+      "retail"
     ],
     "relevance_score": 12
   },
   {
-    "id": "53eaec9cdd55",
-    "title": "Elevance Health rolls out new site-of-care billing policies",
-    "url": "https://www.fiercehealthcare.com/payers/elevance-health-rolls-out-new-site-care-billing-policies",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-29T15:13:00+00:00",
-    "summary": "Elevance Health is rolling out new billing policies that aim to ensure services are paid for at the appropriate level and drive greater transparency into where patients receive care.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1041224932.jpg?VersionId=h2KKXzuW0WElg8csh7jLHjIUQcsEB4UC",
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "e968396a9833",
-    "title": "Agentic AI and the Future of Work: What It Means for Salesforce Practitioners",
-    "url": "https://www.salesforce.com/blog/agentic-ai-and-the-future-of-work-salesforce-practitioners/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-09-29T17:38:30+00:00",
-    "summary": "Technology is changing fast. Follow the work to see where your role goes next.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/Gemini_Generated_Image_klykwxklykwxklyk.jpeg",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "1850b7aea872",
-    "title": "Space Lasers Are About to Get Their First Real Test Generating Energy",
-    "url": "https://www.wired.com/story/space-lasers-are-about-to-get-their-first-real-test-generating-energy/",
-    "source": "Wired",
+    "id": "c20493adac5f",
+    "title": "AI-powered app maker Wabi pivots to a messaging experience",
+    "url": "https://techcrunch.com/2026/09/29/ai-powered-app-maker-wabi-pivots-to-a-messaging-experience/",
+    "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-09-28T11:00:00+00:00",
-    "summary": "Startup Star Catcher is launching a system that, if successful, would be the first time energy has been beamed between two separate spacecraft.",
-    "image_url": "https://media.wired.com/photos/6aba3a226b9dc374933c7c48/master/pass/Space%20Lazer.jpg",
+    "published": "2026-09-29T17:20:00+00:00",
+    "summary": "Wabi is repositioning its prompt-based app builder as a personal AI agent that can create interfaces on demand, combining chat, apps, and ongoing tasks.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/wabi-20.jpg?resize=1200,620",
     "tags": [
-      "Science",
-      "Science / Space",
-      "satellites",
-      "solar energy",
-      "lasers"
+      "AI",
+      "Apps",
+      "Wabi"
     ],
     "industries": [
       "tech",
       "industrial"
     ],
-    "relevance_score": 11
+    "relevance_score": 12
+  },
+  {
+    "id": "608b6e4d9141",
+    "title": "Mobile ad giants AppLovin and Unity locked in legal dispute over data collection",
+    "url": "https://digiday.com/marketing/mobile-ad-giants-applovin-and-unity-locked-in-legal-dispute-over-data-collection/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-09-29T17:31:42+00:00",
+    "summary": "AppLovin seeks court order against Unity claiming improper collection of data generated through its business.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/09/data-lawsuit-digiday.jpg",
+    "tags": [
+      "Marketing"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "3960ba4b5ef2",
+    "title": "Apple Pay launches in India with Axis Bank partnership - WSAU",
+    "url": "https://news.google.com/rss/articles/CBMiiwFBVV95cUxOUUhCVjM3QWtMTHVBM3J1UHExQTVHck1NWjR0RHBvTkxtV1V0ZldGRHJVZThxdnRYNFI2SlJFaXMxZTRwc29YVjFUb0VJeWNPZkJOZ3k3aHprWjlvcWxjV2diQnM3eG1tMk5ndkhhaGRPVnUwZ1hNaHpnYkpiTzBDVnY2LVJSUFo1d1Jr?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-09-30T05:07:38+00:00",
+    "summary": "Apple Pay launches in India with Axis Bank partnership WSAU",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 12
   },
   {
     "id": "d48a25f5ace5",
@@ -1246,14 +1174,14 @@
     "relevance_score": 11
   },
   {
-    "id": "a1d074b6947f",
-    "title": "Target cuts prices as consumer sentiment sours",
-    "url": "https://www.retaildive.com/news/target-cuts-prices-consumer-sentiment-sours/831627/",
+    "id": "211aff99b956",
+    "title": "Retailers, consumers both on edge as the holidays approach",
+    "url": "https://www.retaildive.com/news/retailers-consumers-upcoming-holiday-season-what-to-expect/831003/",
     "source": "Retail Dive",
     "source_category": "industry_retail",
-    "published": "2026-09-29T15:42:00+00:00",
-    "summary": "With the holiday season ramping up, the mass retailer reduced pricing on nearly 2,000 home and apparel products.",
-    "image_url": null,
+    "published": "2026-09-29T11:00:00+00:00",
+    "summary": "Shoppers will find lean inventories this season as they scour stores for the right items at the right price — and the hunt has already begun.",
+    "image_url": "https://imgproxy.divecdn.com/SwezfhI1vK39ZQOmtEbh0uoH1hB4ZOLclWcDNfxlDio/g:nowe:0:130/c:1280:723/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9ub3Jkc3Ryb21faG9saWRheV9hbHRfMS5qcGVn.webp",
     "tags": [],
     "industries": [
       "tech",
@@ -1263,13 +1191,61 @@
     "relevance_score": 11
   },
   {
-    "id": "ef185cbbe240",
-    "title": "Big 3 wireless carriers’ latest threat: Meta’s Muse - Fierce Network",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR2oxVDNnTDZfRzM1Y2lGWGtUTEVSRnZDbXYwT2lCTzBLVXZ3MEx5TGkxdUlzTVhZbW1OZW5jN1BablJtVkdZY0dRNGVYX21lNWt4QkFUdmZjRm01MV9ldzJZc0MxN1BQQzBZaFYxOUowQ1gtWjlub3hkc1BPSnNCWGVmemNJcTNxcHRHSXBGM2s0dw?oc=5",
+    "id": "53eaec9cdd55",
+    "title": "Elevance Health rolls out new site-of-care billing policies",
+    "url": "https://www.fiercehealthcare.com/payers/elevance-health-rolls-out-new-site-care-billing-policies",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-29T15:13:00+00:00",
+    "summary": "Elevance Health is rolling out new billing policies that aim to ensure services are paid for at the appropriate level and drive greater transparency into where patients receive care.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1041224932.jpg?VersionId=h2KKXzuW0WElg8csh7jLHjIUQcsEB4UC",
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "e968396a9833",
+    "title": "Agentic AI and the Future of Work: What It Means for Salesforce Practitioners",
+    "url": "https://www.salesforce.com/blog/agentic-ai-and-the-future-of-work-salesforce-practitioners/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-09-29T17:38:30+00:00",
+    "summary": "Technology is changing fast. Follow the work to see where your role goes next.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/Gemini_Generated_Image_klykwxklykwxklyk.jpeg",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "8eee210e21b7",
+    "title": "Dermatology FDA and Pipeline Review: Q3 2026 Approvals and Readouts - dermatologytimes.com",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxPSS1CNy1NbWRHa0xDSnFiVHdYT0RSQlNrS1Iwa3FTQlNFVDZXa0VOTjJJQTFVeG84ZF90cnk0bjJoS1doaWpyckNXRFFsdmY0OTlJTGQ5VWJsQmhGLThjMF9yNlZIMW1DTzhGWmxoSEM2bHAyNlNpeHpSanZhODNEZURKLTVyYUpTQzcxbEZoYjY2cjdJQmstQ1dhSDY2cEI3SFZTVFRxOA?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-29T21:57:56+00:00",
+    "summary": "Dermatology FDA and Pipeline Review: Q3 2026 Approvals and Readouts dermatologytimes.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "67e65d35f2b5",
+    "title": "Chunghwa, FET, Taiwan Mobile showcase 5G, AI applications in Matsu - Telecompaper",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxOelYyYXNCQktNRnhTNkhRQ2J5ZHFSeW4wbllLSy1VYTNvZmd0RXlsMkk2M2J5a2tObzNsSDdYZnMyU01yZ28yWW85X0dDaVByRnluaTlSd0JhekhMQ2lMV3VIbGdyc3VCTU1KdDhaRFFBRmZTT1ZHRy1hSkRJZWVuWUtIUGU4Q1BKQmtnOUl0ZDBfalRzV3lBTkRYZGdjSDNWMDE2SUxJcXhCQQ?oc=5",
     "source": "Telecom 5G",
     "source_category": "industry_telecom",
-    "published": "2026-09-29T17:23:09+00:00",
-    "summary": "Big 3 wireless carriers’ latest threat: Meta’s Muse Fierce Network",
+    "published": "2026-09-30T05:11:48+00:00",
+    "summary": "Chunghwa, FET, Taiwan Mobile showcase 5G, AI applications in Matsu Telecompaper",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1311,85 +1287,37 @@
     "relevance_score": 10
   },
   {
-    "id": "c642f554230e",
-    "title": "Understanding Adobe's Position In Software Industry Compared To Competitors - Benzinga",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPNDFMMTJ0S0l0Sy1ZYUtzVWZqX001Q0hFZlBiSzgxTFlYdzN6aUYxSUtURUdqc3lZMTVYcVlPelluMlJRTzdnSlo1dHh5LXp6TDA1NURDam8wUXhiMUJxcXBCWW9zR0o3UTA5SkE3LVYzZWxDNmpJd1VTN2ZPaUJxY2NkX0I0Nmhob0hMaXBkWU5jOHN0aGtkN0YyTjZuRnljUmZ3MHdMUUhENDRVQzlYZlNLTDU?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-09-29T09:58:47+00:00",
-    "summary": "Understanding Adobe's Position In Software Industry Compared To Competitors Benzinga",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "1bace2ccc88a",
-    "title": "In the World’s Tuna Capital, Fishermen Are Being Drawn Into a Deadly Drug War - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBiT2hUSXRXUkU1S3d1MXBMMlBNdmpSLXdQb0w4d2hfUHBjaGVSaThGQjVvNHpVOTRMZU9sNHNMZDF1OU1acDBMRWxqeEhDWkMxODAtUTRncTNzYVFtNEkxV05mQ2dWZEJyalNjMmxqdHJrWkhkTkpZ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-09-30T01:58:04+00:00",
-    "summary": "In the World’s Tuna Capital, Fishermen Are Being Drawn Into a Deadly Drug War WSJ",
+    "id": "a1d074b6947f",
+    "title": "Target cuts prices as consumer sentiment sours",
+    "url": "https://www.retaildive.com/news/target-cuts-prices-consumer-sentiment-sours/831627/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-09-29T15:42:00+00:00",
+    "summary": "With the holiday season ramping up, the mass retailer reduced pricing on nearly 2,000 home and apparel products.",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "74009ee1da90",
-    "title": "YouTube invests in AI agents, live ‘gamification,’ and editing tools to keep creators close",
-    "url": "https://digiday.com/future-of-tv/youtube-invests-in-ai-agents-live-gamification-and-editing-tools-to-keep-creators-close/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-09-25T04:01:00+00:00",
-    "summary": "Made On YouTube announced a spate of new features for the creator platform; here are the most important ones and what they mean for creators.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/02/youtube-revenue-digiday.jpg",
-    "tags": [
-      "Future of TV"
-    ],
-    "industries": [
-      "tech",
+      "retail",
       "industrial"
     ],
-    "relevance_score": 9
+    "relevance_score": 10
   },
   {
-    "id": "f02c3c8ec3a4",
-    "title": "Building flexibility into the next generation of outpatient care",
-    "url": "https://www.healthcaredive.com/spons/building-flexibility-into-the-next-generation-of-outpatient-care/830623/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-28T09:00:00+00:00",
-    "summary": "Higher-acuity outpatient care is reshaping flexible facility planning, design and construction.",
+    "id": "ef185cbbe240",
+    "title": "Big 3 wireless carriers’ latest threat: Meta’s Muse - Fierce Network",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxPR2oxVDNnTDZfRzM1Y2lGWGtUTEVSRnZDbXYwT2lCTzBLVXZ3MEx5TGkxdUlzTVhZbW1OZW5jN1BablJtVkdZY0dRNGVYX21lNWt4QkFUdmZjRm01MV9ldzJZc0MxN1BQQzBZaFYxOUowQ1gtWjlub3hkc1BPSnNCWGVmemNJcTNxcHRHSXBGM2s0dw?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-09-29T17:23:09+00:00",
+    "summary": "Big 3 wireless carriers’ latest threat: Meta’s Muse Fierce Network",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "industrial",
-      "lifesciences"
+      "telecom"
     ],
-    "relevance_score": 9
-  },
-  {
-    "id": "c2b4d688e044",
-    "title": "Salesforce and Innovation City Launch AI-Powered Business Registration Platform - TechAfrica News",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOZnFGVzhlMUJnQ1Rla25KZ1B2azlrbTlhaFJCUEUxSk8zSXFFRTA4MWxGa3NKeUZrbkdmZWVYUWliSTdOazVGLXRwR1NIY2NBQ25DS1AzVENGSko1eklJMmFBRndRclNZemdubmhZTnNLVVEzTFBPR05aTndUNEo2emtJZWR4LXg3QlRzd01hTTRtbG9ub3MzLUhVUTd0RkE?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-09-28T09:58:37+00:00",
-    "summary": "Salesforce and Innovation City Launch AI-Powered Business Registration Platform TechAfrica News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 9
+    "relevance_score": 10
   },
   {
     "id": "403fbce0d7a3",
@@ -1444,6 +1372,23 @@
     "relevance_score": 9
   },
   {
+    "id": "f02c3c8ec3a4",
+    "title": "Building flexibility into the next generation of outpatient care",
+    "url": "https://www.healthcaredive.com/spons/building-flexibility-into-the-next-generation-of-outpatient-care/830623/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-28T09:00:00+00:00",
+    "summary": "Higher-acuity outpatient care is reshaping flexible facility planning, design and construction.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "ebbf8a8db8f8",
     "title": "GE HealthCare Appoints Rodolphe Katra as Chief AI Officer - Healthcare Digital",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPMDJCR3JBX3ZhTDBwUEJmTmxoeGFxM25PdEctcElmZzFNU3dWYlVPT0hoazM4QW04cEc3Z3dCTUNKMUtwX0NxYTNjTnVyYXZDRWdVUXFSRVNZYTI2ZVNWdnd5eWF1bHRmbkFIM2U3dlVLakxWal9CaUs0cTF5Y2JmT0pPZGxOR2ltSW9XNmstbkVQNmItc25TUg?oc=5",
@@ -1456,54 +1401,6 @@
     "industries": [
       "tech",
       "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "0e39253e0285",
-    "title": "El-Sisi meets Orange CEO; Group unveils training grants for around 200,000, €25M startup support - Egypt Today",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQZVduTnBTMTJTZWFjUHVyWnVWb0picGJPRWZFWm1GYm1CTS1UR1EwT3RVaklVUTgyOENuRUJsSUhLLVNlOUlkdExxVFZjM3JRMjZtaVlOUGR3MmhJZ3VfTE9aWXpJREt3M01uZE5JSHR2cUcxWTlLZjVkejJCNFVrZmVHSXc5YWNpZWVnamdMNm1xTTNVeXlpRDBsbXE1b2RWTVRvbQ?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-09-27T10:55:00+00:00",
-    "summary": "El-Sisi meets Orange CEO; Group unveils training grants for around 200,000, €25M startup support Egypt Today",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "8066413122a6",
-    "title": "Louisiana Invests in Rural Health Tech Startups to Improve Outcomes - American Hospital Association",
-    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaERwdWE2cHBmVnprWU9aT1ZkcDdvNDZaMkZIeV9JZnJVYzZtYVFLT3NUYV9nLVpHb0ZqZDl1UjFTdm9UOFRrbmlnZHlKbWphZklDZnd6OVozd1dyOFBTMVIza0ZNaGJhbEVETEZhZXRtajhieTM4UGRLcTU1bzlvRXR5b1N1OGV6bXFTRXFWU3cwLVBjOURqV1JrWlZwUnh2b1RWSEt0T1AyVlp3VjFfWW5hcndrUGdoc1JrVjgwWGRtbHlNYjVydEVSOVU4dw?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-29T11:00:00+00:00",
-    "summary": "Louisiana Invests in Rural Health Tech Startups to Improve Outcomes American Hospital Association",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "3d53106bd623",
-    "title": "Digital Transformation in Healthcare: Why Patient Experience Depends On Smarter Support - MedicalResearch.com",
-    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FMkNwLXVDNHlacElEN19SQmZKdjFOWE9USDJmamJyYXBGSk9sVHl4MlhwdkFFdFoyME9MemgwVXQzaUxmNFlhSFQ2UEFWRHFWcTVNT3JnZUxfTXg2N3JNMGNPRm83WVlNNEJSX21sTHl2cWs?oc=5",
-    "source": "Healthcare Digital",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-29T13:11:12+00:00",
-    "summary": "Digital Transformation in Healthcare: Why Patient Experience Depends On Smarter Support MedicalResearch.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
       "lifesciences"
     ],
     "relevance_score": 8
@@ -1525,6 +1422,36 @@
     "relevance_score": 8
   },
   {
+    "id": "dd7c2ffff15d",
+    "title": "How El Niño Made the Atlantic Hurricane Season Disappear - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxPOEFHWXRfQXFua2ljc2wxbDFVUDlqaVRIRDhuQTRyRXU4eFZQUlZTamR5UWxFZll2dWsxYkxnRGpXTkx1SjVTOTZzdGh0R0tuNkRZd0xKNEV1T09xZzlfOVFUSTdnSmtFakhNN29qX05rQTBjOUE5dF9aUDVaRkxjZEFJdThldC0teThBWVpvNlcyVm1pVU05UUVYWnVXR2Z0Ylozb1Bwbzc5d2Q0N3BMNjFDQQ?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-09-29T18:49:00+00:00",
+    "summary": "How El Niño Made the Atlantic Hurricane Season Disappear WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "00b85062cbf2",
+    "title": "Jeff Tech committee tours latest technology in Health Assisting - punxsutawneyspirit.com",
+    "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxPbFF6YngyaVpGSkRZak5fdDdCalpuRElETHV5LUFvXzFYSnB4SGdGV2hFY3ZuQXc5S1AzVW1hbm5JMTNIMFhadEkwTFFDSGJWSmlxZHVmM2pWOE9qbWwxVjJBUmxHRjMwQTYyV2t3S2RZRlNxdHF2OEZyVnQxWWd2U3RmenJIQzlaYU5nV1prY2Z3Zmw3QldkR2xFRV96UnZ4anNoMG9QWDJXQ3h0blBlcWFlRkNoRlFVbVd3a3NJNGdmTE9SQ1lxVDR4RnAyV1JrVEJXbTJhSm1DbHNYWHh0RjhrUWxtZE16?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-30T00:29:00+00:00",
+    "summary": "Jeff Tech committee tours latest technology in Health Assisting punxsutawneyspirit.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "3def7a4b0cc2",
     "title": "How CVS Caremark builds the next era of pharmacy benefits",
     "url": "https://www.fiercehealthcare.com/sponsored/how-cvs-caremark-builds-next-era-pharmacy-benefits",
@@ -1537,6 +1464,22 @@
     "industries": [
       "tech",
       "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "125bd1bc2d88",
+    "title": "KPMG Global tech report 2026: Technology and Telecommunications - kpmg.com",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxPNWVfckpKMEtYTHVTTjZqdjNVOWZZMWtXMmdHQzZ0S3hCRU1neEFHSVVBMWg4RlBETVlQVjVKNGhiNWVJVjZxZDg2MzlnUmNfOGJCNUNSYUxHYUZYVnZCS1k5ZUxtSFRZUUFrQmJwa2hCeHpqVFVyTDVncmMtWXlVeUdyWURBSS1vdnRCVWtKOERCRzY2NjI2ejZjTUdMLTJhazRmeEJ2X0RDcUU?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-09-27T08:30:04+00:00",
+    "summary": "KPMG Global tech report 2026: Technology and Telecommunications kpmg.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom"
     ],
     "relevance_score": 7
   },
@@ -1557,13 +1500,28 @@
     "relevance_score": 7
   },
   {
-    "id": "8624872ebdc9",
-    "title": "HLB Pharmaceutical Hits Upper Limit for Second Day as Lyrfigtu FDA Approval Fuels Group Stock Rally - finance.biggo.com",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9tSkVPNkF3T0VCdG5yWUprUTlMSUVUUkNTdDFRY1VCdVpHQS1KSFRPbEVtWUREWFAwWkVlMHp3WjRzR0ZjQXh1d3RpZm10X1NZSWhwbFFwaUNQQ0RPRXJDTVd0ODl5ZDRySG4xMElTcjZjMG5IaWc?oc=5",
+    "id": "0f8ac6a7031f",
+    "title": "University of Pittsburgh launches health sciences startup incubator in Oakland - bizjournals.com",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNZGw1Vmdyemt3aWp5V3ZNSzk2UHB2NGR4Y281Y21qN2p5RjVHRjZsTFZxSi1EQkN0aTdRMHBObkJMTUZIZHpMdUxVYXN4b2FVRDdsOHFadkhkdXhuRXBGV2wyN05QdUZ1WDRFcVBVVDZaTGhhVThSb2J6OEptbnB2Y0RBUjQ3UlRabjhxY2c5NjliU1NnTGNTMEFTaEpFZUN1Znc?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-09-29T03:35:00+00:00",
-    "summary": "HLB Pharmaceutical Hits Upper Limit for Second Day as Lyrfigtu FDA Approval Fuels Group Stock Rally finance.biggo.com",
+    "published": "2026-09-28T15:52:00+00:00",
+    "summary": "University of Pittsburgh launches health sciences startup incubator in Oakland bizjournals.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "8066413122a6",
+    "title": "Louisiana Invests in Rural Health Tech Startups to Improve Outcomes - American Hospital Association",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxQaERwdWE2cHBmVnprWU9aT1ZkcDdvNDZaMkZIeV9JZnJVYzZtYVFLT3NUYV9nLVpHb0ZqZDl1UjFTdm9UOFRrbmlnZHlKbWphZklDZnd6OVozd1dyOFBTMVIza0ZNaGJhbEVETEZhZXRtajhieTM4UGRLcTU1bzlvRXR5b1N1OGV6bXFTRXFWU3cwLVBjOURqV1JrWlZwUnh2b1RWSEt0T1AyVlp3VjFfWW5hcndrUGdoc1JrVjgwWGRtbHlNYjVydEVSOVU4dw?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-29T11:00:00+00:00",
+    "summary": "Louisiana Invests in Rural Health Tech Startups to Improve Outcomes American Hospital Association",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1573,36 +1531,35 @@
     "relevance_score": 7
   },
   {
-    "id": "b6ba9a8155d0",
-    "title": "You Can Edit Your Photos With Lightroom and Photoshop Inside Google Gemini - PetaPixel",
-    "url": "https://news.google.com/rss/articles/CBMirAFBVV95cUxNeWV3Q3ZmTmZneXk0VUdialIyTmRheXlxdWNWNXpueldlOUpJQjU5R1gxY1VjU2lLaHRtSXZsUDFudmJLM0MzRTlNTkROYUFjeEdiZzdOY3Bma1lwd1NtWHVTeFhEZDk2dmJPdk81UlFaZUdzampQNUlfZEpyZUN3eWtoTjBoblBzT1hWYXlwelAzcW94OVRfTGZ3NGRYYzBvam8wZ1pOUG5xcWNU?oc=5",
-    "source": "Adobe Products",
-    "source_category": "adobe",
-    "published": "2026-09-25T13:18:52+00:00",
-    "summary": "You Can Edit Your Photos With Lightroom and Photoshop Inside Google Gemini PetaPixel",
+    "id": "d90844617e51",
+    "title": "Exclusive | This Startup Is Using AI to Fight Off a Future AI Pandemic - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxQRjNTaGI1bG05OVA4XzBrSnJBZkVTQ1l1ZVpPdjRTdEZjdDZTekdQeGE3dEpKcnlzSnktZHk2bW1XcDZKMlplY1BSbi13QS1hMGNYQnpybnZhMTlydkt1ZUhmTktTYk1UQnhRQmRlTWxBWklyYUFxZEZlWFM0MmJjczBhNHBGeFZtS0FsczBxZVNkVl85VE9OVHJ3?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-09-29T12:16:45+00:00",
+    "summary": "Exclusive | This Startup Is Using AI to Fight Off a Future AI Pandemic WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
-      "industrial"
+      "tech"
     ],
-    "relevance_score": 6
+    "relevance_score": 7
   },
   {
-    "id": "6768b1ee1518",
-    "title": "IHS Nigeria Reaffirms Commitment to Digital Transformation @eWorld Forum 2026 - Nigeria Communications Week",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxPWUVaM1FweXBJZEU1cGhSLVlqY3BLV2tLN2g4dHptcWxhQUZGUDZ2NF9najUwQ0VBb2dnOWV1OVFPZk05dWt4V1czSERkNDBwcGNOa0lWSGdVaTAyMGgweVkyc0tIZHEwQThMWWlaMk90NHhMankyQ0xzUndIQnBEbThHeE9FS1EzWkkzMUNkckUtcDJUNzhVQ3RIU2w0QWdXOWFrdWVPbFVBOU1IOGRMN056Nm1YMzU5WnRtNVRVMEJaUFNjSy1B?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-09-25T23:02:15+00:00",
-    "summary": "IHS Nigeria Reaffirms Commitment to Digital Transformation @eWorld Forum 2026 Nigeria Communications Week",
+    "id": "3d53106bd623",
+    "title": "Digital Transformation in Healthcare: Why Patient Experience Depends On Smarter Support - MedicalResearch.com",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE1FMkNwLXVDNHlacElEN19SQmZKdjFOWE9USDJmamJyYXBGSk9sVHl4MlhwdkFFdFoyME9MemgwVXQzaUxmNFlhSFQ2UEFWRHFWcTVNT3JnZUxfTXg2N3JNMGNPRm83WVlNNEJSX21sTHl2cWs?oc=5",
+    "source": "Healthcare Digital",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-29T13:11:12+00:00",
+    "summary": "Digital Transformation in Healthcare: Why Patient Experience Depends On Smarter Support MedicalResearch.com",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "industrial"
+      "lifesciences"
     ],
-    "relevance_score": 6
+    "relevance_score": 7
   },
   {
     "id": "dab70f1817a6",
@@ -1616,38 +1573,6 @@
     "tags": [],
     "industries": [
       "tech"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "cdeae2d89e04",
-    "title": "Call for expressions of interest in a new wave of digital euro innovation platform activities - European Central Bank",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0Sk02TE9fZEVJZFh5VzN3SmJPekZIa3dleUlRbm1VVjZndEw3bTV2UXFkQmQ0NTR5NUVXNG8yeGpqS1AzWTZWWlZ6ZUd6MWxMakhaVEU0Q21CQnU4SS1sWTJGX3ZnRDFIVlNBOGRzOGU4RHhac3RDS3VwbXNGdw?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-09-28T09:04:39+00:00",
-    "summary": "Call for expressions of interest in a new wave of digital euro innovation platform activities European Central Bank",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "9c6f56505f19",
-    "title": "Health Tech Keeps Choosing Violence - by Brendan Keeler - Health API Guy",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91empoQi12TWpwWHB5cjNFZ0tKMUFGaXlydDdzYURQcE00WGpmZkZBa0hBMTBrOXN0ajlnVlIzU1NYaGxRd25hM2czQzNxN1FFX09YYU93bWdNOTJYemRDY0hQMXBjejRtci1NcEcxVXB6YlVmQXdES3RYbw?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-09-28T09:05:50+00:00",
-    "summary": "Health Tech Keeps Choosing Violence - by Brendan Keeler Health API Guy",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
     ],
     "relevance_score": 6
   },
@@ -1669,12 +1594,12 @@
   },
   {
     "id": "d9d20ec33e56",
-    "title": "Egypt and Mali discuss digital transformation and ICT capacity building - Tech Review Africa",
+    "title": "Egypt and Mali discuss digital transformation and ICT capacity building - techreviewafrica.com",
     "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNUkp5cmRqTldMZGZEek9xNGZmZFVWaVFoR3FfVDN0SmZnRTcxcnNxLWVfUzhQUENock45eXZsOEJMSjd5bGxYdFYtVEpCYldHdEF3d1B2bFBTR0haSFo5OWRJWlZLN1VkTUdnSWNMQ1ZXVzFscmlGTTNVLS14SzJfaG0ybVZpUDUxTkFKOV9aRHg5dmI2MUJiYURyOTdyTk5nOEoweENNWUprZHVCWnAw?oc=5",
     "source": "Telecom Digital",
     "source_category": "industry_telecom",
     "published": "2026-09-28T14:21:52+00:00",
-    "summary": "Egypt and Mali discuss digital transformation and ICT capacity building Tech Review Africa",
+    "summary": "Egypt and Mali discuss digital transformation and ICT capacity building techreviewafrica.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1684,12 +1609,12 @@
   },
   {
     "id": "7a620fb3e3b3",
-    "title": "Shaping digital health innovation for better care - Rice University",
+    "title": "Shaping digital health innovation for better care - news.rice.edu",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOZjQ2QUZyVXhRVm5PUkRiVFZfYUFoYksxTmNwLUR5SFF4UWNJWXlCZzVPeTg0em1mU0hpcjNSNnVvRGRZaHk3TDB6U2xxYzMxSHRETTVxVVl6VjM3a09VUlhoZ1lqZ2hWUXhscWpYWmVjUkg3dlJxLV9lbTBhb05EYlB0SQ?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
     "published": "2026-09-28T17:26:48+00:00",
-    "summary": "Shaping digital health innovation for better care Rice University",
+    "summary": "Shaping digital health innovation for better care news.rice.edu",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1732,12 +1657,12 @@
   },
   {
     "id": "dd98e82d105e",
-    "title": "Q&A: Cutlip on the SELUTION SLR DEB’s FDA Approval for Coronary In-Stent Restenosis - hcplive.com",
+    "title": "Q&A: Cutlip on the SELUTION SLR DEB’s FDA Approval for Coronary In-Stent Restenosis - HCPLive",
     "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxQeTdJQ3VjbHpJaUlZeXpfanlibF9Gcy1DMEktdDlHNnJoOEtJQVpHWEl0aEpzSWVYaHVhczNDQUNIV25BWldQaThxeVFNQTAxTGNaTldWZ2xkbWhDUUZ2X3Z0TjI3S0pPemlCSWZsVk41V0NjX1RnUnVpalY1cm5IQkJja0ZBLU1zRlJKQV83YU1qeks2azVEZG5nU0xITEZsMmE3YkEwdzZ1SHkzUWRfaw?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
     "published": "2026-09-28T19:11:17+00:00",
-    "summary": "Q&A: Cutlip on the SELUTION SLR DEB’s FDA Approval for Coronary In-Stent Restenosis hcplive.com",
+    "summary": "Q&A: Cutlip on the SELUTION SLR DEB’s FDA Approval for Coronary In-Stent Restenosis HCPLive",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1745,6 +1670,22 @@
       "lifesciences"
     ],
     "relevance_score": 6
+  },
+  {
+    "id": "a912f4b5c941",
+    "title": "FDA Approves Onswik | PharmExec - Pharmaceutical Executive",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTFB1eWRzbG1GX3Z1VUtvbVNUWmVKZXRGR0FnalpGaWNFcFNIcWlqQms4dnVnOGpjcEZhZ3hQZ3NTOUxoTmRkNXhMWFhBa2ktNFpaVjRNQ1dQaWN5QUVrZ1BJWERwVlFKMEE?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-24T17:57:03+00:00",
+    "summary": "FDA Approves Onswik | PharmExec Pharmaceutical Executive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 5
   },
   {
     "id": "cfb43f9c79d7",
@@ -1775,6 +1716,38 @@
     "industries": [
       "tech",
       "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "cdeae2d89e04",
+    "title": "Call for expressions of interest in a new wave of digital euro innovation platform activities - European Central Bank",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA0Sk02TE9fZEVJZFh5VzN3SmJPekZIa3dleUlRbm1VVjZndEw3bTV2UXFkQmQ0NTR5NUVXNG8yeGpqS1AzWTZWWlZ6ZUd6MWxMakhaVEU0Q21CQnU4SS1sWTJGX3ZnRDFIVlNBOGRzOGU4RHhac3RDS3VwbXNGdw?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-09-28T09:04:39+00:00",
+    "summary": "Call for expressions of interest in a new wave of digital euro innovation platform activities European Central Bank",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "9c6f56505f19",
+    "title": "Health Tech Keeps Choosing Violence - by Brendan Keeler - Health API Guy",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE91empoQi12TWpwWHB5cjNFZ0tKMUFGaXlydDdzYURQcE00WGpmZkZBa0hBMTBrOXN0ajlnVlIzU1NYaGxRd25hM2czQzNxN1FFX09YYU93bWdNOTJYemRDY0hQMXBjejRtci1NcEcxVXB6YlVmQXdES3RYbw?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-09-28T09:05:50+00:00",
+    "summary": "Health Tech Keeps Choosing Violence - by Brendan Keeler Health API Guy",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
       "lifesciences"
     ],
     "relevance_score": 5
