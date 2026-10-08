@@ -10,7 +10,7 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 45
+    "relevance_score": 42
   },
   {
     "id": "2278d638bb1a",
@@ -24,52 +24,6 @@
     "tags": [],
     "industries": [],
     "relevance_score": 33
-  },
-  {
-    "id": "0470ee6339bf",
-    "title": "85% of Salesforce Customers Have Tried Agentforce. Oppenheimer Says One Thing Is Missing - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdkJQcTdNazlqWVk4Z3czWDgtcEZ2RW1fMGI2R0o5aFhGWm0tUEF0QmIxZXUzd25WMXhsMUVWejN3WkhjdW4ycjVCZzlCRkxERWloUHZRU1RLYm1ZU1FJZFdFQ3dXOE1HenBIbHBBUnVDWU1RODhaUkhUM1RNS0doSTB3eGd5dzNNN3FhTlM0S0NLWG1RMklEdTlSeF9PNU0yYVlGNTFHU3k?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-10-07T03:39:00+00:00",
-    "summary": "85% of Salesforce Customers Have Tried Agentforce. Oppenheimer Says One Thing Is Missing Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "c326f19bcbf2",
-    "title": "Financial Institutions Don’t Need Another Product, They Need a Trusted Partner",
-    "url": "https://www.salesforce.com/blog/financial-institutions-need-a-trusted-partner/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-07T15:08:54+00:00",
-    "summary": "The Real Problem Isn’t AI. It’s Fragmentation. Every financial institution’s technology team is carrying the same quiet weight: a sprawling stack of point solutions where each solution promises to solve one specific problem…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/ChatGPT-Image-Sep-25-2026-04_36_59-PM.png",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "b1ef642c915f",
-    "title": "Bot Mitigation in the Age of AI Crawlers: How to Strategize Your Defense",
-    "url": "https://www.salesforce.com/blog/bot-mitigation-strategy/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-07T15:28:51+00:00",
-    "summary": "Not all bot traffic is bad. For years, bots were synonymous with risk: scrapers, scalpers, and credential stuffers trying to steal inventory, stuff stolen credentials into your login page, or scrape pricing and…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_6b379c.webp",
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 12
   },
   {
     "id": "474b5c039c7a",
@@ -104,16 +58,49 @@
     "relevance_score": 11
   },
   {
-    "id": "31e6a112088f",
-    "title": "Direct Vs Indirect Competitors: Spot the Differences",
-    "url": "https://www.salesforce.com/blog/small-business/direct-vs-indirect-competitors/",
+    "id": "0470ee6339bf",
+    "title": "85% of Salesforce Customers Have Tried Agentforce. Oppenheimer Says One Thing Is Missing - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxPdkJQcTdNazlqWVk4Z3czWDgtcEZ2RW1fMGI2R0o5aFhGWm0tUEF0QmIxZXUzd25WMXhsMUVWejN3WkhjdW4ycjVCZzlCRkxERWloUHZRU1RLYm1ZU1FJZFdFQ3dXOE1HenBIbHBBUnVDWU1RODhaUkhUM1RNS0doSTB3eGd5dzNNN3FhTlM0S0NLWG1RMklEdTlSeF9PNU0yYVlGNTFHU3k?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-10-07T03:39:00+00:00",
+    "summary": "85% of Salesforce Customers Have Tried Agentforce. Oppenheimer Says One Thing Is Missing Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "c326f19bcbf2",
+    "title": "Financial Institutions Don’t Need Another Product, They Need a Trusted Partner",
+    "url": "https://www.salesforce.com/blog/financial-institutions-need-a-trusted-partner/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-10-07T13:00:00+00:00",
-    "summary": "Every business has competitors — but not all of them look the way you'd expect.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/image_af49e2.png",
+    "published": "2026-10-07T15:08:54+00:00",
+    "summary": "The Real Problem Isn’t AI. It’s Fragmentation. Every financial institution’s technology team is carrying the same quiet weight: a sprawling stack of point solutions where each solution promises to solve one specific problem…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/ChatGPT-Image-Sep-25-2026-04_36_59-PM.png",
     "tags": [],
-    "industries": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "b1ef642c915f",
+    "title": "Bot Mitigation in the Age of AI Crawlers: How to Strategize Your Defense",
+    "url": "https://www.salesforce.com/blog/bot-mitigation-strategy/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-07T15:28:51+00:00",
+    "summary": "Not all bot traffic is bad. For years, bots were synonymous with risk: scrapers, scalpers, and credential stuffers trying to steal inventory, stuff stolen credentials into your login page, or scrape pricing and…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_6b379c.webp",
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
     "relevance_score": 11
   },
   {
@@ -129,6 +116,19 @@
     "industries": [
       "industrial"
     ],
+    "relevance_score": 10
+  },
+  {
+    "id": "31e6a112088f",
+    "title": "Direct Vs Indirect Competitors: Spot the Differences",
+    "url": "https://www.salesforce.com/blog/small-business/direct-vs-indirect-competitors/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-07T13:00:00+00:00",
+    "summary": "Every business has competitors — but not all of them look the way you'd expect.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/image_af49e2.png",
+    "tags": [],
+    "industries": [],
     "relevance_score": 10
   },
   {
@@ -191,20 +191,5 @@
       "industrial"
     ],
     "relevance_score": 7
-  },
-  {
-    "id": "19a2fcbd0a6e",
-    "title": "Salesforce Expands AI Bundles: Will Higher Adoption Boost ARR? - Zacks Investment Research",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPQUtOc1pMaF9qUEdQaWdtYmFCMlROaTJMT0tCOFBkdVgtS3BUNUg5ZVRmMXpyWHpjdzJWdW9Pbk4xUWlsaHR5bzlTcnNQZEFsLXRhVUR1bDFSMEN1Y2ppVEktVU9XbGZHTjhhd0w0bmhlUWtzQ0h6OEhDWTRBVS05WXBNa0hLYmo5TFBFalNPd0tPUnpiQ2JIR245a3hTY2J5cHo4?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-10-02T10:01:27+00:00",
-    "summary": "Salesforce Expands AI Bundles: Will Higher Adoption Boost ARR? Zacks Investment Research",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 6
   }
 ]
