@@ -13,7 +13,7 @@
       "tech",
       "lifesciences"
     ],
-    "relevance_score": 37
+    "relevance_score": 34
   },
   {
     "id": "b159e71e0755",
@@ -29,7 +29,10 @@
       "media",
       "lifesciences"
     ],
-    "relevance_score": 28
+    "relevance_score": 28,
+    "also_covered_by": [
+      "Ad Age"
+    ]
   },
   {
     "id": "076aa6e133d6",
@@ -83,7 +86,54 @@
       "tech",
       "lifesciences"
     ],
-    "relevance_score": 14
+    "relevance_score": 12
+  },
+  {
+    "id": "a1cad3e755b7",
+    "title": "Big Tech is betting $700 billion on AI. Healthcare will decide whether the bet pays off - Fortune",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxNSDVHWUxEbzFjQm1keEJON1NZMy1tWjFBdl8zcmw4T3JpcWNMelRjNkZzSUk3aW80VGItaUN4VmRBU0VIYTRHVUIwV1U1eExLMzNLb2paQXpOV09JNzJFU25sd1hUQWdRXzRwbEpMckl6X0JjY3FTMXJYcjlDdW51UThFUkI?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-10T10:07:04+00:00",
+    "summary": "Big Tech is betting $700 billion on AI. Healthcare will decide whether the bet pays off Fortune",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "e745bf51d293",
+    "title": "HHS: 340B 'expanded beyond its original intent,' incentivizes consolidation",
+    "url": "https://www.fiercehealthcare.com/regulatory/hhs-340b-expanded-beyond-its-original-intent-incentivizes-consolidation",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-08T12:53:00+00:00",
+    "summary": "A new brief lays out the administration's views and critiques of the controversial hospital subsidy program, and includes a data analysis suggesting that a proposed reimbursement cut will limit spending growth.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1623879930/GettyImages-879179950.jpg/GettyImages-879179950.jpg?VersionId=zlIWrme25vN9r0LDfyyx1Atx0QpIfWp3",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "cc2dc7bd1591",
+    "title": "Fierce Healthcare Regulatory Recap: CMS releases 2027 MA star ratings; HHS awards $28M for falls prevention",
+    "url": "https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap-cms-releases-2027-ma-star-ratings-hhs-launches",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-09T12:58:00+00:00",
+    "summary": "The latest news from CMS, HHS and more across Washington, D.C.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202024-12-18T124048.388.jpg?VersionId=f96roXX6whlbhoOrOzAqmanxiryr55yU",
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 11
   },
   {
     "id": "95ad9e370f4e",
@@ -100,26 +150,10 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 13,
+    "relevance_score": 11,
     "also_covered_by": [
       "Fierce Healthcare"
     ]
-  },
-  {
-    "id": "e745bf51d293",
-    "title": "HHS: 340B 'expanded beyond its original intent,' incentivizes consolidation",
-    "url": "https://www.fiercehealthcare.com/regulatory/hhs-340b-expanded-beyond-its-original-intent-incentivizes-consolidation",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-08T12:53:00+00:00",
-    "summary": "A new brief lays out the administration's views and critiques of the controversial hospital subsidy program, and includes a data analysis suggesting that a proposed reimbursement cut will limit spending growth.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1623879930/GettyImages-879179950.jpg/GettyImages-879179950.jpg?VersionId=zlIWrme25vN9r0LDfyyx1Atx0QpIfWp3",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 12
   },
   {
     "id": "6b577a483996",
@@ -137,7 +171,7 @@
       "lifesciences",
       "financial"
     ],
-    "relevance_score": 11
+    "relevance_score": 10
   },
   {
     "id": "77b96d8fdf51",
@@ -153,85 +187,7 @@
       "lifesciences",
       "financial"
     ],
-    "relevance_score": 11
-  },
-  {
-    "id": "5ca71232209b",
-    "title": "Outpatient shift accelerates as hospital margins rebound",
-    "url": "https://www.healthcaredive.com/news/outpatient-shift-accelerates-hospital-margins-rebound-strata/832490/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-08T14:10:53+00:00",
-    "summary": "Patient demand and payer pressures have been nudging procedures out of expensive inpatient settings, according to a new report.",
-    "image_url": "https://imgproxy.divecdn.com/_5_4nT16xU0mDhs0ZW6CNP_hdQd-zdqQlPEwA1773Fs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcwMTU4NDc3LmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
     "relevance_score": 10
-  },
-  {
-    "id": "fc4151c56647",
-    "title": "Urban hospitals face closure rates similar to rural facilities, study finds",
-    "url": "https://www.fiercehealthcare.com/providers/hospital-closures-accelerated-2010-rates-similar-among-rural-urban-facilities",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-08T15:46:00+00:00",
-    "summary": "There were 432 acute hospital closures and 216 openings across the country from 2010 through 2025, with the former accelerating over time and the latter slowing, according to a new study. Closure rates were statistically similar between rural and urban hospitals, and...",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Hospital%20closure%20story_.png?VersionId=0oeAsLH4PmA0b33UjgQOW3chjkgq5zZi",
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "e72931da3451",
-    "title": "Little room for stakeholder consensus among potential Medicare Advantage reforms",
-    "url": "https://www.fiercehealthcare.com/regulatory/look-stakeholder-perspectives-medicare-advantage-reform",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-08T16:10:00+00:00",
-    "summary": "A survey of 52 experts spanning researchers, the Medicare Advantage industry, patient advocates and policymakers wasn't able to identify a single policy proposal that would be received wholeheartedly by all three groups.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202025-04-04T134132.144.jpg?VersionId=LjuxCM5TXKSUyjhXkfLIxesf5D6BzHi7",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "b8ffd1cad62b",
-    "title": "After ICE raids, hospitals saw fewer ED visits, more admissions among foreign-born: study",
-    "url": "https://www.fiercehealthcare.com/providers/after-ice-raids-hospitals-saw-fewer-ed-visits-more-admissions-among-foreign-born-study",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-07T13:30:00+00:00",
-    "summary": "Studies published this week outline changes in care-seeking behavior tied to heightened federal immigration policy and rhetoric, with ramifications for patient outcomes and healthcare spending.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/pexels-pixabay-263402.jpg?VersionId=ADR04T_9T.P5gO.PIUDQC9CUrCU98QDe",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "38b2d4b67659",
-    "title": "Suki launches ‘Ask’ feature for clinical decision support driven by Wolters Kluwer UpToDate AI API",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/suki-launches-ask-feature-clinical-decision-support-driven-wolters-kluwer",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-07T14:40:00+00:00",
-    "summary": "Ask integrates evidence-based clinical reasoning directly into workflows and can provide answers grounded in UpToDate’s proprietary content.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA",
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 9
   },
   {
     "id": "6a7d8bb7fd02",
@@ -250,14 +206,44 @@
     "relevance_score": 9
   },
   {
-    "id": "7e280aa5351f",
-    "title": "Weekly Rundown: Nextech taps Assort Health, EliseAI for agentic AI; Elsevier rolls out clinical AI tool for nurses",
-    "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-hhs-awards-15m-ai-projects-arcadia-launches-portfolio-solutions",
+    "id": "5ca71232209b",
+    "title": "Outpatient shift accelerates as hospital margins rebound",
+    "url": "https://www.healthcaredive.com/news/outpatient-shift-accelerates-hospital-margins-rebound-strata/832490/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-08T14:10:53+00:00",
+    "summary": "Patient demand and payer pressures have been nudging procedures out of expensive inpatient settings, according to a new report.",
+    "image_url": "https://imgproxy.divecdn.com/_5_4nT16xU0mDhs0ZW6CNP_hdQd-zdqQlPEwA1773Fs/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjcwMTU4NDc3LmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "fc4151c56647",
+    "title": "Urban hospitals face closure rates similar to rural facilities, study finds",
+    "url": "https://www.fiercehealthcare.com/providers/hospital-closures-accelerated-2010-rates-similar-among-rural-urban-facilities",
     "source": "Fierce Healthcare",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-08T12:01:00+00:00",
-    "summary": "The latest news from Nextech, Assort Health, EliseAI, Elsevier, Arcadia, Solera Health and more.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2217168478.jpg?VersionId=0phAnpOmLcGCkwxate79_jHGSX6nTo0S",
+    "published": "2026-10-08T15:46:00+00:00",
+    "summary": "There were 432 acute hospital closures and 216 openings across the country from 2010 through 2025, with the former accelerating over time and the latter slowing, according to a new study. Closure rates were statistically similar between rural and urban hospitals, and...",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Hospital%20closure%20story_.png?VersionId=0oeAsLH4PmA0b33UjgQOW3chjkgq5zZi",
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "e72931da3451",
+    "title": "Little room for stakeholder consensus among potential Medicare Advantage reforms",
+    "url": "https://www.fiercehealthcare.com/regulatory/look-stakeholder-perspectives-medicare-advantage-reform",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-08T16:10:00+00:00",
+    "summary": "A survey of 52 experts spanning researchers, the Medicare Advantage industry, patient advocates and policymakers wasn't able to identify a single policy proposal that would be received wholeheartedly by all three groups.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202025-04-04T134132.144.jpg?VersionId=LjuxCM5TXKSUyjhXkfLIxesf5D6BzHi7",
     "tags": [],
     "industries": [
       "industrial",
@@ -297,20 +283,52 @@
     "relevance_score": 9
   },
   {
-    "id": "af40643743e0",
-    "title": "Digital detox how-to; artificial intelligence in nursing; when to see your doctor about GI issues; plus other stories with Vanderbilt Health sources - Vanderbilt Health News",
-    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTHhFNGY4UEJ1RHlXM24tT1ZvRUxoSURjbHBwbGU1M2lqc2ZYdGxOOTlnY2d0QVd3S3c1cEI2NlNrdHBXM2FEcjltTUVvQVhlUFFBTnlXbm1NR3JUZldFV0pFUFNfeFVjcUNqTm81LTNwNTZpMkFkcFIxX2JXZGVpcy1iZmRoNmpTUHNWQnVieWttbEk2bzJ6R3VoRmt0eUlLcUxlc29rNkYwXzVaUXhUd3BDRUNSVTl6R2Q0OWIxNlU5dU1QRXRkX0Qyd1E2UlVyOHBxNTBESHpxRkRGMW10dEJaR2RreURzd1UzMFhfSlh3Zi1sR0hFNlZGODZqMVk0bU1zNDY3d0xuM2M?oc=5",
-    "source": "Health Tech",
+    "id": "b8ffd1cad62b",
+    "title": "After ICE raids, hospitals saw fewer ED visits, more admissions among foreign-born: study",
+    "url": "https://www.fiercehealthcare.com/providers/after-ice-raids-hospitals-saw-fewer-ed-visits-more-admissions-among-foreign-born-study",
+    "source": "Fierce Healthcare",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-09T22:30:53+00:00",
-    "summary": "Digital detox how-to; artificial intelligence in nursing; when to see your doctor about GI issues; plus other stories with Vanderbilt Health sources Vanderbilt Health News",
-    "image_url": null,
+    "published": "2026-10-07T13:30:00+00:00",
+    "summary": "Studies published this week outline changes in care-seeking behavior tied to heightened federal immigration policy and rhetoric, with ramifications for patient outcomes and healthcare spending.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/pexels-pixabay-263402.jpg?VersionId=ADR04T_9T.P5gO.PIUDQC9CUrCU98QDe",
     "tags": [],
     "industries": [
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 9
+    "relevance_score": 8
+  },
+  {
+    "id": "38b2d4b67659",
+    "title": "Suki launches ‘Ask’ feature for clinical decision support driven by Wolters Kluwer UpToDate AI API",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/suki-launches-ask-feature-clinical-decision-support-driven-wolters-kluwer",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-07T14:40:00+00:00",
+    "summary": "Ask integrates evidence-based clinical reasoning directly into workflows and can provide answers grounded in UpToDate’s proprietary content.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2256851830_larger.jpg?VersionId=n8Bsh1lRoFssKafo_bFEZXItofB6wkwA",
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "7e280aa5351f",
+    "title": "Weekly Rundown: Nextech taps Assort Health, EliseAI for agentic AI; Elsevier rolls out clinical AI tool for nurses",
+    "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-hhs-awards-15m-ai-projects-arcadia-launches-portfolio-solutions",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-08T12:01:00+00:00",
+    "summary": "The latest news from Nextech, Assort Health, EliseAI, Elsevier, Arcadia, Solera Health and more.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2217168478.jpg?VersionId=0phAnpOmLcGCkwxate79_jHGSX6nTo0S",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 8
   },
   {
     "id": "e14739dadc58",
@@ -329,47 +347,33 @@
     "relevance_score": 8
   },
   {
-    "id": "55b71ade1933",
-    "title": "Oku Digital Health launches from Topcon with AI retinal screening network, oculomics - Glance by Eyes On Eyecare",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxPWld0TzgyMzVMX1JSUHlKajhjeWFIUmVxN0RGRlFLcEV2WXFCaXFZajN4cEk1UEc1NkNaTzFrVklYaVVxNmVJR0FHbEZOZUNrX2VLZm1pYWRFd2laRTY4b1B6VW5JbEZGSUhCREluY0ZTUUR2N2t6alY1NjNFSzk3aFNPWEg5eUxoaU43bzR5TEdEbElRX0xNUV81c2VRb2U2S3BCSmFTQ3lmSENBSHAxbXhpUHhZNkFTTUV3S1J1RnIxdXd2REx3dEVUN3RnMk02cXZRb0Y1TQ?oc=5",
+    "id": "af40643743e0",
+    "title": "Digital detox how-to; artificial intelligence in nursing; when to see your doctor about GI issues; plus other stories with Vanderbilt Health sources - Vanderbilt Health News",
+    "url": "https://news.google.com/rss/articles/CBMiiwJBVV95cUxPTHhFNGY4UEJ1RHlXM24tT1ZvRUxoSURjbHBwbGU1M2lqc2ZYdGxOOTlnY2d0QVd3S3c1cEI2NlNrdHBXM2FEcjltTUVvQVhlUFFBTnlXbm1NR3JUZldFV0pFUFNfeFVjcUNqTm81LTNwNTZpMkFkcFIxX2JXZGVpcy1iZmRoNmpTUHNWQnVieWttbEk2bzJ6R3VoRmt0eUlLcUxlc29rNkYwXzVaUXhUd3BDRUNSVTl6R2Q0OWIxNlU5dU1QRXRkX0Qyd1E2UlVyOHBxNTBESHpxRkRGMW10dEJaR2RreURzd1UzMFhfSlh3Zi1sR0hFNlZGODZqMVk0bU1zNDY3d0xuM2M?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-09T11:46:53+00:00",
-    "summary": "Oku Digital Health launches from Topcon with AI retinal screening network, oculomics Glance by Eyes On Eyecare",
+    "published": "2026-10-09T22:30:53+00:00",
+    "summary": "Digital detox how-to; artificial intelligence in nursing; when to see your doctor about GI issues; plus other stories with Vanderbilt Health sources Vanderbilt Health News",
     "image_url": null,
     "tags": [],
     "industries": [
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 8
   },
   {
-    "id": "947a1deb7a0f",
-    "title": "States bet big on rural health startups, with a Silicon Valley twist - Modern Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTkVycy1KSWc4OE9ReUFmbklPcXdMV05RQ0hUSkVlWjJMMUg0dWtPc2FoSmg5WWcxOGQxN0lBMXdORE5lM3M3V3FzMXJxRExva3Fqa3NaenZlM2FXUDd0cUV6YlVNdjI1dGMycmxiRk45LUNvdTQxY2ZXdmQ1UUFQZk9fOHRTdzZaTy1nRUptMmdiMXNOY3ZZNEh6YlZlbUZ6eWo0?oc=5",
+    "id": "a6400fef759b",
+    "title": "J&J, Bayer, Sanofi, GE: This Week in Healthcare - Healthcare Digital",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxONkJuWG1vMGNoT2tIVzc2XzU1ZWUyTElrQThRMU5hWFV6TF80RVRiX3p2d3pNYUJoTklNSllKSWFFTGlIRGdEclZRTUlvejBpOUtza3ptR3E2MklGSU1GeFFQNHB4TFhzRWkwQjhka3V0bUt6b1E1d1FlNmV0SHpKSV9HMUk?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-09T18:28:00+00:00",
-    "summary": "States bet big on rural health startups, with a Silicon Valley twist Modern Healthcare",
+    "published": "2026-10-10T08:04:56+00:00",
+    "summary": "J&J, Bayer, Sanofi, GE: This Week in Healthcare Healthcare Digital",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "870582fc017a",
-    "title": "AI Reads the Trials: LLM Framework Speeds Systematic Reviews of Digital Health RCTs - Bioengineer.org",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNMlI5SFdrSG5zRkNEc2wwUWNtckJ2Z1d2SlFjTE9WaFNGNzZCSVRMQk1BaWZ0S1hYWkxFUjdqOWI5Vl9HZUhNbFVUXzdXejFEZUNPd1d4ZnJ3VWFTd1JvcmpqY01JWmQ1dEljRC05YzRkZEJlTGE1eXFjYl9ZRFBuWEd3TVA3NmFWTElLLUYxa3MzeHNTSUcya05ZZmNOV3MzZm9Kc2libG5OOEk?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-10T00:23:20+00:00",
-    "summary": "AI Reads the Trials: LLM Framework Speeds Systematic Reviews of Digital Health RCTs Bioengineer.org",
-    "image_url": null,
-    "tags": [],
-    "industries": [
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 8
@@ -427,22 +431,6 @@
     "relevance_score": 7
   },
   {
-    "id": "aaaea88251dc",
-    "title": "Cerevance rescues its Parkinson's drug with phase 3 win - Fierce Biotech",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxQcXpwNFdITlJlWmJNQ3NHcDVWWTdCMkxvZHRlT19yZFB5TWN3NWltWFRrclU4Q3RURTdDM3VxRFJBRDZvZUxtZWUwMkF4dngzTWhlVVRlakxncXp0Q2s3aUNsOFhHQ0RGV09nMGpROGxCcWZyWTJfWExmOVNBTkhZcDZSRDRfTVBsSllPRFBUQVo?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-07T14:09:28+00:00",
-    "summary": "Cerevance rescues its Parkinson's drug with phase 3 win Fierce Biotech",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 7
-  },
-  {
     "id": "e316ffca55c7",
     "title": "HHS announces $20M in health tech and AI prize challenges - Healthcare IT News",
     "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPejlWR29iRHFCbEUyeGVZaFF4aFlvd2xfdTJPXy1Wd2Z6cFRibUQ2VEtFaDNSVzFCOGI1Z0lBQ0pQYUNHbjRYLUxqQzR5NGJ6SG5tS2VjSVJLTnREX2RyS0NvYnVaZmZVejN2Y05SZElmNkxEbW5UdVNkUW1YSkEzLWdwbFhlT3JWTVZJWlRWZWEyaHBiQkE?oc=5",
@@ -450,37 +438,6 @@
     "source_category": "industry_lifesciences",
     "published": "2026-10-07T20:18:21+00:00",
     "summary": "HHS announces $20M in health tech and AI prize challenges Healthcare IT News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "fde7c1df1761",
-    "title": "What Life Sciences Commercial Teams Can Learn from Digital Health - MedCity News",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc2RIbkpMUlkwNGpCVWdBZld3ZGF2X29acnRpaW5pN0hQRWRmY3VWRjZsb3Y2QnlxdlRMd1RTaVlzcFBqOV9CdTdzYnlST1FSbzJZWHZtM1pYaUpwdVNRVUdxeUVnMG5oSWZqcEs1ZEtZOU9wcDVmZFU0TDFjZ0phRGhoVGJGV3RzWlVDUF9uMDZrQ0dsdzZzQlJza0R2ZTg?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-09T13:54:57+00:00",
-    "summary": "What Life Sciences Commercial Teams Can Learn from Digital Health MedCity News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "9afca7cd6c11",
-    "title": "Rethinking the use of tech to improve the patient experience - Health Data Management",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR3Ric0dpaEVMakJva2xQUGRLX2R0cVZQR3pxVDl5dHdSZTJsbVI2ejRtMW55WUVwd1Y5TV9WZmxBcVZOLUdwS256T2swUWJnZG1aNFUzUk4yS0FNWFc5V2lvUURLVVhWVTFOUzU5NTBDNzYyRFkzZHZTTHRVV210OTFSYktOU3hfSnBQWlNlMVZGTWM1cGR6bk4wTXVaNzlybmhzTTg5Z1JGUQ?oc=5",
-    "source": "Healthcare Digital",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-09T14:49:20+00:00",
-    "summary": "Rethinking the use of tech to improve the patient experience Health Data Management",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -506,21 +463,20 @@
     "relevance_score": 7
   },
   {
-    "id": "c3a0732cea4d",
-    "title": "“Montana’s Right to Try law creates novel pathway for life sciences companies to commercialise Phase 1 completed therapies years before full FDA approval” - BioSpectrum India",
-    "url": "https://news.google.com/rss/articles/CBMirAJBVV95cUxPR2lfZFlZbjZTcUYwYnBudUVUQk9Jd0MwY0NKTzFGd0FwWUYzMExBMGROTjR0S3dVcGJhX2RqY3BrLWoyLXljbHcwc2lZSGtjZmJld3oyR3ZxQVV6TERUSDlLZm5aUjJueVVEalRocDl6b3VyejV6MWNJWGJSamdPY25JTGhvZ3FZVzBUM1BtN3M2a016N29mM3JJZlRJbXFuT3NkYWt6b2V5WXFrM1NqM0ZUWTZRSXVSaEFrT0tNdkVqSTRRbEFVTHFiZnVESmRxdjJZQk96OEN6LU8yOE5LOHJiRTBFUFZQTFVfeXM4MGtoX1FycE1RbWJrZVRCWTFVWFA2eG9fcjB6eVdYU1lUUDRDX3VfLWtxLU82V0ctUVFZR0NDTGk5TnJ1ams?oc=5",
-    "source": "Biotech",
+    "id": "947a1deb7a0f",
+    "title": "States bet big on rural health startups, with a Silicon Valley twist - Modern Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxPTkVycy1KSWc4OE9ReUFmbklPcXdMV05RQ0hUSkVlWjJMMUg0dWtPc2FoSmg5WWcxOGQxN0lBMXdORE5lM3M3V3FzMXJxRExva3Fqa3NaenZlM2FXUDd0cUV6YlVNdjI1dGMycmxiRk45LUNvdTQxY2ZXdmQ1UUFQZk9fOHRTdzZaTy1nRUptMmdiMXNOY3ZZNEh6YlZlbUZ6eWo0?oc=5",
+    "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-05T18:15:13+00:00",
-    "summary": "“Montana’s Right to Try law creates novel pathway for life sciences companies to commercialise Phase 1 completed therapies years before full FDA approval” BioSpectrum India",
+    "published": "2026-10-09T18:28:00+00:00",
+    "summary": "States bet big on rural health startups, with a Silicon Valley twist Modern Healthcare",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "telecom",
       "lifesciences"
     ],
-    "relevance_score": 6
+    "relevance_score": 7
   },
   {
     "id": "8ac74a412d57",
@@ -599,34 +555,47 @@
     "relevance_score": 6
   },
   {
-    "id": "dd7c5b3f33f5",
-    "title": "Oku Digital Health Launches From Topcon Healthcare to Transform Eye Care Into Whole-Body Health - GlobeNewswire",
-    "url": "https://news.google.com/rss/articles/CBMi-wFBVV95cUxOUTVZeUpiXzNtX1luZkE3YXZYRHZQYk40T2JDQ3FLYnhqWlFPa1hpVnJwWWxneHZwNnJFWnJVNFJpdEJKcE5HTnVwXzdSelFINnZNYWluQ2taZFVFd3ZZb3ZPejJub2s0bWpQNzBhbjBBTnFjdVlTWVpyMEVNLXVXdTBrQUg2MHRGLUJoVnpLb2RlQTEtSnA5b3hBWFJ3LTNTc1ZFZ3dYZzJOWEw0Y01rMGZwNS0xT2kxRHhJRDZ0Z0p5NDExSzhCdnpWbUZic250TXMzT3k3c3AyeE44NGh4VWUyZFFJM3BmdUp4Q19SRHlWdWc3TVpuVzVScw?oc=5",
+    "id": "fde7c1df1761",
+    "title": "What Life Sciences Commercial Teams Can Learn from Digital Health - MedCity News",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxOc2RIbkpMUlkwNGpCVWdBZld3ZGF2X29acnRpaW5pN0hQRWRmY3VWRjZsb3Y2QnlxdlRMd1RTaVlzcFBqOV9CdTdzYnlST1FSbzJZWHZtM1pYaUpwdVNRVUdxeUVnMG5oSWZqcEs1ZEtZOU9wcDVmZFU0TDFjZ0phRGhoVGJGV3RzWlVDUF9uMDZrQ0dsdzZzQlJza0R2ZTg?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-06T13:05:00+00:00",
-    "summary": "Oku Digital Health Launches From Topcon Healthcare to Transform Eye Care Into Whole-Body Health GlobeNewswire",
+    "published": "2026-10-09T13:54:57+00:00",
+    "summary": "What Life Sciences Commercial Teams Can Learn from Digital Health MedCity News",
     "image_url": null,
     "tags": [],
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 5
+    "relevance_score": 6
   },
   {
-    "id": "ba9c8e9f125e",
-    "title": "Abbott nabs FDA approval for new CardioMEMS HF System that allows heart readings to be seen at home - Fierce Biotech",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxNMm9WNi03NEJsemRSNWF5SHhiQWV4MmQ5enhSNkQ0WW43Q1dsdDlDd1ZWd3A0c2ZQNGFvUU5RUmprQXRtdlR2MGVWM1I4VXFDYjA4NXpSNkZabk8zNHNnZ3NpdXlKcExCRmU3TmJ5VVVCVUc5elRjVTZEOFQyY0NxQnFWZ1VQQ3JmNS1SNWpBajVsNWwwRmdVeG11RGZ1YnQ4eW9iand1akpaUmotbzRKbXpLWTNKdXdyX2FEeS12SQ?oc=5",
-    "source": "Biotech",
+    "id": "9afca7cd6c11",
+    "title": "Rethinking the use of tech to improve the patient experience - Health Data Management",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQR3Ric0dpaEVMakJva2xQUGRLX2R0cVZQR3pxVDl5dHdSZTJsbVI2ejRtMW55WUVwd1Y5TV9WZmxBcVZOLUdwS256T2swUWJnZG1aNFUzUk4yS0FNWFc5V2lvUURLVVhWVTFOUzU5NTBDNzYyRFkzZHZTTHRVV210OTFSYktOU3hfSnBQWlNlMVZGTWM1cGR6bk4wTXVaNzlybmhzTTg5Z1JGUQ?oc=5",
+    "source": "Healthcare Digital",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-06T15:08:43+00:00",
-    "summary": "Abbott nabs FDA approval for new CardioMEMS HF System that allows heart readings to be seen at home Fierce Biotech",
+    "published": "2026-10-09T14:49:20+00:00",
+    "summary": "Rethinking the use of tech to improve the patient experience Health Data Management",
     "image_url": null,
     "tags": [],
     "industries": [
-      "media",
-      "tech",
       "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "062c5b913e59",
+    "title": "Oku Digital Health Launches From Topcon Healthcare to Transform Eye Care Into Whole-Body Health - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxNU0VCdmtwRlVQdFBQRHI3NFQtWUpoU3c1MEhncTdtQkdfUDQ0N1ZZT0dkRUxkQ2tNZlJUZTNvRmNMS2ZBTW9GRjZWUjlvYWtTRnp4UFAwcjVBNHhzbXlMTmdZQlp2Y2hqcTZ1bFBYYkY1QWpWeXl3LU5MaW0yWW5sSzg1UjZhZmYtZHhvSDdwbWR1YWxjNUpiV0tQYw?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-06T13:05:00+00:00",
+    "summary": "Oku Digital Health Launches From Topcon Healthcare to Transform Eye Care Into Whole-Body Health Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [
       "lifesciences"
     ],
     "relevance_score": 5
@@ -659,22 +628,6 @@
     "tags": [],
     "industries": [
       "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "09e4265b39bc",
-    "title": "TJ Parker take next health tech swing with General Medicine - Axios",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxOR0ZjWXZmcE4xbVpEbUFmV3BjaGdoWHZNR2RHN3pKMFFpTTNfZWV1LXZBbnAtd29jMXdLNjRuTVZFRUw1bFg4WC00LTVEdDZhRkpHMFJZNXJQQ2JYWUdYbW13YWxqRHMtLVltQzRiU1lmYXNabWZVN1NrN1liT3gzYzk5RmxYdUNU?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-07T21:01:17+00:00",
-    "summary": "TJ Parker take next health tech swing with General Medicine Axios",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 5
