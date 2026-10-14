@@ -13,7 +13,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 46
+    "relevance_score": 43
   },
   {
     "id": "a4f4645ea2ec",
@@ -31,7 +31,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 36
+    "relevance_score": 33
   },
   {
     "id": "c7421c58cca3",
@@ -48,7 +48,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 15,
+    "relevance_score": 14,
     "also_covered_by": [
       "Fierce Healthcare",
       "Health Tech"
@@ -68,7 +68,7 @@
       "lifesciences",
       "financial"
     ],
-    "relevance_score": 15,
+    "relevance_score": 14,
     "also_covered_by": [
       "Fierce Healthcare"
     ]
@@ -82,41 +82,6 @@
     "published": "2026-10-13T16:36:00+00:00",
     "summary": "CVS Health has reached a $315 million settlement with the Department of Justice that resolves allegations the pharmacy giant knowingly filled unlawful opioid prescriptions.",
     "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2161179281.jpg?VersionId=WFpZaHg1ztSzFVNBYb5v_qiOB_uVMJBA",
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "89f4f685d9b7",
-    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
-    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-10-13T23:13:31+00:00",
-    "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed on stage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Biotech & Health",
-      "Science Corporation"
-    ],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "b9de27b88b55",
-    "title": "UnitedHealth Group execs detail continued improvements at Optum Health",
-    "url": "https://www.fiercehealthcare.com/payers/unitedhealth-group-beats-street-41b-profit-q3",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-13T08:17:00+00:00",
-    "summary": "Another round of healthcare industry earnings reports kicked off Tuesday morning, with UnitedHealth Group reporting $4.1 billion in profit for the third quarter.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1642594971/UHG_Exterior_221.jpg/UHG_Exterior_221.jpg?VersionId=PgCTJoCwWih3O.nefdNMJ.c3EHMaXsMk",
     "tags": [],
     "industries": [
       "lifesciences"
@@ -138,7 +103,44 @@
       "lifesciences",
       "financial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
+  },
+  {
+    "id": "89f4f685d9b7",
+    "title": "Science Corporation implants its vision-restoring chip in its first Stargardt disease patient",
+    "url": "https://techcrunch.com/2026/10/13/science-corporation-implants-its-vision-restoring-chip-in-its-first-stargardt-disease-patient/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-10-13T23:13:31+00:00",
+    "summary": "Max Hodak, the former president and co-founder of Neuralink, detailed onstage at TechCrunch Disrupt how his company's work with PRIMA is part of its path toward a novel brain-computer interface (BCI).",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/55588371385_eb2e316d52_o.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Biotech & Health",
+      "Max Hodak",
+      "Science Corporation",
+      "TechCrunch Disrupt"
+    ],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "b9de27b88b55",
+    "title": "UnitedHealth Group execs detail continued improvements at Optum Health",
+    "url": "https://www.fiercehealthcare.com/payers/unitedhealth-group-beats-street-41b-profit-q3",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-13T08:17:00+00:00",
+    "summary": "Another round of healthcare industry earnings reports kicked off Tuesday morning, with UnitedHealth Group reporting $4.1 billion in profit for the third quarter.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1642594971/UHG_Exterior_221.jpg/UHG_Exterior_221.jpg?VersionId=PgCTJoCwWih3O.nefdNMJ.c3EHMaXsMk",
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 12
   },
   {
     "id": "835ab57e0c2f",
@@ -177,34 +179,31 @@
     "relevance_score": 11
   },
   {
-    "id": "e7b0b07da25b",
-    "title": "Google & Flo Health Launch Wearable Femtech Partnership - Healthcare Digital",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdGh5aGlvSjI1R0h4SU5GbzZUT3hxanN1dUF2N0dMbFkwUEVGTkxyTnhrYi12bkp5OUpJNWlha2RnczQ0cnJjZ3JyeVI3bmRDOVFwZ25NeVlIb0RZeEU3cXhJXy14c05yTmM4VUU1YVdLT1FHc2UyMkRRMVp5TmxhU01sVE0zU29MejJadHplLWhHRWM?oc=5",
+    "id": "be140785dab1",
+    "title": "Texas Tech University Health Sciences Center receives $1 million from Children’s Miracle Network - KFDA | NewsChannel 10",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxPLXRlQ0duZ2I2VnR2NUs4RnM3MlJILXJjWFBwN0FlbW50VXpRaEZoZmhTaHlEX0p5MUJScGFCNUpSUGxHbC1uSnMxejdIN0d2cFRKaGloQUhEeDk5NWhHeGhsaGk3czNyQ2pMXzhHWWp3VHN5QVhuMkU2SDhmcTdwTm43UVJRQTVScDBTVVdWUmI0WWNjVXUzQWVkaG1fQlFBeUlNQ1VTbU1kbzU0MUFyNkpSemxpT0hSYlhILXdsRU50TVN6NUZtdVphVDc1VUlOeHlv?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-13T12:39:59+00:00",
-    "summary": "Google & Flo Health Launch Wearable Femtech Partnership Healthcare Digital",
+    "published": "2026-10-13T17:33:45+00:00",
+    "summary": "Texas Tech University Health Sciences Center receives $1 million from Children’s Miracle Network KFDA | NewsChannel 10",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
       "lifesciences"
     ],
     "relevance_score": 11
   },
   {
-    "id": "b8e26360f0fa",
-    "title": "Miami biotech firm one step closer to FDA approval for type 1 diabetes treatment - The Business Journals",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRk1CVkM4NE5HZi00TG5zcHk0bU5aUURLaGR6NnRjaTVwbGNMeTdhVEUyclpSdEk3S210eFdhRHBtVzJzM2YtUXdGbWE4V3ZFWHBpVkl0UTAtVV9SaF9BQWEzQ2UxRWJlNDh1dkVvcUptVTgxQno3YXFhQUxIYkpCTFVWOXRhZDQ5d3h4bEFiNjE5S2RKQVlTNGZJR2xfbWVoNTd5ZFh5VnZjUVk?oc=5",
-    "source": "Biotech",
+    "id": "19545add445c",
+    "title": "From Hospital AI to Home Monitoring: Taiwan's Health-Tech Sector Tests Its U.S. Market Fit in Dallas - PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxOXzNYQ3Z3U1hubllFLXV1VXFnTWF5aUdzRmRfQ0d4WU5hc2MzckVocGc0LURNT1NPMHN2eXAyV0F0d1RPTFJFVzM5Zng3SGZ3d0M1LTh4ekQ4TjlEdjRzWlRtNG0wcVNEbVpldm11WU5memNxcVJpd05hZ0tPOENxVWppWDdRV01zb0dIb04yejJyd0Z0Z3ZNRUtXeXZoNkR1NmJPc2RrUEFlNWEyQ3BicUhEQkV2VU5mNkhhamJJZ3hPYi13eFNDa3NaVHpHUklPSnJpYmdFa3dYcHltWnBvekx5T3F2QWc?oc=5",
+    "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-13T18:44:00+00:00",
-    "summary": "Miami biotech firm one step closer to FDA approval for type 1 diabetes treatment The Business Journals",
+    "published": "2026-10-14T05:55:00+00:00",
+    "summary": "From Hospital AI to Home Monitoring: Taiwan's Health-Tech Sector Tests Its U.S. Market Fit in Dallas PR Newswire",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 11
@@ -261,22 +260,6 @@
     "relevance_score": 10
   },
   {
-    "id": "f16a6d302d4b",
-    "title": "What Gen Z healthcare workers are really looking for",
-    "url": "https://www.healthcaredive.com/spons/what-gen-z-healthcare-workers-are-really-looking-for/832325/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-12T09:00:00+00:00",
-    "summary": "70% of Gen Z healthcare workers are looking to leave. What will convince them to stay?",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "4e3b05aef414",
     "title": "Thoreau-backed Ensemble, Penelope Health partner to bring payer policy intelligence into RCM",
     "url": "https://www.fiercehealthcare.com/health-tech/thoreau-backed-ensemble-penelope-health-partner-tackle-payer-denials-upstream",
@@ -293,6 +276,56 @@
     "relevance_score": 10
   },
   {
+    "id": "e7b0b07da25b",
+    "title": "Google & Flo Health Launch Wearable Femtech Partnership - Healthcare Digital",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxNdGh5aGlvSjI1R0h4SU5GbzZUT3hxanN1dUF2N0dMbFkwUEVGTkxyTnhrYi12bkp5OUpJNWlha2RnczQ0cnJjZ3JyeVI3bmRDOVFwZ25NeVlIb0RZeEU3cXhJXy14c05yTmM4VUU1YVdLT1FHc2UyMkRRMVp5TmxhU01sVE0zU29MejJadHplLWhHRWM?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-13T12:39:59+00:00",
+    "summary": "Google & Flo Health Launch Wearable Femtech Partnership Healthcare Digital",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "b8e26360f0fa",
+    "title": "Miami biotech firm one step closer to FDA approval for type 1 diabetes treatment - The Business Journals",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxQRk1CVkM4NE5HZi00TG5zcHk0bU5aUURLaGR6NnRjaTVwbGNMeTdhVEUyclpSdEk3S210eFdhRHBtVzJzM2YtUXdGbWE4V3ZFWHBpVkl0UTAtVV9SaF9BQWEzQ2UxRWJlNDh1dkVvcUptVTgxQno3YXFhQUxIYkpCTFVWOXRhZDQ5d3h4bEFiNjE5S2RKQVlTNGZJR2xfbWVoNTd5ZFh5VnZjUVk?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-13T18:44:00+00:00",
+    "summary": "Miami biotech firm one step closer to FDA approval for type 1 diabetes treatment The Business Journals",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "c2670f0cccbe",
+    "title": "Leadership in Digital Health: How to Transform Hospitals Through Technology, Data, and Artificial Intelligence - Telefónica",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQM19jUjdmdDMzcGZwZ05YenFLTlZHWjdsQTBKVjM5eXFLUElhNmFaZjFfbFJwYXN1WjRKTGpxVTVha2s5dFVWdG14SHY1SEhHTWhZM00tQXdNWl9sY1hNc0NBMnlfMFRoZFdMbWtob2lwZ1pvYWlhcW1GQWprNExXUHFERnB5TDA1bV92ODI5dk5CX3RHMlByM3BsRXNXOEdSbmsyWGRfeGc4akY5VUc3d2V2VXRNZ3RMRUhGWDRoZXFYald0XzZxczB2ZWE4ekd2eHczYmFhVQ?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-14T07:30:00+00:00",
+    "summary": "Leadership in Digital Health: How to Transform Hospitals Through Technology, Data, and Artificial Intelligence Telefónica",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "cc2dc7bd1591",
     "title": "Fierce Healthcare Regulatory Recap: CMS releases 2027 MA star ratings; HHS awards $28M for falls prevention",
     "url": "https://www.fiercehealthcare.com/regulatory/fierce-healthcare-regulatory-recap-cms-releases-2027-ma-star-ratings-hhs-launches",
@@ -303,6 +336,22 @@
     "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202024-12-18T124048.388.jpg?VersionId=f96roXX6whlbhoOrOzAqmanxiryr55yU",
     "tags": [],
     "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "f16a6d302d4b",
+    "title": "What Gen Z healthcare workers are really looking for",
+    "url": "https://www.healthcaredive.com/spons/what-gen-z-healthcare-workers-are-really-looking-for/832325/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-12T09:00:00+00:00",
+    "summary": "70% of Gen Z healthcare workers are looking to leave. What will convince them to stay?",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 9
@@ -336,69 +385,6 @@
     "industries": [
       "tech",
       "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "e82334525cc2",
-    "title": "US FDA nod validates Asahi Kasei's $920M Aicuris bet - BioWorld News",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxORHl0MC13SXhxQk0yczFBVS0xcms1RFpYa3BZeVQ3VFlfTVFVclpwVjZnZjF3QWFXWlFDQW5VZXBhWUxyV0JGQUVGT1ZKSW1PQ2VvZ3FJNG9tamh4RGwydC1sUFNfc3hHX3V3UnlxWVNVMzUwTTR2cTBzcXFtVWQtRU5TZnJ2WWg4VklnMDN2NDcxdFNQZnc?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-12T16:00:00+00:00",
-    "summary": "US FDA nod validates Asahi Kasei's $920M Aicuris bet BioWorld News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "a46cb1cdbcf4",
-    "title": "Anne Lepetit: AXA Health’s Next Chief Medical Officer - Healthcare Digital",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxOVXVhaHlUMk9wd182c1VENDNPQmo0SEFsX19Ca2lBQmxpeU9JcE1tMmxoZEl5b2pVN0NLV1pyRlc4SWY1TW5ybXJMQlU3V2UxUGlYWGZpdXlLY3dZcF9lNTdtVUMzaW5HVXJHWkRNaVc5eGU0YzhJQ29lSGZ4VkctcTdjRzF1X19hTFNXc2JsNmg?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-13T11:37:16+00:00",
-    "summary": "Anne Lepetit: AXA Health’s Next Chief Medical Officer Healthcare Digital",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 8,
-    "also_covered_by": [
-      "Fintech"
-    ]
-  },
-  {
-    "id": "6a849fea25f4",
-    "title": "NEW ISSUE LIVE | THMT Advances Digital Health From Research to Real World Care - WebWire",
-    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10YV9JemRseGFlbXBVMHVOdDJLQTM2ZjNEVmhZaGlHd3ZtMDNOYUtPS0lMZmNsdUJvOFVxZlFTMkxPUVc2R09fZjJVeWdidlppWW9vU1dUQVBnZHhwYnlVSw?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-13T12:04:49+00:00",
-    "summary": "NEW ISSUE LIVE | THMT Advances Digital Health From Research to Real World Care WebWire",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "697a107923c4",
-    "title": "Digital Health Coffee Time Briefing ☕ - Home | Digital Health",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQd1VEXzYzdjNaZzRmVjdvdktmVkxJX3NGQURXTklQb3A0REJFM1dZOXNVVjNwU0lCLXlCOXpkdlpxUDMwQnVFcFdnRUVMUHZoU05MLUpHdy1OaTJtVjRBcTViZFd4dnNTUXdDNC1nNFFubC1sMmV6aDJ3SkxNR1d2TzR3SzZLbVRnZUxkdlFlZjh5Zw?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-13T13:58:45+00:00",
-    "summary": "Digital Health Coffee Time Briefing ☕ Home | Digital Health",
-    "image_url": null,
-    "tags": [],
-    "industries": [
       "lifesciences"
     ],
     "relevance_score": 8
@@ -450,6 +436,21 @@
     "relevance_score": 7
   },
   {
+    "id": "6a849fea25f4",
+    "title": "NEW ISSUE LIVE | THMT Advances Digital Health From Research to Real World Care - WebWire",
+    "url": "https://news.google.com/rss/articles/CBMiYEFVX3lxTE10YV9JemRseGFlbXBVMHVOdDJLQTM2ZjNEVmhZaGlHd3ZtMDNOYUtPS0lMZmNsdUJvOFVxZlFTMkxPUVc2R09fZjJVeWdidlppWW9vU1dUQVBnZHhwYnlVSw?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-13T12:04:49+00:00",
+    "summary": "NEW ISSUE LIVE | THMT Advances Digital Health From Research to Real World Care WebWire",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
     "id": "30e3fbb5da51",
     "title": "Join Us at INVEST Digital Health for a Conversation on Consumer-Centered Care across the Healthcare Ecosystem - MedCity News",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxOTTR0aVl3TkdZLU1rN1lGSUdhb3NqZ2dvUnlCTldVMFdRSUNCU2pJaEFabDJvVEpuV2xBSWlxTXp4ZTkxT3gwdl9NOHZ3cVdtbzc5aldZWGt4MEFzOGVxWl9iTUZHSE91eWx0clVzUlJJMEt1ZW5hWUFBMkV5VkUzZzhQN25XS3VuWmZiODN6WHhGTVJlRC1VMVVLX0hPd1NCUkZ0VmZ4R2F2emlZdnVhaXk0WTJxU3htT1NwSVR3NmRWTi14U3Y0RWFNM0s2clFJQ3FTckNDVFFEdw?oc=5",
@@ -480,22 +481,6 @@
       "financial"
     ],
     "relevance_score": 6
-  },
-  {
-    "id": "475a55cc9920",
-    "title": "Hinge Health sees hardware deals ahead in digital health push - Modern Healthcare",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQdGdEbE42VDVvOVM1R1FWNllSWElwX0tPb21iYUJ6YVdabXNJSEhVejZKS2ZLMHFSUVRuQ1pzTndsTHhvYW1NT0tsdm0yT0RJNmM4eGNOeXhza0duMm52NHFzZWF2MEl0TkpKT20tWVk4Z1M1SzhOTnZZNzRQeVBScGhHaHREV0s4Ul91SmlvQzUxa0xadGFHNkM2QnA?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-07T19:46:00+00:00",
-    "summary": "Hinge Health sees hardware deals ahead in digital health push Modern Healthcare",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 5
   },
   {
     "id": "163e979e2ae6",
@@ -552,22 +537,6 @@
     "source_category": "industry_lifesciences",
     "published": "2026-10-09T16:53:00+00:00",
     "summary": "Teva Wins FDA Approval for Monthly Schizophrenia Injection Labroots",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "e38ac8b4d89b",
-    "title": "FDA approves breakthrough drug to treat advanced pancreatic cancer - ABC News - Breaking News, Latest News and Videos",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVOaEFzN0VYZFQ1VGFmaFZsVUNRTmg5TGhOTk1MVDBSVENmejFfQmJta29jaDJ4Qk5NWTkxc2QzRUhpRDJleU9BZTkxYUV4YzZDRnNIY2tkeHJMcTF5S0ZKV3lGVFAwTXlGYkE4QXRna1VOQ2RmVXE4eTl6TjdRS09XUFlqaFBOQmN2aDN0d3E1Y1pvZDlfcmJSVlF0dVZwbFpUamhBLWIyUTVJVFHSAbMBQVVfeXFMUFFHQm1SOGhLWmFEZ29HVmNYSnEzcnAwZjdvMXhwT2pWbkhTMzY4ZkUxT1IwYlFVZy1oSXl6a0E0V3I1czJKdko2SHJaWUZSNU5OaDU5b1BfNkVRNjJ4aHFzN3NRYnNPZndPQmhoVXpOZEhmY0JvbmVKSWNaRnkxdlVNWHdoazhGY2lMSnpXZnZ4YTJ0Z19RNDdSQ0VsM3hoUm1YWjJuN0ZMdlphSkZNWWNGUmM?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-11T15:57:35+00:00",
-    "summary": "FDA approves breakthrough drug to treat advanced pancreatic cancer ABC News - Breaking News, Latest News and Videos",
     "image_url": null,
     "tags": [],
     "industries": [
