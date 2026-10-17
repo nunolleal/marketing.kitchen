@@ -1,18 +1,5 @@
 [
   {
-    "id": "c5024f728bbd",
-    "title": "Influencer Marketing Strategies For Small and Midsize Enterprises",
-    "url": "https://www.salesforce.com/blog/small-business/influencer-marketing-for-startups/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-15T13:00:00+00:00",
-    "summary": "Influencer marketing can turn a handful of trusted voices into a fun growth engine.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/image_70de13.jpeg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 33
-  },
-  {
     "id": "77d0bc3199b7",
     "title": "What’s New in Service Cloud: 10 Launches That Help Resolve Customer Service Cases Faster",
     "url": "https://www.salesforce.com/blog/service-cloud-fall-2026-releases/",
@@ -44,6 +31,19 @@
     "relevance_score": 32
   },
   {
+    "id": "c5024f728bbd",
+    "title": "Influencer Marketing Strategies For Small and Midsize Enterprises",
+    "url": "https://www.salesforce.com/blog/small-business/influencer-marketing-for-startups/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-15T13:00:00+00:00",
+    "summary": "Influencer marketing can turn a handful of trusted voices into a fun growth engine.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/image_70de13.jpeg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 30
+  },
+  {
     "id": "f1e019bdc78e",
     "title": "CRM for Non-Techies",
     "url": "https://www.salesforce.com/blog/small-business/crm-for-non-techies/",
@@ -54,7 +54,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image.png",
     "tags": [],
     "industries": [],
-    "relevance_score": 31
+    "relevance_score": 27
   },
   {
     "id": "929fa9ac87ed",
@@ -69,7 +69,22 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
+  },
+  {
+    "id": "d26c76855284",
+    "title": "What DocuSign (DOCU)'s Salesforce Expansion Means For Shareholders - Simply Wall Street",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPUnBNcnIwWFphUlVlV3o3LWN1T2hncnU0RWRjX0IxMURIZjY4ejkzNDVWdVhTV2FuMzNfVGlNT0FBd2k4akJ2bUZ3NWd1ODRtcks0VlUzMjRvZ0NTajAyTk9jUVJObnp2Vk15WE1IcmF6ajdPNm5zbUVLSlBYOTRxa0s0d2tKeUhBSU0tQ1VlWE82akNJTHlkejNMc3J1TEViTkVGWnZ2QTVWN1RxNnBteExSUWNXZG1NaDJhc25zTl9vSGE2V1HSAcsBQVVfeXFMUFZOek5rcE9PUG5CZEVidFZLVFRicGlNbTVtZFp0RVJiYVJWQlZoQWN5YnJuTHduUDg5blNmbUVzZURPRVotV1o2cUJqckVuSldmdlhvdGlyamduZUZQUTdadTlUQk5FdUx1QUZJU0JuOE1fZ2pEQlljZFJSNGZIdDFvQThWTDdnTnlEbTk0TEhIRmVHVWxBU0I5WXNqaWg4bzk3a0FORnNJdUdpa2FhT3ZBMlltQy1PXzNSemVWWl9lNUJYOVhRUWJkQkk?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-10-17T13:40:34+00:00",
+    "summary": "What DocuSign (DOCU)'s Salesforce Expansion Means For Shareholders Simply Wall Street",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 13
   },
   {
     "id": "b66ce94d4c41",
@@ -98,22 +113,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/Screenshot-2026-10-16-at-5.15.12-PM.png",
     "tags": [],
     "industries": [],
-    "relevance_score": 12
-  },
-  {
-    "id": "919dc77e4ebc",
-    "title": "5 Tips To Train Your AI Tools: Get Rid of Those Hallucinations",
-    "url": "https://www.salesforce.com/blog/small-business/train-your-ai-tools/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-14T13:00:00+00:00",
-    "summary": "Put your AI tools in the ring with these tips on training against hallucinations.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/image_1317a8.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 10
+    "relevance_score": 11
   },
   {
     "id": "a077bf71c05d",
@@ -147,21 +147,6 @@
     "relevance_score": 10
   },
   {
-    "id": "19fa4d9934db",
-    "title": "Formula 1® makes the rules accessible to every fan with Agentforce - Salesforce",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxNaVA3SDNVMm5mVTFWV3l6UHR5YXhJNHJsZHJZZW4wc3VTWXBQUUZGdE9Xdkh3X1ZMYXNkUFhaWk0xT0FMVmxwYlpPVFZTV2lYTGZIMHhxWFQ1SHNsN0h2dE5kV3NndldiRmFUb2pWOERIOVlmS1pTbXJxdXVjcGFKTU43dEQ0bWphdWc?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-10-16T03:18:32+00:00",
-    "summary": "Formula 1® makes the rules accessible to every fan with Agentforce Salesforce",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "87927470fa0d",
     "title": "Winter ‘27 Release: Top Development & Security Features",
     "url": "https://www.salesforce.com/blog/platform-winter-27-release/",
@@ -172,6 +157,21 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/02/26006_Salesforce-Blog-360_1500x844_Blog-header-1.jpg",
     "tags": [],
     "industries": [],
+    "relevance_score": 9
+  },
+  {
+    "id": "919dc77e4ebc",
+    "title": "5 Tips To Train Your AI Tools: Get Rid of Those Hallucinations",
+    "url": "https://www.salesforce.com/blog/small-business/train-your-ai-tools/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-14T13:00:00+00:00",
+    "summary": "Put your AI tools in the ring with these tips on training against hallucinations.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/image_1317a8.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
     "relevance_score": 9
   },
   {
@@ -222,6 +222,21 @@
     "relevance_score": 7
   },
   {
+    "id": "c7ef9bb743f4",
+    "title": "Docusign and Salesforce Launch Intelligent Agreement Management Natively Across Salesforce to Power Agentic Agreement Workflows - PR Newswire",
+    "url": "https://news.google.com/rss/articles/CBMikAJBVV95cUxNRTlDQXpqbHM1bUhpc1hSSmhscEhsZGhIV1dTMDZ4bmIwaXE4bGp6YWtab3RVellUS2dqZGVUeV8zT001QUZiZW5laXk5dzZlb2FWZFotdkhCOVBrZEpWNkkzME9IQnhMYzR5dTZmSkp6NXh3T2FFX1ViMml0MjNtMk9WeWtFa3czSHh1UjhyQUJUdVNBT2F6Z3d6SDdHRVJvSkhENDZGMkxWUmhaUnptVzhWa2EwR2o2YzVKaXdZZGxxLWQwWGNMaWZ5NE1zemtQRXhFMkZ6eVJ5NmYyVEMxdmE2MkpSemFIZ3VSel9vVnNFck80ZzlfSXQ5ckZab0VGLVlNdnNyR2F3enE4Smt6Tg?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-10-13T15:00:00+00:00",
+    "summary": "Docusign and Salesforce Launch Intelligent Agreement Management Natively Across Salesforce to Power Agentic Agreement Workflows PR Newswire",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 7
+  },
+  {
     "id": "2dbf16ec92cb",
     "title": "Drive User Adoption Through Architecture Decisions",
     "url": "https://www.salesforce.com/blog/drive-user-adoption-through-architecture/",
@@ -233,6 +248,21 @@
     "tags": [],
     "industries": [],
     "relevance_score": 7
+  },
+  {
+    "id": "329283e717fa",
+    "title": "Salesforce Gets a Rare BofA Double Upgrade: “AI Should Deepen Dependence” - TIKR.com",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQY05DaFpJQjBBTHl6VUhvTTlqTGk2c1Y5aVREV3dTd3Q1OXpxNjNhZXdaSmFIU292RnFLOG42SjFxZXhYWld2V1lZOUMxa3pJZWtuUHhBY2hIWHF2ZER5a3IzREoxYnJYcXlFQmc4VUdabUpYa1piOFhFSXRNTXZyaTRaeW5kdFBMSDhxd2JfaG80Y1V2VUo4bmV5ZkY?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-10-13T07:08:21+00:00",
+    "summary": "Salesforce Gets a Rare BofA Double Upgrade: “AI Should Deepen Dependence” TIKR.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 6
   },
   {
     "id": "f7ff31406109",
