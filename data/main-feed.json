@@ -18,7 +18,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 46
+    "relevance_score": 43
   },
   {
     "id": "00dba2241b32",
@@ -60,28 +60,7 @@
       "Neuroscience"
     ],
     "industries": [],
-    "relevance_score": 42
-  },
-  {
-    "id": "de0cce47f02c",
-    "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
-    "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-10-17T17:00:00+00:00",
-    "summary": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful,...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Cars",
-      "Electric Cars",
-      "Mercedes-Benz",
-      "News",
-      "Transportation"
-    ],
-    "industries": [
-      "consumer"
-    ],
-    "relevance_score": 42
+    "relevance_score": 39
   },
   {
     "id": "e41822633f70",
@@ -106,17 +85,83 @@
     "relevance_score": 39
   },
   {
+    "id": "de0cce47f02c",
+    "title": "Mercedes-AMG’s first ground-up SUV is a 1,150hp electric beast",
+    "url": "https://www.theverge.com/transportation/1013088/mercedes-amg-gt-suv-price-specs-performance",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-10-17T17:00:00+00:00",
+    "summary": "Earlier this year, Mercedes' AMG performance brand grabbed our attention with the GT four-door coupe, a souped-up sports sedan with three axial flux motors delivering over 1,150 horsepower. Well, now meet its beefier cousin, the 2028 Mercedes-AMG GT SUV, an equally powerful,...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/26C0332_071.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Cars",
+      "Electric Cars",
+      "Mercedes-Benz",
+      "News",
+      "Transportation"
+    ],
+    "industries": [
+      "consumer"
+    ],
+    "relevance_score": 38
+  },
+  {
+    "id": "35cd62faf12b",
+    "title": "Disney agrees to hire the majority of Character.AI’s workforce",
+    "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-10-18T16:30:00+00:00",
+    "summary": "After chatbot startup Character.AI filed for bankruptcy earlier this week, many of its employees will have the opportunity to take jobs at Disney. Character.AI’s former CEO Karandeep Anand recently became the entertainment giant’s first CTO, and the startup previously said...",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2024/01/character-ai-alexa.jpg?resize=1200,675",
+    "tags": [
+      "Startups",
+      "Media & Entertainment",
+      "AI",
+      "Disney",
+      "character.ai"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 19
+  },
+  {
+    "id": "5d97d219c9d8",
+    "title": "‘You Can See Everything’ Becomes Surprise Box Office Hit With $15 Million Opening",
+    "url": "https://www.forbes.com/sites/zacharyfolk/2026/10/18/you-can-see-everything-becomes-surprise-box-office-hit-with-15-million-opening/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-18T16:27:40+00:00",
+    "summary": "The documentary about the Theranos founder in the days before she reported to federal prison only opened at less than 1,000 theaters.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad4f28590e06070044701b9/0x0.jpg?width=960&precrop=3424%2C1925%2Cx0%2Cy200",
+    "tags": [
+      "Breaking News",
+      "/news",
+      "Business",
+      "/business",
+      "Breaking News"
+    ],
+    "industries": [],
+    "relevance_score": 19
+  },
+  {
     "id": "26ef36236b6b",
     "title": "Salesforce (CRM) Is ‘Sticky’ In The AI Era, Jim Cramer Said & Remarked That Amateurs Can Beat Adobe - Yahoo Finance",
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQRGlLYWNJSm1aNVBOOE1SdEc0YXR5aUhIS0V1c3RaTTFSc2o5dHNyTWNueXBpc2Z0dGNrUXVkVnZEOXJoTzFYdjA1akVSWm9fZ0Z1cklQdXdIdkcwVFJ1NFZLNXVEXzhMRWZ1cU5Iams1dnIydk9POWpGWEJtNmtXS3VJcl9sTWNxbUVBSURSRjBLR3Ntcmx2NA?oc=5",
-    "source": "Adobe",
+    "source": "Adobe Inc",
     "source_category": "adobe",
     "published": "2026-10-17T18:55:54+00:00",
     "summary": "Salesforce (CRM) Is ‘Sticky’ In The AI Era, Jim Cramer Said & Remarked That Amateurs Can Beat Adobe Yahoo Finance",
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 35
+    "relevance_score": 35,
+    "also_covered_by": [
+      "Salesforce AI"
+    ]
   },
   {
     "id": "a5fe665cdc9c",
@@ -133,9 +178,126 @@
     ],
     "relevance_score": 33,
     "also_covered_by": [
-      "Adobe Products",
-      "Adobe Inc"
+      "Adobe Products"
     ]
+  },
+  {
+    "id": "ecffc3f8a955",
+    "title": "‘Marshals’ Season 2 Release Guide: Here’s When Episode 3 Drops On CBS And Paramount+",
+    "url": "https://www.forbes.com/sites/erikkain/2026/10/17/marshals-season-2-episode-3-release-time-cbs-paramount-plus-schedule/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-18T16:00:00+00:00",
+    "summary": "Find out when Marshals Season 2, Episode 3, “Falling Sky,” airs on CBS and Paramount+, plus the full release schedule, episode synopsis and cast.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ac25f10e44b5f5f37f92a8a/0x0.jpg",
+    "tags": [
+      "Gaming",
+      "/gaming",
+      "Innovation",
+      "/innovation",
+      "Gaming"
+    ],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "592b22cfe7e4",
+    "title": "Hottest 2026 Midterm Races—Democrats Lead In Texas, Ohio In New Polls (Updated Daily)",
+    "url": "https://www.forbes.com/sites/saradorn/2026/10/18/hottest-2026-midterm-races-democrats-lead-in-texas-ohio-in-new-polls-updated-daily/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-18T15:26:30+00:00",
+    "summary": "Trump has a 38% average approval rating in Nate Silver’s poll tracker.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad4e3b0db2bf66c6298b98a/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "9d2b0954cc69",
+    "title": "The $40-A-Barrel Cost Most Oil Consumers Never See",
+    "url": "https://www.forbes.com/sites/rrapier/2026/10/18/the-40-a-barrel-cost-most-oil-consumers-never-see/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-18T14:57:57+00:00",
+    "summary": "Soaring tanker rates are adding as much as $40 per barrel to oil costs, reshaping global trade flows and raising fuel costs for consumers.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad4dda13bc9d657a9a6b7f4/0x0.jpg?width=960",
+    "tags": [
+      "Energy",
+      "/energy",
+      "Business",
+      "/business",
+      "Energy"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "4f63642d3337",
+    "title": "Trump Shuttering Popular D.C. Golf Course For 15 Month Renovation",
+    "url": "https://www.forbes.com/sites/zacharyfolk/2026/10/18/trump-shuttering-popular-dc-golf-course-for-15-month-renovation/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-18T15:00:22+00:00",
+    "summary": "The president said the new course will be open to the public but capable of hosting “World Class Tournaments.”",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad4de1a9f917f1fe170941b/0x0.jpg?width=960&precrop=1458%2C820%2Cx0%2Cy101",
+    "tags": [
+      "Breaking News",
+      "/news",
+      "Business",
+      "/business",
+      "Breaking News"
+    ],
+    "industries": [],
+    "relevance_score": 16
+  },
+  {
+    "id": "e822c1c6ab65",
+    "title": "Ericsson Bets on AI Traffic and 550 Million 5G Users to Drive India Growth - Retail News Asia",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPMURkcmJwSng1azA2RGtSM1ZIcDBOU1pOYk1KYzYxUEV5ZFFEdVpHV1JRSHdpenZoTXdkbjJrOHlEVktoREptYTVJd1VvMElXeW1vbm9YNnQ0TWtCcHc0UU0yMkN3T3BhZXVNWVNVVExocHN4Vy00LUNCOVBXZldmTGs3RXBfOE1hZ2RrcXVvOGxsTUFGcEtMek12U3NQSy0tLW1GUw?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-10-18T17:07:14+00:00",
+    "summary": "Ericsson Bets on AI Traffic and 550 Million 5G Users to Drive India Growth Retail News Asia",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "telecom",
+      "retail"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "feaf69e12ce5",
+    "title": "Video game ownership bill introduced in Congress",
+    "url": "https://www.theverge.com/policy/1013521/video-game-ownership-bill-congress-power-to-the-players-act",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-10-18T16:27:51+00:00",
+    "summary": "Rep. Ritchie Torres of New York's 15th congressional district in the Bronx introduced the Power To The Players Act this week. If passed, the bill would direct the Federal Trade Commission to establish regulations that guarantee consumers ownership of a game when they pay for...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25544255/2162439650.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.746068936881%2C100%2C78.507862126237&amp;w=1200",
+    "tags": [
+      "Gaming",
+      "News",
+      "Policy",
+      "Politics"
+    ],
+    "industries": [],
+    "relevance_score": 15
   },
   {
     "id": "8ed35fd2f80e",
@@ -157,7 +319,7 @@
       "media",
       "financial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "97b65276d40e",
@@ -178,7 +340,7 @@
     "industries": [
       "media"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "81cc48562269",
@@ -199,7 +361,29 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
+  },
+  {
+    "id": "3a7eaf979be5",
+    "title": "Lenovo’s fast, comfy SteamOS handheld is hundreds off",
+    "url": "https://www.theverge.com/gadgets/1013436/lenovo-legion-go-s-steamos-handheld-deal-sale",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-10-18T15:00:00+00:00",
+    "summary": "The Legion Go S with SteamOS is a pretty solid alternative to the $789 Steam Deck OLED. It runs identical software, but ships in a design with two-stage triggers, a bigger eight-inch IPS screen (1080p and up to 120Hz versus 800p and 90Hz in the Deck OLED), and it’s got double...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/07/lenovo-legion-go-s-steamos-sean-hollister-331A1224.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Gaming",
+      "PC Gaming",
+      "Verge Shopping"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
   },
   {
     "id": "bc3c98da4acf",
@@ -221,7 +405,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "d3b1f9cd31db",
@@ -240,7 +424,7 @@
       "Aerospace & Defense"
     ],
     "industries": [],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "5ec1777f99a5",
@@ -259,86 +443,7 @@
       "SportsMoney"
     ],
     "industries": [],
-    "relevance_score": 17
-  },
-  {
-    "id": "cc10eba0630c",
-    "title": "How overhead projectors took over your classroom",
-    "url": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-10-18T12:55:01+00:00",
-    "summary": "It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for military purposes, called the overhead projector. It would change far more than...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VRH_Overhead_Site.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Gadgets",
-      "Podcasts",
-      "Tech",
-      "Version History"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
     "relevance_score": 16
-  },
-  {
-    "id": "c33361db2a0b",
-    "title": "Valerion VisionMaster Max 4K Projector Review: Looks Great, Sounds OK",
-    "url": "https://www.wired.com/review/valerion-visionmaster-max-4k-projector/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-10-18T10:00:00+00:00",
-    "summary": "The Valerion VisionMaster Max 4K Projector delivers superb blacks, great brightness, and more adjustment capabilities than many users need.",
-    "image_url": "https://media.wired.com/photos/6ad29ddafd63dd03d89fa465/master/pass/Review%20Valerion%20VisionMaster%20Max%204K%20Projector%20102026%20top%20art%20SOURCE%20Valerion.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Reviews",
-      "Gear / Products / Computers",
-      "projectors",
-      "4K"
-    ],
-    "industries": [],
-    "relevance_score": 17
-  },
-  {
-    "id": "f340f53080f4",
-    "title": "Milton Friedman & Keynes Both Thought Government Could Stop Recessions",
-    "url": "https://www.forbes.com/sites/johntamny/2026/10/18/milton-friedman--keynes-both-thought-government-could-stop-recessions/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-18T14:00:00+00:00",
-    "summary": "Resource-bereft governments that most certainly cannot increase “demand” through spending can hardly do so via monetary policy.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/67069dbbc65bec7987f4b4d7/0x0.jpg",
-    "tags": [
-      "Policy",
-      "/policy",
-      "Business",
-      "/business",
-      "Policy"
-    ],
-    "industries": [],
-    "relevance_score": 15
-  },
-  {
-    "id": "cea7651d1685",
-    "title": "J Mascis has nothing better to do",
-    "url": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-10-18T14:00:00+00:00",
-    "summary": "Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis has developed a similar reputation as an interview...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/J-Mascis-Dinosaur-Jr-interview-Babys-All-Right.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Entertainment",
-      "Interview",
-      "Music",
-      "Report"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 15
   },
   {
     "id": "e742628b3824",
@@ -363,62 +468,40 @@
     "relevance_score": 33
   },
   {
-    "id": "785fa59c1af1",
-    "title": "How To Command The Room: Five Presentation Skills Every Leader Needs",
-    "url": "https://www.forbes.com/sites/shephyken/2026/10/18/how-to-command-the-room-five-presentation-skills-every-leader-needs/",
-    "source": "Forbes Business",
+    "id": "27fec2375ba4",
+    "title": "Amid Turnaround, Victoria’s Secret Turns Its Fashion Show Into a Fan Movement",
+    "url": "https://www.adweek.com/creativity/amid-turnaround-victorias-secret-turns-its-fashion-show-into-a-fan-movement/",
+    "source": "Adweek",
     "source_category": "marketing",
-    "published": "2026-10-18T13:00:00+00:00",
-    "summary": "Discover five presentation skills every leader needs to communicate clearly, build trust, engage audiences, and inspire action, based on Kevin Desrosiers' book.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad10e898ff061438688b5ba/0x0.jpg",
+    "published": "2026-10-18T11:00:00+00:00",
+    "summary": "Victoria’s Secret is reshaping its 2026 fashion show into a more communal and accessible event.",
+    "image_url": null,
     "tags": [
-      "Leadership Strategies",
-      "/leadership-strategy",
-      "Leadership",
-      "/leadership",
-      "Leadership Strategies"
+      "Brands",
+      "Creativity x Culture",
+      "Fashion News",
+      "Legacy Brands",
+      "Premium"
     ],
     "industries": [
-      "industrial"
+      "tech"
     ],
-    "relevance_score": 15
+    "relevance_score": 16
   },
   {
-    "id": "c6c2c1a68ccb",
-    "title": "With Hormuz Closed, Central Asia Plays Every Side—And Gains Leverage",
-    "url": "https://www.forbes.com/sites/kensilverstein/2026/10/18/with-hormuz-closed-central-asia-plays-every-side-and-gains-leverage/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-18T12:45:00+00:00",
-    "summary": "With Hormuz closed and Russia's Black Sea route under drone fire, Kazakhstan and Turkmenistan are reviving trans-Caspian pipelines to reach Europe and please the U.S.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad29051830cbf741b686f52/0x0.jpg",
+    "id": "cc10eba0630c",
+    "title": "How overhead projectors took over your classroom",
+    "url": "https://www.theverge.com/podcast/1013473/overhead-projector-version-history",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-10-18T12:55:01+00:00",
+    "summary": "It used to be so easy to get away with things in school. The teacher, after all, was always turned around writing at the chalkboard! But then came a bit of technology, previously mostly used for military purposes, called the overhead projector. It would change far more than...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/VRG_VRH_Overhead_Site.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
     "tags": [
-      "Energy",
-      "/energy",
-      "Business",
-      "/business",
-      "Energy"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "648feb8e7d10",
-    "title": "D.C. Questions Utility Capital Investors Amid Surging Power Demand",
-    "url": "https://www.forbes.com/sites/davidblackmon/2026/10/18/dc-questions-utility-capital-investors-amid-surging-power-demand/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-18T12:44:23+00:00",
-    "summary": "Methods of capital formation by power utilities will be in question when FERC considers whether to approve change of control at AES Ohio.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad4b0b1154f496065c09612/0x0.jpg?width=960",
-    "tags": [
-      "Energy",
-      "/energy",
-      "Business",
-      "/business",
-      "Energy"
+      "Gadgets",
+      "Podcasts",
+      "Tech",
+      "Version History"
     ],
     "industries": [
       "tech",
@@ -427,76 +510,62 @@
     "relevance_score": 15
   },
   {
-    "id": "821470214e9a",
-    "title": "Troy Aikman Hints At Next Move As ESPN Contract Nears End",
-    "url": "https://www.forbes.com/sites/rickellis/2026/10/18/troy-aikman-hints-at-next-move-as-espn-contract-nears-end/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-18T12:35:16+00:00",
-    "summary": "Aikman is making no secret that he is thinking about what comes next as her and longtime partner Joe Buck prepare for the Super Bowl.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad4ba7a77dc8c1c2f0a56ca/0x0.jpg",
+    "id": "c33361db2a0b",
+    "title": "Valerion VisionMaster Max 4K Projector Review: Looks Great, Sounds OK",
+    "url": "https://www.wired.com/review/valerion-visionmaster-max-4k-projector/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-10-18T10:00:00+00:00",
+    "summary": "The Valerion VisionMaster Max 4K Projector delivers superb blacks, great brightness, and more adjustment capabilities than many users need.",
+    "image_url": "https://media.wired.com/photos/6ad29ddafd63dd03d89fa465/master/pass/Review%20Valerion%20VisionMaster%20Max%204K%20Projector%20102026%20top%20art%20SOURCE%20Valerion.jpg",
     "tags": [
-      "Media",
-      "/media",
-      "Business",
-      "/business",
-      "Media"
+      "Gear",
+      "Gear / Reviews",
+      "Gear / Products / Computers",
+      "projectors",
+      "4K"
     ],
     "industries": [],
-    "relevance_score": 15
+    "relevance_score": 16
   },
   {
-    "id": "04ca627159bc",
-    "title": "BlackRock’s Bitcoin ETF Lost $165 Million in a Week. Is Wall Street Pulling Back? - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMi0gFBVV95cUxPdWVvSUF1N25BX0NvR3FkN251V3IwVXp0S2ROaG1pZUsxNmVfbWZiOUU4ZzlZMkFOQi1ETVZDTzY3aUVEVjJjdHZRRk1WQzg2cjkwalVHb0pUMUttcE40TzNLcXhJUFBWUDVQcnh5TEh1TDFjVzkzb0N2dTMzZDhSNFg1Q0d5YURLdGhrX190RjJCYVNvMVdfanpzRVgyVjBzSTlUNHI4Z0NlVlFKUkhhdUJqQ3pfSkRXUGRHUnU3ZGdNSzNRbHFSMGgyNUF3YWtBZGc?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-10-18T14:31:00+00:00",
-    "summary": "BlackRock’s Bitcoin ETF Lost $165 Million in a Week. Is Wall Street Pulling Back? 24/7 Wall St.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
+    "id": "f340f53080f4",
+    "title": "Milton Friedman & Keynes Both Thought Government Could Stop Recessions",
+    "url": "https://www.forbes.com/sites/johntamny/2026/10/18/milton-friedman--keynes-both-thought-government-could-stop-recessions/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-18T14:00:00+00:00",
+    "summary": "Resource-bereft governments that most certainly cannot increase “demand” through spending can hardly do so via monetary policy.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/67069dbbc65bec7987f4b4d7/0x0.jpg",
+    "tags": [
+      "Policy",
+      "/policy",
+      "Business",
+      "/business",
+      "Policy"
     ],
+    "industries": [],
     "relevance_score": 14
   },
   {
-    "id": "30168ad36b6a",
-    "title": "Cities want to put the boot on robotaxis",
-    "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
+    "id": "cea7651d1685",
+    "title": "J Mascis has nothing better to do",
+    "url": "https://www.theverge.com/entertainment/1012442/j-mascis-dinosaur-jr-fender-interview",
     "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-10-18T12:00:00+00:00",
-    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2270749481.jpg?quality=90&amp;strip=all&amp;crop=0%2C15.095986038394%2C100%2C69.808027923211&amp;w=1200",
+    "published": "2026-10-18T14:00:00+00:00",
+    "summary": "Dinosaur Jr. frontman J Mascis is known as something of a slacker guitar god. He stands stoically onstage, barely moving, as he seemingly effortlessly works through deft guitar solos and lopsided riffs. Unfortunately, Mascis has developed a similar reputation as an interview...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/J-Mascis-Dinosaur-Jr-interview-Babys-All-Right.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
     "tags": [
-      "Autonomous Cars",
-      "Policy",
-      "Transportation"
-    ],
-    "industries": [],
-    "relevance_score": 15
-  },
-  {
-    "id": "d57b1ab48fb1",
-    "title": "The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)",
-    "url": "https://www.wired.com/story/best-airpods-case/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-10-18T09:00:00+00:00",
-    "summary": "These accessories add personality to your Apple headphones case, make them easy to find, and offer some protection, too.",
-    "image_url": "https://media.wired.com/photos/6ad29851414b688b51c43c42/master/pass/Best%20AirPods%20Cases%20102026%20top%20art%20SOURCE%20Bandolier.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Buying Guides",
-      "Gear / Products / Headphones",
-      "Shopping",
-      "buying guides"
+      "Entertainment",
+      "Interview",
+      "Music",
+      "Report"
     ],
     "industries": [
-      "tech"
+      "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 14
   },
   {
     "id": "70e136efd2de",
@@ -538,94 +607,125 @@
     "relevance_score": 15
   },
   {
-    "id": "347fe00b6f02",
-    "title": "The best gadget I bought this year is a milk frother",
-    "url": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
+    "id": "785fa59c1af1",
+    "title": "How To Command The Room: Five Presentation Skills Every Leader Needs",
+    "url": "https://www.forbes.com/sites/shephyken/2026/10/18/how-to-command-the-room-five-presentation-skills-every-leader-needs/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-18T13:00:00+00:00",
+    "summary": "Discover five presentation skills every leader needs to communicate clearly, build trust, engage audiences, and inspire action, based on Kevin Desrosiers' book.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad10e898ff061438688b5ba/0x0.jpg",
+    "tags": [
+      "Leadership Strategies",
+      "/leadership-strategy",
+      "Leadership",
+      "/leadership",
+      "Leadership Strategies"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "c6c2c1a68ccb",
+    "title": "With Hormuz Closed, Central Asia Plays Every Side—And Gains Leverage",
+    "url": "https://www.forbes.com/sites/kensilverstein/2026/10/18/with-hormuz-closed-central-asia-plays-every-side-and-gains-leverage/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-18T12:45:00+00:00",
+    "summary": "With Hormuz closed and Russia's Black Sea route under drone fire, Kazakhstan and Turkmenistan are reviving trans-Caspian pipelines to reach Europe and please the U.S.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad29051830cbf741b686f52/0x0.jpg",
+    "tags": [
+      "Energy",
+      "/energy",
+      "Business",
+      "/business",
+      "Energy"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "648feb8e7d10",
+    "title": "D.C. Questions Utility Capital Investors Amid Surging Power Demand",
+    "url": "https://www.forbes.com/sites/davidblackmon/2026/10/18/dc-questions-utility-capital-investors-amid-surging-power-demand/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-18T12:44:23+00:00",
+    "summary": "Methods of capital formation by power utilities will be in question when FERC considers whether to approve change of control at AES Ohio.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad4b0b1154f496065c09612/0x0.jpg?width=960",
+    "tags": [
+      "Energy",
+      "/energy",
+      "Business",
+      "/business",
+      "Energy"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "821470214e9a",
+    "title": "Troy Aikman Hints At Next Move As ESPN Contract Nears End",
+    "url": "https://www.forbes.com/sites/rickellis/2026/10/18/troy-aikman-hints-at-next-move-as-espn-contract-nears-end/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-18T12:35:16+00:00",
+    "summary": "Aikman is making no secret that he is thinking about what comes next as her and longtime partner Joe Buck prepare for the Super Bowl.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad4ba7a77dc8c1c2f0a56ca/0x0.jpg",
+    "tags": [
+      "Media",
+      "/media",
+      "Business",
+      "/business",
+      "Media"
+    ],
+    "industries": [],
+    "relevance_score": 14
+  },
+  {
+    "id": "30168ad36b6a",
+    "title": "Cities want to put the boot on robotaxis",
+    "url": "https://www.theverge.com/transportation/1013220/robotaxi-self-driving-car-laws",
     "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-10-18T13:00:00+00:00",
-    "summary": "Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for its matcha, which is good. But the drink I unexpectedly found myself obsessed...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/96D2EEC6-09F7-402B-B1A3-F1030ADD0D90_1_105_c.jpeg?quality=90&amp;strip=all&amp;crop=0,15.095986038394,100,69.808027923211",
+    "published": "2026-10-18T12:00:00+00:00",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on autonomous vehicles, policy, and road rules, follow Andrew J. Hawkins. The Stepback arrives in our subscribers' inboxes at 8AM ET. Opt in for The Stepback here. How it...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/08/gettyimages-2270749481.jpg?quality=90&amp;strip=all&amp;crop=0%2C15.095986038394%2C100%2C69.808027923211&amp;w=1200",
     "tags": [
-      "Gadgets"
+      "Autonomous Cars",
+      "Policy",
+      "Transportation"
     ],
-    "industries": [
-      "industrial"
-    ],
+    "industries": [],
     "relevance_score": 14
   },
   {
-    "id": "bf58965290e9",
-    "title": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks - CNBC",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUlA0dWpISVQzc09fbG1RYTRMMVNjc1NTVnp0eDVWemdkVjl0VEtaUTZNOHkxWHVpRUhMNXMtaXZJX3NuZGNRcFZQYmhvbzloa1pDRUlwQk1ROWZkWVBDU0dOZXNQdGxyamtWc1R1dkJoM2lOWERlakxUOWw0QkFPVnc4NldFRXJGaHd6X1N6dVlxTWFHeGkwVmx6aFdmOGhBNmpkWkFn0gGrAUFVX3lxTE41YS1DbDdFUGRKdUtXWlo1VDU0S2RybkRsS3RVTmlOZU1RZ1NZNVRwa3lfSi1LY0VtNjZQUFgzTnp6bDQtT0o4VEtGakIyOTFzeDZvLXZIeEdCcFZyUDFTaXpPT1lUd2RnN3o3QnZDbk84SHJRNFBsbTZYQVFfa2pPQ1ItcElpLU9ORjd4V3plSU5WaUhPMTFuYWRXendEQnp4Um5JMkVaajJNcw?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-10-18T12:34:51+00:00",
-    "summary": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks CNBC",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "187d54b15654",
-    "title": "Dodgers Castoff Catcher Abruptly Ends Career Immediately After Season Ends",
-    "url": "https://www.forbes.com/sites/peterchawaga/2026/10/18/dodgers-castoff-catcher-abruptly-ends-career-immediately-after-season-ends/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-18T12:30:00+00:00",
-    "summary": "The Los Angeles Dodgers received an update on a former depth backstop who ended his career at age 34.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/691607a8d4662e7fc455fd09/0x0.jpg",
+    "id": "d57b1ab48fb1",
+    "title": "The Best AirPods Cases We’ve Used In Our Day-to-Day Lives (2026)",
+    "url": "https://www.wired.com/story/best-airpods-case/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-10-18T09:00:00+00:00",
+    "summary": "These accessories add personality to your Apple headphones case, make them easy to find, and offer some protection, too.",
+    "image_url": "https://media.wired.com/photos/6ad29851414b688b51c43c42/master/pass/Best%20AirPods%20Cases%20102026%20top%20art%20SOURCE%20Bandolier.jpg",
     "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
+      "Gear",
+      "Gear / Buying Guides",
+      "Gear / Products / Headphones",
+      "Shopping",
+      "buying guides"
     ],
     "industries": [
-      "media",
-      "industrial"
+      "tech"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "8adf4de8a746",
-    "title": "Yankees Insider Details Jazz Chisholm Jr, David Bednar Free Agent Decisions",
-    "url": "https://www.forbes.com/sites/peterchawaga/2026/10/18/yankees-insider-details-jazz-chisholm-jr-david-bednar-free-agent-decisions/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-18T11:30:00+00:00",
-    "summary": "The New York Yankees’ thinking on two key pending free agents has been tipped by a prominent insider.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad1aae9361376cea1b3be87/0x0.jpg?width=960&precrop=1697%2C955%2Cx311%2Cy52",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "e14a054d8143",
-    "title": "Indonesia’s digital health screening reaches 75 million people - bioengineer.org",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZkpCSnNmV3ZVTFg0dTVXREtuVHlFMDVRNGM4VlQ3MkZ2Zl91ZjZxb19ETWZRcDhJaDhzZEZFb2owZkx3NlZ3WFdNRGhyb3h0UUMycnJkNUJ4NEYtOERob1cxQmJqVTNsa3FJVUhveGR3bjZMeEdkblAtUFlPcjhybWd2bUtFLV9SVGwtN1AtNA?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-18T11:17:08+00:00",
-    "summary": "Indonesia’s digital health screening reaches 75 million people bioengineer.org",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 14
+    "relevance_score": 15
   },
   {
     "id": "89c2b5144941",
@@ -689,14 +789,31 @@
     "relevance_score": 14
   },
   {
-    "id": "c464a2d7f3aa",
-    "title": "Blue Jays Castoff Joins Division Rival Immediate After Season Ends",
-    "url": "https://www.forbes.com/sites/peterchawaga/2026/10/18/blue-jays-castoff-joins-division-rival-immediate-after-season-ends/",
+    "id": "347fe00b6f02",
+    "title": "The best gadget I bought this year is a milk frother",
+    "url": "https://www.theverge.com/gadgets/1013257/milk-frother-cold-foam-gadget",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-10-18T13:00:00+00:00",
+    "summary": "Back in February, I went to Los Angeles to take in some art and stayed in Koreatown. Down the street from my hotel, there was this little coffee shop - Stagger - that is, I think, best known for its matcha, which is good. But the drink I unexpectedly found myself obsessed...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/96D2EEC6-09F7-402B-B1A3-F1030ADD0D90_1_105_c.jpeg?quality=90&amp;strip=all&amp;crop=0,15.095986038394,100,69.808027923211",
+    "tags": [
+      "Gadgets"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "187d54b15654",
+    "title": "Dodgers Castoff Catcher Abruptly Ends Career Immediately After Season Ends",
+    "url": "https://www.forbes.com/sites/peterchawaga/2026/10/18/dodgers-castoff-catcher-abruptly-ends-career-immediately-after-season-ends/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-10-18T10:00:00+00:00",
-    "summary": "The Toronto Blue Jays received an update on a five-year member of the organization who has returned with an American League East rival.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/691b859f7f1be4ffd065a6c5/0x0.jpg",
+    "published": "2026-10-18T12:30:00+00:00",
+    "summary": "The Los Angeles Dodgers received an update on a former depth backstop who ended his career at age 34.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/691607a8d4662e7fc455fd09/0x0.jpg",
     "tags": [
       "SportsMoney",
       "/sportsmoney",
@@ -705,9 +822,10 @@
       "SportsMoney"
     ],
     "industries": [
-      "media"
+      "media",
+      "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "cf177a76d504",
@@ -748,14 +866,14 @@
     "relevance_score": 51
   },
   {
-    "id": "b61615ca5b90",
-    "title": "The Challenges Facing Former Soccer Players-Turned-Pundits",
-    "url": "https://www.forbes.com/sites/clementelisi/2026/10/18/the-challenges-facing-former-soccer-players-turned-pundits/",
+    "id": "8adf4de8a746",
+    "title": "Yankees Insider Details Jazz Chisholm Jr, David Bednar Free Agent Decisions",
+    "url": "https://www.forbes.com/sites/peterchawaga/2026/10/18/yankees-insider-details-jazz-chisholm-jr-david-bednar-free-agent-decisions/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-10-18T09:00:00+00:00",
-    "summary": "Former teammates Landon Donovan and Eddie Johnson are involved in a public feud. The dispute began when Donovan said Americans love to overhype young players.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad40677a80e265ef25461cf/0x0.jpg",
+    "published": "2026-10-18T11:30:00+00:00",
+    "summary": "The New York Yankees’ thinking on two key pending free agents has been tipped by a prominent insider.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad1aae9361376cea1b3be87/0x0.jpg?width=960&precrop=1697%2C955%2Cx311%2Cy52",
     "tags": [
       "SportsMoney",
       "/sportsmoney",
@@ -766,43 +884,71 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
-    "id": "b5a977a230af",
-    "title": "Climate Change Has It In for the World’s Best Surfing",
-    "url": "https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-10-18T09:00:00+00:00",
-    "summary": "As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.",
-    "image_url": "https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg",
+    "id": "596e4e612969",
+    "title": "It’s Too Late for Small Fixes at Pepsi - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxQRXJtYlJ2NXRjMDdlVDBfY3lSbHNKZmpIWUthcURSbmltUzlNODdIU2JOdDhBYnplU2R5bkwtZzdUMWR1Mi10bDFjNVlCSGlfR3RjN09kTGZDbmlMUWs1TloySVV2UXlzMVhVNXNPdDU5a19tNzlIa0wwTHFlV2RaUA?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-10-18T17:01:34+00:00",
+    "summary": "It’s Too Late for Small Fixes at Pepsi WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 11
+  },
+  {
+    "id": "c464a2d7f3aa",
+    "title": "Blue Jays Castoff Joins Division Rival Immediate After Season Ends",
+    "url": "https://www.forbes.com/sites/peterchawaga/2026/10/18/blue-jays-castoff-joins-division-rival-immediate-after-season-ends/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-18T10:00:00+00:00",
+    "summary": "The Toronto Blue Jays received an update on a five-year member of the organization who has returned with an American League East rival.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/691b859f7f1be4ffd065a6c5/0x0.jpg",
     "tags": [
-      "Science",
-      "Science / Environment",
-      "sea-level rise",
-      "climate change",
-      "extreme weather"
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
     ],
     "industries": [
-      "industrial"
+      "media"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
-    "id": "e5b1bd39e0ef",
-    "title": "Allswell Raises $7M to Grow LGBTQ+ Behavioral Health Platform - MedCity News",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmt0QWROdl9sWUVXQXpnTmE4RU5faUI4YkpEVkZjTjFWZFpoY01weUtZc2tSX3Z4Ujctd1ppTnVGdFhJaW9YV0lGLVFlekhXd0hzdHl1cC03RGlIckRrZFpseU9wV2c4TFlhaVk1UGYwQ3FHbWx2V2FaWjBLVXhLaEpQbUtfMGZ0QnIyeGdkaXpwcEFDN3Jv?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-18T14:13:38+00:00",
-    "summary": "Allswell Raises $7M to Grow LGBTQ+ Behavioral Health Platform MedCity News",
+    "id": "bf58965290e9",
+    "title": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks - CNBC",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxPUlA0dWpISVQzc09fbG1RYTRMMVNjc1NTVnp0eDVWemdkVjl0VEtaUTZNOHkxWHVpRUhMNXMtaXZJX3NuZGNRcFZQYmhvbzloa1pDRUlwQk1ROWZkWVBDU0dOZXNQdGxyamtWc1R1dkJoM2lOWERlakxUOWw0QkFPVnc4NldFRXJGaHd6X1N6dVlxTWFHeGkwVmx6aFdmOGhBNmpkWkFn0gGrAUFVX3lxTE41YS1DbDdFUGRKdUtXWlo1VDU0S2RybkRsS3RVTmlOZU1RZ1NZNVRwa3lfSi1LY0VtNjZQUFgzTnp6bDQtT0o4VEtGakIyOTFzeDZvLXZIeEdCcFZyUDFTaXpPT1lUd2RnN3o3QnZDbk84SHJRNFBsbTZYQVFfa2pPQ1ItcElpLU9ORjd4V3plSU5WaUhPMTFuYWRXendEQnp4Um5JMkVaajJNcw?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-10-18T12:34:51+00:00",
+    "summary": "Top Wall Street analysts are bullish on the growth potential of these 3 stocks CNBC",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech"
+      "financial"
     ],
     "relevance_score": 12
+  },
+  {
+    "id": "04e236f0f8bf",
+    "title": "AI Infrastructure Investment — Wall Street Banks Balance Growth with Risk - The Korea Daily",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5WdkpyUUhtUVFBMmdpaEZfOHRsZWZYT1RyRnFnYThhYm5xYkVrcTlEakVTd3ZuQXNVRUtxY29GbGtzWFY4TmNHVmFxNVRDU1l6QjAwOXdtcGV0R2JuMUZFLUZ5ZHl0dmpyRFJPMVNPR1VuZ0xFQjdmRDZEUm1SUQ?oc=5",
+    "source": "Banking",
+    "source_category": "industry_financial",
+    "published": "2026-10-18T15:33:08+00:00",
+    "summary": "AI Infrastructure Investment — Wall Street Banks Balance Growth with Risk The Korea Daily",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 11
   },
   {
     "id": "ffae18cb4b70",
@@ -824,6 +970,48 @@
       "industrial"
     ],
     "relevance_score": 15
+  },
+  {
+    "id": "b61615ca5b90",
+    "title": "The Challenges Facing Former Soccer Players-Turned-Pundits",
+    "url": "https://www.forbes.com/sites/clementelisi/2026/10/18/the-challenges-facing-former-soccer-players-turned-pundits/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-18T09:00:00+00:00",
+    "summary": "Former teammates Landon Donovan and Eddie Johnson are involved in a public feud. The dispute began when Donovan said Americans love to overhype young players.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad40677a80e265ef25461cf/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "b5a977a230af",
+    "title": "Climate Change Has It In for the World’s Best Surfing",
+    "url": "https://www.wired.com/story/climate-change-has-it-in-for-the-worlds-best-surfing/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-10-18T09:00:00+00:00",
+    "summary": "As coastlines change, so do surf breaks. That may spell the end for premier waves and the tourist economies that depend on them.",
+    "image_url": "https://media.wired.com/photos/6ad1f583d142c5fc200c01f2/master/pass/GettyImages-200028593-001.jpg",
+    "tags": [
+      "Science",
+      "Science / Environment",
+      "sea-level rise",
+      "climate change",
+      "extreme weather"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 13
   },
   {
     "id": "a050ddd8a2f5",
@@ -864,33 +1052,92 @@
     "relevance_score": 45
   },
   {
-    "id": "cf3a0449b2b2",
-    "title": "Top Picks 2026: Best Home, Tech, and Health Products - Consumer Reports",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2VRTHVucHZqYmFFekdDZ0tPdnlKQ1ZlU0dINnIwcnRIdjJBc0hzU0dDOGtXbW05VTBBbmJmQkQ5VENPNkdCMEhFTF9yaWVvdjl3b1JhUVdycEMzXzcxV0M4dXJsZmJiTktLNDFFUEJJLXU2Y2FqeE1oRkRUTXdHeU5BQ2ljWGlIMW80R0VRWUVZN2k2UnEyQ2lmSDBKbXg0MUJ3TjhrazY2a1BPSjEtVHc4MFVCSkNYTGc?oc=5",
+    "id": "e14a054d8143",
+    "title": "Indonesia’s digital health screening reaches 75 million people - Bioengineer.org",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOZkpCSnNmV3ZVTFg0dTVXREtuVHlFMDVRNGM4VlQ3MkZ2Zl91ZjZxb19ETWZRcDhJaDhzZEZFb2owZkx3NlZ3WFdNRGhyb3h0UUMycnJkNUJ4NEYtOERob1cxQmJqVTNsa3FJVUhveGR3bjZMeEdkblAtUFlPcjhybWd2bUtFLV9SVGwtN1AtNA?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-18T10:10:43+00:00",
-    "summary": "Top Picks 2026: Best Home, Tech, and Health Products Consumer Reports",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 12
-  },
-  {
-    "id": "5eac70bff5a0",
-    "title": "Verizon launches generous customer perks after raising prices - TheStreet",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXRSSmZEdDhqaXM4RkV0UmUxS2d3TmVLMGRjcl9QY0dyTXk0Z3A4a3ZKOVRvckZ0U05hR1dFb1h3QnNwdkNVcHQ5WVMtcmtiX2czTTZzdTQzTU1QS0U2SVJUV2xZWWRvTkp1VzUtcFRuODYxNWJjdUlIYmFSSml1UUJTNjJOM1dYUk5iUnBfSQ?oc=5",
-    "source": "Telecom",
-    "source_category": "industry_telecom",
-    "published": "2026-10-18T12:33:00+00:00",
-    "summary": "Verizon launches generous customer perks after raising prices TheStreet",
+    "published": "2026-10-18T11:16:19+00:00",
+    "summary": "Indonesia’s digital health screening reaches 75 million people Bioengineer.org",
     "image_url": null,
     "tags": [],
     "industries": [
-      "telecom",
-      "industrial"
+      "lifesciences"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "e5b1bd39e0ef",
+    "title": "Allswell Raises $7M to Grow LGBTQ+ Behavioral Health Platform - MedCity News",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQQmt0QWROdl9sWUVXQXpnTmE4RU5faUI4YkpEVkZjTjFWZFpoY01weUtZc2tSX3Z4Ujctd1ppTnVGdFhJaW9YV0lGLVFlekhXd0hzdHl1cC03RGlIckRrZFpseU9wV2c4TFlhaVk1UGYwQ3FHbWx2V2FaWjBLVXhLaEpQbUtfMGZ0QnIyeGdkaXpwcEFDN3Jv?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-18T14:13:38+00:00",
+    "summary": "Allswell Raises $7M to Grow LGBTQ+ Behavioral Health Platform MedCity News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 11
+  },
+  {
+    "id": "92cb73cee54c",
+    "title": "The NFL Team Betting It Can Fix an Enormous Bust—by Reuniting Him With His QB - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxNSnlZZUNDNkV1SXNpUHRsZFlEdVNISklnd2daNDVJTEtvQUUwNjNwQzktRUhZS2tfMVNyVmVkZ1hxZWphX2pleFpUQ2IyZ1RkdjhCT0FGTHpBZzlDdU5oY3Vub0JjZEZ1MGVJY19KVGJCdFNEMFNIRmR4WENZTjRSZ3NpaFpBSVZFal82VWxJRkk0aUxEQk9sWG9ha2s?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-10-18T17:02:00+00:00",
+    "summary": "The NFL Team Betting It Can Fix an Enormous Bust—by Reuniting Him With His QB WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 10
+  },
+  {
+    "id": "55f2a4c58936",
+    "title": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday. - CoinDesk",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxQdElCYzJvU0J4M0pFNkpKSjc5U0JxS1RRZmZPS3czWnNPaU9XaFUzclhTV1pYMnlhMFBrTnNWMmZJVndEeVI5a2Fxa1FmcS1DM0ZBOWp2MERkdEFKVVRZckxHQ0pzaG5jT0ZNU2NMellvVkROaEw3SHI1WmoyNmRBTlZKZ0hGMjlJR09taUgzMEgzQWRGS2ZpMnVfRU5HaXlhakpfazQxc2wtNUdGNG1r?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-10-18T16:35:00+00:00",
+    "summary": "Wall Street freaked out Friday. VIX and bitcoin say the fear may fade Monday. CoinDesk",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "1069477aaa48",
+    "title": "How Lego Is Getting More Adults to Tinker With Their Toy Bricks - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxQcVlYLVd1V3NXRUZPSFRiZHV2ZS1lOVN0X0hudE1wa2EtREhFSWNqUFZHMlYxTEhGc0FLSVQ2SFNxRWVLZFJaWWhfMk9qLWdaMHFWNUViRVpfVzRodldXRjRNOURnRmtSTXI3UDBtMTNrQ0JURGtHdUxTWmdhVk40Vk9TM1lzZw?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-10-18T16:00:00+00:00",
+    "summary": "How Lego Is Getting More Adults to Tinker With Their Toy Bricks WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "eaec468f0211",
+    "title": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxONkF2UGc0SmgxTzdidVlLNWRHU3JjZFdrOHpKRGt2ODFqSUJFQWpnYVRXLUJ0aDJ6c3pmNDB3OVB0VGpsNlJJRkkzZjNXODNzaEJnUFdOemZZVTBKc3pWbUJ6MnBaeFdIRjB1VDl0UlVzMnNneDJGN0NJTGNaWmUyVnRqT2QxOERjZ2ZJYVltT0tLZzE0T2pSYjRqZW1tbE00TVJzbzJTQjRTemRILTV5cGFQZU9EeHg0TlVDdE95bE5VVHh0Z0w5eGdGa1FmWGdtVzY4Wg?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-10-18T15:59:30+00:00",
+    "summary": "'Just another scare': Wall Street sees the AI trade strong despite tech's latest rout Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 10
   },
   {
     "id": "53db671807ef",
@@ -911,19 +1158,32 @@
     "relevance_score": 43
   },
   {
-    "id": "6d9ba4944036",
-    "title": "Adobe software dupe maker takes on Microsoft Office, releasing free versions of Word, Powerpoint, and Excel - Mashable",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQaVlzQ2o2VFRhOUpEM25YNzRiTUF4VkNjOGNxWDJKVnYzeXZ6bVZGV3Y4LS1qWkk4TDdLQXlGQUpUOXVzRVlrY1pVOUhoQ1RyM05OejZkWmhKRzlsMmN6TzAwQ1YyY05xWDg2ZjJTM0dfM0VhRUU5Wm5iRzc4WnVQeE9qdm5IRGdhM1R0Zl9kNHFXdw?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-10-18T08:44:18+00:00",
-    "summary": "Adobe software dupe maker takes on Microsoft Office, releasing free versions of Word, Powerpoint, and Excel Mashable",
+    "id": "bdd651b3e891",
+    "title": "Inside the Democratic Socialists’ Plan to Pressure Hakeem Jeffries - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNVVZNUDJmUmg1VTZ5Mzg2ckxMZW9JTTNDY3VfREZQQVpLTFV5VmpBY1Vnb3ByVjJFZXdXeW52TWF0LTZMZ2ZwVWl2ZVhDZ3pKVUxQTWlLdVgyTkpadTJxemxRYjc5NW93SWhIUElXei1UZVFaX2ZVYm16Vjg2UHROc3FpcHJmamdoaEw3S0RiTFVOeU5ZVVM3UTJDdFdEUDdVTzFmSElTdW9wNFo3a3lmaGkwbDYyX2JQNXBrc3p3?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-10-18T14:59:00+00:00",
+    "summary": "Inside the Democratic Socialists’ Plan to Pressure Hakeem Jeffries WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 10
+  },
+  {
+    "id": "09021fe9e4f8",
+    "title": "Blue Owl Founders Promised a Comeback. The Company’s Share Price Hasn’t Budged. - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFAxa05WOFVWOGpUWXotR3VYUkhPUEpGaFp0bkZOdE1SZFVKcHVMczBCODFiWVhGOUlPVHhoOWhfMXk3Sm1UdFdYdm96Nmx2Wm1Cek1zam5HaWI3OE9qT2pydHJCbTZXSm5obHRKalczUmZvcnd4a0JGTk1KMUQ?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-10-18T14:44:38+00:00",
+    "summary": "Blue Owl Founders Promised a Comeback. The Company’s Share Price Hasn’t Budged. WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech"
+      "industrial"
     ],
-    "relevance_score": 12
+    "relevance_score": 10
   },
   {
     "id": "a2e4086b7cd2",
@@ -938,35 +1198,23 @@
     "industries": [
       "telecom"
     ],
-    "relevance_score": 10
+    "relevance_score": 10,
+    "also_covered_by": [
+      "Biotech"
+    ]
   },
   {
-    "id": "2210c6ef85f2",
-    "title": "Five Ways Americans’ Finances Have Changed Under Trump - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN1lsZXczM3VRZnczVzdSRXNoRkpDSlF5b01idHQ3WjhJbzdNQ0pPTnd6U2NDMl9TSzNUZW9QSnk2Sk52dHZmSEhZQ3hHaWJrc1Bhc09acWY5bDE2dDI1Wk9Jb2FiY2Q0ZUhmc3R0WkF3MFg0OGpyVFpzQUVLeGNhaEp1OW9PYWR2T0RwQzNTdGVRVXBPaGRBM1dIVks1UGl5Q191dQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-10-18T14:01:22+00:00",
-    "summary": "Five Ways Americans’ Finances Have Changed Under Trump WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "506674d6b6a3",
-    "title": "Heat Pumps That Fit in Your Window - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxQWnZaRVFLdXpWN3RjZnd6Z3RVUHFleWYzOGNGcmQyX2JRd0MtT2NDWEpuczRXSG1zQ0RndTl2TW12dVVEa052U2hkc0dZd3d1N1JIam5YWUlXMTE1Y0gyLVYwejdWSkRtZWVfd1d1X1M4eHpsR09IVFVHTUZmNnJzRjcxTVQ3TDJ1U0E?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-10-18T13:59:00+00:00",
-    "summary": "Heat Pumps That Fit in Your Window WSJ",
+    "id": "cf3a0449b2b2",
+    "title": "Top Picks 2026: Best Home, Tech, and Health Products - Consumer Reports",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxNZ2VRTHVucHZqYmFFekdDZ0tPdnlKQ1ZlU0dINnIwcnRIdjJBc0hzU0dDOGtXbW05VTBBbmJmQkQ5VENPNkdCMEhFTF9yaWVvdjl3b1JhUVdycEMzXzcxV0M4dXJsZmJiTktLNDFFUEJJLXU2Y2FqeE1oRkRUTXdHeU5BQ2ljWGlIMW80R0VRWUVZN2k2UnEyQ2lmSDBKbXg0MUJ3TjhrazY2a1BPSjEtVHc4MFVCSkNYTGc?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-18T10:10:43+00:00",
+    "summary": "Top Picks 2026: Best Home, Tech, and Health Products Consumer Reports",
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 10
+    "relevance_score": 11
   },
   {
     "id": "76cff64e947d",
@@ -988,44 +1236,17 @@
     "relevance_score": 13
   },
   {
-    "id": "88e2a880c359",
-    "title": "The 1980s Box-Office Flop That Won’t Die - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aVGsxVXc4ZWNVNmJheHY2WVdDNGJEZVl2N0lMeWt2Q2V6OC1VTXM1OUtCT3JfZnFrV1ZkNTFZWTZQZlhhSnJqSXRvTmRJaHJkcjRPU1FnSDJJaGdPUk9HVmZmNGZRV2JOOFE1bw?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-10-18T09:30:00+00:00",
-    "summary": "The 1980s Box-Office Flop That Won’t Die WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 11
-  },
-  {
-    "id": "a18bca8a9455",
-    "title": "Michael Saylor Reveals Why Wall Street Prefers Cash to Bitcoin - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxPSXAxa2xCMXgzcTBjUnd6YUlBM1N0SFl3THAxRjJzeVg0VjdZcS1uME1SZU12VFIzVDZCLVh1a0s2YjBwUFhCbW5MbkZvT1NzY2d6M3RWN2hFWlRia3RZa1VTc0VoRE5rbms4SXVsamhncHlpczNkVTJsMnJBcFRHaThMZVY3RmI3WTQwWDkxZkE2c1paeGkwVUJ3YWQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-10-18T12:47:58+00:00",
-    "summary": "Michael Saylor Reveals Why Wall Street Prefers Cash to Bitcoin Yahoo Finance",
+    "id": "5eac70bff5a0",
+    "title": "Verizon launches generous customer perks after raising prices - TheStreet",
+    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxOMXRSSmZEdDhqaXM4RkV0UmUxS2d3TmVLMGRjcl9QY0dyTXk0Z3A4a3ZKOVRvckZ0U05hR1dFb1h3QnNwdkNVcHQ5WVMtcmtiX2czTTZzdTQzTU1QS0U2SVJUV2xZWWRvTkp1VzUtcFRuODYxNWJjdUlIYmFSSml1UUJTNjJOM1dYUk5iUnBfSQ?oc=5",
+    "source": "Telecom",
+    "source_category": "industry_telecom",
+    "published": "2026-10-18T12:33:00+00:00",
+    "summary": "Verizon launches generous customer perks after raising prices TheStreet",
     "image_url": null,
     "tags": [],
     "industries": [
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "489d460ae3e1",
-    "title": "College Football Just Witnessed an Unprecedented Day of Stunning Upsets - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN1FPcEVIQWhEN0tnRFNVc1diU1VxNHFSNzdtMmEtbDQ5OXlPclJkRnhXRWxGVk5LdXI2WHkwV2s3TWd2R0NFaWM2ajM5bTdBY3RMTS14bU9FVmRuUlI0SG1mOWZyZENvdTR3NFdkUFg4bUJoMkdLOWNrTXZZQWxCRUtmdUY5amdNS1FUZ0E4TVpoYjk2aElYSUx1ZnpmMnNPbDVFQXdLNUNtbVNOaFN3eldtTzhHbEU?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-10-18T12:00:00+00:00",
-    "summary": "College Football Just Witnessed an Unprecedented Day of Stunning Upsets WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
+      "telecom",
       "industrial"
     ],
     "relevance_score": 10
@@ -1052,19 +1273,6 @@
     "relevance_score": 39
   },
   {
-    "id": "f5c091afa791",
-    "title": "How Coke Loosened Pepsi’s Grip on KFC’s Soda Fountains - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPOHJQV0pDWVJrb2FhdVAwOG1pdmFsb01KaHBST3hmQmZCSGcwZVEwYUUtR0xIeWoya3ZYLW1jdnk5aE0yVmRnYllWTGJSUnZ0Z1Zwc2xDRXFEd0hvanhpMVM5MWhiWERhS2JQNW9Xc3ZFeFRXRzdMd3A3VFliTGxvdnZmRVJac1FVYlk0TjBzQ09GOEVKQ3doSlpUb2txU210dGxIZA?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-10-18T11:00:00+00:00",
-    "summary": "How Coke Loosened Pepsi’s Grip on KFC’s Soda Fountains WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 10
-  },
-  {
     "id": "54c922efb273",
     "title": "Target Is Pitching an Ad Metric to Drive Sales, But Most Brands Aren’t Fully On Board, Exec Says",
     "url": "https://www.adweek.com/commerce/target-is-pitching-an-ad-metric-to-drive-sales-but-most-brands-arent-fully-on-board-exec-says/",
@@ -1085,6 +1293,21 @@
       "industrial"
     ],
     "relevance_score": 36
+  },
+  {
+    "id": "2210c6ef85f2",
+    "title": "Five Ways Americans’ Finances Have Changed Under Trump - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQN1lsZXczM3VRZnczVzdSRXNoRkpDSlF5b01idHQ3WjhJbzdNQ0pPTnd6U2NDMl9TSzNUZW9QSnk2Sk52dHZmSEhZQ3hHaWJrc1Bhc09acWY5bDE2dDI1Wk9Jb2FiY2Q0ZUhmc3R0WkF3MFg0OGpyVFpzQUVLeGNhaEp1OW9PYWR2T0RwQzNTdGVRVXBPaGRBM1dIVks1UGl5Q191dQ?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-10-18T14:01:22+00:00",
+    "summary": "Five Ways Americans’ Finances Have Changed Under Trump WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 9
   },
   {
     "id": "25918c117e9a",
@@ -1118,67 +1341,17 @@
     "relevance_score": 45
   },
   {
-    "id": "dbd959fad2b1",
-    "title": "Dave Roberts Isn’t The (Only) Reason The Dodgers Lost To The Brewers",
-    "url": "https://www.forbes.com/sites/danfreedman/2026/10/17/dave-roberts-isnt-the-only-reason-the-dodgers-lost-to-the-brewers/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-18T00:52:28+00:00",
-    "summary": "After managing a masterpiece in the 2024 NLCS, Dodgers manager Dave Roberts left a lot to be desired in this year's version, making questionable calls in Games 3 and 4.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad417f6b167ba3a79318721/0x0.jpg?width=960",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "15a5544bb404",
-    "title": "U.S. Champion Hezly Rivera Out Of World Championships For Second Straight Year",
-    "url": "https://www.forbes.com/sites/carolineprice/2026/10/17/us-champion-hezly-rivera-out-of-world-championships-for-second-straight-year/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-18T00:12:59+00:00",
-    "summary": "Olympic champion Hezly Rivera withdrew from the 2026 World Gymnastics Championships with an ankle injury, just a day before the U.S. women compete in Rotterdam.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad3fde5aa42d80960522b99/0x0.jpg?width=960&precrop=3100%2C1744%2Cx238%2Cy1",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "a10fd7201e57",
-    "title": "Tobe Nwigwe Cast “The Bridge”With No Rule. The Diaspora Showed Up.",
-    "url": "https://www.forbes.com/sites/imeekpo/2026/10/17/tobe-nwigwe-cast-the-bridgewith-no-rule-the-diaspora-showed-up/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-17T23:52:48+00:00",
-    "summary": "Tobe Nwigwe’s \"The Bridge\" pulls in artists from Nigeria, Britain and Houston. He calls it a love letter to everything that shaped him, from Houston to Anambra State.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad3eb5bb167ba3a7931871d/0x0.jpg",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
+    "id": "88e2a880c359",
+    "title": "The 1980s Box-Office Flop That Won’t Die - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMibEFVX3lxTE9aVGsxVXc4ZWNVNmJheHY2WVdDNGJEZVl2N0lMeWt2Q2V6OC1VTXM1OUtCT3JfZnFrV1ZkNTFZWTZQZlhhSnJqSXRvTmRJaHJkcjRPU1FnSDJJaGdPUk9HVmZmNGZRV2JOOFE1bw?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-10-18T09:30:00+00:00",
+    "summary": "The 1980s Box-Office Flop That Won’t Die WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 10
   },
   {
     "id": "4e24a71ec046",
@@ -1196,62 +1369,19 @@
     "relevance_score": 28
   },
   {
-    "id": "68b9f741f3df",
-    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
-    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-10-16T16:30:00+00:00",
-    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs...",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Robotics",
-      "Venture",
-      "early stage venture",
-      "nvidia"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 32
-  },
-  {
-    "id": "bd2b33f50b82",
-    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
-    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-10-16T16:30:00+00:00",
-    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs...",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Amulya-Vishwanath-Techable-VC.jpg?resize=960,1200",
-    "tags": [
-      "Startups",
-      "AI",
-      "Robotics",
-      "nvidia",
-      "Equity podcast"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 32
-  },
-  {
-    "id": "cd076be74e99",
-    "title": "The Weekly Closeout: The RealReal secures fresh financing, Roots buyout advances",
-    "url": "https://www.retaildive.com/news/the-realreal-new-financing-gildan-ftc-price-fixing-scrutiny/833130/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-10-16T15:15:00+00:00",
-    "summary": "The resale marketplace refinanced to help strengthen its balance sheet, while the apparel brand's shareholders approved its acquisition by Marquee Brands.",
-    "image_url": "https://imgproxy.divecdn.com/J9qc0AQpuQnd1vEjuNXLA8ZnnKit8806RZc7AgWVJuw/g:nowe:0:0/c:2879:1627/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jbXNfcmVhbF9yZWFsX25iYXkxLmpwZw==.webp",
+    "id": "489d460ae3e1",
+    "title": "College Football Just Witnessed an Unprecedented Day of Stunning Upsets - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNN1FPcEVIQWhEN0tnRFNVc1diU1VxNHFSNzdtMmEtbDQ5OXlPclJkRnhXRWxGVk5LdXI2WHkwV2s3TWd2R0NFaWM2ajM5bTdBY3RMTS14bU9FVmRuUlI0SG1mOWZyZENvdTR3NFdkUFg4bUJoMkdLOWNrTXZZQWxCRUtmdUY5amdNS1FUZ0E4TVpoYjk2aElYSUx1ZnpmMnNPbDVFQXdLNUNtbVNOaFN3eldtTzhHbEU?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-10-18T12:00:00+00:00",
+    "summary": "College Football Just Witnessed an Unprecedented Day of Stunning Upsets WSJ",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
-      "consumer"
+      "industrial"
     ],
-    "relevance_score": 33
+    "relevance_score": 9
   },
   {
     "id": "ee9076de7ff6",
@@ -1289,22 +1419,6 @@
     "relevance_score": 44
   },
   {
-    "id": "6f0cf78bbe0a",
-    "title": "India's Telecom Giant Jio Platforms Set for IPO Next Week at $108.3 Billion Valuation - BigGo Finance",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QcHl1b0ZvVG4zdHY4dVk2dGlRcFdhVjNPUlRTUk5MOXh2eFJvY1dJNGFpU2c0ZHBDd2NOM2FCdE1GbS03eTNCcjBYZVh0UWtvMS00dFh3aGMtX1FHdVZtME82R1JEWGhhUUxpNklySmJmWXhROGc?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-10-18T00:35:00+00:00",
-    "summary": "India's Telecom Giant Jio Platforms Set for IPO Next Week at $108.3 Billion Valuation BigGo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "telecom"
-    ],
-    "relevance_score": 12
-  },
-  {
     "id": "e8dc7c9400b9",
     "title": "EMU’s Center for Digital Engagement to host ‘Agentic AI: At the Frontier of Practice’ workshop - EMU Today",
     "url": "https://news.google.com/rss/articles/CBMiU0FVX3lxTE5RVkE2VDlMYVpsaXd5XzFyb282cF9WaHRlSkY2bWFMRkx1cmh4cWtXeThLR0VfdVRYTzN6ZF9WcEt5b3AtYW1SUWQ2SXdwcl9lV1c4?oc=5",
@@ -1320,26 +1434,19 @@
     "relevance_score": 26
   },
   {
-    "id": "856e060c0f3a",
-    "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
-    "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-10-17T16:39:44+00:00",
-    "summary": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Elon Musk",
-      "Law",
-      "News",
-      "Policy",
-      "Politics"
-    ],
+    "id": "d56add1a5ed8",
+    "title": "Wall Street Week Ahead - Seeking Alpha",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1uQzFKWG9kNkZLRVE0LUQ0OUVELWdKVHNMbUxJXzJQVDE3ZkJUaV9RZlptTEJoMGJlVlM2UzVldWR0bnNDNmdleUYzZEJOQkNEaEpxbnF1cFJuV0RfUGU3eUxMUzNYTjdWb1pxV1JTZDg?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-10-18T10:26:00+00:00",
+    "summary": "Wall Street Week Ahead Seeking Alpha",
+    "image_url": null,
+    "tags": [],
     "industries": [
-      "media",
-      "industrial"
+      "financial"
     ],
-    "relevance_score": 15
+    "relevance_score": 9
   },
   {
     "id": "fcf73aabe3e3",
@@ -1377,32 +1484,20 @@
     "relevance_score": 11
   },
   {
-    "id": "3ac2b5ee89f3",
-    "title": "How Zelensky Decided to Take the Risk and Publicly Confront Trump - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2YzcHRYSVhCTjVwN3hRU1lSNlFuaXhxZHZTZHFWN3FjWEVYcnBIR2czQUphWWR1X0FGUE1GR3V2MEd0TkxyQndlZ29lbVlIU3VBU0ZsTE5Pc3otT0VkeERMekp3LWFlRlBCM3NWLUV0Ym1wcWJlV0FJWExlWmRCXzFFZC1xTzFDWC1tQlNGOFBBazVuOGoxX3g0SEFhMGtIQ1E?oc=5",
+    "id": "967905930306",
+    "title": "A Princeton Ph.D. Applied to 2,300 Jobs. He Still Can’t Get One. - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0JDd2NOS2ZBN0lLR0pjbTNFb3B5bEtFM1d4VDBXa2R4c1hVVElQOGU3aDFpWU5CUU1LZF9GRlBCU2c0ek9BTVdBVnF0T25uWWZ4MWdGYzNFYjJpQ0pqTkpKZDRoenIta1VRc0VZM055MmlPdk4tLV8wZWlPbkFyODdMa3J3UQ?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-10-18T09:30:00+00:00",
-    "summary": "How Zelensky Decided to Take the Risk and Publicly Confront Trump WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 9
-  },
-  {
-    "id": "de25c57d62d6",
-    "title": "The AI Stock Market Wobble Is a Reminder: This Time Isn’t Different - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxNSGpZb1lmS0hlZGYwTmtOTUg2elhLcGFNTWItNDVFWTBMcGRlMlhlM3E3ajdSVktKdlA3ZW1jZEk1cTJLMXZKSWRQSWVtNkJMSzdEbWFBNHk2LWUzU3AwZVRVTnl6ajFZUHhZbE9Mdk92UUlGaktGUXJuOEZoOUw2cTZZaWpYbHp1MFdEeXYzckNZallkVWY5V0RVeE1fZV9qLXNtSDhlRmp3bndMeFE?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-10-18T09:30:00+00:00",
-    "summary": "The AI Stock Market Wobble Is a Reminder: This Time Isn’t Different WSJ",
+    "published": "2026-10-18T06:13:49+00:00",
+    "summary": "A Princeton Ph.D. Applied to 2,300 Jobs. He Still Can’t Get One. WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
-      "financial"
+      "tech",
+      "industrial"
     ],
-    "relevance_score": 9
+    "relevance_score": 10
   },
   {
     "id": "582157c220ac",
@@ -1442,6 +1537,48 @@
     "relevance_score": 35
   },
   {
+    "id": "68b9f741f3df",
+    "title": "An Nvidia insider-turned-VC on why robotics hasn’t hit its ChatGPT moment, yet",
+    "url": "https://techcrunch.com/video/a-nvidia-insider-turned-vc-on-why-robotics-hasnt-hit-its-chatgpt-moment-yet/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-10-16T16:30:00+00:00",
+    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs...",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/unitree-robots.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Robotics",
+      "Venture",
+      "early stage venture",
+      "nvidia"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 29
+  },
+  {
+    "id": "bd2b33f50b82",
+    "title": "Physical AI is more than robots, says the Nvidia veteran now investing in it",
+    "url": "https://techcrunch.com/podcast/physical-ai-is-more-than-robots-says-the-nvidia-veteran-now-investing-in-it/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-10-16T16:30:00+00:00",
+    "summary": "Amulya Vishwanath, who spent seven years leading product marketing for NVIDIA’s robotics platforms, says robotics is currently in its “Lego era,” with the basic building blocks like actuators, robotic hands, software, and safety standards still being rebuilt. This view runs...",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Amulya-Vishwanath-Techable-VC.jpg?resize=960,1200",
+    "tags": [
+      "Startups",
+      "AI",
+      "Robotics",
+      "nvidia",
+      "Equity podcast"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 29
+  },
+  {
     "id": "ed0aea8ef7d7",
     "title": "Parade Founder Cami Tellez Taps UTA Exec to Scale Her ‘Post-Follower’ Agency",
     "url": "https://www.adweek.com/media/parade-cami-tellez-devotion-ed-victori-creators-agency/",
@@ -1464,25 +1601,20 @@
     "relevance_score": 36
   },
   {
-    "id": "d98ed77bd5d2",
-    "title": "Why Toronto And Montreal Keep Falling Behind In MLS",
-    "url": "https://www.forbes.com/sites/clementelisi/2026/10/17/why-toronto-and-montreal-keep-falling-behind-in-mls/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-17T22:54:37+00:00",
-    "summary": "Canada's three Major League Soccer teams have experienced vastly different fortunes in recent years despite operating in major media markets.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad3fb0909af25d36efa6c0e/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
+    "id": "cd076be74e99",
+    "title": "The Weekly Closeout: The RealReal secures fresh financing, Roots buyout advances",
+    "url": "https://www.retaildive.com/news/the-realreal-new-financing-gildan-ftc-price-fixing-scrutiny/833130/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-10-16T15:15:00+00:00",
+    "summary": "The resale marketplace refinanced to help strengthen its balance sheet, while the apparel brand's shareholders approved its acquisition by Marquee Brands.",
+    "image_url": "https://imgproxy.divecdn.com/J9qc0AQpuQnd1vEjuNXLA8ZnnKit8806RZc7AgWVJuw/g:nowe:0:0/c:2879:1627/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9jbXNfcmVhbF9yZWFsX25iYXkxLmpwZw==.webp",
+    "tags": [],
     "industries": [
-      "media"
+      "tech",
+      "consumer"
     ],
-    "relevance_score": 12
+    "relevance_score": 30
   },
   {
     "id": "d114a8df0b5f",
@@ -1502,25 +1634,42 @@
     "relevance_score": 41
   },
   {
-    "id": "3a44035a36f1",
-    "title": "Pacers Waive James Johnson And Two Rookies To Trim Roster For Season",
-    "url": "https://www.forbes.com/sites/tonyeast/2026/10/17/pacers-waive-james-johnson-and-two-rookies-to-trim-roster-for-season/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-17T21:54:17+00:00",
-    "summary": "NBA teams have to cut their rosters down to the appropriate size by Monday, and the Indiana Pacers did so by moving on from James Johnson, Rienk Mast, and Keba Keita.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad3d98680c900f4cf88ec29/0x0.jpg?width=960&precrop=2694%2C1516%2Cx0%2Cy241",
+    "id": "856e060c0f3a",
+    "title": "Elon Musk settles lawsuits over $1 million voter giveaway",
+    "url": "https://www.theverge.com/tech/1013431/elon-musk-settles-lawsuits-over-1-million-voter-giveaway",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-10-17T16:39:44+00:00",
+    "summary": "In 2024, Elon Musk promised to give away $1 million a day to a randomly selected registered voter in a swing state. That prompted legal challenges, raised questions about its legality, and drew lawsuits from two Arizona residents claiming the lottery was a fraud. Musk has now...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKE012_SPACEX_IPO_2026_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
     "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
+      "Elon Musk",
+      "Law",
+      "News",
+      "Policy",
+      "Politics"
     ],
     "industries": [
-      "tech"
+      "media",
+      "industrial"
     ],
-    "relevance_score": 12
+    "relevance_score": 14
+  },
+  {
+    "id": "6f0cf78bbe0a",
+    "title": "India's Telecom Giant Jio Platforms Set for IPO Next Week at $108.3 Billion Valuation - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QcHl1b0ZvVG4zdHY4dVk2dGlRcFdhVjNPUlRTUk5MOXh2eFJvY1dJNGFpU2c0ZHBDd2NOM2FCdE1GbS03eTNCcjBYZVh0UWtvMS00dFh3aGMtX1FHdVZtME82R1JEWGhhUUxpNklySmJmWXhROGc?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-10-18T00:35:00+00:00",
+    "summary": "India's Telecom Giant Jio Platforms Set for IPO Next Week at $108.3 Billion Valuation BigGo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom"
+    ],
+    "relevance_score": 11
   },
   {
     "id": "7dd27ee4e856",
@@ -1561,58 +1710,6 @@
     "relevance_score": 10
   },
   {
-    "id": "9a0c291439e8",
-    "title": "Wireless Gateways Market To 2035: Industrial Iot and 5G FWA Demand Drive Growth - News and Statistics - IndexBox",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxOeTV6VlpnYURyYXBRTHB0RkxrdjBUdGdzU0g3RUhiZVo2dVZVTFhnel90aDk1TVp3YktpTEFpcm45VVpZZkRLTTc3bVBzeHhOUWo1amhkbGRfdWtvWmk4a3BnNko5UXJkU3gwMUZkcFJHMjNZZTF0WkpKanRQVjBuU3pYTktSRkNjTUJGcXo5Ykx6dlBnQWk3TEtOWGRMaDRvS1Vzb2FadGc5N1VtajJ3Q21rY2QxSGpLbHVjRg?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-10-17T23:56:07+00:00",
-    "summary": "Wireless Gateways Market To 2035: Industrial Iot and 5G FWA Demand Drive Growth - News and Statistics IndexBox",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "967905930306",
-    "title": "A Princeton Ph.D. Applied to 2,300 Jobs. He Still Can’t Get One. - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0JDd2NOS2ZBN0lLR0pjbTNFb3B5bEtFM1d4VDBXa2R4c1hVVElQOGU3aDFpWU5CUU1LZF9GRlBCU2c0ek9BTVdBVnF0T25uWWZ4MWdGYzNFYjJpQ0pqTkpKZDRoenIta1VRc0VZM055MmlPdk4tLV8wZWlPbkFyODdMa3J3UQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-10-18T03:13:17+00:00",
-    "summary": "A Princeton Ph.D. Applied to 2,300 Jobs. He Still Can’t Get One. WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "6306ad4e6f87",
-    "title": "American Express CMO and 37-Year Vet Elizabeth Rutledge Retires",
-    "url": "https://www.adweek.com/brand-marketing/american-express-cmo-and-37-year-vet-elizabeth-rutledge-retires/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-10-15T17:15:20+00:00",
-    "summary": "Financial services giant said it expects to announce a successor in the coming weeks",
-    "image_url": null,
-    "tags": [
-      "CMO Changes",
-      "CMO Moves",
-      "Premium"
-    ],
-    "industries": [
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 53
-  },
-  {
     "id": "4c64677b0f2c",
     "title": "Veritas expands its anti-counterfeit chip to jewelry, trophies, and fragrance bottles",
     "url": "https://techcrunch.com/2026/10/16/veritas-is-building-a-chip-to-verify-luxury-goods/",
@@ -1637,46 +1734,6 @@
     "relevance_score": 29
   },
   {
-    "id": "1c3059fb7886",
-    "title": "The latest AI-powered martech news and releases",
-    "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-10-15T15:45:35+00:00",
-    "summary": "Anthropic and OpenAI are reporting revenues that may or may not be supported by the facts. Here's why that matters to marketers. The post The latest AI-powered martech news and releases appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/07/AI-roundup2-800x450.png",
-    "tags": [
-      "B2B marketing",
-      "B2C marketing",
-      "Marketing artificial intelligence (AI)"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 55
-  },
-  {
-    "id": "5e77e5d05a55",
-    "title": "Pikmin 4 is $20 off ahead of its $10 Nintendo Switch 2 update",
-    "url": "https://www.theverge.com/gadgets/1013105/pikmin-4-nintendo-switch-deal-sale",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-10-17T15:00:00+00:00",
-    "summary": "If you’re wondering what video game to play this weekend, my colleague Sheena Vasani spotted a discounted Nintendo Switch title with instant digital delivery. Walmart has the digital version of Pikmin 4 for Switch discounted to $39.88, just over $20 lower than its usual...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/24018761/Nintendo_Direct_9.13.2022_60_17_screenshot.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Gaming",
-      "Verge Shopping"
-    ],
-    "industries": [
-      "media",
-      "retail"
-    ],
-    "relevance_score": 14
-  },
-  {
     "id": "72a7d3b9fbab",
     "title": "Ruggable’s new ad spend strategy shifts focus to ShopMy creators",
     "url": "https://digiday.com/marketing/ruggables-new-ad-spend-strategy-shifts-focus-to-shopmy-creators/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -1692,6 +1749,19 @@
       "tech"
     ],
     "relevance_score": 38
+  },
+  {
+    "id": "3ac2b5ee89f3",
+    "title": "How Zelensky Decided to Take the Risk and Publicly Confront Trump - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQV2YzcHRYSVhCTjVwN3hRU1lSNlFuaXhxZHZTZHFWN3FjWEVYcnBIR2czQUphWWR1X0FGUE1GR3V2MEd0TkxyQndlZ29lbVlIU3VBU0ZsTE5Pc3otT0VkeERMekp3LWFlRlBCM3NWLUV0Ym1wcWJlV0FJWExlWmRCXzFFZC1xTzFDWC1tQlNGOFBBazVuOGoxX3g0SEFhMGtIQ1E?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-10-18T09:30:00+00:00",
+    "summary": "How Zelensky Decided to Take the Risk and Publicly Confront Trump WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 8
   },
   {
     "id": "e9dc37ac3d0f",
@@ -1727,6 +1797,29 @@
     "relevance_score": 29
   },
   {
+    "id": "6306ad4e6f87",
+    "title": "American Express CMO and 37-Year Vet Elizabeth Rutledge Retires",
+    "url": "https://www.adweek.com/brand-marketing/american-express-cmo-and-37-year-vet-elizabeth-rutledge-retires/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-10-15T17:15:20+00:00",
+    "summary": "Financial services giant said it expects to announce a successor in the coming weeks",
+    "image_url": null,
+    "tags": [
+      "CMO Changes",
+      "CMO Moves",
+      "Premium"
+    ],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 50,
+    "also_covered_by": [
+      "Marketing Strategy"
+    ]
+  },
+  {
     "id": "81642ef6f914",
     "title": "Treasure AI Builds a Brand Live on Stage at Agentic World 2026, Unveils Digital Worker - Business Wire",
     "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxQV2lQNXdwd2tQNHB4OEdmRjJ0Z1BUdllvZzd1cHE4LVI0UFBpTkxIbGxkXzBMR24zZWNpdE8tUE1VWUR1eXVqUTZVZWVUMkNTWVB2VE45SkJZREVHc2JNZkQ1ekVoZU1zQUV1QVVTaDMzODdMWGthSVUxSFFMUjd6Y0NNLXd1OUdwM1VCNUgxMnJCUUtGSmJheFlCcWI1bmxPQ3RzQUtzd0YzbG1KQWNXVGljV0lhYUlQSTJLdGplSjZrTUd3UWZRNmVWNktIRnVfOHlSb0NTWVRoUQ?oc=5",
@@ -1746,108 +1839,22 @@
     ]
   },
   {
-    "id": "725615be54f8",
-    "title": "AT&T $177M Data Breach Settlement: Payouts Up to $7,500 - shattered.io",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE81ckFRblNwZk56Q25qRGJtd0MzS1E1dzdFYlo3MFV6TmhuZW81V0FJVmh4MUtzLWhDb29OU2VqU0tuZXVDckRFWUF4aHg3bkJsUktuUDBWeHFzOU53V2haRWNJYVEwcHpRS0tzdUVMUDNTdlFpQUFTODVGeVk?oc=5",
-    "source": "Telecom",
-    "source_category": "industry_telecom",
-    "published": "2026-10-18T00:35:05+00:00",
-    "summary": "AT&T $177M Data Breach Settlement: Payouts Up to $7,500 shattered.io",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "e40b97c3d01c",
-    "title": "17 of the best social media analytics tools for your brand in 2026 - Sprout Social",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE1zakd1ZkVXcm1nYWRPZHN1Wmxoc3o0M3l1cEVZR2ZuWHRjRVdvbUFCTzJWMTgtZW9PWlUwSFpjMjJ0ZV9jaFBaTlB1TDJmNldUa0ZXQzdkaXZFZ0Nqd0hNeWpDTFhHU3MwdUZodzV0Y07SAXZBVV95cUxORFRocmlObVkyVlVuSEpQY3VlblRad2FSa1ZCVUFyY3lLYkJYbE5lSnktdWdUNXFlYVAzOGRha0UxWVYxX1hwWkxHaDMzVTBiRXBiZkZ5c3hRcFJrZHBsbjkyekpTeDJPT1ZLamhnYjVYZ2dSYy13?oc=5",
-    "source": "Social Media",
-    "source_category": "marketing",
-    "published": "2026-10-16T07:00:00+00:00",
-    "summary": "17 of the best social media analytics tools for your brand in 2026 Sprout Social",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "consumer"
-    ],
-    "relevance_score": 33
-  },
-  {
-    "id": "c7bf6501b1f9",
-    "title": "Kids are outsmarting social media bans. That’s not a problem we need to solve.",
-    "url": "https://www.technologyreview.com/2026/10/16/1146834/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-10-16T07:56:32+00:00",
-    "summary": "Social media bans are stacking up. In July, France joined Australia in restricting minors from accessing social media—barring children under 15 from major platforms, before the ban was blocked by the country’s top court on human rights grounds. The UK aims to forbid kids...",
-    "image_url": null,
+    "id": "1c3059fb7886",
+    "title": "The latest AI-powered martech news and releases",
+    "url": "https://martech.org/the-latest-ai-powered-martech-news-and-releases/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-10-15T15:45:35+00:00",
+    "summary": "Anthropic and OpenAI are reporting revenues that may or may not be supported by the facts. Here's why that matters to marketers. The post The latest AI-powered martech news and releases appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/07/AI-roundup2-800x450.png",
     "tags": [
-      "Humans and technology",
-      "App",
-      "Opinion"
+      "B2B marketing",
+      "B2C marketing",
+      "Marketing artificial intelligence (AI)"
     ],
     "industries": [
-      "media",
       "tech"
     ],
-    "relevance_score": 32
-  },
-  {
-    "id": "0b81a58f5b3f",
-    "title": "Meta removes language that may have allowed it to scrape news sites",
-    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-10-17T15:04:36+00:00",
-    "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "AI",
-      "Meta",
-      "News",
-      "Tech"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "8691d1bc4da7",
-    "title": "Castill Health Announces Plans for Philippines Digital Healthcare Launch, Supported by Craig Astill and Caason Group - markets.businessinsider.com",
-    "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPbHFrMnd1bWI1cFVYMWdMU1daLVZqUWJNYW00NGtNeDRVY2xIMU41NUVCMWUyaFhmdjJSNzNGTTFyLXlvT3F0MmpYYzQ2VmZ4Z1dHakV5cV9Jb2JHdFNRZ2ZjczU5Z2RJUzJUd01na1U5SGpQdnpmSzZOd3N2SDJzRk50Yl9EU184MmdhUDJrakRvazFtdEktd2drTmR6R2stcHBGaHF4LVdiZW1pYTJyaXlNdW1FZ0h1S1llUU5xekozRzROLUppRzUxZk9USG0xbmxrWHdDdG5leU5MZzlidklpc01rQ1lyYkhYMldaNTF5WWV4MFZ3amJKWXlCVTJkSi1lZQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-18T03:35:15+00:00",
-    "summary": "Castill Health Announces Plans for Philippines Digital Healthcare Launch, Supported by Craig Astill and Caason Group markets.businessinsider.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "fd3979152c2e",
-    "title": "Anthropic says its workforce has become less junior and is spending more time in meetings",
-    "url": "https://techcrunch.com/2026/10/17/anthropic-says-its-workforce-has-become-less-junior-and-is-spending-more-time-in-meetings/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-10-17T20:21:19+00:00",
-    "summary": "The composition of Anthropic’s workforce and the type of work getting done have changed significantly in the past year.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/GettyImages-2278736523.jpeg?resize=1200,798",
-    "tags": [
-      "AI",
-      "Anthropic"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 11
+    "relevance_score": 52
   }
 ]
