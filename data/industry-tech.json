@@ -126,28 +126,6 @@
     "relevance_score": 48
   },
   {
-    "id": "e41822633f70",
-    "title": "TikTok bans Musk documentary account",
-    "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-10-17T19:32:23+00:00",
-    "summary": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distributor, Bleecker Street,...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194418432.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Creators",
-      "Elon Musk",
-      "Entertainment",
-      "Film",
-      "News"
-    ],
-    "industries": [
-      "media",
-      "tech"
-    ],
-    "relevance_score": 48
-  },
-  {
     "id": "53db671807ef",
     "title": "Adding AI or headcount won’t fix a marketing skills gap",
     "url": "https://martech.org/adding-ai-or-headcount-wont-fix-a-marketing-skills-gap/",
@@ -202,6 +180,28 @@
       "Agentic Marketing",
       "CMO Leadership"
     ]
+  },
+  {
+    "id": "e41822633f70",
+    "title": "TikTok bans Musk documentary account",
+    "url": "https://www.theverge.com/tech/1013453/tiktok-bans-alex-gibneys-musk-documentary",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-10-17T19:32:23+00:00",
+    "summary": "Just ahead of the wider release of Alex Gibney's Musk documentary, TikTok has banned the film's social media account from its platform. TikTok did not immediately respond to a request for comment. According to The Hollywood Reporter, the film's distributor, Bleecker Street,...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/gettyimages-2194418432.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Creators",
+      "Elon Musk",
+      "Entertainment",
+      "Film",
+      "News"
+    ],
+    "industries": [
+      "media",
+      "tech"
+    ],
+    "relevance_score": 45
   },
   {
     "id": "04007da96ade",
@@ -525,22 +525,24 @@
     "relevance_score": 23
   },
   {
-    "id": "fcf73aabe3e3",
-    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
-    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-10-17T18:48:08+00:00",
-    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
+    "id": "b5897d86afd5",
+    "title": "‘Digger’ Drops Out Of Box Office Top 10 As Theater Count Plunges 76%",
+    "url": "https://www.forbes.com/sites/timlammers/2026/10/17/digger-drops-out-of-box-office-top-10-as-theater-count-plunges-76/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-17T21:09:05+00:00",
+    "summary": "The Tom Cruise apocalyptic satire \"Digger\" appears to be much closer to calling it a day in theaters as the film enters its third weekend of release on the big screen.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad3dfd4a7dc3d9df1c4a3c3/0x0.jpg?width=960",
     "tags": [
-      "AI",
-      "Anthropic",
-      "Replit",
-      "TechCrunch Disrupt"
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
     ],
     "industries": [
-      "tech"
+      "tech",
+      "industrial"
     ],
     "relevance_score": 17
   },
@@ -557,6 +559,26 @@
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "fcf73aabe3e3",
+    "title": "Replit makes OpenAI its default over Anthropic, CEO says",
+    "url": "https://techcrunch.com/2026/10/17/replit-is-no-longer-working-with-anthropic-ceo-says/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-10-17T18:48:08+00:00",
+    "summary": "Over the weekend, Masad clarified that OpenAI would replace Anthropic as its default model provider. Claude will still be available to customers on the platform.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/replit-ceo-masad.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Anthropic",
+      "Replit",
+      "TechCrunch Disrupt"
+    ],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 16
   },
@@ -622,43 +644,18 @@
     "relevance_score": 15
   },
   {
-    "id": "0b81a58f5b3f",
-    "title": "Meta removes language that may have allowed it to scrape news sites",
-    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-10-17T15:04:36+00:00",
-    "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "AI",
-      "Meta",
-      "News",
-      "Tech"
-    ],
+    "id": "6f0cf78bbe0a",
+    "title": "India's Telecom Giant Jio Platforms Set for IPO Next Week at $108.3 Billion Valuation - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE9QcHl1b0ZvVG4zdHY4dVk2dGlRcFdhVjNPUlRTUk5MOXh2eFJvY1dJNGFpU2c0ZHBDd2NOM2FCdE1GbS03eTNCcjBYZVh0UWtvMS00dFh3aGMtX1FHdVZtME82R1JEWGhhUUxpNklySmJmWXhROGc?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-10-18T00:35:00+00:00",
+    "summary": "India's Telecom Giant Jio Platforms Set for IPO Next Week at $108.3 Billion Valuation BigGo Finance",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "7dd27ee4e856",
-    "title": "Meta removes language that raised scraping and AI training concerns",
-    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-10-17T21:31:32+00:00",
-    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
-    "tags": [
-      "AI",
-      "Social",
-      "Meta"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
+      "telecom"
     ],
     "relevance_score": 15
   },
@@ -701,6 +698,68 @@
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "0b81a58f5b3f",
+    "title": "Meta removes language that may have allowed it to scrape news sites",
+    "url": "https://www.theverge.com/tech/1013409/meta-removes-language-that-may-have-allowed-it-to-scrape-news-sites",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-10-17T15:04:36+00:00",
+    "summary": "After backlash, Meta is updating its terms again to remove language that suggested it could scrape content from sites, including news sites, to train its AI. Specifically, the following language no longer appears on the commercial terms page: … Meta may use any content from...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/02/STK043_VRG_Illo_N_Barclay_2_Meta.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "AI",
+      "Meta",
+      "News",
+      "Tech"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "7dd27ee4e856",
+    "title": "Meta removes language that raised scraping and AI training concerns",
+    "url": "https://techcrunch.com/2026/10/17/meta-removes-language-that-raised-scraping-and-ai-training-concerns/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-10-17T21:31:32+00:00",
+    "summary": "A Meta spokesperson insisted that the updated terms did not reflect a change in the way Meta crawls the web.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/05/meta-ai-GettyImages-2264943773.jpg?w=1024",
+    "tags": [
+      "AI",
+      "Social",
+      "Meta"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "3a44035a36f1",
+    "title": "Pacers Waive James Johnson And Two Rookies To Trim Roster For Season",
+    "url": "https://www.forbes.com/sites/tonyeast/2026/10/17/pacers-waive-james-johnson-and-two-rookies-to-trim-roster-for-season/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-17T21:54:17+00:00",
+    "summary": "NBA teams have to cut their rosters down to the appropriate size by Monday, and the Indiana Pacers did so by moving on from James Johnson, Rienk Mast, and Keba Keita.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ad3d98680c900f4cf88ec29/0x0.jpg?width=960&precrop=2694%2C1516%2Cx0%2Cy241",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 14
   },
@@ -783,6 +842,22 @@
     ],
     "industries": [
       "tech"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "967905930306",
+    "title": "Essay | A Princeton Ph.D. Applied to 2,300 Jobs. He Still Can’t Get One. - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPM0JDd2NOS2ZBN0lLR0pjbTNFb3B5bEtFM1d4VDBXa2R4c1hVVElQOGU3aDFpWU5CUU1LZF9GRlBCU2c0ek9BTVdBVnF0T25uWWZ4MWdGYzNFYjJpQ0pqTkpKZDRoenIta1VRc0VZM055MmlPdk4tLV8wZWlPbkFyODdMa3J3UQ?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-10-17T23:00:00+00:00",
+    "summary": "Essay | A Princeton Ph.D. Applied to 2,300 Jobs. He Still Can’t Get One. WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 12
   },
@@ -997,21 +1072,6 @@
     "relevance_score": 10
   },
   {
-    "id": "6d1921ca3c47",
-    "title": "Is Adobe A Better Way Than Salesforce To Own AI Software Growth? - Trefis",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQTUlXcG94eGlHT3NNV0VPQndoZm02Rk8zT2FUSXdTYmE1ZFhZUXo3M3pkdTdaZHFESzJjZzJBNDNZZnJhdW5nS0Y5OGh2QzZZaGFlS1RodTZjZGloMjdra2N0Nm9yTzZVYmxMZEdGUmlSV1NtdzM5T256YUFYa251TklpZl9FbVhvSE1abm9USzBqeUlWbkZTSGJvVW5vaThCX1dwOUlQMzlna2tSYmdnMWwzMnZWS0NTWmRkaWE3d1Q?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-10-16T16:01:46+00:00",
-    "summary": "Is Adobe A Better Way Than Salesforce To Own AI Software Growth? Trefis",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "3bebd98a0308",
     "title": "Katie Zacharia Was Linked to an AI Rare-Earths Startup. It’s Even Weirder Than It Sounds",
     "url": "https://www.wired.com/story/katie-zacharia-was-linked-to-an-ai-rare-earths-startup-its-even-weirder-than-it-sounds/",
@@ -1082,21 +1142,6 @@
     "industries": [
       "tech",
       "telecom"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "77b3969ce3bd",
-    "title": "ITU Study Group 2 workshop highlights role of standards in digital transformation - Tech Review Africa",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPTTlNdk0wMmVqLWk4WjQ1dnBkM2l2b2ZRYXE3dDk1NlpfaC1hbG5JaEdIMEp3bER5SHlWZEVmaXVLb1BjTm1md0Vwc24ta1UxWDVPeklvQW51WFJKaTByQlloNVJuUUtrMGF1RVUwVndQV3dJZ0t2UWEtWEtvbHV6LVVHc0dzVHRFOHBrY0VEV2VLU2xuWGF5OG9vSVhLcU43OERfMGt4cU1xcDFBbXl5ci1QcHBLVXZTRVVuSQ?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-10-16T12:00:38+00:00",
-    "summary": "ITU Study Group 2 workshop highlights role of standards in digital transformation Tech Review Africa",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 9
   },
@@ -1232,21 +1277,6 @@
     "relevance_score": 8
   },
   {
-    "id": "70f1e62226b0",
-    "title": "White House Press Secretary Is Out One Week After Her Appointment - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQaml6RjczQkpKczJjX1M5N293NzM2UHViUFkzazdIWElSYnE0c09wSVJEaXJxc0xQZmFjVFZ4U3RKanlqdnBYM0xKcTFrMjJXY0JsNlRtR1RzcFVhYjR2THpPTzdrbzlzMTNLdi1CZlNRcGF6ZTFwT0pjY09qZk52R05MMHJZeTB2RG1vbGpUUlp5bHVtdTFQT051ZGwyS1JEYWR5WlhB?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-10-17T01:50:00+00:00",
-    "summary": "White House Press Secretary Is Out One Week After Her Appointment WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "390793f2ed02",
     "title": "Can Vibe Coded Apps Replace Adobe and Microsoft? These AI Apps Hope So - CNET",
     "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQWUxjdEVHTE0zRzF1R0pocUpiNTFkV01jV1BNLTVCQVNfcUstbHNTTmhHT0ZMVkxVMlJzSzVjdWw0TmdzNDlPMmRoRDZXMzE1UkR0Y1gtZ2V3M1B1S0xVcHhvbXlJeVpZeC1SZWNxRkFraEJxNXdIX05zN3FtTVlrdFhtbnRZXzVOU24zRWxLN1lQdmJfV0I3QzFBNA?oc=5",
@@ -1310,23 +1340,6 @@
     "relevance_score": 7
   },
   {
-    "id": "9f02dbcb6ef0",
-    "title": "Resolution 57 and the challenge of scaling up digital transformation in healthcare in Vietnam. - Vietnam.vn",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQnc2bHRhc0JwdnVNTGpVRFlrdmNYSlllZFVqZGFrRzlVdzZuaGQwd3U2c0cwYkJNZU1XRl9qcG9NckNtbnlmZU5qNW42SDhLZ1RJcy1KWEhZSk93cjY4d2s0dDhzUHZqR29FaG5HZ3V5bFlWOFJzaHc3QmlvdmhBRXQ3X1NlYkV5d0lFR0ZFRENaZW9BbFlMUA?oc=5",
-    "source": "Healthcare Digital",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-15T01:38:15+00:00",
-    "summary": "Resolution 57 and the challenge of scaling up digital transformation in healthcare in Vietnam. Vietnam.vn",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 7
-  },
-  {
     "id": "43705bdf10d8",
     "title": "Telenet Appoints Cable & Wireless Panamá Chief Rocío Lorenzo as New CEO - The Fast Mode",
     "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxQeDVGNndNWUlrZ2Rick1vTkVjazN2a3dkd2pOX3JaNEdkREFuZk5UaEtxZGJYTXVMOG55Y01CZkNVRXF6eVdZMWtIRmlvdW1qRTEzSzNpSHBOMzNKVWNrMkZaa05kRV9CV2Rmb1JWVkN1QWlOQklnMjFmR3Y4WVZPUVVDbjk4SjVycUw0OC1iUkFFMkxnUW9hV3dWRjlCZVBEZnI2dWQyRVJmRFhiQlFfN1NyOW9nUVhVZW5Vb1I1cUFXdG04NW5GLQ?oc=5",
@@ -1356,7 +1369,10 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 7
+    "relevance_score": 7,
+    "also_covered_by": [
+      "Adobe Products"
+    ]
   },
   {
     "id": "78fbf9c32444",
@@ -1455,6 +1471,23 @@
     "also_covered_by": [
       "Adobe Products"
     ]
+  },
+  {
+    "id": "9f02dbcb6ef0",
+    "title": "Resolution 57 and the challenge of scaling up digital transformation in healthcare in Vietnam. - Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQQnc2bHRhc0JwdnVNTGpVRFlrdmNYSlllZFVqZGFrRzlVdzZuaGQwd3U2c0cwYkJNZU1XRl9qcG9NckNtbnlmZU5qNW42SDhLZ1RJcy1KWEhZSk93cjY4d2s0dDhzUHZqR29FaG5HZ3V5bFlWOFJzaHc3QmlvdmhBRXQ3X1NlYkV5d0lFR0ZFRENaZW9BbFlMUA?oc=5",
+    "source": "Healthcare Digital",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-15T01:38:15+00:00",
+    "summary": "Resolution 57 and the challenge of scaling up digital transformation in healthcare in Vietnam. Vietnam.vn",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 6
   },
   {
     "id": "5f0c9a005c90",
@@ -1613,6 +1646,22 @@
     "industries": [
       "tech",
       "financial"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "19be3c97e12f",
+    "title": "RevMed’s pancreatic cancer drug nears European approval - STAT",
+    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxQWTAxSGdaYVhsdWpMXy0wTkhlUHptM2ExQmZSTk4xd2dhQU9ObWNwWlBwUzZmZllkSTlwRGZXbmZhZndPRDhNUU5hbGxXdGNvWWotVUluMmc2QWFiaEZtRG81bWxmRld4anZFbnhQNExTMlNXeG9DV1BNUWFJdHJZbDdmbzY1dkN0MkEya1NBRjRjbkFuSi1vWUxHNWJIZWJpb1lnaGNR?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-16T13:43:10+00:00",
+    "summary": "RevMed’s pancreatic cancer drug nears European approval STAT",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
     ],
     "relevance_score": 5
   }
