@@ -10,7 +10,7 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 51,
+    "relevance_score": 48,
     "also_covered_by": [
       "Adobe"
     ]
@@ -28,20 +28,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 42
-  },
-  {
-    "id": "f1e019bdc78e",
-    "title": "CRM for Non-Techies",
-    "url": "https://www.salesforce.com/blog/small-business/crm-for-non-techies/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-16T13:00:00+00:00",
-    "summary": "No coding, no jargon, no headache — here's CRM for non-techies, explained.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image.png",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 21
+    "relevance_score": 39
   },
   {
     "id": "93f8e685bd85",
@@ -57,7 +44,20 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
+  },
+  {
+    "id": "a521de35f364",
+    "title": "Reinventing Mobile Work: Guided Experience, Headless Setup, and Voice to Form",
+    "url": "https://www.salesforce.com/blog/guided-mobile-work/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-20T22:36:23+00:00",
+    "summary": "Salesforce Field Service is reimagining the mobile work through intuitive workflows and hands-free features.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/Blog-Header-Guided-Experience.jpeg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 14
   },
   {
     "id": "7cb662cc68b8",
@@ -71,21 +71,6 @@
     "tags": [],
     "industries": [
       "telecom"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "16048743c4d6",
-    "title": "Earn Your Next Superbadge Together: Introducing Cohort Learning",
-    "url": "https://www.salesforce.com/blog/salesforce-learning/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-20T13:00:00+00:00",
-    "summary": "Discover how Superbadge Cohort Learning brings Trailblazers together to tackle real-world scenarios, build problem-solving skills, and earn superbadges side-by-side.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/superbadge_cohort_learning_EN_blog_header_1500x844.png",
-    "tags": [],
-    "industries": [
-      "industrial"
     ],
     "relevance_score": 13
   },
@@ -105,14 +90,14 @@
     "relevance_score": 12
   },
   {
-    "id": "640f057f5d1b",
-    "title": "How To Grow Your Email List (Without Spending a Fortune)",
-    "url": "https://www.salesforce.com/blog/small-business/grow-your-email-list/",
+    "id": "16048743c4d6",
+    "title": "Earn Your Next Superbadge Together: Introducing Cohort Learning",
+    "url": "https://www.salesforce.com/blog/salesforce-learning/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
     "published": "2026-10-20T13:00:00+00:00",
-    "summary": "Growing an email list doesn't take a big budget — just the right moves, made consistently.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_aab0ff.jpeg",
+    "summary": "Discover how Superbadge Cohort Learning brings Trailblazers together to tackle real-world scenarios, build problem-solving skills, and earn superbadges side-by-side.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/superbadge_cohort_learning_EN_blog_header_1500x844.png",
     "tags": [],
     "industries": [
       "industrial"
@@ -143,6 +128,21 @@
     "published": "2026-10-19T13:00:00+00:00",
     "summary": "Give your service team an AI teammate that knows your customers — here's how to set your help agent up on day one.",
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_c97b21.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "640f057f5d1b",
+    "title": "How To Grow Your Email List (Without Spending a Fortune)",
+    "url": "https://www.salesforce.com/blog/small-business/grow-your-email-list/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-20T13:00:00+00:00",
+    "summary": "Growing an email list doesn't take a big budget — just the right moves, made consistently.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_aab0ff.jpeg",
     "tags": [],
     "industries": [
       "industrial"
