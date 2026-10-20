@@ -5,28 +5,30 @@
     "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNVXRXZDUzdHhkSXFHS3JwUmtfYXBEeU5RSFJWYVZfM2JHWmhvYjdKNnVNUmhVcWEtU0ptbzdwX2pZMXU2VF93LWw5QVZ3NWtMQzlCYk1Ob3NpTmVtcUF2MnhrQ2xqRjc0dzljR0Y1bXRpb3I5NDVPSmhfSTBPRzNCcWs4aFpYanEwQ1NsU1MwaU5YcHJwZ1IzSw?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-10-20T13:12:34+00:00",
+    "published": "2026-10-20T13:18:30+00:00",
     "summary": "Salesforce acquires Braze in $5.6bn deal Performance Marketing World",
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 54,
+    "relevance_score": 51,
     "also_covered_by": [
       "Adobe"
     ]
   },
   {
-    "id": "c5024f728bbd",
-    "title": "Influencer Marketing Strategies For Small and Midsize Enterprises",
-    "url": "https://www.salesforce.com/blog/small-business/influencer-marketing-for-startups/",
+    "id": "528e54049823",
+    "title": "Turning data into trusted, shared context with the Agent Context Engine",
+    "url": "https://www.salesforce.com/blog/agent-context-engine-trusted-shared-context/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-10-15T13:00:00+00:00",
-    "summary": "Influencer marketing can turn a handful of trusted voices into a fun growth engine.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/image_70de13.jpeg",
+    "published": "2026-10-20T16:12:41+00:00",
+    "summary": "An account executive opens a $5M expansion that the CRM marks “Commit” and asks an agent for the next best action. Working from the CRM alone, the agent does the sensible thing: it…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_5029dd.png",
     "tags": [],
-    "industries": [],
-    "relevance_score": 27
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 42
   },
   {
     "id": "f1e019bdc78e",
@@ -42,6 +44,22 @@
     "relevance_score": 21
   },
   {
+    "id": "93f8e685bd85",
+    "title": "Why This Nonprofit CTO Says Salesforce Field Service Is “Transformative” for Lean-Budget Operations",
+    "url": "https://www.salesforce.com/blog/share-my-meals/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-20T18:32:14+00:00",
+    "summary": "Share My Meals turned to Salesforce Field Service to create a centralized platform for their not-for-profit operations.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/Blog-Header-Share-My-Meals.jpeg",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
     "id": "7cb662cc68b8",
     "title": "Salesforce opens Madrid HQ, to invest USD 1 bln in Spain - Telecompaper",
     "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPOTJiQTloaFFiSUduZ2pybFB4eU9ZcnZ6NnZDaU1KaUNOaXJ5QzRjbG1BX0p6aGZKWDM3dGFyWFhzRm9MV1JLcnl0dDY2eC1qN1BHbFYxSlZDb0h5VkFGUFdrQVRuLS1fWmU1N1BYMGdhX2hfNVp6Qkh5ZllYRFVaQWUyLXd4bzI1c2M5T205RHR1VjN5OXJZRG9aMFhqVTQ?oc=5",
@@ -54,7 +72,7 @@
     "industries": [
       "telecom"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "16048743c4d6",
@@ -69,7 +87,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "4d4cb693fea0",
@@ -84,7 +102,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "640f057f5d1b",
@@ -99,19 +117,6 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 13
-  },
-  {
-    "id": "92d48f4c3603",
-    "title": "Meet Launa-Omni, Salesforce’s Voice Model for Real-Time Conversation",
-    "url": "https://www.salesforce.com/blog/launa-omni/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-19T18:34:47+00:00",
-    "summary": "Salesforce AI Research has been building Launa-Omni, a voice model that holds real-time, two-way conversations. The latest evaluation results came in this week, and this post covers what we built and how it…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/Frame-12-1.png",
-    "tags": [],
-    "industries": [],
     "relevance_score": 12
   },
   {
@@ -145,6 +150,19 @@
     "relevance_score": 11
   },
   {
+    "id": "92d48f4c3603",
+    "title": "Meet Launa-Omni, Salesforce’s Voice Model for Real-Time Conversation",
+    "url": "https://www.salesforce.com/blog/launa-omni/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-19T18:34:47+00:00",
+    "summary": "Salesforce AI Research has been building Launa-Omni, a voice model that holds real-time, two-way conversations. The latest evaluation results came in this week, and this post covers what we built and how it…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/Frame-12-1.png",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 10
+  },
+  {
     "id": "a077bf71c05d",
     "title": "Agentic AI Skepticism: Apple and Salesforce Face a Common Issue - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxNVzNJazZPN0UtR1l4WGo0LUJtLVpPQTA5WmFaNEJPcWw5V1hMT3JEQXV1ZXJpVFNmUWFEM0RmUGF5N3oxT2pDcy1aRElGNlpDOHJkbnZJS292MFdrTnVIU0FSNmUyN2RMZ0F0VDZvTDJVTjduTnBfa0JEdjdmUklkNGY0ZzlWQTI2NFQycnRvTThZZzBucU9lSEdNU0NNWjRoY093RFZZcEJydw?oc=5",
@@ -175,21 +193,6 @@
       "industrial"
     ],
     "relevance_score": 8
-  },
-  {
-    "id": "1a2bf268b227",
-    "title": "Managing Agentic Security at Scale",
-    "url": "https://www.salesforce.com/blog/managing-agentic-security-at-scale/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-14T20:32:14+00:00",
-    "summary": "On the code we scan at depth, the volume of findings is now the constraint: frontier models plus an agentic harness surface more real, exploitable findings than engineering can absorb. We can find…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_2051918047.jpeg",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 7
   },
   {
     "id": "328bc294c597",
