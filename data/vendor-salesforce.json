@@ -13,7 +13,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 51
+    "relevance_score": 47
   },
   {
     "id": "4870e003d9c9",
@@ -30,29 +30,10 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 43,
+    "relevance_score": 40,
     "also_covered_by": [
-      "Salesforce AI",
-      "Adobe Inc",
-      "Banking"
+      "Salesforce AI"
     ]
-  },
-  {
-    "id": "e776bc3d77da",
-    "title": "Salesforce Named a Leader in Inaugural IDC MarketScape for Worldwide Agentic AI Platforms",
-    "url": "https://www.salesforce.com/blog/idc-marketscape-agentic-ai-platforms/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-21T12:28:43+00:00",
-    "summary": "According to the IDC MarketScape, our strengths include brand and distribution scale, hybrid reasoning with deterministic control, and a native, grounded data foundation.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/idc-agentic-card-1440x810-1.png",
-    "tags": [],
-    "industries": [
-      "tech",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 29
   },
   {
     "id": "10236f93c374",
@@ -67,21 +48,19 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
-    "id": "903822ead054",
-    "title": "25 Online Business Ideas For All Your Commerce Needs",
-    "url": "https://www.salesforce.com/blog/small-business/online-business-ideas-for-commerce/",
+    "id": "18062e27c383",
+    "title": "What You Need to Know About the Critical PHP Vulnerabilities (PHP2Shell)",
+    "url": "https://www.salesforce.com/blog/what-you-need-to-know-about-the-critical-php-vulnerabilities-php2shell/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-10-23T13:00:00+00:00",
-    "summary": "From candle shops to consulting gigs, these online business ideas show you exactly how to turn a spare evening into a real storefront.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_5d4a53.png",
+    "published": "2026-10-23T18:25:56+00:00",
+    "summary": "Overview On October 21, 2026, the PHP project released PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 to address CVE-2026-109618 and CVE-2026-109619. Both vulnerabilities can enable unauthenticated remote code execution in affected deployments and carry…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/08/AdobeStock_621261617.jpg?w=7934",
     "tags": [],
-    "industries": [
-      "retail"
-    ],
+    "industries": [],
     "relevance_score": 16
   },
   {
@@ -101,6 +80,34 @@
     "relevance_score": 15
   },
   {
+    "id": "5c5d255d742c",
+    "title": "4 Ways Salesforce is Going Headless Internally (and How You Can Too)",
+    "url": "https://www.salesforce.com/blog/salesforce-headless-use-cases/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-23T17:29:39+00:00",
+    "summary": "Here’s how we’ve used AIforce to support our employees and drive innovation for our customers.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/image_b132e3.jpeg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 15
+  },
+  {
+    "id": "903822ead054",
+    "title": "25 Online Business Ideas For All Your Commerce Needs",
+    "url": "https://www.salesforce.com/blog/small-business/online-business-ideas-for-commerce/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-23T13:00:00+00:00",
+    "summary": "From candle shops to consulting gigs, these online business ideas show you exactly how to turn a spare evening into a real storefront.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_5d4a53.png",
+    "tags": [],
+    "industries": [
+      "retail"
+    ],
+    "relevance_score": 14
+  },
+  {
     "id": "f53b8f2f5cef",
     "title": "Optimize Data 360 Ingestion for Cost Efficiency",
     "url": "https://www.salesforce.com/blog/optimize-data-360-ingestion-costs/",
@@ -114,7 +121,20 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 15
+    "relevance_score": 13
+  },
+  {
+    "id": "352feb1bf52f",
+    "title": "Best Practices for Creating a Performant Semantic Model in Tableau Semantics",
+    "url": "https://www.salesforce.com/blog/tableau-semantics-best-practices-performant-semantic-model/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-23T17:01:19+00:00",
+    "summary": "Discover how to design, test, and optimize models in Tableau Semantics. Learn how to structure models for max query speed, governance, and enterprise scale.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/00-list_sdm-best-practices.jpg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 13
   },
   {
     "id": "c2c29855fb11",
@@ -129,23 +149,7 @@
     "industries": [
       "financial"
     ],
-    "relevance_score": 13
-  },
-  {
-    "id": "aa88ff6cd517",
-    "title": "Entering the Agentic and Conversational Era of Hardware Asset Management",
-    "url": "https://www.salesforce.com/blog/hardware-asset-management/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-22T16:15:00+00:00",
-    "summary": "Move beyond static spreadsheets and ticket queues. Discover how autonomous AI agents are transforming hardware asset management into a conversational, lifecycle-orchestrated experience.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/Blog-Header-HAM.jpeg",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 11
+    "relevance_score": 12
   },
   {
     "id": "beef8d3a78f9",
@@ -161,32 +165,18 @@
     "relevance_score": 10
   },
   {
-    "id": "a6de4b98587d",
-    "title": "7 Headless Software Tips For Startups",
-    "url": "https://www.salesforce.com/blog/small-business/headless-software-tips-for-startups/",
+    "id": "aa88ff6cd517",
+    "title": "Entering the Agentic and Conversational Era of Hardware Asset Management",
+    "url": "https://www.salesforce.com/blog/hardware-asset-management/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-10-21T13:00:00+00:00",
-    "summary": "Want to understand headless software as a business owner? We’ve got you covered.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_63f746.jpeg",
+    "published": "2026-10-22T16:15:00+00:00",
+    "summary": "Move beyond static spreadsheets and ticket queues. Discover how autonomous AI agents are transforming hardware asset management into a conversational, lifecycle-orchestrated experience.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/Blog-Header-HAM.jpeg",
     "tags": [],
     "industries": [
-      "tech"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "dc640deb767f",
-    "title": "AI Inbox Management: This Is Now a Thing",
-    "url": "https://www.salesforce.com/blog/small-business/ai-inbox-management/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-22T13:00:00+00:00",
-    "summary": "AI inbox management turns your most dreaded daily task into an advantage — here's how small teams are organizing their emails.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_e4a713.jpeg",
-    "tags": [],
-    "industries": [
-      "industrial"
+      "industrial",
+      "financial"
     ],
     "relevance_score": 9
   },
@@ -222,5 +212,20 @@
     "also_covered_by": [
       "Banking"
     ]
+  },
+  {
+    "id": "69a9c714af34",
+    "title": "Skills You Need to Become a Salesforce Agentforce Specialist - Nasscom",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdGIyQi1qZkZDZzZ5QTV2bGhzRWh5YXBtQllvYmdyNHliOWp1UEhvZmRiTkxLMEZPTXV2ZnBGVW9vXzg3V2E5Z2dqcG5wc3lZYXpyUjhhb3ZRblF3RnY1TjBXYmtaTDNzVXZWR3pDdTRFcDhLcDRWdnN5WFZSdVQxOUM4UVRjdl80eVZLY3dSMnB3S2oxWmRhRGJNQlZCbk5FNm9MVFhzT2w4d2dOWVBPRUVybzRYZi1DaHhj?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-10-21T06:30:54+00:00",
+    "summary": "Skills You Need to Become a Salesforce Agentforce Specialist Nasscom",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 7
   }
 ]
