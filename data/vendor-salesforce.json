@@ -51,19 +51,6 @@
     "relevance_score": 15
   },
   {
-    "id": "18062e27c383",
-    "title": "What You Need to Know About the Critical PHP Vulnerabilities (PHP2Shell)",
-    "url": "https://www.salesforce.com/blog/what-you-need-to-know-about-the-critical-php-vulnerabilities-php2shell/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-23T18:25:56+00:00",
-    "summary": "Overview On October 21, 2026, the PHP project released PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 to address CVE-2026-109618 and CVE-2026-109619. Both vulnerabilities can enable unauthenticated remote code execution in affected deployments and carry…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/08/AdobeStock_621261617.jpg?w=7934",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 15
-  },
-  {
     "id": "fe37201b1227",
     "title": "Life Sciences Cloud: October 2026 Newsletter",
     "url": "https://www.salesforce.com/blog/life-sciences-cloud-fall-2026-newsletter/",
@@ -80,6 +67,19 @@
     "relevance_score": 14
   },
   {
+    "id": "18062e27c383",
+    "title": "What You Need to Know About the Critical PHP Vulnerabilities (PHP2Shell)",
+    "url": "https://www.salesforce.com/blog/what-you-need-to-know-about-the-critical-php-vulnerabilities-php2shell/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-23T18:25:56+00:00",
+    "summary": "Overview On October 21, 2026, the PHP project released PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 to address CVE-2026-109618 and CVE-2026-109619. Both vulnerabilities can enable unauthenticated remote code execution in affected deployments and carry…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/08/AdobeStock_621261617.jpg?w=7934",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 14
+  },
+  {
     "id": "5c5d255d742c",
     "title": "4 Ways Salesforce is Going Headless Internally (and How You Can Too)",
     "url": "https://www.salesforce.com/blog/salesforce-headless-use-cases/",
@@ -90,7 +90,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/image_b132e3.jpeg",
     "tags": [],
     "industries": [],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "903822ead054",
@@ -105,7 +105,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 13
+    "relevance_score": 11
   },
   {
     "id": "f53b8f2f5cef",
@@ -121,7 +121,7 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "352feb1bf52f",
@@ -134,7 +134,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/00-list_sdm-best-practices.jpg",
     "tags": [],
     "industries": [],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "beef8d3a78f9",
@@ -212,20 +212,5 @@
     "also_covered_by": [
       "Banking"
     ]
-  },
-  {
-    "id": "69a9c714af34",
-    "title": "Skills You Need to Become a Salesforce Agentforce Specialist - Nasscom",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdGIyQi1qZkZDZzZ5QTV2bGhzRWh5YXBtQllvYmdyNHliOWp1UEhvZmRiTkxLMEZPTXV2ZnBGVW9vXzg3V2E5Z2dqcG5wc3lZYXpyUjhhb3ZRblF3RnY1TjBXYmtaTDNzVXZWR3pDdTRFcDhLcDRWdnN5WFZSdVQxOUM4UVRjdl80eVZLY3dSMnB3S2oxWmRhRGJNQlZCbk5FNm9MVFhzT2w4d2dOWVBPRUVybzRYZi1DaHhj?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-10-21T06:30:54+00:00",
-    "summary": "Skills You Need to Become a Salesforce Agentforce Specialist Nasscom",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 6
   }
 ]

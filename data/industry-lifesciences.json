@@ -13,7 +13,7 @@
       "consumer",
       "lifesciences"
     ],
-    "relevance_score": 41
+    "relevance_score": 35
   },
   {
     "id": "a1e5f66a1a6d",
@@ -28,7 +28,28 @@
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 22
+    "relevance_score": 19
+  },
+  {
+    "id": "98d47784ca17",
+    "title": "New mRNA Vaccine Reduces Risk of Melanoma Recurrence by Over 40 Percent",
+    "url": "https://www.wired.com/story/new-melanoma-vaccine-reduces-risk-of-tumor-reoccurrence-by-over-40-percent/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-10-24T11:30:00+00:00",
+    "summary": "The vaccine is personalized to a patient’s tumor, and results from the Phase 3 trial are yet another example of the promise of mRNA vaccines in treating cancer.",
+    "image_url": "https://media.wired.com/photos/6adbb6236c5716eb12b3253b/master/pass/vacuna%20melanoma%202275195271.jpg",
+    "tags": [
+      "Science",
+      "Science / Health",
+      "cancer",
+      "personalized medicine",
+      "RNA"
+    ],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 18
   },
   {
     "id": "d9a10bcbda83",
@@ -61,22 +82,6 @@
       "lifesciences"
     ],
     "relevance_score": 15
-  },
-  {
-    "id": "de2962873086",
-    "title": "Redesign Health, ARC Global merge in $2B deal to accelerate health system innovation",
-    "url": "https://www.fiercehealthcare.com/health-tech/redesign-health-arc-global-merge-2b-deal-accelerate-health-system-innovation",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-22T14:58:00+00:00",
-    "summary": "The three organizations—Redesign Health, ARC Global and AVIA—work with more than 100 health systems on five continents, and the companies and products built across their networks have reached more than 100 million patients worldwide.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/redesign_health_arc.png?VersionId=oEQ64Odk0mbGlzTtQY4korozu2sKmI83",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 14
   },
   {
     "id": "5595c812cd34",
@@ -129,28 +134,23 @@
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
-    "id": "4358bdc30fea",
-    "title": "In the biotech world, you can’t see everything",
-    "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-10-23T09:00:00+00:00",
-    "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes. I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was...",
-    "image_url": null,
-    "tags": [
-      "Biotechnology and health",
-      "App",
-      "Summary",
-      "The Checkup"
-    ],
+    "id": "de2962873086",
+    "title": "Redesign Health, ARC Global merge in $2B deal to accelerate health system innovation",
+    "url": "https://www.fiercehealthcare.com/health-tech/redesign-health-arc-global-merge-2b-deal-accelerate-health-system-innovation",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-22T14:58:00+00:00",
+    "summary": "The three organizations—Redesign Health, ARC Global and AVIA—work with more than 100 health systems on five continents, and the companies and products built across their networks have reached more than 100 million patients worldwide.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/redesign_health_arc.png?VersionId=oEQ64Odk0mbGlzTtQY4korozu2sKmI83",
+    "tags": [],
     "industries": [
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "cf03a1e311f4",
@@ -167,7 +167,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "f38658d6b23e",
@@ -208,70 +208,25 @@
     "relevance_score": 11
   },
   {
-    "id": "6a147386449f",
-    "title": "The Download: testing six tech promises and biotech’s blind spots",
-    "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+    "id": "4358bdc30fea",
+    "title": "In the biotech world, you can’t see everything",
+    "url": "https://www.technologyreview.com/2026/10/23/1147610/biotech-you-can-see-everything-theranos-holmes/",
     "source": "MIT Technology Review",
     "source_category": "ai",
-    "published": "2026-10-23T12:10:00+00:00",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s...",
+    "published": "2026-10-23T09:00:00+00:00",
+    "summary": "Earlier this week, I attended a screening of You Can See Everything, the buzzy new documentary about the disgraced former biotech CEO Elizabeth Holmes. I went in not really knowing what to expect. I’d avoided spoilers (and won’t be giving anything away here, either!). I was...",
     "image_url": null,
     "tags": [
-      "The Download"
+      "Biotechnology and health",
+      "App",
+      "Summary",
+      "The Checkup"
     ],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "916ccbe9be69",
-    "title": "House Oversight Committee chair probes PBMs on independent pharmacy audits",
-    "url": "https://www.fiercehealthcare.com/payers/house-oversight-committee-chair-probes-pbms-independent-pharmacy-audits",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-23T14:45:00+00:00",
-    "summary": "The chair of a key House panel is pressing major pharmacy benefit managers on whether they retaliated against independent pharmacies for publicly supporting reform efforts.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202024-09-25T135647.552.jpg?VersionId=lq570SshFNMgqy.J23tNIGUCUD07vAS9",
-    "tags": [],
     "industries": [
       "industrial",
       "lifesciences"
     ],
     "relevance_score": 11
-  },
-  {
-    "id": "85341a5f63c3",
-    "title": "Jabil's 2026 digital health survey: Confidence in AI’s potential rises as confidence in internal readiness falls - R&D World",
-    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWloyVWVoay0zbWJKNnMzVmpCWUV1WHlWTEVqMGJGOHZsMUxQYjl4eWJrUFRHSHNFTXkwTjQ0S0xORjlMSzBEbXVoR0EzWl92N3gzOVNhekJSejNzazVWandtV3B0ZjlUU1YtNzRSdnZteW9XZEMwWDB4RHFUbFJsXzJSZUxqTUlCbi1Tb2FUcEcteVNjR3pkTnRlMGpNSGNpUUpIWGRjb0hUUlc1MFdUdF9feUF3YUlncm1SMzN5dzdvUmY4MzVMTjZFZFpDeEtfMjh5b0dQZw?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-23T22:53:34+00:00",
-    "summary": "Jabil's 2026 digital health survey: Confidence in AI’s potential rises as confidence in internal readiness falls R&D World",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "d2864890f332",
-    "title": "Centene, Oscar, UnitedHealthcare sidle into some new counties in 2027 ACA plans",
-    "url": "https://www.healthcaredive.com/news/centene-oscar-unitedhealthcare-new-counties-aca-2027/833442/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-21T13:09:58+00:00",
-    "summary": "The major insurers are entering new Affordable Care Act markets as others are leaving the exchanges en masse, though in the cases of Centene and UnitedHealthcare, county additions paper over larger state exits.",
-    "image_url": "https://imgproxy.divecdn.com/vp0v3vi9WN-h_YguPfXh2znzAnvYKMOfliRvaTsP1jc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjk5MTU3NTQ1LmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 10
   },
   {
     "id": "1eecbef825e5",
@@ -322,20 +277,35 @@
     "relevance_score": 10
   },
   {
-    "id": "630531eccd00",
-    "title": "North Carolina Life Sciences News: Fortrea’s $45 Million Acquisition, United Therapeutics FDA Approval & More - BioBuzz",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUktrWUxSU0FLRlJta2diRXhGUXFrU2JEMDR0eUtjTE4xdGhQSHNhdWRFczcwX0drTUlEZkEtdmFsb0xneTFaQnFNWnVDS2JWU2lkZDJEODBOQS15eVVVYVpab1BtemNsOFhodXdhSzlQdzl0WHJXR2I5ZUU3YTRZN1E4UnJHTDRyeTZ4cVhndVZ5VGVQa01YS0ZEbTJpSXNNemI1U1lzYTBFWEVEZUd4djRzRnNXSEg2UXpraGpadFlVQy1MRkdz?oc=5",
-    "source": "Biotech",
+    "id": "85341a5f63c3",
+    "title": "Jabil's 2026 digital health survey: Confidence in AI’s potential rises as confidence in internal readiness falls - R&D World",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWloyVWVoay0zbWJKNnMzVmpCWUV1WHlWTEVqMGJGOHZsMUxQYjl4eWJrUFRHSHNFTXkwTjQ0S0xORjlMSzBEbXVoR0EzWl92N3gzOVNhekJSejNzazVWandtV3B0ZjlUU1YtNzRSdnZteW9XZEMwWDB4RHFUbFJsXzJSZUxqTUlCbi1Tb2FUcEcteVNjR3pkTnRlMGpNSGNpUUpIWGRjb0hUUlc1MFdUdF9feUF3YUlncm1SMzN5dzdvUmY4MzVMTjZFZFpDeEtfMjh5b0dQZw?oc=5",
+    "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-23T16:14:09+00:00",
-    "summary": "North Carolina Life Sciences News: Fortrea’s $45 Million Acquisition, United Therapeutics FDA Approval & More BioBuzz",
+    "published": "2026-10-23T22:53:34+00:00",
+    "summary": "Jabil's 2026 digital health survey: Confidence in AI’s potential rises as confidence in internal readiness falls R&D World",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
       "lifesciences"
     ],
     "relevance_score": 10
+  },
+  {
+    "id": "d2864890f332",
+    "title": "Centene, Oscar, UnitedHealthcare sidle into some new counties in 2027 ACA plans",
+    "url": "https://www.healthcaredive.com/news/centene-oscar-unitedhealthcare-new-counties-aca-2027/833442/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-21T13:09:58+00:00",
+    "summary": "The major insurers are entering new Affordable Care Act markets as others are leaving the exchanges en masse, though in the cases of Centene and UnitedHealthcare, county additions paper over larger state exits.",
+    "image_url": "https://imgproxy.divecdn.com/vp0v3vi9WN-h_YguPfXh2znzAnvYKMOfliRvaTsP1jc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMjk5MTU3NTQ1LmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 9
   },
   {
     "id": "3222cd4bd076",
@@ -355,22 +325,6 @@
     "relevance_score": 9
   },
   {
-    "id": "2a05e2deaeca",
-    "title": "Op-ed: The case for a primary care triple-double",
-    "url": "https://www.fiercehealthcare.com/providers/op-ed-case-primary-care-triple-double",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-22T12:26:00+00:00",
-    "summary": "To bolster outcomes at cost, double investment in primary care, double the reach of primary care and double the share of clinicians entering primary care, write heads of the American Academy of Family Physicians and the National Association of Community Health Centers.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1152828905%20%281%29.jpg?VersionId=0HbnXOBRUPQ7g2GAP9.eWZzMbWRXuM.p",
-    "tags": [],
-    "industries": [
-      "lifesciences",
-      "financial"
-    ],
-    "relevance_score": 9
-  },
-  {
     "id": "d68b4ccd3c8c",
     "title": "Quest Diagnostics hit by cyberattack",
     "url": "https://www.healthcaredive.com/news/quest-diagnostics-hit-by-cyberattack/833822/",
@@ -386,79 +340,114 @@
     "relevance_score": 9
   },
   {
-    "id": "23c7349b7170",
-    "title": "Louisiana’s $20M rural health tech fund is taking extra time to name its debut awards - Technical.ly",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbjd1eXkyM2o3cmFyZndjYzQ0NExiVDN0NF9mVEdESUJKV2J4RXowc2Jxa0ttYzdTWGZBUUExa3RwYk1pQTRnLUtDSnN3OUZpV3VxUzN1YUY5dFVubHdCWWFIRWhsSG9lWVNNaE5reS1McF9OSTBwa2lBZDlPU2lxRU9NdW1ybVU5ZlJvQVNvd0VKcGtBNEF1cTN3VE5pQQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-23T10:02:49+00:00",
-    "summary": "Louisiana’s $20M rural health tech fund is taking extra time to name its debut awards Technical.ly",
+    "id": "6a147386449f",
+    "title": "The Download: testing six tech promises and biotech’s blind spots",
+    "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-10-23T12:10:00+00:00",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s...",
     "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
+    "tags": [
+      "The Download"
     ],
-    "relevance_score": 9
-  },
-  {
-    "id": "601f8c2987f9",
-    "title": "4 Houston health tech startups shaping the future of medicine - InnovationMap",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTUNQLWs3VmlEOEVkcHZEcE53d3NNY2ZTdU5RNnpLbEZKY0gxUTBvQUVPQXctVEpGSGdLd2Qzc3pyaWxiOFVzNWlSd3dPZXQyUzNnR3FtMUZtXzlha25sdGhtZXljTXpQUXdQaGZ0OHE4Z29GMFNNSWdIVTVtQkk1Z0dxZERHbmd5VVhFMnc1Ty0?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-23T14:06:55+00:00",
-    "summary": "4 Houston health tech startups shaping the future of medicine InnovationMap",
-    "image_url": null,
-    "tags": [],
     "industries": [
       "tech",
+      "industrial",
       "lifesciences"
     ],
     "relevance_score": 9
   },
   {
-    "id": "d605b2e52fb6",
-    "title": "HHS national kidney care plan takes aim at prevention, dialysis and transplant access",
-    "url": "https://www.fiercehealthcare.com/regulatory/hhs-launches-national-kidney-plan-transform-nations-kidney-care",
+    "id": "916ccbe9be69",
+    "title": "House Oversight Committee chair probes PBMs on independent pharmacy audits",
+    "url": "https://www.fiercehealthcare.com/payers/house-oversight-committee-chair-probes-pbms-independent-pharmacy-audits",
     "source": "Fierce Healthcare",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-21T11:48:00+00:00",
-    "summary": "The plan has three priorities: preventing kidney failure, improving dialysis care while expanding patient choice and reforming the transplant system.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202025-04-10T152915.785.jpg?VersionId=r8FCCe6qoFAxs3yINSnZ.hQWytsgyQdj",
+    "published": "2026-10-23T14:45:00+00:00",
+    "summary": "The chair of a key House panel is pressing major pharmacy benefit managers on whether they retaliated against independent pharmacies for publicly supporting reform efforts.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202024-09-25T135647.552.jpg?VersionId=lq570SshFNMgqy.J23tNIGUCUD07vAS9",
     "tags": [],
     "industries": [
+      "industrial",
       "lifesciences"
     ],
-    "relevance_score": 8
+    "relevance_score": 9
   },
   {
-    "id": "70d218696606",
-    "title": "UNC Health Recognized for Digital Health Achievement as 2026 Digital Health Most Wired Survey Recipient - UNC Health",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRzA4dVNWZENtS1pmZFZReUFKRDZEckZNSTlCNW5KdmFnMnU4MDZKdUx4cFpwQTNlUENVc2J3YWF2ZmNiQ2NoOTEwM0dhT0MwMlJzNlFTTWRUeGJ6VnlobmhxTXZhSFg3dThWMWltUUhXOEV4Wk5sdlVpUjdlSW1SRllLblVXb0NXeHlWQVRsSlhkTlM5UXRRY3Y5Y0dnVzQ3ZkVXelNnZ0ZsZEZEdjNjcncydkFEMzFSV2RzaklUSDBhRnM3Z3lBWVRGQU40TXFkZXlBaGFFZjlJZFE?oc=5",
+    "id": "5e1710b1dd78",
+    "title": "Danaher, NVIDIA, FedEx, Sanofi: This Week in Healthcare - Healthcare Digital",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTG9XMlVERXRYTWFlb3hRbm9BWFB0cGFrdy1vMHhtYVpQWUVHb3FGRkJnNTFJOTM4a0RMQVB3NGJqb0hzdFVRdWdURzZUQUw1SHJXcExhOGpOaFdpN1NfNW5CWGNmS1hIODNQRFJBQ0VkT2Y2aDg4Q0dBS0FhRzRPU1c5YWhsV21XYjRGalUzVDI?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-21T13:33:55+00:00",
-    "summary": "UNC Health Recognized for Digital Health Achievement as 2026 Digital Health Most Wired Survey Recipient UNC Health",
+    "published": "2026-10-24T08:07:58+00:00",
+    "summary": "Danaher, NVIDIA, FedEx, Sanofi: This Week in Healthcare Healthcare Digital",
     "image_url": null,
     "tags": [],
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 8
+    "relevance_score": 9
   },
   {
-    "id": "15f299bac63f",
-    "title": "Telehealth leapfrogs FDA approval with off-label GLP-1 prescriptions for addiction - STAT",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1dVanNlX1U4QVFrSE5JOGxlNDduTVZtOGM4Q2RsemI4RFc4UHhhRklEdXZXbDU5Z0FYQzk3OTBGX0wyeXlyV3h3d0pfWDlMNFprVEE4ajF0c3BfUEV0ZXNRemFpZW9JaVNSYXY5bFVtUTA0UTZTZ09aemVmdk1XXzZ5TVpLX1gyendIVXJxSFU5TW5MWlNOQTdiRjdiVFByMWZ1SGVlZU4?oc=5",
+    "id": "ae1f8244ee06",
+    "title": "Moderna Investors Should Brace for More Whiplash - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxOdWduZGRpay1ZdEdfaHpvR3otOTZXUEM3U3dyQkFDN0xfWFFWSDcxUXlzX0hsemk0b3NXemZ1ZnR5Rk80SkMzdThXcHB5bGlqMzYxZnN3Wmw2UmJWRV9mT0lRUXhOZXNBVWF6Y2RvLWwzOTZhaHItcHJXWm90anRpZGdUcGJ3dTc3RWVhOTdOd2x1bzNqbUE?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-10-24T09:30:00+00:00",
+    "summary": "Moderna Investors Should Brace for More Whiplash WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "180e4cb8e084",
+    "title": "NJEDA Approves $16.5 Million for 8 New Jersey Startups, Including 6 in Health and Life Sciences - BioBuzz",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQOE5mWmJ1WXpLVXdWWVlaWWhYWWc5QzVtWDdsNlhkZUxITURoenYwdElBTm9yc0ZhRVdieWE5QTBPQlF1RU9jRk9heFNySzFjMVRYck1aSGktNGsybUFhVHdmQVVUX3VvUkJlSVloaHdIWkhEOUxrcmRGVE5YYllRYUJCMDV2bDBDUzdfVHdWNGhtb1U5bEdhV05rRnNiam5nTmhSdDFxNE1FdnBFUnF6enlwTmJwTHhTbmc?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-22T08:33:55+00:00",
-    "summary": "Telehealth leapfrogs FDA approval with off-label GLP-1 prescriptions for addiction STAT",
+    "published": "2026-10-21T22:20:15+00:00",
+    "summary": "NJEDA Approves $16.5 Million for 8 New Jersey Startups, Including 6 in Health and Life Sciences BioBuzz",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
       "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "b969f428615d",
+    "title": "How Are Microba Life Sciences (ASX:MAP) Shares Faring After a 10% Drop? - Kalkine",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxOdFpXdnJvWEJpVmg3enBaLXJsWWRjSlRjQnJiWHVtZWdVS2F2ZTg3bmZHdEN2Y3d1dVBlV0NlUlY1RG5rRGh5R0xuWEgyM1M5V09vZmNtRHFiMnNhaTVTOGo4d2kxNC1kbFVwTURpZzh4aWV1alN2ZmJRNEZzeUprR1NyZXREQWNDUE02N1hfRWk2ZXk0S25HUFJ6T3NoU2JUYUtkNnJFNHZtT0ZuZWNSc2UwMmFydw?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-22T06:52:00+00:00",
+    "summary": "How Are Microba Life Sciences (ASX:MAP) Shares Faring After a 10% Drop? Kalkine",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "2a05e2deaeca",
+    "title": "Op-ed: The case for a primary care triple-double",
+    "url": "https://www.fiercehealthcare.com/providers/op-ed-case-primary-care-triple-double",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-22T12:26:00+00:00",
+    "summary": "To bolster outcomes at cost, double investment in primary care, double the reach of primary care and double the share of clinicians entering primary care, write heads of the American Academy of Family Physicians and the National Association of Community Health Centers.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1152828905%20%281%29.jpg?VersionId=0HbnXOBRUPQ7g2GAP9.eWZzMbWRXuM.p",
+    "tags": [],
+    "industries": [
+      "lifesciences",
+      "financial"
     ],
     "relevance_score": 8
   },
@@ -480,13 +469,43 @@
     "relevance_score": 8
   },
   {
-    "id": "9217e9257981",
-    "title": "One day, three approvals: FDA expands options for ocular redness, thyroid eye disease, and presbyopia - Ophthalmology Times",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbjMwOFpyaUhKTXN4dWE3aFNOZEtwTU9jZzFfZjk2MEp1ak5QckRGSVlxWG4tT3JhSzNLR1F0YU9iM1RsaERJSlJUaEpkZUxLTkwtXy0yT3NGVzUxbHB4eEtfVzM3dDhtcWxQaEF0MmlDQi1xcWtKckJJdEV1ZGZiVFE0VlowWDF2Rm9JeXV6MkR1THVRcEtBRHR4LTZhYVdqdjNZVHpvdWhSTUJuaUtKVmFLVS12YVppSmNBMGpMODNycFlHZndLM2VUQm9qMGFRMWpn?oc=5",
-    "source": "Biotech",
+    "id": "23c7349b7170",
+    "title": "Louisiana’s $20M rural health tech fund is taking extra time to name its debut awards - Technical.ly",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNbjd1eXkyM2o3cmFyZndjYzQ0NExiVDN0NF9mVEdESUJKV2J4RXowc2Jxa0ttYzdTWGZBUUExa3RwYk1pQTRnLUtDSnN3OUZpV3VxUzN1YUY5dFVubHdCWWFIRWhsSG9lWVNNaE5reS1McF9OSTBwa2lBZDlPU2lxRU9NdW1ybVU5ZlJvQVNvd0VKcGtBNEF1cTN3VE5pQQ?oc=5",
+    "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-23T16:44:47+00:00",
-    "summary": "One day, three approvals: FDA expands options for ocular redness, thyroid eye disease, and presbyopia Ophthalmology Times",
+    "published": "2026-10-23T10:02:49+00:00",
+    "summary": "Louisiana’s $20M rural health tech fund is taking extra time to name its debut awards Technical.ly",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "bbb11800cb88",
+    "title": "Viewpost’s Hospitality AI and other Digital Transactions News briefs from 10/23/26 - Digital Transactions",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE9PRlc5OFowR2ZDTkJCN0NHV0k1TFhvN0VSUFBuVHUxUHZLckVPanNXdDZkY3dseldYNzk3aXNyUWNEOFNidmlxZjhnYUlzMDctSWROSDZ2c3prY2FjNHMxMUQtQ3dLakliZXlsQkNn?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-10-23T13:07:00+00:00",
+    "summary": "Viewpost’s Hospitality AI and other Digital Transactions News briefs from 10/23/26 Digital Transactions",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "601f8c2987f9",
+    "title": "4 Houston health tech startups shaping the future of medicine - InnovationMap",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNTUNQLWs3VmlEOEVkcHZEcE53d3NNY2ZTdU5RNnpLbEZKY0gxUTBvQUVPQXctVEpGSGdLd2Qzc3pyaWxiOFVzNWlSd3dPZXQyUzNnR3FtMUZtXzlha25sdGhtZXljTXpQUXdQaGZ0OHE4Z29GMFNNSWdIVTVtQkk1Z0dxZERHbmd5VVhFMnc1Ty0?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-23T14:06:55+00:00",
+    "summary": "4 Houston health tech startups shaping the future of medicine InnovationMap",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -496,37 +515,50 @@
     "relevance_score": 8
   },
   {
-    "id": "745f0d709ce6",
-    "title": "Russell Wilson And Ciara Are Co-Owners And Investors In QALO, A Wearable Health Tech Company - AfroTech",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQU0JUaTc3cWRJTi1JWVRWNjNiZ2tPcERRUU1mdllBYk9oSlh6UHpvRFVqckF1NVFlY0FoQWg3ZDRiZjRHeUVRRHlYelJpbUViUWY5QldLN3NfOVBobkRrM2dmTV9KbWpUYklDb096RVFKY1U0MEFzaXVEbUNZbkFxNXBFa2F4VmVyNW01cDlB?oc=5",
-    "source": "Health Tech",
+    "id": "d605b2e52fb6",
+    "title": "HHS national kidney care plan takes aim at prevention, dialysis and transplant access",
+    "url": "https://www.fiercehealthcare.com/regulatory/hhs-launches-national-kidney-plan-transform-nations-kidney-care",
+    "source": "Fierce Healthcare",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-23T17:14:56+00:00",
-    "summary": "Russell Wilson And Ciara Are Co-Owners And Investors In QALO, A Wearable Health Tech Company AfroTech",
-    "image_url": null,
+    "published": "2026-10-21T11:48:00+00:00",
+    "summary": "The plan has three priorities: preventing kidney failure, improving dialysis care while expanding patient choice and reforming the transplant system.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Featured%20Images%20-%20Fierce%20Healthcare%20-%202025-04-10T152915.785.jpg?VersionId=r8FCCe6qoFAxs3yINSnZ.hQWytsgyQdj",
     "tags": [],
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 8
+    "relevance_score": 7
   },
   {
-    "id": "34acfdf221a3",
-    "title": "Mexico advances digital health transformation - Digital Watch Observatory",
-    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LVXFCc0RWTXdELXdfUmh0ZlVibHE4MmJMRFYyanE3NnNsdnRQM25rU0pCeUlLR1ZoVXdCWGpUOEp2RDRPblJJUjQtd2ROTEI0QUdnOVRZVkRERUkzb0xQRzFITFJsd0VvZ0J0LWxoSHdVSS04VjZLNDB6TQ?oc=5",
+    "id": "70d218696606",
+    "title": "UNC Health Recognized for Digital Health Achievement as 2026 Digital Health Most Wired Survey Recipient - UNC Health",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxPRzA4dVNWZENtS1pmZFZReUFKRDZEckZNSTlCNW5KdmFnMnU4MDZKdUx4cFpwQTNlUENVc2J3YWF2ZmNiQ2NoOTEwM0dhT0MwMlJzNlFTTWRUeGJ6VnlobmhxTXZhSFg3dThWMWltUUhXOEV4Wk5sdlVpUjdlSW1SRllLblVXb0NXeHlWQVRsSlhkTlM5UXRRY3Y5Y0dnVzQ3ZkVXelNnZ0ZsZEZEdjNjcncydkFEMzFSV2RzaklUSDBhRnM3Z3lBWVRGQU40TXFkZXlBaGFFZjlJZFE?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-23T21:52:19+00:00",
-    "summary": "Mexico advances digital health transformation Digital Watch Observatory",
+    "published": "2026-10-21T13:33:55+00:00",
+    "summary": "UNC Health Recognized for Digital Health Achievement as 2026 Digital Health Most Wired Survey Recipient UNC Health",
     "image_url": null,
     "tags": [],
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 8,
-    "also_covered_by": [
-      "Fintech"
-    ]
+    "relevance_score": 7
+  },
+  {
+    "id": "15f299bac63f",
+    "title": "Telehealth leapfrogs FDA approval with off-label GLP-1 prescriptions for addiction - STAT",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxNc1dVanNlX1U4QVFrSE5JOGxlNDduTVZtOGM4Q2RsemI4RFc4UHhhRklEdXZXbDU5Z0FYQzk3OTBGX0wyeXlyV3h3d0pfWDlMNFprVEE4ajF0c3BfUEV0ZXNRemFpZW9JaVNSYXY5bFVtUTA0UTZTZ09aemVmdk1XXzZ5TVpLX1gyendIVXJxSFU5TW5MWlNOQTdiRjdiVFByMWZ1SGVlZU4?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-22T08:33:55+00:00",
+    "summary": "Telehealth leapfrogs FDA approval with off-label GLP-1 prescriptions for addiction STAT",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 7
   },
   {
     "id": "21dae5e14cba",
@@ -562,43 +594,29 @@
     "relevance_score": 7
   },
   {
-    "id": "788c71dd251d",
-    "title": "HEALTHCARE FUTURIST SPEAKER AND KEYNOTE FOR CORPORATE MEETINGS, CONFERENCES & VIRTUAL EVENTS ONLINE - https://www.futuristsspeakers.com/",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ1FSTmV1cGRKblZaYXB2NGpMWWx2NnpzY29HSjNDaFFtekNjdWZURzNZb1YwX1RsTkhxbEU0YXZ5R3JaUlg2NTR0djhpZ0k3WnNfMDREeGdwcmdkc3JTQnNnaER0amxFaUphbzN1SEVianhVd0twbHNnNnlDajdUcnRuelpXRVpV?oc=5",
-    "source": "Healthcare Digital",
+    "id": "9217e9257981",
+    "title": "One day, three approvals: FDA expands options for ocular redness, thyroid eye disease, and presbyopia - Ophthalmology Times",
+    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbjMwOFpyaUhKTXN4dWE3aFNOZEtwTU9jZzFfZjk2MEp1ak5QckRGSVlxWG4tT3JhSzNLR1F0YU9iM1RsaERJSlJUaEpkZUxLTkwtXy0yT3NGVzUxbHB4eEtfVzM3dDhtcWxQaEF0MmlDQi1xcWtKckJJdEV1ZGZiVFE0VlowWDF2Rm9JeXV6MkR1THVRcEtBRHR4LTZhYVdqdjNZVHpvdWhSTUJuaUtKVmFLVS12YVppSmNBMGpMODNycFlHZndLM2VUQm9qMGFRMWpn?oc=5",
+    "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-23T14:43:01+00:00",
-    "summary": "HEALTHCARE FUTURIST SPEAKER AND KEYNOTE FOR CORPORATE MEETINGS, CONFERENCES & VIRTUAL EVENTS ONLINE https://www.futuristsspeakers.com/",
+    "published": "2026-10-23T16:44:47+00:00",
+    "summary": "One day, three approvals: FDA expands options for ocular redness, thyroid eye disease, and presbyopia Ophthalmology Times",
     "image_url": null,
     "tags": [],
     "industries": [
+      "tech",
       "lifesciences"
     ],
     "relevance_score": 7
   },
   {
-    "id": "3c60679ac32f",
-    "title": "Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach - TechCrunch",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxORXZ2alBCTVk2UFpOSTl2cTFOVXZKYzlVN1hQRHdGYlduUUNnSkFQa2h5clY0STRQd2drUkE4c0R2ZFBpYzVPVGVuME42OGRvbG5qX0VOaUx3MnlZYVlxTDR5V2ZBdXAwVkRVWGg0LThUWFhMQTBVNS1CYjBuNEl1MGp6a296Y3RHMWJacGVINmttdWNIVkFPS09TbnR1Q3p5RjdEM0xKc3ZKMFhWVlBsTFctWFYwYTBSWTcySXVER2pxX05keFRmQWk2eFpINzR3bU1DTmU2ZFFyak0?oc=5",
+    "id": "34acfdf221a3",
+    "title": "Mexico advances digital health transformation - Digital Watch Observatory",
+    "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1LVXFCc0RWTXdELXdfUmh0ZlVibHE4MmJMRFYyanE3NnNsdnRQM25rU0pCeUlLR1ZoVXdCWGpUOEp2RDRPblJJUjQtd2ROTEI0QUdnOVRZVkRERUkzb0xQRzFITFJsd0VvZ0J0LWxoSHdVSS04VjZLNDB6TQ?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-23T15:00:09+00:00",
-    "summary": "Lab testing giant Quest Diagnostics confirms patients' personal and health data was compromised during breach TechCrunch",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "a742f60683e8",
-    "title": "Ancient Chinese Preventive Medicine Meets AI in Proposed Digital Health Framework - Bioengineer.org",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQMmMyR25FSEpFMHBSUFg5YTNYWXYwWFc5UlVsU05va1dMWEVUdGJMWGx1eVYzMzZHRXJOWTNDLWlPOXRTdVBNNnoyczZqY0kyLTd4bXBZWEstNTlYaVZyZG55eV9CYjRUay04cG8yTzhSdFJCNDR1UmFSQzVjbEJGRlRvWUpkV3F2aV91VmdCUk1sNU9KMjJLWjVnU092RXlNZnY3VkpZTWRJQQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-23T15:38:39+00:00",
-    "summary": "Ancient Chinese Preventive Medicine Meets AI in Proposed Digital Health Framework Bioengineer.org",
+    "published": "2026-10-23T21:52:19+00:00",
+    "summary": "Mexico advances digital health transformation Digital Watch Observatory",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -620,37 +638,6 @@
     "image_url": null,
     "tags": [],
     "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "6321acdd4276",
-    "title": "INVEST Digital Health Celebrates Healthcare Innovation in Texas - MedCity News",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOdGhXN1RKeWZwbEFhZUNydG8wM1R2V2pFSXdQQWVUTXJaWndpVFp5MWRLbjYwVGtnZTFMT2kyM3hmOEdSYlZvV1RKRFAzSnBJLTFRalBkN1E2NUxYYjNBYVZiT19xeXg4OEZMSXkyNGtobW9IMHcwNERIaTB4TkxBZENfRGhzZzhTaDZSLXlpN3RBS080eU56VG5kU2s?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-22T11:43:41+00:00",
-    "summary": "INVEST Digital Health Celebrates Healthcare Innovation in Texas MedCity News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "3ae68fe5d1bf",
-    "title": "FDA finalizes its guidance on apps related to drugs, pharma rejoices - STAT",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXAyZ3Vwel8zaTZiNFB5V1RKTVBkVl9uYl84NHFFeWRMeGlGVUJqUHRBYVQxbnJxQlVsWjlUaVRnQzlZX2hyUlR1MzVYbUlxa0VZZWNaVC1qb1FOS0hpcXg2WVktdHNUZEFRM0RfaGxTcURPY3ZDVHB3U2FLSzdzZUhHX1Z6U19kWDhja0R4V0otWld0dUpDelA2T2VuQQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-22T13:18:55+00:00",
-    "summary": "FDA finalizes its guidance on apps related to drugs, pharma rejoices STAT",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
       "lifesciences"
     ],
     "relevance_score": 6
@@ -703,36 +690,19 @@
     "relevance_score": 6
   },
   {
-    "id": "8798ee10e39a",
-    "title": "Gilead Sciences Is on an FDA Approval Hot Streak. Should You Buy the Stock Like There's No Tomorrow? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPUG1mRUc1a2FwWDh5UHBhd1JMM2hHaWpuQ1BDUlBMR1VHR09fbDBoeEk5eElrU2x6X0I2U1NmaW5JTU10NXIxN0xUd0V6X3VTdVo3NVdPejlxUjFaYkFwUXo2dEx6d2pXR3BGQlRxYXhVX2FVUVlqaHVZdWFJbnJBcjNkYndob1BsWDlqN2U4YW80eUxlWmNaSQ?oc=5",
-    "source": "Biotech",
+    "id": "788c71dd251d",
+    "title": "HEALTHCARE FUTURIST SPEAKER AND KEYNOTE FOR CORPORATE MEETINGS, CONFERENCES & VIRTUAL EVENTS ONLINE - https://www.futuristsspeakers.com/",
+    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNQ1FSTmV1cGRKblZaYXB2NGpMWWx2NnpzY29HSjNDaFFtekNjdWZURzNZb1YwX1RsTkhxbEU0YXZ5R3JaUlg2NTR0djhpZ0k3WnNfMDREeGdwcmdkc3JTQnNnaER0amxFaUphbzN1SEVianhVd0twbHNnNnlDajdUcnRuelpXRVpV?oc=5",
+    "source": "Healthcare Digital",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-18T17:50:00+00:00",
-    "summary": "Gilead Sciences Is on an FDA Approval Hot Streak. Should You Buy the Stock Like There's No Tomorrow? The Motley Fool",
+    "published": "2026-10-23T14:43:01+00:00",
+    "summary": "HEALTHCARE FUTURIST SPEAKER AND KEYNOTE FOR CORPORATE MEETINGS, CONFERENCES & VIRTUAL EVENTS ONLINE https://www.futuristsspeakers.com/",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
       "lifesciences"
     ],
-    "relevance_score": 5
-  },
-  {
-    "id": "141063f4659b",
-    "title": "GSK’s Jemperli scores FDA approval in rectal cancer, backed by high complete response rate - Fierce Pharma",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxQemktSi15XzNDRmNKcmVyOTU2VVhCSHZPOWR1TllkUkRFV2VvU0pmYXFUU1M2aktPMTRNMFcyY0dBU0hvRGNnOEFKN3Q3X3JQT19BMlk4dHNuR25SN2xhTWRWMXBEcHhPLU5WYXUxbFF2M1VXTnZzYnhfX2JOendwRXhSRlpsMGFyZkE5SUZqNGRJRUhocnpDdjd0Ykc5SDg5NXZ0SHFxWnV6Z0JvTTJLZVBzb2ZxTXkx?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-19T17:24:00+00:00",
-    "summary": "GSK’s Jemperli scores FDA approval in rectal cancer, backed by high complete response rate Fierce Pharma",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 5
+    "relevance_score": 6
   },
   {
     "id": "cfabc57e03a2",
@@ -813,6 +783,38 @@
       "tech",
       "industrial",
       "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "3ae68fe5d1bf",
+    "title": "FDA finalizes its guidance on apps related to drugs, pharma rejoices - STAT",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMXAyZ3Vwel8zaTZiNFB5V1RKTVBkVl9uYl84NHFFeWRMeGlGVUJqUHRBYVQxbnJxQlVsWjlUaVRnQzlZX2hyUlR1MzVYbUlxa0VZZWNaVC1qb1FOS0hpcXg2WVktdHNUZEFRM0RfaGxTcURPY3ZDVHB3U2FLSzdzZUhHX1Z6U19kWDhja0R4V0otWld0dUpDelA2T2VuQQ?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-22T13:18:55+00:00",
+    "summary": "FDA finalizes its guidance on apps related to drugs, pharma rejoices STAT",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "2660561d9d20",
+    "title": "Russell Wilson and Ciara join QALO as co-owners in health tech investment - TheGrio",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPWDNpbEs1dkVzZ3VubkJpRDJXczVpaHhEWTRycXRTYjNFNVJGQmZWX2RYV1VuSDhtSHdSTm1GZ29mRHZmbDBjLVhweGlSbV9ySndKZDlDdXhwV2x0dG9HaFJGQm5ENmdtaVBWWklNOEh2WlZHS2xfS1VIRjFkUFlZdU9VUUVxVEU?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-22T14:28:54+00:00",
+    "summary": "Russell Wilson and Ciara join QALO as co-owners in health tech investment TheGrio",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences",
+      "financial"
     ],
     "relevance_score": 5
   }
