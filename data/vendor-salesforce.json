@@ -48,7 +48,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "18062e27c383",
@@ -61,7 +61,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/08/AdobeStock_621261617.jpg?w=7934",
     "tags": [],
     "industries": [],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
     "id": "fe37201b1227",
@@ -80,6 +80,19 @@
     "relevance_score": 14
   },
   {
+    "id": "5c5d255d742c",
+    "title": "4 Ways Salesforce is Going Headless Internally (and How You Can Too)",
+    "url": "https://www.salesforce.com/blog/salesforce-headless-use-cases/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-23T17:29:39+00:00",
+    "summary": "Here’s how we’ve used AIforce to support our employees and drive innovation for our customers.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/image_b132e3.jpeg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 14
+  },
+  {
     "id": "903822ead054",
     "title": "25 Online Business Ideas For All Your Commerce Needs",
     "url": "https://www.salesforce.com/blog/small-business/online-business-ideas-for-commerce/",
@@ -92,20 +105,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "5c5d255d742c",
-    "title": "4 Ways Salesforce is Going Headless Internally (and How You Can Too)",
-    "url": "https://www.salesforce.com/blog/salesforce-headless-use-cases/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-23T17:29:39+00:00",
-    "summary": "Here’s how we’ve used AIforce to support our employees and drive innovation for our customers.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/image_b132e3.jpeg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "f53b8f2f5cef",
@@ -121,7 +121,7 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "352feb1bf52f",
@@ -137,6 +137,19 @@
     "relevance_score": 12
   },
   {
+    "id": "beef8d3a78f9",
+    "title": "Salesforce acquires Braze for 5.66 billion - Techzine Global",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYno4dWptZjA3MS03d203eVNsd0toWjMwTk5haWoyNjNydXJSTzN0X29rWHIzYXY4WjRTN0dHQ0xjLUdad0dER3RUOE11LTdYOXlsaVNiYnFOeEJLT1lKUGV6cGdodFJ1VjN0QWZCNGxrS2x4dzQydjVDc2lqQ08zeW1rSmRpT2lqUmx5UUVfTVFSUS1ZMHo0?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-10-20T12:41:28+00:00",
+    "summary": "Salesforce acquires Braze for 5.66 billion Techzine Global",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 10
+  },
+  {
     "id": "c2c29855fb11",
     "title": "Breaking Down the Stack: Browser-Bound vs. Headless Architecture",
     "url": "https://www.salesforce.com/blog/headless-architecture-vs-browser-bound/",
@@ -149,19 +162,6 @@
     "industries": [
       "financial"
     ],
-    "relevance_score": 11
-  },
-  {
-    "id": "beef8d3a78f9",
-    "title": "Salesforce acquires Braze for 5.66 billion - Techzine Global",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOYno4dWptZjA3MS03d203eVNsd0toWjMwTk5haWoyNjNydXJSTzN0X29rWHIzYXY4WjRTN0dHQ0xjLUdad0dER3RUOE11LTdYOXlsaVNiYnFOeEJLT1lKUGV6cGdodFJ1VjN0QWZCNGxrS2x4dzQydjVDc2lqQ08zeW1rSmRpT2lqUmx5UUVfTVFSUS1ZMHo0?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-10-20T12:41:28+00:00",
-    "summary": "Salesforce acquires Braze for 5.66 billion Techzine Global",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
     "relevance_score": 10
   },
   {
@@ -212,5 +212,20 @@
     "also_covered_by": [
       "Banking"
     ]
+  },
+  {
+    "id": "69a9c714af34",
+    "title": "Skills You Need to Become a Salesforce Agentforce Specialist - Nasscom",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOdGIyQi1qZkZDZzZ5QTV2bGhzRWh5YXBtQllvYmdyNHliOWp1UEhvZmRiTkxLMEZPTXV2ZnBGVW9vXzg3V2E5Z2dqcG5wc3lZYXpyUjhhb3ZRblF3RnY1TjBXYmtaTDNzVXZWR3pDdTRFcDhLcDRWdnN5WFZSdVQxOUM4UVRjdl80eVZLY3dSMnB3S2oxWmRhRGJNQlZCbk5FNm9MVFhzT2w4d2dOWVBPRUVybzRYZi1DaHhj?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-10-21T06:30:54+00:00",
+    "summary": "Skills You Need to Become a Salesforce Agentforce Specialist Nasscom",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 6
   }
 ]
