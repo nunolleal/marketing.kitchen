@@ -16,7 +16,7 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 64
+    "relevance_score": 61
   },
   {
     "id": "62d747f5aea4",
@@ -111,7 +111,7 @@
       "Hollywood & Entertainment"
     ],
     "industries": [],
-    "relevance_score": 47
+    "relevance_score": 44
   },
   {
     "id": "93820e9ece09",
@@ -134,6 +134,25 @@
     "relevance_score": 54
   },
   {
+    "id": "11f91d0647f5",
+    "title": "Personalization knows what customers want, not who they are",
+    "url": "https://martech.org/personalization-knows-what-customers-want-not-who-they-are/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-10-23T12:55:00+00:00",
+    "summary": "Useful offers are common. Meaningful recognition is not, and consumers are quick to walk when brands ask for too much without a clear reason. The post Personalization knows what customers want, not who they are appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-1.55.26-PM.png",
+    "tags": [
+      "Customer relationship management (CRM)",
+      "MarTechCharts"
+    ],
+    "industries": [
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 50
+  },
+  {
     "id": "a9526976eeeb",
     "title": "Now Google says it might use your Gmail and Google Photos data to target ads",
     "url": "https://www.theverge.com/tech/1017600/google-personal-intelligence-privacy-policy-ads-update",
@@ -154,26 +173,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 47
-  },
-  {
-    "id": "11f91d0647f5",
-    "title": "Personalization knows what customers want, not who they are",
-    "url": "https://martech.org/personalization-knows-what-customers-want-not-who-they-are/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-10-23T12:55:00+00:00",
-    "summary": "Useful offers are common. Meaningful recognition is not, and consumers are quick to walk when brands ask for too much without a clear reason. The post Personalization knows what customers want, not who they are appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-1.55.26-PM.png",
-    "tags": [
-      "Customer relationship management (CRM)",
-      "MarTechCharts"
-    ],
-    "industries": [
-      "tech",
-      "consumer"
-    ],
-    "relevance_score": 50
+    "relevance_score": 44
   },
   {
     "id": "5ba9ffdc4908",
@@ -233,38 +233,6 @@
     "relevance_score": 50
   },
   {
-    "id": "08656efd7baf",
-    "title": "The Weekly Closeout: Torrid CFO exits and Belk secures financing",
-    "url": "https://www.retaildive.com/news/torrid-cfo-exits-belk-financing/833755/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-10-23T15:56:00+00:00",
-    "summary": "Paula Dempsey will leave the apparel retailer next month. The department store, meanwhile, will use some of its new funds for seasonal inventory.",
-    "image_url": "https://imgproxy.divecdn.com/blo-mxpSBGlBso28P9usWRlFputrpXkWkhUpvowERwQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CZWxrMi5qcGc=.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail"
-    ],
-    "relevance_score": 42
-  },
-  {
-    "id": "f564eb1822b9",
-    "title": "Verizon and Harley-Davidson Take Different Paths to Brand Reinvention - Chief Marketer",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObWw2cjhUYi1XQmtXUU1aZnJ1UDRHTVdqMFd0TFZ3bnFJTTVnV09SQUhoUXlzWUZIVko5ai1aeVVLVm9YY2FuMTlLNHQzWU02SDVMUXljTU9KMlBlVm1oTmdrSjVkMFpoZ3ozVDRVTXAxZ2UzLW9ReTRGWnNzb2xzNnZrNWNRUXpCRkJDRndiZndPX2FkSXpoVXhhOFFCaUd2UlE?oc=5",
-    "source": "Telecom",
-    "source_category": "industry_telecom",
-    "published": "2026-10-23T19:52:18+00:00",
-    "summary": "Verizon and Harley-Davidson Take Different Paths to Brand Reinvention Chief Marketer",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "consumer"
-    ],
-    "relevance_score": 35
-  },
-  {
     "id": "d738eeb3777d",
     "title": "Ads of the Week: 10 Campaigns That Caught Our Eye, From Away to Walmart",
     "url": "https://www.adweek.com/creativity/ads-of-the-week-10-campaigns-that-caught-our-eye-from-away-to-walmart/",
@@ -281,6 +249,22 @@
       "retail"
     ],
     "relevance_score": 52
+  },
+  {
+    "id": "08656efd7baf",
+    "title": "The Weekly Closeout: Torrid CFO exits and Belk secures financing",
+    "url": "https://www.retaildive.com/news/torrid-cfo-exits-belk-financing/833755/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-10-23T15:56:00+00:00",
+    "summary": "Paula Dempsey will leave the apparel retailer next month. The department store, meanwhile, will use some of its new funds for seasonal inventory.",
+    "image_url": "https://imgproxy.divecdn.com/blo-mxpSBGlBso28P9usWRlFputrpXkWkhUpvowERwQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CZWxrMi5qcGc=.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail"
+    ],
+    "relevance_score": 39
   },
   {
     "id": "79795b98b17a",
@@ -302,20 +286,20 @@
     "relevance_score": 42
   },
   {
-    "id": "562fa798a2d1",
-    "title": "Halloween 2026’s best campaigns—and what they can teach brands - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlBGb09FM2FHbmRqNFpDZ3JXWDdfakJFR3E3YklwMjg2UFBSWnMteFA1LUxJVHBVVTZ1cWNleG43MFQwMW1sWE5PWTZZcXpjTHh0M1c3dlN0d080RElJbklPcngyalFKQnlSWjlOak1uVmRTcXdXZnVXOU9yX0NyMk5Pb01xLU9vOGVLRS0wZElRSE42TGNiV1hDZ2kxS2c?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-10-23T09:00:00+00:00",
-    "summary": "Halloween 2026’s best campaigns—and what they can teach brands Ad Age",
+    "id": "f564eb1822b9",
+    "title": "Verizon and Harley-Davidson Take Different Paths to Brand Reinvention - Chief Marketer",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObWw2cjhUYi1XQmtXUU1aZnJ1UDRHTVdqMFd0TFZ3bnFJTTVnV09SQUhoUXlzWUZIVko5ai1aeVVLVm9YY2FuMTlLNHQzWU02SDVMUXljTU9KMlBlVm1oTmdrSjVkMFpoZ3ozVDRVTXAxZ2UzLW9ReTRGWnNzb2xzNnZrNWNRUXpCRkJDRndiZndPX2FkSXpoVXhhOFFCaUd2UlE?oc=5",
+    "source": "Telecom",
+    "source_category": "industry_telecom",
+    "published": "2026-10-23T19:52:18+00:00",
+    "summary": "Verizon and Harley-Davidson Take Different Paths to Brand Reinvention Chief Marketer",
     "image_url": null,
     "tags": [],
     "industries": [
-      "consumer",
-      "industrial"
+      "telecom",
+      "consumer"
     ],
-    "relevance_score": 43
+    "relevance_score": 32
   },
   {
     "id": "4a8405ad3b70",
@@ -335,6 +319,22 @@
     "also_covered_by": [
       "Financial Marketing"
     ]
+  },
+  {
+    "id": "562fa798a2d1",
+    "title": "Halloween 2026’s best campaigns—and what they can teach brands - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlBGb09FM2FHbmRqNFpDZ3JXWDdfakJFR3E3YklwMjg2UFBSWnMteFA1LUxJVHBVVTZ1cWNleG43MFQwMW1sWE5PWTZZcXpjTHh0M1c3dlN0d080RElJbklPcngyalFKQnlSWjlOak1uVmRTcXdXZnVXOU9yX0NyMk5Pb01xLU9vOGVLRS0wZElRSE42TGNiV1hDZ2kxS2c?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-10-23T09:00:00+00:00",
+    "summary": "Halloween 2026’s best campaigns—and what they can teach brands Ad Age",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 40
   },
   {
     "id": "afdbb7171dea",
@@ -446,6 +446,25 @@
     "relevance_score": 47
   },
   {
+    "id": "623a65a5f4c8",
+    "title": "Today’s Wordle #1953 Hints, Clues And Answer For Saturday October 24",
+    "url": "https://www.forbes.com/sites/erikkain/2026/10/23/wordle-hints-clues-answer-saturday-october-24/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-23T22:54:28+00:00",
+    "summary": "Looking for help with today's New York Times Wordle? Here are some expert hints, clues and commentary to help you solve today's Wordle and sharpen your guessing game.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/654ac7d9543b3152d167c85e/0x0.jpg?width=960",
+    "tags": [
+      "Gaming",
+      "/gaming",
+      "Innovation",
+      "/innovation",
+      "Gaming"
+    ],
+    "industries": [],
+    "relevance_score": 18
+  },
+  {
     "id": "d60d247cd8bd",
     "title": "How AB InBev built a culture of creative effectiveness that drives growth",
     "url": "https://www.marketingdive.com/news/how-ab-inbev-built-a-culture-of-creative-effectiveness-that-drives-growth/833674/",
@@ -457,6 +476,25 @@
     "tags": [],
     "industries": [],
     "relevance_score": 46
+  },
+  {
+    "id": "ecc3d740bc03",
+    "title": "Soulection At 15: Turning Underground Credibility Into Business",
+    "url": "https://www.forbes.com/sites/desjahaltvater/2026/10/23/soulection-at-15-turning-underground-credibility-into-business/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-23T23:00:11+00:00",
+    "summary": "Joe Kay and Framework’s Kobi Danan explore Soulection’s evolution, creative entrepreneurship, and the business of building lasting cultural influence.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adbd2c442dfa073a80469c6/0x0.jpg?width=960&precrop=818%2C545%2Cx0%2Cy172",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [],
+    "relevance_score": 17
   },
   {
     "id": "739797ca19c0",
@@ -477,49 +515,29 @@
     "industries": [
       "media"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
-    "id": "93353f7f0a21",
-    "title": "Ebola Vaccine Trials Begin In DRC As Death Toll Nears 4,700",
-    "url": "https://www.forbes.com/sites/maryroeloffs/2026/10/23/ebola-vaccine-trials-begin-in-drc-as-death-toll-nears-4700/",
+    "id": "0463371a1b51",
+    "title": "The New Norm: AI Discovers Disastrous Security Hole In 70% Of The World’s Websites",
+    "url": "https://www.forbes.com/sites/lanceeliot/2026/10/23/the-new-norm-ai-discovers-disastrous-security-hole-in-70-of-the-worlds-websites/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-10-23T21:07:33+00:00",
-    "summary": "Late-stage trials for a vaccine targeting the deadly Bundibugyo Ebola strain have launched in the DCR as the country continues to struggle under its most deadly Ebola outbreak ever.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adbcc2b154bc36aa7f72d4b/0x0.jpg?width=960",
+    "published": "2026-10-23T21:44:19+00:00",
+    "summary": "Headline-grabbing security hole in global websites, found by AI, now has evildoers using AI to exploit the gap. An AI Insider analysis and scoop.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adbd21d3c9266170b1d6799/0x0.jpg?width=960&precrop=1251%2C938%2Cx107%2Cy0",
     "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
+      "AI",
+      "/ai",
+      "Innovation",
+      "/innovation",
+      "AI"
     ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 18
-  },
-  {
-    "id": "ded00fa6ccdb",
-    "title": "How Amazon Made a Stronger Partnership Play in Thursday Night Football in Year 5",
-    "url": "https://www.adweek.com/convergent-tv/how-amazon-made-a-stronger-partnership-play-in-thursday-night-football-in-year-5/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-10-23T15:26:37+00:00",
-    "summary": "Prime Video's Thursday Night Football advertisers are up 6% year over year.",
-    "image_url": null,
-    "tags": [
-      "General",
-      "Premium",
-      "Sports Marketing News"
-    ],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 21
+    "industries": [],
+    "relevance_score": 17,
+    "also_covered_by": [
+      "Wall Street"
+    ]
   },
   {
     "id": "ed35c99c90fc",
@@ -544,22 +562,26 @@
     "relevance_score": 41
   },
   {
-    "id": "6f6451b374ed",
-    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
-    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-10-23T19:06:23+00:00",
-    "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside...",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
+    "id": "93353f7f0a21",
+    "title": "Ebola Vaccine Trials Begin In DRC As Death Toll Nears 4,700",
+    "url": "https://www.forbes.com/sites/maryroeloffs/2026/10/23/ebola-vaccine-trials-begin-in-drc-as-death-toll-nears-4700/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-23T21:07:33+00:00",
+    "summary": "Late-stage trials for a vaccine targeting the deadly Bundibugyo Ebola strain have launched in the DCR as the country continues to struggle under its most deadly Ebola outbreak ever.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adbcc2b154bc36aa7f72d4b/0x0.jpg?width=960",
     "tags": [
-      "Startups",
-      "AI",
-      "Fundraising",
-      "TechCrunch Founder Summit"
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
     ],
-    "industries": [],
-    "relevance_score": 18
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 17
   },
   {
     "id": "83556c386cfa",
@@ -614,25 +636,60 @@
     "relevance_score": 39
   },
   {
-    "id": "dc5c089d2960",
-    "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
-    "url": "https://www.forbes.com/sites/erikkain/2026/10/23/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-23T20:00:38+00:00",
-    "summary": "Looking for something new to stream this week? Here’s every major new movie and show hitting Netflix, Hulu, Prime Video, Apple TV and more.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adba4992b478cef17f8a7fe/0x0.jpg?width=960",
+    "id": "e88188079ba1",
+    "title": "How to build a reliable source of truth for AI agents",
+    "url": "https://martech.org/how-to-build-a-reliable-source-of-truth-for-ai-agents/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-10-22T12:33:00+00:00",
+    "summary": "Your AI agents may follow instructions perfectly — and still get things wrong. The problem could lie in the documents they rely on. The post How to build a reliable source of truth for AI agents appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/03/marketing-resource-management-best-software-2.jpg",
     "tags": [
-      "Gaming",
-      "/gaming",
-      "Innovation",
-      "/innovation",
-      "Gaming"
+      "Marketing artificial intelligence (AI)",
+      "Marketing operations (MOps)"
     ],
     "industries": [
-      "media",
-      "tech"
+      "tech",
+      "industrial"
     ],
+    "relevance_score": 42
+  },
+  {
+    "id": "ded00fa6ccdb",
+    "title": "How Amazon Made a Stronger Partnership Play in Thursday Night Football in Year 5",
+    "url": "https://www.adweek.com/convergent-tv/how-amazon-made-a-stronger-partnership-play-in-thursday-night-football-in-year-5/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-10-23T15:26:37+00:00",
+    "summary": "Prime Video's Thursday Night Football advertisers are up 6% year over year.",
+    "image_url": null,
+    "tags": [
+      "General",
+      "Premium",
+      "Sports Marketing News"
+    ],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 19
+  },
+  {
+    "id": "6f6451b374ed",
+    "title": "From Toast to Bessemer: Who founders will hear from at TechCrunch Founder Summit 2026",
+    "url": "https://techcrunch.com/2026/10/23/from-toast-to-bessemer-who-founders-will-hear-from-at-techcrunch-founder-summit-2026/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-10-23T19:06:23+00:00",
+    "summary": "Hosted by TechCrunch in partnership with Fidelity Private Shares, the full-day event goes beyond fundraising and AI to explore the realities of finding customers, building teams, sharpening a pitch, developing founder leadership, and scaling companies both inside and outside...",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/01/TC-All-Stage-2025-Breakout-QA.jpg?resize=1200,800",
+    "tags": [
+      "Startups",
+      "AI",
+      "Fundraising",
+      "TechCrunch Founder Summit"
+    ],
+    "industries": [],
     "relevance_score": 17
   },
   {
@@ -650,7 +707,7 @@
       "Premium"
     ],
     "industries": [],
-    "relevance_score": 19
+    "relevance_score": 18
   },
   {
     "id": "af25e18e0678",
@@ -670,26 +727,29 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
   },
   {
-    "id": "e88188079ba1",
-    "title": "How to build a reliable source of truth for AI agents",
-    "url": "https://martech.org/how-to-build-a-reliable-source-of-truth-for-ai-agents/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-10-22T12:33:00+00:00",
-    "summary": "Your AI agents may follow instructions perfectly — and still get things wrong. The problem could lie in the documents they rely on. The post How to build a reliable source of truth for AI agents appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/03/marketing-resource-management-best-software-2.jpg",
+    "id": "dc5c089d2960",
+    "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
+    "url": "https://www.forbes.com/sites/erikkain/2026/10/23/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-23T20:00:38+00:00",
+    "summary": "Looking for something new to stream this week? Here’s every major new movie and show hitting Netflix, Hulu, Prime Video, Apple TV and more.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adba4992b478cef17f8a7fe/0x0.jpg?width=960",
     "tags": [
-      "Marketing artificial intelligence (AI)",
-      "Marketing operations (MOps)"
+      "Gaming",
+      "/gaming",
+      "Innovation",
+      "/innovation",
+      "Gaming"
     ],
     "industries": [
-      "tech",
-      "industrial"
+      "media",
+      "tech"
     ],
-    "relevance_score": 42
+    "relevance_score": 16
   },
   {
     "id": "3be5f2059474",
@@ -711,7 +771,7 @@
       "media",
       "tech"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "7bee3a3c9519",
@@ -733,7 +793,29 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
+  },
+  {
+    "id": "2c9899ecba2a",
+    "title": "Anthropic’s IPO Could Be Historic But What Will Investors Own?",
+    "url": "https://www.forbes.com/sites/investor-hub/article/anthropic-ipo-things-to-know/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-23T21:31:34+00:00",
+    "summary": "Anthropic is preparing to hit Wall Street. Discover key details on the Claude creator’s valuation, cloud hyperscaler ties, unique governance and IPO risks.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adbc9267feec553d54f80c2/0x0.jpg?width=960&precrop=3163%2C2107%2Cx42%2Cy0",
+    "tags": [
+      "Money",
+      "/money",
+      "Money",
+      "/money",
+      "Investing"
+    ],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 15
   },
   {
     "id": "a6d2d5fdb765",
@@ -750,105 +832,10 @@
       "OpenAI"
     ],
     "industries": [],
-    "relevance_score": 16
-  },
-  {
-    "id": "d8d7c6172b1b",
-    "title": "‘Wildwood’ Filmmakers Detail The Long Road To Laika’s New Stop-Motion Film",
-    "url": "https://www.forbes.com/sites/timlammers/2026/10/23/wildwood-filmmakers-detail-the-long-road-to-laikas-latest-stop-motion-feature/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-23T20:38:01+00:00",
-    "summary": "\"Wildwood\" director Travis Knight and screenwriter Chris Butler recall the making of Laika Studios' new stop-motion animated film.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adbbc04338b6b51aa7df741/0x0.jpg?width=960",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [],
-    "relevance_score": 16
-  },
-  {
-    "id": "939c005bc485",
-    "title": "A B-2 Spirit Stealth Bomber Won’t Be Seen In A Museum For Decades",
-    "url": "https://www.forbes.com/sites/petersuciu/2026/10/23/a-b-2-spirit-stealth-bomber-wont-be-seen-in-a-museum-for-decades/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-23T17:49:31+00:00",
-    "summary": "It isn’t the “stealth” that will be a factor, but that the U.S. Air Force won’t retire the fleet of just 19 active aircraft until the late 2030s at the earliest!",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adb9d637a84d0c563d453ab/0x0.jpg",
-    "tags": [
-      "Aerospace & Defense",
-      "/aerospace-defense",
-      "Business",
-      "/business",
-      "Aerospace & Defense"
-    ],
-    "industries": [],
-    "relevance_score": 17
-  },
-  {
-    "id": "4dc7e5a87d5b",
-    "title": "New Poll Shows James Talarico Could Flip Texas Senate Seat Blue",
-    "url": "https://www.forbes.com/sites/forbestv/2026/10/23/new-poll-shows-james-talarico-could-flip-texas-senate-seat-blue/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-23T19:24:28+00:00",
-    "summary": "On \"Forbes Newsroom,\" Emerson College Polling senior director Matt Taglia discussed the recent poll that shows Talarico slightly ahead of Paxton in a tight Senate race.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adbb3916963511c3345523a/0x0.jpg?width=960&precrop=1920%2C1080%2Cx0%2Cy0",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "standard"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "360d1e057dda",
-    "title": "Week of Oct. 12 Cable News Ratings: All Networks Had Gains",
-    "url": "https://www.adweek.com/tvnewser/week-of-oct-12-2026-cable-news-ratings/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-10-23T17:01:13+00:00",
-    "summary": "Fox News was the most-watched news network.",
-    "image_url": null,
-    "tags": [
-      "CNN",
-      "Fox News",
-      "MS NOW",
-      "Ratings"
-    ],
-    "industries": [],
-    "relevance_score": 17
-  },
-  {
-    "id": "5bb29d63d71f",
-    "title": "What’s the Best iPhone to Buy or Avoid Right Now? (2026)",
-    "url": "https://www.wired.com/gallery/iphone-buying-guide/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-10-23T17:00:00+00:00",
-    "summary": "The first folding iPhone Duo is here, alongside the 18 Pro and 18 Pro Max, but they’re not your only options. We have all the details on Apple’s smartphone lineup to help you find the right model.",
-    "image_url": "https://media.wired.com/photos/6adb8eb7c29fe197e204584d/master/pass/iPhone%20Buying%20Guide%20102026%20top%20art%20SOURCE%20Apple.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Buying Guides",
-      "Gear / Products / Phones",
-      "Shopping",
-      "buying guides"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 17
+    "relevance_score": 15,
+    "also_covered_by": [
+      "TechCrunch AI"
+    ]
   },
   {
     "id": "422375b8b6e6",
@@ -870,6 +857,236 @@
     "relevance_score": 49
   },
   {
+    "id": "18062e27c383",
+    "title": "What You Need to Know About the Critical PHP Vulnerabilities (PHP2Shell)",
+    "url": "https://www.salesforce.com/blog/what-you-need-to-know-about-the-critical-php-vulnerabilities-php2shell/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-23T18:25:56+00:00",
+    "summary": "Overview On October 21, 2026, the PHP project released PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 to address CVE-2026-109618 and CVE-2026-109619. Both vulnerabilities can enable unauthenticated remote code execution in affected deployments and carry…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/08/AdobeStock_621261617.jpg?w=7934",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 16
+  },
+  {
+    "id": "d8d7c6172b1b",
+    "title": "‘Wildwood’ Filmmakers Detail The Long Road To Laika’s New Stop-Motion Film",
+    "url": "https://www.forbes.com/sites/timlammers/2026/10/23/wildwood-filmmakers-detail-the-long-road-to-laikas-latest-stop-motion-feature/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-23T20:38:01+00:00",
+    "summary": "\"Wildwood\" director Travis Knight and screenwriter Chris Butler recall the making of Laika Studios' new stop-motion animated film.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adbbc04338b6b51aa7df741/0x0.jpg?width=960",
+    "tags": [
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
+      "Business",
+      "/business",
+      "Hollywood & Entertainment"
+    ],
+    "industries": [],
+    "relevance_score": 15
+  },
+  {
+    "id": "85341a5f63c3",
+    "title": "Jabil's 2026 digital health survey: Confidence in AI’s potential rises as confidence in internal readiness falls - R&D World",
+    "url": "https://news.google.com/rss/articles/CBMi1wFBVV95cUxQWloyVWVoay0zbWJKNnMzVmpCWUV1WHlWTEVqMGJGOHZsMUxQYjl4eWJrUFRHSHNFTXkwTjQ0S0xORjlMSzBEbXVoR0EzWl92N3gzOVNhekJSejNzazVWandtV3B0ZjlUU1YtNzRSdnZteW9XZEMwWDB4RHFUbFJsXzJSZUxqTUlCbi1Tb2FUcEcteVNjR3pkTnRlMGpNSGNpUUpIWGRjb0hUUlc1MFdUdF9feUF3YUlncm1SMzN5dzdvUmY4MzVMTjZFZFpDeEtfMjh5b0dQZw?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-23T22:53:34+00:00",
+    "summary": "Jabil's 2026 digital health survey: Confidence in AI’s potential rises as confidence in internal readiness falls R&D World",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "f94c09fef9e2",
+    "title": "Banana Republic debuts TikTok content series in bid for younger shoppers",
+    "url": "https://www.marketingdive.com/news/banana-republic-debuts-tiktok-content-series-in-bid-for-younger-shoppers/833663/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-10-22T14:00:00+00:00",
+    "summary": "The effort spotlights various styles and arrives as parent Gap Inc. continues to emphasize entertainment marketing.",
+    "image_url": "https://imgproxy.divecdn.com/hNYqgf11Aig1b4HlpYeGXngTeZOKZNfh162Lzq-4lRc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNng5UFJQb3N0ZXIuanBn.webp",
+    "tags": [],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 36
+  },
+  {
+    "id": "939c005bc485",
+    "title": "A B-2 Spirit Stealth Bomber Won’t Be Seen In A Museum For Decades",
+    "url": "https://www.forbes.com/sites/petersuciu/2026/10/23/a-b-2-spirit-stealth-bomber-wont-be-seen-in-a-museum-for-decades/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-23T17:49:31+00:00",
+    "summary": "It isn’t the “stealth” that will be a factor, but that the U.S. Air Force won’t retire the fleet of just 19 active aircraft until the late 2030s at the earliest!",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adb9d637a84d0c563d453ab/0x0.jpg",
+    "tags": [
+      "Aerospace & Defense",
+      "/aerospace-defense",
+      "Business",
+      "/business",
+      "Aerospace & Defense"
+    ],
+    "industries": [],
+    "relevance_score": 16
+  },
+  {
+    "id": "4dc7e5a87d5b",
+    "title": "New Poll Shows James Talarico Could Flip Texas Senate Seat Blue",
+    "url": "https://www.forbes.com/sites/forbestv/2026/10/23/new-poll-shows-james-talarico-could-flip-texas-senate-seat-blue/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-23T19:24:28+00:00",
+    "summary": "On \"Forbes Newsroom,\" Emerson College Polling senior director Matt Taglia discussed the recent poll that shows Talarico slightly ahead of Paxton in a tight Senate race.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adbb3916963511c3345523a/0x0.jpg?width=960&precrop=1920%2C1080%2Cx0%2Cy0",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "standard"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "360d1e057dda",
+    "title": "Week of Oct. 12 Cable News Ratings: All Networks Had Gains",
+    "url": "https://www.adweek.com/tvnewser/week-of-oct-12-2026-cable-news-ratings/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-10-23T17:01:13+00:00",
+    "summary": "Fox News was the most-watched news network.",
+    "image_url": null,
+    "tags": [
+      "CNN",
+      "Fox News",
+      "MS NOW",
+      "Ratings"
+    ],
+    "industries": [],
+    "relevance_score": 16
+  },
+  {
+    "id": "5bb29d63d71f",
+    "title": "What’s the Best iPhone to Buy or Avoid Right Now? (2026)",
+    "url": "https://www.wired.com/gallery/iphone-buying-guide/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-10-23T17:00:00+00:00",
+    "summary": "The first folding iPhone Duo is here, alongside the 18 Pro and 18 Pro Max, but they’re not your only options. We have all the details on Apple’s smartphone lineup to help you find the right model.",
+    "image_url": "https://media.wired.com/photos/6adb8eb7c29fe197e204584d/master/pass/iPhone%20Buying%20Guide%20102026%20top%20art%20SOURCE%20Apple.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Buying Guides",
+      "Gear / Products / Phones",
+      "Shopping",
+      "buying guides"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "0d3038a531bf",
+    "title": "I Was A Republican Mayor Of Dallas—Here's Why I'm Voting For Talarico Over Paxton: Steve Bartlett",
+    "url": "https://www.forbes.com/sites/forbestv/2026/10/23/i-was-a-republican-mayor-of-dallas-heres-why-im-voting-for-talarico-over-paxton-steve-bartlett/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-23T21:18:55+00:00",
+    "summary": "Former Republican Rep. Steve Bartlett joined \"Forbes Newsroom\" to discuss why he, as a Republican, is voting for state Rep. James Talarico over Texas AG Ken Paxton.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adbcebc3f013f96d84675fc/0x0.jpg?width=960&precrop=1920%2C1080%2Cx0%2Cy0",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "standard"
+    ],
+    "industries": [],
+    "relevance_score": 14
+  },
+  {
+    "id": "1ce6be863c6b",
+    "title": "Omnicom-IPG deal ‘substantially completed’ as group wins Coke’s NA media",
+    "url": "https://www.marketingdive.com/news/omnicom-ipg-deal-substantially-completed-as-group-wins-cokes-na-media/833837/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-10-23T14:26:14+00:00",
+    "summary": "The company is on track to realize $900 million in cost savings and is seeing momentum in integrated media, which grew over 10% in Q3.",
+    "image_url": "https://imgproxy.divecdn.com/Rm8Axyoc4WR6FRS6al0rVAN5zYT-eClxCOd51p_PVvw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9PbW5pY29tX2FuZF9JUEdfT2ZmaWNpYWxfUGhvdG8uanBn.webp",
+    "tags": [],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "58071cc2f95f",
+    "title": "Ticker: Christiane Amanpour to Exit From CNN in 2027",
+    "url": "https://www.adweek.com/tvnewser/ticker-christiane-amanpour-to-exit-from-cnn-in-2027/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-10-23T16:31:27+00:00",
+    "summary": "CNN is also losing Bianna Golodryga, who is set to join Politico and CBS News.",
+    "image_url": null,
+    "tags": [
+      "Awards &amp; Honors",
+      "BBC",
+      "CBS",
+      "CNN",
+      "Fox News"
+    ],
+    "industries": [],
+    "relevance_score": 16
+  },
+  {
+    "id": "75c55b9c071d",
+    "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
+    "url": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-10-23T18:43:30+00:00",
+    "summary": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268498_Soundcore_Space_2_AKrales_0084.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Deals",
+      "Gadgets",
+      "Verge Shopping"
+    ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "3b055759cd59",
+    "title": "David’s Bridal to spin off Pearl into stand-alone, publicly traded company",
+    "url": "https://www.retaildive.com/news/davids-bridal-spin-off-pearl-AI-stand-alone-publicly-traded-company/833699/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-10-22T16:29:00+00:00",
+    "summary": "David’s Bridal CEO Kelly Cook is expected to become the chief executive of Pearl, which will own the wedding retailer’s intellectual property and brand.",
+    "image_url": "https://imgproxy.divecdn.com/iUh2KgypDyK8bIO_69rlpWNgPy9L0D_w_OwrkKWZSjM/g:nowe:15:1558/c:1893:1069/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TV0cxMDQxX1NGVFdIVF9TSUdfTUFSXzI1XzAyNzEuanBn.webp",
+    "tags": [],
+    "industries": [
+      "retail",
+      "consumer"
+    ],
+    "relevance_score": 32
+  },
+  {
     "id": "7e6c45866aed",
     "title": "Homeowner Complaints Against Mortgage Servicers Surge After Trump Gutted Agency",
     "url": "https://www.forbes.com/sites/jeffkauflin/2026/10/23/homeowner-complaints-against-mortgage-servicers-surge-after-trump-gutted-agency/",
@@ -889,26 +1106,7 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 15
-  },
-  {
-    "id": "75c55b9c071d",
-    "title": "Soundcore’s latest noise-crushing headphones are on sale for a new low price",
-    "url": "https://www.theverge.com/gadgets/1017667/anker-soundcore-space-2-noise-canceling-headphones-deal-sale",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-10-23T18:43:30+00:00",
-    "summary": "My colleague John Higgins considered Soundcore’s Space One some of the best budget noise-canceling headphones you could buy when they launched in 2023 — and their successor has only improved upon their winning formula, albeit with a $30 price increase. Thankfully, the...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/05/268498_Soundcore_Space_2_AKrales_0084.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Deals",
-      "Gadgets",
-      "Verge Shopping"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 16
+    "relevance_score": 14
   },
   {
     "id": "04c0775dc555",
@@ -930,39 +1128,23 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
-    "id": "58071cc2f95f",
-    "title": "Ticker: Christiane Amanpour to Exit From CNN in 2027",
-    "url": "https://www.adweek.com/tvnewser/ticker-christiane-amanpour-to-exit-from-cnn-in-2027/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-10-23T16:31:27+00:00",
-    "summary": "CNN is also losing Bianna Golodryga, who is set to join Politico and CBS News.",
+    "id": "99ce590028c5",
+    "title": "Stagwell launches agentic AI marketing platform - https://marketingreport.one/",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLUJNQ3ctUDlJWDNUaHAtZjc1LVVnWHZCQVZ6eXFoelZNZGdMNjVZMnl5OTFZN3ZYMXhQMXJGZlNhNWVmcERXQ25NS09nWFpLWERTWkhjM1JCWHFZWndKRzg2MTZLaGQ5SUJhMDRTd2VRVVl1SFFZcVBsaXpzSkRWYkpmM0RIdFNMYzNISjhYRUlYMm5NVXppTl8yQXhaUQ?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-10-22T05:13:09+00:00",
+    "summary": "Stagwell launches agentic AI marketing platform https://marketingreport.one/",
     "image_url": null,
-    "tags": [
-      "Awards &amp; Honors",
-      "BBC",
-      "CBS",
-      "CNN",
-      "Fox News"
-    ],
-    "industries": [],
-    "relevance_score": 17
-  },
-  {
-    "id": "18062e27c383",
-    "title": "What You Need to Know About the Critical PHP Vulnerabilities (PHP2Shell)",
-    "url": "https://www.salesforce.com/blog/what-you-need-to-know-about-the-critical-php-vulnerabilities-php2shell/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-23T18:25:56+00:00",
-    "summary": "Overview On October 21, 2026, the PHP project released PHP 8.5.12, 8.4.27, 8.3.36 and 8.2.35 to address CVE-2026-109618 and CVE-2026-109619. Both vulnerabilities can enable unauthenticated remote code execution in affected deployments and carry…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/08/AdobeStock_621261617.jpg?w=7934",
     "tags": [],
-    "industries": [],
-    "relevance_score": 16
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 44
   },
   {
     "id": "59940c1798ae",
@@ -981,7 +1163,7 @@
       "government"
     ],
     "industries": [],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "6bdef61c0ee8",
@@ -998,23 +1180,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 17
-  },
-  {
-    "id": "f94c09fef9e2",
-    "title": "Banana Republic debuts TikTok content series in bid for younger shoppers",
-    "url": "https://www.marketingdive.com/news/banana-republic-debuts-tiktok-content-series-in-bid-for-younger-shoppers/833663/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-10-22T14:00:00+00:00",
-    "summary": "The effort spotlights various styles and arrives as parent Gap Inc. continues to emphasize entertainment marketing.",
-    "image_url": "https://imgproxy.divecdn.com/hNYqgf11Aig1b4HlpYeGXngTeZOKZNfh162Lzq-4lRc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS8xNng5UFJQb3N0ZXIuanBn.webp",
-    "tags": [],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 36
+    "relevance_score": 16
   },
   {
     "id": "10236f93c374",
@@ -1029,7 +1195,20 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
+  },
+  {
+    "id": "e4e2e0f8fd06",
+    "title": "Canva Learned to Draw From Its Own Templates - The AI Economy | Ken Yeung",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE5FaXpKUVE2S0VKZFllSlhhS0RUMFl3OUViMS1yME5FSkRUM21ZSkJaaGZ3aHFmenVtSW5BMjZqSlVZd25rRWZOSUViOV9XazRzOFZYX0lrUTFjSk1DRHhhclFHWWlreWFteUZab2U0dFo4V1RVN292R1FMd1JUdw?oc=5",
+    "source": "Adobe Products",
+    "source_category": "adobe",
+    "published": "2026-10-24T01:40:21+00:00",
+    "summary": "Canva Learned to Draw From Its Own Templates The AI Economy | Ken Yeung",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 12
   },
   {
     "id": "37c501c88bb6",
@@ -1050,29 +1229,7 @@
     "industries": [
       "media"
     ],
-    "relevance_score": 15
-  },
-  {
-    "id": "de4c53c2ee9e",
-    "title": "NBA Opening Night Viewership Hits Record 6.4 Million Viewers",
-    "url": "https://www.forbes.com/sites/markmedina/2026/10/23/nba-sets-league-record-for-opening-night-viewership/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-23T15:38:02+00:00",
-    "summary": "The Philadelphia 76ers-New York Knicks and Oklahoma City Thunder-San Antonio Spurs doubleheader averaged 6.41 million viewers on NBC/Peacock.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adb7d5e21497c933da1fc38/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 17
+    "relevance_score": 14
   },
   {
     "id": "8982345e6c59",
@@ -1091,7 +1248,7 @@
       "SportsMoney"
     ],
     "industries": [],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "60b56cc3037d",
@@ -1107,10 +1264,29 @@
       "News"
     ],
     "industries": [],
-    "relevance_score": 15,
+    "relevance_score": 14,
     "also_covered_by": [
       "Wired"
     ]
+  },
+  {
+    "id": "7f38ef08f5ca",
+    "title": "Elon Musk Reportedly Invests $1 Billion Into Skydance After WBD Merger",
+    "url": "https://www.adweek.com/dealroom/elon-musk-reportedly-invests-1-billion-into-skydance-after-wbd-merger/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-10-23T10:44:42+00:00",
+    "summary": "Skydance is facing around $80 billion in debt following the Paramount and WBD merger close.",
+    "image_url": null,
+    "tags": [
+      "Dealroom",
+      "Premium"
+    ],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 18
   },
   {
     "id": "7482fa46e378",
@@ -1131,7 +1307,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "34d58c0506c6",
@@ -1152,29 +1328,23 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
-    "id": "3905497cb982",
-    "title": "Trump Blasts Vanity Fair Over ‘Fake News’ On Jared Kushner’s Alleged Undisclosed Foreign Bank Accounts",
-    "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/10/23/trump-blasts-vanity-fair-over-fake-news-on-jared-kushners-alleged-undisclosed-foreign-bank-accounts/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-23T16:49:28+00:00",
-    "summary": "The report claims Kushner’s phone was hacked and showed transfers from multi-million-dollar slush funds created by Saudi Arabia and the United Arab Emirates.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adb8fb421497c933da1fc3c/0x0.jpg?width=960&precrop=2593%2C1729%2Cx0%2Cy0",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
+    "id": "6c749538a88b",
+    "title": "Beyond Yoga aims to have ‘many’ stores. They’ll probably be yellow.",
+    "url": "https://www.retaildive.com/news/beyond-yoga-store-strategy-yellow-joy-ceo-nancy-green/833665/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-10-22T16:34:00+00:00",
+    "summary": "CEO Nancy Green says the brand color is reflective of a broader focus on joy — and making progress over perfection.",
+    "image_url": "https://imgproxy.divecdn.com/qU7OlC9EPuOIMf8BI2N39-KkkE1qP4LmpdaVAkMbFtQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CZXlvbmQtWW9nYS1GbGF0aXJvbi1Qb3BVcC05LmpwZw==.webp",
+    "tags": [],
     "industries": [
-      "industrial",
-      "financial"
+      "retail",
+      "consumer"
     ],
-    "relevance_score": 16
+    "relevance_score": 30
   },
   {
     "id": "241034d7f6cc",
@@ -1195,7 +1365,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "e816758a9985",
@@ -1218,76 +1388,7 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 15
-  },
-  {
-    "id": "1ce6be863c6b",
-    "title": "Omnicom-IPG deal ‘substantially completed’ as group wins Coke’s NA media",
-    "url": "https://www.marketingdive.com/news/omnicom-ipg-deal-substantially-completed-as-group-wins-cokes-na-media/833837/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-10-23T14:26:14+00:00",
-    "summary": "The company is on track to realize $900 million in cost savings and is seeing momentum in integrated media, which grew over 10% in Q3.",
-    "image_url": "https://imgproxy.divecdn.com/Rm8Axyoc4WR6FRS6al0rVAN5zYT-eClxCOd51p_PVvw/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9PbW5pY29tX2FuZF9JUEdfT2ZmaWNpYWxfUGhvdG8uanBn.webp",
-    "tags": [],
-    "industries": [
-      "media"
-    ],
-    "relevance_score": 17
-  },
-  {
-    "id": "3b055759cd59",
-    "title": "David’s Bridal to spin off Pearl into stand-alone, publicly traded company",
-    "url": "https://www.retaildive.com/news/davids-bridal-spin-off-pearl-AI-stand-alone-publicly-traded-company/833699/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-10-22T16:29:00+00:00",
-    "summary": "David’s Bridal CEO Kelly Cook is expected to become the chief executive of Pearl, which will own the wedding retailer’s intellectual property and brand.",
-    "image_url": "https://imgproxy.divecdn.com/iUh2KgypDyK8bIO_69rlpWNgPy9L0D_w_OwrkKWZSjM/g:nowe:15:1558/c:1893:1069/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9TV0cxMDQxX1NGVFdIVF9TSUdfTUFSXzI1XzAyNzEuanBn.webp",
-    "tags": [],
-    "industries": [
-      "retail",
-      "consumer"
-    ],
-    "relevance_score": 32
-  },
-  {
-    "id": "99ce590028c5",
-    "title": "Stagwell launches agentic AI marketing platform - https://marketingreport.one/",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPLUJNQ3ctUDlJWDNUaHAtZjc1LVVnWHZCQVZ6eXFoelZNZGdMNjVZMnl5OTFZN3ZYMXhQMXJGZlNhNWVmcERXQ25NS09nWFpLWERTWkhjM1JCWHFZWndKRzg2MTZLaGQ5SUJhMDRTd2VRVVl1SFFZcVBsaXpzSkRWYkpmM0RIdFNMYzNISjhYRUlYMm5NVXppTl8yQXhaUQ?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-10-22T05:13:09+00:00",
-    "summary": "Stagwell launches agentic AI marketing platform https://marketingreport.one/",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 44
-  },
-  {
-    "id": "c9586c70573c",
-    "title": "GOP Sen. Susan Collins Says Trump Will Nix Some Canadian Tariffs—As She Faces Tight Senate Contest",
-    "url": "https://www.forbes.com/sites/saradorn/2026/10/23/gop-sen-susan-collins-says-trump-will-nix-some-canadian-tariffs-as-she-faces-tight-senate-contest/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-23T20:41:24+00:00",
-    "summary": "Democrat Troy Jackson was two points ahead of Collins in a Suffolk University poll released Oct. 14.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adbc555ae1e306b05825cde/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [],
-    "relevance_score": 14,
-    "also_covered_by": [
-      "Wall Street"
-    ]
+    "relevance_score": 14
   },
   {
     "id": "5f081b0a81b7",
@@ -1308,7 +1409,161 @@
     "industries": [
       "retail"
     ],
+    "relevance_score": 14
+  },
+  {
+    "id": "c9586c70573c",
+    "title": "GOP Sen. Susan Collins Says Trump Will Nix Some Canadian Tariffs—As She Faces Tight Senate Contest",
+    "url": "https://www.forbes.com/sites/saradorn/2026/10/23/gop-sen-susan-collins-says-trump-will-nix-some-canadian-tariffs-as-she-faces-tight-senate-contest/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-23T20:41:24+00:00",
+    "summary": "Democrat Troy Jackson was two points ahead of Collins in a Suffolk University poll released Oct. 14.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adbc555ae1e306b05825cde/0x0.jpg?width=960",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [],
+    "relevance_score": 13,
+    "also_covered_by": [
+      "Wall Street"
+    ]
+  },
+  {
+    "id": "a9d46a588889",
+    "title": "Five major companies pledge faster, electronic prior authorizations",
+    "url": "https://www.healthcaredive.com/news/five-major-companies-pledge-faster-electronic-prior-authorizations/833848/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-23T15:27:05+00:00",
+    "summary": "Amazon, Google, Meta and other employers agreed to reform their prior authorization policies for their self-funded health plans, which provide coverage for millions of Americans.",
+    "image_url": "https://imgproxy.divecdn.com/iwZgePWB3GETI6LvipaEZlw2urrd-tSEnKET472dJyI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzAyODQyMzk0LmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
     "relevance_score": 15
+  },
+  {
+    "id": "bd9620edf29a",
+    "title": "Breakthrough cancer vaccine reduces melanoma from returning by 42%, data shows - ABC News - Breaking News, Latest News and Videos",
+    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSG9ybFEwdXVLRmphT1ZXZDZTbE5oSExrbnBlWmEtUm9ZcE84NnBjYklmT0hESWJCMjFMVUptTFk5ZmRuNVlzcEQ3VEVoWnZwaTFEaUd6aDJ2YTZxWVM2bXdqOWV0WFBaRENHdFlQeHlBbFp5SXJHSjg5bFJNQTNjYWVmOXRPbGlnUlBNTm10RWhEeHpKVmRnek14OVkxRDVpcFc2X3B4ZU55a1FTektvWlBKMlTSAboBQVVfeXFMTW9RTWc0Um9mOThlRDY1clRUeHhlY2ZLaVVKZTRQb1ViWTBsQmdPVkh3QzZILVVWMThkUjlSZFo5UndZMjUxNHF4UFRrQWc1M1lzcndvUW85eDZpa3puNlg4T0xQYW9pWE1Lelh0VnhsT2NIa0RFaTlHdDlQaVNKSmRUdFRtYnR6X0lMMTJEcmZMRzg4Z1ZKSTNsTUltWnlWdWJRVThqZWlzQWUxWUE2WHhfTFNzVWFzdUNn?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-10-23T17:42:01+00:00",
+    "summary": "Breakthrough cancer vaccine reduces melanoma from returning by 42%, data shows ABC News - Breaking News, Latest News and Videos",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 14
+  },
+  {
+    "id": "ca5c3355be57",
+    "title": "Adobe vs. Salesforce: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMFo5cURvUzV3Y1hTdFRNZzFBNVhvVUlmRTJuUTAtYl90TTF1N0FuMzRvOE5zb2lzX3BDbnV0VHIxb3UyWFBJbWhYa3JuTDl5VmtIQU1uV2NON2dsUmNoRDFDSFlUWjlZV3JfRlJvM2x3ME1qLVRSOF9TSXp1bmE1UGpvbi1Sd2xiMXg2eFRIYm1mTW5CS08xanJnVmhPcGFJNnhkbnVsQkFCa3ZkVlBCRlZ3VFo4WjNzd0Z3?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-10-23T17:30:00+00:00",
+    "summary": "Adobe vs. Salesforce: Which Technology Stock Is a Better Buy in 2026? The Motley Fool",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "5c5d255d742c",
+    "title": "4 Ways Salesforce is Going Headless Internally (and How You Can Too)",
+    "url": "https://www.salesforce.com/blog/salesforce-headless-use-cases/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-23T17:29:39+00:00",
+    "summary": "Here’s how we’ve used AIforce to support our employees and drive innovation for our customers.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/image_b132e3.jpeg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 14
+  },
+  {
+    "id": "72e6685b8c87",
+    "title": "CMS launches $275M nurse staffing initiative for nursing homes",
+    "url": "https://www.fiercehealthcare.com/regulatory/cms-launches-275m-nurse-staffing-initiative-nursing-homes",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-23T16:29:00+00:00",
+    "summary": "The agency predicts the effort will support more than 4,000 nurses nationwide.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1139854094%20%281%29.jpg?VersionId=EivcnmulwikWV5a4gN6WYI1Tc4Q726c9",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "442d1041b26a",
+    "title": "89% of voters want Congress to act on hospital prices, poll finds",
+    "url": "https://www.fiercehealthcare.com/hospitals/89-voters-say-congress-should-act-hospital-prices-next-two-years-affhp-poll",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-23T13:36:00+00:00",
+    "summary": "Eight in 10 respondents report reducing healthcare prices should be a high legislative priority, up from 71% in 2024.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Healthcare%20costs%20Turquoise%20data.jpg?VersionId=eP6C8zqTDmbxtltqpwu9RDsb8Uqbtzk_",
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "8f76cf796d90",
+    "title": "Adobe Systems (ADBE) Dips More Than Broader Market: What You Should Know - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRjQ0NXk4SlBHdk54aUJ5T3RNbjlPNjk0b3Znbm9oZHZlQnZXVkM5REh2UXBlQUg3YUJadWwxRkpWa1pwUnNIOEtFb1JFTkt4ZXJITlhrS3k1bWlCT2NJSGJXQ2FwMmZNZ3JqUHFZLWJmakdJdjNLOVlGTktPMnoxS19PWktQWGlqTm9KY1U1VXlyT3E5UUlpVA?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-10-23T20:45:01+00:00",
+    "summary": "Adobe Systems (ADBE) Dips More Than Broader Market: What You Should Know Yahoo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 12
+  },
+  {
+    "id": "2e6a986b460a",
+    "title": "Adobe Inc. stock underperforms Friday when compared to competitors - MarketWatch",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUFhJOGFXTlhJcHJPSFdENnltYzN4XzdaSkM4b1dVQzhtS1NHa2RtQW5makZrVmY1ajExLVFEOE9BdFU1WXFnTV94REkxRkh6YVRoN0JDdjVOTVBsUFlMN0pwbVpwSVc1aFdFbVFDNTlVRWpHYnN1RHhubWxCbTZVakZJNTJiUjNxcE1LM0c4THRWZXVHN0w5Y3NiOGNMRmZxYW1YOWxEUFVuMVJiOGdnY3d4Z01CZzhSdDREYjdZSHY0c0g5Yk9TYXozTnlKNmFCZVROQTlybTgxTU0?oc=5",
+    "source": "Adobe Inc",
+    "source_category": "adobe",
+    "published": "2026-10-23T20:39:00+00:00",
+    "summary": "Adobe Inc. stock underperforms Friday when compared to competitors MarketWatch",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 12
+  },
+  {
+    "id": "6d95eda9dc7a",
+    "title": "Adobe and BWT Alpine Formula One Team Partner to Fuel Fan Engagement with AI-powered Experiences - Adobe Newsroom",
+    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRGxFTE9jNzNXRnF3TWo2Si1wQ3VNcUxyN2dqbDR2YUN3Ym5pZ0xFaDFWd3czbmhqQ0ZuZkRVYnM1QzMzOXI1YjYzSkFnZDlJZk5XMDByZjdVLTNnOGlKQVFBVlRiazRRcWI4ckJtTFk4NzNrX2xiTlBxQ0NZUmNxQmYxRQ?oc=5",
+    "source": "Adobe Inc",
+    "source_category": "adobe",
+    "published": "2026-10-22T13:55:29+00:00",
+    "summary": "Adobe and BWT Alpine Formula One Team Partner to Fuel Fan Engagement with AI-powered Experiences Adobe Newsroom",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 29,
+    "also_covered_by": [
+      "Adobe"
+    ]
   },
   {
     "id": "45c59f5d0b38",
@@ -1329,194 +1584,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "bd9620edf29a",
-    "title": "Breakthrough cancer vaccine reduces melanoma from returning by 42%, data shows - ABC News - Breaking News, Latest News and Videos",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNSG9ybFEwdXVLRmphT1ZXZDZTbE5oSExrbnBlWmEtUm9ZcE84NnBjYklmT0hESWJCMjFMVUptTFk5ZmRuNVlzcEQ3VEVoWnZwaTFEaUd6aDJ2YTZxWVM2bXdqOWV0WFBaRENHdFlQeHlBbFp5SXJHSjg5bFJNQTNjYWVmOXRPbGlnUlBNTm10RWhEeHpKVmRnek14OVkxRDVpcFc2X3B4ZU55a1FTektvWlBKMlTSAboBQVVfeXFMTW9RTWc0Um9mOThlRDY1clRUeHhlY2ZLaVVKZTRQb1ViWTBsQmdPVkh3QzZILVVWMThkUjlSZFo5UndZMjUxNHF4UFRrQWc1M1lzcndvUW85eDZpa3puNlg4T0xQYW9pWE1Lelh0VnhsT2NIa0RFaTlHdDlQaVNKSmRUdFRtYnR6X0lMMTJEcmZMRzg4Z1ZKSTNsTUltWnlWdWJRVThqZWlzQWUxWUE2WHhfTFNzVWFzdUNn?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-10-23T17:42:01+00:00",
-    "summary": "Breakthrough cancer vaccine reduces melanoma from returning by 42%, data shows ABC News - Breaking News, Latest News and Videos",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 15
-  },
-  {
-    "id": "a9d46a588889",
-    "title": "Five major companies pledge faster, electronic prior authorizations",
-    "url": "https://www.healthcaredive.com/news/five-major-companies-pledge-faster-electronic-prior-authorizations/833848/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-23T15:27:05+00:00",
-    "summary": "Amazon, Google, Meta and other employers agreed to reform their prior authorization policies for their self-funded health plans, which provide coverage for millions of Americans.",
-    "image_url": "https://imgproxy.divecdn.com/iwZgePWB3GETI6LvipaEZlw2urrd-tSEnKET472dJyI/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMzAyODQyMzk0LmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "ca5c3355be57",
-    "title": "Adobe vs. Salesforce: Which Technology Stock Is a Better Buy in 2026? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxQMFo5cURvUzV3Y1hTdFRNZzFBNVhvVUlmRTJuUTAtYl90TTF1N0FuMzRvOE5zb2lzX3BDbnV0VHIxb3UyWFBJbWhYa3JuTDl5VmtIQU1uV2NON2dsUmNoRDFDSFlUWjlZV3JfRlJvM2x3ME1qLVRSOF9TSXp1bmE1UGpvbi1Sd2xiMXg2eFRIYm1mTW5CS08xanJnVmhPcGFJNnhkbnVsQkFCa3ZkVlBCRlZ3VFo4WjNzd0Z3?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-10-23T17:30:00+00:00",
-    "summary": "Adobe vs. Salesforce: Which Technology Stock Is a Better Buy in 2026? The Motley Fool",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "5c5d255d742c",
-    "title": "4 Ways Salesforce is Going Headless Internally (and How You Can Too)",
-    "url": "https://www.salesforce.com/blog/salesforce-headless-use-cases/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-23T17:29:39+00:00",
-    "summary": "Here’s how we’ve used AIforce to support our employees and drive innovation for our customers.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/image_b132e3.jpeg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 15
-  },
-  {
-    "id": "7f38ef08f5ca",
-    "title": "Elon Musk Reportedly Invests $1 Billion Into Skydance After WBD Merger",
-    "url": "https://www.adweek.com/dealroom/elon-musk-reportedly-invests-1-billion-into-skydance-after-wbd-merger/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-10-23T10:44:42+00:00",
-    "summary": "Skydance is facing around $80 billion in debt following the Paramount and WBD merger close.",
-    "image_url": null,
-    "tags": [
-      "Dealroom",
-      "Premium"
-    ],
-    "industries": [
-      "media",
-      "industrial"
-    ],
-    "relevance_score": 18
-  },
-  {
-    "id": "1238d47b9fad",
-    "title": "Republicans’ Chances Of Maintaining House Majority Have ‘All But Evaporated’ Cook Political Report Says",
-    "url": "https://www.forbes.com/sites/saradorn/2026/10/23/republicans-chances-of-maintaining-house-majority-have-all-but-evaporated-cook-political-report-says/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-23T16:45:24+00:00",
-    "summary": "Cook now rates 220 seats as solid, likely or lean Democrat, two more than the 218 needed for the GOP to win the majority.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adb8ddd7a84d0c563d453a9/0x0.jpg?width=960",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [],
-    "relevance_score": 15
-  },
-  {
-    "id": "6c749538a88b",
-    "title": "Beyond Yoga aims to have ‘many’ stores. They’ll probably be yellow.",
-    "url": "https://www.retaildive.com/news/beyond-yoga-store-strategy-yellow-joy-ceo-nancy-green/833665/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-10-22T16:34:00+00:00",
-    "summary": "CEO Nancy Green says the brand color is reflective of a broader focus on joy — and making progress over perfection.",
-    "image_url": "https://imgproxy.divecdn.com/qU7OlC9EPuOIMf8BI2N39-KkkE1qP4LmpdaVAkMbFtQ/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9CZXlvbmQtWW9nYS1GbGF0aXJvbi1Qb3BVcC05LmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "retail",
-      "consumer"
-    ],
-    "relevance_score": 30
-  },
-  {
-    "id": "72e6685b8c87",
-    "title": "CMS launches $275M nurse staffing initiative for nursing homes",
-    "url": "https://www.fiercehealthcare.com/regulatory/cms-launches-275m-nurse-staffing-initiative-nursing-homes",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-23T16:29:00+00:00",
-    "summary": "The agency predicts the effort will support more than 4,000 nurses nationwide.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1139854094%20%281%29.jpg?VersionId=EivcnmulwikWV5a4gN6WYI1Tc4Q726c9",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "8f76cf796d90",
-    "title": "Adobe Systems (ADBE) Dips More Than Broader Market: What You Should Know - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPRjQ0NXk4SlBHdk54aUJ5T3RNbjlPNjk0b3Znbm9oZHZlQnZXVkM5REh2UXBlQUg3YUJadWwxRkpWa1pwUnNIOEtFb1JFTkt4ZXJITlhrS3k1bWlCT2NJSGJXQ2FwMmZNZ3JqUHFZLWJmakdJdjNLOVlGTktPMnoxS19PWktQWGlqTm9KY1U1VXlyT3E5UUlpVA?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-10-23T20:45:01+00:00",
-    "summary": "Adobe Systems (ADBE) Dips More Than Broader Market: What You Should Know Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 13
-  },
-  {
-    "id": "31a80e07b85d",
-    "title": "Good Good Golf: Recapping The Pennsylvania-To-New Hampshire Matches",
-    "url": "https://www.forbes.com/sites/break80/2026/10/23/good-good-golf-recapping-the-pennsylvania-to-new-hampshire-matches/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-23T15:44:06+00:00",
-    "summary": "Follow Good Good Golf’s 50 States in 50 Days tour through five courses in Pennsylvania, West Virginia, New York, Vermont and New Hampshire.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adb7f5f3467be667b773c67/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "2e6a986b460a",
-    "title": "Adobe Inc. stock underperforms Friday when compared to competitors - MarketWatch",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNUFhJOGFXTlhJcHJPSFdENnltYzN4XzdaSkM4b1dVQzhtS1NHa2RtQW5makZrVmY1ajExLVFEOE9BdFU1WXFnTV94REkxRkh6YVRoN0JDdjVOTVBsUFlMN0pwbVpwSVc1aFdFbVFDNTlVRWpHYnN1RHhubWxCbTZVakZJNTJiUjNxcE1LM0c4THRWZXVHN0w5Y3NiOGNMRmZxYW1YOWxEUFVuMVJiOGdnY3d4Z01CZzhSdDREYjdZSHY0c0g5Yk9TYXozTnlKNmFCZVROQTlybTgxTU0?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-10-23T20:39:00+00:00",
-    "summary": "Adobe Inc. stock underperforms Friday when compared to competitors MarketWatch",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 13
-  },
-  {
-    "id": "b8d0e6e3dc36",
-    "title": "Territory Group Launches AI-Native Studio Lux Meridian - Animation World Network",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQzd5TzVYcG5Mb2p6aUFiOVVuTWdtUmVvczlnb1dIeEw1R2ZtdGdGMnlEUlVibGU5TjZkNlZZWGhJZjh3Qm1VelhGb1A4Q3JxTWV4enJOQWlhNjZZT1d4R0ZNeVItbWlodE4wLW1zVi1wWDVEQVlYVVFUa0pFUkVLU2Y0VmwxZw?oc=5",
-    "source": "Adobe Products",
-    "source_category": "adobe",
-    "published": "2026-10-23T20:09:44+00:00",
-    "summary": "Territory Group Launches AI-Native Studio Lux Meridian Animation World Network",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 13
+    "relevance_score": 12
   },
   {
     "id": "24c8b8c3e7a4",
@@ -1538,49 +1606,7 @@
       "media",
       "industrial"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "0e2d2430c949",
-    "title": "Trump Says NFL ‘Could’ve Probably Postponed’ Paris Game As Protests Rock France",
-    "url": "https://www.forbes.com/sites/conormurray/2026/10/23/trump-says-nfl-couldve-probably-postponed-paris-game-as-protests-rock-france/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-23T17:23:55+00:00",
-    "summary": "President Donald Trump suggested the NFL “could’ve probably postponed” the Pittsburgh Steelers-New Orleans Saints game scheduled for Sunday in Paris as protests rock France.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adb973eb121847c350d9536/0x0.jpg?width=960&precrop=2435%2C1369%2Cx164%2Cy56",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "f76ed832b518",
-    "title": "Expected WWE WrestleMania 43 Main Event May Not Happen After All",
-    "url": "https://www.forbes.com/sites/blakeoestriecher/2026/10/23/expected-wwe-wrestlemania-43-main-event-may-not-happen-after-all/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-23T15:00:20+00:00",
-    "summary": "WWE seems to have Roman Reigns vs. Oba Femi locked in for WrestleMania, but the show's other main event is now unclear.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adb71cff3f9a33f9b0447a7/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
+    "relevance_score": 13
   },
   {
     "id": "e7d5996d494d",
@@ -1603,26 +1629,75 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
-    "id": "684c62d55c5f",
-    "title": "Will Democrats Flip The House And Senate In The Midterms? Here’s What History Says",
-    "url": "https://www.forbes.com/sites/forbestv/2026/10/23/will-democrats-flip-the-house-and-senate-in-the-midterms-heres-what-history-says/",
+    "id": "0e2d2430c949",
+    "title": "Trump Says NFL ‘Could’ve Probably Postponed’ Paris Game As Protests Rock France",
+    "url": "https://www.forbes.com/sites/conormurray/2026/10/23/trump-says-nfl-couldve-probably-postponed-paris-game-as-protests-rock-france/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-10-23T17:08:32+00:00",
-    "summary": "Historian and professor Allan Lichtman joined “Forbes Newsroom” to discuss what races he's watching in the upcoming midterm elections",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adb9486297639fa48d9fe28/0x0.jpg?width=960&precrop=3725%2C2094%2Cx0%2Cy0",
+    "published": "2026-10-23T17:23:55+00:00",
+    "summary": "President Donald Trump suggested the NFL “could’ve probably postponed” the Pittsburgh Steelers-New Orleans Saints game scheduled for Sunday in Paris as protests rock France.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adb973eb121847c350d9536/0x0.jpg?width=960&precrop=2435%2C1369%2Cx164%2Cy56",
     "tags": [
       "Business",
       "/business",
       "Business",
       "/business",
-      "standard"
+      "Breaking"
     ],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "b8d0e6e3dc36",
+    "title": "Territory Group Launches AI-Native Studio Lux Meridian - Animation World Network",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPQzd5TzVYcG5Mb2p6aUFiOVVuTWdtUmVvczlnb1dIeEw1R2ZtdGdGMnlEUlVibGU5TjZkNlZZWGhJZjh3Qm1VelhGb1A4Q3JxTWV4enJOQWlhNjZZT1d4R0ZNeVItbWlodE4wLW1zVi1wWDVEQVlYVVFUa0pFUkVLU2Y0VmwxZw?oc=5",
+    "source": "Adobe Products",
+    "source_category": "adobe",
+    "published": "2026-10-23T20:09:44+00:00",
+    "summary": "Territory Group Launches AI-Native Studio Lux Meridian Animation World Network",
+    "image_url": null,
+    "tags": [],
     "industries": [],
-    "relevance_score": 14
+    "relevance_score": 12
+  },
+  {
+    "id": "ee6c2a03191b",
+    "title": "SpaceX Reportedly Eyes 80,000 Cell Sites In Push To Become Fourth US Wireless Carrier: T, TMUS, VZ Stocks Slip After-Hours - Stocktwits",
+    "url": "https://news.google.com/rss/articles/CBMikgJBVV95cUxPZnp0M3ZyNlFLUFFqbC1iRnJDd282dmlMNHJVQU5qRjZXZFRtNzlPSzRJMWpjWkduQXBWMGxXeXAwQnlyZW5GZVY2Q2xja0t3ZXBteUVuSWpHSE1wYnI1LXRsVkJqSU14bjUxMU90c3A3N0U4MnViaWFiTXRvT0piQnA1QmRNU1BPZWljdDdsZjA0RS0wbW40ajlsbFRHWGFmOUV0eXVURTE5NHM4ZXZjUTFEVWY4cTg0QVJaWE9FYS11WGxHVGlxZ0lZaEJyR2ItdkdPWVU5UG5mdzl0Rmt5bHpwU2xQUE1RLVNLUk9FNWNxaGVSZFFxZEJfN3cxcnVPMkNfYWdaLTJVV1pHMmVveEhn?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-10-23T20:04:13+00:00",
+    "summary": "SpaceX Reportedly Eyes 80,000 Cell Sites In Push To Become Fourth US Wireless Carrier: T, TMUS, VZ Stocks Slip After-Hours Stocktwits",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "telecom"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "8cb1a9ef008f",
+    "title": "Media buyers chart path for brands and sponsors through high NBA demand",
+    "url": "https://digiday.com/media-buying/media-buyers-chart-path-for-brands-and-sponsors-through-high-nba-demand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-10-22T04:01:00+00:00",
+    "summary": "Brands looking to push more dollars towards NBA audiences must choose between spending on a sponsorship, or funnel budget into TV, streaming and social.",
+    "image_url": null,
+    "tags": [
+      "Media Buying"
+    ],
+    "industries": [
+      "media",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 38
   },
   {
     "id": "1bb40ddffcb6",
@@ -1643,7 +1718,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "6dc4ddac640c",
@@ -1656,7 +1731,7 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 14,
+    "relevance_score": 13,
     "also_covered_by": [
       "Salesforce AI",
       "Telecom 5G",
@@ -1682,78 +1757,25 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
-    "id": "7137be697879",
-    "title": "U.S. Treasuries Rally as AI Investment Cracks Widen: Meta's $40 Billion Share Sale, SpaceX's Telecom Foray Upend Markets - BigGo Finance",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1PUnM0SE11UlVWNGNOS3pWdFVQeHRsRGJPUDF3Nzd0ak8teHdNYV9JLTlLVFNnMFhyajF3M0lrbmpEdVZQYTJ5aEZ2SUEwcWlqWS1pd05LRkY3dXMwYUY1RGhDVXJnelhtMjZRbS1hQ1gtRkRvWXc?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-10-23T16:35:00+00:00",
-    "summary": "U.S. Treasuries Rally as AI Investment Cracks Widen: Meta's $40 Billion Share Sale, SpaceX's Telecom Foray Upend Markets BigGo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "telecom",
-      "financial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "884a429f2090",
-    "title": "Trump Already Challenges Midterm Results—Asks Alaska Not To Certify Senate Race If Democrat Peltola Wins",
-    "url": "https://www.forbes.com/sites/alisondurkee/2026/10/23/trump-already-challenges-midterm-results-asks-alaska-not-to-certify-senate-race-if-democrat-peltola-wins/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-23T16:07:10+00:00",
-    "summary": "Election experts have broadly feared Trump will try to challenge Democrats’ expected victories in the midterms.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adb8544fe60be86e5addd69/0x0.jpg?width=960&precrop=2844%2C1600%2Cx311%2Cy53",
+    "id": "cc5d879751ac",
+    "title": "Samsung Galaxy Z Flip8 Review: The Littlest Smartphone That Could",
+    "url": "https://www.wired.com/review/samsung-galazy-z-flip8/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-10-23T11:30:00+00:00",
+    "summary": "Samsung’s cute compact is for those who want the smallest possible phone. Performance and camera are solid, but it’s pricier than its predecessor.",
+    "image_url": "https://media.wired.com/photos/6ada7f3c75ce8d8c38ba9dad/master/pass/Review%20Samsung%20Galaxy%20Z%20Flip8%20102026%20top%20art%20SOURCE%20Amazon.jpg",
     "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
+      "Gear",
+      "Gear / Products / Phones",
+      "Gear / Reviews",
+      "folding devices",
+      "Android phones"
     ],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 14,
-    "also_covered_by": [
-      "Wall Street"
-    ]
-  },
-  {
-    "id": "bea35bff1075",
-    "title": "Stock Market Today, Oct. 23: AT&T Slides on SpaceX Cell-Site Talks - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxOd05hZV9CR1JuTWw5ZUE3Q0pyU2gyaHp0cEFGQXYtS3MwSUdaV2JpN2E3a3E0VjlmUldBNWpjLVFyeDNiY3JnX1haTjhsY28xa2VpbFdXLU9TMk1RazhkOVRqX296dFZKNFVkWE84dnFWcVNicEhKcFFualpFS0pYSnpwWXI3QlVpdkhVQ2trckJQcUhIemp0aWV0MGxNQk91a0dpd0llVFJrdy1BVmJWcWtORU4zNUVmQ2VBY29nWGYtdkZXNzZV?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-10-23T21:19:53+00:00",
-    "summary": "Stock Market Today, Oct. 23: AT&T Slides on SpaceX Cell-Site Talks The Motley Fool",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "financial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "442d1041b26a",
-    "title": "89% of voters want Congress to act on hospital prices, poll finds",
-    "url": "https://www.fiercehealthcare.com/hospitals/89-voters-say-congress-should-act-hospital-prices-next-two-years-affhp-poll",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-23T13:36:00+00:00",
-    "summary": "Eight in 10 respondents report reducing healthcare prices should be a high legislative priority, up from 71% in 2024.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Healthcare%20costs%20Turquoise%20data.jpg?VersionId=eP6C8zqTDmbxtltqpwu9RDsb8Uqbtzk_",
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
+    "industries": [],
     "relevance_score": 15
   },
   {
@@ -1776,88 +1798,49 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
-    "id": "69b246c3ffb4",
-    "title": "How ID, HIV Clinicians Can Influence Policy in an Election Year - AJMC",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxON3Y2TjhncXNGUndlNFJSM241SVdTRnhPZnF0d1FIN3dqekE2WW1aN0s2MGpkZmwtWl9WaTdBRk9nWjdqSE5ORTNCLVNYX050X3dPX0ZQM0ptYXFUU2JMSkF6NF9sdGZIUGlGRXBtbXdDRC1ZN1ozRGdQTzFNdEd2VXRpRkNJM3BtUm9KWVhmWDJOdw?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-10-23T20:54:43+00:00",
-    "summary": "How ID, HIV Clinicians Can Influence Policy in an Election Year AJMC",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 12
-  },
-  {
-    "id": "6d95eda9dc7a",
-    "title": "Adobe and BWT Alpine Formula One Team Partner to Fuel Fan Engagement with AI-powered Experiences - Adobe Newsroom",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQRGxFTE9jNzNXRnF3TWo2Si1wQ3VNcUxyN2dqbDR2YUN3Ym5pZ0xFaDFWd3czbmhqQ0ZuZkRVYnM1QzMzOXI1YjYzSkFnZDlJZk5XMDByZjdVLTNnOGlKQVFBVlRiazRRcWI4ckJtTFk4NzNrX2xiTlBxQ0NZUmNxQmYxRQ?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-10-22T13:55:29+00:00",
-    "summary": "Adobe and BWT Alpine Formula One Team Partner to Fuel Fan Engagement with AI-powered Experiences Adobe Newsroom",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 29,
-    "also_covered_by": [
-      "Adobe"
-    ]
-  },
-  {
-    "id": "8cb1a9ef008f",
-    "title": "Media buyers chart path for brands and sponsors through high NBA demand",
-    "url": "https://digiday.com/media-buying/media-buyers-chart-path-for-brands-and-sponsors-through-high-nba-demand/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-10-22T04:01:00+00:00",
-    "summary": "Brands looking to push more dollars towards NBA audiences must choose between spending on a sponsorship, or funnel budget into TV, streaming and social.",
-    "image_url": null,
-    "tags": [
-      "Media Buying"
-    ],
-    "industries": [
-      "media",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 38
-  },
-  {
-    "id": "352feb1bf52f",
-    "title": "Best Practices for Creating a Performant Semantic Model in Tableau Semantics",
-    "url": "https://www.salesforce.com/blog/tableau-semantics-best-practices-performant-semantic-model/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-23T17:01:19+00:00",
-    "summary": "Discover how to design, test, and optimize models in Tableau Semantics. Learn how to structure models for max query speed, governance, and enterprise scale.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/00-list_sdm-best-practices.jpg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 13
-  },
-  {
-    "id": "83a1731dc445",
-    "title": "1 of Wall Street’s favorite stocks to own for decades and 2 facing challenges - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMimgFBVV95cUxNQzYxQ3FieVZiakZIeXY1bzJiVjFHQm9nb19RaVlRY2xKYklLal9Hd0k1ZFZhcGRSbmZLS1d5M2ZZU1p4VUh1SXVReDVXQlF3YWJlTEZqMjZlZm11ZVFGU203NF9qZmRiRVpxT2M0WktoNDdyYVNzelVTSjh6Z1h4bGRwbFhmajNKTk1WM2NEa1JDMHhuMV90RmNR?oc=5",
+    "id": "05b0e68662f6",
+    "title": "Trump Says He Directed Justice Department to Sue Alaska Over Senate Race - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxORkZDS2lPLUpjMXRlNUdxWElVQ0VWLXBqTDEzRDdOQ3FTWDc4U0lCR01mSW1oS01DR0hjZ2paLWdROTl5MFVfU0VxSDlWWF9VRGlIaXRVXzBnVmhZYXd0TFU4MkVfLUpNc056LTlLUllGOVE4bS1DVGJ0TnlBbHJrNDRud1o5dnNRMElXOV92aFVIb3g1QmRDTjJlSEJZQzViZmNrODRYb3FieDB4UVh3MkJLaWRWSUptY0o3U1Z5d0FnaVU?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-10-23T19:36:39+00:00",
-    "summary": "1 of Wall Street’s favorite stocks to own for decades and 2 facing challenges Yahoo Finance",
+    "published": "2026-10-24T01:06:45+00:00",
+    "summary": "Trump Says He Directed Justice Department to Sue Alaska Over Senate Race WSJ",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 10
+  },
+  {
+    "id": "3fdfb74658f0",
+    "title": "From brief to campaign: ThinkingStreams launches agentic marketing automation for B2B teams - Yahoo Finance",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPS3FMRjRsT0RWYjFQaHNoT0Z4T1pHX1RsRTZ3Smp0TTA2a0lRVHJqY21ZbVAyMFFMWTQ4MUY2VlIyTGdBSkFvdG1TcExWa0FRMlJpT0dpcHh3SUh1M3I2R3FBajBIZjNyUjFfSmtWclAxM2N2Vk9lWUc0N0ROQlE1b1VKSThCdXlCR0xnWHZCU3kxT3NPOVFnUzEza1hNRGZZV2J5aFFMSjJXT2xveWZMcQ?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-10-21T12:00:00+00:00",
+    "summary": "From brief to campaign: ThinkingStreams launches agentic marketing automation for B2B teams Yahoo Finance",
     "image_url": null,
     "tags": [],
     "industries": [
-      "industrial",
-      "financial"
+      "industrial"
     ],
-    "relevance_score": 12,
-    "also_covered_by": [
-      "Adobe"
-    ]
+    "relevance_score": 58
+  },
+  {
+    "id": "36dbe8b0482b",
+    "title": "Starlink Vs. 5G Home Internet: The Cheaper One Might Actually Be Faster - BGR",
+    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTFB6T2VSTm1tNGxUSHlRakFYU3FhR0VPYWR2aUllRWNZOFZVNURsS0tiVHpKNHJJS2ZaMlRKOWx6TTYzSGNJaGZEX1luQ2xmVy1jLVJRQTg1RzFCU3dQUndoNFhZNFlCd25lb3A2a3BRMkl0QXUwaS1ZZEFQemU?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-10-23T21:32:00+00:00",
+    "summary": "Starlink Vs. 5G Home Internet: The Cheaper One Might Actually Be Faster BGR",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "telecom"
+    ],
+    "relevance_score": 11
   }
 ]
