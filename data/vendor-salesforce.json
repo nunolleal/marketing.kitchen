@@ -13,7 +13,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 44
+    "relevance_score": 41
   },
   {
     "id": "4870e003d9c9",
@@ -46,22 +46,7 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 33
-  },
-  {
-    "id": "10236f93c374",
-    "title": "Unlock Tiered Monetization with AgentExchange Commerce and 2GP Permission Set Licenses",
-    "url": "https://www.salesforce.com/blog/unlock-tiered-monetization-with-agentexchange-commerce-and-2gp-permission-set-licenses/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-23T15:58:12+00:00",
-    "summary": "For Salesforce ISV partners, a one-size-fits-all licensing model can mean leaving revenue on the table. When every user receives the same level of access, partners face a difficult tradeoff: charge the same price…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/RESOURCE-CARD-768-x-432-2.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 14
+    "relevance_score": 29
   },
   {
     "id": "fe37201b1227",
@@ -80,6 +65,21 @@
     "relevance_score": 12
   },
   {
+    "id": "10236f93c374",
+    "title": "Unlock Tiered Monetization with AgentExchange Commerce and 2GP Permission Set Licenses",
+    "url": "https://www.salesforce.com/blog/unlock-tiered-monetization-with-agentexchange-commerce-and-2gp-permission-set-licenses/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-23T15:58:12+00:00",
+    "summary": "For Salesforce ISV partners, a one-size-fits-all licensing model can mean leaving revenue on the table. When every user receives the same level of access, partners face a difficult tradeoff: charge the same price…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/RESOURCE-CARD-768-x-432-2.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
     "id": "5c5d255d742c",
     "title": "4 Ways Salesforce is Going Headless Internally (and How You Can Too)",
     "url": "https://www.salesforce.com/blog/salesforce-headless-use-cases/",
@@ -90,7 +90,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/image_b132e3.jpeg",
     "tags": [],
     "industries": [],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "18062e27c383",
@@ -103,7 +103,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/08/AdobeStock_621261617.jpg?w=7934",
     "tags": [],
     "industries": [],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "beef8d3a78f9",
@@ -150,34 +150,6 @@
     "relevance_score": 10
   },
   {
-    "id": "c2c29855fb11",
-    "title": "Breaking Down the Stack: Browser-Bound vs. Headless Architecture",
-    "url": "https://www.salesforce.com/blog/headless-architecture-vs-browser-bound/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-23T15:51:20+00:00",
-    "summary": "Maximize your AI investments with a headless architecture. Here’s how.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_2051918047.jpeg",
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "352feb1bf52f",
-    "title": "Best Practices for Creating a Performant Semantic Model in Tableau Semantics",
-    "url": "https://www.salesforce.com/blog/tableau-semantics-best-practices-performant-semantic-model/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-23T17:01:19+00:00",
-    "summary": "Discover how to design, test, and optimize models in Tableau Semantics. Learn how to structure models for max query speed, governance, and enterprise scale.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/00-list_sdm-best-practices.jpg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 9
-  },
-  {
     "id": "27b0d89d52e9",
     "title": "What Is Salesforce Agentforce Service? The Enterprise Guide for 2026 - Nasscom",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPUFIyaUZ2XzJieS1weXNHWGJhVHhzOEVUOF9YR2lZZ0IzV20ycFEwRVdpS2ZaU2YyUE5ObFdyX3AzYktRaEg4aUh5SFRJWlJCckdwRy14d2NYaWVVamdIWDJuNFJaUWpPdUl0Ylloc01GMW8yU2dwWllFVzU2bWM2S0NfbGxDVnByWFhsVVgwRnN3SmdKRDhnRDVGVEd0OGlzQmc?oc=5",
@@ -193,19 +165,31 @@
     "relevance_score": 8
   },
   {
-    "id": "aa88ff6cd517",
-    "title": "Entering the Agentic and Conversational Era of Hardware Asset Management",
-    "url": "https://www.salesforce.com/blog/hardware-asset-management/",
+    "id": "c2c29855fb11",
+    "title": "Breaking Down the Stack: Browser-Bound vs. Headless Architecture",
+    "url": "https://www.salesforce.com/blog/headless-architecture-vs-browser-bound/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-10-22T16:15:00+00:00",
-    "summary": "Move beyond static spreadsheets and ticket queues. Discover how autonomous AI agents are transforming hardware asset management into a conversational, lifecycle-orchestrated experience.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/Blog-Header-HAM.jpeg",
+    "published": "2026-10-23T15:51:20+00:00",
+    "summary": "Maximize your AI investments with a headless architecture. Here’s how.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/07/AdobeStock_2051918047.jpeg",
     "tags": [],
     "industries": [
-      "industrial",
       "financial"
     ],
+    "relevance_score": 8
+  },
+  {
+    "id": "352feb1bf52f",
+    "title": "Best Practices for Creating a Performant Semantic Model in Tableau Semantics",
+    "url": "https://www.salesforce.com/blog/tableau-semantics-best-practices-performant-semantic-model/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-23T17:01:19+00:00",
+    "summary": "Discover how to design, test, and optimize models in Tableau Semantics. Learn how to structure models for max query speed, governance, and enterprise scale.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/00-list_sdm-best-practices.jpg",
+    "tags": [],
+    "industries": [],
     "relevance_score": 8
   },
   {
@@ -225,5 +209,21 @@
     "also_covered_by": [
       "Fintech"
     ]
+  },
+  {
+    "id": "aa88ff6cd517",
+    "title": "Entering the Agentic and Conversational Era of Hardware Asset Management",
+    "url": "https://www.salesforce.com/blog/hardware-asset-management/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-22T16:15:00+00:00",
+    "summary": "Move beyond static spreadsheets and ticket queues. Discover how autonomous AI agents are transforming hardware asset management into a conversational, lifecycle-orchestrated experience.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/Blog-Header-HAM.jpeg",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 7
   }
 ]
