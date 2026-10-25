@@ -14,7 +14,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 58
+    "relevance_score": 55
   },
   {
     "id": "1c3059fb7886",
@@ -34,7 +34,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 53
+    "relevance_score": 50
   },
   {
     "id": "7b5e20c724e5",
@@ -54,7 +54,7 @@
       "media",
       "tech"
     ],
-    "relevance_score": 53
+    "relevance_score": 50
   },
   {
     "id": "02a39dfd4f60",
@@ -72,7 +72,23 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 51
+    "relevance_score": 48
+  },
+  {
+    "id": "62468842e001",
+    "title": "Marketing Cloud Winter ’27 Release: What You Need to Know",
+    "url": "https://www.salesforce.com/blog/marketing-cloud-winter-27-release-what-you-need-to-know/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-22T18:17:11+00:00",
+    "summary": "Marketing Cloud Winter '27 has 60+ releases, including agentic campaigns, Personalized Paths in Flow, and flash sending to 5M app users in 90 seconds. Dig a little deeper.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/winter27_release_rounded_v2.png",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 44
   },
   {
     "id": "93820e9ece09",
@@ -92,42 +108,7 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 47
-  },
-  {
-    "id": "62468842e001",
-    "title": "Marketing Cloud Winter ’27 Release: What You Need to Know",
-    "url": "https://www.salesforce.com/blog/marketing-cloud-winter-27-release-what-you-need-to-know/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-22T18:17:11+00:00",
-    "summary": "Marketing Cloud Winter '27 has 60+ releases, including agentic campaigns, Personalized Paths in Flow, and flash sending to 5M app users in 90 seconds. Dig a little deeper.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/winter27_release_rounded_v2.png",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
     "relevance_score": 44
-  },
-  {
-    "id": "11f91d0647f5",
-    "title": "Personalization knows what customers want, not who they are",
-    "url": "https://martech.org/personalization-knows-what-customers-want-not-who-they-are/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-10-23T12:55:00+00:00",
-    "summary": "Useful offers are common. Meaningful recognition is not, and consumers are quick to walk when brands ask for too much without a clear reason. The post Personalization knows what customers want, not who they are appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-1.55.26-PM.png",
-    "tags": [
-      "Customer relationship management (CRM)",
-      "MarTechCharts"
-    ],
-    "industries": [
-      "tech",
-      "consumer"
-    ],
-    "relevance_score": 43
   },
   {
     "id": "d58960a9d038",
@@ -167,42 +148,23 @@
     "relevance_score": 40
   },
   {
-    "id": "43a708f921ba",
-    "title": "Creator content shapes AI product recommendations",
-    "url": "https://martech.org/creator-content-shapes-ai-product-recommendations/",
+    "id": "11f91d0647f5",
+    "title": "Personalization knows what customers want, not who they are",
+    "url": "https://martech.org/personalization-knows-what-customers-want-not-who-they-are/",
     "source": "MarTech.org",
     "source_category": "martech",
-    "published": "2026-10-22T12:30:00+00:00",
-    "summary": "AI draws on creator reviews, product experiences, and consumer sentiment to inform recommendations. Here's why that matters for brands. The post Creator content shapes AI product recommendations appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/07/choice-advantage-competition--800x450.png",
+    "published": "2026-10-23T12:55:00+00:00",
+    "summary": "Useful offers are common. Meaningful recognition is not, and consumers are quick to walk when brands ask for too much without a clear reason. The post Personalization knows what customers want, not who they are appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-1.55.26-PM.png",
     "tags": [
-      "Content marketing",
-      "Marketing artificial intelligence (AI)"
+      "Customer relationship management (CRM)",
+      "MarTechCharts"
     ],
     "industries": [
       "tech",
       "consumer"
     ],
     "relevance_score": 40
-  },
-  {
-    "id": "e88188079ba1",
-    "title": "How to build a reliable source of truth for AI agents",
-    "url": "https://martech.org/how-to-build-a-reliable-source-of-truth-for-ai-agents/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-10-22T12:33:00+00:00",
-    "summary": "Your AI agents may follow instructions perfectly — and still get things wrong. The problem could lie in the documents they rely on. The post How to build a reliable source of truth for AI agents appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/03/marketing-resource-management-best-software-2.jpg",
-    "tags": [
-      "Marketing artificial intelligence (AI)",
-      "Marketing operations (MOps)"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 39
   },
   {
     "id": "99ce590028c5",
@@ -254,6 +216,44 @@
     "also_covered_by": [
       "Salesforce AI"
     ]
+  },
+  {
+    "id": "43a708f921ba",
+    "title": "Creator content shapes AI product recommendations",
+    "url": "https://martech.org/creator-content-shapes-ai-product-recommendations/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-10-22T12:30:00+00:00",
+    "summary": "AI draws on creator reviews, product experiences, and consumer sentiment to inform recommendations. Here's why that matters for brands. The post Creator content shapes AI product recommendations appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/07/choice-advantage-competition--800x450.png",
+    "tags": [
+      "Content marketing",
+      "Marketing artificial intelligence (AI)"
+    ],
+    "industries": [
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 37
+  },
+  {
+    "id": "e88188079ba1",
+    "title": "How to build a reliable source of truth for AI agents",
+    "url": "https://martech.org/how-to-build-a-reliable-source-of-truth-for-ai-agents/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-10-22T12:33:00+00:00",
+    "summary": "Your AI agents may follow instructions perfectly — and still get things wrong. The problem could lie in the documents they rely on. The post How to build a reliable source of truth for AI agents appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/03/marketing-resource-management-best-software-2.jpg",
+    "tags": [
+      "Marketing artificial intelligence (AI)",
+      "Marketing operations (MOps)"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 36
   },
   {
     "id": "0534034c9081",
@@ -308,6 +308,108 @@
     "relevance_score": 32
   },
   {
+    "id": "939952e7cda7",
+    "title": "6 Best Folding Phones (2026): Samsung, Apple, Google, Motorola",
+    "url": "https://www.wired.com/gallery/best-folding-phones/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-10-25T11:30:00+00:00",
+    "summary": "Ready to move on from the traditional glass slab? Introduce a hinge into your life with these folding smartphones.",
+    "image_url": "https://media.wired.com/photos/6adb855058fe17d926e68364/master/pass/Best%20Folding%20Phones%20iPhone%20Duo%20102026%20top%20art%20SOURCE%20Samsung-Apple.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Buying Guides",
+      "Gear / Products / Phones",
+      "Shopping",
+      "phones"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 18
+  },
+  {
+    "id": "cb82b5e095d2",
+    "title": "Wallhack M-001 Review: When Fun Overrides Specs",
+    "url": "https://www.wired.com/review/wallhack-m-001/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-10-25T12:30:00+00:00",
+    "summary": "With a tactile dongle for on-the-fly customization and a metal chassis, the Wallhack M-001 is the most fun I've had reviewing a gaming mouse in a long time.",
+    "image_url": "https://media.wired.com/photos/6adbbc51f337c510e207c213/master/pass/Review%20Wallhack%20M-001%20Gaming%20Mouse%20102026%20top%20art%20SOURCE%20Wallhack.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Products",
+      "Gear / Reviews",
+      "Gear / Products / Computers",
+      "Gear / Products / Gaming"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 18
+  },
+  {
+    "id": "01bb22ec3cd0",
+    "title": "The MacBook Pro Max Just Dropped to Its Lowest Price Ever",
+    "url": "https://www.wired.com/story/macbook-pro-m5-max-deal-october-2026/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-10-25T11:00:00+00:00",
+    "summary": "Apple will reportedly launch an innovative new MacBook next week, which means existing options have their largest discount yet.",
+    "image_url": "https://media.wired.com/photos/6adbb2adc29fe197e2045863/master/pass/MacBook%20Pro%20Prices%20Drop%20to%20All-Time%20Low%20deals%20102026%20top%20art%20SOURCE%20Amazon.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "Gear / Products",
+      "Gear / Products / Computers",
+      "laptop"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "7a31f6532db8",
+    "title": "Starting Grid For The 2026 F1 United States Grand Prix",
+    "url": "https://www.forbes.com/sites/yaraelshebiny/2026/10/25/starting-grid-for-the-2026-f1-united-states-grand-prix/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-25T13:24:18+00:00",
+    "summary": "Kimi Antonelli of Mercedes took pole position at the United States Grand Prix, where he could wrap up his maiden F1 world championship. Here's the full starting grid with penalties applied.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6addee7b1b03334c60ddb941/0x0.jpg",
+    "tags": [
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "d2786ba990ff",
+    "title": "Why SaaS companies need more than a good product to build a strong brand - INQUIRER.net USA",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVkRVR0NGbGFjVXEtV0lqZHpZWDREaHRoZzI1WDRjMlNjSjc4bmNXWjZpQTMwY3F6NWI4Rnk4cElpMmRqZVd1bjQ4ZjNMelFQemJhd3UwallXOWJtQUljcUxuRWRlYWl3UnoyNnlQRXhOa2lqeDdPRGd2d0Ywdm9MbTUwVmJCdw?oc=5",
+    "source": "Tech Marketing",
+    "source_category": "industry_tech",
+    "published": "2026-10-21T02:14:00+00:00",
+    "summary": "Why SaaS companies need more than a good product to build a strong brand INQUIRER.net USA",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 16
+  },
+  {
     "id": "50de9a82e36c",
     "title": "Marco Rubio Launches Investments In Uzbekistan; Russians Don’t Like It",
     "url": "https://www.forbes.com/sites/melikkaylan/2026/10/25/marco-rubio-launches-investments-in-uzbekistan-russians-dont-like-it/",
@@ -327,21 +429,47 @@
       "tech",
       "financial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
-    "id": "d2786ba990ff",
-    "title": "Why SaaS companies need more than a good product to build a strong brand - INQUIRER.net USA",
-    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPVkRVR0NGbGFjVXEtV0lqZHpZWDREaHRoZzI1WDRjMlNjSjc4bmNXWjZpQTMwY3F6NWI4Rnk4cElpMmRqZVd1bjQ4ZjNMelFQemJhd3UwallXOWJtQUljcUxuRWRlYWl3UnoyNnlQRXhOa2lqeDdPRGd2d0Ywdm9MbTUwVmJCdw?oc=5",
-    "source": "Tech Marketing",
-    "source_category": "industry_tech",
-    "published": "2026-10-21T02:14:00+00:00",
-    "summary": "Why SaaS companies need more than a good product to build a strong brand INQUIRER.net USA",
-    "image_url": null,
-    "tags": [],
+    "id": "c167e8c55356",
+    "title": "Scientists Trapped an Antimatter Particle for Months to Study Its Secrets",
+    "url": "https://www.wired.com/story/scientists-trapped-an-antimatter-particle-for-months-to-study-its-secrets/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-10-25T12:00:00+00:00",
+    "summary": "These elusive and reactive particles have been challenging to hold on to and even more challenging to study, but a new method paves the way for tests on the differences between matter and antimatter.",
+    "image_url": "https://media.wired.com/photos/6adaaa0519e924cf3288639a/master/pass/1344013114",
+    "tags": [
+      "Science",
+      "Science / Physics and Math",
+      "antimatter",
+      "Atoms",
+      "particle physics"
+    ],
     "industries": [
+      "tech"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "ab1f7cff3772",
+    "title": "Google’s AI search changes upended online publishing",
+    "url": "https://www.theverge.com/column/1017983/google-ai-search-online-publishing",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-10-25T12:00:00+00:00",
+    "summary": "This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more about AI's impact on the web, follow Emma Roth. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepback here. How it started The...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/STK414_STK480_AI_DIS_MISINFO_CVIRGINIA_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "AI",
+      "Column",
+      "The Stepback"
+    ],
+    "industries": [
+      "media",
       "tech",
-      "consumer"
+      "industrial"
     ],
     "relevance_score": 16
   },
@@ -364,92 +492,47 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 16
-  },
-  {
-    "id": "812abe3aa79b",
-    "title": "DeepSeek reportedly raises $15B days after US restrictions",
-    "url": "https://techcrunch.com/2026/10/22/deepseek-reportedly-raises-15b-days-after-us-restrictions/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-10-22T13:11:13+00:00",
-    "summary": "DeepSeek has reportedly raised $15 billion in one of China's largest funding rounds, just days after the U.S. ordered federal agencies to remove its technology over national security concerns.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/01/deepseek-2.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Fundraising",
-      "artificial intellignce",
-      "deepseek",
-      "Funding"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
     "relevance_score": 15
   },
   {
-    "id": "ec015794c16e",
-    "title": "8 Things to Know About the iPhone Duo",
-    "url": "https://www.wired.com/story/8-things-to-know-about-the-apple-iphone-duo/",
+    "id": "2ecc2e4df290",
+    "title": "Apple CarPlay and Android Auto Make Your Phone Hot. Here’s How to Keep It Cool",
+    "url": "https://www.wired.com/story/apple-carplay-and-android-auto-make-your-phone-hot-heres-how-to-keep-it-cool/",
     "source": "Wired",
     "source_category": "ai",
-    "published": "2026-10-23T09:15:00+00:00",
-    "summary": "Did you manage to score Apple’s first folding phone on launch day? Are you still mulling it over? Here are a few things to keep in mind.",
-    "image_url": "https://media.wired.com/photos/6ada893690bbef8397f3e8ae/master/pass/DSC_9451.jpg",
+    "published": "2026-10-25T10:15:00+00:00",
+    "summary": "Powering a car dashboard is more demanding on your handset than you might think. These tips will save battery life and help your phone chill out.",
+    "image_url": "https://media.wired.com/photos/6ada0a2fe1636641cd0c0f13/master/pass/Car%20Wired.jpg",
     "tags": [
       "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Phones",
-      "apple",
-      "iPhone"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "eca5562e76b3",
-    "title": "9 Unique Apps to Try on the iPhone Duo",
-    "url": "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-10-24T10:45:00+00:00",
-    "summary": "Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.",
-    "image_url": "https://media.wired.com/photos/6adb699efc34ba9fae2279b4/master/pass/Top%20Art%20SOURCE%20Julian%20Chokkattu.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Apps",
-      "Gear / Products / Phones",
+      "Gear / How To and Advice",
+      "battery",
+      "Android",
       "apple"
     ],
     "industries": [
-      "tech",
-      "industrial"
+      "media",
+      "tech"
     ],
     "relevance_score": 15
   },
   {
-    "id": "8fe032f86a4a",
-    "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
-    "url": "https://www.forbes.com/sites/erikkain/2026/10/24/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more/",
+    "id": "b0aac4ee4e4d",
+    "title": "How Chiefs Star Kenneth Walker Is Approaching Return To Seattle To Face Seahawks",
+    "url": "https://www.forbes.com/sites/jefffedotin/2026/10/25/how-chiefs-star-kenneth-walker-is-approaching-return-to-seattle-to-face-seahawks/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-10-24T21:24:26+00:00",
-    "summary": "Looking for something new to stream this week? Here’s every major new movie and show hitting Netflix, Hulu, Prime Video, Apple TV and more.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adba4992b478cef17f8a7fe/0x0.jpg?width=960",
+    "published": "2026-10-25T13:45:00+00:00",
+    "summary": "Shy, soft-spoken Kenneth Walker addresses his return to face his former Seahawks team. Seattle decided to spent its money on other players instead of re-signing Walker.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adbc1b00803b6e8e2515718/0x0.jpg",
     "tags": [
-      "Gaming",
-      "/gaming",
-      "Innovation",
-      "/innovation",
-      "Gaming"
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
     ],
     "industries": [
-      "media",
       "tech"
     ],
     "relevance_score": 15
@@ -486,27 +569,6 @@
     "relevance_score": 14
   },
   {
-    "id": "9a6e8fd1d1cc",
-    "title": "The ‘Exotic Physics’ Behind a Mysterious 1,000-Mile Cloud on Mars",
-    "url": "https://www.wired.com/story/the-exotic-physics-behind-a-mysterious-1000-mile-cloud-on-mars/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-10-23T09:00:00+00:00",
-    "summary": "The cloud has baffled astronomers since its discovery in 2018. Now, a new study offers a possible cause for its appearance.",
-    "image_url": "https://media.wired.com/photos/6ad9cc2f43ef58c4a17cefed/master/pass/Mars_Express_views_the_most_striking_cloud_on_Mars.jpg",
-    "tags": [
-      "Science",
-      "Science / Space",
-      "clouds",
-      "water on Mars",
-      "Mars"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
     "id": "5bb29d63d71f",
     "title": "What’s the Best iPhone to Buy or Avoid Right Now? (2026)",
     "url": "https://www.wired.com/gallery/iphone-buying-guide/",
@@ -528,20 +590,42 @@
     "relevance_score": 14
   },
   {
-    "id": "113d21fe3553",
-    "title": "What to expect from Apple’s ‘Pro and tell’ event",
-    "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
-    "source": "The Verge",
+    "id": "eca5562e76b3",
+    "title": "9 Unique Apps to Try on the iPhone Duo",
+    "url": "https://www.wired.com/story/unique-apps-to-try-on-the-iphone-duo/",
+    "source": "Wired",
     "source_category": "ai",
-    "published": "2026-10-24T14:15:00+00:00",
-    "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro-and-tell.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.722587942729%2C100%2C78.554824114543&amp;w=1200",
+    "published": "2026-10-24T10:45:00+00:00",
+    "summary": "Apple’s first folding phone is inspiring indie developers to create fun, quirky apps that take advantage of the screen and the hinge. Here are a few to try as you explore the Duo.",
+    "image_url": "https://media.wired.com/photos/6adb699efc34ba9fae2279b4/master/pass/Top%20Art%20SOURCE%20Julian%20Chokkattu.jpg",
     "tags": [
-      "Apple",
-      "Apple Event 2026",
-      "Apple Rumors",
-      "Report",
-      "Tech"
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Apps",
+      "Gear / Products / Phones",
+      "apple"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "24d6a1210f4b",
+    "title": "What the US Movement Against Data Centers Can Learn From Abroad",
+    "url": "https://www.wired.com/story/what-the-us-anti-data-center-movement-can-learn-from-everywhere-else/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-10-25T10:00:00+00:00",
+    "summary": "Paris Marx, author of Hyperscale, has been tracking global data center development for years. The US has a lot to learn from what’s happened everywhere from Ireland to New Zealand.",
+    "image_url": "https://media.wired.com/photos/6adbe4fc594ddd5d406f1b4a/master/pass/102326-Power%20Play-What%20the%20US%20Anti-Data%20Center%20Movement%20Can%20Learn%20From%20Everywhere%20Else-v2.jpg",
+    "tags": [
+      "Science",
+      "Science / Environment",
+      "Business",
+      "data centers",
+      "Power Play"
     ],
     "industries": [
       "tech"
@@ -549,84 +633,19 @@
     "relevance_score": 14
   },
   {
-    "id": "b20a128a9a66",
-    "title": "Elon Musk Announces $1 Tipping Feature On X Money As Platform Expands Digital Payments - NDTV Profit",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOelJza1NRMW5GQUdISmtMS0pMQ2dxRlBIdk1iZG04VVI1WXdXTHZwTURFWU5GZnZSTWJCZGEyR2tjMjh4eHlUbDRsVEFOMU9pUWZGdkFBb2tyNm8xNGNObjJadTVYYlgyT3c1NXMyZjBheWpkQjZfRnI3UGdEbllkX3EyUjFDem4wMVRhY2Znb3lRM1BoNXpYRXdaaFRvVFVjdWZWVkpPN3QtRHRjX1pQdzBqdUFnNnMwSjJNaEYwaHl6MkdCT3fSAc4BQVVfeXFMTUp0SmM5ZkJsXzFlSl9JWDF4S2owLUR6T0RFTVA1VmRyVkZIRFBKeVYzNmkwaGpjZmtDTm5BWUkwSkZteklQbk9PUTRHOXJHQjhaMzdVaWs1M3dqVmtIOXVqb2gtMXdMenpPMFhjOW02MWQ4TElrS2dRYlo2TUEtQXlabE9mLW5OU2JoMmRzN0E4akJ1ZnNKdHFPSnFydGZNblFPRF8zLVZXOW9mcUtvRzd6TGhuZWlNZGN4QVNneWFUWk1US3lfM0g4NTl2SUE?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-10-25T06:48:15+00:00",
-    "summary": "Elon Musk Announces $1 Tipping Feature On X Money As Platform Expands Digital Payments NDTV Profit",
+    "id": "2c5b9532fa6c",
+    "title": "Overseas voters say Adobe software won’t let them tick some parties - 1News",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPRlROZ1lFcFB1WW5DeFhRWWR4UmVZd0NDVU1mNVMwSzJYM2VBUzRLV3dNdWlCLW9LZXl1YlFYNGEzdWE3elZ6RUVVazBUamw2dnJodVdBMXNKbUh1cEpvSm5vNGZ5TU1vaGxiRUNFVTV0cW5hSzRHbkhvUXZDUER5RHlIVXRIVFpQMFBqVmItNmt4RnRVeDRJUHhXZy1HZ0QxZi02Rw?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-10-25T10:16:59+00:00",
+    "summary": "Overseas voters say Adobe software won’t let them tick some parties 1News",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "af602efde416",
-    "title": "Best Dyson Week Deals (2026): Dyson V15 Detect, Dyson Airwrap",
-    "url": "https://www.wired.com/story/dyson-week-deals-oct-2026/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-10-23T09:07:00+00:00",
-    "summary": "Dyson’s sale event is happening now, and you can save up to $300 on vacuums, hair tools, and more.",
-    "image_url": "https://media.wired.com/photos/6ada50bf2d0fbd1c13e18ce2/master/pass/Dyson%20Week%20Has%20Some%20of%20Our%20Favorite%20Dyson%20Technology%20on%20Sale%20102026%20top%20art%20SOURCE%20Dyson.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "Gear / Products / Home",
-      "Dyson",
-      "Vacuums"
-    ],
-    "industries": [
       "tech"
     ],
-    "relevance_score": 13
-  },
-  {
-    "id": "79912674b2ce",
-    "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
-    "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-10-24T14:00:00+00:00",
-    "summary": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Apple",
-      "Gadgets",
-      "Laptops",
-      "Lenovo",
-      "macOS"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "c7aa9b7dfeaf",
-    "title": "Pennsylvania will require labels on AI-generated ads",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-10-24T18:32:21+00:00",
-    "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "AI",
-      "Law",
-      "News",
-      "Policy"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 13
+    "relevance_score": 14
   },
   {
     "id": "5595c812cd34",
@@ -667,29 +686,6 @@
     "relevance_score": 12
   },
   {
-    "id": "e7d5996d494d",
-    "title": "How Many Billions Would It Take to Hold Meta Accountable?",
-    "url": "https://www.wired.com/story/how-many-billions-would-it-take-to-hold-meta-accountable/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-10-23T15:00:00+00:00",
-    "summary": "Meta got hit this week with its biggest fine yet, the latest in a mounting pile of court-ordered payments.",
-    "image_url": "https://media.wired.com/photos/6ada8957133035a6bb08c0f2/master/pass/Business_How%20Many%20Billions%20Would%20It%20Take%20to%20Hold%20Meta%20Accountable_v1.jpg",
-    "tags": [
-      "Business",
-      "Business / Tech Culture",
-      "Backchannel - NL",
-      "Meta",
-      "courts"
-    ],
-    "industries": [
-      "tech",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 12
-  },
-  {
     "id": "a9d46a588889",
     "title": "Five major companies pledge faster, electronic prior authorizations",
     "url": "https://www.healthcaredive.com/news/five-major-companies-pledge-faster-electronic-prior-authorizations/833848/",
@@ -707,64 +703,40 @@
     "relevance_score": 12
   },
   {
-    "id": "f6c7705a2177",
-    "title": "Ray-Ban Meta Audio Review: The Best Smart Glasses",
-    "url": "https://www.wired.com/review/ray-ban-meta-audio/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-10-24T09:15:00+00:00",
-    "summary": "No cameras? No problem. Ditching the surveillance baggage makes Meta’s audio-only frames surprisingly easy to live with.",
-    "image_url": "https://media.wired.com/photos/6adb65de4cb8f4b09a1af178/master/pass/Ray-Ban%20Meta%20Audio%20-%20Lifestyle2.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Reviews",
-      "smart glasses",
-      "Meta"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "2567687dd6d0",
-    "title": "It’s time to find a new browser",
-    "url": "https://www.theverge.com/tech/1018121/cod-4-claude-duet-wildwood-installer",
+    "id": "113d21fe3553",
+    "title": "What to expect from Apple’s ‘Pro and tell’ event",
+    "url": "https://www.theverge.com/tech/1018169/what-to-expect-apple-pro-and-tell-event-touchscreen-macbook-pro",
     "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-10-24T12:00:00+00:00",
-    "summary": "Hi, friends! Welcome to Installer No. 149, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy It Actually Feels Like Fall Now At Least In My Neighborhood), and also you can read all the old editions at the Installer homepage.) This...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-149.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4987011938249%2C100%2C93.00259761235&amp;w=1200",
+    "published": "2026-10-24T14:15:00+00:00",
+    "summary": "It feels like Apple's Welcome Home event just happened. And the iPhone Duo announcement isn't all that far in our rearview mirror, either. Yet, the company is back with another launch, focused on the MacBook Pro, it looks like. Its \"Pro and tell\" event is scheduled for...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/pro-and-tell.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.722587942729%2C100%2C78.554824114543&amp;w=1200",
     "tags": [
-      "Gadgets",
-      "Installer",
-      "Streaming",
+      "Apple",
+      "Apple Event 2026",
+      "Apple Rumors",
+      "Report",
       "Tech"
     ],
     "industries": [
-      "media",
-      "tech",
-      "industrial"
+      "tech"
     ],
     "relevance_score": 12
   },
   {
-    "id": "3b0f25a3338e",
-    "title": "Job Board Traffic Surges As Desperate Applicants ‘Spray And Pray,’ Expert Says",
-    "url": "https://www.forbes.com/sites/conormurray/2026/10/24/job-board-traffic-surges-as-desperate-applicants-spray-and-pray-expert-says/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-24T14:00:00+00:00",
-    "summary": "Visits to the top job search websites have surged year-over-year as many job seekers have found it increasingly difficult to find work in a tough labor market.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6adbc9e9b5ccad251c861ba3/0x0.jpg?width=960&precrop=1876%2C1054%2Cx0%2Cy52",
+    "id": "c7aa9b7dfeaf",
+    "title": "Pennsylvania will require labels on AI-generated ads",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1018187/pennsylvania-ai-deceptive-advertising-act",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-10-24T18:32:21+00:00",
+    "summary": "On Thursday, Pennsylvania Governor Josh Shapiro signed the Artificial Intelligence Deceptive Advertising Act into law, requiring disclosures on AI-generated ads. The law requires any ad - whether it's a still image, video, audio, or text - that \"has been significantly...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/09/STK445_ADVERTISING_STK093_GOOGLE_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
     "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
+      "AI",
+      "Law",
+      "News",
+      "Policy"
     ],
     "industries": [
       "tech",
@@ -805,31 +777,9 @@
     "relevance_score": 11,
     "also_covered_by": [
       "Salesforce AI",
-      "Health Tech",
-      "Banking"
+      "Banking",
+      "Telecom 5G"
     ]
-  },
-  {
-    "id": "db5d9358c02a",
-    "title": "Palmer Luckey and Ben Lamm Made a Genetically Modified Military Dog Startup",
-    "url": "https://www.wired.com/story/cool-cool-cool-palmer-luckey-made-a-genetically-modified-military-dog-startup/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-10-22T23:15:00+00:00",
-    "summary": "Warhound came out of stealth on Wednesday with $200 million in funding and a mission to create “elite working dogs” equipped with \"advanced body armor.\"",
-    "image_url": "https://media.wired.com/photos/6ada855face4f27f64bac623/master/pass/Business_Palmer%20Luckey%20Says%20He%E2%80%99s%20Making%20Cyborg%20Death%20Dogs_v1.jpg",
-    "tags": [
-      "Business",
-      "Business / Startups",
-      "Anduril",
-      "genetic engineering",
-      "Animal Kingdom"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 11
   },
   {
     "id": "cf51e24baa15",
@@ -853,24 +803,25 @@
     "relevance_score": 11
   },
   {
-    "id": "dbff329b1d46",
-    "title": "A Dating App Is Offering ‘Chivalry Mode’ and ‘Marriage Timeline’ to Get Gen Z Married",
-    "url": "https://www.wired.com/story/a-dating-app-is-offering-chivalry-mode-and-marriage-timeline-to-get-gen-z-married/",
+    "id": "e7d5996d494d",
+    "title": "How Many Billions Would It Take to Hold Meta Accountable?",
+    "url": "https://www.wired.com/story/how-many-billions-would-it-take-to-hold-meta-accountable/",
     "source": "Wired",
     "source_category": "ai",
-    "published": "2026-10-23T10:15:00+00:00",
-    "summary": "Upward, a newly relaunched Christian app, is pitching trad values to a generation that barely even dates.",
-    "image_url": "https://media.wired.com/photos/6ad9497f7fa1a6118ccee279/master/pass/Culture_Despite%20Being%20Bad%20at%20Dating,%20A%20Lot%20of%20Gen%20Z%20Really%20Wants%20to%20Get%20Married_v1.jpg",
+    "published": "2026-10-23T15:00:00+00:00",
+    "summary": "Meta got hit this week with its biggest fine yet, the latest in a mounting pile of court-ordered payments.",
+    "image_url": "https://media.wired.com/photos/6ada8957133035a6bb08c0f2/master/pass/Business_How%20Many%20Billions%20Would%20It%20Take%20to%20Hold%20Meta%20Accountable_v1.jpg",
     "tags": [
-      "Culture",
-      "Culture / Digital Culture",
-      "Dating",
-      "tinder",
-      "relationships"
+      "Business",
+      "Business / Tech Culture",
+      "Backchannel - NL",
+      "Meta",
+      "courts"
     ],
     "industries": [
       "tech",
-      "industrial"
+      "industrial",
+      "financial"
     ],
     "relevance_score": 11
   },
@@ -890,20 +841,20 @@
     "relevance_score": 11
   },
   {
-    "id": "7bee3a3c9519",
-    "title": "Xbox’s first chief operating officer is out after just a few months",
-    "url": "https://www.theverge.com/news/1018037/xbox-chief-operating-officer-helen-chiang-departure",
-    "source": "The Verge",
+    "id": "f6c7705a2177",
+    "title": "Ray-Ban Meta Audio Review: The Best Smart Glasses",
+    "url": "https://www.wired.com/review/ray-ban-meta-audio/",
+    "source": "Wired",
     "source_category": "ai",
-    "published": "2026-10-23T21:39:26+00:00",
-    "summary": "Xbox's first chief operating officer (COO) is leaving after the new role was created just a few months ago. Helen Chiang is leaving Microsoft today, according to an internal Xbox memo seen by The Verge. Chiang has been at Microsoft for 21 years, serving as the head of...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25485116/STK048_XBOX2__B.png?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "published": "2026-10-24T09:15:00+00:00",
+    "summary": "No cameras? No problem. Ditching the surveillance baggage makes Meta’s audio-only frames surprisingly easy to live with.",
+    "image_url": "https://media.wired.com/photos/6adb65de4cb8f4b09a1af178/master/pass/Ray-Ban%20Meta%20Audio%20-%20Lifestyle2.jpg",
     "tags": [
-      "Entertainment",
-      "Gaming",
-      "Microsoft",
-      "News",
-      "Tech"
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Reviews",
+      "smart glasses",
+      "Meta"
     ],
     "industries": [
       "tech",
@@ -912,17 +863,40 @@
     "relevance_score": 11
   },
   {
-    "id": "6f5b87272af4",
-    "title": "First-Line Dato-DXd Improves Intracranial Outcomes in Immunotherapy-Ineligible TNBC With Brain Metastases - OncLive",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxQS2Y1RjB1YmxVS2lDME1KampTbDA0ZmpXSWFuaTFvUkdUeDF0NGt1MzBmcDZPOGNENTE5VGY4TDl4WlNIb2ozRWxNOUIzZVUzcElPTlp4aWVvXzQzZWZXS1JxWFZDd1h1LTRVTk9QRGMydDVmNnZNS1YwVzNObWRzN1VfR05yYlJXWmYtNGhRbGZWQ2hqOVZfc3ZzQy1yR05teXIwRnpMSnhtQVgtb2YxMTdaRkx5UEtpaU1WdzFTOUk?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-10-24T21:26:59+00:00",
-    "summary": "First-Line Dato-DXd Improves Intracranial Outcomes in Immunotherapy-Ineligible TNBC With Brain Metastases OncLive",
+    "id": "79912674b2ce",
+    "title": "I hope Apple’s touchscreen MacBook takes some lessons from this Lenovo laptop",
+    "url": "https://www.theverge.com/report/1018131/apple-macbook-touchscreen-stylus-pencil-lenovo-laptop-analysis",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-10-24T14:00:00+00:00",
+    "summary": "It looks like the long-rumored touchscreen MacBook might actually get announced next week, and after using the Lenovo Yoga 9n for our testing of Nvidia's RTX Spark platform, it got me thinking: this is a lot of what I want from a touchscreen MacBook. Like the Apple silicon in...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268814_Nvidia_RTX_Spark_HP_Lenovo_Yoga_9n_ADiBenedetto_0001.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Apple",
+      "Gadgets",
+      "Laptops",
+      "Lenovo",
+      "macOS"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "b20a128a9a66",
+    "title": "Elon Musk Announces $1 Tipping Feature On X Money As Platform Expands Digital Payments - NDTV Profit",
+    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxOelJza1NRMW5GQUdISmtMS0pMQ2dxRlBIdk1iZG04VVI1WXdXTHZwTURFWU5GZnZSTWJCZGEyR2tjMjh4eHlUbDRsVEFOMU9pUWZGdkFBb2tyNm8xNGNObjJadTVYYlgyT3c1NXMyZjBheWpkQjZfRnI3UGdEbllkX3EyUjFDem4wMVRhY2Znb3lRM1BoNXpYRXdaaFRvVFVjdWZWVkpPN3QtRHRjX1pQdzBqdUFnNnMwSjJNaEYwaHl6MkdCT3fSAc4BQVVfeXFMTUp0SmM5ZkJsXzFlSl9JWDF4S2owLUR6T0RFTVA1VmRyVkZIRFBKeVYzNmkwaGpjZmtDTm5BWUkwSkZteklQbk9PUTRHOXJHQjhaMzdVaWs1M3dqVmtIOXVqb2gtMXdMenpPMFhjOW02MWQ4TElrS2dRYlo2TUEtQXlabE9mLW5OU2JoMmRzN0E4akJ1ZnNKdHFPSnFydGZNblFPRF8zLVZXOW9mcUtvRzd6TGhuZWlNZGN4QVNneWFUWk1US3lfM0g4NTl2SUE?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-10-25T06:48:15+00:00",
+    "summary": "Elon Musk Announces $1 Tipping Feature On X Money As Platform Expands Digital Payments NDTV Profit",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech"
+      "tech",
+      "financial"
     ],
     "relevance_score": 11
   },
@@ -1004,39 +978,24 @@
     "relevance_score": 10
   },
   {
-    "id": "10f059e81394",
-    "title": "The Google Home Speaker Has Been Secretly Eating My Wi-Fi Data",
-    "url": "https://www.wired.com/story/google-home-speaker-bug-oct-2026/",
+    "id": "dbff329b1d46",
+    "title": "A Dating App Is Offering ‘Chivalry Mode’ and ‘Marriage Timeline’ to Get Gen Z Married",
+    "url": "https://www.wired.com/story/a-dating-app-is-offering-chivalry-mode-and-marriage-timeline-to-get-gen-z-married/",
     "source": "Wired",
     "source_category": "ai",
-    "published": "2026-10-22T20:05:51+00:00",
-    "summary": "My Google Home Speaker had been burning through more data than all the rest of my devices combined. As I looked into it further, I found other smart home devices that had the same problem.",
-    "image_url": "https://media.wired.com/photos/6ada2a91587bb57d09e564bf/master/pass/The%20Google%20Home%20Speaker%20Bug%20Is%20Gobbling%20Up%20Wi-Fi%20102026%20top%20art%20SOURCE%20Google.jpg",
+    "published": "2026-10-23T10:15:00+00:00",
+    "summary": "Upward, a newly relaunched Christian app, is pitching trad values to a generation that barely even dates.",
+    "image_url": "https://media.wired.com/photos/6ad9497f7fa1a6118ccee279/master/pass/Culture_Despite%20Being%20Bad%20at%20Dating,%20A%20Lot%20of%20Gen%20Z%20Really%20Wants%20to%20Get%20Married_v1.jpg",
     "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "Gear / Products / Smart Home",
-      "Google Home",
-      "smart speakers"
+      "Culture",
+      "Culture / Digital Culture",
+      "Dating",
+      "tinder",
+      "relationships"
     ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "c34220249d0c",
-    "title": "Zimbabwe wants digital payments to build trust in its newest currency. Why technology alone won’t be enough to save the ZiG - The Conversation",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPS3R5U1RKanBqRGNETUtFM0xGaEl5Tkw3SjVJTEZQUElLSEozMEx5VkxRYVM4bTNyM0ZDa1Z5UE5QRnpTU2xLR3hfTzd3Mk45ME5oR0Z0UEcza0JmVXhKaGxSUkp3ek52bmFQNy12V3QzRF9HNjc2TnV2anhaZjI3Y1hsVmFlODNXMWN2VlRTa1hxdlNYVTJGaExkWFM5bzY1S3hTakdzcl9KazVVUEF4Y1ZkLUI0S2JhSm5WR24xc0JZYkdkUEpXM0dGV1huUzlpLXhUdTJPdEFoOC1mMTc4QWNuOE92ejh1ZHVvMg?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-10-25T06:10:34+00:00",
-    "summary": "Zimbabwe wants digital payments to build trust in its newest currency. Why technology alone won’t be enough to save the ZiG The Conversation",
-    "image_url": null,
-    "tags": [],
     "industries": [
       "tech",
-      "financial"
+      "industrial"
     ],
     "relevance_score": 10
   },
@@ -1086,44 +1045,6 @@
     "industries": [
       "tech",
       "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "458a6f3ec14a",
-    "title": "Microsoft, Opella partner on agentic AI content verification platform",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/microsoft-opella-partner-agentic-ai-content-verification-platform",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-22T12:46:00+00:00",
-    "summary": "The platform—dubbed Lumen—will consist of 14 agents that can perform an array of tasks, from reviewing content product claims and flagging corrections.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2232514171.jpg?VersionId=VwvVk9PfSFHEStjWC3XS9.q9WGuNS0P1",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "832ac47bcb49",
-    "title": "Claude Duet app is Anthropic’s bet on agents",
-    "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-10-22T13:53:26+00:00",
-    "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Claude-Duet.jpg?resize=1200,675",
-    "tags": [
-      "AI",
-      "Apps",
-      "ai agent",
-      "Anthropic",
-      "Claude"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
     ],
     "relevance_score": 9
   },
@@ -1179,63 +1100,6 @@
     "relevance_score": 9
   },
   {
-    "id": "dc90f243d13e",
-    "title": "The Social Society Helping Women Join the AI Boom",
-    "url": "https://www.wired.com/story/aged-intelligence-society-interview/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-10-22T19:56:32+00:00",
-    "summary": "WIRED spoke with the founders of the Aged Intelligence Society, a fast-growing events startup that brings women together to “solve midlife problems using frontier tools.”",
-    "image_url": "https://media.wired.com/photos/6ada7db9ecc44326fbe9e386/master/pass/Model-Behavior-Illo-102226-2.jpg",
-    "tags": [
-      "Business",
-      "Business / Artificial Intelligence",
-      "Model Behavior",
-      "artificial intelligence",
-      "Women in tech"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "6a147386449f",
-    "title": "The Download: testing six tech promises and biotech’s blind spots",
-    "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-10-23T12:10:00+00:00",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s...",
-    "image_url": null,
-    "tags": [
-      "The Download"
-    ],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "b1581680b347",
-    "title": "Score $1,000 off iPhone Duo & pay $0 out of pocket when joining T-Mobile - AppleInsider",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcmwzRDNfTGNMOUJoUEJBM0dwajhBblFqV0NUaFA5Ri1FSVlCWDFueVlaeU12bGZQZDdfVEdkZHVrVm5tSmVpUHNidE9EMVoxWF9rdk5yWXZSYzZHc0hhR0h0T2pLQTg2c2RvcVF0dThSTXp3bWRQZ0lFR0ZncGx1LVJLNUZoWVVibkQ1QUpJVkdwVGxWTVliby1XdVpqbTVKUFFzT3BnTk5mT2xYRnYw?oc=5",
-    "source": "Telecom",
-    "source_category": "industry_telecom",
-    "published": "2026-10-23T14:49:00+00:00",
-    "summary": "Score $1,000 off iPhone Duo & pay $0 out of pocket when joining T-Mobile AppleInsider",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "telecom"
-    ],
-    "relevance_score": 9
-  },
-  {
     "id": "630531eccd00",
     "title": "North Carolina Life Sciences News: Fortrea’s $45 Million Acquisition, United Therapeutics FDA Approval & More - BioBuzz",
     "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNUktrWUxSU0FLRlJta2diRXhGUXFrU2JEMDR0eUtjTE4xdGhQSHNhdWRFczcwX0drTUlEZkEtdmFsb0xneTFaQnFNWnVDS2JWU2lkZDJEODBOQS15eVVVYVpab1BtemNsOFhodXdhSzlQdzl0WHJXR2I5ZUU3YTRZN1E4UnJHTDRyeTZ4cVhndVZ5VGVQa01YS0ZEbTJpSXNNemI1U1lzYTBFWEVEZUd4djRzRnNXSEg2UXpraGpadFlVQy1MRkdz?oc=5",
@@ -1248,21 +1112,6 @@
     "industries": [
       "tech",
       "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "0bb6dba3587b",
-    "title": "U.S. Energy Execs Say They Quit Startup Over Undisclosed Russian Funding - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPNkFiU1FYZGlkMjdSWFp0bVJuVUpfTXRIVFdZZkh3ZUtpLTVhMmswZ2l3SU5IeGF6dkh1SlVKcjRWLVVwRkd0b2c2OGIwYVBndTVGMlRRWkdVczJReTJ1MDZnM1Y1UWE4ajUyUl9ENUNWMEgyNy1vbktiOGhrRzBoTGRxRl9CbHlHTHJBZFFhY1lZSkNLUGo4SjByZ1lxRzE2TlpOaDFidUxxLWFlaXJkUVdkWUV5MGwtRXFrXw?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-10-24T22:24:00+00:00",
-    "summary": "U.S. Energy Execs Say They Quit Startup Over Undisclosed Russian Funding WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
     ],
     "relevance_score": 9
   },
@@ -1319,30 +1168,102 @@
     "relevance_score": 8
   },
   {
-    "id": "878b0bce2190",
-    "title": "The Download: computing’s next leap and permafrost’s climate threat",
-    "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+    "id": "458a6f3ec14a",
+    "title": "Microsoft, Opella partner on agentic AI content verification platform",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/microsoft-opella-partner-agentic-ai-content-verification-platform",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-22T12:46:00+00:00",
+    "summary": "The platform—dubbed Lumen—will consist of 14 agents that can perform an array of tasks, from reviewing content product claims and flagging corrections.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2232514171.jpg?VersionId=VwvVk9PfSFHEStjWC3XS9.q9WGuNS0P1",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "832ac47bcb49",
+    "title": "Claude Duet app is Anthropic’s bet on agents",
+    "url": "https://techcrunch.com/2026/10/22/claude-duet-app-is-anthropics-bet-on-agents/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-10-22T13:53:26+00:00",
+    "summary": "Claude Duet is available through waitlist for Pro and Max plan users.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Claude-Duet.jpg?resize=1200,675",
+    "tags": [
+      "AI",
+      "Apps",
+      "ai agent",
+      "Anthropic",
+      "Claude"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "18cef8004d7d",
+    "title": "Announcing the Top 10 Best Places to Work in Vietnam - Technology - Telecommunications - Digital Transformation Sector - Vietnam.vn",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxQZHVjTHVHdDh3Z3dpWi0zQVVlZGwwdmN4TW5RTkQ0VjQxRTdxcTFBT1VjYUFmRVNaX1FaUVo5d1NFNEVOM2t5RXdjRGwzWFoySlE2NnFlakw4RjlRNTBGdFJmMzF2bFE5VW96djFnaWluekpZd1dVZWM5bHh3Q2tkcEtLS1VpWWtXS0w2cnpmWWFPZnc0VE8yd3pOeEhkN253SWJoZ3FGQmgzS1JVTDlWWHF3?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-10-23T02:22:24+00:00",
+    "summary": "Announcing the Top 10 Best Places to Work in Vietnam - Technology - Telecommunications - Digital Transformation Sector Vietnam.vn",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "6a147386449f",
+    "title": "The Download: testing six tech promises and biotech’s blind spots",
+    "url": "https://www.technologyreview.com/2026/10/23/1147628/the-download-testing-tech-promises-science-blind-spots/",
     "source": "MIT Technology Review",
     "source_category": "ai",
-    "published": "2026-10-22T12:10:00+00:00",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room...",
+    "published": "2026-10-23T12:10:00+00:00",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Are we there yet? A reality check on six big tech promises Some seemingly impossible feats are too good to give up on. Decoding a pet’s...",
     "image_url": null,
     "tags": [
       "The Download"
     ],
     "industries": [
-      "tech"
+      "tech",
+      "industrial",
+      "lifesciences"
     ],
     "relevance_score": 8
   },
   {
-    "id": "f2c7d2f98f35",
-    "title": "US fintech Coast secures $35m for physical economy payments platform - Finextra Research",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWEluSmJ1bjQ3ZTFmam9ZeGxtb2NHSWF2LXNyeWdlRzRjMTBXWjladlVldWdKalF4R09COTNLeDJnWHNRZ2lxaUZzSkp4RU8wQm14dGV5UzI3QnhaUGxBblRxTW1aYW8wUThXeXkwTllXcjVuNEl1RFJmdHFIQWNQQjJIMmdZTGZQcXB6RW5YNGFEZTVnWFQzTTBuRUZoLXZYWFJqVHJZNThZREJWeGtZ?oc=5",
+    "id": "b1581680b347",
+    "title": "Score $1,000 off iPhone Duo & pay $0 out of pocket when joining T-Mobile - AppleInsider",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPcmwzRDNfTGNMOUJoUEJBM0dwajhBblFqV0NUaFA5Ri1FSVlCWDFueVlaeU12bGZQZDdfVEdkZHVrVm5tSmVpUHNidE9EMVoxWF9rdk5yWXZSYzZHc0hhR0h0T2pLQTg2c2RvcVF0dThSTXp3bWRQZ0lFR0ZncGx1LVJLNUZoWVVibkQ1QUpJVkdwVGxWTVliby1XdVpqbTVKUFFzT3BnTk5mT2xYRnYw?oc=5",
+    "source": "Telecom",
+    "source_category": "industry_telecom",
+    "published": "2026-10-23T14:49:00+00:00",
+    "summary": "Score $1,000 off iPhone Duo & pay $0 out of pocket when joining T-Mobile AppleInsider",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "c34220249d0c",
+    "title": "Zimbabwe wants digital payments to build trust in its newest currency. Why technology alone won’t be enough to save the ZiG - The Conversation",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPS3R5U1RKanBqRGNETUtFM0xGaEl5Tkw3SjVJTEZQUElLSEozMEx5VkxRYVM4bTNyM0ZDa1Z5UE5QRnpTU2xLR3hfTzd3Mk45ME5oR0Z0UEcza0JmVXhKaGxSUkp3ek52bmFQNy12V3QzRF9HNjc2TnV2anhaZjI3Y1hsVmFlODNXMWN2VlRTa1hxdlNYVTJGaExkWFM5bzY1S3hTakdzcl9KazVVUEF4Y1ZkLUI0S2JhSm5WR24xc0JZYkdkUEpXM0dGV1huUzlpLXhUdTJPdEFoOC1mMTc4QWNuOE92ejh1ZHVvMg?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-10-23T12:13:00+00:00",
-    "summary": "US fintech Coast secures $35m for physical economy payments platform Finextra Research",
+    "published": "2026-10-25T06:10:34+00:00",
+    "summary": "Zimbabwe wants digital payments to build trust in its newest currency. Why technology alone won’t be enough to save the ZiG The Conversation",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1382,6 +1303,26 @@
       "tech",
       "telecom"
     ],
+    "relevance_score": 7,
+    "also_covered_by": [
+      "Health Tech"
+    ]
+  },
+  {
+    "id": "878b0bce2190",
+    "title": "The Download: computing’s next leap and permafrost’s climate threat",
+    "url": "https://www.technologyreview.com/2026/10/22/1147612/the-download-computing-next-leap-permafrost-climate-threat/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-10-22T12:10:00+00:00",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. How far can we push computing? On a December evening in 1959, the physicist Richard Feynman gave a lecture called “There’s Plenty of Room...",
+    "image_url": null,
+    "tags": [
+      "The Download"
+    ],
+    "industries": [
+      "tech"
+    ],
     "relevance_score": 7
   },
   {
@@ -1398,6 +1339,22 @@
       "tech",
       "industrial",
       "lifesciences"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "f2c7d2f98f35",
+    "title": "US fintech Coast secures $35m for physical economy payments platform - Finextra Research",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWEluSmJ1bjQ3ZTFmam9ZeGxtb2NHSWF2LXNyeWdlRzRjMTBXWjladlVldWdKalF4R09COTNLeDJnWHNRZ2lxaUZzSkp4RU8wQm14dGV5UzI3QnhaUGxBblRxTW1aYW8wUThXeXkwTllXcjVuNEl1RFJmdHFIQWNQQjJIMmdZTGZQcXB6RW5YNGFEZTVnWFQzTTBuRUZoLXZYWFJqVHJZNThZREJWeGtZ?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-10-23T12:13:00+00:00",
+    "summary": "US fintech Coast secures $35m for physical economy payments platform Finextra Research",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
     ],
     "relevance_score": 7
   },
@@ -1495,23 +1452,6 @@
     "relevance_score": 6
   },
   {
-    "id": "21dae5e14cba",
-    "title": "Baton Rouge startup selected for national health tech competition - Baton Rouge Business Report",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb0dJTGVrUEF0bTdyc0ItZVBtY1owWk52Y0poWUkwS1dSSkprWDVSSWxGZ1NLeVJWRWVxT1g5SnR6eHJ6djVzcHh5UWdvM3ZPVDNDN1lBemdSdi00Y3RvaHFhZHhzcFBZbG9jX0dGRkxIOHdOYlNubWlseHp0MXoySmVSbjg2ZDVGMnpDcVVGa0JoeDBTUDFnazNJUUZVUQ?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-22T15:02:47+00:00",
-    "summary": "Baton Rouge startup selected for national health tech competition Baton Rouge Business Report",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 6
-  },
-  {
     "id": "b4e9ac5cb679",
     "title": "International Study Helps Support FDA Approval of HIV Drug for Newborns - UC San Diego Today",
     "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxQTnJ1QUIyV1RUdGlOVkZkbU9UWnNvT1B5QnA4eTVVZ082U1FYTTdCS0dpTkFOOW5qQlktT2lHWERobVZqUGdHbUhBOUpMdXU5ZTRBYVlyZURiQ3hhdlVDU2U3aG5QMFpYRG1VVXBzSkZQdU56MjFLUktsY2YwN2NIaGZXQkNOYkdFOHVkU0VtaFVQeHBfaEo5aG5NdkF6cno3NHc?oc=5",
@@ -1528,50 +1468,18 @@
     "relevance_score": 6
   },
   {
-    "id": "640c35594934",
-    "title": "Technology can boost financial inclusion and digital trust - World Economic Forum",
-    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbzVIaHBKdGpBa080emJLX3JfekZNYlJhYThqY0doc0ZRZEFlMkpuQkJ0MHJ4S3ZFWUR0V0xDN1RWUzBYQ3hqU09ESUxWWmY0Q2hjVTN2SlBITm9vMkpsc09XS2pzM2twdzRVaGdUZzd0THpncTRjS3pVWjRMV0xJb0JidmJ3TGhEMng3TzNnQzJKbWUtR2RSUW5MMERXVFVlMVRLd09vMUVpYWVIN3puY0FXVVRRenF3OFJaYk8wVGF1X3RhUGRSLUNxeEwzVE0?oc=5",
-    "source": "Fintech",
+    "id": "cf74674be37f",
+    "title": "Meta’s Hunt for AI Capital Strikes a Raw Nerve on Wall Street - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNamxuV0c3UW5aNW5Rb0s5N2tRWFRLdXBIZkkzYkZqY3pyUjM3cHhERkY1UHBPZTZZdW10TWc4UmZsYXJwdk5nXzRZRFBFV0FDeWpwR3BXaUlDMExCRXhob3F6QlpTRVNadWlRMlpQWEU3TS1UVWpBMEtGTFZLTDJJQmpjdHFzUXM2dk4yWjBTb3dCcmtYN3BJUWk1cXNTNVY0QVI2QmJMMA?oc=5",
+    "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-10-23T13:58:03+00:00",
-    "summary": "Technology can boost financial inclusion and digital trust World Economic Forum",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "5096f6f1258d",
-    "title": "Shopping is Muse’s top task: Meta - Payments Dive",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OQXNONW5VODNyWU84Ti1KWFp1bnZrM2tWOGw1NzJyUk94Q0Y4MHY4M0RlYUNRMG5iUXZHTVFPT05YOXUwTkphTDRHb3djb2ZFOGJKTTdtNXBJSVViTVlxaVJuQmszVk0xWXhnV1Jnd0Z2RjVaZkhhTDlQZzgwQQ?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-10-23T14:05:00+00:00",
-    "summary": "Shopping is Muse’s top task: Meta Payments Dive",
+    "published": "2026-10-22T20:55:00+00:00",
+    "summary": "Meta’s Hunt for AI Capital Strikes a Raw Nerve on Wall Street WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "retail",
       "financial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "9217e9257981",
-    "title": "One day, three approvals: FDA expands options for ocular redness, thyroid eye disease, and presbyopia - Ophthalmology Times",
-    "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNbjMwOFpyaUhKTXN4dWE3aFNOZEtwTU9jZzFfZjk2MEp1ak5QckRGSVlxWG4tT3JhSzNLR1F0YU9iM1RsaERJSlJUaEpkZUxLTkwtXy0yT3NGVzUxbHB4eEtfVzM3dDhtcWxQaEF0MmlDQi1xcWtKckJJdEV1ZGZiVFE0VlowWDF2Rm9JeXV6MkR1THVRcEtBRHR4LTZhYVdqdjNZVHpvdWhSTUJuaUtKVmFLVS12YVppSmNBMGpMODNycFlHZndLM2VUQm9qMGFRMWpn?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-23T16:44:47+00:00",
-    "summary": "One day, three approvals: FDA expands options for ocular redness, thyroid eye disease, and presbyopia Ophthalmology Times",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
     ],
     "relevance_score": 6
   },
@@ -1587,6 +1495,22 @@
     "tags": [],
     "industries": [
       "tech"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "e38ac8b4d89b",
+    "title": "FDA approves breakthrough drug to treat advanced pancreatic cancer - ABC News - Breaking News, Latest News and Videos",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQXzVOaEFzN0VYZFQ1VGFmaFZsVUNRTmg5TGhOTk1MVDBSVENmejFfQmJta29jaDJ4Qk5NWTkxc2QzRUhpRDJleU9BZTkxYUV4YzZDRnNIY2tkeHJMcTF5S0ZKV3lGVFAwTXlGYkE4QXRna1VOQ2RmVXE4eTl6TjdRS09XUFlqaFBOQmN2aDN0d3E1Y1pvZDlfcmJSVlF0dVZwbFpUamhBLWIyUTVJVFHSAbMBQVVfeXFMUFFHQm1SOGhLWmFEZ29HVmNYSnEzcnAwZjdvMXhwT2pWbkhTMzY4ZkUxT1IwYlFVZy1oSXl6a0E0V3I1czJKdko2SHJaWUZSNU5OaDU5b1BfNkVRNjJ4aHFzN3NRYnNPZndPQmhoVXpOZEhmY0JvbmVKSWNaRnkxdlVNWHdoazhGY2lMSnpXZnZ4YTJ0Z19RNDdSQ0VsM3hoUm1YWjJuN0ZMdlphSkZNWWNGUmM?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-24T09:47:19+00:00",
+    "summary": "FDA approves breakthrough drug to treat advanced pancreatic cancer ABC News - Breaking News, Latest News and Videos",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
     ],
     "relevance_score": 6
   },
@@ -1623,21 +1547,6 @@
     "relevance_score": 5
   },
   {
-    "id": "c722c1aad56c",
-    "title": "AI Can Spot the Signal, Who Decides What Happens Next? - CX Today",
-    "url": "https://news.google.com/rss/articles/CBMifEFVX3lxTE1aX1lCbW5vMkZWTEZ3ekxJMzlNbkhTQmJodVJkVVV4OTVJNmd1Q0pBNVFlUVlyNGhTNmxqOXBweHItUnVXaVZ1RU9YekN4dGJoa0ZYU21oQ0JxelRPdWJQUzlnREVJQXZnNWZtMk1pU0M0QV8tdmFyTWtHZ0o?oc=5",
-    "source": "AI Personalization",
-    "source_category": "ai_marketing",
-    "published": "2026-10-20T15:25:18+00:00",
-    "summary": "AI Can Spot the Signal, Who Decides What Happens Next? CX Today",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 5
-  },
-  {
     "id": "e9daa65d2da6",
     "title": "FDA Grants Accelerated Approval to Jemperli | PharmExec - Pharmaceutical Executive",
     "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxQbkZ1LUctTXZxSk0xeGhSQ0hMQWVnRUF0OTRMRjQ4dENiNnFlMWwwT09zU2s1T3AxRld3a3hNdHhWZ2tUeGhINWF4UVVnQ2pjUjJUNFpBNGU2X2dXM014azk5SjJ0anQ0dVJoTGNGX01Fa1l0YW5PVmhKLVg1TW05bzZUcw?oc=5",
@@ -1649,23 +1558,6 @@
     "tags": [],
     "industries": [
       "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "dab0ebfecafa",
-    "title": "FDA approves first generic estradiol/levonorgestrel weekly patch - Contemporary OB/GYN",
-    "url": "https://news.google.com/rss/articles/CBMipgFBVV95cUxNanYxcGJRYUVJUm4zSUlPMFQ2RHBYSmdUeWFjT1R5YkYyUUhFclN3RTFWazlIcEZZWXJvS0lqbkllaC05dHJDZkVmQkgtcVVaVUxvbW1QZXhvamtfWXVGcGFuTmdQdy1yS0NTX2ZVZWZKcDdITlA2cGd1T2FiQzU4Q1FPY0RUMFJyUlRDWWhLVEdQYUpkbjJ5T1BHbVFpMVB3RWQxUElR?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-20T17:32:40+00:00",
-    "summary": "FDA approves first generic estradiol/levonorgestrel weekly patch Contemporary OB/GYN",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 5
@@ -1737,6 +1629,23 @@
     "relevance_score": 5
   },
   {
+    "id": "21dae5e14cba",
+    "title": "Baton Rouge startup selected for national health tech competition - Baton Rouge Business Report",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOb0dJTGVrUEF0bTdyc0ItZVBtY1owWk52Y0poWUkwS1dSSkprWDVSSWxGZ1NLeVJWRWVxT1g5SnR6eHJ6djVzcHh5UWdvM3ZPVDNDN1lBemdSdi00Y3RvaHFhZHhzcFBZbG9jX0dGRkxIOHdOYlNubWlseHp0MXoySmVSbjg2ZDVGMnpDcVVGa0JoeDBTUDFnazNJUUZVUQ?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-22T15:02:47+00:00",
+    "summary": "Baton Rouge startup selected for national health tech competition Baton Rouge Business Report",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
     "id": "41402dc4d301",
     "title": "FDA Grants Ultomiris Accelerated Approval in the U.S. | PharmExec - Pharmaceutical Executive",
     "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOeVZ2OVQ0RDIybkZhWEYxbHgxeUpKRTVnS3RsbVBjUmdaS2dnY1BRYThQQzNGODBPa3pmSEt4cjd5dGEwV3lmRWVmcWlIQkIya01RRThQUDRMX3pwenY1WjJNRjQzZWQtZFFqS0ZEdDlBQUNET1Zhc1ZaR3o4eDdENHYxN1lIaVRsSFE?oc=5",
@@ -1749,6 +1658,38 @@
     "industries": [
       "tech",
       "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "640c35594934",
+    "title": "Technology can boost financial inclusion and digital trust - World Economic Forum",
+    "url": "https://news.google.com/rss/articles/CBMizwFBVV95cUxQbzVIaHBKdGpBa080emJLX3JfekZNYlJhYThqY0doc0ZRZEFlMkpuQkJ0MHJ4S3ZFWUR0V0xDN1RWUzBYQ3hqU09ESUxWWmY0Q2hjVTN2SlBITm9vMkpsc09XS2pzM2twdzRVaGdUZzd0THpncTRjS3pVWjRMV0xJb0JidmJ3TGhEMng3TzNnQzJKbWUtR2RSUW5MMERXVFVlMVRLd09vMUVpYWVIN3puY0FXVVRRenF3OFJaYk8wVGF1X3RhUGRSLUNxeEwzVE0?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-10-23T13:58:03+00:00",
+    "summary": "Technology can boost financial inclusion and digital trust World Economic Forum",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "5096f6f1258d",
+    "title": "Shopping is Muse’s top task: Meta - Payments Dive",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE1OQXNONW5VODNyWU84Ti1KWFp1bnZrM2tWOGw1NzJyUk94Q0Y4MHY4M0RlYUNRMG5iUXZHTVFPT05YOXUwTkphTDRHb3djb2ZFOGJKTTdtNXBJSVViTVlxaVJuQmszVk0xWXhnV1Jnd0Z2RjVaZkhhTDlQZzgwQQ?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-10-23T14:05:00+00:00",
+    "summary": "Shopping is Muse’s top task: Meta Payments Dive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "financial"
     ],
     "relevance_score": 5
   }

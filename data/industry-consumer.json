@@ -14,7 +14,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 56
+    "relevance_score": 53
   },
   {
     "id": "96c2f70dc015",
@@ -33,7 +33,49 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 54
+    "relevance_score": 51
+  },
+  {
+    "id": "6cec2c2d6a99",
+    "title": "The World’s Best Bourbon—According To The 2026 San Francisco World Spirits Competition",
+    "url": "https://www.forbes.com/sites/bradjaphe/2026/10/25/the-worlds-best-bourbon-according-to-the-2026-san-francisco-world-spirits-competition/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-10-25T08:34:00+00:00",
+    "summary": "For the third year in a row, the prestigious tasting panel has named this Kentucky brand the most awarded American whiskey maker on earth by the prestigious tasting panel",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6add1957a0a4747f9183bb3a/0x0.jpg",
+    "tags": [
+      "Spirits",
+      "/spirits",
+      "Lifestyle",
+      "/lifestyle",
+      "Spirits"
+    ],
+    "industries": [
+      "consumer"
+    ],
+    "relevance_score": 48
+  },
+  {
+    "id": "8480b7b278ad",
+    "title": "We Linked 150 of Ikea’s $10 Speakers to Make a Wall of Sound",
+    "url": "https://www.wired.com/story/we-linked-150-ikea-speakers-to-make-a-wall-of-sound/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-10-25T09:00:00+00:00",
+    "summary": "WIRED attempts what even the Swedish brand hasn’t: making a sonic monolith using scores of the cheapest Bluetooth speakers on the market. Can you have too much of a small thing?",
+    "image_url": "https://media.wired.com/photos/6adbbf9958a88c588ff834c3/master/pass/Ikea%20Kallsup%20SOURCE%20Jeremy%20White-resized.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "Gear / Products / Speakers",
+      "Ikea",
+      "wireless speakers"
+    ],
+    "industries": [
+      "consumer"
+    ],
+    "relevance_score": 48
   },
   {
     "id": "93820e9ece09",
@@ -53,7 +95,7 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 47
+    "relevance_score": 44
   },
   {
     "id": "422375b8b6e6",
@@ -70,47 +112,6 @@
     ],
     "industries": [
       "retail",
-      "consumer"
-    ],
-    "relevance_score": 43
-  },
-  {
-    "id": "bd64fba72f78",
-    "title": "Dentsu X’s Bruce Williams Explains That Campaigns Can Overcome Fragmentation",
-    "url": "https://www.adweek.com/brand-marketing/dentsu-x-bruce-williams-explains-that-campaigns-can-overcome-fragmentation/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-10-23T11:05:51+00:00",
-    "summary": "Bruce Williams, CEO of Dentsu X North America, talks breaking down media silos at Brandweek.",
-    "image_url": null,
-    "tags": [
-      "Advertising/Marketing",
-      "Branding",
-      "Brands",
-      "Brandweek",
-      "Business of Marketing"
-    ],
-    "industries": [
-      "media",
-      "consumer"
-    ],
-    "relevance_score": 43
-  },
-  {
-    "id": "11f91d0647f5",
-    "title": "Personalization knows what customers want, not who they are",
-    "url": "https://martech.org/personalization-knows-what-customers-want-not-who-they-are/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-10-23T12:55:00+00:00",
-    "summary": "Useful offers are common. Meaningful recognition is not, and consumers are quick to walk when brands ask for too much without a clear reason. The post Personalization knows what customers want, not who they are appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-1.55.26-PM.png",
-    "tags": [
-      "Customer relationship management (CRM)",
-      "MarTechCharts"
-    ],
-    "industries": [
-      "tech",
       "consumer"
     ],
     "relevance_score": 43
@@ -176,6 +177,47 @@
     "relevance_score": 40
   },
   {
+    "id": "bd64fba72f78",
+    "title": "Dentsu X’s Bruce Williams Explains That Campaigns Can Overcome Fragmentation",
+    "url": "https://www.adweek.com/brand-marketing/dentsu-x-bruce-williams-explains-that-campaigns-can-overcome-fragmentation/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-10-23T11:05:51+00:00",
+    "summary": "Bruce Williams, CEO of Dentsu X North America, talks breaking down media silos at Brandweek.",
+    "image_url": null,
+    "tags": [
+      "Advertising/Marketing",
+      "Branding",
+      "Brands",
+      "Brandweek",
+      "Business of Marketing"
+    ],
+    "industries": [
+      "media",
+      "consumer"
+    ],
+    "relevance_score": 40
+  },
+  {
+    "id": "11f91d0647f5",
+    "title": "Personalization knows what customers want, not who they are",
+    "url": "https://martech.org/personalization-knows-what-customers-want-not-who-they-are/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-10-23T12:55:00+00:00",
+    "summary": "Useful offers are common. Meaningful recognition is not, and consumers are quick to walk when brands ask for too much without a clear reason. The post Personalization knows what customers want, not who they are appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/10/Screenshot-2026-10-22-at-1.55.26-PM.png",
+    "tags": [
+      "Customer relationship management (CRM)",
+      "MarTechCharts"
+    ],
+    "industries": [
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 40
+  },
+  {
     "id": "43a708f921ba",
     "title": "Creator content shapes AI product recommendations",
     "url": "https://martech.org/creator-content-shapes-ai-product-recommendations/",
@@ -192,7 +234,7 @@
       "tech",
       "consumer"
     ],
-    "relevance_score": 40
+    "relevance_score": 37
   },
   {
     "id": "83556c386cfa",
@@ -206,44 +248,6 @@
     "tags": [],
     "industries": [
       "media",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 39
-  },
-  {
-    "id": "30c6c6e84a3c",
-    "title": "My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale",
-    "url": "https://www.wired.com/story/joybird-semi-annual-sale-2026/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-10-24T10:30:00+00:00",
-    "summary": "The Joybird Eliot Sleeper, plus hundreds of other options, are up to 40 percent off during the brand’s Semiannual sale.",
-    "image_url": "https://media.wired.com/photos/6adba966042fe07bfaca19da/master/pass/Joybird%20Deals%20Post%20102026%20top%20art%20SOURCE%20Joybird.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "Gear / Products / Home",
-      "Shopping",
-      "Deals"
-    ],
-    "industries": [
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 37
-  },
-  {
-    "id": "562fa798a2d1",
-    "title": "Halloween 2026’s best campaigns—and what they can teach brands - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlBGb09FM2FHbmRqNFpDZ3JXWDdfakJFR3E3YklwMjg2UFBSWnMteFA1LUxJVHBVVTZ1cWNleG43MFQwMW1sWE5PWTZZcXpjTHh0M1c3dlN0d080RElJbklPcngyalFKQnlSWjlOak1uVmRTcXdXZnVXOU9yX0NyMk5Pb01xLU9vOGVLRS0wZElRSE42TGNiV1hDZ2kxS2c?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-10-23T09:00:00+00:00",
-    "summary": "Halloween 2026’s best campaigns—and what they can teach brands Ad Age",
-    "image_url": null,
-    "tags": [],
-    "industries": [
       "consumer",
       "industrial"
     ],
@@ -268,6 +272,61 @@
       "industrial"
     ],
     "relevance_score": 35
+  },
+  {
+    "id": "2d0eb2f4eac4",
+    "title": "Stagwell Relaunches Agentic Services Under Umbrella 'AI' Brand 10/20/2026 - MediaPost",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRmVVWGo2eEZMUjNDY2FyOFg4RnhTMm1HelBVRS04N0FSQ2JYMXpjc0FRMGpFTko2cklkOWZOT3VneGVXeW9EOFVqVDRTNFJrZVJpYzFHRDdSTzQzQVEzWjE4eldqNzVVdk9PZk9FZmRCR2NTZnU5akUweXRiYV9DNVZLZVFBRmxGTHhQRlJYcFF5aVlVNkJvRFliVTdULVdtZ1NJeVktdDZNOVYxdHc?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-10-24T10:26:05+00:00",
+    "summary": "Stagwell Relaunches Agentic Services Under Umbrella 'AI' Brand 10/20/2026 MediaPost",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 35
+  },
+  {
+    "id": "562fa798a2d1",
+    "title": "Halloween 2026’s best campaigns—and what they can teach brands - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxNYlBGb09FM2FHbmRqNFpDZ3JXWDdfakJFR3E3YklwMjg2UFBSWnMteFA1LUxJVHBVVTZ1cWNleG43MFQwMW1sWE5PWTZZcXpjTHh0M1c3dlN0d080RElJbklPcngyalFKQnlSWjlOak1uVmRTcXdXZnVXOU9yX0NyMk5Pb01xLU9vOGVLRS0wZElRSE42TGNiV1hDZ2kxS2c?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-10-23T09:00:00+00:00",
+    "summary": "Halloween 2026’s best campaigns—and what they can teach brands Ad Age",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 33
+  },
+  {
+    "id": "30c6c6e84a3c",
+    "title": "My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale",
+    "url": "https://www.wired.com/story/joybird-semi-annual-sale-2026/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-10-24T10:30:00+00:00",
+    "summary": "The Joybird Eliot Sleeper, plus hundreds of other options, are up to 40 percent off during the brand’s Semiannual sale.",
+    "image_url": "https://media.wired.com/photos/6adba966042fe07bfaca19da/master/pass/Joybird%20Deals%20Post%20102026%20top%20art%20SOURCE%20Joybird.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "Gear / Products / Home",
+      "Shopping",
+      "Deals"
+    ],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 33
   },
   {
     "id": "8cb1a9ef008f",
@@ -306,23 +365,6 @@
     "relevance_score": 30
   },
   {
-    "id": "2d0eb2f4eac4",
-    "title": "Stagwell Relaunches Agentic Services Under Umbrella 'AI' Brand 10/20/2026 - MediaPost",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQRmVVWGo2eEZMUjNDY2FyOFg4RnhTMm1HelBVRS04N0FSQ2JYMXpjc0FRMGpFTko2cklkOWZOT3VneGVXeW9EOFVqVDRTNFJrZVJpYzFHRDdSTzQzQVEzWjE4eldqNzVVdk9PZk9FZmRCR2NTZnU5akUweXRiYV9DNVZLZVFBRmxGTHhQRlJYcFF5aVlVNkJvRFliVTdULVdtZ1NJeVktdDZNOVYxdHc?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-10-20T13:01:16+00:00",
-    "summary": "Stagwell Relaunches Agentic Services Under Umbrella 'AI' Brand 10/20/2026 MediaPost",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 29
-  },
-  {
     "id": "3b055759cd59",
     "title": "David’s Bridal to spin off Pearl into stand-alone, publicly traded company",
     "url": "https://www.retaildive.com/news/davids-bridal-spin-off-pearl-AI-stand-alone-publicly-traded-company/833699/",
@@ -335,22 +377,6 @@
     "industries": [
       "retail",
       "consumer"
-    ],
-    "relevance_score": 29
-  },
-  {
-    "id": "f893f65a1022",
-    "title": "How creators’ business expansions are changing the economics of brand partnerships - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSUxQMTlJbGRjMGNUZU1kV3JVWndqcnpiZjZwWjVObUlucHVkUnludjQ1eFIxSW94Y1dDZTExQThrY0FCbTBDM3lLRVJ4OUZZWGJpOHFxWnpxYXVEczJGQ05fTkMwWWxRZjhUUVVNcC1oS0p4N1VERk1nVHRWZ0lpNWNBME1FMk9WLXk0OFZ0TUZ1M2tzaWVZ?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-10-23T09:03:00+00:00",
-    "summary": "How creators’ business expansions are changing the economics of brand partnerships Ad Age",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "consumer",
-      "industrial"
     ],
     "relevance_score": 29
   },
@@ -386,17 +412,16 @@
     "relevance_score": 27
   },
   {
-    "id": "41467cf72fef",
-    "title": "Deloitte: How consumers use AI for personalization & how brands respond - Chain Store Age",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOblZRMm5aXzVkRjUyUUZzUnNDeG1pZFNIdEtZUW8zOXZmbmEtV2V2bG5UQlA5UHd1QzVGWS02bjYzVVJucWlaSE9TdlpoeU5VZnJFZmRFSGU2dmpDQkJqbVY2Y1IzamVpTUswUXAwM2FqRmZNY29BVFI0Z2NybTBOWE1aQldDWFpkcmI3eExhZWdPdkdE?oc=5",
-    "source": "AI Personalization",
-    "source_category": "ai_marketing",
-    "published": "2026-10-23T12:41:50+00:00",
-    "summary": "Deloitte: How consumers use AI for personalization & how brands respond Chain Store Age",
+    "id": "f893f65a1022",
+    "title": "How creators’ business expansions are changing the economics of brand partnerships - Ad Age",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPSUxQMTlJbGRjMGNUZU1kV3JVWndqcnpiZjZwWjVObUlucHVkUnludjQ1eFIxSW94Y1dDZTExQThrY0FCbTBDM3lLRVJ4OUZZWGJpOHFxWnpxYXVEczJGQ05fTkMwWWxRZjhUUVVNcC1oS0p4N1VERk1nVHRWZ0lpNWNBME1FMk9WLXk0OFZ0TUZ1M2tzaWVZ?oc=5",
+    "source": "Ad Age",
+    "source_category": "marketing",
+    "published": "2026-10-23T09:03:00+00:00",
+    "summary": "How creators’ business expansions are changing the economics of brand partnerships Ad Age",
     "image_url": null,
     "tags": [],
     "industries": [
-      "retail",
       "consumer",
       "industrial"
     ],
@@ -419,6 +444,23 @@
     "relevance_score": 23
   },
   {
+    "id": "41467cf72fef",
+    "title": "Deloitte: How consumers use AI for personalization & how brands respond - Chain Store Age",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOblZRMm5aXzVkRjUyUUZzUnNDeG1pZFNIdEtZUW8zOXZmbmEtV2V2bG5UQlA5UHd1QzVGWS02bjYzVVJucWlaSE9TdlpoeU5VZnJFZmRFSGU2dmpDQkJqbVY2Y1IzamVpTUswUXAwM2FqRmZNY29BVFI0Z2NybTBOWE1aQldDWFpkcmI3eExhZWdPdkdE?oc=5",
+    "source": "AI Personalization",
+    "source_category": "ai_marketing",
+    "published": "2026-10-23T12:41:50+00:00",
+    "summary": "Deloitte: How consumers use AI for personalization & how brands respond Chain Store Age",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 23
+  },
+  {
     "id": "39a9fa573639",
     "title": "Best Full-Service Agencies for DTC and CPG Brands in 2026: Y’all Ranks First for Creative and Media Buying From One Team - StreetInsider",
     "url": "https://news.google.com/rss/articles/CBMijwJBVV95cUxQdjBDdUQ1VTF0SzJHZEFMeXlhNkZGWHdtdDhEVTFFQ3Zla3pVYUhPNVNyUDljaTZiQlZ2TU9feURfWmwxVDJQX0FZVnJhRUx1dERNUndNR2ZSaHJfVDhBd3lfbHVmX3VzMUczZFRYMVRkOW5IVmhoWjBqWTRmaUk4UmtTNWlYSnA2MnlObkpCQ1RhVmxhMDdHWEtJbmRQZnZWT0FvOFJwcU80aDFXTG53NVZUMFQ4alRlOE5xSTI2ejh2LUduYzhJS1U5NURxbWlvdzE2Ymk1MEZJWUVYS1RFYlY1ZnpfWXpoeFE5NXRmUy1oZHQ3SWFNc0NaSVF5Y0lpX3hSalBOSXM3T3lPem9r?oc=5",
@@ -432,22 +474,6 @@
       "media",
       "consumer",
       "industrial"
-    ],
-    "relevance_score": 22
-  },
-  {
-    "id": "f564eb1822b9",
-    "title": "Verizon and Harley-Davidson Take Different Paths to Brand Reinvention - Chief Marketer",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxObWw2cjhUYi1XQmtXUU1aZnJ1UDRHTVdqMFd0TFZ3bnFJTTVnV09SQUhoUXlzWUZIVko5ai1aeVVLVm9YY2FuMTlLNHQzWU02SDVMUXljTU9KMlBlVm1oTmdrSjVkMFpoZ3ozVDRVTXAxZ2UzLW9ReTRGWnNzb2xzNnZrNWNRUXpCRkJDRndiZndPX2FkSXpoVXhhOFFCaUd2UlE?oc=5",
-    "source": "Telecom",
-    "source_category": "industry_telecom",
-    "published": "2026-10-23T19:52:18+00:00",
-    "summary": "Verizon and Harley-Davidson Take Different Paths to Brand Reinvention Chief Marketer",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "consumer"
     ],
     "relevance_score": 22
   },
