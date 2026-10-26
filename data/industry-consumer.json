@@ -14,7 +14,7 @@
       "retail",
       "consumer"
     ],
-    "relevance_score": 67,
+    "relevance_score": 64,
     "also_covered_by": [
       "Ad Age"
     ]
@@ -32,7 +32,7 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 64
+    "relevance_score": 58
   },
   {
     "id": "b43f048a88c0",
@@ -49,7 +49,7 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 59
+    "relevance_score": 56
   },
   {
     "id": "92166e3ffded",
@@ -69,7 +69,25 @@
     "industries": [
       "consumer"
     ],
-    "relevance_score": 59
+    "relevance_score": 56
+  },
+  {
+    "id": "3cb153f5bd7d",
+    "title": "Peak-Ready Precision: The October 2026 B2C Commerce Release",
+    "url": "https://www.salesforce.com/blog/b2c-commerce-october-26-release/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-26T21:21:58+00:00",
+    "summary": "Time is money, especially during the holiday shopping season when every second matters for your brand’s bottom line. When merchandisers spend hours clicking through catalog hierarchies, or developers burn an entire afternoon building…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/Innovations-Page-B2C-Page-Awareness_620x413.png",
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "retail",
+      "consumer"
+    ],
+    "relevance_score": 51
   },
   {
     "id": "62d747f5aea4",
@@ -87,50 +105,6 @@
       "industrial"
     ],
     "relevance_score": 50
-  },
-  {
-    "id": "4e68b43269b1",
-    "title": "Media Buying Briefing: Brands push toward retail and social while buyers ponder storm clouds",
-    "url": "https://digiday.com/media-buying/media-buying-briefing-brands-push-toward-retail-and-social-while-buyers-ponder-storm-clouds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-10-26T04:01:00+00:00",
-    "summary": "Ad dollars are flowing towards usual suspects in Q4 but media buyers say midterms give reasonsto be cautious.",
-    "image_url": null,
-    "tags": [
-      "Media Buying",
-      "Digiday+",
-      "mediabuyingbriefing"
-    ],
-    "industries": [
-      "media",
-      "tech",
-      "retail",
-      "consumer"
-    ],
-    "relevance_score": 49
-  },
-  {
-    "id": "f49270645399",
-    "title": "Google Sells Itself As A Commerce ‘Matchmaker,’ Not A Retailer",
-    "url": "https://www.adweek.com/commerce/google-sells-itself-as-a-commerce-matchmaker-not-a-retailer/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-10-26T11:51:00+00:00",
-    "summary": "The search giant wants to control how people discover new brands.",
-    "image_url": null,
-    "tags": [
-      "AI News",
-      "Ecommerce News",
-      "Premium",
-      "Retail News"
-    ],
-    "industries": [
-      "tech",
-      "retail",
-      "consumer"
-    ],
-    "relevance_score": 49
   },
   {
     "id": "468749432c77",
@@ -154,40 +128,48 @@
     "relevance_score": 48
   },
   {
-    "id": "d77815ff6283",
-    "title": "Midterm political spending throws spanner into regional advertiser holiday plans",
-    "url": "https://digiday.com/media-buying/midterm-political-spending-throws-spanner-into-regional-advertiser-holiday-plans/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "id": "4e68b43269b1",
+    "title": "Media Buying Briefing: Brands push toward retail and social while buyers ponder storm clouds",
+    "url": "https://digiday.com/media-buying/media-buying-briefing-brands-push-toward-retail-and-social-while-buyers-ponder-storm-clouds/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
     "source": "Digiday",
     "source_category": "marketing",
     "published": "2026-10-26T04:01:00+00:00",
-    "summary": "Rising political ad spend is making life harder for regional and local brands hoping to use CTV ads to reach consumers in Q4.",
+    "summary": "Ad dollars are flowing towards usual suspects in Q4 but media buyers say midterms give reasonsto be cautious.",
     "image_url": null,
     "tags": [
-      "Media Buying"
+      "Media Buying",
+      "Digiday+",
+      "mediabuyingbriefing"
     ],
     "industries": [
       "media",
+      "tech",
+      "retail",
       "consumer"
     ],
-    "relevance_score": 45
+    "relevance_score": 46
   },
   {
-    "id": "361c59f7ac45",
-    "title": "The Daily Mail tests GEO with brands ahead of AI visibility product",
-    "url": "https://digiday.com/media/the-daily-mail-tests-geo-with-brands-ahead-of-ai-visibility-product/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
+    "id": "f49270645399",
+    "title": "Google Sells Itself As A Commerce ‘Matchmaker,’ Not A Retailer",
+    "url": "https://www.adweek.com/commerce/google-sells-itself-as-a-commerce-matchmaker-not-a-retailer/",
+    "source": "Adweek",
     "source_category": "marketing",
-    "published": "2026-10-26T04:01:00+00:00",
-    "summary": "The Daily Mail is running around a dozen GEO tests to work out what works before turning its AI visibility offering into an official product early next year.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-identity-digiday.jpg",
+    "published": "2026-10-26T11:51:00+00:00",
+    "summary": "The search giant wants to control how people discover new brands.",
+    "image_url": null,
     "tags": [
-      "Media"
+      "AI News",
+      "Ecommerce News",
+      "Premium",
+      "Retail News"
     ],
     "industries": [
-      "consumer",
-      "industrial"
+      "tech",
+      "retail",
+      "consumer"
     ],
-    "relevance_score": 45
+    "relevance_score": 46
   },
   {
     "id": "422375b8b6e6",
@@ -207,6 +189,42 @@
       "consumer"
     ],
     "relevance_score": 43
+  },
+  {
+    "id": "d77815ff6283",
+    "title": "Midterm political spending throws spanner into regional advertiser holiday plans",
+    "url": "https://digiday.com/media-buying/midterm-political-spending-throws-spanner-into-regional-advertiser-holiday-plans/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-10-26T04:01:00+00:00",
+    "summary": "Rising political ad spend is making life harder for regional and local brands hoping to use CTV ads to reach consumers in Q4.",
+    "image_url": null,
+    "tags": [
+      "Media Buying"
+    ],
+    "industries": [
+      "media",
+      "consumer"
+    ],
+    "relevance_score": 42
+  },
+  {
+    "id": "361c59f7ac45",
+    "title": "The Daily Mail tests GEO with brands ahead of AI visibility product",
+    "url": "https://digiday.com/media/the-daily-mail-tests-geo-with-brands-ahead-of-ai-visibility-product/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-10-26T04:01:00+00:00",
+    "summary": "The Daily Mail is running around a dozen GEO tests to work out what works before turning its AI visibility offering into an official product early next year.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/10/ai-identity-digiday.jpg",
+    "tags": [
+      "Media"
+    ],
+    "industries": [
+      "consumer",
+      "industrial"
+    ],
+    "relevance_score": 42
   },
   {
     "id": "93820e9ece09",
@@ -351,28 +369,6 @@
     "summary": "Halloween 2026’s best campaigns—and what they can teach brands Ad Age",
     "image_url": null,
     "tags": [],
-    "industries": [
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 30
-  },
-  {
-    "id": "30c6c6e84a3c",
-    "title": "My Favorite Sofa Is Discounted for Joybird’s Semiannual Sale",
-    "url": "https://www.wired.com/story/joybird-semi-annual-sale-2026/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-10-24T10:30:00+00:00",
-    "summary": "The Joybird Eliot Sleeper, plus hundreds of other options, are up to 40 percent off during the brand’s Semiannual sale.",
-    "image_url": "https://media.wired.com/photos/6adba966042fe07bfaca19da/master/pass/Joybird%20Deals%20Post%20102026%20top%20art%20SOURCE%20Joybird.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Deals",
-      "Gear / Products / Home",
-      "Shopping",
-      "Deals"
-    ],
     "industries": [
       "consumer",
       "industrial"
