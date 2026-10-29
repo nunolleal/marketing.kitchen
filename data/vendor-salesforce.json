@@ -13,7 +13,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 41
+    "relevance_score": 38
   },
   {
     "id": "ca4cd76fc155",
@@ -28,25 +28,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 40
-  },
-  {
-    "id": "3cb153f5bd7d",
-    "title": "Peak-Ready Precision: The October 2026 B2C Commerce Release",
-    "url": "https://www.salesforce.com/blog/b2c-commerce-october-26-release/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-26T21:21:58+00:00",
-    "summary": "Time is money, especially during the holiday shopping season when every second matters for your brand’s bottom line. When merchandisers spend hours clicking through catalog hierarchies, or developers burn an entire afternoon building…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/Innovations-Page-B2C-Page-Awareness_620x413.png",
-    "tags": [],
-    "industries": [
-      "media",
-      "tech",
-      "retail",
-      "consumer"
-    ],
-    "relevance_score": 35
+    "relevance_score": 37
   },
   {
     "id": "1acb44ed0fd7",
@@ -61,41 +43,53 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 32,
+    "relevance_score": 29,
     "also_covered_by": [
+      "Telecom 5G",
+      "Telecom",
       "Adobe"
     ]
   },
   {
-    "id": "a2b1ff92e439",
-    "title": "Beyond Collaboration: CRM and Slack Are Slaying Sales Goals",
-    "url": "https://www.salesforce.com/blog/small-business/crm-and-slack-for-sales-goals/",
+    "id": "e150dfe9355e",
+    "title": "7 Architectural Lessons From Building With the Tooling API",
+    "url": "https://www.salesforce.com/blog/tooling-api-architectural-lessons/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-10-26T13:00:00+00:00",
-    "summary": "Your sales cycle is losing time to the spaces between conversations — here's how Slack and CRM gets deals moving faster.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_c911ed.png",
+    "published": "2026-10-29T14:17:38+00:00",
+    "summary": "Practical lessons for working with the Tooling API, from understanding its object model and managing dependencies to handling asynchronous execution and designing safer destructive operations.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/7-Architectural-Lessons-From-Building-with-the-Tooling-API-1.png",
     "tags": [],
     "industries": [
-      "industrial"
+      "tech"
     ],
-    "relevance_score": 30
+    "relevance_score": 16
   },
   {
-    "id": "b42fda093251",
-    "title": "4 Takeaways From the State of Agentic AI Report for Small Business",
-    "url": "https://www.salesforce.com/blog/small-business/takeaways-from-the-state-of-agentic-ai-report-for-smb/",
+    "id": "a06c0b6a2712",
+    "title": "Do AI Experiences Enable Human Strengths to Shine?",
+    "url": "https://www.salesforce.com/blog/human-ai-interaction-research/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-10-27T13:00:00+00:00",
-    "summary": "Find out what thousands of businesses are saying about agentic AI and the race to smart technology in the latest Salesforce report.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_1475ab.png",
+    "published": "2026-10-29T17:17:31+00:00",
+    "summary": "Trailblazers want to bring more of their creativity, expertise, and judgment to human-AI interactions. Here are five questions to guide designers.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/human-creativity-and-ai.png",
     "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
+    "industries": [],
     "relevance_score": 14
+  },
+  {
+    "id": "5ec74413edf5",
+    "title": "Is Price Skimming Right for Your Business? Here’s How to Find Out",
+    "url": "https://www.salesforce.com/blog/sales/price-skimming/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-29T16:28:17+00:00",
+    "summary": "This pricing strategy can feel like a rollercoaster, but when executed the right way, it's worth the ride.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2024/08/Price-Skimming.jpg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 13
   },
   {
     "id": "785a36958fd6",
@@ -110,20 +104,38 @@
     "industries": [
       "financial"
     ],
-    "relevance_score": 14
+    "relevance_score": 12
   },
   {
-    "id": "4ce4a1df9319",
-    "title": "TDX 2027 Call for Participation Is Open: How to Submit Your Architect Session",
-    "url": "https://www.salesforce.com/blog/architect-tdx-2027-call-for-participation/",
+    "id": "37325cd1837f",
+    "title": "Salesforce adds Agentforce to field service verticals - TechTarget",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQdkRDS0tsUVl2YVlCbjRyVFNld1FWQ0dYQWE2NXhkSV8tcW40Y0NIQUFja1Z1ZU96WHQ4bEUybFN3ekhWN1lyc19tem9vSHVGTTFLTWNwa282NGdLblpOR19kOC1jb3YtcGw1VGdvekwxN3ZOZVRKVFZsbi1Xb3hqNmtvWmRCdjRydm5zR25xUUhrT0pxRWVfSw?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-10-29T10:27:37+00:00",
+    "summary": "Salesforce adds Agentforce to field service verticals TechTarget",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "22456a0a067e",
+    "title": "The Consignment Process: Practical Steps for Businesses",
+    "url": "https://www.salesforce.com/blog/small-business/consignment-process/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-10-28T16:00:52+00:00",
-    "summary": "The TDX 2027 Call for Participation is open. Learn what we're looking for in architect sessions and how to submit your proposal.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/TDX27-CFP-Blog-Image.jpg?w=7000",
+    "published": "2026-10-29T13:00:00+00:00",
+    "summary": "Consignment lets you get your products on shelves without spending a dollar — here's how the process works.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_74724b.png",
     "tags": [],
-    "industries": [],
-    "relevance_score": 13
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 12
   },
   {
     "id": "cc83691cc2d1",
@@ -138,36 +150,20 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 12
-  },
-  {
-    "id": "d324ba8791ea",
-    "title": "Startups, Did You Know That Agentforce Coworker Can Do This?",
-    "url": "https://www.salesforce.com/blog/small-business/did-you-know-agentforce-coworker-can-do-this/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-28T18:38:20+00:00",
-    "summary": "We’re going down the Agentforce Coworker rabbit hole — did you know it could do all of this?",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_919110.png",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
     "relevance_score": 11
   },
   {
-    "id": "2b09cb70d054",
-    "title": "Serviceblazer Recap: 5 Key Insights from Dreamforce 26",
-    "url": "https://www.salesforce.com/blog/serviceblazer-dreamforce-26/",
+    "id": "4ce4a1df9319",
+    "title": "TDX 2027 Call for Participation Is Open: How to Submit Your Architect Session",
+    "url": "https://www.salesforce.com/blog/architect-tdx-2027-call-for-participation/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-10-26T20:53:21+00:00",
-    "summary": "A leader from the Serviceblazer community reflects on Dreamforce, and what everyone in service should take away from the event.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/09/cover-1.png",
+    "published": "2026-10-28T16:00:52+00:00",
+    "summary": "The TDX 2027 Call for Participation is open. Learn what we're looking for in architect sessions and how to submit your proposal.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/TDX27-CFP-Blog-Image.jpg?w=7000",
     "tags": [],
     "industries": [],
-    "relevance_score": 10
+    "relevance_score": 11
   },
   {
     "id": "b84cc86a84bc",
@@ -202,32 +198,20 @@
     "relevance_score": 10
   },
   {
-    "id": "ea1b48e89d8e",
-    "title": "What Is Going On With Salesforce Stock? - Trefis",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVDdxRzlyWXpscEZybzRUZ3hYeEhrNFN5LUVpeXZVU3pFUXAwbW12NHFRWlowY2hDaEZWVVlmalpGMDJvM1NadTFDcGNBOTFIenJnMFFNN3oxNGN4N0ZhTy04a1VXSF85RWdXQjBVRy02SXNnaU9ucXZUUkJvdlozbXFoSkVjTHNFUkxSNzVpejFld1ZKcFhySXg0RE11ajg?oc=5",
-    "source": "Salesforce AI",
+    "id": "d324ba8791ea",
+    "title": "Startups, Did You Know That Agentforce Coworker Can Do This?",
+    "url": "https://www.salesforce.com/blog/small-business/did-you-know-agentforce-coworker-can-do-this/",
+    "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-10-28T12:23:11+00:00",
-    "summary": "What Is Going On With Salesforce Stock? Trefis",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 9
-  },
-  {
-    "id": "83a02b3de1d4",
-    "title": "Salesforce Is Betting Big on AI. The Payoff Could Be Bigger Than Investors Expect - 24/7 Wall St.",
-    "url": "https://news.google.com/rss/articles/CBMiwgFBVV95cUxPb3psWDlqUUVCSlE3WlllR3FVNWFRb2txZEl3THFhUTl4OHhKZjRnZm91MnhXS3o5WDlFQVlsTnpnczQtMUktT0h4ZTRzczhiV09iTjF0ajZ0MzA2cWdKX2RDYUs4ZmkxTjJESnNEZEEtNlZXT25PeVM2VGxxT2R6dTg3QU5qNDhKQk9sR09yckRWc1d1S1IzaktYOVV5ZVQ5OXRRcEFVcmM4MUFfd3laSktESVFiVV9CZm55RS1UZ0VlUQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-10-23T12:00:00+00:00",
-    "summary": "Salesforce Is Betting Big on AI. The Payoff Could Be Bigger Than Investors Expect 24/7 Wall St.",
-    "image_url": null,
+    "published": "2026-10-28T18:38:20+00:00",
+    "summary": "We’re going down the Agentforce Coworker rabbit hole — did you know it could do all of this?",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_919110.png",
     "tags": [],
     "industries": [
+      "tech",
       "industrial"
     ],
-    "relevance_score": 8
+    "relevance_score": 10
   },
   {
     "id": "19fb9115cda3",
@@ -243,5 +227,34 @@
       "industrial"
     ],
     "relevance_score": 8
+  },
+  {
+    "id": "ea1b48e89d8e",
+    "title": "What Is Going On With Salesforce Stock? - Trefis",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPVDdxRzlyWXpscEZybzRUZ3hYeEhrNFN5LUVpeXZVU3pFUXAwbW12NHFRWlowY2hDaEZWVVlmalpGMDJvM1NadTFDcGNBOTFIenJnMFFNN3oxNGN4N0ZhTy04a1VXSF85RWdXQjBVRy02SXNnaU9ucXZUUkJvdlozbXFoSkVjTHNFUkxSNzVpejFld1ZKcFhySXg0RE11ajg?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-10-28T12:23:11+00:00",
+    "summary": "What Is Going On With Salesforce Stock? Trefis",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 8
+  },
+  {
+    "id": "66b8287c67c4",
+    "title": "Southern Cross Credit Union Deploys Salesforce Agentforce Voice to Slash Wait Times - FF News",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxPSEpzNjNMb1pJLUN0TklHVDh4WFFKMWJzLWRJN2VfSFVXTVd5Z2xTVUtBeVF0dllONVUtUUc0cTlwRmROajhZbUhhdW9kc2wxRm9tbkQySXJSSWRCSm5hQjNlWWNYUW00OGRYVjBsVTc4T2ozWmhxQ2p4UmxYc1pabGRYUjZzUG5Ha2N2SWRfYVNGeVNyQzBkYmR2ZVNSNkF2bVN0QzRRVVlsUVBOSEhiRA?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-10-27T09:45:31+00:00",
+    "summary": "Southern Cross Credit Union Deploys Salesforce Agentforce Voice to Slash Wait Times FF News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 7
   }
 ]
