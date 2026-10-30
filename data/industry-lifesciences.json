@@ -35,23 +35,7 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 20
-  },
-  {
-    "id": "9e289b805035",
-    "title": "Community Health Systems logs $86M net loss in Q3, hopes for return of 'pent-up' electives in 2027",
-    "url": "https://www.fiercehealthcare.com/providers/community-health-systems-logs-86m-net-loss-q3-hopes-return-pent-electives-2027",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-29T16:32:00+00:00",
-    "summary": "The for-profit hospital chain landed below internal and analyst expectations in the quarter due to now-familiar hurdles around elective surgeries and uninsured patients.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Losses.jpg?VersionId=7.Iy0TF0wSwShtpclu31bD4jONTJ4Nse",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 18
+    "relevance_score": 19
   },
   {
     "id": "eaeda18dd3a1",
@@ -85,6 +69,22 @@
     "relevance_score": 17
   },
   {
+    "id": "9e289b805035",
+    "title": "Community Health Systems logs $86M net loss in Q3, hopes for return of 'pent-up' electives in 2027",
+    "url": "https://www.fiercehealthcare.com/providers/community-health-systems-logs-86m-net-loss-q3-hopes-return-pent-electives-2027",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-29T16:32:00+00:00",
+    "summary": "The for-profit hospital chain landed below internal and analyst expectations in the quarter due to now-familiar hurdles around elective surgeries and uninsured patients.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Losses.jpg?VersionId=7.Iy0TF0wSwShtpclu31bD4jONTJ4Nse",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 17
+  },
+  {
     "id": "91b5da0436d0",
     "title": "City digital health startups raise $1.9 billion in third quarter, report finds - Crain's New York",
     "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPaVhEUTFfNEMzblZRSU9UYjZfbzJWMDVLVDY4SFY1d3ZpQmF6REROT1RDRXRWbTRhQ1BBU3U1TjlvbVlsdkNyU2YycXRtUEdJRjJuT3N3ZWdDS2hWN2V0X1V1amZicEF6bE1DcUJOM3Z3dUJJVzR1MzBkQUJWeXdKVXlYQWNWOGZZ?oc=5",
@@ -98,7 +98,10 @@
       "tech",
       "lifesciences"
     ],
-    "relevance_score": 16
+    "relevance_score": 15,
+    "also_covered_by": [
+      "Biotech"
+    ]
   },
   {
     "id": "902fffc40c06",
@@ -129,74 +132,7 @@
     "industries": [
       "lifesciences"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "e30b15540dac",
-    "title": "NYU Langone brings OpenEvidence’s clinical AI into the EHR systemwide",
-    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/nyu-langone-brings-openevidences-clinical-ai-ehr-systemwide",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-29T08:31:00+00:00",
-    "summary": "OpenEvidence is expanding its footprint in New York City through a partnership with NYU Langone Health, adding another marquee institution to an existing concentration of partnerships across the city's academic medical centers.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg?VersionId=Hjq5ca_eQBjsQdg1xGlmBtx0Nw_TycOf",
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 13,
-    "also_covered_by": [
-      "Health Tech"
-    ]
-  },
-  {
-    "id": "fc22a60ff190",
-    "title": "Popular AI models get medication doses wrong, some dangerously: Doximity",
-    "url": "https://www.healthcaredive.com/news/popular-ai-models-get-medication-doses-wrong-some-dangerously-doximity/873207/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-29T16:22:19+00:00",
-    "summary": "Research released by the clinical AI company shows that its dose verification tool outperformed general-use AI models, which it says are rife with errors. It’s Doximity’s latest play to stand out as major AI companies forge into healthcare.",
-    "image_url": "https://imgproxy.divecdn.com/ES-1lYXCZKXcjsTy_FcRQiqWBq07Dr4gAOHYzuKj9l4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp",
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
     "relevance_score": 13
-  },
-  {
-    "id": "7c51159610e8",
-    "title": "BCBSMA, Medzown team up to match members with clinical trials",
-    "url": "https://www.fiercehealthcare.com/payers/bcbsma-medzown-team-match-members-clinical-trials",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-29T16:41:00+00:00",
-    "summary": "Blue Cross Blue Shield of Massachusetts is teaming up with precision medicine company Medzown to make it easier for members with complex conditions participate in clinical trials.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-998296772_0.jpg?VersionId=qf19PL91L_BP0.MFtqHRf9Ur0dzdXlfS",
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "5cc1c6e758a4",
-    "title": "Labor Department finalizes sweeping PBM disclosure rule",
-    "url": "https://www.healthcaredive.com/news/pbm-transparency-final-rule-labor-department-employer/873089/",
-    "source": "Healthcare Dive",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-29T18:26:30+00:00",
-    "summary": "Starting in 2027, the controversial drug middlemen will have to share a broad swath of fee and compensation data with their self-funded employer clients. Employers cheered the rule, while PBMs slammed it as government overreach.",
-    "image_url": "https://imgproxy.divecdn.com/iKz4BuDjmRE6UbrRRlF9efr8bpRIs0pUQv8B6wyXeIc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI4NTA1MDQwXzEuanBn.webp",
-    "tags": [],
-    "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 13,
-    "also_covered_by": [
-      "Fierce Healthcare"
-    ]
   },
   {
     "id": "b8905e83300f",
@@ -229,6 +165,73 @@
       "lifesciences"
     ],
     "relevance_score": 12
+  },
+  {
+    "id": "e30b15540dac",
+    "title": "NYU Langone brings OpenEvidence’s clinical AI into the EHR systemwide",
+    "url": "https://www.fiercehealthcare.com/ai-and-machine-learning/nyu-langone-brings-openevidences-clinical-ai-ehr-systemwide",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-29T08:31:00+00:00",
+    "summary": "OpenEvidence is expanding its footprint in New York City through a partnership with NYU Langone Health, adding another marquee institution to an existing concentration of partnerships across the city's academic medical centers.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/fiercehealthcare/1608665144/nyulangone.jpg/nyulangone.jpg?VersionId=Hjq5ca_eQBjsQdg1xGlmBtx0Nw_TycOf",
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 12,
+    "also_covered_by": [
+      "Health Tech"
+    ]
+  },
+  {
+    "id": "fc22a60ff190",
+    "title": "Popular AI models get medication doses wrong, some dangerously: Doximity",
+    "url": "https://www.healthcaredive.com/news/popular-ai-models-get-medication-doses-wrong-some-dangerously-doximity/873207/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-29T16:22:19+00:00",
+    "summary": "Research released by the clinical AI company shows that its dose verification tool outperformed general-use AI models, which it says are rife with errors. It’s Doximity’s latest play to stand out as major AI companies forge into healthcare.",
+    "image_url": "https://imgproxy.divecdn.com/ES-1lYXCZKXcjsTy_FcRQiqWBq07Dr4gAOHYzuKj9l4/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy01MzAzNjUyMTVfcHpBSmNQTS5qcGc=.webp",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "7c51159610e8",
+    "title": "BCBSMA, Medzown team up to match members with clinical trials",
+    "url": "https://www.fiercehealthcare.com/payers/bcbsma-medzown-team-match-members-clinical-trials",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-29T16:41:00+00:00",
+    "summary": "Blue Cross Blue Shield of Massachusetts is teaming up with precision medicine company Medzown to make it easier for members with complex conditions participate in clinical trials.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-998296772_0.jpg?VersionId=qf19PL91L_BP0.MFtqHRf9Ur0dzdXlfS",
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "5cc1c6e758a4",
+    "title": "Labor Department finalizes sweeping PBM disclosure rule",
+    "url": "https://www.healthcaredive.com/news/pbm-transparency-final-rule-labor-department-employer/873089/",
+    "source": "Healthcare Dive",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-29T18:26:30+00:00",
+    "summary": "Starting in 2027, the controversial drug middlemen will have to share a broad swath of fee and compensation data with their self-funded employer clients. Employers cheered the rule, while PBMs slammed it as government overreach.",
+    "image_url": "https://imgproxy.divecdn.com/iKz4BuDjmRE6UbrRRlF9efr8bpRIs0pUQv8B6wyXeIc/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0yMjI4NTA1MDQwXzEuanBn.webp",
+    "tags": [],
+    "industries": [
+      "lifesciences"
+    ],
+    "relevance_score": 12,
+    "also_covered_by": [
+      "Fierce Healthcare"
+    ]
   },
   {
     "id": "6af9cd86e412",
@@ -264,22 +267,6 @@
     "relevance_score": 11
   },
   {
-    "id": "8d2aa1a720ea",
-    "title": "Pharma Pulse: GoodRx Opens Employer GLP-1 Channel, Lilly Fends Off Novo Ad Challenge, PCMA Takes Aim at Wholesalers - Pharmaceutical Commerce",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbTA1b21Pd3B5dGh1SmcyblN1S3I2X0tQNjJDRmVlT3Jjb2JoN2ptdFVUenYxSkpDd3phY1ZDTnNiazdzRTN2Um5rQUZHU2MwdHFXeDIzNVJQd1BsbXd5bnByOGxnOVZ2ek15dFllV3d4cFVlWjUydUZnYWRCX2puSnRvWVZkR1NkWDItNWk5UFdDdjJIUTF1dWlDQjNCU3h0V3dfZnNHNTItdlBfWDY4SjVSNUxCMEd2UDBBWVNaUllrS2d3N1lKZFVFMnB5SzlLX0E3WDVLaUJKQ09hMlJOX1c3bFhEZmZjYjVwVw?oc=5",
-    "source": "Pharma Marketing",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-29T16:18:29+00:00",
-    "summary": "Pharma Pulse: GoodRx Opens Employer GLP-1 Channel, Lilly Fends Off Novo Ad Challenge, PCMA Takes Aim at Wholesalers Pharmaceutical Commerce",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 11
-  },
-  {
     "id": "55b3d773c3e0",
     "title": "Bon Secours affiliate makes $5.7B bid for Surgery Partners",
     "url": "https://www.healthcaredive.com/news/bon-secours-affiliate-5-7-billion-bid-surgery-partners/872887/",
@@ -297,9 +284,9 @@
     "relevance_score": 10
   },
   {
-    "id": "d9e62f43c49d",
+    "id": "82bde8356aec",
     "title": "Industry Report Shows 64% of Life Sciences Leaders Taking Action to Establish AI Governance - PR Newswire",
-    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxOOGVHMWYwRnFxTThfNXhiUVI0UzAwQk10Ui1SN3dLQ1BzUGFmWjlWcG43NUd4U3RGR1k0TkxHY0V0WXl5Y0pZemRVZ2VSV1E1clRKYURlLVo4Q01tWmFUVTNfdHFGRXJsZlNXV29jME11Y2gwenBKTDlQS3IwNF92bVkxSGFEUUlsM28tSzRPa2VZcUFia0dkWE9ETXdBbkFQNmtMN2hBUWpzcGp3Z1ZPLUZaUGRWLWdSZXVhV2F3TURTUkVLaDdCTDlsTlZuVWw4OFNiV082aUJwUnROSGxr?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNejE5a3BxcVM5cU1BNUlhRzlEQnVteHBPWkVqNVhGeTc2MFFCc0hwT01GbzNNV3ZyNk5LSHpwZzZyNy0xZGlfZXUzNGNFTE1JNlNib1lDOS1wMVJwMEE2ZFJyWk94NWI5bjlGaF9jcllySkRzQXl3S0YyQ2pEQWlDaUgySnRJcjljZ2JJbVdRZmFfenI0Um5TaUdWYkNadF9qVHFtX2tud3J3cmdvSUJMMkxFR3dseUY0UjVzckV0c2M4Z2FEZlZNLVdtcXVMcXk0SmV4ZUNwdHlmWmx4cS1J?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
     "published": "2026-10-28T14:00:00+00:00",
@@ -322,22 +309,6 @@
     "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-1495516791.jpg?VersionId=.pBPSM6rrTKDk22MvqFwXSz6gFrM9wuX",
     "tags": [],
     "industries": [
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "7357ab85ab5f",
-    "title": "Biotech Stocks Facing FDA Decision In November 2026 - RTTNews",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxOQm5xaFdaR1pHelZ4MjBlTG9YVDRRaS1uX2o5WU00WWVrQlZrZWZqZ1N4R19oY29ZcV92a3ktSV9wbW16S0lsdEUtZ3B5eW5HTTFZWWYwV2xVNnd2eC1kd0dvcW4xaE0taDB1MmU5NlU4SmczZ3ZPb0x4QUpGVGN3RzFCc3N3R1FobVpDZXBFTFlhZw?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-29T08:14:41+00:00",
-    "summary": "Biotech Stocks Facing FDA Decision In November 2026 RTTNews",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 10
@@ -376,18 +347,18 @@
     "relevance_score": 10
   },
   {
-    "id": "36c0b685795f",
-    "title": "Merck Earnings Blow Past Estimates. Why Wall Street Has Its Eyes on the Coming Year. - Barron's",
-    "url": "https://news.google.com/rss/articles/CBMigwFBVV95cUxOV3R4c19vUGFlc2Z0MDY2SGhQNWN2b3FwaHVyNW9malBsMUpkeWhyeHRYOW44Y0FJa3dQcWhkZ253SEhNUEhERmhoYzhMXzMtOHFRYkpRc3dMLV9LYnV6WjBURG9sRGszb1VBbk1qNndRNERXa1pkZ1ZNb1hBSlhYSUwzdw?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-10-29T18:27:00+00:00",
-    "summary": "Merck Earnings Blow Past Estimates. Why Wall Street Has Its Eyes on the Coming Year. Barron's",
+    "id": "8d2aa1a720ea",
+    "title": "Pharma Pulse: GoodRx Opens Employer GLP-1 Channel, Lilly Fends Off Novo Ad Challenge, PCMA Takes Aim at Wholesalers - Pharmaceutical Commerce",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPbTA1b21Pd3B5dGh1SmcyblN1S3I2X0tQNjJDRmVlT3Jjb2JoN2ptdFVUenYxSkpDd3phY1ZDTnNiazdzRTN2Um5rQUZHU2MwdHFXeDIzNVJQd1BsbXd5bnByOGxnOVZ2ek15dFllV3d4cFVlWjUydUZnYWRCX2puSnRvWVZkR1NkWDItNWk5UFdDdjJIUTF1dWlDQjNCU3h0V3dfZnNHNTItdlBfWDY4SjVSNUxCMEd2UDBBWVNaUllrS2d3N1lKZFVFMnB5SzlLX0E3WDVLaUJKQ09hMlJOX1c3bFhEZmZjYjVwVw?oc=5",
+    "source": "Pharma Marketing",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-29T16:18:29+00:00",
+    "summary": "Pharma Pulse: GoodRx Opens Employer GLP-1 Channel, Lilly Fends Off Novo Ad Challenge, PCMA Takes Aim at Wholesalers Pharmaceutical Commerce",
     "image_url": null,
     "tags": [],
     "industries": [
-      "lifesciences",
-      "financial"
+      "industrial",
+      "lifesciences"
     ],
     "relevance_score": 10
   },
@@ -399,22 +370,6 @@
     "source_category": "industry_lifesciences",
     "published": "2026-10-29T20:06:58+00:00",
     "summary": "Five Forms of Capital Map Older Adults’ Digital Health Information Divide Bioengineer.org",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "41f9a41716fe",
-    "title": "Health tech startups compete for funding at Saint Francis - KOKI FOX 23",
-    "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNbTk3NVNiMThaRnFHNWczZnQ4S3RRMVhNNExrR3V2UXlUSWM5NW1UM3RBcnRxdF9UNml5OVdyLW85VHV5SlVjZ2Z3dGNVOTBvWEJnOWdvUU1kcklkT0kyYnd1M0N2aUJxekVDbHREd3pfak9wMFlKeEdRNWk1UnlJRGVkSVl0eEozR24zNkZoNA?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-28T20:56:50+00:00",
-    "summary": "Health tech startups compete for funding at Saint Francis KOKI FOX 23",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -485,16 +440,17 @@
     "relevance_score": 7
   },
   {
-    "id": "2a59bc30c8d0",
-    "title": "From paper to pixels: How one nurse is leading Naha’s digital health transformation - World Health Organization (WHO)",
-    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPckYzT3NDWlFGWWJDcVZSNTlCR0ttOUNZMkR6R3lraDlhLTRGeC1HdTViX0E1R0NibG81S1E5M09RNFA2NjQzdGtrYS10UmdjMmFzek1Ba19ybFVLTHFKb29GZ1J3alpaQUYzUnpBaDFJenkxbW9pNlJoSnR3SmlTc202dmRIVTF0aHN6QkxaSHBfb3RtazQyM01IY2NjbktQSERCdlFOS0VMQ3ZIbjhhdDBIOUhoWWZLTnBJeURuOU5jTTNnX3NfbTB1U1prdkJnLWZwbjA3dFY4YUhiS2FCeTVn?oc=5",
+    "id": "fdcd40101a62",
+    "title": "Health tech startups compete for funding at Saint Francis - KTUL",
+    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxOcDAxX0l3Y29Xby1hT2lqNDdYM2RPVE92WXY4aHNPT3diNGdxUnY2TmNMUHR0aFRqbFVfaEc0UEZna2h0WlVNQ0hEWWxrWlZjZERQRUNBUTAtc0hCWXM5WGM5ZjhDUXVMWENMTHFPZnh6OFlvUEg4cTlWTFNRLUZ4YjJPNjhvaTd6djZHVjl1WkZwZGx0azQtUUxhQW0?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-29T00:45:00+00:00",
-    "summary": "From paper to pixels: How one nurse is leading Naha’s digital health transformation World Health Organization (WHO)",
+    "published": "2026-10-28T20:43:19+00:00",
+    "summary": "Health tech startups compete for funding at Saint Francis KTUL",
     "image_url": null,
     "tags": [],
     "industries": [
+      "tech",
       "lifesciences"
     ],
     "relevance_score": 7
@@ -543,22 +499,6 @@
     "industries": [
       "tech",
       "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "5a3c4a77b974",
-    "title": "Karnataka Pharma retailers seek clarity on drug ad curbs - The New Indian Express",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdXMyZ0JkQW1VcVFGNzdUZHBZZDBLQXc4aVN3TWlXWkd1OXdKaUxCRXNTS2VaazVmMXZIVm9RX2ZES1hEZHdpb3pSX18yZ2RRM204MW9MU2t4N2NsS3RxLTY0U3RRYnhnSW5UOC1jZWV2YWRLOXpmcy1aV2lIcGpwaHgzVTBxQjBFZ3FLejlrQ2RCNU1NZTRzdmQtV2pGem9KeVkzT014QkdMOGpQd2FhSXo0SlhhSXk4S1HSAccBQVVfeXFMTnVRcTd5TVkweUxUaVB6eURzYWItMHRqVWVBT29HNHY4YVFmaFBUZDJpT0ZELVZvNlBGMmpiaHROVDJyVGhxdUN1TlZPNWpoMTNHV2JNdVlsRl9SUk85RWxMdGdEdU9fQVNLLUpVVE9ERS1ieXIxS1FISm5Sa3VIekk0N29RODM0UGFPaEc1bmNscXB1eFlzQ3pQVlM0RTV3QXNiM0xZbE5yaFJyRjFmc3RBTng1Ym5KNTZsWTFrYnFtM3pBTjQ4VQ?oc=5",
-    "source": "Pharma Marketing",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-28T04:01:13+00:00",
-    "summary": "Karnataka Pharma retailers seek clarity on drug ad curbs The New Indian Express",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
       "lifesciences"
     ],
     "relevance_score": 6
@@ -629,6 +569,22 @@
     "relevance_score": 6
   },
   {
+    "id": "7c1ddb9d073d",
+    "title": "Amgen hit with FDA warning letter for ‘misleading’ Vectibix promotion - Fierce Pharma",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxPMDBfcUFEc3BmLTc3RmNmX1hYbF9PalNVR05SdGw4cnduUWpFWWFJdEVCLXBJX1EySm12cndIN3h2LWRMeDlHdWpmRUlmWG43QTY1Q2ljOUlNYzZOZmJSZEJUd3hvN28yZzVHRm1DeFVod0x3cWJyNTItSUNibDVEWktNMkVzM0pnRXpib1g4LV9Vb1BOMUpSR3lPdVpjUQ?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-28T13:42:26+00:00",
+    "summary": "Amgen hit with FDA warning letter for ‘misleading’ Vectibix promotion Fierce Pharma",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 6
+  },
+  {
     "id": "14c1a13a39e2",
     "title": "AbbVie seeks FDA approval for multiple myeloma drug candidate - MedWatch",
     "url": "https://news.google.com/rss/articles/CBMib0FVX3lxTE1HSFV5TFR1X2psSnViRWZMeDUzMzdiVkhZUDd1REdwSzY4SS1jWjBtblVSdERzNVY1NmdfN1N5a3B0QUR1UXZIa19XNUlmcnJrdDFsWVJMWXhvYl9ZOE44V3BrTmdhR0xKbjF3MWdGSQ?oc=5",
@@ -645,17 +601,49 @@
     "relevance_score": 6
   },
   {
-    "id": "5e1a248c8468",
-    "title": "China - Digital Health Laws and Regulations 2026 - ICLG",
-    "url": "https://news.google.com/rss/articles/CBMif0FVX3lxTE5MVFlWZGlrTWprLWY5UUYxUVJhMzJWb25ELWthVVBIS3lMNUZXSVp3RzdZQXA5SkN6TEJlNXBudjBXbUpkN2NZLXJfTjRmaTBXUzgxMXk4QlFBQkxOMmtTRjZtZ0pZRHJnNDBOa0R5Tl96NkVSLUtLX1ZBVWpvRWc?oc=5",
+    "id": "f10504df5472",
+    "title": "AdvaMed Digital Health Tech Board Approves Best Practices to Advance Responsible Data Access and Patient Care - AdvaMed® - Advanced Medical Technology Association®",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxON1BucmVRTjBrekIxVWZtTlF2VkhHMGhHMGFWQUJHaFp0anhuc3pyUGNSTVhwMm1STzIwVk5YUnRVNjBWeV84VUJHdWhjcDh1WGtNYm51U2ZFSTBZbVlVRXROaHAxTWlTV2t2bEduOGZ4QlliXzB4cGZUbWd0cDZiMVRNWkg0dzlSeklab0dDRGh5cU9RQkFmQThiZkZMZEN5RXFUZEk2dlVIaFA5U3NleDFkTjhKdmpHOTl5Q29fVDFTRWNnbHRqeWNKQjJtMFhieHFzOG9qZTEtTkU4VjhaRThYMy14dXpOR1cyMg?oc=5",
     "source": "Health Tech",
     "source_category": "industry_lifesciences",
-    "published": "2026-10-23T14:36:18+00:00",
-    "summary": "China - Digital Health Laws and Regulations 2026 ICLG",
+    "published": "2026-10-28T19:00:28+00:00",
+    "summary": "AdvaMed Digital Health Tech Board Approves Best Practices to Advance Responsible Data Access and Patient Care AdvaMed® - Advanced Medical Technology Association®",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "2a59bc30c8d0",
+    "title": "From paper to pixels: How one nurse is leading Naha’s digital health transformation - World Health Organization (WHO)",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPckYzT3NDWlFGWWJDcVZSNTlCR0ttOUNZMkR6R3lraDlhLTRGeC1HdTViX0E1R0NibG81S1E5M09RNFA2NjQzdGtrYS10UmdjMmFzek1Ba19ybFVLTHFKb29GZ1J3alpaQUYzUnpBaDFJenkxbW9pNlJoSnR3SmlTc202dmRIVTF0aHN6QkxaSHBfb3RtazQyM01IY2NjbktQSERCdlFOS0VMQ3ZIbjhhdDBIOUhoWWZLTnBJeURuOU5jTTNnX3NfbTB1U1prdkJnLWZwbjA3dFY4YUhiS2FCeTVn?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-29T00:45:00+00:00",
+    "summary": "From paper to pixels: How one nurse is leading Naha’s digital health transformation World Health Organization (WHO)",
     "image_url": null,
     "tags": [],
     "industries": [
       "lifesciences"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "99fad4162d32",
+    "title": "Beyond Digital: Payments’ Next Frontier - Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9wbmFCNU9uaTJxTmZsMlNrb3F2UHYtLWowRUpDVW1xWjRoY1Rqcm1KUWVUZm95UVd3STBHYnJXWXl0aGVmUjZmdDFkb09yelFLX3BkeFVxRy1UdXdfcVcyYjltZHg5UGc?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-10-25T14:11:39+00:00",
+    "summary": "Beyond Digital: Payments’ Next Frontier Fierce Healthcare",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "lifesciences",
+      "financial"
     ],
     "relevance_score": 5
   },
