@@ -15,7 +15,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 50
+    "relevance_score": 47
   },
   {
     "id": "1c3059fb7886",
@@ -35,25 +35,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 49
-  },
-  {
-    "id": "7f9a51933b5b",
-    "title": "Most marketers say AI works. Few can prove it.",
-    "url": "https://martech.org/most-marketers-say-ai-works-few-can-prove-it/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-10-30T12:10:00+00:00",
-    "summary": "AI can make work faster while leaving teams unable to prove the value. The problem starts before launch, with weak baselines and success metrics. The post Most marketers say AI works. Few can prove it. appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-3.11.40-PM.png",
-    "tags": [
-      "Marketing artificial intelligence (AI)",
-      "MarTechCharts"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 45
+    "relevance_score": 46
   },
   {
     "id": "9ee9305f5705",
@@ -73,6 +55,24 @@
     "relevance_score": 44
   },
   {
+    "id": "7f9a51933b5b",
+    "title": "Most marketers say AI works. Few can prove it.",
+    "url": "https://martech.org/most-marketers-say-ai-works-few-can-prove-it/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-10-30T12:10:00+00:00",
+    "summary": "AI can make work faster while leaving teams unable to prove the value. The problem starts before launch, with weak baselines and success metrics. The post Most marketers say AI works. Few can prove it. appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2026/10/Screenshot-2026-10-28-at-3.11.40-PM.png",
+    "tags": [
+      "Marketing artificial intelligence (AI)",
+      "MarTechCharts"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 42
+  },
+  {
     "id": "9ec4f17c0ce7",
     "title": "The risks of optimizing SEO for AI over users",
     "url": "https://martech.org/the-risks-of-optimizing-seo-for-ai-over-users/",
@@ -89,45 +89,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 43
-  },
-  {
-    "id": "2a11ba81a069",
-    "title": "How to test incrementality before peak spending starts",
-    "url": "https://martech.org/how-to-test-incrementality-before-peak-spending-starts/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-10-30T12:18:00+00:00",
-    "summary": "Waiting until Cyber Week is too late. Run holdouts early enough to see which channels create lift, then move budget before the expensive days arrive. The post How to test incrementality before peak spending starts appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2025/09/A-B-Testing-and-AI-Refined-Marketing-abstract-concept-800x450.jpg",
-    "tags": [
-      "Marketing analytics",
-      "Marketing attribution"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 42
-  },
-  {
-    "id": "7346589b9bbc",
-    "title": "More paid social ads won’t fix a creative problem",
-    "url": "https://martech.org/more-paid-social-ads-wont-fix-a-creative-problem/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-10-30T12:33:00+00:00",
-    "summary": "20 ads may all test the same idea. Better performance comes from changing the variables that give the algorithm something new to learn. The post More paid social ads won’t fix a creative problem appeared first on MarTech .",
-    "image_url": "https://martech.org/searchengineland.com/wp-content/seloads/2026/10/An-image-of-a-woman-in-medical-scrubs-holding-a-pair-of-clogs.png",
-    "tags": [
-      "Digital advertising",
-      "Search Advertising",
-      "Search marketing"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 42
+    "relevance_score": 40
   },
   {
     "id": "50ac25ce9fd0",
@@ -149,6 +111,44 @@
     "relevance_score": 39
   },
   {
+    "id": "2a11ba81a069",
+    "title": "How to test incrementality before peak spending starts",
+    "url": "https://martech.org/how-to-test-incrementality-before-peak-spending-starts/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-10-30T12:18:00+00:00",
+    "summary": "Waiting until Cyber Week is too late. Run holdouts early enough to see which channels create lift, then move budget before the expensive days arrive. The post How to test incrementality before peak spending starts appeared first on MarTech .",
+    "image_url": "https://martech.org/wp-content/uploads/2025/09/A-B-Testing-and-AI-Refined-Marketing-abstract-concept-800x450.jpg",
+    "tags": [
+      "Marketing analytics",
+      "Marketing attribution"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 39
+  },
+  {
+    "id": "7346589b9bbc",
+    "title": "More paid social ads won’t fix a creative problem",
+    "url": "https://martech.org/more-paid-social-ads-wont-fix-a-creative-problem/",
+    "source": "MarTech.org",
+    "source_category": "martech",
+    "published": "2026-10-30T12:33:00+00:00",
+    "summary": "20 ads may all test the same idea. Better performance comes from changing the variables that give the algorithm something new to learn. The post More paid social ads won’t fix a creative problem appeared first on MarTech .",
+    "image_url": "https://martech.org/searchengineland.com/wp-content/seloads/2026/10/An-image-of-a-woman-in-medical-scrubs-holding-a-pair-of-clogs.png",
+    "tags": [
+      "Digital advertising",
+      "Search Advertising",
+      "Search marketing"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 39
+  },
+  {
     "id": "bed2785b8ebe",
     "title": "More marketing spend brings more challenges and complexity",
     "url": "https://martech.org/more-marketing-spend-brings-more-challenges-and-complexity/",
@@ -165,21 +165,6 @@
       "industrial"
     ],
     "relevance_score": 37
-  },
-  {
-    "id": "74b9807d0970",
-    "title": "Rafi Kretchmer appointed CMO at Check Point Software - KARV Tech Insider",
-    "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxONUMzV0xOTHUxLTRob0lvOWxWZWVwYjZaXzZuZ0E1YzJYeGFUMnRuSHN3dTZVeVR3WHBjb1hibmhycklFZHpRQnlqY1BMaWlGOFVkejlOT3psc3Jsc2Z1MVA2dHh5TFkxaDhBWFhTa1RNZUxnSGdFUVNXdU5vMkxuY3ZRbVNhelpwQVdHRVp0UG1iQ2t4ZkYyTTB3ZWQ2bXcyWGpqNDNXbGRZeVVwUGhiaXhia3plNjFF?oc=5",
-    "source": "Marketing Strategy",
-    "source_category": "marketing",
-    "published": "2026-10-26T00:00:00+00:00",
-    "summary": "Rafi Kretchmer appointed CMO at Check Point Software KARV Tech Insider",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 34
   },
   {
     "id": "f9e9685d30c2",
@@ -234,22 +219,6 @@
     "relevance_score": 33
   },
   {
-    "id": "da3eee38e2be",
-    "title": "New E.l.f. CMO on the company’s rapid category expansion - Retail Brew",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPNkxETzNFOEl6eDJEU1h5QlhyeEV6SHFCWmVFcmNHUUZlczRIaDROSkV0MllLbVlabjgyeFZ2S3BGTV9ycmpJdy1HVHlMWjg1d1ExS0xFVFJheFRMc001cC1peWNTNXZIQkVuZG1QcU4tN1JDMGJ4LXMxbGQ1Zml5R0xGbjNLb2dBdWJQaWl2cHRoNE0?oc=5",
-    "source": "Marketing Strategy",
-    "source_category": "marketing",
-    "published": "2026-10-26T13:58:54+00:00",
-    "summary": "New E.l.f. CMO on the company’s rapid category expansion Retail Brew",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail"
-    ],
-    "relevance_score": 31
-  },
-  {
     "id": "ca4cd76fc155",
     "title": "RCS Messaging on Salesforce: A Practitioner’s Guide",
     "url": "https://www.salesforce.com/blog/rcs-messaging-on-salesforce-a-practitioners-guide/",
@@ -265,22 +234,6 @@
     "relevance_score": 27
   },
   {
-    "id": "2031100377fd",
-    "title": "Top 26 Social Media Platforms (November 2026) - Exploding Topics",
-    "url": "https://news.google.com/rss/articles/CBMia0FVX3lxTE43WjdfZklOTk41cnF2aGlPSm9kM0dEWk9sRDVja2NvcVBqR1dKbGVGRm9UeVFkUVhIUk9ZQ25SUE8zYl8tcHd4ZDI3LWlRUmZPX01mNjVPWmdMS3BBZnUteU9JYUZkelJoeEpB?oc=5",
-    "source": "Social Media",
-    "source_category": "marketing",
-    "published": "2026-10-29T07:00:00+00:00",
-    "summary": "Top 26 Social Media Platforms (November 2026) Exploding Topics",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "tech"
-    ],
-    "relevance_score": 26
-  },
-  {
     "id": "360c759dc5e4",
     "title": "How SaaS Companies Build Marketing Machines That Scale - MarkHub24",
     "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNR1BjTXcwRE5la1dmTlk5eXlLcjhIOEY1Z0RlUVFlNlBWUnBtbFY1U2pvZHpmY24yN1d2RXk5bzVRc3hSTmZOeWpNaVpNdzVxeTkzclc5MFJEa2pwUE0xdWZRZ0NQM1Vvc3Yxc3lWMXBNSlVaMTZqUmthUWRSNVFULThIaVFtNHRMU1NhVEJR?oc=5",
@@ -294,6 +247,28 @@
       "tech"
     ],
     "relevance_score": 22
+  },
+  {
+    "id": "fad3545618a0",
+    "title": "HomePod Mini 2 first look: Three things I love and one disappointment",
+    "url": "https://www.theverge.com/tech/1024108/homepod-mini-2-hands-on-siri-smart-home-mac-speaker",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-11-01T14:00:00+00:00",
+    "summary": "When I first heard about the new $149 HomePod Mini 2 at Apple's Welcome Home event last month, I was disappointed. It's been six years since Apple launched its entry-level smart speaker, and all it got in the second gen was a chip bump, some color glowy stuff, and better...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268839_HomePod_mini_2_JTuohy_0009.jpg?quality=90&amp;strip=all&amp;crop=0%2C19.336604742637%2C80.59453125%2C63.294399383614&amp;w=1200",
+    "tags": [
+      "Apple",
+      "Hands-on",
+      "Reviews",
+      "Smart Home",
+      "Speakers"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 20
   },
   {
     "id": "d54f22d5700b",
@@ -314,70 +289,26 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 19
+    "relevance_score": 18
   },
   {
-    "id": "2cee0af06aa6",
-    "title": "Reese Witherspoon’s Hello Sunshine Faces Staff Cuts After Company Buyback",
-    "url": "https://www.forbes.com/sites/dominiquefluker/2026/10/31/reese-witherspoons-hello-sunshine-faces-staff-cuts-after-company-buyback/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-11-01T03:15:22+00:00",
-    "summary": "Actress Reese Witherspoon recently reacquired her production company, Hello Sunshine. Now, Witherspoon is reportedly laying off 30 employees, representing approximately 50% of Hello Sunshine’s workforce.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ae6ad8f48ceeaaf6afb1ffe/0x0.jpg",
+    "id": "0b023320d1e6",
+    "title": "Prop 45 in California could be hiding a loophole for data centers",
+    "url": "https://www.theverge.com/policy/1023877/prop-45-california-data-centers-energy",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-11-01T13:00:00+00:00",
+    "summary": "A high-stakes California ballot measure pitched as a fast track for \"essential\" infrastructure could wind up giving data center developers a loophole to evade public scrutiny, environmental advocates warn. Proposition 45 would shorten timelines for state-mandated...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/06/STKS528_DATA_CENTERS2_C.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
     "tags": [
-      "ForbesWomen",
-      "/forbeswomen",
-      "Leadership",
-      "/leadership",
-      "ForbesWomen"
+      "Energy",
+      "Environment",
+      "Policy",
+      "Politics",
+      "Science"
     ],
     "industries": [
       "tech"
-    ],
-    "relevance_score": 17
-  },
-  {
-    "id": "25c799e87cfd",
-    "title": "Best Buy is bundling a $100 gift card with touchscreen MacBook Pro preorders",
-    "url": "https://www.theverge.com/gadgets/1023302/best-buy-gift-card-macbook-pro-proled-xdr-preorder-deal-sale",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-10-31T15:00:00+00:00",
-    "summary": "While the new touch-enabled MacBook Pro with the PROLED XDR screen is available for preorder across a few major retailers, Best Buy is sweetening the deal by including a $100 gift card. The gift card will be automatically added to your cart when you preorder one of Apple’s...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/268836_MacBook_Pro_touchscreen_OLED_handson_ADiBenedetto_0048.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
-    "tags": [
-      "Apple",
-      "Apple Event 2026",
-      "Deals",
-      "Gadgets",
-      "Laptops"
-    ],
-    "industries": [
-      "tech",
-      "retail"
-    ],
-    "relevance_score": 16
-  },
-  {
-    "id": "2065ffa365f3",
-    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
-    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-10-31T21:36:07+00:00",
-    "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Biotech & Health",
-      "Climate",
-      "Fintech",
-      "Fundraising"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
     ],
     "relevance_score": 16
   },
@@ -403,24 +334,44 @@
     "relevance_score": 15
   },
   {
-    "id": "aa4f21802f67",
-    "title": "What To Watch This Weekend: New Shows And Movies To Stream On Netflix, Hulu, Prime Video, Apple TV And More",
-    "url": "https://www.forbes.com/sites/erikkain/2026/10/31/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-10-31T19:31:10+00:00",
-    "summary": "Looking for something new to stream this week? Here’s every major new movie and show hitting Netflix, Hulu, Prime Video, Apple TV and more.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ae4f465128022b529699bb5/0x0.jpg?width=960",
+    "id": "2065ffa365f3",
+    "title": "4 days left: How TechCrunch Founder Summit helps you make more useful connections to scale",
+    "url": "https://techcrunch.com/2026/10/31/4-days-left-how-techcrunch-founder-summit-helps-you-make-more-useful-connections-to-scale/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-10-31T21:36:07+00:00",
+    "summary": "On November 4 at Boston’s SoWa Power Station, get ready for a full day packed with meaningful networking opportunities, actionable insights, and connections that could change the trajectory of your idea and startup. Register before all prices go up at the door.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/03/Early-Stage-2024-audience.jpg?resize=1200,800",
     "tags": [
-      "Gaming",
-      "/gaming",
-      "Innovation",
-      "/innovation",
-      "Gaming"
+      "AI",
+      "Biotech & Health",
+      "Climate",
+      "Fintech",
+      "Fundraising"
     ],
     "industries": [
-      "media",
-      "tech"
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "03a18e7f8120",
+    "title": "A fully playable version of Portal prequel F-Stop leaked",
+    "url": "https://www.theverge.com/games/1024206/playable-portal-prequel-f-stop-leak",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-11-01T16:19:21+00:00",
+    "summary": "Leakers have pieced together a playable version of the canceled Portal prequel F-Stop. Most of the assets came from the massive 12-terabyte leak that dropped this August. That didn't include the game's source code or map data, but those final pieces apparently hit the Valve...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2025/11/STKB376_VALVE_D.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "Gaming",
+      "News",
+      "PC Gaming"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 15
   },
@@ -441,18 +392,65 @@
     "relevance_score": 14
   },
   {
-    "id": "ce3b9c93723a",
-    "title": "Weekly Rundown: Doximity launches DoseCheck; AI recommends costlier care than doctors, study finds",
-    "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-doximity-launches-dosecheck-ai-recommends-costlier-care-doctors-study",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-10-30T12:34:00+00:00",
-    "summary": "The latest news from Doximity, Hims & Hers, Google, NEJM AI, Eko Health, RevSpring, Symplr and Cleveland Clinic Cancer Institute.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2217168478.jpg?VersionId=0phAnpOmLcGCkwxate79_jHGSX6nTo0S",
-    "tags": [],
+    "id": "26bc43c8a22d",
+    "title": "Energy Security Is Beating Energy Ideology",
+    "url": "https://www.forbes.com/sites/rrapier/2026/11/01/energy-security-is-beating-energy-ideology/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-11-01T12:00:00+00:00",
+    "summary": "Energy security is reshaping the global energy transition as governments prioritize reliability, redundancy, infrastructure, and diversified supply.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ae65baa6a9364ee7b45428e/0x0.jpg?width=960",
+    "tags": [
+      "Energy",
+      "/energy",
+      "Business",
+      "/business",
+      "Energy"
+    ],
     "industries": [
-      "tech",
-      "lifesciences"
+      "tech"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "5bd64ba4b629",
+    "title": "There’s a Free Video Editor Inside Google Drive That Anyone Can Use",
+    "url": "https://www.wired.com/story/google-vids-free-video-editor-inside-google-drive/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-11-01T12:00:00+00:00",
+    "summary": "You may not have noticed everything Google’s free software suite offers—especially a web app called Google Vids.",
+    "image_url": "https://media.wired.com/photos/6adf47c4094d0f0ff2dda226/master/pass/102626-Google%20Vids.jpg",
+    "tags": [
+      "Gear",
+      "Gear / How To and Advice",
+      "software",
+      "Video",
+      "generative AI"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "b9197614823f",
+    "title": "The Hollywood Color Nerd Who Shot ‘Knives Out’ Explains His Viral iPhone Camera App",
+    "url": "https://www.wired.com/story/the-hollywood-color-nerd-who-shot-knives-out-explains-his-viral-iphone-camera-app/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-11-01T12:00:00+00:00",
+    "summary": "The Chromagraph Camera app costs $13 dollars and processes iPhone photos with the same color math Rian Johnson’s cinematographer, Steve Yedlin, uses for film.",
+    "image_url": "https://media.wired.com/photos/6ae4d8cd63df19eea97af1ce/master/pass/GettyImages-2247231598.jpg",
+    "tags": [
+      "Gear / Gear News and Events",
+      "software",
+      "Apps",
+      "ios",
+      "iPhone"
+    ],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 14
   },
@@ -475,47 +473,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "d9269f49d95d",
-    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
-    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-10-31T21:41:00+00:00",
-    "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
-    "tags": [
-      "AI",
-      "Apple",
-      "John Ternus"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "9d0ab32d0047",
-    "title": "Bill Parcells Applauds Giants For Letting QB J.J. McCarthy’s ‘Talent Flourish’",
-    "url": "https://www.forbes.com/sites/trevorwoods/2026/10/31/bill-parcells-applauds-giants-for-letting-qb-jj-mccarthys-talent-flourish/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-11-01T03:53:55+00:00",
-    "summary": "Here's why Hall of Fame head coach Bill Parcells loves what he's seeing from New York Giants quarterback J.J. McCarthy.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6ae6b2d797badc044bc99517/0x0.jpg",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "5d3fbf979ed6",
@@ -539,20 +497,18 @@
     "relevance_score": 13
   },
   {
-    "id": "95235900cc34",
-    "title": "I built an AI Tamagotchi before Meta could",
-    "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
-    "source": "The Verge",
+    "id": "d9269f49d95d",
+    "title": "Apple CEO says the company doesn’t ‘want to ship AI for AI’s sake’",
+    "url": "https://techcrunch.com/2026/10/31/apple-ceo-says-the-company-doesnt-want-to-ship-ai-for-ais-sake/",
+    "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-10-31T16:05:00+00:00",
-    "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home....",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&amp;strip=all&amp;crop=4%2C9.7534360513847%2C96%2C75.393048208485&amp;w=1200",
+    "published": "2026-10-31T21:41:00+00:00",
+    "summary": "Apple's new CEO defended the company's current position in the AI landscape.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-2302418320.jpg?w=1024",
     "tags": [
       "AI",
-      "Anthropic",
-      "Gadgets",
-      "Meta",
-      "Tech"
+      "Apple",
+      "John Ternus"
     ],
     "industries": [
       "tech"
@@ -560,62 +516,36 @@
     "relevance_score": 13
   },
   {
-    "id": "bb687cf98c08",
-    "title": "Zocdoc Opens Its Platform to AI Agents",
-    "url": "https://www.adweek.com/media/zocdoc-opens-its-platform-to-ai-agents/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-10-30T11:18:28+00:00",
-    "summary": "The app that connects users to healthcare providers will allow AI agents to access its database",
-    "image_url": null,
-    "tags": [
-      "AI News",
-      "Health and Wellness",
-      "Premium"
-    ],
-    "industries": [
-      "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "c33a4ef88304",
-    "title": "Vic Mensa can’t live without the Voice Memos app",
-    "url": "https://www.theverge.com/entertainment/1023477/vic-mensa-voice-memos-app-interview",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-10-31T15:00:00+00:00",
-    "summary": "Vic Mensa is one of those people who has done so many things that it's hard to remember where you were first introduced to him. Was it his debut mixtape Innanetape, which finally hit the major streaming services for the first time in September? Or maybe his house-influenced...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/DSCF4167.jpeg?quality=90&amp;strip=all&amp;crop=0%2C15.095986038394%2C100%2C69.808027923211&amp;w=1200",
-    "tags": [
-      "Entertainment",
-      "Interview",
-      "Music",
-      "Report"
-    ],
-    "industries": [
-      "media",
-      "tech"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "4fe6c7130737",
-    "title": "Sociable: Meta says its expanded processing capacity is driving ad results",
-    "url": "https://www.marketingdive.com/news/sociable-meta-says-its-expanded-processing-capacity-is-driving-ad-results/873191/",
-    "source": "Marketing Dive",
-    "source_category": "marketing",
-    "published": "2026-10-29T15:22:00+00:00",
-    "summary": "New insights from the company point to how its artificial intelligence enhancements are powering clicks and conversions.",
+    "id": "8a79e0137503",
+    "title": "AI Software Clones Are Coming For Big-Name Companies Like Adobe - Engadget",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNa2hIaTlRckxfcmJaeVRWZGtWdXJkN2xuNG5PU0ZtUGpDNnJoRU01eXBiY1NUbGRuUktmclJVejVHMlg2RklnVDgxX2NjdGpvcnJWejRMVzZiY3FHSW52MmxWaGpzMjItV21YeldEX2lOQW53aFo1OGpVWk1oX0N3dmRPS2pYaU1jaHZfME05Vmpqdw?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-11-01T15:30:00+00:00",
+    "summary": "AI Software Clones Are Coming For Big-Name Companies Like Adobe Engadget",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
       "industrial"
     ],
-    "relevance_score": 11
+    "relevance_score": 13
+  },
+  {
+    "id": "ce3b9c93723a",
+    "title": "Weekly Rundown: Doximity launches DoseCheck; AI recommends costlier care than doctors, study finds",
+    "url": "https://www.fiercehealthcare.com/health-tech/weekly-rundown-doximity-launches-dosecheck-ai-recommends-costlier-care-doctors-study",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-10-30T12:34:00+00:00",
+    "summary": "The latest news from Doximity, Hims & Hers, Google, NEJM AI, Eko Health, RevSpring, Symplr and Cleveland Clinic Cancer Institute.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2217168478.jpg?VersionId=0phAnpOmLcGCkwxate79_jHGSX6nTo0S",
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 12
   },
   {
     "id": "8ee465e091fe",
@@ -636,79 +566,23 @@
     "relevance_score": 11
   },
   {
-    "id": "93ad0842fdd4",
-    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
-    "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-10-30T13:00:00+00:00",
-    "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Runware-Factory-.jpg?w=1200",
+    "id": "bb687cf98c08",
+    "title": "Zocdoc Opens Its Platform to AI Agents",
+    "url": "https://www.adweek.com/media/zocdoc-opens-its-platform-to-ai-agents/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-10-30T11:18:28+00:00",
+    "summary": "The app that connects users to healthcare providers will allow AI agents to access its database",
+    "image_url": null,
     "tags": [
-      "AI",
-      "Startups",
-      "data centers",
-      "Runware"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "070ba1f75cff",
-    "title": "7 Agentic Service Strategies For Startups",
-    "url": "https://www.salesforce.com/blog/small-business/agentic-service-tips-for-startups/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-30T13:00:00+00:00",
-    "summary": "Here's how agentic customer service helps lean teams deliver without burning out.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_f71d24.png",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "621b53d3ad76",
-    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
-    "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-10-30T16:03:45+00:00",
-    "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1465332173.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "elizabeth holmes",
-      "Theranos"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "235bb524b25e",
-    "title": "Google’s first data center satellite is online and writing poetry",
-    "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-10-30T17:00:00+00:00",
-    "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Space",
-      "Exclusive",
-      "Google",
-      "space data centers"
+      "AI News",
+      "Health and Wellness",
+      "Premium"
     ],
     "industries": [
       "tech",
-      "industrial"
+      "industrial",
+      "lifesciences"
     ],
     "relevance_score": 11
   },
@@ -756,23 +630,23 @@
     "relevance_score": 11
   },
   {
-    "id": "ab8e381edc5f",
-    "title": "Touchscreens everywhere!",
-    "url": "https://www.theverge.com/tech/1023569/ipad-mini-alexa-photo-frame-readwise-installer",
+    "id": "95235900cc34",
+    "title": "I built an AI Tamagotchi before Meta could",
+    "url": "https://www.theverge.com/gadgets/1013375/muse-charm-gadgets-preview-waveshare-esp32-claude-vibe-code",
     "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-10-31T12:00:00+00:00",
-    "summary": "Hi, friends! Welcome to Installer No. 150, your guide to the best and Verge-iest stuff in the world. (If you're new here, welcome, happy Halloween, and also you can read all the old editions at the Installer homepage.) This week, I was in the Smoky Mountains in Tennessee on a...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/Installer-150.jpg?quality=90&amp;strip=all&amp;crop=0%2C3.4987011938249%2C100%2C93.00259761235&amp;w=1200",
+    "published": "2026-10-31T16:05:00+00:00",
+    "summary": "Mark Zuckerberg's Meta made AI look so stinking cute by giving it a squishy little face - and this holiday season, he wants to sell you a Muse Charm so you can carry your jolly AI helper around like a Tamagotchi. But I won't be buying one, because we have Muse Charm at home....",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/10/verge-sean-hollister-muse-gadget-331A2564-01-3.jpg?quality=90&amp;strip=all&amp;crop=4%2C9.7534360513847%2C96%2C75.393048208485&amp;w=1200",
     "tags": [
+      "AI",
+      "Anthropic",
       "Gadgets",
-      "Gaming",
-      "Installer",
+      "Meta",
       "Tech"
     ],
     "industries": [
-      "tech",
-      "industrial"
+      "tech"
     ],
     "relevance_score": 11
   },
@@ -815,35 +689,35 @@
     "relevance_score": 10
   },
   {
-    "id": "e150dfe9355e",
-    "title": "7 Architectural Lessons From Building With the Tooling API",
-    "url": "https://www.salesforce.com/blog/tooling-api-architectural-lessons/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-29T14:17:38+00:00",
-    "summary": "Practical lessons for working with the Tooling API, from understanding its object model and managing dependencies to handling asynchronous execution and designing safer destructive operations.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/7-Architectural-Lessons-From-Building-with-the-Tooling-API-1.png",
+    "id": "4fe6c7130737",
+    "title": "Sociable: Meta says its expanded processing capacity is driving ad results",
+    "url": "https://www.marketingdive.com/news/sociable-meta-says-its-expanded-processing-capacity-is-driving-ad-results/873191/",
+    "source": "Marketing Dive",
+    "source_category": "marketing",
+    "published": "2026-10-29T15:22:00+00:00",
+    "summary": "New insights from the company point to how its artificial intelligence enhancements are powering clicks and conversions.",
+    "image_url": null,
     "tags": [],
     "industries": [
-      "tech"
+      "tech",
+      "industrial"
     ],
     "relevance_score": 10
   },
   {
-    "id": "f5b5c2c6f0c4",
-    "title": "Elon Musk’s Ties to Texas Republicans Go Much Deeper Than the Midterms",
-    "url": "https://www.wired.com/story/elon-musks-ties-to-texas-republicans-go-much-deeper-than-the-midterms/",
-    "source": "Wired",
+    "id": "93ad0842fdd4",
+    "title": "Can AI data centers be mass-produced like cars? This startup aims to find out",
+    "url": "https://techcrunch.com/2026/10/30/can-ai-data-centers-be-mass-produced-like-cars-and-online-in-48-hours-this-startup-aims-to-find-out/",
+    "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-10-30T10:45:00+00:00",
-    "summary": "As Election Day approaches, the billionaire’s longstanding relationships with GOP leaders in Texas are under scrutiny.",
-    "image_url": "https://media.wired.com/photos/6ae0c75290b99bca949001fd/master/pass/102726-ken-paxton-elon-musk.jpg",
+    "published": "2026-10-30T13:00:00+00:00",
+    "summary": "Runware is building a factory to turn out prefabricated AI data centers on an assembly line. The real test will be whether it can deliver at that scale.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/Runware-Factory-.jpg?w=1200",
     "tags": [
-      "Politics",
-      "politics",
-      "government",
-      "elections",
-      "Elon Musk"
+      "AI",
+      "Startups",
+      "data centers",
+      "Runware"
     ],
     "industries": [
       "tech"
@@ -851,23 +725,59 @@
     "relevance_score": 10
   },
   {
-    "id": "41261c583472",
-    "title": "This App Brutally Shames You by Tracking How Many Hours You’ve Lost to Scrolling",
-    "url": "https://www.wired.com/story/oh-my-hours-ios-app/",
-    "source": "Wired",
+    "id": "070ba1f75cff",
+    "title": "7 Agentic Service Strategies For Startups",
+    "url": "https://www.salesforce.com/blog/small-business/agentic-service-tips-for-startups/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-30T13:00:00+00:00",
+    "summary": "Here's how agentic customer service helps lean teams deliver without burning out.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_f71d24.png",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "621b53d3ad76",
+    "title": "Theranos whistleblower Tyler Shultz warns that the AI boom is ‘a great opportunity to go deceive people’",
+    "url": "https://techcrunch.com/2026/10/30/theranos-whistleblower-tyler-shultz-warns-that-the-ai-boom-is-a-great-opportunity-to-go-deceive-people/",
+    "source": "TechCrunch AI",
     "source_category": "ai",
-    "published": "2026-10-30T11:00:00+00:00",
-    "summary": "The iOS app Oh My Hours takes a new approach to curbing screen time. It splits up your day into hour-long blocks, then shows which ones you wasted on Instagram and TikTok.",
-    "image_url": "https://media.wired.com/photos/6ae098c55eba24f851ec7cf8/master/pass/GettyImages-2240550047.jpg",
+    "published": "2026-10-30T16:03:45+00:00",
+    "summary": "The cautionary Theranos tale takes on a new significance in the AI era, when companies that have never turned a profit are raising capital at trillion-dollar valuations.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/GettyImages-1465332173.jpg?resize=1200,800",
     "tags": [
-      "Gear",
-      "Gear / How To and Advice",
-      "digital wellness",
-      "ios",
-      "Distractions"
+      "AI",
+      "elizabeth holmes",
+      "Theranos"
     ],
     "industries": [
       "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "235bb524b25e",
+    "title": "Google’s first data center satellite is online and writing poetry",
+    "url": "https://techcrunch.com/2026/10/30/googles-first-data-center-satellite-is-online-and-writing-poetry/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-10-30T17:00:00+00:00",
+    "summary": "The first TPU in space is running a Google DeepMind Gemma 4 model and writing cheesy poetry.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/10/DSC_0298.jpg?resize=1200,800",
+    "tags": [
+      "AI",
+      "Space",
+      "Exclusive",
+      "Google",
+      "space data centers"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 10
   },
@@ -917,22 +827,6 @@
     "relevance_score": 10
   },
   {
-    "id": "ae3c78b1990e",
-    "title": "FDA approves GSK's functional cure for hepatitis B - Drug Discovery News",
-    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3NoNXQwQjNWYWFzSWF0WjZFSF9Hd21EVnZLNWNBZ1ZnSDRGbUY5c2dLMDluM3ZpNUhicTBtS0NFNzZwLXVvQnctX3ZLcUdPWmxwazlDSnpqNWlWOHNJbHVaRWF3NlRyQS1CZERWcXNJQjBRZzRMMWRBMTNGV3Y3b0dlWHRsUmNsVnpHVGRpRXljMXB0?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-11-01T06:56:10+00:00",
-    "summary": "FDA approves GSK's functional cure for hepatitis B Drug Discovery News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "6af9cd86e412",
     "title": "Zocdoc invites AI agents to book appointments on behalf of patients",
     "url": "https://www.healthcaredive.com/news/zocdoc-invites-ai-agents-to-book-appointments-on-behalf-of-patients/873035/",
@@ -950,110 +844,38 @@
     "relevance_score": 9
   },
   {
-    "id": "8ce52d4dd613",
-    "title": "The Download: AI agent tracking and climate feedback loops",
-    "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-10-29T12:10:00+00:00",
-    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI,...",
-    "image_url": null,
-    "tags": [
-      "The Download"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "a0fbada613b3",
-    "title": "The Backroom: Dynamic pricing and the anxious consumer",
-    "url": "https://www.retaildive.com/news/podcast-the-backroom-dynamic-pricing-walmart-consumer-sentiment-holidays/873172/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-10-29T15:46:00+00:00",
-    "summary": "With the holidays approaching, consumers are zeroed in on price now more than ever — and Walmart is taking the heat.",
-    "image_url": null,
+    "id": "e150dfe9355e",
+    "title": "7 Architectural Lessons From Building With the Tooling API",
+    "url": "https://www.salesforce.com/blog/tooling-api-architectural-lessons/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-29T14:17:38+00:00",
+    "summary": "Practical lessons for working with the Tooling API, from understanding its object model and managing dependencies to handling asynchronous execution and designing safer destructive operations.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/7-Architectural-Lessons-From-Building-with-the-Tooling-API-1.png",
     "tags": [],
     "industries": [
-      "tech",
-      "retail"
+      "tech"
     ],
     "relevance_score": 9
   },
   {
-    "id": "7c93cb1387be",
-    "title": "Most consumers aren’t using AI for product discovery, yet",
-    "url": "https://www.retaildive.com/news/most-consumers-arent-using-ai-for-product-discovery-yet/833604/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-10-29T16:32:00+00:00",
-    "summary": "Retailers should consider the quality of their metadata to prepare for a predicted upswing in AI usage, new research finds.",
-    "image_url": "https://imgproxy.divecdn.com/yZh0D1pxWk0mwa9cc3JvuiOirUlu_2nyLpSK-shhUiY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTk1MDQ1MjA3LmpwZw==.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "aa4b7efa498b",
-    "title": "It Sure Looks Like the Department of Education Is Promoting a Right-Wing ‘Harry Potter’ Meme",
-    "url": "https://www.wired.com/story/it-sure-looks-like-the-department-of-education-is-promoting-a-right-wing-harry-potter-meme/",
+    "id": "41261c583472",
+    "title": "This App Brutally Shames You by Tracking How Many Hours You’ve Lost to Scrolling",
+    "url": "https://www.wired.com/story/oh-my-hours-ios-app/",
     "source": "Wired",
     "source_category": "ai",
-    "published": "2026-10-30T10:15:00+00:00",
-    "summary": "The meme appeared to reference gender-swapping “Malfoid” fan fiction, a term with incel roots. When asked about it, the DOE responded by quoting Dumbledore.",
-    "image_url": "https://media.wired.com/photos/6ae3a2964c40b236572925e2/master/pass/Culture_It%20Sure%20Looks%20Like%20the%20Department%20of%20Education%20Is%20Promoting%20a%20Right-Wing%20Harry%20Potter%20Meme_v1.jpg",
+    "published": "2026-10-30T11:00:00+00:00",
+    "summary": "The iOS app Oh My Hours takes a new approach to curbing screen time. It splits up your day into hour-long blocks, then shows which ones you wasted on Instagram and TikTok.",
+    "image_url": "https://media.wired.com/photos/6ae098c55eba24f851ec7cf8/master/pass/GettyImages-2240550047.jpg",
     "tags": [
-      "Culture",
-      "Culture / Digital Culture",
-      "memes",
-      "gender",
-      "Books"
+      "Gear",
+      "Gear / How To and Advice",
+      "digital wellness",
+      "ios",
+      "Distractions"
     ],
     "industries": [
-      "media",
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "80c836151b68",
-    "title": "Asia-Pacific Fintech Market to Hit $348.1 Bn by 2031, as Real-Time Payments, Super-Apps and Digital Banking Gain Ground, Says Mordor Intelligence - StreetInsider",
-    "url": "https://news.google.com/rss/articles/CBMirgJBVV95cUxQUnRJczE1UUZUX1RLay10bThNcWVuRFY3QmlBa1EtMl9CbTdFbUtoR1VISm9QeUxDZGhBcEw2elhha1hHdDZBRDJkaXdNMXpDNzdSM2FSSGdFM1l0cndBekZ3b182R1dLakpzSEs5MDc3NXotOHF2enlWUmtYZ0lBcUFob1gxUWQxUkFDSDBJcEhxMi10WlFLcjZ3R3JBY0dXRG52eVpSYmJvOWtzcktiaEI0SUtYcGppTTRzSXRYM0tTdFVIdDMwcmpBSXRJX1JqTEFCTjhSUkQtR1dDbkhzRkJIeExOT2pwaW9IdldDaGFPaS1SMnNZODlkRExqVHoxQUpCV0V2ZTBzMjVaR1FyOTczdVVlOVFXclRWOXEyYlotVUhtR1dJeTFmRGplZw?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-10-31T14:27:43+00:00",
-    "summary": "Asia-Pacific Fintech Market to Hit $348.1 Bn by 2031, as Real-Time Payments, Super-Apps and Digital Banking Gain Ground, Says Mordor Intelligence StreetInsider",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "3fcb2db53301",
-    "title": "Google Fi's international coverage and unlimited data make it my dream carrier - Android Police",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcjUzZi1IQmhiaHEtc0o2aHhfQkZHS1VZN1FnVTlBY2NYTDNiNmJjLXdMVmJsbXZIWUtmekkySllRSFhqZmQ0VU9BSXFUMC1RUFFxNXV4UU4zd2pleUF6a2JZNU5FdTVXQ3BPRWtEaHNWbV90elFsbTRULWQ1MVlUcHRzSjA2X1M5RGlOU3IwbTdINm9Ma2c?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-10-31T23:00:10+00:00",
-    "summary": "Google Fi's international coverage and unlimited data make it my dream carrier Android Police",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "telecom",
-      "industrial"
+      "tech"
     ],
     "relevance_score": 9
   },
@@ -1158,6 +980,57 @@
     "relevance_score": 8
   },
   {
+    "id": "8ce52d4dd613",
+    "title": "The Download: AI agent tracking and climate feedback loops",
+    "url": "https://www.technologyreview.com/2026/10/29/1147830/the-download-monitoring-ai-agents-climate-feedback-loops/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-10-29T12:10:00+00:00",
+    "summary": "This is today’s edition of The Download, our weekday newsletter that provides a daily dose of what’s going on in the world of technology. Opinion: We urgently need to monitor AI agents’ actions in real time —Madhulika Srikumar and Claire Leibowicz from the Partnership on AI,...",
+    "image_url": null,
+    "tags": [
+      "The Download"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "a0fbada613b3",
+    "title": "The Backroom: Dynamic pricing and the anxious consumer",
+    "url": "https://www.retaildive.com/news/podcast-the-backroom-dynamic-pricing-walmart-consumer-sentiment-holidays/873172/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-10-29T15:46:00+00:00",
+    "summary": "With the holidays approaching, consumers are zeroed in on price now more than ever — and Walmart is taking the heat.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "7c93cb1387be",
+    "title": "Most consumers aren’t using AI for product discovery, yet",
+    "url": "https://www.retaildive.com/news/most-consumers-arent-using-ai-for-product-discovery-yet/833604/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-10-29T16:32:00+00:00",
+    "summary": "Retailers should consider the quality of their metadata to prepare for a predicted upswing in AI usage, new research finds.",
+    "image_url": "https://imgproxy.divecdn.com/yZh0D1pxWk0mwa9cc3JvuiOirUlu_2nyLpSK-shhUiY/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy0xMTk1MDQ1MjA3LmpwZw==.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "e0e19c8a9134",
     "title": "After 43 years, Inovio gets its first FDA-approved drug in 'milestone' decision - The Business Journals",
     "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQNHU3cjlQYTdVX1pzVkk3SURnNTVyNTdPenZIdjlVcVAzTjFxek5kUXZyc01YbzFkU1pEME1xWGFSTTNVZ3l1UHk2V0w4TlBUT3RxenVxUkJDVUQ1MlRwMFFoOVVfVjExV041anpvVnNXajVJWnZDLXJKZkhtSmxNREw5MmxhRFhybTZMTVo3MTRIMWdhUUg4a0pBeW4xQnFOel9rZXBQOXZ0Zw?oc=5",
@@ -1170,6 +1043,39 @@
     "industries": [
       "tech",
       "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "3fcb2db53301",
+    "title": "Google Fi's international coverage and unlimited data make it my dream carrier - Android Police",
+    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxNcjUzZi1IQmhiaHEtc0o2aHhfQkZHS1VZN1FnVTlBY2NYTDNiNmJjLXdMVmJsbXZIWUtmekkySllRSFhqZmQ0VU9BSXFUMC1RUFFxNXV4UU4zd2pleUF6a2JZNU5FdTVXQ3BPRWtEaHNWbV90elFsbTRULWQ1MVlUcHRzSjA2X1M5RGlOU3IwbTdINm9Ma2c?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-10-31T23:00:10+00:00",
+    "summary": "Google Fi's international coverage and unlimited data make it my dream carrier Android Police",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom",
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "ae3c78b1990e",
+    "title": "FDA approves GSK's functional cure for hepatitis B - Drug Discovery News",
+    "url": "https://news.google.com/rss/articles/CBMilAFBVV95cUxOU3NoNXQwQjNWYWFzSWF0WjZFSF9Hd21EVnZLNWNBZ1ZnSDRGbUY5c2dLMDluM3ZpNUhicTBtS0NFNzZwLXVvQnctX3ZLcUdPWmxwazlDSnpqNWlWOHNJbHVaRWF3NlRyQS1CZERWcXNJQjBRZzRMMWRBMTNGV3Y3b0dlWHRsUmNsVnpHVGRpRXljMXB0?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-11-01T06:56:10+00:00",
+    "summary": "FDA approves GSK's functional cure for hepatitis B Drug Discovery News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
       "lifesciences"
     ],
     "relevance_score": 8
@@ -1242,35 +1148,23 @@
     "relevance_score": 7
   },
   {
-    "id": "d26f486a1edf",
-    "title": "The Adobe Firefly Approach: What Makes Adobe’s AI “Commercially Safe”? - ThePrint",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxPM2xmM3Rqb2g0aTZPcHhpSmJzWHFzZy1CbFB2U0FIZHlHTFBfQ0FmeHV4N0N4V2FlbU1UeU8xbEFiZkZJbWxVZ0dhdmFfdEdJV2VVdEo0Y1ZZSmNMellMUFJybzRwTGtFNjgwMG0wMjhTb1E4YWl3M2NvOVptUzFpZzI0d3NIT2llYkVSQWdWUV9qYVZPVm00NzdQcDFSN0Q4bUxHatIBqgFBVV95cUxQcl9vWUpJejlCSno4dmZDWk5KM01MMHB5WmR3QmtQdGZoOWU3cm05WTZzaVlrdjBUSENkVXFLUVVyenBMQW9aNW94SE5oSlBTaW1ldEFKRnJvRnk1S2tjejU1YkV2SWVFeDRNWjB4WGl6UTk0LWFqUmFmaGpJS0ttNHozRldoM2pIN1dVWE8tamhTWUM4TE15akp1Ml94QU52SEkyNTVFMzlvQQ?oc=5",
-    "source": "Adobe Products",
-    "source_category": "adobe",
-    "published": "2026-10-29T13:49:43+00:00",
-    "summary": "The Adobe Firefly Approach: What Makes Adobe’s AI “Commercially Safe”? ThePrint",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "d28af4ef0649",
-    "title": "Adobe Firefly is the unsung hero of AI-powered video editing software - How-To Geek",
-    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90RUFmdjhlVU0ycHRuc1hQSzRlUzVwUDkyU01rNmN6ZGU0NHljWjRoNERLY0Vla0ZERHdsQzRuYm51SDFMWG5IbWZJNUhVeFQtWkpxZ2ZrMVEtVlNOaDlyMFJYeDd5OE15Q0EwQnYxRFo?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-10-29T16:00:17+00:00",
-    "summary": "Adobe Firefly is the unsung hero of AI-powered video editing software How-To Geek",
+    "id": "61740547cdac",
+    "title": "Visa and Senegal join forces to accelerate digital transformation and the development of digital payments - Africa.com",
+    "url": "https://news.google.com/rss/articles/CBMixwFBVV95cUxNSUJEeWdhcUlSVzd2ZVZ4Yko0Snk4Qnl6MzcyNVJfQTRwX0lEZ1ctTldqUEdDRjhTeFNRcVdWM2tMbl9YTzQ3U3Q3U05SSDhWSnV6ZlFqMFo4LWtZYzBkaDZPR2l2UHhWOGJtQnF3R19mMTNjZ0pndWN0Rkk1N3Aza2FsNU4tdndfQVV4b0dhdGNlc0dHMUZNSkxaUVRCVnlXSmhlWUxTR1hXcGczWlMtamNlNFZzcVhLN2ZTY2xvMm1oTm1tdVE4?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-10-30T19:02:36+00:00",
+    "summary": "Visa and Senegal join forces to accelerate digital transformation and the development of digital payments Africa.com",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "industrial"
+      "financial"
     ],
-    "relevance_score": 7
+    "relevance_score": 7,
+    "also_covered_by": [
+      "Fintech"
+    ]
   },
   {
     "id": "f7a4a9935ccf",
@@ -1289,35 +1183,18 @@
     "relevance_score": 6
   },
   {
-    "id": "49cfbe878963",
-    "title": "Visa finally approved for onshore payments in China, but challenges remain - Electronic Payments International",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTVfU3Fid0NZYkl4LXhHVTkwZnhHeWxxRk52YjE3dnZZWFVjUVQwRjFqdVVXUWthMnBnaXg4YS1udi1vY0F2NHZRd0hyalRYb1dfWlpMWFJqT3NiZmY3ejhXSDA0dkJlQ0pyQlhXb0hpbzJDdmhzVWdRMG1Ja0ExcDJSclVIQjFEOUdFcFJaQVk1UXgxMmNCSVhqN3BmcF9xaHR5RFhGQXBwemgwU3c?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-10-29T16:11:26+00:00",
-    "summary": "Visa finally approved for onshore payments in China, but challenges remain Electronic Payments International",
+    "id": "d28af4ef0649",
+    "title": "Adobe Firefly is the unsung hero of AI-powered video editing software - How-To Geek",
+    "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTE90RUFmdjhlVU0ycHRuc1hQSzRlUzVwUDkyU01rNmN6ZGU0NHljWjRoNERLY0Vla0ZERHdsQzRuYm51SDFMWG5IbWZJNUhVeFQtWkpxZ2ZrMVEtVlNOaDlyMFJYeDd5OE15Q0EwQnYxRFo?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-10-29T16:00:17+00:00",
+    "summary": "Adobe Firefly is the unsung hero of AI-powered video editing software How-To Geek",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "fd1fa5751368",
-    "title": "Why Chelsea FC Is Partnering with FX Payment Platform Sokin - FinTech Magazine",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPM2NuSkhVT0k5cXV3ZHZwWm9jVFVNT1p5VWs4a0dBeDZiYmlCb0xpY3pqN0VLLUhIcUQ3NVNkcVlwenNzTUxXb0taWlBUVXo2dE5iaFliNGtTT2dUdC0xVEFhVi1yZVdtNnZtZG1YYkZ5UmhrdXV6dVVHZG11dmFyOVYxVnlQdE9wOWppV0NobVJaTmM?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-10-30T16:02:46+00:00",
-    "summary": "Why Chelsea FC Is Partnering with FX Payment Platform Sokin FinTech Magazine",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
+      "industrial"
     ],
     "relevance_score": 6
   },
@@ -1387,22 +1264,6 @@
     "relevance_score": 5
   },
   {
-    "id": "85cdf8c0c2ab",
-    "title": "Google’s New Crypto Custody Platform Aims to Safeguard Digital Assets - PaymentsJournal",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxOMXBxeU85cDR2QjNDV01IRlEwNFBkNktRZ0E1NVhFZHFOZHpiXzByWjJTc1R1eDlMcDZkMlZCVW1YNk15OG1kc0ZJdF84dTFsREpzb1RSRHdqRWk1eTR4bGdGLWdkQjlTT1NFWFVaNVJkUWpZZ2RoU1NUdWppSXlEd0hLOF9ieXpEQU1vY0g3cGRkbzA1bFhwTUZxNFZNYVBPYmhF0gGoAUFVX3lxTFBIUk8xVnRuVWVfZ2ZORV9CQXNVcjJkLUYta2xEQ3pMRGl3QU9uSVlqWnhiajJuNGo4dDVSY29kRkFjaHdrS05SSkxXRUNBdmRJT2hhandZTnJ2YmpfQ0Rkdy1xUGN6c29nOG1qdndSTC0yMUhqSk5hUFlxN3lIUlc2ZTdjaktySF9mWG5rQ2hLTHpkZGZYRk54bXltSTNxdDRSM0pMWTdEaw?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-10-28T18:00:00+00:00",
-    "summary": "Google’s New Crypto Custody Platform Aims to Safeguard Digital Assets PaymentsJournal",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 5
-  },
-  {
     "id": "f10504df5472",
     "title": "AdvaMed Digital Health Tech Board Approves Best Practices to Advance Responsible Data Access and Patient Care - AdvaMed® - Advanced Medical Technology Association®",
     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxON1BucmVRTjBrekIxVWZtTlF2VkhHMGhHMGFWQUJHaFp0anhuc3pyUGNSTVhwMm1STzIwVk5YUnRVNjBWeV84VUJHdWhjcDh1WGtNYm51U2ZFSTBZbVlVRXROaHAxTWlTV2t2bEduOGZ4QlliXzB4cGZUbWd0cDZiMVRNWkg0dzlSeklab0dDRGh5cU9RQkFmQThiZkZMZEN5RXFUZEk2dlVIaFA5U3NleDFkTjhKdmpHOTl5Q29fVDFTRWNnbHRqeWNKQjJtMFhieHFzOG9qZTEtTkU4VjhaRThYMy14dXpOR1cyMg?oc=5",
@@ -1431,6 +1292,23 @@
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "49cfbe878963",
+    "title": "Visa finally approved for onshore payments in China, but challenges remain - Electronic Payments International",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPYTVfU3Fid0NZYkl4LXhHVTkwZnhHeWxxRk52YjE3dnZZWFVjUVQwRjFqdVVXUWthMnBnaXg4YS1udi1vY0F2NHZRd0hyalRYb1dfWlpMWFJqT3NiZmY3ejhXSDA0dkJlQ0pyQlhXb0hpbzJDdmhzVWdRMG1Ja0ExcDJSclVIQjFEOUdFcFJaQVk1UXgxMmNCSVhqN3BmcF9xaHR5RFhGQXBwemgwU3c?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-10-29T16:11:26+00:00",
+    "summary": "Visa finally approved for onshore payments in China, but challenges remain Electronic Payments International",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "financial"
     ],
     "relevance_score": 5
   }
