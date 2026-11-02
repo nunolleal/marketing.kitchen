@@ -1,5 +1,18 @@
 [
   {
+    "id": "ffae23253f1c",
+    "title": "Salesforce vs. ActiveCampaign: Which CRM Fits Your Growing Business?",
+    "url": "https://www.salesforce.com/blog/salesforce-vs-activcampaign/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-02T14:00:00+00:00",
+    "summary": "Let’s take a look at these two CRMs side by side to see which would be a better fit for your business.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_1f079c.png",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 47
+  },
+  {
     "id": "31f403192213",
     "title": "Braze gives Salesforce more speed — and more overlap - MarTech",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTE1oenU2ek5jb3l2WUc3NmUxakh2dFFVeGowN093ZUwwLU51MFhRbnRyRGdtUjZuVE5IYTZIWUlPQXA4X2FsaG1zcDREUkltSEhnUGFaMGsxY1V6blF5T1ZQdDFpMnVYYnY1VUpGa282dkFVTjl0NUM5X0dJZw?oc=5",
@@ -11,21 +24,6 @@
     "tags": [],
     "industries": [],
     "relevance_score": 29
-  },
-  {
-    "id": "ca4cd76fc155",
-    "title": "RCS Messaging on Salesforce: A Practitioner’s Guide",
-    "url": "https://www.salesforce.com/blog/rcs-messaging-on-salesforce-a-practitioners-guide/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-28T20:20:36+00:00",
-    "summary": "A practitioner's guide to building with RCS on Marketing Cloud Next.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/mobile_first_rounded.png",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 27
   },
   {
     "id": "1acb44ed0fd7",
@@ -40,53 +38,39 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 26
+    "relevance_score": 26,
+    "also_covered_by": [
+      "Telecom"
+    ]
   },
   {
-    "id": "070ba1f75cff",
-    "title": "7 Agentic Service Strategies For Startups",
-    "url": "https://www.salesforce.com/blog/small-business/agentic-service-tips-for-startups/",
+    "id": "ba579981668c",
+    "title": "Salesforce Health Insights: Know What to Fix First",
+    "url": "https://www.salesforce.com/blog/salesforce-health-insights/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-10-30T13:00:00+00:00",
-    "summary": "Here's how agentic customer service helps lean teams deliver without burning out.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_f71d24.png",
+    "published": "2026-11-02T19:14:28+00:00",
+    "summary": "Turn scattered data and system complexity into an actionable plan with AI-powered step-by step next best actions delivered right where you work.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/salesforce_health_insights_blog_1500x844.png",
     "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 10
+    "industries": [],
+    "relevance_score": 15
   },
   {
-    "id": "6c04070fdeb5",
-    "title": "Data 360 × Snowflake: Powering the Agentic Enterprise with Zero Copy",
-    "url": "https://www.salesforce.com/blog/data360-snowflake/",
+    "id": "394671f82981",
+    "title": "Turn Autonomous Insights into Action: How to Set Up Proactive Intelligence with Tableau Next",
+    "url": "https://www.salesforce.com/blog/how-to-set-up-proactive-intelligence-tableau-next/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-10-30T17:54:54+00:00",
-    "summary": "The AI model itself is no longer the differentiator it once was. Enterprises increasingly have access to the same powerful foundation models. What will separate the leaders is something far more valuable: the…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/Snowflake-x-Salesforce_-Partner-Momentum-Blog-Post-1.png",
+    "published": "2026-11-02T16:47:59+00:00",
+    "summary": "Uncover hidden risks and stay on top of trends as they shift, without checking a single dashboard or asking a question.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/pro-int-0_list.png",
     "tags": [],
     "industries": [
+      "media",
       "industrial"
     ],
-    "relevance_score": 10
-  },
-  {
-    "id": "bc22a6b265fa",
-    "title": "The Humane Agentic Enterprise: How To Thrive with AI at Work",
-    "url": "https://www.salesforce.com/blog/the-humane-agentic-enterprise/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-30T18:47:40+00:00",
-    "summary": "Agentic AI is helping us do things we couldn’t do before. But could it also be weakening the skills we already have? To explore this tension, Salesforce researchers are studying how knowledge workers…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/07/Human-AI_Partnership_Blueprint-for-the_Future_Collaborative_Workplace.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 10
+    "relevance_score": 12
   },
   {
     "id": "e150dfe9355e",
@@ -104,65 +88,50 @@
     "relevance_score": 9
   },
   {
-    "id": "4757a9c3d824",
-    "title": "Salesforce Agent Fabric Targets Cross-Platform Evals for January 2027. Rivals Already Ship Them. - Salesforce Devops by Vernon Keenan",
-    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxPQkJvcEhHeVYxVlZOYncteUxXa3NrWnh3akJ0SG44UDVCcDFWT1JzOEpTUTF4Z0IxTDBPdU9PUVp6bjY3MVVWRzhiaGJpYUJ4ZXhwaTFYMVRyOTZyTFhuMnBWMl9SYWs1U1pZZWl0QlJXdVJYQnBIYmlEcGdwWC1BSmhlaGxlcDlPLU9hMXpn?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-10-27T19:41:26+00:00",
-    "summary": "Salesforce Agent Fabric Targets Cross-Platform Evals for January 2027. Rivals Already Ship Them. Salesforce Devops by Vernon Keenan",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "bff82dca2372",
-    "title": "Datablazer Roundup: October",
-    "url": "https://www.salesforce.com/blog/datablazer-monthly-roundup/",
+    "id": "070ba1f75cff",
+    "title": "7 Agentic Service Strategies For Startups",
+    "url": "https://www.salesforce.com/blog/small-business/agentic-service-tips-for-startups/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-10-30T13:04:00+00:00",
-    "summary": "Gather ’round, Datablazers. It’s spooky season, and we’ve got your monthly dose of what Datablazers are reading, writing, watching, building, and talking about in the latest Datablazer Roundup. This October, Datablazers have been…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/image1.png",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 8
-  },
-  {
-    "id": "d324ba8791ea",
-    "title": "Startups, Did You Know That Agentforce Coworker Can Do This?",
-    "url": "https://www.salesforce.com/blog/small-business/did-you-know-agentforce-coworker-can-do-this/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-10-28T18:38:20+00:00",
-    "summary": "We’re going down the Agentforce Coworker rabbit hole — did you know it could do all of this?",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_919110.png",
+    "published": "2026-10-30T13:00:00+00:00",
+    "summary": "Here's how agentic customer service helps lean teams deliver without burning out.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_f71d24.png",
     "tags": [],
     "industries": [
       "tech",
       "industrial"
     ],
-    "relevance_score": 7
+    "relevance_score": 9
   },
   {
-    "id": "22456a0a067e",
-    "title": "The Consignment Process: Practical Steps for Businesses",
-    "url": "https://www.salesforce.com/blog/small-business/consignment-process/",
+    "id": "6c04070fdeb5",
+    "title": "Data 360 × Snowflake: Powering the Agentic Enterprise with Zero Copy",
+    "url": "https://www.salesforce.com/blog/data360-snowflake/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-10-29T13:00:00+00:00",
-    "summary": "Consignment lets you get your products on shelves without spending a dollar — here's how the process works.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_74724b.png",
+    "published": "2026-10-30T17:54:54+00:00",
+    "summary": "The AI model itself is no longer the differentiator it once was. Enterprises increasingly have access to the same powerful foundation models. What will separate the leaders is something far more valuable: the…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/Snowflake-x-Salesforce_-Partner-Momentum-Blog-Post-1.png",
     "tags": [],
     "industries": [
       "industrial"
     ],
-    "relevance_score": 7
+    "relevance_score": 9
+  },
+  {
+    "id": "bc22a6b265fa",
+    "title": "The Humane Agentic Enterprise: How To Thrive with AI at Work",
+    "url": "https://www.salesforce.com/blog/the-humane-agentic-enterprise/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-30T18:47:40+00:00",
+    "summary": "Agentic AI is helping us do things we couldn’t do before. But could it also be weakening the skills we already have? To explore this tension, Salesforce researchers are studying how knowledge workers…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/07/Human-AI_Partnership_Blueprint-for-the_Future_Collaborative_Workplace.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 9
   },
   {
     "id": "5ec74413edf5",
@@ -186,6 +155,19 @@
     "published": "2026-10-29T17:17:31+00:00",
     "summary": "Trailblazers want to bring more of their creativity, expertise, and judgment to human-AI interactions. Here are five questions to guide designers.",
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/human-creativity-and-ai.png",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 7
+  },
+  {
+    "id": "bff82dca2372",
+    "title": "Datablazer Roundup: October",
+    "url": "https://www.salesforce.com/blog/datablazer-monthly-roundup/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-10-30T13:04:00+00:00",
+    "summary": "Gather ’round, Datablazers. It’s spooky season, and we’ve got your monthly dose of what Datablazers are reading, writing, watching, building, and talking about in the latest Datablazer Roundup. This October, Datablazers have been…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/image1.png",
     "tags": [],
     "industries": [],
     "relevance_score": 7
