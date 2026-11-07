@@ -14,7 +14,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 59
+    "relevance_score": 56
   },
   {
     "id": "7dd36629626d",
@@ -153,23 +153,6 @@
     "relevance_score": 49
   },
   {
-    "id": "a362a8b6801d",
-    "title": "Hims & Hers inks deal with Eli Lilly to offer branded weight loss drugs",
-    "url": "https://www.fiercehealthcare.com/health-tech/hims-hers-inks-deal-eli-lilly-offer-branded-weight-loss-drugs",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-11-06T16:12:00+00:00",
-    "summary": "Hims & Hers struck a deal with Eli Lilly to offer the drugmaker’s branded obesity treatments through its online health and wellness platform.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/lilly_photo.jpg?VersionId=YbzkBBJdx.9z9OrUke1rKAlSryUHFkt5",
-    "tags": [],
-    "industries": [
-      "tech",
-      "consumer",
-      "lifesciences"
-    ],
-    "relevance_score": 48
-  },
-  {
     "id": "37673162ca10",
     "title": "Marketing on Reddit: What you need to know",
     "url": "https://martech.org/a-marketers-guide-to-reddit/",
@@ -206,20 +189,21 @@
     "relevance_score": 46
   },
   {
-    "id": "eb3a01495b97",
-    "title": "Reformation implements new AI planning tool, helping in-stock rates",
-    "url": "https://www.retaildive.com/news/reformation-q3-earnings-sales-growth-ai-planning-tool-in-stock-rates/873991/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-11-06T17:12:00+00:00",
-    "summary": "The apparel brand's Q3 net revenue jumped 19% and analysts remarked on its strong performance as a newly public company.",
-    "image_url": "https://imgproxy.divecdn.com/qNRh1KB8bVoUm4cW-r2fwzxGJY_uV3s-TykviB8RONA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfOTYyMC5KUEc=.webp",
+    "id": "a362a8b6801d",
+    "title": "Hims & Hers inks deal with Eli Lilly to offer branded weight loss drugs",
+    "url": "https://www.fiercehealthcare.com/health-tech/hims-hers-inks-deal-eli-lilly-offer-branded-weight-loss-drugs",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-11-06T16:12:00+00:00",
+    "summary": "Hims & Hers struck a deal with Eli Lilly to offer the drugmaker’s branded obesity treatments through its online health and wellness platform.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/lilly_photo.jpg?VersionId=YbzkBBJdx.9z9OrUke1rKAlSryUHFkt5",
     "tags": [],
     "industries": [
       "tech",
-      "consumer"
+      "consumer",
+      "lifesciences"
     ],
-    "relevance_score": 46
+    "relevance_score": 45
   },
   {
     "id": "bc88f112f8ac",
@@ -236,6 +220,22 @@
       "retail",
       "consumer",
       "lifesciences"
+    ],
+    "relevance_score": 43
+  },
+  {
+    "id": "eb3a01495b97",
+    "title": "Reformation implements new AI planning tool, helping in-stock rates",
+    "url": "https://www.retaildive.com/news/reformation-q3-earnings-sales-growth-ai-planning-tool-in-stock-rates/873991/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-11-06T17:12:00+00:00",
+    "summary": "The apparel brand's Q3 net revenue jumped 19% and analysts remarked on its strong performance as a newly public company.",
+    "image_url": "https://imgproxy.divecdn.com/qNRh1KB8bVoUm4cW-r2fwzxGJY_uV3s-TykviB8RONA/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9JTUdfOTYyMC5KUEc=.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "consumer"
     ],
     "relevance_score": 43
   },
@@ -383,6 +383,29 @@
     "relevance_score": 18
   },
   {
+    "id": "7ed2cdecdb4b",
+    "title": "Outside AI Agents Aren’t Slowing Google And Amazon Ads. Their Own Are.",
+    "url": "https://www.forbes.com/sites/jasongoldberg/2026/11/06/outside-ai-agents-arent-slowing-google-and-amazon-ads-their-own-are/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-11-06T23:20:10+00:00",
+    "summary": "Google and Amazon ad growth slowed, but outside AI agents aren’t the cause. The drag comes from their own AI assistants, which they haven’t fully monetized yet.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6aee5f5912cb0c4aad0bd283/0x0.jpg",
+    "tags": [
+      "Retail",
+      "/retail",
+      "Business",
+      "/business",
+      "Retail"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
     "id": "81cd1139b3a7",
     "title": "By the numbers: Ad tech’s widening divide, as AppLovin surges and rivals struggle in Q3",
     "url": "https://digiday.com/media/by-the-numbers-ad-techs-widening-divide-as-applovin-surges-and-rivals-struggle-in-q3/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -402,24 +425,24 @@
     "relevance_score": 16
   },
   {
-    "id": "2cd14ed43d13",
-    "title": "What To Watch This Weekend: ‘Godzilla Minus Zero,’ ‘Black Doves’ And More",
-    "url": "https://www.forbes.com/sites/erikkain/2026/11/06/what-to-watch-this-weekend-new-shows-and-movies-to-stream-on-netflix-hulu-prime-video-apple-tv-and-more/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-11-06T18:11:51+00:00",
-    "summary": "Godzilla Minus Zero, Black Doves Season 2, cybertronic cowboys and epic fantasy: here’s what to watch this weekend on Netflix, Hulu, Apple TV and more.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6aee09c5ad3c1eac7ebd0d06/0x0.jpg?width=960",
+    "id": "ec2480d446f6",
+    "title": "Crusoe sells troubled Wyoming data center project to Google",
+    "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-11-07T01:40:28+00:00",
+    "summary": "The deal highlights the challenges of developing massive AI data centers.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/crusoe-ceo-getty.jpg?resize=1200,800",
     "tags": [
-      "Gaming",
-      "/gaming",
-      "Innovation",
-      "/innovation",
-      "Gaming"
+      "AI",
+      "Google",
+      "datacenter",
+      "ai infrastructure",
+      "crusoe"
     ],
     "industries": [
-      "media",
-      "tech"
+      "tech",
+      "industrial"
     ],
     "relevance_score": 16
   },
@@ -446,127 +469,24 @@
     "relevance_score": 15
   },
   {
-    "id": "be7d7a0dde14",
-    "title": "The Children’s Place shakes up leadership amid bankruptcy rumors",
-    "url": "https://www.retaildive.com/news/the-childrens-place-leadership-shakeup-bankruptcy-rumors/874004/",
-    "source": "Retail Dive",
-    "source_category": "industry_retail",
-    "published": "2026-11-06T17:31:00+00:00",
-    "summary": "With various executives and directors out, including the CEO, the children’s apparel retailer’s CFO has taken over as principal executive officer.",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "financial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "8d7ae5b310e8",
-    "title": "Just about anyone can rent access to White House IP addresses",
-    "url": "https://www.theverge.com/tech/1028835/white-house-residential-proxy",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-11-06T17:40:06+00:00",
-    "summary": "Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just \"a few dollars,\" as reported by Krebs on Security and The Register. That's according to findings from the security firms Layer3 Intel and...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "id": "ff5a8980c459",
+    "title": "Carson Hocevar Finally Feels NASCAR’s Heat",
+    "url": "https://www.forbes.com/sites/gregengle/2026/11/06/carson-hocevar-finally-feels-nascars-heat/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-11-07T00:48:41+00:00",
+    "summary": "Previous fines apparently weren't enough to change Carson Hocevar's behavior. Now he's hoping missing a NASCAR race will finally make the lesson stick.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6aee73c639cad3648ebeae84/0x0.jpg",
     "tags": [
-      "News",
-      "Policy",
-      "Security",
-      "Tech"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "9aeac73058ac",
-    "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
-    "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-11-06T18:10:10+00:00",
-    "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&amp;strip=all&amp;crop=8.0752843063528%2C7.2758349524933%2C91.924715693647%2C59.9199899822&amp;w=1200",
-    "tags": [
-      "AI",
-      "Apps",
-      "Meta",
-      "Tech"
-    ],
-    "industries": [
-      "media",
-      "tech",
-      "retail"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "2d23850120e5",
-    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
-    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-11-06T18:44:20+00:00",
-    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
-    "tags": [
-      "AI",
-      "agents",
-      "Mark Zuckerberg",
-      "Meta",
-      "muse"
+      "SportsMoney",
+      "/sportsmoney",
+      "Business",
+      "/business",
+      "SportsMoney"
     ],
     "industries": [
       "tech",
       "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "c6de3cfc399e",
-    "title": "Will A Democratic Congress Undo Trump’s Tariffs? Why Midterms Wins May Not Impact Trade Policies",
-    "url": "https://www.forbes.com/sites/alisondurkee/2026/11/06/will-a-democratic-congress-undo-trumps-tariffs-why-midterms-wins-may-not-impact-trade-policies/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-11-06T20:34:50+00:00",
-    "summary": "Polling suggests Americans’ unhappiness with Trump’s tariff agenda influenced their midterm votes—but it’s unclear how much Democrats will change it.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6aee38496e5fc56309b90fdd/0x0.jpg?width=960&precrop=1750%2C985%2Cx134%2Cy90",
-    "tags": [
-      "Business",
-      "/business",
-      "Business",
-      "/business",
-      "Breaking"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "4da3f5e5758d",
-    "title": "‘Godzilla’ Tequila, ‘James Bond,’ And Jake Tapper: IDW Publishing CEO Davidi Jonas Breaks Down Company’s Exciting Evolution",
-    "url": "https://www.forbes.com/sites/joshweiss/2026/11/06/godzilla-tequila-james-bond-and-jake-tapper-idw-publishing-ceo-davidi-jonas-breaks-down-companys-exciting-evolution/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-11-06T21:30:39+00:00",
-    "summary": "Since taking control of IDW Publishing in 2023, CEO Davidi Jonas has helped the company tripled its annual cash flow.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6aee3da54dd86c9fee17e37d/0x0.jpg?width=960&precrop=1825%2C1026%2Cx0%2Cy39",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "media",
-      "tech"
     ],
     "relevance_score": 15
   },
@@ -617,7 +537,7 @@
     "source": "Healthcare Dive",
     "source_category": "industry_lifesciences",
     "published": "2026-11-06T14:53:23+00:00",
-    "summary": "Earlier this week, the Trump administration denied recertification requests from Island Peer Review Organization and Network Medical Review Company. Insurers cheered the decision, though both arbiters said they were considering appeals.",
+    "summary": "Earlier this week, the Trump administration denied recertification requests from Island Peer Review Organization and Network Medical Review Company. Insurers cheered the decision, though both arbiters said they could appeal.",
     "image_url": "https://imgproxy.divecdn.com/0-v_sG-Q-H71WEpxErnJncCzRZ3vI-aH5Ekhgseh2f0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05NjkwNjU5ODAuanBn.webp",
     "tags": [],
     "industries": [
@@ -626,14 +546,117 @@
     "relevance_score": 14
   },
   {
-    "id": "bfef2773798c",
-    "title": "Did This Acclaimed Comic Book Project Help Turn North Carolina Blue?",
-    "url": "https://www.forbes.com/sites/robsalkowitz/2026/11/06/did-this-acclaimed-comic-book-project-help-turn-north-carolina-blue/",
+    "id": "be7d7a0dde14",
+    "title": "The Children’s Place shakes up leadership amid bankruptcy rumors",
+    "url": "https://www.retaildive.com/news/the-childrens-place-leadership-shakeup-bankruptcy-rumors/874004/",
+    "source": "Retail Dive",
+    "source_category": "industry_retail",
+    "published": "2026-11-06T17:31:00+00:00",
+    "summary": "With various executives and directors out, including the CEO, the children’s apparel retailer’s CFO has taken over as principal executive officer.",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "financial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "8d7ae5b310e8",
+    "title": "Just about anyone can rent access to White House IP addresses",
+    "url": "https://www.theverge.com/tech/1028835/white-house-residential-proxy",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-11-06T17:40:06+00:00",
+    "summary": "Someone at the White House appears to be running software that could enable outsiders to rent access on the presidential network for just \"a few dollars,\" as reported by Krebs on Security and The Register. That's according to findings from the security firms Layer3 Intel and...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/23318430/akrales_220309_4977_0038.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "tags": [
+      "News",
+      "Policy",
+      "Security",
+      "Tech"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "9aeac73058ac",
+    "title": "Meta’s Muse AI can create custom ‘spaces’ for the version of the app you need right now",
+    "url": "https://www.theverge.com/tech/1028871/meta-muse-ai-spaces",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-11-06T18:10:10+00:00",
+    "summary": "Meta will now allow you to build customized, app-like experiences within Muse. The new feature, called \"spaces,\" allows its AI assistant to build things like a shopping hub, school dashboard, music tracker, trivia game, and more, which you can interact with directly in the...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/meta-muse-spaces.png?quality=90&amp;strip=all&amp;crop=8.0752843063528%2C7.2758349524933%2C91.924715693647%2C59.9199899822&amp;w=1200",
+    "tags": [
+      "AI",
+      "Apps",
+      "Meta",
+      "Tech"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "retail"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "2d23850120e5",
+    "title": "Meta introduces Spaces, a new way to collaborate with your Muse agent",
+    "url": "https://techcrunch.com/2026/11/06/meta-introduces-spaces-a-new-way-to-collaborate-with-your-muse-agent/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-11-06T18:44:20+00:00",
+    "summary": "Meta's Muse agents continue to get new features and integrations. Spaces promises to be a new way to interact with the AI helpers.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/09/muse-ai-meta.jpg?w=1200",
+    "tags": [
+      "AI",
+      "agents",
+      "Mark Zuckerberg",
+      "Meta",
+      "muse"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "c6de3cfc399e",
+    "title": "Will A Democratic Congress Undo Trump’s Tariffs? Why Midterms Wins May Not Impact Trade Policies",
+    "url": "https://www.forbes.com/sites/alisondurkee/2026/11/06/will-a-democratic-congress-undo-trumps-tariffs-why-midterms-wins-may-not-impact-trade-policies/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-11-06T18:58:17+00:00",
-    "summary": "'Islands in the Sky,' a graphic novel project spearheaded by March co-author Andrew Aydin, gives the Appalachian region its own voice. Last Tuesday, the country heard it.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6aee2a63f5c74e50992abe04/0x0.jpg?width=960",
+    "published": "2026-11-06T20:34:50+00:00",
+    "summary": "Polling suggests Americans’ unhappiness with Trump’s tariff agenda influenced their midterm votes—but it’s unclear how much Democrats will change it.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6aee38496e5fc56309b90fdd/0x0.jpg?width=960&precrop=1750%2C985%2Cx134%2Cy90",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "4da3f5e5758d",
+    "title": "‘Godzilla’ Tequila, ‘James Bond,’ And Jake Tapper: IDW Publishing CEO Davidi Jonas Breaks Down Company’s Exciting Evolution",
+    "url": "https://www.forbes.com/sites/joshweiss/2026/11/06/godzilla-tequila-james-bond-and-jake-tapper-idw-publishing-ceo-davidi-jonas-breaks-down-companys-exciting-evolution/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-11-06T21:30:39+00:00",
+    "summary": "Since taking control of IDW Publishing in 2023, CEO Davidi Jonas has helped the company tripled its annual cash flow.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6aee3da54dd86c9fee17e37d/0x0.jpg?width=960&precrop=1825%2C1026%2Cx0%2Cy39",
     "tags": [
       "Hollywood & Entertainment",
       "/hollywood-entertainment",
@@ -642,39 +665,8 @@
       "Hollywood & Entertainment"
     ],
     "industries": [
+      "media",
       "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "e4df8e5bbabc",
-    "title": "Trump Appeals Dismissal of $10 Billion Libel Suit Against Wall Street Journal - The New York Times",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWVJ1NVVRVzBIMzhjTFU1eXM0TW1ZaHJMY0xHS2dJWHAyQTVwOG1YX0YzLVM4c3ZGWV9vaU4xVTZMVXFJZk90eVlFY3NHeUtIZC1ZVlhjVFNSX2xJcmIwWUZPUzU0Z0ktTE5BZ3ppUW1HVzl0cWQyYjhkczJJNkxuRDdDcHBhOUU?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-11-06T21:28:04+00:00",
-    "summary": "Trump Appeals Dismissal of $10 Billion Libel Suit Against Wall Street Journal The New York Times",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "9c8aec186277",
-    "title": "Updated CAPItello-281 Data Support OS Advantage With Capivasertib in PTEN-Deficient mHSPC - OncLive",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcHdHclVaODBBOU5xbjAwek1hd2NVLVVRdFlwRHZRV2FVMDFLVjVmTFk0UEs1ZkVrWTZFZGx0UmY2SXhYYk9ZdGZ1ZEJvLTc4UzR0X2tldFpRYWV6T0tEbDNGYTBIZkRER09HY0JMRXFvLVU0MXdpOHFCYWMwbEdoMTA3SnlDWURCRFRIaGs0bXY1eEVBemV0a3BmZmhvLTd5dlZUa3NBWEtDMXEwWktNRjJnV0txdHJRN2c?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-11-06T21:51:05+00:00",
-    "summary": "Updated CAPItello-281 Data Support OS Advantage With Capivasertib in PTEN-Deficient mHSPC OncLive",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
     ],
     "relevance_score": 14
   },
@@ -738,6 +730,22 @@
     "relevance_score": 13
   },
   {
+    "id": "9c8aec186277",
+    "title": "Updated CAPItello-281 Data Support OS Advantage With Capivasertib in PTEN-Deficient mHSPC - OncLive",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxQcHdHclVaODBBOU5xbjAwek1hd2NVLVVRdFlwRHZRV2FVMDFLVjVmTFk0UEs1ZkVrWTZFZGx0UmY2SXhYYk9ZdGZ1ZEJvLTc4UzR0X2tldFpRYWV6T0tEbDNGYTBIZkRER09HY0JMRXFvLVU0MXdpOHFCYWMwbEdoMTA3SnlDWURCRFRIaGs0bXY1eEVBemV0a3BmZmhvLTd5dlZUa3NBWEtDMXEwWktNRjJnV0txdHJRN2c?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-11-06T21:51:05+00:00",
+    "summary": "Updated CAPItello-281 Data Support OS Advantage With Capivasertib in PTEN-Deficient mHSPC OncLive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
     "id": "ce33817e4026",
     "title": "Meta says US users can now video chat with their Muse AI avatar",
     "url": "https://techcrunch.com/2026/11/05/meta-says-us-users-can-now-video-chat-with-their-muse-ai-avatar/",
@@ -771,6 +779,22 @@
     ],
     "industries": [
       "tech"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "e4df8e5bbabc",
+    "title": "Trump Appeals Dismissal of $10 Billion Libel Suit Against Wall Street Journal - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQWVJ1NVVRVzBIMzhjTFU1eXM0TW1ZaHJMY0xHS2dJWHAyQTVwOG1YX0YzLVM4c3ZGWV9vaU4xVTZMVXFJZk90eVlFY3NHeUtIZC1ZVlhjVFNSX2xJcmIwWUZPUzU0Z0ktTE5BZ3ppUW1HVzl0cWQyYjhkczJJNkxuRDdDcHBhOUU?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-11-06T21:28:05+00:00",
+    "summary": "Trump Appeals Dismissal of $10 Billion Libel Suit Against Wall Street Journal The New York Times",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
     ],
     "relevance_score": 12
   },
@@ -827,6 +851,23 @@
     ],
     "industries": [
       "tech"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "0b7faf6bccf0",
+    "title": "Adobe Premiere mobile app is getting licensed music from Universal and Warner Music - Yahoo Tech",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxNZHF0eFhfN1VpbUV5ZnhxMXBEYUY5Q3N6OVBfekxfTFpOYVNSeHVQSTAzalgxUzFwTF9yYmoxMmtybDgtcTdWOFFfdnZVcV85MG44V0FaVmp1MVl0aG5RMHcyVEZnVDlDd1pFVEZTeEpoTFlLemJGR05MWVpjVW9oTF9tMGpwcTJaZnZucnJB?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-11-06T14:46:12+00:00",
+    "summary": "Adobe Premiere mobile app is getting licensed music from Universal and Warner Music Yahoo Tech",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "industrial"
     ],
     "relevance_score": 11
   },
@@ -928,43 +969,12 @@
     ]
   },
   {
-    "id": "a96047b49bd6",
-    "title": "Adobe vs. Okta: Which Technology Stock Is a Better Buy for 2027? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxNR3NvelNiem5xWjFrWElYMXlqcnRjZ2FuT2JLdkxMZlFsa1VqQ0dPQjl6emdxXzNhNmNkSWNscDI4REdmOHJ5Z01vWUJ1SzVIbFhLUlVoaGpqdlVWUC12LUFMdE50X3VGNjl6ajB4bURabUstb2JiV08tY1hvU2RVdzlrN2V5VlNzZXM3S3VNejBTanAtRk5FYlNaM0lPMVFheTZDazRfVW9zWm1qOXltcDFYekw?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-11-05T21:43:00+00:00",
-    "summary": "Adobe vs. Okta: Which Technology Stock Is a Better Buy for 2027? The Motley Fool",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "75204af2291e",
-    "title": "SENUM and Univers Telecom Group sign strategic partnership to accelerate Senegal’s digital transformation - Tech Review Africa",
-    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYWpfMURPbEJURmxhV0x5WkE0LUxac1BwYktLcUVoUnNKeUp1eDFvUV9fX1RQelpxUC0tbnpXUXJzTDNfS1dsUmNlcC1fYTNTZTVKSm1DSFhTZUxqdG9rRGptZjdjZlNiYTRYc204WGYwdU1kUTZWV0NZNkJoclBHR1JHNS0wNEYzNDBCOFNYMW55c3N3MlZNbjVzTWh6TGpmYmo5eXRuWWVGOUl0ZHFmZ3MtdkVVTU9rZ2hZWUNMR1hrY19TV2w2cnhuZGF1aDhCM2UybE9vaFBUUW8?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-11-06T17:27:07+00:00",
-    "summary": "SENUM and Univers Telecom Group sign strategic partnership to accelerate Senegal’s digital transformation Tech Review Africa",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "telecom"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "2c5c1a04a5ed",
+    "id": "15fba9923816",
     "title": "FDA Approval for RYBREVANT FASPRO issued to JANSSEN BIOTECH - Quantisnow",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxQREg2eUFVV2xHRktpRmt5d3k2MkM0UDJjZExKTk80Z3BsbWlleEpub2F2YTlsTUtudTZMYkszV2E2YUIwdE5FT1lMNmk5YURheGVVNU5KVVhHVFAwOW84clpYWnlUc0pBT0lubTJQOEhOc2x2aW5TLXdoZkl2YjVVMlI5SUpZMnJCWElxZzllZ3dZOWJjZXRnemRFSnFwSGs?oc=5",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbFNJaHQwa0NRdGlOX2xySkt6NDY2RkJVaUtocXJCQmplQjVjamZnOHhWdTVxYkZBWkxGVkNCWTdzSGtiaFQzOWlNcHJYYnllSzFMNVljbmdUbG5lV0VldDhwdDMxR0RDbVNIdEZzME1WYWVIeHB2RXZMWE9PMy1wb0NLeUNYYy14azA4cmdyWVNXQ3BtMkZKUnRpc09UZmhwSDFiNw?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-11-06T20:46:04+00:00",
+    "published": "2026-11-07T01:10:56+00:00",
     "summary": "FDA Approval for RYBREVANT FASPRO issued to JANSSEN BIOTECH Quantisnow",
     "image_url": null,
     "tags": [],
@@ -1110,23 +1120,6 @@
     "relevance_score": 9
   },
   {
-    "id": "db95d32fb729",
-    "title": "movement acquires technology assets of Swiss digital health vendor dacadoo - Vietnam Investment Review - VIR",
-    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEtOQlB5NkJvUjFxQm85MFI2ZlJvZFFaYTRUOU1XTkNrTThOMG1VdTlJcDEtanoxX0kzM1RlNG16OEV4M0JJUmpIUDQ5amQxQnNsNm02MnJaYkRBVVJiQllQZ19zcnE2ZzMwWlJMOU9LbVgtRjRzUm5GN3hYNkxRblVIWlhwdHZhUl9yaVlGdmdoOGo1LWhudVlKemRSMjFaTGQwcWtGOTg?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-11-06T08:17:17+00:00",
-    "summary": "movement acquires technology assets of Swiss digital health vendor dacadoo Vietnam Investment Review - VIR",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences",
-      "financial"
-    ],
-    "relevance_score": 9
-  },
-  {
     "id": "ac88f156b334",
     "title": "Visa Acceptance Platform Adds Support for UAE’s Jaywan Cards in Online Payments - TechAfrica News",
     "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOTWxNWlRDbDN4T2tFc1FURlFFb0VwTnExZnNXSmtvNmNHYU14UDJnb0lXeUV1ODhIdVVuYnAxQk84TjhPbi00TTc1RnQ1UmZaR3FMaFlBTk9CcnJzcFA1bUZWTnV2U25pNG1TeXNaMEVZZW0yc0lWNGJtZF9kdWlWbzZ4UnJma3Y3SXNsLVFPMThWNWZCRWgxM1dVOWI4Nm0tNUIwREFyTFJhQ3hpQ0NJWHk1QUpoZkZm?oc=5",
@@ -1139,6 +1132,22 @@
     "industries": [
       "tech",
       "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "75204af2291e",
+    "title": "SENUM and Univers Telecom Group sign strategic partnership to accelerate Senegal’s digital transformation - Tech Review Africa",
+    "url": "https://news.google.com/rss/articles/CBMi2wFBVV95cUxNYWpfMURPbEJURmxhV0x5WkE0LUxac1BwYktLcUVoUnNKeUp1eDFvUV9fX1RQelpxUC0tbnpXUXJzTDNfS1dsUmNlcC1fYTNTZTVKSm1DSFhTZUxqdG9rRGptZjdjZlNiYTRYc204WGYwdU1kUTZWV0NZNkJoclBHR1JHNS0wNEYzNDBCOFNYMW55c3N3MlZNbjVzTWh6TGpmYmo5eXRuWWVGOUl0ZHFmZ3MtdkVVTU9rZ2hZWUNMR1hrY19TV2w2cnhuZGF1aDhCM2UybE9vaFBUUW8?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-11-06T17:27:07+00:00",
+    "summary": "SENUM and Univers Telecom Group sign strategic partnership to accelerate Senegal’s digital transformation Tech Review Africa",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "telecom"
     ],
     "relevance_score": 9
   },
@@ -1193,6 +1202,23 @@
     "relevance_score": 8
   },
   {
+    "id": "db95d32fb729",
+    "title": "movement acquires technology assets of Swiss digital health vendor dacadoo - Vietnam Investment Review - VIR",
+    "url": "https://news.google.com/rss/articles/CBMiqAFBVV95cUxQVEtOQlB5NkJvUjFxQm85MFI2ZlJvZFFaYTRUOU1XTkNrTThOMG1VdTlJcDEtanoxX0kzM1RlNG16OEV4M0JJUmpIUDQ5amQxQnNsNm02MnJaYkRBVVJiQllQZ19zcnE2ZzMwWlJMOU9LbVgtRjRzUm5GN3hYNkxRblVIWlhwdHZhUl9yaVlGdmdoOGo1LWhudVlKemRSMjFaTGQwcWtGOTg?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-11-06T08:17:17+00:00",
+    "summary": "movement acquires technology assets of Swiss digital health vendor dacadoo Vietnam Investment Review - VIR",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences",
+      "financial"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "727ff4047862",
     "title": "Israeli-American AEYE Health wins Prix Galien Award for new AI technology helping prevent blindness - The Jerusalem Post",
     "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE5sU25sVFlJNlJLUnZUS2FUVmRSckVUcGRjOHpmN2hodTZyamtPeXJ5a0M2d0VSSE9zZDc5Mk1HcFpTMC0zR2l3cnJsTVh1bVRkb2VKM1FOUm9aZ2JlMkwwbmVoZUNLczg?oc=5",
@@ -1220,6 +1246,22 @@
     "industries": [
       "tech",
       "telecom"
+    ],
+    "relevance_score": 7
+  },
+  {
+    "id": "a80db893bc2c",
+    "title": "Banglalink launches Mukto Pay payments platform in Bangladesh - Electronic Payments International",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxQN1NPSzhUZUptYjVGNDh5R2VLSTBsT2F3SXlYdkttNnpxMVJqOVhNclFKMzNqcEdKTlhHcmNqZjRDUmxMVUNjeE5RZGNPOFlGaGpOMGVXT2FnTlpQTVpaSFBvYjdmN3QtbFhoYXJoblhqVV9HWDFsVjlFaTdsak5IaXBVeS1IY19hdGdJbG9Wdkxlc2FSSEdjVHZ4MWQwNUVtUDh4bVNrRklMM2x0WXhjV19fT1JIUQ?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-11-05T14:28:37+00:00",
+    "summary": "Banglalink launches Mukto Pay payments platform in Bangladesh Electronic Payments International",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
     ],
     "relevance_score": 7
   },
