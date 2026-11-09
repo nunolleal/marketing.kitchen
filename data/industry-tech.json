@@ -258,24 +258,6 @@
     ]
   },
   {
-    "id": "d46838371f1d",
-    "title": "Google, Meta and Amazon race to build AI shopping agents—3 priorities for brands - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQb1pTWkhGSk82djJ1ZEJucjlNdWlLMkdzeG9yRVlOR1Uxb2xkQjFXOFU5bDZtazUxQXN3ZjJCSE1pbjYwSDhWMVBGOHNmTG5ROXFYZ0w2SjRRbG1xRUppWFE4UUhDU1VDTWx3T25GeXljRllyemRhc1JHNFcxM19rdk1sbHNMVFhrTW5KMDhjLXNtRzQzX0ZxVA?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-11-02T10:00:00+00:00",
-    "summary": "Google, Meta and Amazon race to build AI shopping agents—3 priorities for brands Ad Age",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "consumer",
-      "industrial"
-    ],
-    "relevance_score": 31
-  },
-  {
     "id": "773d73b67a11",
     "title": "L’Oréal’s evolving microdrama strategy puts entertainment over product",
     "url": "https://www.marketingdive.com/news/loreals-evolving-microdrama-strategy-puts-entertainment-over-product/873646/",
@@ -326,28 +308,6 @@
     "relevance_score": 26
   },
   {
-    "id": "b9c0dd474c98",
-    "title": "Apple is racing to make Siri more agentic",
-    "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
-    "source": "The Verge",
-    "source_category": "ai",
-    "published": "2026-11-08T19:18:19+00:00",
-    "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.727837220746%2C100%2C78.544325558509&amp;w=1200",
-    "tags": [
-      "AI",
-      "Apple",
-      "Apple Rumors",
-      "News",
-      "Tech"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 18
-  },
-  {
     "id": "184c1db3f9a4",
     "title": "Apple’s M5 MacBook Air is down to its lowest price since July",
     "url": "https://www.theverge.com/gadgets/1029019/apple-macbook-air-13-15-inch-m5-deal-sale",
@@ -366,26 +326,27 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
-    "id": "ffffe1eb7061",
-    "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
-    "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
-    "source": "Wired",
+    "id": "b9c0dd474c98",
+    "title": "Apple is racing to make Siri more agentic",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1029552/apple-siri-ai-agentic",
+    "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-11-08T10:00:00+00:00",
-    "summary": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
-    "image_url": "https://media.wired.com/photos/6aee76034438325af23766b8/master/pass/macbook-pro-m5-top-2.jpg",
+    "published": "2026-11-08T19:18:19+00:00",
+    "summary": "Bloomberg's Mark Gurman says CEO John Ternus is pressuring AI czar Craig Federighi to accelerate the Siri roadmap and deliver a powerful AI agent that can compete with OpenAI's Dots or Meta's Muse. While Federighi has delivered a functional version of Siri AI on an incredibly...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/07/Siri-AI-Being-invoked-3.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.727837220746%2C100%2C78.544325558509&amp;w=1200",
     "tags": [
-      "Gear",
-      "Gear / Products",
-      "Gear / Deals",
-      "Gear / Products / Computers",
-      "Mac"
+      "AI",
+      "Apple",
+      "Apple Rumors",
+      "News",
+      "Tech"
     ],
     "industries": [
-      "tech"
+      "tech",
+      "industrial"
     ],
     "relevance_score": 16
   },
@@ -433,6 +394,27 @@
     "relevance_score": 15
   },
   {
+    "id": "ffffe1eb7061",
+    "title": "The Apple MacBook Pro M5 is on Sale, and a Top MacBook to Buy Right Now",
+    "url": "https://www.wired.com/story/macbook-pro-m5-deal-11-6-2026/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-11-08T10:00:00+00:00",
+    "summary": "Apple announced an updated 14-inch MacBook Pro with the latest M6 chip. But with the M5 model on sale, I’m not sure the M6 is worth the upgrade.",
+    "image_url": "https://media.wired.com/photos/6aee76034438325af23766b8/master/pass/macbook-pro-m5-top-2.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Products",
+      "Gear / Deals",
+      "Gear / Products / Computers",
+      "Mac"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
     "id": "81cd1139b3a7",
     "title": "By the numbers: Ad tech’s widening divide, as AppLovin surges and rivals struggle in Q3",
     "url": "https://digiday.com/media/by-the-numbers-ad-techs-widening-divide-as-applovin-surges-and-rivals-struggle-in-q3/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -475,29 +457,6 @@
     "relevance_score": 14
   },
   {
-    "id": "5573c6e06ff6",
-    "title": "Why J.Crew’s Turnaround Remains More Fragile Than It Appears",
-    "url": "https://www.forbes.com/sites/pamdanziger/2026/11/08/why-jcrews-turnaround-remains-more-fragile-than-it-appears/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-11-08T10:00:00+00:00",
-    "summary": "After a year of rapid growth, J.Crew still faces financial risks, leadership changes and a challenging retail market that raises questions about a sustainable recovery.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6aee29f16e5fc56309b90fcf/0x0.jpg",
-    "tags": [
-      "Retail",
-      "/retail",
-      "Business",
-      "/business",
-      "Retail"
-    ],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
     "id": "7ff53c833c04",
     "title": "Chatbots might be coming to Apple’s HomeView",
     "url": "https://www.theverge.com/tech/1029526/chatbots-might-be-coming-to-apples-homeview",
@@ -520,77 +479,25 @@
     "relevance_score": 14
   },
   {
-    "id": "de85046f46c7",
-    "title": "How Trump And Netanyahu’s Alliance Became A Political Liability For Both",
-    "url": "https://www.forbes.com/sites/natashalindstaedt/2026/11/08/how-trump-and-netanyahus-alliance-became-a-political-liability-for-both/",
+    "id": "c7d79430cd60",
+    "title": "Bill Skarsgård Jokes About Why James Bond Audition Didn’t Happen",
+    "url": "https://www.forbes.com/sites/timlammers/2026/11/08/bill-skarsgrd-jokes-about-why-james-bond-audition-didnt-happen/",
     "source": "Forbes Business",
     "source_category": "marketing",
-    "published": "2026-11-08T16:14:03+00:00",
-    "summary": "Trump and Netanyahu’s once mutually beneficial alliance became a political liability, as their hard-line approach to Iran alienated voters and undermined both leaders.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6af0965743b1528c88570c17/0x0.jpg",
+    "published": "2026-11-08T22:54:55+00:00",
+    "summary": "Bill Skarsgård is having a bit of fun regarding the casting of the new James Bond by explaining why he wasn’t called by producers to audition for the iconic role of 007.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6af0fa265dcb5bf02fa4010b/0x0.jpg?width=960&precrop=2540%2C1430%2Cx404%2Cy33",
     "tags": [
-      "Aerospace & Defense",
-      "/aerospace-defense",
+      "Hollywood & Entertainment",
+      "/hollywood-entertainment",
       "Business",
       "/business",
-      "Aerospace & Defense"
+      "Hollywood & Entertainment"
     ],
     "industries": [
       "tech"
     ],
     "relevance_score": 14
-  },
-  {
-    "id": "39605a1e65a6",
-    "title": "Invikafusp Alfa Plus Sacituzumab Govitecan Generates Responses in Metastatic TNBC and HR+/HER2– Breast Cancer - OncLive",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSnhuTzRtWjJ6VXYxS21KZDIxVC1EWENzZnVFZFJzTmZpUXZMR3A0cEVTdGJjUGIwQTNhQmlndnl6eTI2aGh2azJlUUhjWEVrcE15U1B4Q29Uamx0UTZudFBCX2JnQ2h3c1g5MzhVcTNEVHAwbXZhUnNyTGdiZ3Q3ei1TNHBMOWx4SmE3Rno0Qi00b25BWXJMV3g1YmNKcWJGSklJbW1iTmVubDJfRjNUNUdfM25Mc2F3a1Z2SHpObFY?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-11-08T16:15:53+00:00",
-    "summary": "Invikafusp Alfa Plus Sacituzumab Govitecan Generates Responses in Metastatic TNBC and HR+/HER2– Breast Cancer OncLive",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "c6f116c6dfbf",
-    "title": "Adobe vs. Palantir Technologies: Which Technology Stock Is a Better Buy Going Into 2027? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNamQ0bFA5TENZSWVjUk1XZUNzYk5ULVJyd3FQS29BT3gyUkU0NmFNeXNPaExuaEZOZTA1dW42c09MbG03UE1YanR6bXFSZGk2Zkg1a0RtWXFacDMwczRBOTVUMklmRDNSRkVnN0NhUW41SHE1NDgxRF9NQTB2UjlWTGFvYUhPNTA0d0xRNHBWblRUSFh1MzFFT3dvM2Jsck9DWUFLRk10UzZGYlZSSk1WZFJzSU5ZaS12TUx1SWxQSmRDblA3RXpYb3REUVR1QzF2cnpUWA?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-11-08T17:47:00+00:00",
-    "summary": "Adobe vs. Palantir Technologies: Which Technology Stock Is a Better Buy Going Into 2027? The Motley Fool",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "10a2a80a3bee",
-    "title": "The NFL Is Set To Fill The Bernabéu, But Madrid Has No Team Of Its Own",
-    "url": "https://www.forbes.com/sites/samleveridge/2026/11/08/the-nfl-is-set-to-fill-the-bernabu-but-madrid-has-no-team-of-its-own/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-11-08T10:46:51+00:00",
-    "summary": "As the Atlanta Falcons prepare to face the Cincinnati Bengals at Real Madrid’s Santiago Bernabéu, local professional football struggles to survive in the capital.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6af0505361c9b2cbefff4dd2/0x0.jpg?width=960",
-    "tags": [
-      "SportsMoney",
-      "/sportsmoney",
-      "Business",
-      "/business",
-      "SportsMoney"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 13
   },
   {
     "id": "17659dbb9cd3",
@@ -636,17 +543,70 @@
     "relevance_score": 13
   },
   {
-    "id": "f3d043332565",
-    "title": "Five Australian startups that raised funding last week - Dynamic Business",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNmtmMjZfazBkdmc1Y1J6Q2NtUkU2YzZ1Q1BGZmJSbGp4OWZQTHBpTEhxNnl4OE1Wb1dreFI4OUk2TnNYSnBGUjlDVkVhSjBfNW8yeXA1cnFZaXhENEM1cjNtSXpTQnhYS1hSVl9yZVIzVC16RlVETHV2WHRXaEpPTmhMZGFtQVRfNXFZUzVZLTc?oc=5",
-    "source": "Adobe Products",
+    "id": "de85046f46c7",
+    "title": "How Trump And Netanyahu’s Alliance Became A Political Liability For Both",
+    "url": "https://www.forbes.com/sites/natashalindstaedt/2026/11/08/how-trump-and-netanyahus-alliance-became-a-political-liability-for-both/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-11-08T16:14:03+00:00",
+    "summary": "Trump and Netanyahu’s once mutually beneficial alliance became a political liability, as their hard-line approach to Iran alienated voters and undermined both leaders.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6af0965743b1528c88570c17/0x0.jpg",
+    "tags": [
+      "Aerospace & Defense",
+      "/aerospace-defense",
+      "Business",
+      "/business",
+      "Aerospace & Defense"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "39605a1e65a6",
+    "title": "Invikafusp Alfa Plus Sacituzumab Govitecan Generates Responses in Metastatic TNBC and HR+/HER2– Breast Cancer - OncLive",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPSnhuTzRtWjJ6VXYxS21KZDIxVC1EWENzZnVFZFJzTmZpUXZMR3A0cEVTdGJjUGIwQTNhQmlndnl6eTI2aGh2azJlUUhjWEVrcE15U1B4Q29Uamx0UTZudFBCX2JnQ2h3c1g5MzhVcTNEVHAwbXZhUnNyTGdiZ3Q3ei1TNHBMOWx4SmE3Rno0Qi00b25BWXJMV3g1YmNKcWJGSklJbW1iTmVubDJfRjNUNUdfM25Mc2F3a1Z2SHpObFY?oc=5",
+    "source": "Adobe",
     "source_category": "adobe",
-    "published": "2026-11-08T23:01:13+00:00",
-    "summary": "Five Australian startups that raised funding last week Dynamic Business",
+    "published": "2026-11-08T16:15:53+00:00",
+    "summary": "Invikafusp Alfa Plus Sacituzumab Govitecan Generates Responses in Metastatic TNBC and HR+/HER2– Breast Cancer OncLive",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "c6f116c6dfbf",
+    "title": "Adobe vs. Palantir Technologies: Which Technology Stock Is a Better Buy Going Into 2027? - The Motley Fool",
+    "url": "https://news.google.com/rss/articles/CBMi1AFBVV95cUxNamQ0bFA5TENZSWVjUk1XZUNzYk5ULVJyd3FQS29BT3gyUkU0NmFNeXNPaExuaEZOZTA1dW42c09MbG03UE1YanR6bXFSZGk2Zkg1a0RtWXFacDMwczRBOTVUMklmRDNSRkVnN0NhUW41SHE1NDgxRF9NQTB2UjlWTGFvYUhPNTA0d0xRNHBWblRUSFh1MzFFT3dvM2Jsck9DWUFLRk10UzZGYlZSSk1WZFJzSU5ZaS12TUx1SWxQSmRDblA3RXpYb3REUVR1QzF2cnpUWA?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-11-08T17:47:00+00:00",
+    "summary": "Adobe vs. Palantir Technologies: Which Technology Stock Is a Better Buy Going Into 2027? The Motley Fool",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "db002feb013d",
+    "title": "Adobe integrates Agentic CX Enterprise Coworker into AI platforms - FutureCIO",
+    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxOdlJ6ZUNhZE9VX0dTNnhCQkhXRDBpSlYyOFdZOVBQNFBsU2hQTV9TSU1TTHdKSEJlUWcyNTQ0QWV5NWMyTzYwMG15VTFKSzBmR0Etd3Z1RlNLUGplMDhnRGtWY2swMGhqb3EtQWtPOFNsbUcxLURGaHNYTWExQ1cwd1A1Qnh2SjV6aVpTWU1IZ0RTQzA?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-11-09T01:00:00+00:00",
+    "summary": "Adobe integrates Agentic CX Enterprise Coworker into AI platforms FutureCIO",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 13
   },
@@ -691,6 +651,21 @@
     "relevance_score": 12
   },
   {
+    "id": "f3d043332565",
+    "title": "Five Australian startups that raised funding last week - Dynamic Business",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNNmtmMjZfazBkdmc1Y1J6Q2NtUkU2YzZ1Q1BGZmJSbGp4OWZQTHBpTEhxNnl4OE1Wb1dreFI4OUk2TnNYSnBGUjlDVkVhSjBfNW8yeXA1cnFZaXhENEM1cjNtSXpTQnhYS1hSVl9yZVIzVC16RlVETHV2WHRXaEpPTmhMZGFtQVRfNXFZUzVZLTc?oc=5",
+    "source": "Adobe Products",
+    "source_category": "adobe",
+    "published": "2026-11-08T23:01:13+00:00",
+    "summary": "Five Australian startups that raised funding last week Dynamic Business",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 12
+  },
+  {
     "id": "ec2480d446f6",
     "title": "Crusoe sells troubled Wyoming data center project to Google",
     "url": "https://techcrunch.com/2026/11/06/crusoe-sells-troubled-wyoming-data-center-project-to-google/",
@@ -710,25 +685,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 12
-  },
-  {
-    "id": "7e7175583876",
-    "title": "Free Firefly, Acrobat and Semrush access, if your startup qualifies - Dynamic Business",
-    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObTV0aV9JWFVDQlhoeEstVktpVXVVaUc0VzE1RWRSLXMtVVNBWWMyOE0wVV9nU2R3RmtGSFFPWEZFaVk2S1FSREtkREtRV1BiT004TVhCanA5bGcyMFZCUVEzYktGYzlNNThWMDFYLW9CNWhpWS1aWmxXaXJWSXI0MF8tblB5bnR1eEstTzd4M1NiZEpNYXJmSDAtOGdJY00?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-11-08T20:01:11+00:00",
-    "summary": "Free Firefly, Acrobat and Semrush access, if your startup qualifies Dynamic Business",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 12,
-    "also_covered_by": [
-      "Adobe Products"
-    ]
+    "relevance_score": 11
   },
   {
     "id": "c7230d9735e1",
@@ -749,6 +706,38 @@
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "6ffadddd2ac8",
+    "title": "Verizon Streaming Deals: Solid Savings on Netflix, Disney Plus, Apple Music and More - CNET",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxPc1dWbnlZcDRIcUUzd0RDQk1ENWU5MUxMWlk0RUNheGNpMHE1NlpPQmZuZzRMVjlDV1lzZW5uQnphRVlXa3ZTeTRXSldkSk9IaGMxWlEtbG5oeEVXZGhzSVZzeDFLeDNDalg2bXM2anNyOHFwVEh3aGNmMUI1Ykc1Y2ZUYmlLcGEzVm51LWhHY1ZjOUJrWF8tUk94NU1Oem1nZVE?oc=5",
+    "source": "Telecom",
+    "source_category": "industry_telecom",
+    "published": "2026-11-08T15:00:52+00:00",
+    "summary": "Verizon Streaming Deals: Solid Savings on Netflix, Disney Plus, Apple Music and More CNET",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "tech",
+      "telecom"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "7e7175583876",
+    "title": "Free Firefly, Acrobat and Semrush access, if your startup qualifies - Dynamic Business",
+    "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxObTV0aV9JWFVDQlhoeEstVktpVXVVaUc0VzE1RWRSLXMtVVNBWWMyOE0wVV9nU2R3RmtGSFFPWEZFaVk2S1FSREtkREtRV1BiT004TVhCanA5bGcyMFZCUVEzYktGYzlNNThWMDFYLW9CNWhpWS1aWmxXaXJWSXI0MF8tblB5bnR1eEstTzd4M1NiZEpNYXJmSDAtOGdJY00?oc=5",
+    "source": "Adobe Products",
+    "source_category": "adobe",
+    "published": "2026-11-08T20:01:11+00:00",
+    "summary": "Free Firefly, Acrobat and Semrush access, if your startup qualifies Dynamic Business",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 11
   },
@@ -796,7 +785,7 @@
     "source": "Healthcare Dive",
     "source_category": "industry_lifesciences",
     "published": "2026-11-06T14:53:23+00:00",
-    "summary": "Earlier this week, the Trump administration denied recertification requests from Island Peer Review Organization and Network Medical Review Company. Insurers cheered the decision, though both arbiters said they were considering appeals.",
+    "summary": "Earlier this week, the Trump administration denied recertification requests from Island Peer Review Organization and Network Medical Review Company. Insurers cheered the decision, though both arbiters said they could appeal.",
     "image_url": "https://imgproxy.divecdn.com/0-v_sG-Q-H71WEpxErnJncCzRZ3vI-aH5Ekhgseh2f0/g:ce/rs:fill:1600:900:1/Z3M6Ly9kaXZlc2l0ZS1zdG9yYWdlL2RpdmVpbWFnZS9HZXR0eUltYWdlcy05NjkwNjU5ODAuanBn.webp",
     "tags": [],
     "industries": [
@@ -886,23 +875,6 @@
       "industrial"
     ],
     "relevance_score": 10
-  },
-  {
-    "id": "92e808decdf7",
-    "title": "Adobe Launches ‘Adobe for Startups’ to Support Early-Stage Companies with AI-Powered Creative Tools - MediaNews4U",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQZkNZbnZPQlAybnAzbkwwWnAxaHd0cmhjYnhkWXhqTHJDd1kwdHFvZjlmeFVMTjROUTZsNjYwNkxXcWlkeUt2RUduVUR5WWpfcXpST01hdC00S3BaQl9za2dwQmRLZllDektUMWo3dS1heWFCd2daem12VERGOXI3dU5uYWZWTndZTVF1Nm9HNS1pMDFidWlvalBsQnZoZEVMZmZURVV1WVl1Z2ZqYWVxUXcyTFF1MVpXcElxVWJFZUk0ZW9t?oc=5",
-    "source": "Adobe Products",
-    "source_category": "adobe",
-    "published": "2026-11-03T07:22:19+00:00",
-    "summary": "Adobe Launches ‘Adobe for Startups’ to Support Early-Stage Companies with AI-Powered Creative Tools MediaNews4U",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 9
   },
   {
     "id": "44074a5b77e6",
@@ -1083,18 +1055,17 @@
     "relevance_score": 8
   },
   {
-    "id": "58cdecb55d94",
-    "title": "Adobe Integrates Agentic CX Enterprise Coworker Into AI Platforms from Anthropic, Google, Microsoft, OpenAI and More - Adobe Newsroom",
-    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNZHZIUktRa3ZmeVJkS2gtSFY1RlF5NEdnb3dDMmxGSEhSTGhIcTdmcUxFMXF4eThWSm9pcnFQeXEwMDdGeUdQdVRtajI3ZmIteFFfWXZJT1Z0VFVUYUx2cURaUVdfMzFxbTB3OUkwS2RNQ3pNZUpsdHByN0pINlp4NXR2MnFmQmNLYXptendKakdFWGs4TkREcjJJWFpCVXBORVRz?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-11-04T08:58:48+00:00",
-    "summary": "Adobe Integrates Agentic CX Enterprise Coworker Into AI Platforms from Anthropic, Google, Microsoft, OpenAI and More Adobe Newsroom",
+    "id": "8f09b469fe8c",
+    "title": "Adobe launches startup programme offering free access to creative and AI tools - Social Samosa",
+    "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxNYmJqQ0FaanRmZ0t4WFJ3S3Z2LVZfUkZ2RmE5NGR1X09CRmpnSzRvMUw5ZHlON29JX01rQWhlTmVOQW0weHlERWJLUVBxQjNOclAzUzVYTWRUb3I1MEQ2V1JFZGNTNm56Z29yYjVlVW55R1ZVQnQwdkluY2N3dzdxUmVDT09OTUx6Q3NrOGdkUDlOa0djei1RWElxM3VOUmQxYllVVVpzbHllUGROakUxV9IBsAFBVV95cUxNYmJqQ0FaanRmZ0t4WFJ3S3Z2LVZfUkZ2RmE5NGR1X09CRmpnSzRvMUw5ZHlON29JX01rQWhlTmVOQW0weHlERWJLUVBxQjNOclAzUzVYTWRUb3I1MEQ2V1JFZGNTNm56Z29yYjVlVW55R1ZVQnQwdkluY2N3dzdxUmVDT09OTUx6Q3NrOGdkUDlOa0djei1RWElxM3VOUmQxYllVVVpzbHllUGROakUxVw?oc=5",
+    "source": "Adobe Products",
+    "source_category": "adobe",
+    "published": "2026-11-03T10:01:28+00:00",
+    "summary": "Adobe launches startup programme offering free access to creative and AI tools Social Samosa",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech",
-      "industrial"
+      "tech"
     ],
     "relevance_score": 7
   },
@@ -1214,21 +1185,6 @@
     "relevance_score": 7
   },
   {
-    "id": "fbbb708bbc46",
-    "title": "META_TITLE_QUOTE - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiTEFVX3lxTE1FSW80ZHcxZmJSX25ncFY4c2J3V28wbFdXbWJkWWNDTjBMblFaUUxYdTdPblRqQU81clRjRUNYTUJpUjM3d0Nyd1lYTU0?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-11-06T21:16:53+00:00",
-    "summary": "META_TITLE_QUOTE Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 7
-  },
-  {
     "id": "82c712e3d469",
     "title": "Fisher & Paykel resolves more appliance issues with Agentforce - Salesforce",
     "url": "https://news.google.com/rss/articles/CBMijwFBVV95cUxNUllsVF80WVllbzZERURkS0lXZS1XLV9uSXU1Z3hvOXlvUW1OMW9KeVl5WTlvZHNia1FmMTRjbG1hWEtoS2pOQXpvUnB2UWNheWNRSldWMjZPMmZ5NDQ0ZWxmYVNRWHNTR1dYeG9BOS1rdWtJeEk0YXNqcWNPYkgtNFpmWVhzQUFqOVgxY2lhMA?oc=5",
@@ -1272,23 +1228,6 @@
     "tags": [],
     "industries": [
       "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "15fba9923816",
-    "title": "FDA Approval for RYBREVANT FASPRO issued to JANSSEN BIOTECH - Quantisnow",
-    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbFNJaHQwa0NRdGlOX2xySkt6NDY2RkJVaUtocXJCQmplQjVjamZnOHhWdTVxYkZBWkxGVkNCWTdzSGtiaFQzOWlNcHJYYnllSzFMNVljbmdUbG5lV0VldDhwdDMxR0RDbVNIdEZzME1WYWVIeHB2RXZMWE9PMy1wb0NLeUNYYy14azA4cmdyWVNXQ3BtMkZKUnRpc09UZmhwSDFiNw?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-11-07T01:10:56+00:00",
-    "summary": "FDA Approval for RYBREVANT FASPRO issued to JANSSEN BIOTECH Quantisnow",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial",
       "lifesciences"
     ],
     "relevance_score": 6
@@ -1352,6 +1291,23 @@
     "tags": [],
     "industries": [
       "tech"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "15fba9923816",
+    "title": "FDA Approval for RYBREVANT FASPRO issued to JANSSEN BIOTECH - Quantisnow",
+    "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxQbFNJaHQwa0NRdGlOX2xySkt6NDY2RkJVaUtocXJCQmplQjVjamZnOHhWdTVxYkZBWkxGVkNCWTdzSGtiaFQzOWlNcHJYYnllSzFMNVljbmdUbG5lV0VldDhwdDMxR0RDbVNIdEZzME1WYWVIeHB2RXZMWE9PMy1wb0NLeUNYYy14azA4cmdyWVNXQ3BtMkZKUnRpc09UZmhwSDFiNw?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-11-07T01:10:56+00:00",
+    "summary": "FDA Approval for RYBREVANT FASPRO issued to JANSSEN BIOTECH Quantisnow",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial",
+      "lifesciences"
     ],
     "relevance_score": 5
   }
