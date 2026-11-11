@@ -12,7 +12,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 50
+    "relevance_score": 47
   },
   {
     "id": "f58d0e510dfd",
@@ -31,6 +31,38 @@
     "relevance_score": 29
   },
   {
+    "id": "7265f6a29d0c",
+    "title": "Securing Salesforce with Salesforce: Retiring the Catch-All Inbox for an Agentic Frontline",
+    "url": "https://www.salesforce.com/blog/securing-salesforce-agentic-security-triage/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-10T22:22:06+00:00",
+    "summary": "Learn how Salesforce built an AI-powered security reporting agent using Agentforce, Slack, and Service Cloud to streamline security intake, improve report quality, and help security teams focus on critical threats.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/network.jpeg",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
+    "id": "c7c11f549cb5",
+    "title": "With Salesforce Catalog, agents stop guessing how your org works",
+    "url": "https://www.salesforce.com/blog/salesforce-catalog-ai-agents/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-11T00:01:58+00:00",
+    "summary": "The average customer satisfaction (CSAT) score your service team tracks fell this week. Before anyone decides whether customers are less happy, someone has to answer a plain question; where does the number come…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image1_ee0631.png",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 15
+  },
+  {
     "id": "f636e6051bce",
     "title": "From Months to Minutes: How to Launch an Agentic Contact Center Fast",
     "url": "https://www.salesforce.com/blog/launch-agentic-contact-center/",
@@ -44,7 +76,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "e11358564241",
@@ -60,7 +92,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "37c23050ec71",
@@ -76,7 +108,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "ef30249cfecc",
@@ -91,22 +123,20 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
-    "id": "a7cddf21fe4b",
-    "title": "Introducing GIFT-Eval-CTX: An Open-Source Benchmark for Contextual Forecasting",
-    "url": "https://www.salesforce.com/blog/gift-eval-ctx/",
+    "id": "c3eb6eada31a",
+    "title": "Design a Salesforce Persona-Centered Security Model",
+    "url": "https://www.salesforce.com/blog/persona-based-security-model/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-11-09T23:47:30+00:00",
-    "summary": "Built by Salesforce AI Research, GIFT-Eval-CTX measures how effectively LLMs and agentic AI convert forward-looking context, such as promotions or weather events, into precise forecasts. The benchmark demonstrates that feeding structured operational context…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Salesforce-Blue-Analytics-Gearscape.png",
+    "published": "2026-11-10T21:58:15+00:00",
+    "summary": "Keep access consistent, scalable, and clear to both IT and the business through personas as the foundation.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/AdobeStock_1924503677.jpeg",
     "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 12
+    "industries": [],
+    "relevance_score": 13
   },
   {
     "id": "27532696306a",
@@ -152,32 +182,19 @@
     "relevance_score": 10
   },
   {
-    "id": "3fcd86073c59",
-    "title": "6 Tips to Measure AEO for SMBs",
-    "url": "https://www.salesforce.com/blog/small-business/measure-aeo-for-small-teams/",
+    "id": "a7cddf21fe4b",
+    "title": "Introducing GIFT-Eval-CTX: An Open-Source Benchmark for Contextual Forecasting",
+    "url": "https://www.salesforce.com/blog/gift-eval-ctx/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-11-06T14:00:00+00:00",
-    "summary": "Answer engine optimization (AEO) has been answering everyone’s questions about you online, it’s time to start measuring it.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_1b765f.jpeg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 9
-  },
-  {
-    "id": "3232600126e3",
-    "title": "Application Programming Interface (API) Basics: Learn As You Grow",
-    "url": "https://www.salesforce.com/blog/small-business/application-programming-interface-basics/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-09T14:00:00+00:00",
-    "summary": "Find out what an application programming interface (API) is and how it impacts your business.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/image_b35384.jpeg",
+    "published": "2026-11-09T23:47:30+00:00",
+    "summary": "Built by Salesforce AI Research, GIFT-Eval-CTX measures how effectively LLMs and agentic AI convert forward-looking context, such as promotions or weather events, into precise forecasts. The benchmark demonstrates that feeding structured operational context…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Salesforce-Blue-Analytics-Gearscape.png",
     "tags": [],
     "industries": [
-      "tech"
+      "industrial"
     ],
-    "relevance_score": 9
+    "relevance_score": 10
   },
   {
     "id": "1b22040487aa",
@@ -205,21 +222,6 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 8
-  },
-  {
-    "id": "645d8a435c66",
-    "title": "Employment for Vets: Why Salesforce Champions Military Talent",
-    "url": "https://www.salesforce.com/blog/employment-for-veterans-salesforce-champions-military-talent/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-06T12:57:02+00:00",
-    "summary": "Some skills are hard to teach in a classroom. Leading a team through change is one. Making a call with incomplete information is another. Staying focused on the mission when things get hard…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/AdobeStock_298666406.jpg?w=6720",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
     "relevance_score": 8
   },
   {
