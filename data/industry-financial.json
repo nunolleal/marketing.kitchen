@@ -1,26 +1,5 @@
 [
   {
-    "id": "e4d70b47e0ad",
-    "title": "Cheap CAC can be expensive growth",
-    "url": "https://martech.org/cheap-cac-can-be-expensive-growth/",
-    "source": "MarTech.org",
-    "source_category": "martech",
-    "published": "2026-11-11T13:15:00+00:00",
-    "summary": "Some campaigns create demand. Others just take credit for it. Find out how to tell the difference and make better budget decisions with AI. The post Cheap CAC can be expensive growth appeared first on MarTech .",
-    "image_url": "https://martech.org/wp-content/uploads/2026/11/guages-going-in-opposite-directions-800x450.jpg",
-    "tags": [
-      "Marketing analytics",
-      "Marketing artificial intelligence (AI)",
-      "Marketing attribution"
-    ],
-    "industries": [
-      "tech",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 46
-  },
-  {
     "id": "204ba7790cba",
     "title": "IAB unveils framework for measuring AI’s part in conversions",
     "url": "https://martech.org/iab-unveils-framework-for-measuring-ais-part-in-conversions/",
@@ -38,7 +17,7 @@
       "tech",
       "financial"
     ],
-    "relevance_score": 46
+    "relevance_score": 42
   },
   {
     "id": "5a8a7a2c80e0",
@@ -54,7 +33,11 @@
       "tech",
       "financial"
     ],
-    "relevance_score": 42
+    "relevance_score": 39,
+    "also_covered_by": [
+      "Health Tech",
+      "Fintech"
+    ]
   },
   {
     "id": "9f9ef1f7c9cc",
@@ -75,7 +58,7 @@
       "tech",
       "financial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "1d3e31ad1d0c",
@@ -96,30 +79,7 @@
     "industries": [
       "financial"
     ],
-    "relevance_score": 17
-  },
-  {
-    "id": "49ac9311c7b4",
-    "title": "Nine Korean startups vie for a spot in Disrupt 2027’s Startup Battlefield 200 competition",
-    "url": "https://techcrunch.com/2026/11/12/nine-korean-startups-vie-for-a-spot-in-disrupt-2027s-startup-battlefield-200-competition/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-11-12T13:26:25+00:00",
-    "summary": "The startups work across the deep tech sector, including healthcare, fintech, energy, semiconductors, and AI. All nine are looking to enter the U.S.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-613254398.jpg?resize=1200,800",
-    "tags": [
-      "AI",
-      "Startups",
-      "south korea",
-      "South Korea startup",
-      "Startup Battlefield 200"
-    ],
-    "industries": [
-      "tech",
-      "lifesciences",
-      "financial"
-    ],
-    "relevance_score": 15
+    "relevance_score": 16
   },
   {
     "id": "0039716ebb4a",
@@ -140,69 +100,103 @@
     "industries": [
       "financial"
     ],
-    "relevance_score": 14
+    "relevance_score": 12
   },
   {
-    "id": "b7d3661f5426",
-    "title": "Hong Kong Stock Exchange to Launch Digital Hong Kong Dollar Margin Payments on December 14, Sparing Derivatives After-Hours Settlement from Waiting for Banks to Open - BigGo Finance",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTFBHWWs2WTlQVnVSLUhPUWU4OERiSWNUaXkyZ1RVWXFfajVYVzVBR1VmeElUNGl0UG9FU1VaSUo4dzdOak9pM2Y4Q0Fqc3JILVFoLTVPQjVQMTlTei0wa3ktZy12N0NSbHBjVDZ2d2hKMWtZYmx5TkE?oc=5",
+    "id": "6c838f6525b8",
+    "title": "Stocks sway as Wall Street heads for a winning week after several turbulent days | National News | 2news.com - KTVN",
+    "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQRjhWeG9VWmJNS3pRWm8tcWtaYmNuTkJPYjJoVS1pVHVmTk02N3VQeXM3NTlqZWR0LXVGdUlZUENqOXViaEl4c2tRTXZSYXZ4YWxsMUh4RmhRNGh4dU80NmVMLVZ1RzJBcjN4WDkwT3EwZ0x2bnNYajROVUdRR1NBdDROcFd4bl9EUDNORVA1Y3dxT2lkc25HRERRS1VIdDFHbnJvMDBBWUhib29lbnIyb2hUWnZWQnc2anF6MGNDSC1VZmtWeGtJVVFWSHNjUjdpTzh4bmNMR3FsY3hSc2lpcHBXcDdYMm5OX0NXU1ZXR2pHVWtkM0tj?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-11-13T15:48:13+00:00",
+    "summary": "Stocks sway as Wall Street heads for a winning week after several turbulent days | National News | 2news.com KTVN",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "9bdd8f3ada6f",
+    "title": "Airwallex plans $1.5bn Singapore investment and workforce expansion - Electronic Payments International",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPajZFV0E4R2ZiOVNEdDNzMWMwT1ZFc1NES2tMOHpFQkEwb3pYNUpHbWhGUjdpWlhVYkZoZ1phUG5aa3J0Z1oyNk0zQUUxbDVFXzN5cHpDYko1NjFWZ09uMnFTc2ZCUmhURElOcl9IaDZxa1ZiTGh6RUR2YnZJcHJnaXhrdkRCNldiaXIyWE9NT2R3M2xxWFlxb1FYOFdxa0llN19vTGRpODNUbmFsNDFmY0JWZ2Z1ZVBrYXI1MQ?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-11-13T10:36:00+00:00",
-    "summary": "Hong Kong Stock Exchange to Launch Digital Hong Kong Dollar Margin Payments on December 14, Sparing Derivatives After-Hours Settlement from Waiting for Banks to Open BigGo Finance",
+    "published": "2026-11-13T14:51:26+00:00",
+    "summary": "Airwallex plans $1.5bn Singapore investment and workforce expansion Electronic Payments International",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "2e9dc4b247d3",
+    "title": "From Boston College to ‘Wolf of Wall Street’: meet character actor P.J. Byrne - America Magazine",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxPeW9oLUpjMUdmZmZiR2c0X01OME1kV3lVSHFfM0lPSmMtc25aU0NSWThrTHItVFhOZkY4TmhjMlVXenZtNU5zN19xaW9XY0VXODNTcWl2eU1tNnU0akhvV0V6eGprdjNhY1NPWW5kZGhienZ3LXhJei1kNjBvUXNsbm10SExuZFFoSEk1U1NwSl96Vm4ta2owUFFzTDdzcEt0S2wyU29SdG1GT05oZzhz?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-11-13T16:25:56+00:00",
+    "summary": "From Boston College to ‘Wolf of Wall Street’: meet character actor P.J. Byrne America Magazine",
     "image_url": null,
     "tags": [],
     "industries": [
       "industrial",
       "financial"
     ],
-    "relevance_score": 14
+    "relevance_score": 11
   },
   {
-    "id": "6807bc77220a",
-    "title": "‘How To Rob A Bank’ Is A Bust With Rotten Tomatoes Critics",
-    "url": "https://www.forbes.com/sites/timlammers/2026/11/12/how-to-rob-a-bank-is-a-bust-with-rotten-tomatoes-critics/",
-    "source": "Forbes Business",
-    "source_category": "marketing",
-    "published": "2026-11-13T03:30:49+00:00",
-    "summary": "“How to Rob a Bank,” starring Nicholas Hoult, Zoë Kravitz and Anna Sawai, is missing the mark with most of Rotten Tomatoes’ critics.",
-    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6af68047995b93661fb9d948/0x0.jpg?width=960",
-    "tags": [
-      "Hollywood & Entertainment",
-      "/hollywood-entertainment",
-      "Business",
-      "/business",
-      "Hollywood & Entertainment"
-    ],
-    "industries": [
-      "media",
-      "financial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "7c091be54b73",
-    "title": "Norwest pushes deeper into AI with new $4B fund",
-    "url": "https://techcrunch.com/2026/11/12/norwest-pushes-deeper-into-ai-with-new-4b-fund/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-11-12T15:18:14+00:00",
-    "summary": "This is the investment firm's largest fund to date.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/norwest_team-partner-offsite-2026-1-copy.jpg?resize=1200,805",
-    "tags": [
-      "AI",
-      "Fundraising",
-      "Venture",
-      "Norwest"
-    ],
+    "id": "2928935364c5",
+    "title": "Indian fintech firm Razorpay gets regulatory nod for IPO - Reuters",
+    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxOTE51c3BkMXhjUkhrTHo4UV9OSEFKSlRwTllET3dLRWRXZDA5eTNCV2hfTGhuVzZ6RUVVUGN0TkhpdWxqZHhnaHA0cTEwQ3FscDhRY1FvQ052b0p1MUZsUHB4dnJTcUFCS2Y1LWpUcW9FdTBzMTR0dGNNV3p5eXp1NVZ2d01EMTBHMVNwSlIxbU1ZSXlmaUdkdXN6TUwxcUNlMkE?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-11-13T17:47:05+00:00",
+    "summary": "Indian fintech firm Razorpay gets regulatory nod for IPO Reuters",
+    "image_url": null,
+    "tags": [],
     "industries": [
       "industrial",
       "financial"
     ],
-    "relevance_score": 12,
-    "also_covered_by": [
-      "Fierce Healthcare"
-    ]
+    "relevance_score": 11
+  },
+  {
+    "id": "0e65fff7573b",
+    "title": "New Cisco Price Target as New Report Defies Wall Street - RealMoney Pro",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNNlpQa0FjRDVjTXZhaU1Hb3oteFFoNUNrY01zSGlnanR5MFhxREdpcW5oUnE4ejBDcGR2Y0RPb3Fodjdmdm1TQWtWblJ3dFMtY1hBOGJ4MW9DSWVsemFjelEzQ3RyRDFwc3JqWG03aDZwbkVBMVI4WEJtLUtjZ1M5d2gxMFRHUG04akRDV1NSV01uRk1RbTcwNQ?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-11-13T18:00:00+00:00",
+    "summary": "New Cisco Price Target as New Report Defies Wall Street RealMoney Pro",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial",
+      "financial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "4e0a16479d6c",
+    "title": "Norwest closes $4B global, multi-stage fund to fuel investments in healthcare, biotech and AI",
+    "url": "https://www.fiercehealthcare.com/finance/norwest-closes-4b-global-multi-stage-fund-fuel-investments-healthcare-biotech-and-ai",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-11-12T09:49:00+00:00",
+    "summary": "Norwest closes $4B fund to invest in healthcare AI, biotech",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-2206645001_1.jpg?VersionId=toD5DMHG5W1dd8ouuHMN0fFG2QRW..nw",
+    "tags": [],
+    "industries": [
+      "industrial",
+      "lifesciences",
+      "financial"
+    ],
+    "relevance_score": 10
   },
   {
     "id": "3255813ec00f",
@@ -218,95 +212,16 @@
       "industrial",
       "financial"
     ],
-    "relevance_score": 11
-  },
-  {
-    "id": "103bd32c2e72",
-    "title": "CD&R, GTCR put Global Payments takeover talks on hold- report - Electronic Payments International",
-    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOakRTVl8tYnRXVkxxeEhDZmJQZlBYTWhUVDFXQ0l6TUZ0WGJNOTZRbXlaN3d5akR4LVoxRGRPWXViOGdsRUdhTThuS3hiUnBOSUgyaENCck5fWmpScXR3dmRTUHkyR1YzRjkwb09BZzZsd0o5Ty1jNkRGc0FrcmlwSlFRNl9wLXZUVWp0aEdmVnFhX1Jqd3RhemxhRzBuODZXSnBTOTRQQ2NncGs5ZURwTWVn?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-11-13T07:56:16+00:00",
-    "summary": "CD&R, GTCR put Global Payments takeover talks on hold- report Electronic Payments International",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 11,
-    "also_covered_by": [
-      "Banking"
-    ]
-  },
-  {
-    "id": "2bcf1d59642a",
-    "title": "Are Wall Street Analysts Bullish on Adobe Stock? - Barchart.com",
-    "url": "https://news.google.com/rss/articles/CBMilgFBVV95cUxPT3F1MF9fMTk1ZGJneVQydVNZVnpOSzJpQWJ1Sm9EcHdpNjA5SjhPQkZjZGZ1WURHZTEtcFNfaGhqUXVGWHYxSm9uNlJ3U01hSHZzY0RXTHIxLW1kQVd4OVg1NFdYX1B5X0VwU1dYRVAxZ3pEMkJTbHlrdWttbmdqVVpnNl9LZ0FNeUtkRXRKQl96ZWdIQ3c?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-11-12T12:29:13+00:00",
-    "summary": "Are Wall Street Analysts Bullish on Adobe Stock? Barchart.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
     "relevance_score": 10
   },
   {
-    "id": "24b1734530b3",
-    "title": "CSC Telecom Leak Exposes 125 Million SMS From Swedbank and SEB - Pasquale Pillitteri",
-    "url": "https://news.google.com/rss/articles/CBMikwFBVV95cUxPT0wwMDBKLWlCb21ZUXRCVWhkOFR1T08taUxIa25YeEpYeTlSTXZBMWFYVDdZM0FCenZtRG9QZzZ0UGJRZnZYNlZIMllhSFBSdURZRVNYcFJBTUJQbUt6UG51TlpScjJBVVNaSkRLelhNU2hab3J5djBXWEpWel9QTFdPdVJoR0VUck5CZk9rb2VXRHM?oc=5",
-    "source": "Telecom 5G",
-    "source_category": "industry_telecom",
-    "published": "2026-11-12T17:00:43+00:00",
-    "summary": "CSC Telecom Leak Exposes 125 Million SMS From Swedbank and SEB Pasquale Pillitteri",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "96b6386c4b4f",
-    "title": "Paysafe Flags Payments Slowdown in Q3 as Digital Wallets Rise - PYMNTS.com",
-    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWUp4VTJVeXQ5NUhrdWJRekF6MmdrUm5aY1BfZ290ZERwZUJXUVFtNWliRWdjNjA0RmFqQ1lFMVVTSE1fdWRrVmVHSHVtWmJNRFAxNzI0YzRPX0syczNWME9oRDlEZ1IzV3BORzRhUUpXYXZIMExJOW9DOXlJTWV4b2JROHczZmpSaUdJVnNSdkxtUWRVMUl6UGlOS0cxaWJjSF9IYnoxS01JTXNBbjV3?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-11-12T18:19:58+00:00",
-    "summary": "Paysafe Flags Payments Slowdown in Q3 as Digital Wallets Rise PYMNTS.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "11f2777f78a0",
-    "title": "Podcast: Demystifying the future of European payments - FinTech Futures",
-    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSmpjMVR1V1hLZ1cwRmtDVWxNZnA5YlExVXo2bWVFNWFWMGxmMFhkWmFBY2xZMkdvRTR0Y0JfOU42RWpsMHVLOWRHdWsyV0Q1N0hXYWlkZ3l6WFhTWVVXRGZxNHJoNXhJd19WZFpWcjk4UXlFVUVmdFFEV21YckFiUjVjeW1wbDdxaDhRVnlHcnNjS21Ed3g0c3UxZlZFOEY0UVR2LS1TOVBMUjhUaXF1WGJnMFBocHVaT18wZnF6ZHA0bHdzVmFzWXpLUkFudzJ5bTExbmlhQUtHTmZjZFhKRXBMTkREVEhJWkJLYlV3?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-11-13T08:55:37+00:00",
-    "summary": "Podcast: Demystifying the future of European payments FinTech Futures",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "e9ab56693897",
-    "title": "CVS Breakup Won’t Satisfy Washington. It Could Still Work for Wall Street. - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdTlWdkgtNUx3VHMwaDNOVWJyMktfMTZ3ZDgzR2NKZkY4VENNbldRQmFMM3N6SVdlbUk2cEJ2OHVEYkVJMUpLZjF6UDFCcnZrQTJjOWRtWUU5bWllU1dqYXBSSHZ5anE4TXBnY3JLWHlRbjF5QkkyZXV3a0JfaHhGYzZzN1NYb1JLNE0zN2xNeVlMbW5ySnJMSUExUk9DUHZxUUt5eTJlNGZpU0Q3TGYzUjg4WGRtdzN3OHc?oc=5",
+    "id": "109d34b12cc9",
+    "title": "CEO Scandals and Corporate Reputation on Wall Street - Funds Society",
+    "url": "https://news.google.com/rss/articles/CBMiigFBVV95cUxOZkF2MEJGU1BQamk1Z0M5eEc5QUxRTTlTeWhVYjcxM0lJZk1UaElQTElIYnNqUjZWdU5kZHJHci1OVFpuTG52QkpfMlc5VkthVE9iX0labjROMm5fa0lZeFYxNVlvTllhempRRzVoc21EZExmeWVTZGxVR29va0VLR2puNXUwUC16Zmc?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-11-13T10:30:00+00:00",
-    "summary": "CVS Breakup Won’t Satisfy Washington. It Could Still Work for Wall Street. WSJ",
+    "published": "2026-11-13T14:00:10+00:00",
+    "summary": "CEO Scandals and Corporate Reputation on Wall Street Funds Society",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -315,13 +230,73 @@
     "relevance_score": 10
   },
   {
-    "id": "11443855a221",
-    "title": "Paytm Wins India Central Bank’s Conditional Nod to Revive Wallet - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYm4zNWdxRWpUcG9aUTJYblJLS0NtX0lUNXNYZURDVm5lM296UWQyTmRxT1JnMUIzVnhFVnR4VDRXdUUtel9EQTV0S0NHSEd4WnRVSE5wWU5LUXVqOFViaHJLa2M3U1lzb0NDb05WNGZqUU9yYXQyN0VTY0lkck1wLWVWdElfSzZwTjZOMkIyRk9wRjk1TnBQb2prTUNKaTBCZ2gtVllSMGpDOHdvOWlta3o1c2xVQQ?oc=5",
+    "id": "aea81eada343",
+    "title": "Wall Street Braces for Anthropic’s Spending - The New York Times",
+    "url": "https://news.google.com/rss/articles/CBMihgFBVV95cUxPTVpSYzU1cWtsQ0gxRXJPRUdXZlVmc1c5T1V4SlcySnEtd051UUIweW52UzhGOExhNTNrNklaaS1vTmFWZnozN3dic0dVcTZFMVdpRzFYY0FEX3pteHVjSTBmTEZiTjBVWlRKd0FzeFpGazN3Q2NXY1V0SmMxUWxxaW1UOXhDUQ?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-11-13T16:28:46+00:00",
+    "summary": "Wall Street Braces for Anthropic’s Spending The New York Times",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "ef2a3cc47848",
+    "title": "Why false declines are an underwriting problem in high-risk payments - Electronic Payments International",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxObWpRcFFKQTREbFUyem1fRkFJWXlHUXpwM0t1amR6blo4RkxoNUpKTzg5QkxBSm9MQmdoRXVPZE1vSmpaSXRhdzJXdjVaTk16Zy1HaTFhSzIwMExxcGdMWDdyc3NWRTlqSGtxUW02ZUhVOVJQaVpvZHM2a1RjNFhaQ1FrVXVWSTcxcU0yTlRvOW82WGRHZXFTTHhjcjhJVlNyUEhjcS16QUNzS0pIcmY3emJuekZybnFoOXow?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-11-13T11:20:09+00:00",
-    "summary": "Paytm Wins India Central Bank’s Conditional Nod to Revive Wallet Bloomberg.com",
+    "published": "2026-11-13T16:41:28+00:00",
+    "summary": "Why false declines are an underwriting problem in high-risk payments Electronic Payments International",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "641944999c98",
+    "title": "Wall Street Reverses Early Gains as Nvidia Fallout Rattles Tech Stocks - GV Wire",
+    "url": "https://news.google.com/rss/articles/CBMiowFBVV95cUxNcG92djhTbUN6ZV9qUGJha0Nxc2NSbEg2b01oZ2Q4bUp4eUJiby1tZWxhbGg0eXNVWXkwMXJjbHo1Vlhzb3lKSzQyUDI4SnhsUnljemR3OFVsZU5VM1lGOXc3b2RrQmVhdW85NFJwM3RBZk9icFBoOHNqa1VJdnZ4Z1lPbU9YNDFzVEVPa0tXSFpsQWE0bTlZWk5Ud1hYQzFYNzZr?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-11-13T16:54:24+00:00",
+    "summary": "Wall Street Reverses Early Gains as Nvidia Fallout Rattles Tech Stocks GV Wire",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "17e5755b8135",
+    "title": "The hard part of stablecoin payments is the exit - Electronic Payments International",
+    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQSDBiejZzTjFqTThiTmpZcVRseGw1MTI1a2hzQlVQYko5VVJLdUkySk1UOERva1BjYWN1cllNNS1ZQXdId2tKaDNOY0toYTNlTVFQdDFHRHEycFBqeFRJVVJBLS1Hcm9pSVVtNDJjZVgwU0xvTnlyVkVOdnlWdVNvVzFWTFJlRWFRWWU5d1pRN1RGWFVDbm5zaWRhZw?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-11-13T17:01:29+00:00",
+    "summary": "The hard part of stablecoin payments is the exit Electronic Payments International",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "bc86837105b7",
+    "title": "AI is accelerating in payments. Here’s where it actually adds value - Electronic Payments International",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxNd2VwanlaemdqTUdhUUQ2M0ZPeVlUSzQ0aDdTbmhWZDg4cE1ZUFgxZUJOM1dDeVRuVVMyNlZRaUZKVTYwSWxoenVuNUZXMHBnOWQyNDRXbG5NWDREYjFiZ3NPNjRQS3E2RG9LUGpBSGIxSTJQTENWRklpWVJscXRHWlI3RjhqYmt0RlRfOFItX2JDU1dwOWNzWUxTX01SaC1acnNoV09KNEltZVlMeTBBTEtzZw?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-11-13T17:22:08+00:00",
+    "summary": "AI is accelerating in payments. Here’s where it actually adds value Electronic Payments International",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -342,16 +317,95 @@
     "industries": [
       "financial"
     ],
+    "relevance_score": 9,
+    "also_covered_by": [
+      "Fintech"
+    ]
+  },
+  {
+    "id": "96b6386c4b4f",
+    "title": "Paysafe Flags Payments Slowdown in Q3 as Digital Wallets Rise - PYMNTS.com",
+    "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNWUp4VTJVeXQ5NUhrdWJRekF6MmdrUm5aY1BfZ290ZERwZUJXUVFtNWliRWdjNjA0RmFqQ1lFMVVTSE1fdWRrVmVHSHVtWmJNRFAxNzI0YzRPX0syczNWME9oRDlEZ1IzV3BORzRhUUpXYXZIMExJOW9DOXlJTWV4b2JROHczZmpSaUdJVnNSdkxtUWRVMUl6UGlOS0cxaWJjSF9IYnoxS01JTXNBbjV3?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-11-12T18:19:58+00:00",
+    "summary": "Paysafe Flags Payments Slowdown in Q3 as Digital Wallets Rise PYMNTS.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
     "relevance_score": 9
   },
   {
-    "id": "ecde5dc6b642",
-    "title": "Video: JP Morgan Payments at Money20/20 USA 2026 - Making better use of payments data - FinTech Futures",
-    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc0VqSjEzTk44MFB3VlpWcGVVekdOdlNpNzN0bjIxenJxb1JhOUZDUjl3VkNEZXFZLTM5VE1YRXNlcXVsZmxnQ0ZtTnZCczhaZTdpY0VvVHc4SlBndjNDZlE5bHRFSWJxUDIwblBqaU5oLVp3dkY1SUZJaFVzWGtNeGlHWmVSRXVFd09JUTVHMlBlZTMtZjlCTnR5eUg2QWpKMWNvZ2lNUXBsWWFXSEhwOHlpazB3d2xCVVM5eGpSdXRqdktjUkVjQThn?oc=5",
+    "id": "103bd32c2e72",
+    "title": "CD&R, GTCR put Global Payments takeover talks on hold- report - Electronic Payments International",
+    "url": "https://news.google.com/rss/articles/CBMisgFBVV95cUxOakRTVl8tYnRXVkxxeEhDZmJQZlBYTWhUVDFXQ0l6TUZ0WGJNOTZRbXlaN3d5akR4LVoxRGRPWXViOGdsRUdhTThuS3hiUnBOSUgyaENCck5fWmpScXR3dmRTUHkyR1YzRjkwb09BZzZsd0o5Ty1jNkRGc0FrcmlwSlFRNl9wLXZUVWp0aEdmVnFhX1Jqd3RhemxhRzBuODZXSnBTOTRQQ2NncGs5ZURwTWVn?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-11-11T14:40:57+00:00",
-    "summary": "Video: JP Morgan Payments at Money20/20 USA 2026 - Making better use of payments data FinTech Futures",
+    "published": "2026-11-13T07:56:16+00:00",
+    "summary": "CD&R, GTCR put Global Payments takeover talks on hold- report Electronic Payments International",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "11443855a221",
+    "title": "Paytm Wins India Central Bank’s Conditional Nod to Revive Wallet - Bloomberg.com",
+    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPYm4zNWdxRWpUcG9aUTJYblJLS0NtX0lUNXNYZURDVm5lM296UWQyTmRxT1JnMUIzVnhFVnR4VDRXdUUtel9EQTV0S0NHSEd4WnRVSE5wWU5LUXVqOFViaHJLa2M3U1lzb0NDb05WNGZqUU9yYXQyN0VTY0lkck1wLWVWdElfSzZwTjZOMkIyRk9wRjk1TnBQb2prTUNKaTBCZ2gtVllSMGpDOHdvOWlta3o1c2xVQQ?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-11-13T11:20:09+00:00",
+    "summary": "Paytm Wins India Central Bank’s Conditional Nod to Revive Wallet Bloomberg.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "34d7cb71381b",
+    "title": "Research Shows UK Lenders Divide as AI Shapes Late Payments - FinTech Magazine",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxQcGozR0R3Nms3Y0RuRm5kY0ZrODFsNmRGZ045eGNnUlFqZDd3X3ZtSHdvX1dzR3hBcENhel9VM1dsUlRLYnNlNi1ZdG1VVHFoMkt3ZldlSkFFa21rS3dLOENXVm0tbm1MOGJ2MEhQaVhMcUVCc1V2a3dwOUNVcTBOZ0NHSks4UW56RGZsVEhER2VtQ0JuX29V?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-11-13T13:13:33+00:00",
+    "summary": "Research Shows UK Lenders Divide as AI Shapes Late Payments FinTech Magazine",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "5b7e453ec23c",
+    "title": "How Digital Payments Become Useful Business Records After Checkout - Statesville Record",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxOUHlMX0ExajhBeTN4aUN0VzF0bWF0anJXOXE3ZV9LVzZZcHhTdjBWNDh0N3YwRVA2clZfckE0NG5qUDZqdGtTZ0cxbFRXZFBQMUdETHRvOUdyVzlzM0FGVnFuWVkyUXpKQzVZNjBuZHNTS1FCNTl3VFZSSEJTZzFLZlR2bHc0Z1J1UkhfaVBCRmgteDBOd2NB?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-11-13T14:43:00+00:00",
+    "summary": "How Digital Payments Become Useful Business Records After Checkout Statesville Record",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "financial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "11f2777f78a0",
+    "title": "Podcast: Demystifying the future of European payments - FinTech Futures",
+    "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxQSmpjMVR1V1hLZ1cwRmtDVWxNZnA5YlExVXo2bWVFNWFWMGxmMFhkWmFBY2xZMkdvRTR0Y0JfOU42RWpsMHVLOWRHdWsyV0Q1N0hXYWlkZ3l6WFhTWVVXRGZxNHJoNXhJd19WZFpWcjk4UXlFVUVmdFFEV21YckFiUjVjeW1wbDdxaDhRVnlHcnNjS21Ed3g0c3UxZlZFOEY0UVR2LS1TOVBMUjhUaXF1WGJnMFBocHVaT18wZnF6ZHA0bHdzVmFzWXpLUkFudzJ5bTExbmlhQUtHTmZjZFhKRXBMTkREVEhJWkJLYlV3?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-11-13T08:55:37+00:00",
+    "summary": "Podcast: Demystifying the future of European payments FinTech Futures",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -360,28 +414,13 @@
     "relevance_score": 8
   },
   {
-    "id": "5f218d08d19f",
-    "title": "The digital yuan is only part of China’s expanding global payments network - Atlantic Council",
-    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmhiVFVodVFMXzZrZTlqZW5hUnc0Qmt2VWRKWnB4WlczNUUzRzVLUmdwTXhCaEFZWEpkSzdBaVVCZDV3NVhsRkZHOS1haTYxdUlVcVgwUWc1cnhxaU02Sm9Bb3JWM2czOU0zUk1yaUR5YW5oTVR5enlMbGZpd0dLQkd6eEVhdUFCbnBqbzRCRnBEY3pSNThnMjUyZHR5MjdzM0hfLVVRd2V3NUM2UmlHMDZDRFpsUjBzOTNHWFJOS3FDWW9Z?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-11-12T21:37:21+00:00",
-    "summary": "The digital yuan is only part of China’s expanding global payments network Atlantic Council",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "398eee162f13",
-    "title": "Exclusive | AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up. - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxPNldJX01OcW9RMkRvR2QxbDljdmNZMGEyVUlnRjkwTWtqbmRsdVZHYnktd0ExUjlOYXFtNXdqcldodFpmemEyQWNfRDZXXzhIUi1DUVI2NFNBczZxdzc2ZWM0eW16bFJSa19PV1ZvSnQ2N1Y0RnJPM2F5R2VTWG1DOVBHNUFjUkhRbWZnYXFEenRMVjJlVlgyOF9JOA?oc=5",
+    "id": "e9ab56693897",
+    "title": "CVS Breakup Won’t Satisfy Washington. It Could Still Work for Wall Street. - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiugFBVV95cUxPdTlWdkgtNUx3VHMwaDNOVWJyMktfMTZ3ZDgzR2NKZkY4VENNbldRQmFMM3N6SVdlbUk2cEJ2OHVEYkVJMUpLZjF6UDFCcnZrQTJjOWRtWUU5bWllU1dqYXBSSHZ5anE4TXBnY3JLWHlRbjF5QkkyZXV3a0JfaHhGYzZzN1NYb1JLNE0zN2xNeVlMbW5ySnJMSUExUk9DUHZxUUt5eTJlNGZpU0Q3TGYzUjg4WGRtdzN3OHc?oc=5",
     "source": "Wall Street",
     "source_category": "industry_financial",
-    "published": "2026-11-13T01:00:00+00:00",
-    "summary": "Exclusive | AI Bots Are Using Credit Cards. Banks Are Racing to Keep Up. WSJ",
+    "published": "2026-11-13T10:30:00+00:00",
+    "summary": "CVS Breakup Won’t Satisfy Washington. It Could Still Work for Wall Street. WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -405,13 +444,13 @@
     "relevance_score": 7
   },
   {
-    "id": "7e2f91c093a4",
-    "title": "Stamford fintech bank names new CEO - Hartford Business Journal",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2bTdSdzE5RUpXZHJUWGlwUVVZdzFqTGwzUlZYQUIwc0ttWFhydjhCd1lrSzM0WDRQSVVzb2ZvcWFTalZtSzhnWnRXandVZlpPbzJ1S2ZCRzBRT014eUhPMzhfaklhUzk0TWZNM3E3U2FBeElyVjN2Z0J5LWlzZw?oc=5",
+    "id": "ecde5dc6b642",
+    "title": "Video: JP Morgan Payments at Money20/20 USA 2026 - Making better use of payments data - FinTech Futures",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOc0VqSjEzTk44MFB3VlpWcGVVekdOdlNpNzN0bjIxenJxb1JhOUZDUjl3VkNEZXFZLTM5VE1YRXNlcXVsZmxnQ0ZtTnZCczhaZTdpY0VvVHc4SlBndjNDZlE5bHRFSWJxUDIwblBqaU5oLVp3dkY1SUZJaFVzWGtNeGlHWmVSRXVFd09JUTVHMlBlZTMtZjlCTnR5eUg2QWpKMWNvZ2lNUXBsWWFXSEhwOHlpazB3d2xCVVM5eGpSdXRqdktjUkVjQThn?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-11-11T13:30:14+00:00",
-    "summary": "Stamford fintech bank names new CEO Hartford Business Journal",
+    "published": "2026-11-11T14:40:57+00:00",
+    "summary": "Video: JP Morgan Payments at Money20/20 USA 2026 - Making better use of payments data FinTech Futures",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -420,64 +459,17 @@
     "relevance_score": 7
   },
   {
-    "id": "e915cd9c161b",
-    "title": "Why PayPal and Workday Are Giving Employees Pay Flexibility - FinTech Magazine",
-    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPNmh3Q1ZqZkpfVndoU3RvbnlrUTFHVk1aSWJrN3A0cXF4bEx3SWNXWHF1ZnFyUTJOQTRDT3h0TXlldzU0dzVNd1ZobFNQZjE0WFdIX1ZNMjN4RlBUNnUtNnhqUDRLcFgydnBWU3VmZ0JpZmhLTXAyUi1uNHRLbWlDX2ZoME11R3NXMjhhRXJDNzV5QWM4d21B?oc=5",
+    "id": "17b9d21154c8",
+    "title": "Mexico’s Bank of Wellbeing Launches App for Transfers and Digital Payments Without Fees - Mexico Solidarity Media",
+    "url": "https://news.google.com/rss/articles/CBMiZ0FVX3lxTE9KQkJrZ0gtanRVTHFYR3NGcFMxUFYzRDFOUU52WHRoM3BkeXk4X2VyY1BRVzNYcXBkTnVWWGJ6WWZ3enQtZzYzeHpBMFhHb3FiOEpjeWI0eEw1YmRrYlQ2eWc1SU05Zjg?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-11-12T13:34:21+00:00",
-    "summary": "Why PayPal and Workday Are Giving Employees Pay Flexibility FinTech Magazine",
+    "published": "2026-11-12T08:00:00+00:00",
+    "summary": "Mexico’s Bank of Wellbeing Launches App for Transfers and Digital Payments Without Fees Mexico Solidarity Media",
     "image_url": null,
     "tags": [],
     "industries": [
-      "financial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "0f6730b39bdb",
-    "title": "T vs. VZ: Which Telecom Stock is a Better Investment Right Now? - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPeWk0N3NRSXR2M2VnSUphLVY3eEFrZUVEbDJBOHM3aThmOV9GMW5fNExrR1dPYU5McmxPRGRQRnAxSEt5QXgxRUpvU1dUUVVuTW10ZDZyVEVsR0R3djM5NWtfVU1lY3ZVZHJQMVJtVFZTTUxDakJ0Sm12aXphUGl6bHRlV1h2RWhVYlF1WkNSRE11SGp3R2hhaGdqN2tsOXJyemFiR3RxUlNvN2tON0R0c2FSQkR6bGs?oc=5",
-    "source": "Fierce Telecom",
-    "source_category": "industry_telecom",
-    "published": "2026-11-12T17:30:45+00:00",
-    "summary": "T vs. VZ: Which Telecom Stock is a Better Investment Right Now? TradingView",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "telecom",
-      "financial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "fed22afef111",
-    "title": "Banks face mounting cyber risks as digital and agentic payments expand - Retail Banker International",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxPY05GNDdTVWdHNXFOakllZWFwNHdyTmhOUGpxeU8tZGszd2hWU0t3a0dKWDNSOGM3RFl6Z243OFEwdzVEbnhwRVhuQl9aSUdMYnJoRjVYYmo0UEdDenJpeUxGeEp2RWRIcUdQa193QkFCQjRVLUxQaUFVWXJ2aXdDOVUwcTRLd1lMOHA0aTBmcVB6UEF6UDF2QnBYSXBOTXU4UGJ1NERjOGx0Z1ZMV2ZNZ2lnclJxX2ZETm9lTXpnVQ?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-11-12T18:10:46+00:00",
-    "summary": "Banks face mounting cyber risks as digital and agentic payments expand Retail Banker International",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "financial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "2f5d434a899a",
-    "title": "New Hidalgo Plant / Digital Payments App - Mexico Business News",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORW5GeWRHV3JnLXp1RHRUOXZsZVp5QTdxRVdySFVRREFZX2Q5QWJFX3FZSTdaZDluSjlVT0tMZ01ZV0p5MmVVYjhQWkwtOFdjY2dCVnExS2xyUVd1Q09kZ3Z5RjVtS0Z5V2VLRnBXelBDakMwWGdrVHYzUmNCLVZkeXhWeHczYXNldTRseWJHSEh4QQ?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-11-12T18:19:17+00:00",
-    "summary": "New Hidalgo Plant / Digital Payments App Mexico Business News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
+      "media",
       "tech",
       "financial"
     ],
@@ -517,44 +509,28 @@
     "relevance_score": 7
   },
   {
-    "id": "5f95c194fd20",
-    "title": "Global Payments adds Visa IDX API to Adaptive Authentication - Electronic Payments International",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxQNlBlcWRpd0lmNDFWQXhqYzMyM3pKMXVxQUdpNm1SdUhkeW9JbllMMjFPa1VXTVc1MVgtdjJNU1JLMTFkS2RqYmlLU1JhVTdsYmduNk1JaHZ6OU5xeTVqTU9odUswM0lzZmJCTDZVWlRPUmlYV01nVnc5cm51cTVEbUVvanVWVkJJcFJXcEpYTXBVVzBIaTBteW9lb093aE9sWHFRZ05PaWVJZGlnRkd3dk04emo?oc=5",
+    "id": "5f218d08d19f",
+    "title": "The digital yuan is only part of China’s expanding global payments network - Atlantic Council",
+    "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPRmhiVFVodVFMXzZrZTlqZW5hUnc0Qmt2VWRKWnB4WlczNUUzRzVLUmdwTXhCaEFZWEpkSzdBaVVCZDV3NVhsRkZHOS1haTYxdUlVcVgwUWc1cnhxaU02Sm9Bb3JWM2czOU0zUk1yaUR5YW5oTVR5enlMbGZpd0dLQkd6eEVhdUFCbnBqbzRCRnBEY3pSNThnMjUyZHR5MjdzM0hfLVVRd2V3NUM2UmlHMDZDRFpsUjBzOTNHWFJOS3FDWW9Z?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-11-10T13:51:16+00:00",
-    "summary": "Global Payments adds Visa IDX API to Adaptive Authentication Electronic Payments International",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "ebd1918002d0",
-    "title": "PNC Financial's Arm Broadens Digital Push With Stablecoin Payments - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiogFBVV95cUxNMFF5cjlRYmVRYzBuQ284bkZKZ0IzazN5QUpmNmxWRGkzTk5UaU5XT0piTHVBTkxXUGRpaVJoRkROdVphc2l5aHk1WUt6RTBSYksxRnI1clJMZFBnSWtMbkx0S2RkNE1naXVVeV9UeDNoQ21GVmt1U2xzNDZmelVubjlCYkpLWDkzUm9vS2s1a0l2YlZ1RzA4UXIya3liLUNmRFE?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-11-11T16:45:00+00:00",
-    "summary": "PNC Financial's Arm Broadens Digital Push With Stablecoin Payments Yahoo Finance",
+    "published": "2026-11-12T21:37:21+00:00",
+    "summary": "The digital yuan is only part of China’s expanding global payments network Atlantic Council",
     "image_url": null,
     "tags": [],
     "industries": [
       "financial"
     ],
-    "relevance_score": 6
+    "relevance_score": 7
   },
   {
-    "id": "0b01616bb11e",
-    "title": "Canada's Real-Time Rail national payment system goes live - FinTech Futures",
-    "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxONUM4QUtOYWE5X0p1ZnJMQkhzdHJKMnJOYmJlVnBHT2NNNUdOMEtGaVFlSDhIZVdPMzdXUTkwcWtucTJoVTNvaTNCLXllNk1NR3d2LVZ3bkZBdGJiRTZoUW5xYXdKRjhHUlZ6SnRRT3BJaWxPWnRlU1VRZG9LQzU2SGdfbW9zdXZ4WG1fazJlVGxtZ0lPNGVhU29SUU9Dd3o5OTdrbDlTck9LOWcydGtaQzRnWkQ?oc=5",
+    "id": "7e2f91c093a4",
+    "title": "Stamford fintech bank names new CEO - Hartford Business Journal",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFA2bTdSdzE5RUpXZHJUWGlwUVVZdzFqTGwzUlZYQUIwc0ttWFhydjhCd1lrSzM0WDRQSVVzb2ZvcWFTalZtSzhnWnRXandVZlpPbzJ1S2ZCRzBRT014eUhPMzhfaklhUzk0TWZNM3E3U2FBeElyVjN2Z0J5LWlzZw?oc=5",
     "source": "Fintech",
     "source_category": "industry_financial",
-    "published": "2026-11-12T09:58:57+00:00",
-    "summary": "Canada's Real-Time Rail national payment system goes live FinTech Futures",
+    "published": "2026-11-11T13:30:14+00:00",
+    "summary": "Stamford fintech bank names new CEO Hartford Business Journal",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -570,21 +546,6 @@
     "source_category": "industry_financial",
     "published": "2026-11-09T19:01:48+00:00",
     "summary": "Digital Payments Law, Monetary Shifts Redefine Mexico's Finances Mexico Business News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "financial"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "ff9e732ce352",
-    "title": "Fintech Bilt Moves Beyond Housing to Reward Local Payments - Bloomberg.com",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxPN1JiNkY2NjNJbno2YlZKSHVlck1WZHRXdm5sSUlnOV8wQnF4RTk3dzA2UTVjb1VLOGY5OFJhWDZtelhZUmEyU1dlWXlvdXVDcl9RQm5iM0piT2xlVGhocEdSM0w0MEM1U2RsYnJVUTVsakN0MGNMUUpELVI4SllHSEhVb0JyNXdWVkt4a19iNGFXXy1ockhmTUpNaVljNER3US0zWk96MHdHYkl5R0E?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-11-10T11:30:00+00:00",
-    "summary": "Fintech Bilt Moves Beyond Housing to Reward Local Payments Bloomberg.com",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -609,32 +570,18 @@
     "relevance_score": 5
   },
   {
-    "id": "20aafbaac437",
-    "title": "Banks Could Hold the Advantage in Corporate Stablecoin Payments - PYMNTS.com",
-    "url": "https://news.google.com/rss/articles/CBMitgFBVV95cUxPb19pVWZfNllUdUFYM3RDR0NNOUQtRGZwT1ZzQlV4Y1ltWEx1RTdQd29CTGk4eV9Xa3M0TGZQc1JXYnhZZ1B2SVo1aG9sSEktc2NfUkJUZ3RKTHpFQnhCa0RzRm52ODdlTWduLWpGbk53ZlplRUZicm9wU0FfamNVVUlDNy1xVUdmdjRwTVcxeFRMczBGeFBOZDdtOXZXeE5Ed0RrWWhEcmRtS1FRbElybHNhVnJJZw?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-11-10T17:02:05+00:00",
-    "summary": "Banks Could Hold the Advantage in Corporate Stablecoin Payments PYMNTS.com",
+    "id": "e9ac93c96b97",
+    "title": "Huge European telecom leak exposes Swedbank, SEB, airBaltic and dozens of other companies’ clients - Cybernews",
+    "url": "https://news.google.com/rss/articles/CBMigAFBVV95cUxOS0ZZaW9KaEhLX3VuMk5QQUh0NHA2NzJRQnJZY1dLZGVwMGJGc1NTYlF1OVVQdFJickF1cDVaejl4Y24xSVJobFlrdUNITlZ5bEhsMEVreGstWHhKWVpwZ2plcTFweUhkQ2JWVVphNG10dFFFR3dSanU2Qlp6LXRXVA?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-11-11T09:00:37+00:00",
+    "summary": "Huge European telecom leak exposes Swedbank, SEB, airBaltic and dozens of other companies’ clients Cybernews",
     "image_url": null,
     "tags": [],
     "industries": [
+      "telecom",
       "industrial",
-      "financial"
-    ],
-    "relevance_score": 5
-  },
-  {
-    "id": "e84f0758e45e",
-    "title": "Europe's Payment Stack, Honestly - FinTech Weekly",
-    "url": "https://news.google.com/rss/articles/CBMinAFBVV95cUxQeDBHMHdIRW05TzJQX2ZCcVJ3U1l5bVNUQXYxbHFpM2tnZnl0WFRYSzdNcE0tZDMtTU5aNTZZVXpiaTBwTTlmMk1NOFpyVzFoaGR1ZzA5VHZOVGpLQTlaTTRRamVYZnNrLWQ0Rmsyc1c1LS1jMm9NYkIwSUdPWXBNR2pUdVdMTnVzOTFuOXIyTjVfRVN5OTFCSjFXSWY?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-11-11T20:56:00+00:00",
-    "summary": "Europe's Payment Stack, Honestly FinTech Weekly",
-    "image_url": null,
-    "tags": [],
-    "industries": [
       "financial"
     ],
     "relevance_score": 5
