@@ -18,7 +18,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 65
+    "relevance_score": 62
   },
   {
     "id": "231c69e22a3f",
@@ -36,7 +36,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 65
+    "relevance_score": 62
   },
   {
     "id": "dea7dc3421d8",
@@ -76,7 +76,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 56
+    "relevance_score": 53
   },
   {
     "id": "65c0f1d1bf74",
@@ -97,7 +97,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 56
+    "relevance_score": 53
   },
   {
     "id": "7f2d18ff8f45",
@@ -119,7 +119,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 53
+    "relevance_score": 50
   },
   {
     "id": "d515c13ca065",
@@ -138,7 +138,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 52
+    "relevance_score": 49
   },
   {
     "id": "204ba7790cba",
@@ -158,7 +158,7 @@
       "tech",
       "financial"
     ],
-    "relevance_score": 52
+    "relevance_score": 49
   },
   {
     "id": "c3ecc55d2a22",
@@ -176,28 +176,6 @@
     "industries": [
       "media",
       "tech"
-    ],
-    "relevance_score": 50
-  },
-  {
-    "id": "a062ec54b2b3",
-    "title": "Here’s How Google Says It’s Making Its Smart Glasses More Private",
-    "url": "https://www.wired.com/story/how-google-is-making-its-smart-glasses-more-private/",
-    "source": "Wired",
-    "source_category": "ai",
-    "published": "2026-11-12T14:00:00+00:00",
-    "summary": "Eager to separate its glasses from Meta’s offerings, Google is positioning its frames as the more privacy-minded option.",
-    "image_url": "https://media.wired.com/photos/6af47bd6b9a1088954de923c/master/pass/DSC_0097.jpg",
-    "tags": [
-      "Gear",
-      "Gear / Gear News and Events",
-      "smart glasses",
-      "Google",
-      "Samsung"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
     ],
     "relevance_score": 47
   },
@@ -256,7 +234,32 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 45
+    "relevance_score": 45,
+    "also_covered_by": [
+      "Adobe Products"
+    ]
+  },
+  {
+    "id": "a062ec54b2b3",
+    "title": "Here’s How Google Says It’s Making Its Smart Glasses More Private",
+    "url": "https://www.wired.com/story/how-google-is-making-its-smart-glasses-more-private/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-11-12T14:00:00+00:00",
+    "summary": "Eager to separate its glasses from Meta’s offerings, Google is positioning its frames as the more privacy-minded option.",
+    "image_url": "https://media.wired.com/photos/6af47bd6b9a1088954de923c/master/pass/DSC_0097.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "smart glasses",
+      "Google",
+      "Samsung"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 44
   },
   {
     "id": "4b7c2e816732",
@@ -278,24 +281,6 @@
     "relevance_score": 43
   },
   {
-    "id": "35e4dd5ddaeb",
-    "title": "TwitchCon is at a crossroads as creators question its value",
-    "url": "https://digiday.com/media/twitchcon-is-at-a-crossroads-as-creators-question-its-value/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
-    "source": "Digiday",
-    "source_category": "marketing",
-    "published": "2026-11-12T05:01:00+00:00",
-    "summary": "Ahead of TwitchCon 2026, brands and creators weigh in on if the platform's big IRL event is worth the cost and potential safety issues.",
-    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/03/twtich-revenue-digiday.jpg",
-    "tags": [
-      "Media"
-    ],
-    "industries": [
-      "tech",
-      "consumer"
-    ],
-    "relevance_score": 42
-  },
-  {
     "id": "6b946ab9dadb",
     "title": "Wild Frontiers appoints Explore Worldwide marketing director as CMO - Travel Weekly - Home",
     "url": "https://news.google.com/rss/articles/CBMioAFBVV95cUxNMmxjUkVUMlAxREJ6YWNQaWtlOXJWZGhsaHRGWjR6UVhGc3NvODlVc21ERWpObDhqTS1XdzlFb3g1aE9Fc2k0Y05tcGZYRFN0eGVDTHE0U3NFS0o1QWxvSlZFejRVUk1RRjN4ZmVmVE5ULTUtQVBWbVdGb2VsNDloSlRDV3hoYzRiNHdqY2dpdzRCQ2RSU0VDTkV5SG5PNmU1?oc=5",
@@ -311,22 +296,22 @@
     "relevance_score": 41
   },
   {
-    "id": "85db8e8062ca",
-    "title": "Google Agrees to Privacy in Spirit Airlines Data Sale - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxNQlpUUkJkNWF5Yk1IX2NRdURubEF3NkExb2Y3dlVXUGxsUHNGZnVhLUtBdVNpdi1tdmZRX3M5TUVjSG1FNzVfbkxUb0h4dWIxaDF1dVM2Z3JPSzB0YnRwOUFzN0k3YktoS1VCWkY3SWdtUUlxaDBiMjFFOW9BbldZZnU0d2FTVXdIYkhaNzFUOWtDOHlxTUJBeXB4MlNmZw?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-11-12T19:00:11+00:00",
-    "summary": "Google Agrees to Privacy in Spirit Airlines Data Sale WSJ",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
+    "id": "35e4dd5ddaeb",
+    "title": "TwitchCon is at a crossroads as creators question its value",
+    "url": "https://digiday.com/media/twitchcon-is-at-a-crossroads-as-creators-question-its-value/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-11-12T05:01:00+00:00",
+    "summary": "Ahead of TwitchCon 2026, brands and creators weigh in on if the platform's big IRL event is worth the cost and potential safety issues.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2025/03/twtich-revenue-digiday.jpg",
+    "tags": [
+      "Media"
     ],
-    "relevance_score": 40,
-    "also_covered_by": [
-      "Wired"
-    ]
+    "industries": [
+      "tech",
+      "consumer"
+    ],
+    "relevance_score": 39
   },
   {
     "id": "e8febf20ea45",
@@ -383,25 +368,68 @@
     "relevance_score": 25
   },
   {
-    "id": "a254a2067feb",
-    "title": "25 years later, Xbox is trying to reinvent itself again",
-    "url": "https://www.theverge.com/tech/1031792/xbox-25-year-milestone-notepad",
+    "id": "9f9ef1f7c9cc",
+    "title": "Nebius tests the neocloud playbook with $40 billion in planned spending",
+    "url": "https://techcrunch.com/2026/11/12/nebius-tests-the-neocloud-playbook-with-40-billion-in-planned-spending/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-11-12T21:27:10+00:00",
+    "summary": "Nebius plans to fund its $40 billion AI infrastructure expansion through customer prepayments and loans, even as delays at a Microsoft data center raise questions about its financing model.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2026/11/GettyImages-2300447831.jpg?w=1024",
+    "tags": [
+      "AI",
+      "Nebius",
+      "cloud compute",
+      "AI compute"
+    ],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 19
+  },
+  {
+    "id": "49b41ef813d7",
+    "title": "Here are the 25 original Xbox games you can now play on PC",
+    "url": "https://www.theverge.com/games/1032321/microsoft-xbox-original-games-pc-backwards-compatibility",
     "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-11-12T17:00:00+00:00",
-    "summary": "Microsoft has spent the past 25 years trying to shake up the game console market. The original Xbox, which launched on November 15th in 2001, took on an industry dominated by Sony and Nintendo. Twenty-five years later, Xbox finds itself in a similar position. It's not...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/STK048_XBOX_4_B.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.728364100735%2C100%2C78.54327179853&amp;w=1200",
+    "published": "2026-11-12T21:00:00+00:00",
+    "summary": "For the 25th anniversary of Xbox, Microsoft is beginning to make good on its paid \"next-gen game preservation\" promise. Starting today, you can play 25 different original Xbox games on your Windows PC, as long as you have (or are willing to pay) for digital copies. In July,...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/XBOX_PCBackCompat.jpg?quality=90&amp;strip=all&amp;crop=0%2C0.439092495637%2C100%2C93.077370564282&amp;w=1200",
     "tags": [
       "Gaming",
       "Microsoft",
-      "Notepad",
+      "News",
       "Tech",
       "Xbox"
     ],
     "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 18
+  },
+  {
+    "id": "8888d189531c",
+    "title": "Mint Mobile Will Give You $500 Off Select New Phones When You Sign Up for a Year",
+    "url": "https://www.wired.com/story/mint-mobile-phone-deal-november-2026/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-11-12T22:47:26+00:00",
+    "summary": "The limited-time offer applies to the latest phones from Google and Samsung, but you must be a new customer who signs up for 12 months of the unlimited plan.",
+    "image_url": "https://media.wired.com/photos/6af6384cae8ec1b73c9441a2/master/pass/Mint-Mobile-Is-Offering-Up-to-$500-on-Select-New-Phones-When-You-Switch.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Deals",
+      "Gear / Products / Phones",
+      "Shopping",
+      "Deals"
+    ],
+    "industries": [
       "tech"
     ],
-    "relevance_score": 19
+    "relevance_score": 18
   },
   {
     "id": "fa101b6ca9fd",
@@ -417,7 +445,92 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 18
+    "relevance_score": 17
+  },
+  {
+    "id": "2980aec8ad12",
+    "title": "Microsoft 365 Down: Tech Giant Says Server Failures Causing Disruption",
+    "url": "https://www.forbes.com/sites/antoniopequenoiv/2026/11/12/microsoft-365-down-tech-giant-says-server-failures-causing-disruption/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-11-12T20:19:04+00:00",
+    "summary": "Reports of user issues with Microsoft 365 surged early Thursday afternoon.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6af61e184d132450d8ad1b25/0x0.jpg?width=960&precrop=3338%2C2227%2Cx0%2Cy0",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "a487e3688986",
+    "title": "Microsoft Outlook is still down",
+    "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-11-12T23:24:13+00:00",
+    "summary": "Since just before 1PM ET on Thursday, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft quickly acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-at-2.01.16-PM.jpg?quality=90&amp;strip=all&amp;crop=0,17.193583031279,100,65.612833937441",
+    "tags": [
+      "Apps",
+      "Microsoft",
+      "News",
+      "Tech"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "ecab0e7e397b",
+    "title": "Humble Bundle redesign removes two-factor verification from settings",
+    "url": "https://www.theverge.com/games/1032659/humble-bundle-redesign-two-factor-verification-security-settings",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-11-12T23:30:52+00:00",
+    "summary": "The Humble Bundle storefront for buying games and other software recently got a new look, but on the settings page, it no longer offers a way to add or update two-factor verification methods, as reported by Kotaku. PC Gamer also points out that there are Humble Bundle support...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-at-3.28.10-PM.png?quality=90&amp;strip=all&amp;crop=0%2C10.805209306634%2C100%2C66.481843291493&amp;w=1200",
+    "tags": [
+      "Entertainment",
+      "Gaming",
+      "News"
+    ],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 17
+  },
+  {
+    "id": "f86dedd8c0ea",
+    "title": "Google Wanted Spirit Airlines Data. Flight Attendants Found a Way to Opt Out",
+    "url": "https://www.wired.com/story/google-wanted-spirit-airlines-data-flight-attendants-found-a-way-to-opt-out/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-11-12T10:15:00+00:00",
+    "summary": "The union representing flight attendants for the defunct airline struck a deal with Google to scrub sensitive employee records from a $10 million data sale.",
+    "image_url": "https://media.wired.com/photos/6af4b673c0570edc6c14ee5b/master/pass/GettyImages-1392875153.jpg",
+    "tags": [
+      "Gear",
+      "Gear / Gear News and Events",
+      "data",
+      "data privacy",
+      "artificial intelligence"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 16
   },
   {
     "id": "49ac9311c7b4",
@@ -440,42 +553,67 @@
       "lifesciences",
       "financial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
-    "id": "889dda614b52",
-    "title": "More game developers are starting to use generative AI",
-    "url": "https://www.theverge.com/games/1032085/gdc-festival-of-gaming-annual-survey-ai-layoffs",
+    "id": "33a216de65d0",
+    "title": "Why user-first ad experiences build the strongest app businesses",
+    "url": "https://digiday.com/sponsored/why-user-first-ad-experiences-build-the-strongest-app-businesses/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
+    "source": "Digiday",
+    "source_category": "marketing",
+    "published": "2026-11-12T20:24:27+00:00",
+    "summary": "Today’s mobile users are searching, streaming, scrolling and shopping in bursts while commuting, waiting in line or multitasking. In each of those moments, attention is won second by second — and lost just as quickly. Partner insights from Google Publisher Connections.",
+    "image_url": "https://digiday.com/wp-content/uploads/sites/3/2026/11/GooglePhone_BLOCKS2.jpg",
+    "tags": [
+      "Sponsored"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "a3e1afb4a33d",
+    "title": "Google’s new Gemini model is better at understanding complicated questions",
+    "url": "https://www.theverge.com/ai-artificial-intelligence/1032505/google-search-ai-mode-gemini-4-hydrogen",
     "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-11-12T17:00:00+00:00",
-    "summary": "More video game developers are using generative AI tools in their jobs compared to last year, according to the GDC Festival of Gaming's latest annual industry survey. Forty percent of developers surveyed say they use it \"as part of their job,\" an increase from 36 percent in...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/55145037587_ac59503045_k.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.723395278369%2C100%2C78.553209443262&amp;w=1200",
+    "published": "2026-11-12T21:55:32+00:00",
+    "summary": "Google says its new Gemini 4 Hydrogen model can give more helpful answers to complex questions, including \"questions with multiple parts, hard-to-understand typos, or highly specific requests.\" The new model can break down your questions and address each part in its...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/chorus/uploads/chorus_asset/file/25290329/STK255_Google_Gemini_A.jpg?quality=90&amp;strip=all&amp;crop=0%2C9.9676601489831%2C100%2C80.064679702034&amp;w=1200",
     "tags": [
       "AI",
-      "Entertainment",
-      "Gaming",
-      "News"
+      "Google",
+      "News",
+      "Tech"
     ],
     "industries": [
       "tech",
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16,
+    "also_covered_by": [
+      "TechCrunch AI"
+    ]
   },
   {
-    "id": "a4dd41bee3f0",
-    "title": "VML Elevates Debbi Vandeven in Push For ‘Human-First’ Creative",
-    "url": "https://www.adweek.com/agencies/vml-elevates-debbi-vandeven-in-push-for-human-first-creative/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-11-12T09:00:00+00:00",
-    "summary": "Vandeven’s new role is the first major exec appointment by incoming global CEO Eric Campbell",
-    "image_url": null,
+    "id": "f974e997667c",
+    "title": "Silicon Valley Is Still Defending Jensen Huang",
+    "url": "https://www.wired.com/story/silicon-valley-is-still-defending-jensen-huang/",
+    "source": "Wired",
+    "source_category": "ai",
+    "published": "2026-11-12T22:29:43+00:00",
+    "summary": "Nvidia employees and tech insiders never thought the chip king would lose his job. Despite his sudden resignation, many of them are still in denial.",
+    "image_url": "https://media.wired.com/photos/6af5104da36e580e1eb299b6/master/pass/Model-Behavior-Silicon-Valley-Waiting-for-Jensen-Scandal-to-Blow-Over-Business.jpg",
     "tags": [
-      "Agencies",
-      "Leadership &amp; Talent",
-      "Premium"
+      "Business",
+      "Business / Artificial Intelligence",
+      "Model Behavior",
+      "artificial intelligence",
+      "NVIDIA"
     ],
     "industries": [
       "tech"
@@ -483,18 +621,41 @@
     "relevance_score": 16
   },
   {
-    "id": "a377f11b3a75",
-    "title": "Google Wallet can finally unlock doors with digital home keys",
-    "url": "https://www.theverge.com/tech/1032084/google-wallet-digital-home-key-smart-lock-rollout",
+    "id": "d5cc30ce1b8a",
+    "title": "Xbox owners are getting more customizations for backgrounds and the Guide menu",
+    "url": "https://www.theverge.com/news/1032396/xbox-dashboard-guide-menu-right-side-background-shuffle-feature",
     "source": "The Verge",
     "source_category": "ai",
-    "published": "2026-11-12T16:56:33+00:00",
-    "summary": "Google has added digital home key support to Google Wallet, allowing Android users to open smart locks by tapping their phone against them or simply approaching. The feature is currently available in public preview for the Google Home app, and will roll out to everyone \"over...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/01/258229_Aqara_U400_Smart_Lock_JTuohy_0005.jpg?quality=90&amp;strip=all&amp;crop=0%2C10.732984293194%2C100%2C78.534031413613&amp;w=1200",
+    "published": "2026-11-12T23:00:00+00:00",
+    "summary": "Microsoft is starting to test new customization options for Xbox consoles today. Xbox Insiders will be able to start testing new rotating backgrounds, new library options for digital games, and the ability to move the Xbox Guide menu to the right-hand side. \"Xbox Insiders can...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/4.-Guide-right.png?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
     "tags": [
-      "Android",
-      "Google",
-      "Smart Home",
+      "Gaming",
+      "Microsoft",
+      "News",
+      "Tech",
+      "Xbox"
+    ],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "dd62360cdb55",
+    "title": "Whoop launched a social network where every user has a ‘verified heartbeat’",
+    "url": "https://www.theverge.com/gadgets/1032630/whoop-humans-social-network",
+    "source": "The Verge",
+    "source_category": "ai",
+    "published": "2026-11-12T23:43:22+00:00",
+    "summary": "Starting Thursday, Whoop members can share their data from its wearables on the app's new Whoop Humans social network. Users can make their metrics, activities, and achievements visible to other Whoop wearers, post Story-like \"Moments\" with photos and captions, and add...",
+    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/whoop-humans-launch-screenshots-trio-2.jpeg?quality=90&amp;strip=all&amp;crop=0%2C3.4613147178592%2C100%2C93.077370564282&amp;w=1200",
+    "tags": [
+      "Fitness",
+      "Gadgets",
+      "News",
+      "Social Media",
       "Tech"
     ],
     "industries": [
@@ -522,28 +683,45 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
   },
   {
-    "id": "a487e3688986",
-    "title": "Microsoft Outlook is down",
-    "url": "https://www.theverge.com/tech/1032226/microsoft-outlook-is-down",
-    "source": "The Verge",
+    "id": "5c7ee20f9b6f",
+    "title": "Major Microsoft Outlook Outage Leaves People With Email Jobs Unable to Email",
+    "url": "https://www.wired.com/story/major-microsoft-outlook-outage-hits-365-customers-north-america/",
+    "source": "Wired",
     "source_category": "ai",
-    "published": "2026-11-12T19:07:21+00:00",
-    "summary": "Over the last hour or so, reports have come in from around the world that people can't access their Outlook email, either through the web or apps. Microsoft has acknowledged the issue from its Microsoft 365 Status account, saying that \"We've determined a portion of...",
-    "image_url": "https://platform.theverge.com/wp-content/uploads/sites/2/2026/11/Screenshot-2026-11-12-at-2.01.16-PM.jpg?quality=90&amp;strip=all&amp;crop=0,17.193583031279,100,65.612833937441",
+    "published": "2026-11-12T20:01:33+00:00",
+    "summary": "Microsoft says its systems are experiencing “elevated loads” as the company races to end an outage impacting its business and enterprise customers.",
+    "image_url": "https://media.wired.com/photos/6af619fa66909349c1be40f4/master/pass/Security_Microsoft365Outage-ezgif.com-video-to-gif-converter%20(1).gif",
     "tags": [
-      "Apps",
+      "Security",
+      "Security / Security News",
       "Microsoft",
-      "News",
-      "Tech"
+      "Microsoft Cloud",
+      "Internet"
     ],
     "industries": [
       "tech",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 15
+  },
+  {
+    "id": "10363341f8e3",
+    "title": "Recapping the headwinds and tailwinds from Q3",
+    "url": "https://www.fiercehealthcare.com/payers/recapping-headwinds-and-tailwinds-q3",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-11-11T12:02:00+00:00",
+    "summary": "The Fierce Healthcare team breaks down Q3 earnings for insurers and health systems, plus what the latest trends signal for 2027, on \"Podnosis.\"",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Untitled%20design%20%289%29_1.png?VersionId=nIAWb57aPvd5_17UEz1LLH2ziN.Mn1Z8",
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 14
   },
   {
     "id": "60e2c30e35f9",
@@ -564,7 +742,7 @@
     "industries": [
       "tech"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "eb869d57958b",
@@ -582,7 +760,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
   },
   {
     "id": "f821ba6c0038",
@@ -604,7 +782,108 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 15
+    "relevance_score": 14
+  },
+  {
+    "id": "39de6fcb01ba",
+    "title": "British Airways Parent IAG Bets Big on Advertising",
+    "url": "https://www.adweek.com/commerce/british-airways-parent-iag-bets-big-on-advertising/",
+    "source": "Adweek",
+    "source_category": "marketing",
+    "published": "2026-11-12T14:30:00+00:00",
+    "summary": "The new media network promises a unified approach and deeper audience targeting.",
+    "image_url": null,
+    "tags": [
+      "Ad Tech Industry News",
+      "Premium",
+      "Retail Media Networks",
+      "Travel Advertising News"
+    ],
+    "industries": [
+      "media",
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "d17539289182",
+    "title": "Nvidia Will Continue To Be A Key Driver In The AI Revolution",
+    "url": "https://www.forbes.com/sites/chuckbrooks/2026/11/12/nvidia-will-continue-to-be-a-key-driver-in-the-ai-revolution/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-11-12T19:22:15+00:00",
+    "summary": "After Jensen Huang’s departure, can Nvidia maintain its AI dominance? Its technology, infrastructure and national security role may help determine what comes next.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6af6107e58cd8f35755bee87/0x0.jpg",
+    "tags": [
+      "AI",
+      "/ai",
+      "Innovation",
+      "/innovation",
+      "AI"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "eeb3027690b2",
+    "title": "Nvidia privately confirmed it could track chips to fight smuggling, even as industry publicly questioned feasibility",
+    "url": "https://www.technologyreview.com/2026/11/12/1148483/nvidia-chip-tracking/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-11-12T20:16:24+00:00",
+    "summary": "Representatives from Nvidia told Illinois representative Bill Foster that it would be technically possible to implement the anti-smuggling measures called for in the Chip Security Act, Foster told MIT Technology Review in an interview on Thursday, even while an industry group...",
+    "image_url": null,
+    "tags": [
+      "Artificial intelligence",
+      "AI",
+      "App",
+      "nvidia"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "35fdffd55021",
+    "title": "Disney And Adobe Are Tapping Into AI For Storytelling - Yahoo Tech",
+    "url": "https://news.google.com/rss/articles/CBMilwFBVV95cUxPR1kwZFV5ZmZQajF5S0ZPR0x5VjRDSHdPeUNLZlRhWTRqRC1CRC1jR2ZrOVZCSFpNcnZCYW9JbDhIZ1FhZThqbllOOHl5X3ZPUWh1NnEwVHpkN0hqQkRLWEg4cWlpOUtSdVkwaFFNdnZDUVBRUGJoTUtSU0pDZW1WSy10YVZ3YjBDOGZBeU1GXzNCYWNtc1ZB?oc=5",
+    "source": "Adobe Products",
+    "source_category": "adobe",
+    "published": "2026-11-12T21:51:43+00:00",
+    "summary": "Disney And Adobe Are Tapping Into AI For Storytelling Yahoo Tech",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "media",
+      "tech"
+    ],
+    "relevance_score": 14
+  },
+  {
+    "id": "b0507c94f899",
+    "title": "Adobe MAX 2026: Adobe Ready to Let Other AI Agents Run Its Apps - The Futurum Group",
+    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa1kwUnpqZnFrVl9PT0NfWnBpeWl0TzFvM1dsQUlhWmVpcjEtb2cxaE05ZEZ6b01HREtlZjBVSW4yTGRZZGxmbVRtcVI1NHV6UFhDdGNWUDM4NDVxUDNEMlVsWWxXQUJRaks4eXVDWFBHRGliUFlOWTNzb21ZX2YzTUkzQkxpa1V6Z3lXZS1sZ0gxRUZfQUZGclhoNzV2dw?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-11-12T13:57:06+00:00",
+    "summary": "Adobe MAX 2026: Adobe Ready to Let Other AI Agents Run Its Apps The Futurum Group",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 13,
+    "also_covered_by": [
+      "Agentic Marketing",
+      "Adobe Marketing Cloud",
+      "Adobe Products"
+    ]
   },
   {
     "id": "68ce2150d459",
@@ -626,7 +905,28 @@
       "tech",
       "lifesciences"
     ],
-    "relevance_score": 15
+    "relevance_score": 13
+  },
+  {
+    "id": "17107c7279fd",
+    "title": "Trump floats Apple chairman Tim Cook as Jensen Huang’s successor",
+    "url": "https://techcrunch.com/2026/11/12/trump-floats-apple-chairman-tim-cook-as-jensen-huangs-successor/",
+    "source": "TechCrunch AI",
+    "source_category": "ai",
+    "published": "2026-11-12T16:12:44+00:00",
+    "summary": "In a post on Truth Social, President Trump says only one man can take Jensen Huang's place as head of Nvidia: Tim Cook.",
+    "image_url": "https://techcrunch.com/wp-content/uploads/2025/07/GettyImages-2224174932.jpg?w=1024",
+    "tags": [
+      "AI",
+      "Apple",
+      "In Brief",
+      "Jensen Huang",
+      "nvidia"
+    ],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 13
   },
   {
     "id": "883f4c4e81bd",
@@ -642,100 +942,7 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 15
-  },
-  {
-    "id": "10363341f8e3",
-    "title": "Recapping the headwinds and tailwinds from Q3",
-    "url": "https://www.fiercehealthcare.com/payers/recapping-headwinds-and-tailwinds-q3",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-11-11T12:02:00+00:00",
-    "summary": "The Fierce Healthcare team breaks down Q3 earnings for insurers and health systems, plus what the latest trends signal for 2027, on \"Podnosis.\"",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/Untitled%20design%20%289%29_1.png?VersionId=nIAWb57aPvd5_17UEz1LLH2ziN.Mn1Z8",
-    "tags": [],
-    "industries": [
-      "tech",
-      "lifesciences"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "a5deab2639e5",
-    "title": "Apple’s Heartfelt Holiday Ad Gifts the Power of Belief",
-    "url": "https://www.adweek.com/creativity/apples-heartfelt-holiday-ad-gifts-the-power-of-belief/",
-    "source": "Adweek",
-    "source_category": "marketing",
-    "published": "2026-11-12T03:00:00+00:00",
-    "summary": "The tech company’s 2026 holiday film features a boy navigating his relationship to art",
-    "image_url": null,
-    "tags": [
-      "Creative Advertising",
-      "Holidays",
-      "Premium",
-      "Technology"
-    ],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "f21ccb360887",
-    "title": "AI's Last Mile: Microsoft, Five9 and Salesforce Pay to Get You Live - UC Today",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOFRGa09nVUJXTzFnbEppMG56aVlHWjVSVjV3blk4NDVkV19pUlZxcmhmNkdjb2ViVF9VUU5lUWtmdVN4WlJPWTJCenJCMmZxQmlPZVI0b0IxS1NMNTRhM2x0cERiZ3RvNVdUZV9SWTd2RmdhZ1laeGNNZDVDeWFvMkkwUThTTUk?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-11-12T07:11:02+00:00",
-    "summary": "AI's Last Mile: Microsoft, Five9 and Salesforce Pay to Get You Live UC Today",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 14
-  },
-  {
-    "id": "b0507c94f899",
-    "title": "Adobe MAX 2026: Adobe Ready to Let Other AI Agents Run Its Apps - The Futurum Group",
-    "url": "https://news.google.com/rss/articles/CBMingFBVV95cUxOa1kwUnpqZnFrVl9PT0NfWnBpeWl0TzFvM1dsQUlhWmVpcjEtb2cxaE05ZEZ6b01HREtlZjBVSW4yTGRZZGxmbVRtcVI1NHV6UFhDdGNWUDM4NDVxUDNEMlVsWWxXQUJRaks4eXVDWFBHRGliUFlOWTNzb21ZX2YzTUkzQkxpa1V6Z3lXZS1sZ0gxRUZfQUZGclhoNzV2dw?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-11-12T13:57:06+00:00",
-    "summary": "Adobe MAX 2026: Adobe Ready to Let Other AI Agents Run Its Apps The Futurum Group",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 14,
-    "also_covered_by": [
-      "Adobe Products",
-      "Adobe Marketing Cloud",
-      "Adobe Inc"
-    ]
-  },
-  {
-    "id": "6cf5f37f7cf4",
-    "title": "AppsFlyer Expands Agentic AI and MCP Tools to Empower Marketers with Trusted Automation - 01net",
-    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdU1hTjZmVlZ6NG5mM0FGMTNWMVp2ZlRCdXhZRTdldmZ6LUl1S2kzbUgtdmtneXRvMmlaMDVuT2pHUTBmWnc4ZHV2U0xsdTR3ejh2MDBMVkNrTW1jUXZ4SXBDNUhOZTZrejAzdkdtaDh0WVU5ekxYZS0yOHM2Zm9GSGpnUERTZ1hONmtDUmJoczZPWFRIeWl5dThvcmtDSU5wTEJYNFRIVEg0UVVDUnc?oc=5",
-    "source": "Agentic Marketing",
-    "source_category": "ai_marketing",
-    "published": "2026-11-12T16:00:00+00:00",
-    "summary": "AppsFlyer Expands Agentic AI and MCP Tools to Empower Marketers with Trusted Automation 01net",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 14,
-    "also_covered_by": [
-      "Adobe",
-      "Adobe Marketing Cloud"
-    ]
+    "relevance_score": 13
   },
   {
     "id": "8edebf236954",
@@ -752,18 +959,46 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
-    "id": "c2e93ccca07a",
-    "title": "Analysts Offer Insights on Technology Companies: Silicon Laboratories (SLAB), Lyft (LYFT) and Adobe (ADBE) - The Globe and Mail",
-    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPN01yTDVaamtLcEFQQUlUelBfRDl2U3lKTWN6andiXy1wTFZ3a21CZ3BzVFJXOUswMGtISlUwek1aQm1JOFhGbWhja2J6Rmpxc0VkWkE0RGs0ZXZOYWRZWDVFUTlnVk93NkhkQWhIRG50NXRZTWFRa1RJN3d2ZlRHOThBVnhjQVZ5M1FvVXhDNms3S3VJOWxKUDB5aHhLeml0VU9BVUhlRGt2UU1GNEtNa05zVWlLUXRUNWFGNkZSeV83dDVscGNvdmdsWEYtZVFRblRncXI0TmE4OHQxU1BMM0dsZVhZRkhZZzV0M1FsZjBPT3dQZHlDTXE0Z1F3SWV3Sm95U0dTX3NPMG4wMllaRGhFMA?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-11-12T15:46:14+00:00",
-    "summary": "Analysts Offer Insights on Technology Companies: Silicon Laboratories (SLAB), Lyft (LYFT) and Adobe (ADBE) The Globe and Mail",
-    "image_url": null,
-    "tags": [],
+    "id": "d475922f1269",
+    "title": "Cracks Beneath The Cushion: Rising U.S. Banking Vulnerabilities",
+    "url": "https://www.forbes.com/sites/mayrarodriguezvalladares/2026/11/12/cracks-beneath-the-cushion-rising-us-banking-vulnerabilities/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-11-12T18:38:30+00:00",
+    "summary": "While U.S. banks remain better capitalized than during the Great Recession, their shock absorbers are wearing thin.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6af5f62ef1bca417077734f2/0x0.jpg",
+    "tags": [
+      "Banking & Insurance",
+      "/banking-insurance",
+      "Money",
+      "/money",
+      "Banking & Insurance"
+    ],
+    "industries": [
+      "tech",
+      "financial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "5aae6ad948af",
+    "title": "Donald Trump Jr. Leaves Kalshi Advisory Role Over Conflict With Polymarket",
+    "url": "https://www.forbes.com/sites/maryroeloffs/2026/11/12/donald-trump-jr-leaves-kalshi-advisory-role-over-conflict-with-polymarket/",
+    "source": "Forbes Business",
+    "source_category": "marketing",
+    "published": "2026-11-12T19:54:22+00:00",
+    "summary": "Trump Jr.’s financial firm, 1789 Capital, recently expanded its financial stake in Kalshi rival, Polymarket.",
+    "image_url": "https://imageio.forbes.com/specials-images/imageserve/6af619459985450a0f71e871/0x0.jpg?width=960&precrop=3134%2C1761%2Cx0%2Cy0",
+    "tags": [
+      "Business",
+      "/business",
+      "Business",
+      "/business",
+      "Breaking"
+    ],
     "industries": [
       "tech"
     ],
@@ -786,38 +1021,66 @@
     "relevance_score": 12
   },
   {
-    "id": "364092bc196c",
-    "title": "Meta is losing its longtime head of infrastructure",
-    "url": "https://techcrunch.com/2026/11/11/meta-is-losing-its-longtime-head-of-infrastructure/",
-    "source": "TechCrunch AI",
-    "source_category": "ai",
-    "published": "2026-11-11T20:12:01+00:00",
-    "summary": "Santosh Janardhan, who originally joined the company in 2009, will be stepping down from his role.",
-    "image_url": "https://techcrunch.com/wp-content/uploads/2026/06/Meta-image.jpg?w=1024",
-    "tags": [
-      "AI",
-      "compute",
-      "In Brief",
-      "infrastructure",
-      "Meta"
-    ],
+    "id": "58f8f9422873",
+    "title": "Medical transport platform MedHaul, focused on high-needs patients, raises $4.1M",
+    "url": "https://www.fiercehealthcare.com/digital-health/medical-transport-booking-platform-medhaul-raises-41m-expand",
+    "source": "Fierce Healthcare",
+    "source_category": "industry_lifesciences",
+    "published": "2026-11-11T17:29:00+00:00",
+    "summary": "The latest capital will be used to expand deeper in oncology, which represents 60% of rides booked on the platform, and to support a forthcoming Epic integration.",
+    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/gettyimages-1184633623_1.jpg?VersionId=kDLdV_wA9IF3zyYCY0mtOnA6dejPipxg",
+    "tags": [],
     "industries": [
-      "tech"
+      "tech",
+      "lifesciences"
     ],
     "relevance_score": 12
   },
   {
-    "id": "ea8bde83e0f7",
-    "title": "Exclusive | AI Startup LangChain More Than Doubles Its Valuation to $3 Billion - WSJ",
-    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTTExQ3Y3Q3JBV2Z1WGtJbmpzZWdJbTV1UjlDZ21BenEzUWhOTW1pc2doRlhDRktWZFNDT1lhWjROcE9UZUQzQmQxRFBYZW9kYTBockNoUEtzWFhVbDBTb2pZNXFpSnAtU2tMRVdySzA5Y2d4bmY1WFhvQV9Fd3dTbHVmTFhNNXVxcEN2UXFrenhpUy1jdVJ0UHVUUTRpS2djV3lZZ185MXB3QQ?oc=5",
-    "source": "Wall Street",
-    "source_category": "industry_financial",
-    "published": "2026-11-12T14:00:00+00:00",
-    "summary": "Exclusive | AI Startup LangChain More Than Doubles Its Valuation to $3 Billion WSJ",
+    "id": "f21ccb360887",
+    "title": "AI's Last Mile: Microsoft, Five9 and Salesforce Pay to Get You Live - UC Today",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOFRGa09nVUJXTzFnbEppMG56aVlHWjVSVjV3blk4NDVkV19pUlZxcmhmNkdjb2ViVF9VUU5lUWtmdVN4WlJPWTJCenJCMmZxQmlPZVI0b0IxS1NMNTRhM2x0cERiZ3RvNVdUZV9SWTd2RmdhZ1laeGNNZDVDeWFvMkkwUThTTUk?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-11-12T07:11:02+00:00",
+    "summary": "AI's Last Mile: Microsoft, Five9 and Salesforce Pay to Get You Live UC Today",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech"
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "6cf5f37f7cf4",
+    "title": "AppsFlyer Expands Agentic AI and MCP Tools to Empower Marketers with Trusted Automation - 01net",
+    "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQdU1hTjZmVlZ6NG5mM0FGMTNWMVp2ZlRCdXhZRTdldmZ6LUl1S2kzbUgtdmtneXRvMmlaMDVuT2pHUTBmWnc4ZHV2U0xsdTR3ejh2MDBMVkNrTW1jUXZ4SXBDNUhOZTZrejAzdkdtaDh0WVU5ekxYZS0yOHM2Zm9GSGpnUERTZ1hONmtDUmJoczZPWFRIeWl5dThvcmtDSU5wTEJYNFRIVEg0UVVDUnc?oc=5",
+    "source": "Agentic Marketing",
+    "source_category": "ai_marketing",
+    "published": "2026-11-12T16:00:00+00:00",
+    "summary": "AppsFlyer Expands Agentic AI and MCP Tools to Empower Marketers with Trusted Automation 01net",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "19046e80c84f",
+    "title": "Adobe Max-es out Firefly, Creative Cloud, and GenStudio - Jon Peddie",
+    "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQbHpiMTY1M29nckdaVzdxRDJ2cXdNR2ExdG9CNjhrQWZPWTBzSExvaFVmWFJyZ2FrbFhHbURObkJsYU56TFRCVnhjck1nLWNqMWk0Y3pTSl9acVlVYkJJaV9VT1ZNYmw1VWdjYXB3MjhDcnhYRFJ1d1JaQ29EMTd6dHZXaUM4SHlpWUNBWWZn?oc=5",
+    "source": "Adobe",
+    "source_category": "adobe",
+    "published": "2026-11-12T20:18:44+00:00",
+    "summary": "Adobe Max-es out Firefly, Creative Cloud, and GenStudio Jon Peddie",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
     ],
     "relevance_score": 12
   },
@@ -853,22 +1116,6 @@
     "relevance_score": 11
   },
   {
-    "id": "7265f6a29d0c",
-    "title": "Securing Salesforce with Salesforce: Retiring the Catch-All Inbox for an Agentic Frontline",
-    "url": "https://www.salesforce.com/blog/securing-salesforce-agentic-security-triage/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-10T22:22:06+00:00",
-    "summary": "Learn how Salesforce built an AI-powered security reporting agent using Agentforce, Slack, and Service Cloud to streamline security intake, improve report quality, and help security teams focus on critical threats.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/network.jpeg",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
     "id": "eb6a154bea02",
     "title": "Google Cloud debuts Gemini for healthcare",
     "url": "https://www.healthcaredive.com/news/google-cloud-debuts-gemini-for-healthcare/874371/",
@@ -890,13 +1137,13 @@
     ]
   },
   {
-    "id": "c76a6d0ad800",
-    "title": "Elligint Health acquires Israeli startup Laguna in deal estimated to be worth tens of millions of dollars - CTech",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5hTlhTbEtGejRQN2E3LW40U3ZzT2VoQkUtS0FNQ1o1RWFGcVo5bmpUZ3Rmd3oyOXg0dlpRdzdick80eVpHN2lINTIyZ1ZQYXhRcjJXQldrR2Z2RERiNl9ydXVNanU5Rm5VWUE?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-11-12T07:50:00+00:00",
-    "summary": "Elligint Health acquires Israeli startup Laguna in deal estimated to be worth tens of millions of dollars CTech",
+    "id": "ea8bde83e0f7",
+    "title": "Exclusive | AI Startup LangChain More Than Doubles Its Valuation to $3 Billion - WSJ",
+    "url": "https://news.google.com/rss/articles/CBMiqgFBVV95cUxQTTExQ3Y3Q3JBV2Z1WGtJbmpzZWdJbTV1UjlDZ21BenEzUWhOTW1pc2doRlhDRktWZFNDT1lhWjROcE9UZUQzQmQxRFBYZW9kYTBockNoUEtzWFhVbDBTb2pZNXFpSnAtU2tMRVdySzA5Y2d4bmY1WFhvQV9Fd3dTbHVmTFhNNXVxcEN2UXFrenhpUy1jdVJ0UHVUUTRpS2djV3lZZ185MXB3QQ?oc=5",
+    "source": "Wall Street",
+    "source_category": "industry_financial",
+    "published": "2026-11-12T14:00:00+00:00",
+    "summary": "Exclusive | AI Startup LangChain More Than Doubles Its Valuation to $3 Billion WSJ",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -905,68 +1152,19 @@
     "relevance_score": 11
   },
   {
-    "id": "9950e4f68393",
-    "title": "Google will put Adobe Acrobat in Gmail and Drive file previews - PPC Land",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxQTlhLS2hWSlRpTTlyLXZRMWdHeGtwbWU1OElyM0d2UmVDYUxldk5yN2l4Z1VRUnd1QnVwNUhOQmlYcnZoWFA2b1JvT1NneXB6SjZRS0pkd01ZdHZlb0xUcVZuaXFZd0lFRk1zc0t1RktsRW9xVzJJNHQtS0o5TWJQeXhMdXdsSGM?oc=5",
-    "source": "Adobe",
+    "id": "c2e93ccca07a",
+    "title": "Analysts Offer Insights on Technology Companies: Silicon Laboratories (SLAB), Lyft (LYFT) and Adobe (ADBE) - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMikwJBVV95cUxPN01yTDVaamtLcEFQQUlUelBfRDl2U3lKTWN6andiXy1wTFZ3a21CZ3BzVFJXOUswMGtISlUwek1aQm1JOFhGbWhja2J6Rmpxc0VkWkE0RGs0ZXZOYWRZWDVFUTlnVk93NkhkQWhIRG50NXRZTWFRa1RJN3d2ZlRHOThBVnhjQVZ5M1FvVXhDNms3S3VJOWxKUDB5aHhLeml0VU9BVUhlRGt2UU1GNEtNa05zVWlLUXRUNWFGNkZSeV83dDVscGNvdmdsWEYtZVFRblRncXI0TmE4OHQxU1BMM0dsZVhZRkhZZzV0M1FsZjBPT3dQZHlDTXE0Z1F3SWV3Sm95U0dTX3NPMG4wMllaRGhFMA?oc=5",
+    "source": "Adobe Inc",
     "source_category": "adobe",
-    "published": "2026-11-12T08:56:20+00:00",
-    "summary": "Google will put Adobe Acrobat in Gmail and Drive file previews PPC Land",
+    "published": "2026-11-12T15:46:14+00:00",
+    "summary": "Analysts Offer Insights on Technology Companies: Silicon Laboratories (SLAB), Lyft (LYFT) and Adobe (ADBE) The Globe and Mail",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech"
     ],
     "relevance_score": 11
-  },
-  {
-    "id": "f1e3256514f4",
-    "title": "Fitbit users can’t see Google Health metrics after update – how to fix it - ZDNET",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRDMwQkhpMXVYX1M0N09QM29UVEEyTlNkNlJhVTBNaW9jMFc1enBNdGhKUVVfWGZsWmxUd3BMSDdCWG5QX0RrdjkycnJRSGI2QmFVWXNUMDZKUTZISUhzTTNkYzBuaE45MUVwTlZNaG0zdnRmcWxScWJaeHNqcHBja3lpUHhVTW9IWjlpQg?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-11-12T16:41:38+00:00",
-    "summary": "Fitbit users can’t see Google Health metrics after update – how to fix it ZDNET",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "b79c93ba9df0",
-    "title": "Personify Health launches updated wellbeing platform experience with 2 new capabilities",
-    "url": "https://www.fiercehealthcare.com/digital-health/personify-health-launches-updated-wellbeing-platform-experience-2-new-capabilities",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-11-09T15:53:00+00:00",
-    "summary": "The updated platform experience features two new capabilities: adherence and digital navigation.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/GettyImages-2152554500.jpg?VersionId=sRgXjDC.XT_Qk5G3gPh_gJLsyMr_r5v6",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 10,
-    "also_covered_by": [
-      "Health Tech"
-    ]
-  },
-  {
-    "id": "e11358564241",
-    "title": "Salesforce Opens Agentforce Coworker to Teams, Launches Mac and Windows Apps at $50 a Seat - BigGo Finance",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qZWtWdE00RWVNRFpObDl2dU5YMW93R01SWEluUjliMDhiaUR4X2hOVURGMWlDX0cwTDdlejdOLWZxNzE2QjJrZkdFTWtnOWNaX0N6Ml9LWXRPdjRfVTg3X25UcDRYN1NET3pjUWVaeWk1MDJQWkE?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-11-10T08:06:00+00:00",
-    "summary": "Salesforce Opens Agentforce Coworker to Teams, Launches Mac and Windows Apps at $50 a Seat BigGo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 10
   },
   {
     "id": "383fec097ec1",
@@ -988,30 +1186,14 @@
     "relevance_score": 10
   },
   {
-    "id": "f636e6051bce",
-    "title": "From Months to Minutes: How to Launch an Agentic Contact Center Fast",
-    "url": "https://www.salesforce.com/blog/launch-agentic-contact-center/",
+    "id": "7265f6a29d0c",
+    "title": "Securing Salesforce with Salesforce: Retiring the Catch-All Inbox for an Agentic Frontline",
+    "url": "https://www.salesforce.com/blog/securing-salesforce-agentic-security-triage/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-11-10T20:31:17+00:00",
-    "summary": "Here’s how a unified, agentic platform can set up your contact center in under an hour – and what your team needs to make that happen.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Gemini_Generated_Image_lvq7j2lvq7j2lvq7-1.jpeg",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "c7c11f549cb5",
-    "title": "With Salesforce Catalog, agents stop guessing how your org works",
-    "url": "https://www.salesforce.com/blog/salesforce-catalog-ai-agents/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-11T00:01:58+00:00",
-    "summary": "The average customer satisfaction (CSAT) score your service team tracks fell this week. Before anyone decides whether customers are less happy, someone has to answer a plain question; where does the number come…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image1_ee0631.png",
+    "published": "2026-11-10T22:22:06+00:00",
+    "summary": "Learn how Salesforce built an AI-powered security reporting agent using Agentforce, Slack, and Service Cloud to streamline security intake, improve report quality, and help security teams focus on critical threats.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/network.jpeg",
     "tags": [],
     "industries": [
       "tech",
@@ -1035,24 +1217,6 @@
     "relevance_score": 10
   },
   {
-    "id": "f330cbcd443d",
-    "title": "Adobe Systems vs. Snowflake: Which Technology Stock Is a Better Buy for 2027? - The Motley Fool",
-    "url": "https://news.google.com/rss/articles/CBMixgFBVV95cUxPWUtLZVJfQTd2cEtJQnBWMXU2WC12aVZ4SFV1R0pMaVlHZmVLd2lwdUt0ZTZvb0hNV0pHdUlxS2QtcVU4WlVsRngyQTBzYzAxUnRKVVRTYnFzSVhGTUF0ZWhhX0lxem1LM285aDVTWWQwelI0MkJDSlVaVnd6LUMxdFh2aTVGdDRkZnVHbW81cGk4Y2FYM2h3OTg5R0ZoTlRFSnh4LW1acjlYb2xuTlZqNXJXX0paSUpWRE1SQ3NFVy1rV2dRcVE?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-11-11T18:30:00+00:00",
-    "summary": "Adobe Systems vs. Snowflake: Which Technology Stock Is a Better Buy for 2027? The Motley Fool",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 10,
-    "also_covered_by": [
-      "Fierce Telecom"
-    ]
-  },
-  {
     "id": "8f305dce2fa7",
     "title": "Novant COO tapped to lead system after CEO retires",
     "url": "https://www.healthcaredive.com/news/novant-coo-tapped-to-lead-system-after-ceo-retires/874428/",
@@ -1068,77 +1232,10 @@
     "relevance_score": 10
   },
   {
-    "id": "8b145ffcbe5f",
-    "title": "META_TITLE_QUOTE - Yahoo Finance",
-    "url": "https://news.google.com/rss/articles/CBMiTkFVX3lxTE1PV01IT1ZEUWRiQmEtdVc0c21GaWg0U183YUZzZ09WOGxlUkt2Q3ZmNWpSZjFlZ21PbUo4M0hZQW5qdU9ULVhKcFIzUVZWQQ?oc=5",
-    "source": "Adobe Inc",
-    "source_category": "adobe",
-    "published": "2026-11-12T11:09:32+00:00",
-    "summary": "META_TITLE_QUOTE Yahoo Finance",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "2f5d434a899a",
-    "title": "New Hidalgo Plant / Digital Payments App - Mexico Business News",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORW5GeWRHV3JnLXp1RHRUOXZsZVp5QTdxRVdySFVRREFZX2Q5QWJFX3FZSTdaZDluSjlVT0tMZ01ZV0p5MmVVYjhQWkwtOFdjY2dCVnExS2xyUVd1Q09kZ3Z5RjVtS0Z5V2VLRnBXelBDakMwWGdrVHYzUmNCLVZkeXhWeHczYXNldTRseWJHSEh4QQ?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-11-12T18:19:17+00:00",
-    "summary": "New Hidalgo Plant / Digital Payments App Mexico Business News",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "7da0c79986be",
-    "title": "Digital Mental Health Platform Demonstrates High Student Satisfaction Despite Modest Uptake - Bioengineer.org",
-    "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxPckg5RVhud1dSTF81WlZMcU5FaGw3bUE3RXJPVWJSSW5fRG9ZT19laEF0c1hTYm43amEzUDNUNUFDXzFRLTlCb0pEQl9vQzZyQ3ktUTRhZjRWZFRZd3BmUDZ4aVRoelV2TS1qNUc1azhDQXhVRDdMY0ZUaGU4MnNKUUNOWi1xSEF1TVZZcU1sS192Mm91bEVoYm14Q3F0WVBHSmkzRVNMTTZjUERhQ3VydVlBVmRVdE0?oc=5",
-    "source": "Health Tech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-11-12T18:25:44+00:00",
-    "summary": "Digital Mental Health Platform Demonstrates High Student Satisfaction Despite Modest Uptake Bioengineer.org",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "a0dbf5e97194",
-    "title": "The backlash about data centers might really just be about electricity",
-    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
-    "source": "MIT Technology Review",
-    "source_category": "ai",
-    "published": "2026-11-09T19:35:33+00:00",
-    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s...",
-    "image_url": null,
-    "tags": [
-      "Artificial intelligence",
-      "App",
-      "artificial intelligence",
-      "The Algorithm"
-    ],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
     "id": "d6b153333a29",
     "title": "Adobe and Google Deepen Partnership to Bring Leading AI Models and Integrated Workflows to Creatives and Enterprises - Adobe Newsroom",
     "url": "https://news.google.com/rss/articles/CBMie0FVX3lxTFBla1A3dTBYWnV6ZlczaUtYanFqV18tWEhjMDNqa3liakowSTBGWGYtUXRYRGZBem1LOUF5c2tVVk5oZkg5N09UVzgtYnp1cHZDOVNjWThHcWxGenVwaHR0MXJVbmlORXN3VWVPVHJFbjd0dDNRRlBuaVJubw?oc=5",
-    "source": "Adobe Inc",
+    "source": "Adobe",
     "source_category": "adobe",
     "published": "2026-11-10T10:05:48+00:00",
     "summary": "Adobe and Google Deepen Partnership to Bring Leading AI Models and Integrated Workflows to Creatives and Enterprises Adobe Newsroom",
@@ -1153,14 +1250,14 @@
     ]
   },
   {
-    "id": "37c23050ec71",
-    "title": "Sell Your Full Portfolio on AgentExchange, in One Private Offer",
-    "url": "https://www.salesforce.com/blog/sell-your-full-portfolio-on-agentexchange-in-one-private-offer/",
+    "id": "f636e6051bce",
+    "title": "From Months to Minutes: How to Launch an Agentic Contact Center Fast",
+    "url": "https://www.salesforce.com/blog/launch-agentic-contact-center/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-11-10T16:39:58+00:00",
-    "summary": "Your business is bigger than the app you build on Salesforce. Your customers aren’t just buying software. They need the external platforms, implementation services, and support that turn software into business results. Until…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/AEC-November-Blog-3.png",
+    "published": "2026-11-10T20:31:17+00:00",
+    "summary": "Here’s how a unified, agentic platform can set up your contact center in under an hour – and what your team needs to make that happen.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Gemini_Generated_Image_lvq7j2lvq7j2lvq7-1.jpeg",
     "tags": [],
     "industries": [
       "tech",
@@ -1169,35 +1266,18 @@
     "relevance_score": 9
   },
   {
-    "id": "9ae5486b619a",
-    "title": "Recon: Bayer wins FDA approval for stroke prevention drug; Third Rock enters $2B partnership with AI-focused Chinese biotech - RAPS",
-    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTGlwTWVEN1ZHY2l3ZGdYTTJqT2tGQWFOSmVsWkZXMzZBMkxrZTgtNFJfVFJaek92TlFZMW90S0Z5N1JFWVRXLXBUSk1uaGJpaEVKLVBfSUNqdHpsZGVLZ0t0ZTFFT3pzNFZHVld0XzVrVS1udXVCdC1hbTdDaGN4aHJBRUtLeVlMZ05HalNicVRJOEFaSXZwQmJmVFkxQmM2WVhFZjNfNEtUalc1NFRXU3kzMWVHNGhBdG1zZ1hKbE9LWmtJcm1QcV93VENxNFl3Snp2WGlpQkpjWEZDU1ZUbGwyWEVFajBFU3JsbA?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-11-10T21:41:00+00:00",
-    "summary": "Recon: Bayer wins FDA approval for stroke prevention drug; Third Rock enters $2B partnership with AI-focused Chinese biotech RAPS",
-    "image_url": null,
+    "id": "c7c11f549cb5",
+    "title": "With Salesforce Catalog, agents stop guessing how your org works",
+    "url": "https://www.salesforce.com/blog/salesforce-catalog-ai-agents/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-11T00:01:58+00:00",
+    "summary": "The average customer satisfaction (CSAT) score your service team tracks fell this week. Before anyone decides whether customers are less happy, someone has to answer a plain question; where does the number come…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image1_ee0631.png",
     "tags": [],
     "industries": [
       "tech",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "49f313edf04b",
-    "title": "Adobe’s Premiere mobile app adds ‘hundreds of thousands’ of licensed tracks following Universal and Warner deals - Music Business Worldwide",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxPQWVxLXlWb3NXbW0xeFlJekV2MG9LdXdqdk1QOUdFTFQ0ZlA5S3JEYWtIZ2xzNThHbzFsaUNiQWp5VHJZNDcxclN5dUQ0X3M5Q1hUN2l5ZkgyNFBMLThVMW5CdWFpNjdVd0NqbWpjclB4QmRSeVNyWFlNdHd5UTZFdW01cGpwbFhzWTFZMUItaENDTTU3dDBGem9walpxTllidXhjLTU2QkNSMEFuWGJyR2IyWS1mbkxTVU5Ic1IwNFVrbXUtcUxfbzJKR2hlVUZCNENVWnVfVXZzaXhCTXBDU01PYw?oc=5",
-    "source": "Adobe",
-    "source_category": "adobe",
-    "published": "2026-11-11T09:26:31+00:00",
-    "summary": "Adobe’s Premiere mobile app adds ‘hundreds of thousands’ of licensed tracks following Universal and Warner deals Music Business Worldwide",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "tech"
+      "industrial"
     ],
     "relevance_score": 9
   },
@@ -1220,13 +1300,13 @@
     "relevance_score": 9
   },
   {
-    "id": "fc66e6c2cf92",
-    "title": "Minister Timilsina Calls for International Cooperation on Digital Transformation and Climate Resilience - Ratopati",
-    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPamxvbGVLb2lmeGdRZzlpS2pWV3N1b2NaWWlDX1E5NE1VUFZIWU9zVUJIcGI3SHZTUkRRak01S0E5TFExMll5MDN4TWtCUkVTTkNGZDJDNEppeTkyaEEzcDVQLTBkS05oYXRWTnV5OFRJRllSWVlvaHllYzNISlBRdE04Qjd3ZWJVcU9BY0gzd0l1dWlkNVQ5WXpyc0N4eEgyTVJ5TjExZUhIaXBaYklXazdqVHVJb3U0RlV1bUVid2Q?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-11-12T11:39:17+00:00",
-    "summary": "Minister Timilsina Calls for International Cooperation on Digital Transformation and Climate Resilience Ratopati",
+    "id": "f1e3256514f4",
+    "title": "Fitbit users can’t see Google Health metrics after update – how to fix it - ZDNET",
+    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxPRDMwQkhpMXVYX1M0N09QM29UVEEyTlNkNlJhVTBNaW9jMFc1enBNdGhKUVVfWGZsWmxUd3BMSDdCWG5QX0RrdjkycnJRSGI2QmFVWXNUMDZKUTZISUhzTTNkYzBuaE45MUVwTlZNaG0zdnRmcWxScWJaeHNqcHBja3lpUHhVTW9IWjlpQg?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-11-12T16:41:38+00:00",
+    "summary": "Fitbit users can’t see Google Health metrics after update – how to fix it ZDNET",
     "image_url": null,
     "tags": [],
     "industries": [
@@ -1235,17 +1315,34 @@
     "relevance_score": 9
   },
   {
-    "id": "bd7eafd6de17",
-    "title": "Indonesia seeks ITU Council seat, highlights digital transformation - ANTARA News",
-    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcWJ3UUNBanUxSVF5VndnWnZkZ0Zyd3dMbkhBV0hqVlZoU2tsdGZ0YWRjZy0yN3lyd0J3Q3VSNlRMRWhEWkN2TV9oODB6ekl0ZlBlSzY0OHdUMGZwQzBCbmtpR2NPMU93WTN4ZWdndDI3OUFHZEtGMVYwZ2Fja3FfV0FuYk9rMVl4clRHRGdXVUVDcjdSamJyLWZkdjktamFldWV5dHQ1NNIBrAFBVV95cUxNNm1TTHVpcExuNE4wNEgzUDJ5bWRBQWRXN2NnVGZRYUx3NlUxYTNFRFRCeUh2OTlPQ0tseUYzTWU2a0Z2YTJvRHQ4dFB2dThJYWM5VmpGQ2ZLTjhHdmZIdmpOalBuRXV0bkZlMnRFRlZyNmVpNTdkNmFYU21Bb2MwdUQxczJxdHItMEVRd1hTQmRhSVlsYXNPMnJlS253VDN2VzJUbE1GRllVSmVK?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-11-12T11:57:30+00:00",
-    "summary": "Indonesia seeks ITU Council seat, highlights digital transformation ANTARA News",
+    "id": "25bb5d35c942",
+    "title": "Digital Euro, EUDI Wallet and AI Take Centre Stage at Digital World Summit Greece and Snappi Event - Snappi",
+    "url": "https://news.google.com/rss/articles/CBMizgFBVV95cUxPY2RYSVVjSy1Ia2xfZWhzQW5QOUtQRTFsa1I5TmhSd1BWckVmeDRaNGFpMkxzXzJLV0tSMkFEeFFlaGdyRmhrN2VPWVBLYjg2bm5OREpHWUpqY0JkVFM0Ykp4aWl1aUdIRUQwWEVlMFhKZS1JaWRkcEd2bTlJdWtqdnF6V19ZTlB2TVVIcjBwdG9OT1hmdTU5Y2tCV1F2cGFxTEEteDhCeWJLLW0tNWlnT2VqbFdOdnhINUdKbTA3NUhGd29vcEdndTJkTzNNQQ?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-11-12T17:18:53+00:00",
+    "summary": "Digital Euro, EUDI Wallet and AI Take Centre Stage at Digital World Summit Greece and Snappi Event Snappi",
     "image_url": null,
     "tags": [],
     "industries": [
-      "tech"
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "2f5d434a899a",
+    "title": "New Hidalgo Plant / Digital Payments App - Mexico Business News",
+    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxORW5GeWRHV3JnLXp1RHRUOXZsZVp5QTdxRVdySFVRREFZX2Q5QWJFX3FZSTdaZDluSjlVT0tMZ01ZV0p5MmVVYjhQWkwtOFdjY2dCVnExS2xyUVd1Q09kZ3Z5RjVtS0Z5V2VLRnBXelBDakMwWGdrVHYzUmNCLVZkeXhWeHczYXNldTRseWJHSEh4QQ?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-11-12T18:19:17+00:00",
+    "summary": "New Hidalgo Plant / Digital Payments App Mexico Business News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "financial"
     ],
     "relevance_score": 9
   },
@@ -1269,18 +1366,39 @@
     "relevance_score": 8
   },
   {
-    "id": "857488a4f840",
-    "title": "AI-enabled virtual mental health startup Siggy launches from stealth",
-    "url": "https://www.fiercehealthcare.com/digital-health/ai-enabled-virtual-mental-health-startup-siggy-launches-stealth",
-    "source": "Fierce Healthcare",
-    "source_category": "industry_lifesciences",
-    "published": "2026-11-09T13:23:00+00:00",
-    "summary": "Siggy combines therapy, prescription management and AI for intake and between-visits support.",
-    "image_url": "https://qtxasset.com/quartz/qcloud5/media/image/12_website_landing_page_desktop.png?VersionId=Vwr3MUOGVO.1L3CmitnZy0Ff1EIfq4zM",
-    "tags": [],
+    "id": "a0dbf5e97194",
+    "title": "The backlash about data centers might really just be about electricity",
+    "url": "https://www.technologyreview.com/2026/11/09/1148194/the-backlash-about-data-centers-might-really-just-be-about-electricity/",
+    "source": "MIT Technology Review",
+    "source_category": "ai",
+    "published": "2026-11-09T19:35:33+00:00",
+    "summary": "This story originally appeared in The Algorithm, our weekly newsletter on AI. To get stories like this in your inbox first, sign up here. As voters went to the polls across the US last week, I was in Ashburn, Virginia, part of what’s known as Data Center Alley—the world’s...",
+    "image_url": null,
+    "tags": [
+      "Artificial intelligence",
+      "App",
+      "artificial intelligence",
+      "The Algorithm"
+    ],
     "industries": [
       "tech",
       "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "936b1c19003e",
+    "title": "Personify Health launches updated wellbeing platform experience with 2 new capabilities - Fierce Healthcare",
+    "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxOa2NuRG83bFZCZjJNT1NPWjU2SXlqWmFiMl9WTWRLTmg0b3dFaktIUFV2cC1QVi1LcUJDakxIWUFSNFZIdWJWU1hTMzRCV3NmY284bjBIQi1obExPa1JqVlVJTW9uTGdVdzBRazJTb0ZQS1lXb05rSkxZbTEtRkJsUEs4UnFCS3FUSEdmT0JYWXZPa18tcjE2Uzl5YXRTT093TW5GQlVZQkE5dzlEcVJHdk96cnJrU0pVY0I0Yllzdl9EcXFzSFEzR2ZR?oc=5",
+    "source": "Health Tech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-11-10T12:00:01+00:00",
+    "summary": "Personify Health launches updated wellbeing platform experience with 2 new capabilities Fierce Healthcare",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
     ],
     "relevance_score": 8
   },
@@ -1320,18 +1438,19 @@
     "relevance_score": 8
   },
   {
-    "id": "aef3fa731e35",
-    "title": "Fintech SaaS Company Veefin Migrates To NSE, BSE Mainboard - Inc42",
-    "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxPMzFsM09MVFpVWFJjZkVNNkxhMXBjeFI4REE0M0x0X0hITWFHZmxNOVRxSWduVDREclk5b0xHcDd6ODNtdnRHMlhTNVdYRFV0QUVCN3ZwZ18zNG1HbXFYd01IMGpMWWZTZmE2SEtWcnZjd2M0M0RsUzZCS1h6ZmMyeFRYZlhOX2VN?oc=5",
-    "source": "Tech Marketing",
-    "source_category": "industry_tech",
-    "published": "2026-11-11T08:08:54+00:00",
-    "summary": "Fintech SaaS Company Veefin Migrates To NSE, BSE Mainboard Inc42",
+    "id": "9ae5486b619a",
+    "title": "Recon: Bayer wins FDA approval for stroke prevention drug; Third Rock enters $2B partnership with AI-focused Chinese biotech - RAPS",
+    "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxPTGlwTWVEN1ZHY2l3ZGdYTTJqT2tGQWFOSmVsWkZXMzZBMkxrZTgtNFJfVFJaek92TlFZMW90S0Z5N1JFWVRXLXBUSk1uaGJpaEVKLVBfSUNqdHpsZGVLZ0t0ZTFFT3pzNFZHVld0XzVrVS1udXVCdC1hbTdDaGN4aHJBRUtLeVlMZ05HalNicVRJOEFaSXZwQmJmVFkxQmM2WVhFZjNfNEtUalc1NFRXU3kzMWVHNGhBdG1zZ1hKbE9LWmtJcm1QcV93VENxNFl3Snp2WGlpQkpjWEZDU1ZUbGwyWEVFajBFU3JsbA?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-11-10T21:41:00+00:00",
+    "summary": "Recon: Bayer wins FDA approval for stroke prevention drug; Third Rock enters $2B partnership with AI-focused Chinese biotech RAPS",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "financial"
+      "industrial",
+      "lifesciences"
     ],
     "relevance_score": 8
   },
@@ -1367,22 +1486,6 @@
     "relevance_score": 8
   },
   {
-    "id": "cbbf540a302c",
-    "title": "‘We look forward to strengthening cooperation with Qatar in telecommunications, digital transformation’ - The Peninsula Qatar",
-    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObFY5VUNNV05SN0U4a1dWWExHOUFpUzZoQkxKa2FhNzFnVWRRbVVyTVAzTklhN0hFQkY1RFJ5Vlp0amRsVmhnZTZ3SnhKNEhjbDhDQnlHdE51bDdOWEVHYkFYYWZBSkliSUY3RlpnWjBXS0VKQU9GTl92b2poVUVLY1NRX2tLQUw2M000SmVrSGJoVmVoNW52Y0hELXdKckxoYjFRYWRDUXdEclI3QS1PbjVCTVhXWWRTVnZSS0tUY2VyUXd1V1d0Smo4VVBQMm4wX3F1QWNPOExsdTZiWmJmZEwtOA?oc=5",
-    "source": "Telecom Digital",
-    "source_category": "industry_telecom",
-    "published": "2026-11-12T07:22:12+00:00",
-    "summary": "‘We look forward to strengthening cooperation with Qatar in telecommunications, digital transformation’ The Peninsula Qatar",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "telecom"
-    ],
-    "relevance_score": 8
-  },
-  {
     "id": "4c0ed0a859a7",
     "title": "Does FDA Approval Change The Bull Case For Scholar Rock (SRRK)? - Simply Wall St",
     "url": "https://news.google.com/rss/articles/CBMi6gFBVV95cUxQQWNGRU4zc2ROaUZ3eVFVTlZXZElJSmljZjNCVXZVbnhYRU1ad1Bma2c4OWstU2FhdFhBeXpQQlBwRzBHY2FtSmQzYnd0U1A5UVBHc0l5VWhxeDdtbVJuQVBoNFR1YjJxWW1fdVZob3FRVWxPdHdtcmxuYWdRWFAzaHlnOU9aeHowYWVvR2h6aTZ3Si1hMGVwNExRLUxJRXkzbjVKUmNLd0U4ZDF4bWtQYjQwVFdGNXZZSmRTa0hnMV9fSGowV2JPZGVwdm92SUVmWW5sOXdJT1h3TmtkMXZ6NW1STzgyOEE4YkHSAe8BQVVfeXFMUFFKVE1rOTVUQVlxRGdwLXc2OVR2SEVwaDd6SXlYR3ZqcUFhVU5xeHB4VW9fU3I5MUxMcWFDazRydS1XWWZVVl9McFk1ODNtYnBLN3dORHVhY3ViMkIyc1RLcy1Jb3h4OEJIb0dNTW9BOGQydG1FNWwxYTNmQWxWQmFETkVUcGt0eW52WnVYTDYwOXRYb1ZvZWdDN1U1NC1tR3JOZE51UWNZYlQ2cXRjM0hDaW85ZmtQOEtvMHVQdmppOUU3ejNiRzRxWW5RbEQ4UTZLejI3eGl5c0h0dEhYNVF0SXJjV2l6MnhfYlptSkE?oc=5",
@@ -1396,6 +1499,36 @@
       "tech",
       "industrial",
       "lifesciences"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "fc66e6c2cf92",
+    "title": "Minister Timilsina Calls for International Cooperation on Digital Transformation and Climate Resilience - Ratopati",
+    "url": "https://news.google.com/rss/articles/CBMiwAFBVV95cUxPamxvbGVLb2lmeGdRZzlpS2pWV3N1b2NaWWlDX1E5NE1VUFZIWU9zVUJIcGI3SHZTUkRRak01S0E5TFExMll5MDN4TWtCUkVTTkNGZDJDNEppeTkyaEEzcDVQLTBkS05oYXRWTnV5OFRJRllSWVlvaHllYzNISlBRdE04Qjd3ZWJVcU9BY0gzd0l1dWlkNVQ5WXpyc0N4eEgyTVJ5TjExZUhIaXBaYklXazdqVHVJb3U0RlV1bUVid2Q?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-11-12T11:39:17+00:00",
+    "summary": "Minister Timilsina Calls for International Cooperation on Digital Transformation and Climate Resilience Ratopati",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "bd7eafd6de17",
+    "title": "Indonesia seeks ITU Council seat, highlights digital transformation - ANTARA News",
+    "url": "https://news.google.com/rss/articles/CBMipwFBVV95cUxNcWJ3UUNBanUxSVF5VndnWnZkZ0Zyd3dMbkhBV0hqVlZoU2tsdGZ0YWRjZy0yN3lyd0J3Q3VSNlRMRWhEWkN2TV9oODB6ekl0ZlBlSzY0OHdUMGZwQzBCbmtpR2NPMU93WTN4ZWdndDI3OUFHZEtGMVYwZ2Fja3FfV0FuYk9rMVl4clRHRGdXVUVDcjdSamJyLWZkdjktamFldWV5dHQ1NNIBrAFBVV95cUxNNm1TTHVpcExuNE4wNEgzUDJ5bWRBQWRXN2NnVGZRYUx3NlUxYTNFRFRCeUh2OTlPQ0tseUYzTWU2a0Z2YTJvRHQ4dFB2dThJYWM5VmpGQ2ZLTjhHdmZIdmpOalBuRXV0bkZlMnRFRlZyNmVpNTdkNmFYU21Bb2MwdUQxczJxdHItMEVRd1hTQmRhSVlsYXNPMnJlS253VDN2VzJUbE1GRllVSmVK?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-11-12T11:57:30+00:00",
+    "summary": "Indonesia seeks ITU Council seat, highlights digital transformation ANTARA News",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
     ],
     "relevance_score": 8
   },
@@ -1469,34 +1602,34 @@
     "relevance_score": 7
   },
   {
-    "id": "bd110a6e1fed",
-    "title": "FDA Approves Pimjetmi | PharmExec - Pharmaceutical Executive",
-    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PVUR1SkNNVU90dEtPcmFvS0VWRjVtOEZieDBXdHR5TVFGMzBibnNtS1hZYnR6ZE9ETXRTVGNuVUpFRU5iT0xMR2NKSzZvQlN5dkVYaVRMQXVYdkJRTDJhUjJjUUt2b0VIMkE?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-11-11T20:25:13+00:00",
-    "summary": "FDA Approves Pimjetmi | PharmExec Pharmaceutical Executive",
+    "id": "61529122df73",
+    "title": "Mitsubishi Electric develops technology for using tap water as wireless communication antenna - Asia News Network",
+    "url": "https://news.google.com/rss/articles/CBMiuwFBVV95cUxOOFlMNkRNeHBFN05jT2tGNHdSWGN1TnFpaUZpODlwbS1haDV1QVF2M2k1QmJhVERiT2V4UFN5OU1HVDF2NGtzOVB1RjBTUW9KWjNJRlBucHYwRFZSNFVRX2dWcHA2a2NnTUc4MjJCQ29ISktGYWJaUjRBdmlVY1ZFMm84WmQ0RjdnY2IycG1DYWJnZV9SUEZZaDA1bkNXQWNCOXlWUDlGc3FsYjNWNlEydE85dEFrQjFSdHJn?oc=5",
+    "source": "Telecom 5G",
+    "source_category": "industry_telecom",
+    "published": "2026-11-12T03:21:32+00:00",
+    "summary": "Mitsubishi Electric develops technology for using tap water as wireless communication antenna Asia News Network",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "lifesciences"
+      "telecom"
     ],
     "relevance_score": 7
   },
   {
-    "id": "eae19e80d200",
-    "title": "FDA Approves Asundexian for Stroke Prevention After Ischemic Stroke or TIA - Patient Care Online",
-    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS2YyRmhRQjlMT3VRYkJKandiVGtGaXJ2RGdlSUhaRjZ1d2EwUnNnSG1XT19NYm5paHFYOW5DYk5VdWtEYUM0Njdnc05KWm9yakRVcmg4eXlvVWFMd0NQY1V5QU1feTNUc1RxSU5CX1YzallzUTdwNHNnZ0w1V1hnOUVTbnQtN0hXMUE5YTU4RnVRb3RHQWxyQWVqUG1SUEVCc3RoR09VSVZJd1c4MFNpaUJrNA?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-11-11T21:54:05+00:00",
-    "summary": "FDA Approves Asundexian for Stroke Prevention After Ischemic Stroke or TIA Patient Care Online",
+    "id": "cbbf540a302c",
+    "title": "‘We look forward to strengthening cooperation with Qatar in telecommunications, digital transformation’ - The Peninsula Qatar",
+    "url": "https://news.google.com/rss/articles/CBMi4wFBVV95cUxObFY5VUNNV05SN0U4a1dWWExHOUFpUzZoQkxKa2FhNzFnVWRRbVVyTVAzTklhN0hFQkY1RFJ5Vlp0amRsVmhnZTZ3SnhKNEhjbDhDQnlHdE51bDdOWEVHYkFYYWZBSkliSUY3RlpnWjBXS0VKQU9GTl92b2poVUVLY1NRX2tLQUw2M000SmVrSGJoVmVoNW52Y0hELXdKckxoYjFRYWRDUXdEclI3QS1PbjVCTVhXWWRTVnZSS0tUY2VyUXd1V1d0Smo4VVBQMm4wX3F1QWNPOExsdTZiWmJmZEwtOA?oc=5",
+    "source": "Telecom Digital",
+    "source_category": "industry_telecom",
+    "published": "2026-11-12T07:22:12+00:00",
+    "summary": "‘We look forward to strengthening cooperation with Qatar in telecommunications, digital transformation’ The Peninsula Qatar",
     "image_url": null,
     "tags": [],
     "industries": [
       "tech",
-      "lifesciences"
+      "telecom"
     ],
     "relevance_score": 7
   },
@@ -1530,24 +1663,6 @@
       "tech",
       "telecom",
       "industrial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "b5cc23e572e0",
-    "title": "FDA Approves Pimicotinib for Symptomatic Tenosynovial Giant Cell Tumor - Targeted Oncology",
-    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY1hHalcxTjdjQmlMdlhRZTVXX2IxZUM3ekxJbWk5WURZR0VxRUxaOW5MbXdoa2pyVXp0SHVzbW5wX2U3OF9ISUpEdm9UT1FwNFJjMlZRZDZJQjhvOUdDcEs3UWxKX2dYbEZrNG14LUd0aTZLY2djcjNnbDVyeWxGMmhnSnRaenhBRHh2dHdKTkc?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-11-11T00:17:59+00:00",
-    "summary": "FDA Approves Pimicotinib for Symptomatic Tenosynovial Giant Cell Tumor Targeted Oncology",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial",
-      "lifesciences"
     ],
     "relevance_score": 6
   },
@@ -1586,13 +1701,47 @@
     "relevance_score": 6
   },
   {
-    "id": "59068aaecb14",
-    "title": "FDA Approves Promega OncoMate® MSI Dx Analysis… - uniindia.com",
-    "url": "https://news.google.com/rss/articles/CBMi8AFBVV95cUxPTmZBM240cEFpVGladkwtQ1JuMlJVVmJBZTF2S2p4VVZoRkdLdmZkNV80TnBEU1VVNjU3d2Ewc3ktNnRlTm82cUNZdEgwcnQ0SXB4TWh3M3Y1cU45ZXpfX0xqUkVfSVRYLWJJZ1hLcDZBbXpYSEF0LWZMLU9XejJHdHJaQzZEcjJvOGlBZTdsLXNfVlpqaXJGYmlkNG1ZbWJEbGxneXEySWpCTDdNdkFtU1VHQVpuN1A0eFZES2d6clQzczJ1MHE2OVdaUlZaMG42ZFAzSmdKbjBoMW1kSi1ySkcxWmp2dDRXUzk5OVZoMGs?oc=5",
+    "id": "eae19e80d200",
+    "title": "FDA Approves Asundexian for Stroke Prevention After Ischemic Stroke or TIA - Patient Care Online",
+    "url": "https://news.google.com/rss/articles/CBMiswFBVV95cUxOS2YyRmhRQjlMT3VRYkJKandiVGtGaXJ2RGdlSUhaRjZ1d2EwUnNnSG1XT19NYm5paHFYOW5DYk5VdWtEYUM0Njdnc05KWm9yakRVcmg4eXlvVWFMd0NQY1V5QU1feTNUc1RxSU5CX1YzallzUTdwNHNnZ0w1V1hnOUVTbnQtN0hXMUE5YTU4RnVRb3RHQWxyQWVqUG1SUEVCc3RoR09VSVZJd1c4MFNpaUJrNA?oc=5",
     "source": "Biotech",
     "source_category": "industry_lifesciences",
-    "published": "2026-11-11T16:18:00+00:00",
-    "summary": "FDA Approves Promega OncoMate® MSI Dx Analysis… uniindia.com",
+    "published": "2026-11-11T21:54:05+00:00",
+    "summary": "FDA Approves Asundexian for Stroke Prevention After Ischemic Stroke or TIA Patient Care Online",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "lifesciences"
+    ],
+    "relevance_score": 6
+  },
+  {
+    "id": "b5cc23e572e0",
+    "title": "FDA Approves Pimicotinib for Symptomatic Tenosynovial Giant Cell Tumor - Targeted Oncology",
+    "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxNY1hHalcxTjdjQmlMdlhRZTVXX2IxZUM3ekxJbWk5WURZR0VxRUxaOW5MbXdoa2pyVXp0SHVzbW5wX2U3OF9ISUpEdm9UT1FwNFJjMlZRZDZJQjhvOUdDcEs3UWxKX2dYbEZrNG14LUd0aTZLY2djcjNnbDVyeWxGMmhnSnRaenhBRHh2dHdKTkc?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-11-11T00:17:59+00:00",
+    "summary": "FDA Approves Pimicotinib for Symptomatic Tenosynovial Giant Cell Tumor Targeted Oncology",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial",
+      "lifesciences"
+    ],
+    "relevance_score": 5
+  },
+  {
+    "id": "bd110a6e1fed",
+    "title": "FDA Approves Pimjetmi | PharmExec - Pharmaceutical Executive",
+    "url": "https://news.google.com/rss/articles/CBMiakFVX3lxTE5PVUR1SkNNVU90dEtPcmFvS0VWRjVtOEZieDBXdHR5TVFGMzBibnNtS1hZYnR6ZE9ETXRTVGNuVUpFRU5iT0xMR2NKSzZvQlN5dkVYaVRMQXVYdkJRTDJhUjJjUUt2b0VIMkE?oc=5",
+    "source": "Biotech",
+    "source_category": "industry_lifesciences",
+    "published": "2026-11-11T20:25:13+00:00",
+    "summary": "FDA Approves Pimjetmi | PharmExec Pharmaceutical Executive",
     "image_url": null,
     "tags": [],
     "industries": [

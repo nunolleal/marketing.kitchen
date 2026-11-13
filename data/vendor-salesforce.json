@@ -10,7 +10,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Blog-Header-Sales-and-Service.png",
     "tags": [],
     "industries": [],
-    "relevance_score": 64
+    "relevance_score": 61
   },
   {
     "id": "28f07721a576",
@@ -25,7 +25,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 45
+    "relevance_score": 39
   },
   {
     "id": "97c6f62c7bdc",
@@ -74,17 +74,16 @@
     "relevance_score": 26
   },
   {
-    "id": "f21ccb360887",
-    "title": "AI's Last Mile: Microsoft, Five9 and Salesforce Pay to Get You Live - UC Today",
-    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOFRGa09nVUJXTzFnbEppMG56aVlHWjVSVjV3blk4NDVkV19pUlZxcmhmNkdjb2ViVF9VUU5lUWtmdVN4WlJPWTJCenJCMmZxQmlPZVI0b0IxS1NMNTRhM2x0cERiZ3RvNVdUZV9SWTd2RmdhZ1laeGNNZDVDeWFvMkkwUThTTUk?oc=5",
-    "source": "Salesforce AI",
+    "id": "6fc5719ca8c4",
+    "title": "Agentic AI Attacks Are Here: What We’re Seeing with ARTEX, and How to Protect Your Org",
+    "url": "https://www.salesforce.com/blog/artex-agentic-ai-attacks/",
+    "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-11-12T07:11:02+00:00",
-    "summary": "AI's Last Mile: Microsoft, Five9 and Salesforce Pay to Get You Live UC Today",
-    "image_url": null,
+    "published": "2026-11-12T19:31:51+00:00",
+    "summary": "Salesforce Threat Intelligence has observed multiple threat actors using the AI-enabled offensive framework ARTEX.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Cloud.png",
     "tags": [],
     "industries": [
-      "tech",
       "industrial"
     ],
     "relevance_score": 14
@@ -100,7 +99,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image_63b99d.png",
     "tags": [],
     "industries": [],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "8774acd6b0af",
@@ -113,7 +112,38 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/How-to-Turn-Objections-Into-Decisions.png",
     "tags": [],
     "industries": [],
-    "relevance_score": 14
+    "relevance_score": 13
+  },
+  {
+    "id": "c6f8f36172ac",
+    "title": "The Agentic AI Overlay: Modernizing IT Service Without “Rip and Replace”",
+    "url": "https://www.salesforce.com/blog/it-agentic-overlay/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-12T23:48:52+00:00",
+    "summary": "Skip the rip-and-replace. Get AI-native IT service without tearing down what works.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/SEO-Header-IT-Overlay.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "f21ccb360887",
+    "title": "AI's Last Mile: Microsoft, Five9 and Salesforce Pay to Get You Live - UC Today",
+    "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxOOFRGa09nVUJXTzFnbEppMG56aVlHWjVSVjV3blk4NDVkV19pUlZxcmhmNkdjb2ViVF9VUU5lUWtmdVN4WlJPWTJCenJCMmZxQmlPZVI0b0IxS1NMNTRhM2x0cERiZ3RvNVdUZV9SWTd2RmdhZ1laeGNNZDVDeWFvMkkwUThTTUk?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-11-12T07:11:02+00:00",
+    "summary": "AI's Last Mile: Microsoft, Five9 and Salesforce Pay to Get You Live UC Today",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 12
   },
   {
     "id": "7265f6a29d0c",
@@ -124,22 +154,6 @@
     "published": "2026-11-10T22:22:06+00:00",
     "summary": "Learn how Salesforce built an AI-powered security reporting agent using Agentforce, Slack, and Service Cloud to streamline security intake, improve report quality, and help security teams focus on critical threats.",
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/network.jpeg",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 11
-  },
-  {
-    "id": "e11358564241",
-    "title": "Salesforce Opens Agentforce Coworker to Teams, Launches Mac and Windows Apps at $50 a Seat - BigGo Finance",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE5qZWtWdE00RWVNRFpObDl2dU5YMW93R01SWEluUjliMDhiaUR4X2hOVURGMWlDX0cwTDdlejdOLWZxNzE2QjJrZkdFTWtnOWNaX0N6Ml9LWXRPdjRfVTg3X25UcDRYN1NET3pjUWVaeWk1MDJQWkE?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-11-10T08:06:00+00:00",
-    "summary": "Salesforce Opens Agentforce Coworker to Teams, Launches Mac and Windows Apps at $50 a Seat BigGo Finance",
-    "image_url": null,
     "tags": [],
     "industries": [
       "tech",
@@ -161,7 +175,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 10
+    "relevance_score": 9
   },
   {
     "id": "c3eb6eada31a",
@@ -174,7 +188,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/AdobeStock_1924503677.jpeg",
     "tags": [],
     "industries": [],
-    "relevance_score": 10
+    "relevance_score": 9
   },
   {
     "id": "c7c11f549cb5",
@@ -188,52 +202,6 @@
     "tags": [],
     "industries": [
       "tech",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "27532696306a",
-    "title": "Salesforce reports 21-fold rise in Agentforce Coworker usage - Newsbytes.PH",
-    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWZBeWRRamRXU18wS1FrUjFIR3RNbGZyOXFna3JxbWhBbEZnMVpYelhzZGtmTlFpZ2Zid3p4TUFIRldCZW56YVV3VkZ0NVMzNTBtaTZuV2UydDE5V2R4dm1Sd3lpSmlDWk1xajB3ajJ1RUlyU0FxTEU2U2wwNlhkRklWM1g5S245Zk9mQXFRRHEwQ1FKeTFTSw?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-11-08T07:38:17+00:00",
-    "summary": "Salesforce reports 21-fold rise in Agentforce Coworker usage Newsbytes.PH",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "37c23050ec71",
-    "title": "Sell Your Full Portfolio on AgentExchange, in One Private Offer",
-    "url": "https://www.salesforce.com/blog/sell-your-full-portfolio-on-agentexchange-in-one-private-offer/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-10T16:39:58+00:00",
-    "summary": "Your business is bigger than the app you build on Salesforce. Your customers aren’t just buying software. They need the external platforms, implementation services, and support that turn software into business results. Until…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/AEC-November-Blog-3.png",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "ef30249cfecc",
-    "title": "Introducing AI Skills in Coworker: Turn Your Best Practices Into Reusable Workflows",
-    "url": "https://www.salesforce.com/blog/ai-skills-in-coworker/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-10T19:59:00+00:00",
-    "summary": "Get your team's know-how out of one person's head. Describe a task once in plain language, and anyone you share it with can run it the same way.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/AI-Skills-in-Coworker-Still-shot.jpeg",
-    "tags": [],
-    "industries": [
       "industrial"
     ],
     "relevance_score": 9
@@ -250,20 +218,5 @@
     "tags": [],
     "industries": [],
     "relevance_score": 8
-  },
-  {
-    "id": "5d0c9884158c",
-    "title": "Introducing Quick Pages (Beta): Tailored Views for Every Role - Salesforce",
-    "url": "https://news.google.com/rss/articles/CBMieEFVX3lxTE9VR2RueTZHdlNXTFRnVXNubXdhX2NGRDRuQUx4NDZPQXUzNk5qM0lhN1F3QnFXamIyeWV3MWJJU2RWVGlacmpQb1hJdFd1NlFNZUtHYXRXOUFQcGVBUEotbld3X0FZTUpjSF9hLWxhTDBXTTBPcE1OeQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-11-05T20:18:37+00:00",
-    "summary": "Introducing Quick Pages (Beta): Tailored Views for Every Role Salesforce",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 6
   }
 ]
