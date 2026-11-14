@@ -26,11 +26,7 @@
       "tech",
       "financial"
     ],
-    "relevance_score": 39,
-    "also_covered_by": [
-      "Health Tech",
-      "Fintech"
-    ]
+    "relevance_score": 36
   },
   {
     "id": "97c6f62c7bdc",
@@ -46,6 +42,21 @@
       "industrial"
     ],
     "relevance_score": 33
+  },
+  {
+    "id": "f69454a0145e",
+    "title": "Salesforce (NYSE:CRM) Delivers Record Quarter as Agentforce ARR Surpasses One Point Five Billion - Kalkine",
+    "url": "https://news.google.com/rss/articles/CBMizAFBVV95cUxQQUVfYmxJYlQzQnRaZjVWMndpNmZLNk1uRlp5eWU5bU5hS1EyS3dJZmk2MURCcVd2Ymw4NmIzLW5iTjlBRXZOV2xaZkN4YUQyd05MTjRUT01GVFhnWS1JOXdyM0YzY3JSTWdmb3FmZTQ2X0tCOGhuY3dxaG9PM0VYcDR6YTVTVGdaOEMyWWxOcy1ZMkxUaVdWTWZFeURVaHpyVkpLdDBna0VEcGF3UXBLVUxaX2hKbGMxdzd2Rk8xaGpDUmlvVEJWalNLNkY?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-11-11T04:14:00+00:00",
+    "summary": "Salesforce (NYSE:CRM) Delivers Record Quarter as Agentforce ARR Surpasses One Point Five Billion Kalkine",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 32
   },
   {
     "id": "28f07721a576",
@@ -76,37 +87,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 15
-  },
-  {
-    "id": "6fc5719ca8c4",
-    "title": "Agentic AI Attacks Are Here: What We’re Seeing with ARTEX, and How to Protect Your Org",
-    "url": "https://www.salesforce.com/blog/artex-agentic-ai-attacks/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-12T19:31:51+00:00",
-    "summary": "Salesforce Threat Intelligence has observed multiple threat actors using the AI-enabled offensive framework ARTEX.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Cloud.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "e9aa665d959c",
-    "title": "AI Agent Vs. Chatbot: What’s The Best For Small Biz?",
-    "url": "https://www.salesforce.com/blog/small-business/ai-agent-vs-chatbot-for-growing-teams/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-13T13:34:36+00:00",
-    "summary": "One answers questions, the other gets work done — here's how to tell which one your small business needs.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 12
+    "relevance_score": 14
   },
   {
     "id": "f21ccb360887",
@@ -138,14 +119,44 @@
     "relevance_score": 11
   },
   {
-    "id": "7265f6a29d0c",
-    "title": "Securing Salesforce with Salesforce: Retiring the Catch-All Inbox for an Agentic Frontline",
-    "url": "https://www.salesforce.com/blog/securing-salesforce-agentic-security-triage/",
+    "id": "6fc5719ca8c4",
+    "title": "Agentic AI Attacks Are Here: What We’re Seeing with ARTEX, and How to Protect Your Org",
+    "url": "https://www.salesforce.com/blog/artex-agentic-ai-attacks/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-11-10T22:22:06+00:00",
-    "summary": "Learn how Salesforce built an AI-powered security reporting agent using Agentforce, Slack, and Service Cloud to streamline security intake, improve report quality, and help security teams focus on critical threats.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/network.jpeg",
+    "published": "2026-11-12T19:31:51+00:00",
+    "summary": "Salesforce Threat Intelligence has observed multiple threat actors using the AI-enabled offensive framework ARTEX.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Cloud.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "e9aa665d959c",
+    "title": "AI Agent Vs. Chatbot: What’s The Best For Small Biz?",
+    "url": "https://www.salesforce.com/blog/small-business/ai-agent-vs-chatbot-for-growing-teams/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-13T13:34:36+00:00",
+    "summary": "One answers questions, the other gets work done — here's how to tell which one your small business needs.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "32371ac1d7b8",
+    "title": "Salesforce expands Agentforce Coworker to Teams, Google and launches $50 plan - Chosunbiz",
+    "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTE1BUVY0YzBRRzkwTEhrS0lBc1paaG1lUHhsZkxaMU5SbnJXR3Y1ZXhlYVl4Vm0xYktjUGxJNXpkWjBkOU9xU2tEZXYwWlZuTjJ2RzFLNjE4Z181cmwtRnU4RmtuaERjU1dYcEtVblpKZ0lOVlBkRjkzZEdn0gGOAUFVX3lxTFBTR3ZFdnByS1lSd2JUZ2JxSDAtZU5Ka2pYQ3QtbGg1QU5INEJaak5hN3Z5RGRsclZNaU90MGRQb0VDNjdEaGtKQ0gzRVhPVzFUMXRQTWJ5Wmg5S1pnSm1BeWNKdWdJcFdzd1BZdVVKRnA2c1JidkRGdkdWNGF3WldlV2FrOWU4a21tNGVXeEE?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-11-10T00:39:00+00:00",
+    "summary": "Salesforce expands Agentforce Coworker to Teams, Google and launches $50 plan Chosunbiz",
+    "image_url": null,
     "tags": [],
     "industries": [
       "tech",
@@ -167,6 +178,37 @@
     "relevance_score": 10
   },
   {
+    "id": "27532696306a",
+    "title": "Salesforce reports 21-fold rise in Agentforce Coworker usage - Newsbytes.PH",
+    "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxQSWZBeWRRamRXU18wS1FrUjFIR3RNbGZyOXFna3JxbWhBbEZnMVpYelhzZGtmTlFpZ2Zid3p4TUFIRldCZW56YVV3VkZ0NVMzNTBtaTZuV2UydDE5V2R4dm1Sd3lpSmlDWk1xajB3ajJ1RUlyU0FxTEU2U2wwNlhkRklWM1g5S245Zk9mQXFRRHEwQ1FKeTFTSw?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-11-08T07:38:17+00:00",
+    "summary": "Salesforce reports 21-fold rise in Agentforce Coworker usage Newsbytes.PH",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "7265f6a29d0c",
+    "title": "Securing Salesforce with Salesforce: Retiring the Catch-All Inbox for an Agentic Frontline",
+    "url": "https://www.salesforce.com/blog/securing-salesforce-agentic-security-triage/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-10T22:22:06+00:00",
+    "summary": "Learn how Salesforce built an AI-powered security reporting agent using Agentforce, Slack, and Service Cloud to streamline security intake, improve report quality, and help security teams focus on critical threats.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/network.jpeg",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
     "id": "c6f8f36172ac",
     "title": "The Agentic AI Overlay: Modernizing IT Service Without “Rip and Replace”",
     "url": "https://www.salesforce.com/blog/it-agentic-overlay/",
@@ -177,22 +219,6 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/SEO-Header-IT-Overlay.png",
     "tags": [],
     "industries": [
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "c7c11f549cb5",
-    "title": "With Salesforce Catalog, agents stop guessing how your org works",
-    "url": "https://www.salesforce.com/blog/salesforce-catalog-ai-agents/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-11T00:01:58+00:00",
-    "summary": "The average customer satisfaction (CSAT) score your service team tracks fell this week. Before anyone decides whether customers are less happy, someone has to answer a plain question; where does the number come…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image1_ee0631.png",
-    "tags": [],
-    "industries": [
-      "tech",
       "industrial"
     ],
     "relevance_score": 9
@@ -211,6 +237,22 @@
     "relevance_score": 8
   },
   {
+    "id": "c7c11f549cb5",
+    "title": "With Salesforce Catalog, agents stop guessing how your org works",
+    "url": "https://www.salesforce.com/blog/salesforce-catalog-ai-agents/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-11T00:01:58+00:00",
+    "summary": "The average customer satisfaction (CSAT) score your service team tracks fell this week. Before anyone decides whether customers are less happy, someone has to answer a plain question; where does the number come…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image1_ee0631.png",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "176e721f5632",
     "title": "Introducing AI Skills in Coworker: Turn Your Best Practices Into Reusable Workflows - Salesforce",
     "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UWWlDbjFkM3NSd0lXb3ZjdElGRFhVekhPSkdqQlYzalhYWmstc1k0cGlGZmd4VlBWck4tZHk1MDBIV0Nrc3lES0NUMjdiUW1rM1V2Sk9zdHNyOENPUkd4UzJEN18?oc=5",
@@ -221,6 +263,6 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 7
+    "relevance_score": 6
   }
 ]
