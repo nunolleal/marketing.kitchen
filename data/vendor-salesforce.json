@@ -10,7 +10,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Blog-Header-Sales-and-Service.png",
     "tags": [],
     "industries": [],
-    "relevance_score": 48
+    "relevance_score": 45
   },
   {
     "id": "97c6f62c7bdc",
@@ -42,19 +42,6 @@
       "financial"
     ],
     "relevance_score": 29
-  },
-  {
-    "id": "288e64e77d93",
-    "title": "4 Headless Commerce Strategies For SMB Shops",
-    "url": "https://www.salesforce.com/blog/small-business/4-headless-commerce-strategies-for-smb-shops/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-12T14:00:00+00:00",
-    "summary": "These headless commerce tips show you how to build a shop that moves as fast as you do.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image_63b99d.png",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 10
   },
   {
     "id": "6fc5719ca8c4",
@@ -120,31 +107,16 @@
     "relevance_score": 9
   },
   {
-    "id": "8774acd6b0af",
-    "title": "Talk Like an Architect: How to Turn Objections Into Decisions",
-    "url": "https://www.salesforce.com/blog/talk-like-an-architect-turn-objections-into-decisions/",
+    "id": "288e64e77d93",
+    "title": "4 Headless Commerce Strategies For SMB Shops",
+    "url": "https://www.salesforce.com/blog/small-business/4-headless-commerce-strategies-for-smb-shops/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-11-12T14:07:37+00:00",
-    "summary": "Part four of this mini-series looks at objections as a natural part of the conversation and how architects can handle them constructively.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/How-to-Turn-Objections-Into-Decisions.png",
+    "published": "2026-11-12T14:00:00+00:00",
+    "summary": "These headless commerce tips show you how to build a shop that moves as fast as you do.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image_63b99d.png",
     "tags": [],
     "industries": [],
-    "relevance_score": 9
-  },
-  {
-    "id": "e9aa665d959c",
-    "title": "AI Agent Vs. Chatbot: What’s The Best For Small Biz?",
-    "url": "https://www.salesforce.com/blog/small-business/ai-agent-vs-chatbot-for-growing-teams/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-13T13:34:36+00:00",
-    "summary": "One answers questions, the other gets work done — here's how to tell which one your small business needs.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
     "relevance_score": 9
   },
   {
@@ -164,6 +136,19 @@
     "relevance_score": 8
   },
   {
+    "id": "8774acd6b0af",
+    "title": "Talk Like an Architect: How to Turn Objections Into Decisions",
+    "url": "https://www.salesforce.com/blog/talk-like-an-architect-turn-objections-into-decisions/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-12T14:07:37+00:00",
+    "summary": "Part four of this mini-series looks at objections as a natural part of the conversation and how architects can handle them constructively.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/How-to-Turn-Objections-Into-Decisions.png",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 8
+  },
+  {
     "id": "c6f8f36172ac",
     "title": "The Agentic AI Overlay: Modernizing IT Service Without “Rip and Replace”",
     "url": "https://www.salesforce.com/blog/it-agentic-overlay/",
@@ -172,6 +157,21 @@
     "published": "2026-11-12T23:48:52+00:00",
     "summary": "Skip the rip-and-replace. Get AI-native IT service without tearing down what works.",
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/SEO-Header-IT-Overlay.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 8
+  },
+  {
+    "id": "e9aa665d959c",
+    "title": "AI Agent Vs. Chatbot: What’s The Best For Small Biz?",
+    "url": "https://www.salesforce.com/blog/small-business/ai-agent-vs-chatbot-for-growing-teams/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-13T13:34:36+00:00",
+    "summary": "One answers questions, the other gets work done — here's how to tell which one your small business needs.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image.png",
     "tags": [],
     "industries": [
       "industrial"
