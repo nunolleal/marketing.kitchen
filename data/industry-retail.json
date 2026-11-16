@@ -80,7 +80,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 20
+    "relevance_score": 19
   },
   {
     "id": "691fdaebdd0d",
@@ -102,7 +102,7 @@
       "retail",
       "industrial"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "545762822e58",
@@ -123,7 +123,7 @@
     "industries": [
       "retail"
     ],
-    "relevance_score": 17
+    "relevance_score": 16
   },
   {
     "id": "20c02030de45",
@@ -235,22 +235,6 @@
     "relevance_score": 10
   },
   {
-    "id": "a60f59b7936f",
-    "title": "InComm Payments and SKUx Tie Digital Offers Directly to Verified Store Purchases - PYMNTS.com",
-    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNckZLcEFzSGdKaG1YdV9OWm1ZdmF1OF9UbmR5NFVMVVpiSEZLY0FBTHp3ZDAyX1hLd0RiX3FjT3Q0S0JqWUFtdzZ5VXptdFhMRVFnc3JxampVc2R2RFVVeG4xM0d4dDVyXy1ENW5XWVVBcnhfeDZmOTBpYktISk1LNEZzbnVLZ3ZYMVhpS1N3bVZFeUc0cDdRZDJJZ2FQNV8yd21mU2JyMjZyZ3lJRDhWMF9GcXp1NTRmY056MV93?oc=5",
-    "source": "Fintech",
-    "source_category": "industry_financial",
-    "published": "2026-11-15T22:27:40+00:00",
-    "summary": "InComm Payments and SKUx Tie Digital Offers Directly to Verified Store Purchases PYMNTS.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "financial"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "ba86422ebaea",
     "title": "Mars wants to future proof impulse buys as AI is poised to take over more grocery runs",
     "url": "https://digiday.com/marketing/mars-wants-to-future-proof-impulse-buys-as-ai-poised-to-take-over-more-grocery-runs/?utm_campaign=digidaydis&utm_medium=rss&utm_source=general-rss",
@@ -265,6 +249,22 @@
     "industries": [
       "retail",
       "industrial"
+    ],
+    "relevance_score": 9
+  },
+  {
+    "id": "a60f59b7936f",
+    "title": "InComm Payments and SKUx Tie Digital Offers Directly to Verified Store Purchases - PYMNTS.com",
+    "url": "https://news.google.com/rss/articles/CBMivgFBVV95cUxNckZLcEFzSGdKaG1YdV9OWm1ZdmF1OF9UbmR5NFVMVVpiSEZLY0FBTHp3ZDAyX1hLd0RiX3FjT3Q0S0JqWUFtdzZ5VXptdFhMRVFnc3JxampVc2R2RFVVeG4xM0d4dDVyXy1ENW5XWVVBcnhfeDZmOTBpYktISk1LNEZzbnVLZ3ZYMVhpS1N3bVZFeUc0cDdRZDJJZ2FQNV8yd21mU2JyMjZyZ3lJRDhWMF9GcXp1NTRmY056MV93?oc=5",
+    "source": "Fintech",
+    "source_category": "industry_financial",
+    "published": "2026-11-15T22:27:40+00:00",
+    "summary": "InComm Payments and SKUx Tie Digital Offers Directly to Verified Store Purchases PYMNTS.com",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "financial"
     ],
     "relevance_score": 9
   },
@@ -350,40 +350,6 @@
       "industrial"
     ],
     "relevance_score": 7
-  },
-  {
-    "id": "3068288c24bc",
-    "title": "AI agents cut Amazon ad analysis from weeks to hours—what changed for media buyers - Ad Age",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxNbVRPZmJBZ0JfM0RkZ25mcFdTeW1CTGpGUDRQOHpmSWUwa0ZvNjV3eHFWMlhPOVVwenpTLVFQYXJCOC1jQUFNa1JKMWZxenJLd3Z5TDN0blJOeGVvLWlLLUJwcndyQlF5alFqZEV3OXJTdDZZOHMzbk5pdm10U1ItTHJ2Mk5OR0Q3bXhoUg?oc=5",
-    "source": "Ad Age",
-    "source_category": "marketing",
-    "published": "2026-11-12T10:00:00+00:00",
-    "summary": "AI agents cut Amazon ad analysis from weeks to hours—what changed for media buyers Ad Age",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "media",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 6
-  },
-  {
-    "id": "3659441728f8",
-    "title": "A Run of FDA Target Dates Fills the Biotech Calendar From Late November to Year End - Morningstar",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxPSWx5VHY1MEdHajV4T2N4dklzRmkySTR6TWNFdkY5MUtYSHRJaEM3VG9sV2lYOHNKMHl3d1M2RVlveExNQ3d0WkNTam9DdzN5N3BHczdlaUtGcVUxaFoyLU55TXA0WUFUUEsyM2JBbHE2VVlwYThwOUF0YUExV0lHck9FY2N1dDlsNUFDWXJTaHhCNE1kanBha0xVYVFqdlR2UXJyS21KOW1pZXhIWmxpUUN5UTlqelBXSFFnME1yRktTb2tZX1ZOTC0xNWFLTllyRjExQllMelRWalhD?oc=5",
-    "source": "Biotech",
-    "source_category": "industry_lifesciences",
-    "published": "2026-11-12T12:13:00+00:00",
-    "summary": "A Run of FDA Target Dates Fills the Biotech Calendar From Late November to Year End Morningstar",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial",
-      "lifesciences"
-    ],
-    "relevance_score": 5
   },
   {
     "id": "5b7e453ec23c",
