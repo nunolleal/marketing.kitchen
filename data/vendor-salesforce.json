@@ -1,5 +1,18 @@
 [
   {
+    "id": "34b8b8a6c295",
+    "title": "Service and Sales: Unifying the Customer Journey for a Better Customer Experience",
+    "url": "https://www.salesforce.com/blog/service-sales-unified-customer/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-12T17:07:56+00:00",
+    "summary": "How aligning sales and service creates a seamless, continuous customer relationship from deal close to long-term success.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Blog-Header-Sales-and-Service.png",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 45
+  },
+  {
     "id": "b26201770ea5",
     "title": "Salesforce joins the Personal Agent Protocol to help brands meet shoppers’ AI agents",
     "url": "https://www.salesforce.com/blog/salesforce-joins-personal-agent-protocol/",
@@ -13,19 +26,6 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 48
-  },
-  {
-    "id": "34b8b8a6c295",
-    "title": "Service and Sales: Unifying the Customer Journey for a Better Customer Experience",
-    "url": "https://www.salesforce.com/blog/service-sales-unified-customer/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-12T17:07:56+00:00",
-    "summary": "How aligning sales and service creates a seamless, continuous customer relationship from deal close to long-term success.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Blog-Header-Sales-and-Service.png",
-    "tags": [],
-    "industries": [],
     "relevance_score": 45
   },
   {
@@ -85,7 +85,10 @@
       "tech",
       "financial"
     ],
-    "relevance_score": 26
+    "relevance_score": 26,
+    "also_covered_by": [
+      "Health Tech"
+    ]
   },
   {
     "id": "288e64e77d93",
