@@ -1,29 +1,32 @@
 [
   {
-    "id": "34b8b8a6c295",
-    "title": "Service and Sales: Unifying the Customer Journey for a Better Customer Experience",
-    "url": "https://www.salesforce.com/blog/service-sales-unified-customer/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-12T17:07:56+00:00",
-    "summary": "How aligning sales and service creates a seamless, continuous customer relationship from deal close to long-term success.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Blog-Header-Sales-and-Service.png",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 45
-  },
-  {
-    "id": "8e46b240f5d6",
-    "title": "Salesforce's Slack Gains Momentum: Can It Lift CRM's Growth Further? - TradingView",
-    "url": "https://news.google.com/rss/articles/CBMivwFBVV95cUxQVXpSb0lpN3hnTWxzVHBad2trZUY1djY4V09rRDl5bDNFcUxfbXdSUkFsWExhOVhmcFBSenI5eE93WkJncEZRekw0dWliR3N0RnFKWUNWdlVKdWJFVUpEdG80bFNiQ1NKTlYxbEU2YVJmdzVWMFRPbDhGVUZyLTRHMDVRdmk1SFlMYVNzZTZYM1Fia0M2LUpuVHdHNUtza0ZsaXl3Z2Z3YjJUU05WUUl1emttY3YxTThfUHlzcFpfcw?oc=5",
+    "id": "e9d76b5ee8b8",
+    "title": "Why Is Salesforce (NYSE:CRM) Stock Crashing Today? AI Growth Fears Spark Selloff - Stocks Down Under",
+    "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aSHdsV1pvT0ZCUzd3NnV5Q1hXMUpSNG03UmlLS0pDZzlEdlJ6eFpJcFk3STlXdHE3NVIwbTE0RVhvcUJzOTIwZHJvMUtQdnBObHBUVEFabFlleUNuNnNQT0lMQWUxQ1ZFMU1TV2VZdEFGcEk?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-11-17T16:55:34+00:00",
-    "summary": "Salesforce's Slack Gains Momentum: Can It Lift CRM's Growth Further? TradingView",
+    "published": "2026-11-17T18:12:16+00:00",
+    "summary": "Why Is Salesforce (NYSE:CRM) Stock Crashing Today? AI Growth Fears Spark Selloff Stocks Down Under",
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 45
+    "relevance_score": 42,
+    "also_covered_by": [
+      "Adobe Marketing Cloud"
+    ]
+  },
+  {
+    "id": "dfc72344f201",
+    "title": "Salesforce's Slack Gains Momentum: Can It Lift CRM's Growth Further? - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSWZDTFZZVk9IS1dBZjFDX0hfUjJUd0dxWk9NakxhMXFQblh4U3JuVU1sWXhNOElkeE9BSy00Rm1pNlRtYXZfMkl1SUdpSTZIMWFqd25tMXZHZHlaZk5NbzlRTmEzbF93bE1qSlcyQ3phWW15RDhRYnk4ZE5zWWdERWliNkRNVGNwZl93V0daUExIT1R0RGpVMjlBQXE1WmdLTTR2cDgzc0NvR0JxODJnM2t3bDJHNFBKczdldU5XaUtQS01ueGRUWk1WMkN6VnZvcXlJVzVscGh2eVRtN3ZWYkdn?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-11-17T16:51:28+00:00",
+    "summary": "Salesforce's Slack Gains Momentum: Can It Lift CRM's Growth Further? The Globe and Mail",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 39
   },
   {
     "id": "b26201770ea5",
@@ -39,20 +42,7 @@
       "consumer",
       "industrial"
     ],
-    "relevance_score": 39
-  },
-  {
-    "id": "3fb84566e698",
-    "title": "Account-Based Marketing for Small Business: A Practical Starter Guide",
-    "url": "https://www.salesforce.com/blog/small-business/account-based-marketing/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-16T14:00:00+00:00",
-    "summary": "What is ABM all about? Let’s talk accounts, marketing, and niche promotional tactics.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image_998be2.png",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 30
+    "relevance_score": 35
   },
   {
     "id": "28f07721a576",
@@ -86,6 +76,37 @@
     "relevance_score": 26
   },
   {
+    "id": "a79fbaea0e6e",
+    "title": "Forecasts That Fix Themselves: Self-Evolving Data Science Agents at Salesforce",
+    "url": "https://www.salesforce.com/blog/self-evolving-data-science-agents/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-17T22:02:11+00:00",
+    "summary": "Every night, our internal forecasting platform generates nearly four million forecasts that power our global infrastructure. They decide how much cloud capacity we reserve, which workloads to migrate, and whether an infrastructure budget…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Self-Evolving-Forecasting-Agent-Workflow.png",
+    "tags": [],
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 16
+  },
+  {
+    "id": "77491a681abc",
+    "title": "Salesforce Services Achieves First Certifications for New Hyperforce on Google Cloud Environment",
+    "url": "https://www.salesforce.com/blog/salesforce-services-achieves-first-certifications-for-new-hyperforce-on-google-cloud-environment/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-17T22:49:32+00:00",
+    "summary": "Independent security assessments validate key controls supporting Salesforce Services on Hyperforce on Google Cloud.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/AdobeStock_2038231105.jpg",
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 15
+  },
+  {
     "id": "68629b45e303",
     "title": "Salesforce Is More Than 30% Below Its December 2024 High, but $1,000 From a Decade Ago Is Still Worth More Than $2,500 - 24/7 Wall St.",
     "url": "https://news.google.com/rss/articles/CBMi7AFBVV95cUxNbWJBd3dLTUlpYzFnSXpyN3pJWHZzamxTc3htMlZFbG1oRlZMc0JaMWxlN3ItdU4wUlhFbDRselpoQXkzLU80ZFVjelBCRmJfX2VaRDJlMDRocExmbkdzTWl0elVXMXVBdHFlTmRFM2wxU2pSLWw2eHR6S0Y1UVJSRHQ4dW15dWsyS1lpYURwODNXQWt0VEdFRFdkd2Zfbkowalg5eEV2cUxKVzZDejV3THRGcy1tM29yMDNKWTJQU0pkT2didktWcTlabU5LY1o5UXdUcTRudkNKbmRYVW0tRnRjTjVuX1I5MDFBQg?oc=5",
@@ -96,7 +117,7 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 16
+    "relevance_score": 14
   },
   {
     "id": "77bef14cf814",
@@ -112,7 +133,88 @@
       "tech",
       "retail"
     ],
-    "relevance_score": 15
+    "relevance_score": 13
+  },
+  {
+    "id": "3eefce31c305",
+    "title": "The agentic era brings new challenges for commerce. Here’s how to solve them.",
+    "url": "https://www.salesforce.com/blog/agentic-commerce-challenges-solutions/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-17T17:13:08+00:00",
+    "summary": "Digital commerce constantly reinvents itself. The 90s launched shopping online, the early aughts brought the cloud, and the 2010s ushered in mobile and social commerce. Each new wave forced retailers to rethink how…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image.webp",
+    "tags": [],
+    "industries": [
+      "tech",
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "b3caa66b1940",
+    "title": "Who Is a Datablazer? Everything You Need to Know",
+    "url": "https://www.salesforce.com/blog/who-is-a-datablazer-everything-you-need-to-know/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-17T19:38:57+00:00",
+    "summary": "Behind every trusted dashboard, smarter decision, and working AI agent is someone connecting disconnected systems, cleaning up data, and figuring it out as they go. Mehmet Orun was one of them. His small,…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/10/Who-is-a-Datablazer-refresh-7.06.08-PM.jpg",
+    "tags": [],
+    "industries": [
+      "media",
+      "industrial"
+    ],
+    "relevance_score": 13,
+    "also_covered_by": [
+      "Telecom"
+    ]
+  },
+  {
+    "id": "0e41a64f2680",
+    "title": "Salesforce and ServiceNow fall as software stocks slide again a day before Anthropic prices its IPO - MLQ.ai",
+    "url": "https://news.google.com/rss/articles/CBMivAFBVV95cUxPYnZuZzdUVTFXQmI4eXJ4aEVFeUtaT3FZeTl2a1Z0Zk13QlowVmp0NVZieUFsQVRqUU03cFF2b3dadUJIcnJmUVdQVUZScWJ4YXZUcFd4RHlacHJ2Y1QzQWtXVW51MlByWDJjLVlJQnJHTXJJRlV4U3piWnRmUDdtQ0lIa29yLWRnRnFnQUhJRTFhd0JXNUgzcW10ZzJGNFBieWpZYWctcFo0S3dnVzU3RFZpemYwS21yZmNLOQ?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-11-17T19:46:07+00:00",
+    "summary": "Salesforce and ServiceNow fall as software stocks slide again a day before Anthropic prices its IPO MLQ.ai",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "de53476c13f1",
+    "title": "Meet Bridget: The AI Agent that Bridges Your Systems and Gets Work Done",
+    "url": "https://www.salesforce.com/blog/bridget-systems-integration-agent/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-17T20:21:13+00:00",
+    "summary": "Bridget connects your systems without code, then does the manual work inside them. Generally available in Regrello Nov. 18 and expected in MuleSoft in December.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Bridget.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 13
+  },
+  {
+    "id": "f76cf88bad56",
+    "title": "Forming, Storming, Norming, Performing: Four Stages Every AI Agent Goes Through",
+    "url": "https://www.salesforce.com/blog/improve-ai-agents/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-17T21:53:03+00:00",
+    "summary": "AI agents go through the same four stages as new teams. Agent Optimizer helps you see the storm, find what's causing it, and prove the fix worked.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Yellow-Tuckman-AdobeStock_1634161710.jpeg",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 13
   },
   {
     "id": "bba9ba68163e",
@@ -127,7 +229,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 14
+    "relevance_score": 12
   },
   {
     "id": "4f18bcf292d7",
@@ -144,80 +246,6 @@
       "industrial",
       "lifesciences"
     ],
-    "relevance_score": 11
-  },
-  {
-    "id": "6fc5719ca8c4",
-    "title": "Agentic AI Attacks Are Here: What We’re Seeing with ARTEX, and How to Protect Your Org",
-    "url": "https://www.salesforce.com/blog/artex-agentic-ai-attacks/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-12T19:31:51+00:00",
-    "summary": "Salesforce Threat Intelligence has observed multiple threat actors using the AI-enabled offensive framework ARTEX.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Cloud.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "763918aaf8fd",
-    "title": "The Guide to Salesforce Agent, Application, and Headless Development",
-    "url": "https://www.salesforce.com/blog/salesforce-agent-application-development/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-13T18:20:34+00:00",
-    "summary": "Deploy robust, secure AI solutions with Salesforce’s development approach, designed to fit the size and skillset of your team and business priorities.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/05/Q3-Refresh_-Agent-App-Dev-Guide-1440x810-1.png",
-    "tags": [],
-    "industries": [
-      "tech",
-      "industrial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "c6f8f36172ac",
-    "title": "The Agentic AI Overlay: Modernizing IT Service Without “Rip and Replace”",
-    "url": "https://www.salesforce.com/blog/it-agentic-overlay/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-12T23:48:52+00:00",
-    "summary": "Skip the rip-and-replace. Get AI-native IT service without tearing down what works.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/SEO-Header-IT-Overlay.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "e9aa665d959c",
-    "title": "AI Agent Vs. Chatbot: What’s The Best For Small Biz?",
-    "url": "https://www.salesforce.com/blog/small-business/ai-agent-vs-chatbot-for-growing-teams/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-13T13:34:36+00:00",
-    "summary": "One answers questions, the other gets work done — here's how to tell which one your small business needs.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 7
-  },
-  {
-    "id": "176e721f5632",
-    "title": "Introducing AI Skills in Coworker: Turn Your Best Practices Into Reusable Workflows - Salesforce",
-    "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTE9UWWlDbjFkM3NSd0lXb3ZjdElGRFhVekhPSkdqQlYzalhYWmstc1k0cGlGZmd4VlBWck4tZHk1MDBIV0Nrc3lES0NUMjdiUW1rM1V2Sk9zdHNyOENPUkd4UzJEN18?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-11-10T20:34:49+00:00",
-    "summary": "Introducing AI Skills in Coworker: Turn Your Best Practices Into Reusable Workflows Salesforce",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 6
+    "relevance_score": 10
   }
 ]
