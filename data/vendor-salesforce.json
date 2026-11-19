@@ -1,5 +1,18 @@
 [
   {
+    "id": "dfc72344f201",
+    "title": "Salesforce's Slack Gains Momentum: Can It Lift CRM's Growth Further? - The Globe and Mail",
+    "url": "https://news.google.com/rss/articles/CBMi4gFBVV95cUxPSWZDTFZZVk9IS1dBZjFDX0hfUjJUd0dxWk9NakxhMXFQblh4U3JuVU1sWXhNOElkeE9BSy00Rm1pNlRtYXZfMkl1SUdpSTZIMWFqd25tMXZHZHlaZk5NbzlRTmEzbF93bE1qSlcyQ3phWW15RDhRYnk4ZE5zWWdERWliNkRNVGNwZl93V0daUExIT1R0RGpVMjlBQXE1WmdLTTR2cDgzc0NvR0JxODJnM2t3bDJHNFBKczdldU5XaUtQS01ueGRUWk1WMkN6VnZvcXlJVzVscGh2eVRtN3ZWYkdn?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-11-17T16:51:28+00:00",
+    "summary": "Salesforce's Slack Gains Momentum: Can It Lift CRM's Growth Further? The Globe and Mail",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 32
+  },
+  {
     "id": "e9d76b5ee8b8",
     "title": "Why Is Salesforce (NYSE:CRM) Stock Crashing Today? AI Growth Fears Spark Selloff - Stocks Down Under",
     "url": "https://news.google.com/rss/articles/CBMic0FVX3lxTE9aSHdsV1pvT0ZCUzd3NnV5Q1hXMUpSNG03UmlLS0pDZzlEdlJ6eFpJcFk3STlXdHE3NVIwbTE0RVhvcUJzOTIwZHJvMUtQdnBObHBUVEFabFlleUNuNnNQT0lMQWUxQ1ZFMU1TV2VZdEFGcEk?oc=5",
@@ -28,20 +41,17 @@
     "relevance_score": 26
   },
   {
-    "id": "5a8a7a2c80e0",
-    "title": "Did AI Platform Growth Just Shift Salesforce's (CRM) Investment Narrative? - Yahoo Finance Singapore",
-    "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQeWpqZkUxdEE4LUF5dGFETGpGZEdFUnRuZWRtRlcxb3FGWUFJcU81cFN5ZWtTWVhsaFFMUzNUXzJZWTFlX1pMY1lRcVQ0SEN3eFQ5X2Rmb3BUOUpqMFdGczRuLUJDUzQ0bEZTMmhTT3p3OXZGZVo0RVFpQllMZFZvX0VB?oc=5",
-    "source": "Salesforce AI",
+    "id": "1cfeed9c7f10",
+    "title": "Java4Shell – Critical OpenJDK Vulnerability (CVE-2026-114938)",
+    "url": "https://www.salesforce.com/blog/java4shell-critical-openjdk-vulnerability-cve-2026-114938/",
+    "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-11-13T04:34:00+00:00",
-    "summary": "Did AI Platform Growth Just Shift Salesforce's (CRM) Investment Narrative? Yahoo Finance Singapore",
-    "image_url": null,
+    "published": "2026-11-18T21:12:17+00:00",
+    "summary": "Overview On November 17, 2026, Oracle released fixes for CVE-2026-114938 in its November Critical Security Patch Update. Researchers at Calif disclosed the flaw, nicknamed “Java4Shell,” as a memory-corruption vulnerability in OpenJDK’s Base64 decoder.…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/11/AdobeStock_781377521.jpeg?w=7137",
     "tags": [],
-    "industries": [
-      "tech",
-      "financial"
-    ],
-    "relevance_score": 26
+    "industries": [],
+    "relevance_score": 15
   },
   {
     "id": "19a070b2e3f0",
@@ -57,20 +67,23 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 16
+    "relevance_score": 14
   },
   {
-    "id": "1cfeed9c7f10",
-    "title": "Java4Shell – Critical OpenJDK Vulnerability (CVE-2026-114938)",
-    "url": "https://www.salesforce.com/blog/java4shell-critical-openjdk-vulnerability-cve-2026-114938/",
+    "id": "388cfd06fe62",
+    "title": "Our response to the Optimizely “OPTIMJACK” supply chain compromise",
+    "url": "https://www.salesforce.com/blog/our-response-to-the-optimizely-optimjack-supply-chain-compromise/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-11-18T21:12:17+00:00",
-    "summary": "Overview On November 17, 2026, Oracle released fixes for CVE-2026-114938 in its November Critical Security Patch Update. Researchers at Calif disclosed the flaw, nicknamed “Java4Shell,” as a memory-corruption vulnerability in OpenJDK’s Base64 decoder.…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2025/11/AdobeStock_781377521.jpeg?w=7137",
+    "published": "2026-11-18T23:54:54+00:00",
+    "summary": "On November 16, 2026, an attacker exploited a vulnerability in Optimizely, a third-party experimentation platform, to add malicious JavaScript to customer projects. Salesforce is investigating unauthorized modifications to scripts provided by Optimizely and…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Cloud.png",
     "tags": [],
-    "industries": [],
-    "relevance_score": 16
+    "industries": [
+      "tech",
+      "industrial"
+    ],
+    "relevance_score": 14
   },
   {
     "id": "020fa4e9a01f",
@@ -86,23 +99,7 @@
       "tech",
       "industrial"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "504bf057297c",
-    "title": "How Salesforce is advancing global-scale model serving with cross-Region inference routing in Amazon SageMaker AI - Amazon Web Services (AWS)",
-    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPT2NtWUxUaHNJbm5QSWtQNkRZR1pPUzVPSVMxNUNBaHZKRzJjdk5tenFFNkYtV3VITkN3UWQ0Vmx0RjZzaDd6S1BWUC1vUmZoSjh3eHVwS00wazY2M081ZDladE0wbGplV0RlRXJ2TjNuQlhaV2p2SVdmTWFaOFg1Zm5zbkY0SjFCVnQ5TV9XWi1NTFd2RjRaMkV3eTNYMnZGYVl4WWl1eF81dnNsSWFqeXFuaU9TRkR2eDQ3dE9ocGNhUXoyUWNjejJvX3AtRFNoNGg5VjRUYjJFcE1IejhpZ2xjWE9pTjBRM01UV0FIRUlsdw?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-11-18T20:13:18+00:00",
-    "summary": "How Salesforce is advancing global-scale model serving with cross-Region inference routing in Amazon SageMaker AI Amazon Web Services (AWS)",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 14
+    "relevance_score": 13
   },
   {
     "id": "509432446373",
@@ -113,34 +110,6 @@
     "published": "2026-11-18T20:37:15+00:00",
     "summary": "What does the future of work actually look like? As AI takes on more of the tasks we do every day, what do we spend our time on instead? And what skills do…",
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/IMG_6339.jpeg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 14
-  },
-  {
-    "id": "77491a681abc",
-    "title": "Salesforce Services Achieves First Certifications for New Hyperforce on Google Cloud Environment",
-    "url": "https://www.salesforce.com/blog/salesforce-services-achieves-first-certifications-for-new-hyperforce-on-google-cloud-environment/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-17T22:49:32+00:00",
-    "summary": "Independent security assessments validate key controls supporting Salesforce Services on Hyperforce on Google Cloud.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/AdobeStock_2038231105.jpg",
-    "tags": [],
-    "industries": [
-      "tech"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "a323703989c8",
-    "title": "Mitsubishi Electric Signs Global Comprehensive Agreement with Salesforce; AI Auto-Updates Deal Information from Meeting Minutes - BigGo Finance",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LcTVpbndNTnlxemcyY3c0ZVVUYm1ubjY3MGxIcE9PaEpqdmFydnRFSHc3aXlHMGhpOXVEVVFZd3Y4d01JUjRSb1hOTVI4VTVaaXRrbEJTekJGNkhXb1F1STZRYWlnYjVOSDVZSnB3QTRGdU5McFE?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-11-18T10:25:00+00:00",
-    "summary": "Mitsubishi Electric Signs Global Comprehensive Agreement with Salesforce; AI Auto-Updates Deal Information from Meeting Minutes BigGo Finance",
-    "image_url": null,
     "tags": [],
     "industries": [],
     "relevance_score": 12
@@ -162,6 +131,50 @@
     "relevance_score": 11
   },
   {
+    "id": "a323703989c8",
+    "title": "Mitsubishi Electric Signs Global Comprehensive Agreement with Salesforce; AI Auto-Updates Deal Information from Meeting Minutes - BigGo Finance",
+    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE1LcTVpbndNTnlxemcyY3c0ZVVUYm1ubjY3MGxIcE9PaEpqdmFydnRFSHc3aXlHMGhpOXVEVVFZd3Y4d01JUjRSb1hOTVI4VTVaaXRrbEJTekJGNkhXb1F1STZRYWlnYjVOSDVZSnB3QTRGdU5McFE?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-11-18T10:25:00+00:00",
+    "summary": "Mitsubishi Electric Signs Global Comprehensive Agreement with Salesforce; AI Auto-Updates Deal Information from Meeting Minutes BigGo Finance",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
+    "relevance_score": 11
+  },
+  {
+    "id": "504bf057297c",
+    "title": "How Salesforce is advancing global-scale model serving with cross-Region inference routing in Amazon SageMaker AI - Amazon Web Services (AWS)",
+    "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPT2NtWUxUaHNJbm5QSWtQNkRZR1pPUzVPSVMxNUNBaHZKRzJjdk5tenFFNkYtV3VITkN3UWQ0Vmx0RjZzaDd6S1BWUC1vUmZoSjh3eHVwS00wazY2M081ZDladE0wbGplV0RlRXJ2TjNuQlhaV2p2SVdmTWFaOFg1Zm5zbkY0SjFCVnQ5TV9XWi1NTFd2RjRaMkV3eTNYMnZGYVl4WWl1eF81dnNsSWFqeXFuaU9TRkR2eDQ3dE9ocGNhUXoyUWNjejJvX3AtRFNoNGg5VjRUYjJFcE1IejhpZ2xjWE9pTjBRM01UV0FIRUlsdw?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-11-18T20:13:18+00:00",
+    "summary": "How Salesforce is advancing global-scale model serving with cross-Region inference routing in Amazon SageMaker AI Amazon Web Services (AWS)",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "retail",
+      "industrial"
+    ],
+    "relevance_score": 11
+  },
+  {
+    "id": "77491a681abc",
+    "title": "Salesforce Services Achieves First Certifications for New Hyperforce on Google Cloud Environment",
+    "url": "https://www.salesforce.com/blog/salesforce-services-achieves-first-certifications-for-new-hyperforce-on-google-cloud-environment/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-17T22:49:32+00:00",
+    "summary": "Independent security assessments validate key controls supporting Salesforce Services on Hyperforce on Google Cloud.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/06/AdobeStock_2038231105.jpg",
+    "tags": [],
+    "industries": [
+      "tech"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "d3738314f7ad",
     "title": "Salesforce starts another round of job cuts as AI pressure mounts - Wocult",
     "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vYWw1UDFvaXl6dDdXWlYxSlUtOWVjZ0VGX1cyci16aWdmNU1vRjBFOGJqdnZWaEhDM2hMZFltZnp1SU5qTkdtUDR5YzVOdjlBd0RVbVhQUVlOT1VIX3RXekJkdGNEWHpFeGktTUwxd3BOQmFQbmhWRGFpeldwUQ?oc=5",
@@ -172,38 +185,6 @@
     "image_url": null,
     "tags": [],
     "industries": [],
-    "relevance_score": 11
-  },
-  {
-    "id": "3eefce31c305",
-    "title": "The agentic era brings new challenges for commerce. Here’s how to solve them.",
-    "url": "https://www.salesforce.com/blog/agentic-commerce-challenges-solutions/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-17T17:13:08+00:00",
-    "summary": "Digital commerce constantly reinvents itself. The 90s launched shopping online, the early aughts brought the cloud, and the 2010s ushered in mobile and social commerce. Each new wave forced retailers to rethink how…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image.webp",
-    "tags": [],
-    "industries": [
-      "tech",
-      "retail",
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "aec321e63d9f",
-    "title": "Agentforce Coworker for Small Business Demo - Salesforce",
-    "url": "https://news.google.com/rss/articles/CBMidkFVX3lxTE52eHU5RkhTUlA5akF0YlFHM0xxQ3FlMVg3eUxGNFl6Tms5T1BhQXVRR1VfdHdzOW12LTU5Wk4tQ1Y3OEJtNk84RGxrS1ZwQ3pBOEl1TjQ0V3U2eE5lTWhuWjl2Y1RPQkl1bEZMU1dmVUFFcFZzakE?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-11-18T09:06:31+00:00",
-    "summary": "Agentforce Coworker for Small Business Demo Salesforce",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
     "relevance_score": 10
   },
   {
@@ -233,7 +214,10 @@
       "media",
       "industrial"
     ],
-    "relevance_score": 9
+    "relevance_score": 9,
+    "also_covered_by": [
+      "Telecom"
+    ]
   },
   {
     "id": "de53476c13f1",
