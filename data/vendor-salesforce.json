@@ -26,19 +26,6 @@
     "relevance_score": 26
   },
   {
-    "id": "54ed90b7001a",
-    "title": "Replace Salesforce to Salesforce Before Its Spring ’27 Retirement",
-    "url": "https://www.salesforce.com/blog/salesforce-to-salesforce-replacement-architecture/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-20T14:00:18+00:00",
-    "summary": "Select a cross-org sharing architecture that fits your use case ahead of the Spring ’27 Salesforce to Salesforce retirement.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Blog-Images-12.png",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 15
-  },
-  {
     "id": "ed8e10e99459",
     "title": "25 Practical Jobs Organizations are Giving Agentforce Coworker to Complete Right Now",
     "url": "https://www.salesforce.com/blog/agentforce-coworker-practical-jobs/",
@@ -47,36 +34,6 @@
     "published": "2026-11-20T23:10:49+00:00",
     "summary": "You know those tasks that somehow eat up half your day? Digging through 14 tabs before a customer call. Writing the same weekly update for the 47th time. Hunting down one record that…",
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/agentforce-coworker-practical-jobs-og.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 15
-  },
-  {
-    "id": "3565428bd318",
-    "title": "Salesforce Heads Into Q3 With Agentforce In Focus - Finimize",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMUFaMnUzOW9fdGRRcVVLN2tfUUw4Uzl4YktpakJIbmFCaDl0U3NHcTZTUEswTFBJXzVoeTdYelQ2b05zbTFtWDVNUzhNcFVUcHcwNDV0aUZYYlNveW9BX3NFdC1uV2NxQXRORDJPREJ6Wm5FVzVxdERoRmpwTl9RR0FQZHk?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-11-20T16:30:47+00:00",
-    "summary": "Salesforce Heads Into Q3 With Agentforce In Focus Finimize",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 13
-  },
-  {
-    "id": "87b807cf7aa2",
-    "title": "Want Your AI Agents to Give the Right Answers? Fix Your Knowledge Articles First",
-    "url": "https://www.salesforce.com/blog/how-to-write-knowledge-articles/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-20T18:45:06+00:00",
-    "summary": "Here’s how to structure Salesforce Knowledge so AI agents retrieve the right slice of data and deliver the right answers.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Gemini_Generated_Image_vzk8mrvzk8mrvzk8-1.jpeg",
     "tags": [],
     "industries": [
       "industrial"
@@ -99,14 +56,42 @@
     "relevance_score": 12
   },
   {
-    "id": "c3c616f0494a",
-    "title": "AI Orchestrators: What the New Generation Needs to Know for Business-led AI Agents",
-    "url": "https://www.salesforce.com/blog/small-business/ai-orchestrator-basics/",
+    "id": "54ed90b7001a",
+    "title": "Replace Salesforce to Salesforce Before Its Spring ’27 Retirement",
+    "url": "https://www.salesforce.com/blog/salesforce-to-salesforce-replacement-architecture/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-11-20T14:00:00+00:00",
-    "summary": "Your next hire might be the person who knows how to conduct a team of AI agents.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image_a0f316.png",
+    "published": "2026-11-20T14:00:18+00:00",
+    "summary": "Select a cross-org sharing architecture that fits your use case ahead of the Spring ’27 Salesforce to Salesforce retirement.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Blog-Images-12.png",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 12
+  },
+  {
+    "id": "3565428bd318",
+    "title": "Salesforce Heads Into Q3 With Agentforce In Focus - Finimize",
+    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMUFaMnUzOW9fdGRRcVVLN2tfUUw4Uzl4YktpakJIbmFCaDl0U3NHcTZTUEswTFBJXzVoeTdYelQ2b05zbTFtWDVNUzhNcFVUcHcwNDV0aUZYYlNveW9BX3NFdC1uV2NxQXRORDJPREJ6Wm5FVzVxdERoRmpwTl9RR0FQZHk?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-11-20T16:30:47+00:00",
+    "summary": "Salesforce Heads Into Q3 With Agentforce In Focus Finimize",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 12
+  },
+  {
+    "id": "87b807cf7aa2",
+    "title": "Want Your AI Agents to Give the Right Answers? Fix Your Knowledge Articles First",
+    "url": "https://www.salesforce.com/blog/how-to-write-knowledge-articles/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-20T18:45:06+00:00",
+    "summary": "Here’s how to structure Salesforce Knowledge so AI agents retrieve the right slice of data and deliver the right answers.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Gemini_Generated_Image_vzk8mrvzk8mrvzk8-1.jpeg",
     "tags": [],
     "industries": [
       "industrial"
@@ -126,7 +111,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "4b9ac42b9956",
@@ -139,7 +124,7 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Robot-Upgrade-Lab-Under-Glass-Dome.png",
     "tags": [],
     "industries": [],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "12e11ac57f30",
@@ -154,7 +139,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 12
+    "relevance_score": 11
   },
   {
     "id": "b862db12afd2",
@@ -168,21 +153,6 @@
     "tags": [],
     "industries": [
       "tech",
-      "industrial"
-    ],
-    "relevance_score": 12
-  },
-  {
-    "id": "bc5cf9064c55",
-    "title": "Chess by the Numbers: Explore a decade of FIDE Data, powered by Salesforce Agentforce - Chess News | ChessBase",
-    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ndkN1OGFndTFTMDNlcTRJU0oyUnEteE1FZDF2SzlkOXZfVnNkUEplQWtxcktKMXpfYzZqVDd3YmdlQ0hMMVJGeDZId3VqOU1JVUNocHhoQ012Z3RNVkkxX0F0UzBUYW9zVlZYemZB?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-11-20T20:04:08+00:00",
-    "summary": "Chess by the Numbers: Explore a decade of FIDE Data, powered by Salesforce Agentforce Chess News | ChessBase",
-    "image_url": null,
-    "tags": [],
-    "industries": [
       "industrial"
     ],
     "relevance_score": 11
@@ -219,21 +189,6 @@
     "relevance_score": 10
   },
   {
-    "id": "e9c0f1b33145",
-    "title": "Salesforce’s Agentforce Coworker Usage Soars 21x in Three Months as Enterprises Delegate Real Work to AI - Salesforce",
-    "url": "https://news.google.com/rss/articles/CBMijAFBVV95cUxOQmllS0hycDJrMkREZk9Ubzl1VWdtZDJOMmdJVUtjUjNTbnZoSllYSWlrNDVzTExCSGFLSV9QWjVoc0R5TWFfYTY1NGt2YUpWN016UGNoaWxiZ3gxS0RRX00zSGdLTEpyZjZUZ0NJaHZTWEFmTXBEVVZ2bHVCV1E0ekVCOWdhcXgtNWZDQg?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-11-19T15:16:18+00:00",
-    "summary": "Salesforce’s Agentforce Coworker Usage Soars 21x in Three Months as Enterprises Delegate Real Work to AI Salesforce",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
     "id": "f7e16263b412",
     "title": "BLIP-Live: AI Guidance That Knows When to Step In",
     "url": "https://www.salesforce.com/blog/blip-live/",
@@ -262,6 +217,36 @@
     "relevance_score": 10
   },
   {
+    "id": "c3c616f0494a",
+    "title": "AI Orchestrators: What the New Generation Needs to Know for Business-led AI Agents",
+    "url": "https://www.salesforce.com/blog/small-business/ai-orchestrator-basics/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-20T14:00:00+00:00",
+    "summary": "Your next hire might be the person who knows how to conduct a team of AI agents.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image_a0f316.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
+    "id": "bc5cf9064c55",
+    "title": "Chess by the Numbers: Explore a decade of FIDE Data, powered by Salesforce Agentforce - Chess News | ChessBase",
+    "url": "https://news.google.com/rss/articles/CBMibkFVX3lxTE1ndkN1OGFndTFTMDNlcTRJU0oyUnEteE1FZDF2SzlkOXZfVnNkUEplQWtxcktKMXpfYzZqVDd3YmdlQ0hMMVJGeDZId3VqOU1JVUNocHhoQ012Z3RNVkkxX0F0UzBUYW9zVlZYemZB?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-11-20T20:04:08+00:00",
+    "summary": "Chess by the Numbers: Explore a decade of FIDE Data, powered by Salesforce Agentforce Chess News | ChessBase",
+    "image_url": null,
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 10
+  },
+  {
     "id": "504bf057297c",
     "title": "How Salesforce is advancing global-scale model serving with cross-Region inference routing in Amazon SageMaker AI - Amazon Web Services (AWS)",
     "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxPT2NtWUxUaHNJbm5QSWtQNkRZR1pPUzVPSVMxNUNBaHZKRzJjdk5tenFFNkYtV3VITkN3UWQ0Vmx0RjZzaDd6S1BWUC1vUmZoSjh3eHVwS00wazY2M081ZDladE0wbGplV0RlRXJ2TjNuQlhaV2p2SVdmTWFaOFg1Zm5zbkY0SjFCVnQ5TV9XWi1NTFd2RjRaMkV3eTNYMnZGYVl4WWl1eF81dnNsSWFqeXFuaU9TRkR2eDQ3dE9ocGNhUXoyUWNjejJvX3AtRFNoNGg5VjRUYjJFcE1IejhpZ2xjWE9pTjBRM01UV0FIRUlsdw?oc=5",
@@ -278,19 +263,6 @@
     "relevance_score": 8
   },
   {
-    "id": "d3738314f7ad",
-    "title": "Salesforce starts another round of job cuts as AI pressure mounts - Wocult",
-    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vYWw1UDFvaXl6dDdXWlYxSlUtOWVjZ0VGX1cyci16aWdmNU1vRjBFOGJqdnZWaEhDM2hMZFltZnp1SU5qTkdtUDR5YzVOdjlBd0RVbVhQUVlOT1VIX3RXekJkdGNEWHpFeGktTUwxd3BOQmFQbmhWRGFpeldwUQ?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-11-18T07:29:25+00:00",
-    "summary": "Salesforce starts another round of job cuts as AI pressure mounts Wocult",
-    "image_url": null,
-    "tags": [],
-    "industries": [],
-    "relevance_score": 7
-  },
-  {
     "id": "6b11be1c7698",
     "title": "Salesforce and Microsoft Announce Copilotforce - Salesforce",
     "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTFAxd1BmUE43ZXhwRlBOVG9ocmk3aExkTzU0MUVQNV8wNFlMem1Lb0NSdmIzS2FIUVR6UlI0OUpvVjdkMEVlM0t1MU5xSWl2Z2o3ZW5ieHpYWFMwZGNIOHhxamxvUHJWYThva3BOMmstbldMX0w4?oc=5",
@@ -303,6 +275,19 @@
     "industries": [
       "tech"
     ],
+    "relevance_score": 6
+  },
+  {
+    "id": "d3738314f7ad",
+    "title": "Salesforce starts another round of job cuts as AI pressure mounts - Wocult",
+    "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTE9vYWw1UDFvaXl6dDdXWlYxSlUtOWVjZ0VGX1cyci16aWdmNU1vRjBFOGJqdnZWaEhDM2hMZFltZnp1SU5qTkdtUDR5YzVOdjlBd0RVbVhQUVlOT1VIX3RXekJkdGNEWHpFeGktTUwxd3BOQmFQbmhWRGFpeldwUQ?oc=5",
+    "source": "Salesforce AI",
+    "source_category": "salesforce",
+    "published": "2026-11-18T07:29:25+00:00",
+    "summary": "Salesforce starts another round of job cuts as AI pressure mounts Wocult",
+    "image_url": null,
+    "tags": [],
+    "industries": [],
     "relevance_score": 6
   }
 ]
