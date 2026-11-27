@@ -1,18 +1,5 @@
 [
   {
-    "id": "d3c3248e01f9",
-    "title": "What is Conversational CRM? Everything You Need to Know",
-    "url": "https://www.salesforce.com/blog/small-business/what-is-conversational-crm/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-25T14:00:00+00:00",
-    "summary": "Here's how conversational CRM puts work right where your team already collaborates.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image_b2979d.png",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 30
-  },
-  {
     "id": "43534a8cf428",
     "title": "The End of CRM Busywork: How Agentforce Coworker Helps Run Your Small Business",
     "url": "https://www.salesforce.com/blog/small-business/agentforce-coworker-in-salesforce-suites/",
@@ -28,6 +15,19 @@
     "relevance_score": 27
   },
   {
+    "id": "d3c3248e01f9",
+    "title": "What is Conversational CRM? Everything You Need to Know",
+    "url": "https://www.salesforce.com/blog/small-business/what-is-conversational-crm/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-25T14:00:00+00:00",
+    "summary": "Here's how conversational CRM puts work right where your team already collaborates.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image_b2979d.png",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 27
+  },
+  {
     "id": "2b9bfa1c06c8",
     "title": "5 ways customers are already innovating with Salesforce in Claude",
     "url": "https://www.salesforce.com/blog/5-ways-customers-are-already-innovating-with-salesforce-in-claude/",
@@ -40,7 +40,22 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 12
+    "relevance_score": 11
+  },
+  {
+    "id": "3961ee64f7d6",
+    "title": "We’re Talking Token Management and it’s Not Arcade Flashbacks",
+    "url": "https://www.salesforce.com/blog/small-business/token-management-for-business-owners/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-27T14:00:00+00:00",
+    "summary": "How many tokens do we need to do business with AI? Let’s talk about it.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image_4ebf30.png",
+    "tags": [],
+    "industries": [
+      "industrial"
+    ],
+    "relevance_score": 11
   },
   {
     "id": "a20f117ec49d",
@@ -55,7 +70,7 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 11
+    "relevance_score": 10
   },
   {
     "id": "666ddd711152",
@@ -66,51 +81,6 @@
     "published": "2026-11-25T19:16:59+00:00",
     "summary": "On December 3 at the Javits Center, get face time with the practitioners who run Salesforce on our own AI. See real demos, ask the hard questions, and leave with a plan.",
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Dreamforce-SF-on-SF.jpg?w=7000",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 10
-  },
-  {
-    "id": "3565428bd318",
-    "title": "Salesforce Heads Into Q3 With Agentforce In Focus - Finimize",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMUFaMnUzOW9fdGRRcVVLN2tfUUw4Uzl4YktpakJIbmFCaDl0U3NHcTZTUEswTFBJXzVoeTdYelQ2b05zbTFtWDVNUzhNcFVUcHcwNDV0aUZYYlNveW9BX3NFdC1uV2NxQXRORDJPREJ6Wm5FVzVxdERoRmpwTl9RR0FQZHk?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-11-20T17:20:46+00:00",
-    "summary": "Salesforce Heads Into Q3 With Agentforce In Focus Finimize",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "ed8e10e99459",
-    "title": "25 Practical Jobs Organizations are Giving Agentforce Coworker to Complete Right Now",
-    "url": "https://www.salesforce.com/blog/agentforce-coworker-practical-jobs/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-20T23:10:49+00:00",
-    "summary": "You know those tasks that somehow eat up half your day? Digging through 14 tabs before a customer call. Writing the same weekly update for the 47th time. Hunting down one record that…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/agentforce-coworker-practical-jobs-og.png",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "cdea965789da",
-    "title": "Salesforce’s Agentforce Has a New Rival: Sierra Just Doubled to a $400M Run Rate - TIKR.com",
-    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUHdqaHlJSUJTM0tmclRodzl3M1pxWmhWNXhqWDhwZ1NFSjFBN2FuZWstcUVhVHpwa3ZNN2JyZVpiYWtDbWlYbUxLY0o0R2U0YXlLdlFBdlBJbHZPY3dIM2R4enlrbXEwSHFIc2M3dTU2NTU0bGVEZFFzTFB2WVRtLXpkVmc5Q3dkWll2ckU4LUQwRzZySmszcHBKMzduakRIUDJQa0cxWk5CcGs?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-11-24T14:26:49+00:00",
-    "summary": "Salesforce’s Agentforce Has a New Rival: Sierra Just Doubled to a $400M Run Rate TIKR.com",
-    "image_url": null,
     "tags": [],
     "industries": [
       "industrial"
@@ -134,45 +104,17 @@
     "relevance_score": 8
   },
   {
-    "id": "39e2827cfa42",
-    "title": "How to Write a Welcome Email That Turns New Customers into Loyal Fans",
-    "url": "https://www.salesforce.com/blog/small-business/how-to-write-a-welcome-email/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-24T14:00:00+00:00",
-    "summary": "Your first email sets the tone for the whole relationship — here's how to make it count, with a little help from AI.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image_175890.jpeg",
-    "tags": [],
-    "industries": [],
-    "relevance_score": 8
-  },
-  {
-    "id": "535fd52a4bb0",
-    "title": "AWS nabs Salesforce agent architect for storage VP role - SDxCentral",
-    "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxNdWdDbVZMTE1ycURvYkU3bWpSaHpuRnBja2FNR1Y5cUlsZE9ySWxrRzNyRUR6RTNnNTBWNVU2UXBVTGxBQlFGTG5Ed1VhXzloY3c2MF9pT0VFMEN6ZVp4UVhvSGI4RWppYjY4SkdUdkktUUNUS0Zubllnc0NGMThRSXlvT3o4SVhRay1jOTdiNktqdw?oc=5",
+    "id": "cdea965789da",
+    "title": "Salesforce’s Agentforce Has a New Rival: Sierra Just Doubled to a $400M Run Rate - TIKR.com",
+    "url": "https://news.google.com/rss/articles/CBMiqwFBVV95cUxNUHdqaHlJSUJTM0tmclRodzl3M1pxWmhWNXhqWDhwZ1NFSjFBN2FuZWstcUVhVHpwa3ZNN2JyZVpiYWtDbWlYbUxLY0o0R2U0YXlLdlFBdlBJbHZPY3dIM2R4enlrbXEwSHFIc2M3dTU2NTU0bGVEZFFzTFB2WVRtLXpkVmc5Q3dkWll2ckU4LUQwRzZySmszcHBKMzduakRIUDJQa0cxWk5CcGs?oc=5",
     "source": "Salesforce AI",
     "source_category": "salesforce",
-    "published": "2026-11-24T14:07:31+00:00",
-    "summary": "AWS nabs Salesforce agent architect for storage VP role SDxCentral",
+    "published": "2026-11-24T14:26:49+00:00",
+    "summary": "Salesforce’s Agentforce Has a New Rival: Sierra Just Doubled to a $400M Run Rate TIKR.com",
     "image_url": null,
     "tags": [],
     "industries": [
       "industrial"
-    ],
-    "relevance_score": 8
-  },
-  {
-    "id": "5a3ce0a9f0ab",
-    "title": "AI Lead Qualification: A Complete Guide to How It Works",
-    "url": "https://www.salesforce.com/blog/sales/lead-qualification-ai/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-24T21:33:49+00:00",
-    "summary": "Learn how to use AI to prioritize the hottest sales leads before they go cold.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/ai-lead-qualification.jpg",
-    "tags": [],
-    "industries": [
-      "media"
     ],
     "relevance_score": 8
   },
@@ -192,6 +134,34 @@
     "relevance_score": 7
   },
   {
+    "id": "39e2827cfa42",
+    "title": "How to Write a Welcome Email That Turns New Customers into Loyal Fans",
+    "url": "https://www.salesforce.com/blog/small-business/how-to-write-a-welcome-email/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-24T14:00:00+00:00",
+    "summary": "Your first email sets the tone for the whole relationship — here's how to make it count, with a little help from AI.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/image_175890.jpeg",
+    "tags": [],
+    "industries": [],
+    "relevance_score": 7
+  },
+  {
+    "id": "5a3ce0a9f0ab",
+    "title": "AI Lead Qualification: A Complete Guide to How It Works",
+    "url": "https://www.salesforce.com/blog/sales/lead-qualification-ai/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-24T21:33:49+00:00",
+    "summary": "Learn how to use AI to prioritize the hottest sales leads before they go cold.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/ai-lead-qualification.jpg",
+    "tags": [],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 7
+  },
+  {
     "id": "bff82dca2372",
     "title": "Datablazer Roundup: November",
     "url": "https://www.salesforce.com/blog/datablazer-monthly-roundup/",
@@ -202,6 +172,6 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/image1.png",
     "tags": [],
     "industries": [],
-    "relevance_score": 7
+    "relevance_score": 6
   }
 ]
