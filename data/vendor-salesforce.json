@@ -55,21 +55,6 @@
     "industries": [
       "industrial"
     ],
-    "relevance_score": 14
-  },
-  {
-    "id": "666ddd711152",
-    "title": "Live at World Tour NYC: Meet the People Building Salesforce on Salesforce",
-    "url": "https://www.salesforce.com/blog/world-tour-new-york-executives-customer-zero/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-25T19:16:59+00:00",
-    "summary": "On December 3 at the Javits Center, get face time with the practitioners who run Salesforce on our own AI. See real demos, ask the hard questions, and leave with a plan.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Dreamforce-SF-on-SF.jpg?w=7000",
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
     "relevance_score": 12
   },
   {
@@ -88,19 +73,19 @@
     "relevance_score": 11
   },
   {
-    "id": "3565428bd318",
-    "title": "Salesforce Heads Into Q3 With Agentforce In Focus - Finimize",
-    "url": "https://news.google.com/rss/articles/CBMihAFBVV95cUxQMUFaMnUzOW9fdGRRcVVLN2tfUUw4Uzl4YktpakJIbmFCaDl0U3NHcTZTUEswTFBJXzVoeTdYelQ2b05zbTFtWDVNUzhNcFVUcHcwNDV0aUZYYlNveW9BX3NFdC1uV2NxQXRORDJPREJ6Wm5FVzVxdERoRmpwTl9RR0FQZHk?oc=5",
-    "source": "Salesforce AI",
+    "id": "666ddd711152",
+    "title": "Live at World Tour NYC: Meet the People Building Salesforce on Salesforce",
+    "url": "https://www.salesforce.com/blog/world-tour-new-york-executives-customer-zero/",
+    "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-11-20T16:30:47+00:00",
-    "summary": "Salesforce Heads Into Q3 With Agentforce In Focus Finimize",
-    "image_url": null,
+    "published": "2026-11-25T19:16:59+00:00",
+    "summary": "On December 3 at the Javits Center, get face time with the practitioners who run Salesforce on our own AI. See real demos, ask the hard questions, and leave with a plan.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/Dreamforce-SF-on-SF.jpg?w=7000",
     "tags": [],
     "industries": [
       "industrial"
     ],
-    "relevance_score": 9
+    "relevance_score": 10
   },
   {
     "id": "ed8e10e99459",
@@ -113,22 +98,6 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/agentforce-coworker-practical-jobs-og.png",
     "tags": [],
     "industries": [
-      "industrial"
-    ],
-    "relevance_score": 9
-  },
-  {
-    "id": "0faf68d43420",
-    "title": "Understanding Salesforce Connected App or External Client App Suspension",
-    "url": "https://www.salesforce.com/blog/understanding-salesforce-connected-app-or-external-client-app-suspension/",
-    "source": "Salesforce Blog",
-    "source_category": "salesforce",
-    "published": "2026-11-23T18:42:47+00:00",
-    "summary": "Many connected apps and external client apps are developed, maintained, and distributed by third parties on the AgentExchange and other marketplaces. Salesforce customers can choose to connect these third-party applications directly to their…",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2023/06/Frame-1-1.png",
-    "tags": [],
-    "industries": [
-      "tech",
       "industrial"
     ],
     "relevance_score": 9
@@ -149,19 +118,20 @@
     "relevance_score": 9
   },
   {
-    "id": "5a3ce0a9f0ab",
-    "title": "AI Lead Qualification: A Complete Guide to How It Works",
-    "url": "https://www.salesforce.com/blog/sales/lead-qualification-ai/",
+    "id": "0faf68d43420",
+    "title": "Understanding Salesforce Connected App or External Client App Suspension",
+    "url": "https://www.salesforce.com/blog/understanding-salesforce-connected-app-or-external-client-app-suspension/",
     "source": "Salesforce Blog",
     "source_category": "salesforce",
-    "published": "2026-11-24T21:33:49+00:00",
-    "summary": "Learn how to use AI to prioritize the hottest sales leads before they go cold.",
-    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/ai-lead-qualification.jpg",
+    "published": "2026-11-23T18:42:47+00:00",
+    "summary": "Many connected apps and external client apps are developed, maintained, and distributed by third parties on the AgentExchange and other marketplaces. Salesforce customers can choose to connect these third-party applications directly to their…",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2023/06/Frame-1-1.png",
     "tags": [],
     "industries": [
-      "media"
+      "tech",
+      "industrial"
     ],
-    "relevance_score": 9
+    "relevance_score": 8
   },
   {
     "id": "36831a92351c",
@@ -207,6 +177,21 @@
     "relevance_score": 8
   },
   {
+    "id": "5a3ce0a9f0ab",
+    "title": "AI Lead Qualification: A Complete Guide to How It Works",
+    "url": "https://www.salesforce.com/blog/sales/lead-qualification-ai/",
+    "source": "Salesforce Blog",
+    "source_category": "salesforce",
+    "published": "2026-11-24T21:33:49+00:00",
+    "summary": "Learn how to use AI to prioritize the hottest sales leads before they go cold.",
+    "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/11/ai-lead-qualification.jpg",
+    "tags": [],
+    "industries": [
+      "media"
+    ],
+    "relevance_score": 8
+  },
+  {
     "id": "bff82dca2372",
     "title": "Datablazer Roundup: November",
     "url": "https://www.salesforce.com/blog/datablazer-monthly-roundup/",
@@ -217,21 +202,6 @@
     "image_url": "https://www.salesforce.com/blog/wp-content/uploads/sites/2/2026/08/image1.png",
     "tags": [],
     "industries": [],
-    "relevance_score": 8
-  },
-  {
-    "id": "c7e3685fefa4",
-    "title": "Salesforce Set to Exceed Earnings Estimates Amid Low Bar, Agentforce Demand, Oppenheimer Says - marketscreener.com",
-    "url": "https://news.google.com/rss/articles/CBMi3AFBVV95cUxNSGw1N29rT0hZdVRnbC1wX2ltS1dUUV8tcmtkcjZaMENILTZrWDhfOU5IOXU5Y3Q2OEVGb1VPdy1pU0J3YllERU93Z0F2Wkd2aF93VjVNX2hLZkJXQ3psaVkwdTUyRFZwZzdJYWhiT0pIWHRqQlRhbUxXRGlmbDVCN01nLXNTT3hYLXhKcHU4TW44Nlp1RnF4eDNsdUNmeUY3T3ZOdi0wSU1NSWpsZXZSMGxjTDI0OURRcVdBVWtOMEJUeHBFQ1liS2RlZERQWDRFeHZjLUNzUmNEOW8z?oc=5",
-    "source": "Salesforce AI",
-    "source_category": "salesforce",
-    "published": "2026-11-20T17:12:21+00:00",
-    "summary": "Salesforce Set to Exceed Earnings Estimates Amid Low Bar, Agentforce Demand, Oppenheimer Says marketscreener.com",
-    "image_url": null,
-    "tags": [],
-    "industries": [
-      "industrial"
-    ],
     "relevance_score": 7
   },
   {
